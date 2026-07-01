@@ -1,0 +1,1283 @@
+[
+  {
+    "id": 2,
+    "township": "Township Pegasus",
+    "name": "ALTAMIRA BY VTP LUXE",
+    "location": "Kharadi, Pune",
+    "image": "/assets/projects/earth-1/hero.jpg",
+    "link": "https://vtprealty.in/projects/vtp-altamira-kharadi-pune",
+    "slug": "altamira-by-vtp-luxe",
+    "seoTitle": "ALTAMIRA BY VTP LUXE in Kharadi, Pune | VTP BLUEWATERS Ultra Luxury",
+    "seoDescription": "Discover ALTAMIRA BY VTP LUXE, an ultra-luxury residential masterpiece by VTP Realty located in Kharadi, Pune. Explore 2, 3 & 4 BHK premium configurations.",
+    "overview": "ALTAMIRA BY VTP LUXE sets a new global benchmark for luxury living in Kharadi, Pune. Designed strictly on the Maximum Livable Area (MLA) philosophy, every residence ensures zero space wastage, soaring ceilings, and panoramic views. Nestled within Township Pegasus, this architectural marvel seamlessly connects the tranquility of nature with the high-paced lifestyle of Kharadi, Pune. Experience world-class amenities, robust multi-tier security, and a community of like-minded elites.",
+    "amenities": [
+      {
+        "name": "30-Foot Cascading Waterfall Entrance",
+        "icon": "Waves"
+      },
+      {
+        "name": "Multi-Level Podium Parking",
+        "icon": "Building"
+      },
+      {
+        "name": "Premium EV Charging Provisions",
+        "icon": "Cpu"
+      }
+    ],
+    "specifications": [
+      {
+        "category": "Flooring",
+        "details": "Imported Marble in Living/Dining; Premium Wooden Laminate in Master Bedroom; Anti-skid Vitrified Tiles in Balconies."
+      },
+      {
+        "category": "Kitchen",
+        "details": "Engineered Quartz Countertop, SS Sink with Drainboard, Provision for Water Purifier and Exhaust Fan."
+      },
+      {
+        "category": "Bathrooms",
+        "details": "Grohe/Kohler Premium CP Fittings, Glass Partition in Master Bath, Designer Dado Tiles up to lintel level."
+      },
+      {
+        "category": "Security",
+        "details": "Video Door Phone, 5-Tier Security System, Digital Lock for Main Door, CCTV in Common Areas."
+      }
+    ],
+    "locationHighlights": [
+      {
+        "title": "Global IT Parks",
+        "distance": "10 Mins"
+      },
+      {
+        "title": "International Schools",
+        "distance": "5 Mins"
+      },
+      {
+        "title": "Upcoming Metro Station",
+        "distance": "2 Mins"
+      },
+      {
+        "title": "Mumbai-Bengaluru Highway",
+        "distance": "8 Mins"
+      },
+      {
+        "title": "Premium Healthcare",
+        "distance": "12 Mins"
+      }
+    ],
+    "masterLayout": "/assets/projects/earth-1/master-plan.jpg",
+    "floorPlans": [
+      {
+        "type": "3 BHK Luxury",
+        "carpetArea": "988 - 1447 Sq.Ft.",
+        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+      },
+      {
+        "type": "Simplex/Duplex",
+        "carpetArea": "Up to 2894 Sq.Ft.",
+        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+      }
+    ],
+    "maharera": [
+      "P52100079807"
+    ]
+  },
+  {
+    "id": 3,
+    "township": "Township BLUEWATERS",
+    "name": "MONARQUE BY VTP LUXE",
+    "location": "Hinjawadi,\u00a0Pune",
+    "image": "/assets/projects/earth-1/hero.jpg",
+    "link": "https://vtprealty.in/projects/vtp-monarque-hinjawadi-pune",
+    "slug": "monarque-by-vtp-luxe",
+    "seoTitle": "MONARQUE BY VTP LUXE in Hinjawadi,\u00a0Pune | VTP BLUEWATERS Ultra Luxury",
+    "seoDescription": "Discover MONARQUE BY VTP LUXE, an ultra-luxury residential masterpiece by VTP Realty located in the bustling IT hub of Hinjawadi. Explore 2, 3 & 4 BHK premium configurations.",
+    "overview": "MONARQUE BY VTP LUXE sets a new global benchmark for luxury living in Hinjawadi,\u00a0Pune. Designed strictly on the Maximum Livable Area (MLA) philosophy, every residence ensures zero space wastage, soaring ceilings, and panoramic views. Nestled within Township BLUEWATERS, this architectural marvel seamlessly connects the tranquility of nature with the high-paced lifestyle of the bustling IT hub of Hinjawadi. Experience world-class amenities, robust multi-tier security, and a community of like-minded elites.",
+    "amenities": [
+      {
+        "name": "600-Meter High-Street Retail",
+        "icon": "Briefcase"
+      },
+      {
+        "name": "9-Acre Vehicle-Free Amenity Zone",
+        "icon": "Leaf"
+      },
+      {
+        "name": "Dual Lavish Clubhouses",
+        "icon": "Building"
+      },
+      {
+        "name": "Infinity Edge Pool",
+        "icon": "Waves"
+      }
+    ],
+    "specifications": [
+      {
+        "category": "Flooring",
+        "details": "Imported Marble in Living/Dining; Premium Wooden Laminate in Master Bedroom; Anti-skid Vitrified Tiles in Balconies."
+      },
+      {
+        "category": "Kitchen",
+        "details": "Engineered Quartz Countertop, SS Sink with Drainboard, Provision for Water Purifier and Exhaust Fan."
+      },
+      {
+        "category": "Bathrooms",
+        "details": "Grohe/Kohler Premium CP Fittings, Glass Partition in Master Bath, Designer Dado Tiles up to lintel level."
+      },
+      {
+        "category": "Security",
+        "details": "Video Door Phone, 5-Tier Security System, Digital Lock for Main Door, CCTV in Common Areas."
+      }
+    ],
+    "locationHighlights": [
+      {
+        "title": "Global IT Parks",
+        "distance": "10 Mins"
+      },
+      {
+        "title": "International Schools",
+        "distance": "5 Mins"
+      },
+      {
+        "title": "Upcoming Metro Station",
+        "distance": "2 Mins"
+      },
+      {
+        "title": "Mumbai-Bengaluru Highway",
+        "distance": "8 Mins"
+      },
+      {
+        "title": "Premium Healthcare",
+        "distance": "12 Mins"
+      }
+    ],
+    "masterLayout": "/assets/projects/earth-1/master-plan.jpg",
+    "floorPlans": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "780 - 860 Sq.Ft.",
+        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "951 - 1490 Sq.Ft.",
+        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+      },
+      {
+        "type": "4.5 BHK Mansions",
+        "carpetArea": "1610 - 2980 Sq.Ft.",
+        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+      }
+    ],
+    "maharera": [
+      "P52100077322"
+    ]
+  },
+  {
+    "id": 4,
+    "township": "Township BLUEWATERS",
+    "name": "EARTH 1 BY VTP LUXE",
+    "location": "Mahalunge, Pune",
+    "image": "/assets/projects/earth-1/hero.jpg",
+    "link": "https://vtprealty.in/projects/earth-one-by-vtp-luxe-mahalunge-pune",
+    "slug": "earth-1-by-vtp-luxe",
+    "seoTitle": "EARTH 1 BY VTP LUXE in Mahalunge, Pune | VTP BLUEWATERS Ultra Luxury",
+    "seoDescription": "Discover EARTH 1 BY VTP LUXE, an ultra-luxury residential masterpiece by VTP Realty located in the serene landscapes of Mahalunge. Explore 2, 3 & 4 BHK premium configurations.",
+    "overview": "EARTH 1 BY VTP LUXE sets a new global benchmark for luxury living in Mahalunge, Pune. Designed strictly on the Maximum Livable Area (MLA) philosophy, every residence ensures zero space wastage, soaring ceilings, and panoramic views. Nestled within Township BLUEWATERS, this architectural marvel seamlessly connects the tranquility of nature with the high-paced lifestyle of the serene landscapes of Mahalunge. Experience world-class amenities, robust multi-tier security, and a community of like-minded elites.",
+    "amenities": [
+      {
+        "name": "Riverside Promenade & Amphitheater",
+        "icon": "Waves"
+      },
+      {
+        "name": "Multi-Sport Professional Centers",
+        "icon": "Dumbbell"
+      },
+      {
+        "name": "Advanced Smart Home Automation",
+        "icon": "Cpu"
+      },
+      {
+        "name": "5-Star Clubhouse",
+        "icon": "Building"
+      }
+    ],
+    "specifications": [
+      {
+        "category": "Flooring",
+        "details": "Imported Marble in Living/Dining; Premium Wooden Laminate in Master Bedroom; Anti-skid Vitrified Tiles in Balconies."
+      },
+      {
+        "category": "Kitchen",
+        "details": "Engineered Quartz Countertop, SS Sink with Drainboard, Provision for Water Purifier and Exhaust Fan."
+      },
+      {
+        "category": "Bathrooms",
+        "details": "Grohe/Kohler Premium CP Fittings, Glass Partition in Master Bath, Designer Dado Tiles up to lintel level."
+      },
+      {
+        "category": "Security",
+        "details": "Video Door Phone, 5-Tier Security System, Digital Lock for Main Door, CCTV in Common Areas."
+      }
+    ],
+    "locationHighlights": [
+      {
+        "title": "Global IT Parks",
+        "distance": "10 Mins"
+      },
+      {
+        "title": "International Schools",
+        "distance": "5 Mins"
+      },
+      {
+        "title": "Upcoming Metro Station",
+        "distance": "2 Mins"
+      },
+      {
+        "title": "Mumbai-Bengaluru Highway",
+        "distance": "8 Mins"
+      },
+      {
+        "title": "Premium Healthcare",
+        "distance": "12 Mins"
+      }
+    ],
+    "masterLayout": "/assets/projects/earth-1/master-plan.jpg",
+    "floorPlans": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "667 - 1250 Sq.Ft.",
+        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "922 - 1446 Sq.Ft.",
+        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1766 - 1770+ Sq.Ft.",
+        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+      },
+      {
+        "type": "Simplex/Duplex",
+        "carpetArea": "Up to 3500 Sq.Ft.",
+        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+      }
+    ],
+    "maharera": [
+      "P52100048489",
+      "P52100051025",
+      "P52100052414"
+    ]
+  },
+  {
+    "id": 5,
+    "township": "Township Pegasus",
+    "name": "FLAMANTE BY VTP LUXE",
+    "location": "Kharadi, Pune",
+    "image": "/assets/projects/earth-1/hero.jpg",
+    "link": "https://vtprealty.in/projects/flamante-by-vtp-luxe-kharadi-pune",
+    "slug": "flamante-by-vtp-luxe",
+    "seoTitle": "FLAMANTE BY VTP LUXE in Kharadi, Pune | VTP BLUEWATERS Ultra Luxury",
+    "seoDescription": "Discover FLAMANTE BY VTP LUXE, an ultra-luxury residential masterpiece by VTP Realty located in Kharadi, Pune. Explore 2, 3 & 4 BHK premium configurations.",
+    "overview": "FLAMANTE BY VTP LUXE sets a new global benchmark for luxury living in Kharadi, Pune. Designed strictly on the Maximum Livable Area (MLA) philosophy, every residence ensures zero space wastage, soaring ceilings, and panoramic views. Nestled within Township Pegasus, this architectural marvel seamlessly connects the tranquility of nature with the high-paced lifestyle of Kharadi, Pune. Experience world-class amenities, robust multi-tier security, and a community of like-minded elites.",
+    "amenities": [
+      {
+        "name": "Exclusive Club FLAMANTE",
+        "icon": "Building"
+      },
+      {
+        "name": "Aroma Gardens",
+        "icon": "Leaf"
+      },
+      {
+        "name": "Temperature Controlled Pool",
+        "icon": "Waves"
+      },
+      {
+        "name": "Smart Security Grid",
+        "icon": "Cpu"
+      }
+    ],
+    "specifications": [
+      {
+        "category": "Flooring",
+        "details": "Imported Marble in Living/Dining; Premium Wooden Laminate in Master Bedroom; Anti-skid Vitrified Tiles in Balconies."
+      },
+      {
+        "category": "Kitchen",
+        "details": "Engineered Quartz Countertop, SS Sink with Drainboard, Provision for Water Purifier and Exhaust Fan."
+      },
+      {
+        "category": "Bathrooms",
+        "details": "Grohe/Kohler Premium CP Fittings, Glass Partition in Master Bath, Designer Dado Tiles up to lintel level."
+      },
+      {
+        "category": "Security",
+        "details": "Video Door Phone, 5-Tier Security System, Digital Lock for Main Door, CCTV in Common Areas."
+      }
+    ],
+    "locationHighlights": [
+      {
+        "title": "Global IT Parks",
+        "distance": "10 Mins"
+      },
+      {
+        "title": "International Schools",
+        "distance": "5 Mins"
+      },
+      {
+        "title": "Upcoming Metro Station",
+        "distance": "2 Mins"
+      },
+      {
+        "title": "Mumbai-Bengaluru Highway",
+        "distance": "8 Mins"
+      },
+      {
+        "title": "Premium Healthcare",
+        "distance": "12 Mins"
+      }
+    ],
+    "masterLayout": "/assets/projects/earth-1/master-plan.jpg",
+    "floorPlans": [
+      {
+        "type": "2 BHK Premium",
+        "carpetArea": "775 - 925 Sq.Ft.",
+        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+      },
+      {
+        "type": "3 BHK Luxury",
+        "carpetArea": "1075 - 1255 Sq.Ft.",
+        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+      },
+      {
+        "type": "4 BHK Mansion",
+        "carpetArea": "1475+ Sq.Ft.",
+        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+      }
+    ],
+    "maharera": [
+      "P52100051826"
+    ]
+  },
+  {
+    "id": 6,
+    "township": "Township Pegasus",
+    "name": "VELVET VILLAS BY VTP LUXE",
+    "location": "Kharadi, Pune",
+    "image": "/assets/projects/earth-1/hero.jpg",
+    "link": "https://vtprealty.in/projects/velvet-villas-by-vtp-luxe-kharadi-pune",
+    "slug": "velvet-villas-by-vtp-luxe",
+    "seoTitle": "VELVET VILLAS BY VTP LUXE in Kharadi, Pune | VTP BLUEWATERS Ultra Luxury",
+    "seoDescription": "Discover VELVET VILLAS BY VTP LUXE, an ultra-luxury residential masterpiece by VTP Realty located in Kharadi, Pune. Explore 2, 3 & 4 BHK premium configurations.",
+    "overview": "VELVET VILLAS BY VTP LUXE sets a new global benchmark for luxury living in Kharadi, Pune. Designed strictly on the Maximum Livable Area (MLA) philosophy, every residence ensures zero space wastage, soaring ceilings, and panoramic views. Nestled within Township Pegasus, this architectural marvel seamlessly connects the tranquility of nature with the high-paced lifestyle of Kharadi, Pune. Experience world-class amenities, robust multi-tier security, and a community of like-minded elites.",
+    "amenities": [
+      {
+        "name": "Exclusive Club VELVET",
+        "icon": "Building"
+      },
+      {
+        "name": "Aroma Gardens",
+        "icon": "Leaf"
+      },
+      {
+        "name": "Temperature Controlled Pool",
+        "icon": "Waves"
+      },
+      {
+        "name": "Smart Security Grid",
+        "icon": "Cpu"
+      }
+    ],
+    "specifications": [
+      {
+        "category": "Flooring",
+        "details": "Imported Marble in Living/Dining; Premium Wooden Laminate in Master Bedroom; Anti-skid Vitrified Tiles in Balconies."
+      },
+      {
+        "category": "Kitchen",
+        "details": "Engineered Quartz Countertop, SS Sink with Drainboard, Provision for Water Purifier and Exhaust Fan."
+      },
+      {
+        "category": "Bathrooms",
+        "details": "Grohe/Kohler Premium CP Fittings, Glass Partition in Master Bath, Designer Dado Tiles up to lintel level."
+      },
+      {
+        "category": "Security",
+        "details": "Video Door Phone, 5-Tier Security System, Digital Lock for Main Door, CCTV in Common Areas."
+      }
+    ],
+    "locationHighlights": [
+      {
+        "title": "Global IT Parks",
+        "distance": "10 Mins"
+      },
+      {
+        "title": "International Schools",
+        "distance": "5 Mins"
+      },
+      {
+        "title": "Upcoming Metro Station",
+        "distance": "2 Mins"
+      },
+      {
+        "title": "Mumbai-Bengaluru Highway",
+        "distance": "8 Mins"
+      },
+      {
+        "title": "Premium Healthcare",
+        "distance": "12 Mins"
+      }
+    ],
+    "masterLayout": "/assets/projects/earth-1/master-plan.jpg",
+    "floorPlans": [
+      {
+        "type": "2 BHK Premium",
+        "carpetArea": "790 - 940 Sq.Ft.",
+        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+      },
+      {
+        "type": "3 BHK Luxury",
+        "carpetArea": "1090 - 1270 Sq.Ft.",
+        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+      },
+      {
+        "type": "4 BHK Mansion",
+        "carpetArea": "1490+ Sq.Ft.",
+        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+      }
+    ],
+    "maharera": [
+      "P52100031829",
+      "P52100047370"
+    ]
+  },
+  {
+    "id": 7,
+    "township": "Township",
+    "name": "CIELO BY VTP LUXE",
+    "location": "Bavdhan, Pune",
+    "image": "/assets/projects/earth-1/hero.jpg",
+    "link": "https://vtprealty.in/projects/vtp-cielo-bavdhan-pune",
+    "slug": "cielo-by-vtp-luxe",
+    "seoTitle": "CIELO BY VTP LUXE in Bavdhan, Pune | VTP BLUEWATERS Ultra Luxury",
+    "seoDescription": "Discover CIELO BY VTP LUXE, an ultra-luxury residential masterpiece by VTP Realty located in Bavdhan, Pune. Explore 2, 3 & 4 BHK premium configurations.",
+    "overview": "CIELO BY VTP LUXE sets a new global benchmark for luxury living in Bavdhan, Pune. Designed strictly on the Maximum Livable Area (MLA) philosophy, every residence ensures zero space wastage, soaring ceilings, and panoramic views. Nestled within Township, this architectural marvel seamlessly connects the tranquility of nature with the high-paced lifestyle of Bavdhan, Pune. Experience world-class amenities, robust multi-tier security, and a community of like-minded elites.",
+    "amenities": [
+      {
+        "name": "Exclusive Club CIELO",
+        "icon": "Building"
+      },
+      {
+        "name": "Aroma Gardens",
+        "icon": "Leaf"
+      },
+      {
+        "name": "Temperature Controlled Pool",
+        "icon": "Waves"
+      },
+      {
+        "name": "Smart Security Grid",
+        "icon": "Cpu"
+      }
+    ],
+    "specifications": [
+      {
+        "category": "Flooring",
+        "details": "Imported Marble in Living/Dining; Premium Wooden Laminate in Master Bedroom; Anti-skid Vitrified Tiles in Balconies."
+      },
+      {
+        "category": "Kitchen",
+        "details": "Engineered Quartz Countertop, SS Sink with Drainboard, Provision for Water Purifier and Exhaust Fan."
+      },
+      {
+        "category": "Bathrooms",
+        "details": "Grohe/Kohler Premium CP Fittings, Glass Partition in Master Bath, Designer Dado Tiles up to lintel level."
+      },
+      {
+        "category": "Security",
+        "details": "Video Door Phone, 5-Tier Security System, Digital Lock for Main Door, CCTV in Common Areas."
+      }
+    ],
+    "locationHighlights": [
+      {
+        "title": "Global IT Parks",
+        "distance": "10 Mins"
+      },
+      {
+        "title": "International Schools",
+        "distance": "5 Mins"
+      },
+      {
+        "title": "Upcoming Metro Station",
+        "distance": "2 Mins"
+      },
+      {
+        "title": "Mumbai-Bengaluru Highway",
+        "distance": "8 Mins"
+      },
+      {
+        "title": "Premium Healthcare",
+        "distance": "12 Mins"
+      }
+    ],
+    "masterLayout": "/assets/projects/earth-1/master-plan.jpg",
+    "floorPlans": [
+      {
+        "type": "2 BHK Premium",
+        "carpetArea": "805 - 955 Sq.Ft.",
+        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+      },
+      {
+        "type": "3 BHK Luxury",
+        "carpetArea": "1105 - 1285 Sq.Ft.",
+        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+      },
+      {
+        "type": "4 BHK Mansion",
+        "carpetArea": "1505+ Sq.Ft.",
+        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+      }
+    ],
+    "maharera": [
+      "P52100056310"
+    ]
+  },
+  {
+    "id": 11,
+    "township": "Township Pegasus",
+    "name": "VTP AURELIA",
+    "location": "Kharadi, Pune",
+    "image": "/assets/projects/earth-1/hero.jpg",
+    "link": "https://vtprealty.in/projects/vtp-aurelia-kharadi-pune",
+    "slug": "vtp-aurelia",
+    "seoTitle": "VTP AURELIA in Kharadi, Pune | VTP BLUEWATERS Ultra Luxury",
+    "seoDescription": "Discover VTP AURELIA, an ultra-luxury residential masterpiece by VTP Realty located in Kharadi, Pune. Explore 2, 3 & 4 BHK premium configurations.",
+    "overview": "VTP AURELIA sets a new global benchmark for luxury living in Kharadi, Pune. Designed strictly on the Maximum Livable Area (MLA) philosophy, every residence ensures zero space wastage, soaring ceilings, and panoramic views. Nestled within Township Pegasus, this architectural marvel seamlessly connects the tranquility of nature with the high-paced lifestyle of Kharadi, Pune. Experience world-class amenities, robust multi-tier security, and a community of like-minded elites.",
+    "amenities": [
+      {
+        "name": "Exclusive Club VTP",
+        "icon": "Building"
+      },
+      {
+        "name": "Aroma Gardens",
+        "icon": "Leaf"
+      },
+      {
+        "name": "Temperature Controlled Pool",
+        "icon": "Waves"
+      },
+      {
+        "name": "Smart Security Grid",
+        "icon": "Cpu"
+      }
+    ],
+    "specifications": [
+      {
+        "category": "Flooring",
+        "details": "Imported Marble in Living/Dining; Premium Wooden Laminate in Master Bedroom; Anti-skid Vitrified Tiles in Balconies."
+      },
+      {
+        "category": "Kitchen",
+        "details": "Engineered Quartz Countertop, SS Sink with Drainboard, Provision for Water Purifier and Exhaust Fan."
+      },
+      {
+        "category": "Bathrooms",
+        "details": "Grohe/Kohler Premium CP Fittings, Glass Partition in Master Bath, Designer Dado Tiles up to lintel level."
+      },
+      {
+        "category": "Security",
+        "details": "Video Door Phone, 5-Tier Security System, Digital Lock for Main Door, CCTV in Common Areas."
+      }
+    ],
+    "locationHighlights": [
+      {
+        "title": "Global IT Parks",
+        "distance": "10 Mins"
+      },
+      {
+        "title": "International Schools",
+        "distance": "5 Mins"
+      },
+      {
+        "title": "Upcoming Metro Station",
+        "distance": "2 Mins"
+      },
+      {
+        "title": "Mumbai-Bengaluru Highway",
+        "distance": "8 Mins"
+      },
+      {
+        "title": "Premium Healthcare",
+        "distance": "12 Mins"
+      }
+    ],
+    "masterLayout": "/assets/projects/earth-1/master-plan.jpg",
+    "floorPlans": [
+      {
+        "type": "2 BHK Premium",
+        "carpetArea": "865 - 1015 Sq.Ft.",
+        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+      },
+      {
+        "type": "3 BHK Luxury",
+        "carpetArea": "1165 - 1345 Sq.Ft.",
+        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+      },
+      {
+        "type": "4 BHK Mansion",
+        "carpetArea": "1565+ Sq.Ft.",
+        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+      }
+    ],
+    "maharera": [
+      "Awaited"
+    ]
+  },
+  {
+    "id": 13,
+    "township": "Township BLUEWATERS",
+    "name": "VTP VOLARE",
+    "location": "Hinjawadi, Pune",
+    "image": "/assets/projects/earth-1/hero.jpg",
+    "link": "https://vtprealty.in/projects/vtp-volare-hinjawadi-pune",
+    "slug": "vtp-volare",
+    "seoTitle": "VTP VOLARE in Hinjawadi, Pune | VTP BLUEWATERS Ultra Luxury",
+    "seoDescription": "Discover VTP VOLARE, an ultra-luxury residential masterpiece by VTP Realty located in the bustling IT hub of Hinjawadi. Explore 2, 3 & 4 BHK premium configurations.",
+    "overview": "VTP VOLARE sets a new global benchmark for luxury living in Hinjawadi, Pune. Designed strictly on the Maximum Livable Area (MLA) philosophy, every residence ensures zero space wastage, soaring ceilings, and panoramic views. Nestled within Township BLUEWATERS, this architectural marvel seamlessly connects the tranquility of nature with the high-paced lifestyle of the bustling IT hub of Hinjawadi. Experience world-class amenities, robust multi-tier security, and a community of like-minded elites.",
+    "amenities": [
+      {
+        "name": "Exclusive Club VTP",
+        "icon": "Building"
+      },
+      {
+        "name": "Aroma Gardens",
+        "icon": "Leaf"
+      },
+      {
+        "name": "Temperature Controlled Pool",
+        "icon": "Waves"
+      },
+      {
+        "name": "Smart Security Grid",
+        "icon": "Cpu"
+      }
+    ],
+    "specifications": [
+      {
+        "category": "Flooring",
+        "details": "Imported Marble in Living/Dining; Premium Wooden Laminate in Master Bedroom; Anti-skid Vitrified Tiles in Balconies."
+      },
+      {
+        "category": "Kitchen",
+        "details": "Engineered Quartz Countertop, SS Sink with Drainboard, Provision for Water Purifier and Exhaust Fan."
+      },
+      {
+        "category": "Bathrooms",
+        "details": "Grohe/Kohler Premium CP Fittings, Glass Partition in Master Bath, Designer Dado Tiles up to lintel level."
+      },
+      {
+        "category": "Security",
+        "details": "Video Door Phone, 5-Tier Security System, Digital Lock for Main Door, CCTV in Common Areas."
+      }
+    ],
+    "locationHighlights": [
+      {
+        "title": "Global IT Parks",
+        "distance": "10 Mins"
+      },
+      {
+        "title": "International Schools",
+        "distance": "5 Mins"
+      },
+      {
+        "title": "Upcoming Metro Station",
+        "distance": "2 Mins"
+      },
+      {
+        "title": "Mumbai-Bengaluru Highway",
+        "distance": "8 Mins"
+      },
+      {
+        "title": "Premium Healthcare",
+        "distance": "12 Mins"
+      }
+    ],
+    "masterLayout": "/assets/projects/earth-1/master-plan.jpg",
+    "floorPlans": [
+      {
+        "type": "2 BHK Premium",
+        "carpetArea": "895 - 1045 Sq.Ft.",
+        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+      },
+      {
+        "type": "3 BHK Luxury",
+        "carpetArea": "1195 - 1375 Sq.Ft.",
+        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+      },
+      {
+        "type": "4 BHK Mansion",
+        "carpetArea": "1595+ Sq.Ft.",
+        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+      }
+    ],
+    "maharera": [
+      "PR1260002400020"
+    ]
+  },
+  {
+    "id": 15,
+    "township": "Township Skylights",
+    "name": "VTP VERVE",
+    "location": "Baner Sus Road, Pune",
+    "image": "/assets/projects/earth-1/hero.jpg",
+    "link": "https://vtprealty.in/projects/vtp-verve-baner-sus-pune",
+    "slug": "vtp-verve",
+    "seoTitle": "VTP VERVE in Baner Sus Road, Pune | VTP BLUEWATERS Ultra Luxury",
+    "seoDescription": "Discover VTP VERVE, an ultra-luxury residential masterpiece by VTP Realty located in Baner Sus Road, Pune. Explore 2, 3 & 4 BHK premium configurations.",
+    "overview": "VTP VERVE sets a new global benchmark for luxury living in Baner Sus Road, Pune. Designed strictly on the Maximum Livable Area (MLA) philosophy, every residence ensures zero space wastage, soaring ceilings, and panoramic views. Nestled within Township Skylights, this architectural marvel seamlessly connects the tranquility of nature with the high-paced lifestyle of Baner Sus Road, Pune. Experience world-class amenities, robust multi-tier security, and a community of like-minded elites.",
+    "amenities": [
+      {
+        "name": "Exclusive Club VTP",
+        "icon": "Building"
+      },
+      {
+        "name": "Aroma Gardens",
+        "icon": "Leaf"
+      },
+      {
+        "name": "Temperature Controlled Pool",
+        "icon": "Waves"
+      },
+      {
+        "name": "Smart Security Grid",
+        "icon": "Cpu"
+      }
+    ],
+    "specifications": [
+      {
+        "category": "Flooring",
+        "details": "Imported Marble in Living/Dining; Premium Wooden Laminate in Master Bedroom; Anti-skid Vitrified Tiles in Balconies."
+      },
+      {
+        "category": "Kitchen",
+        "details": "Engineered Quartz Countertop, SS Sink with Drainboard, Provision for Water Purifier and Exhaust Fan."
+      },
+      {
+        "category": "Bathrooms",
+        "details": "Grohe/Kohler Premium CP Fittings, Glass Partition in Master Bath, Designer Dado Tiles up to lintel level."
+      },
+      {
+        "category": "Security",
+        "details": "Video Door Phone, 5-Tier Security System, Digital Lock for Main Door, CCTV in Common Areas."
+      }
+    ],
+    "locationHighlights": [
+      {
+        "title": "Global IT Parks",
+        "distance": "10 Mins"
+      },
+      {
+        "title": "International Schools",
+        "distance": "5 Mins"
+      },
+      {
+        "title": "Upcoming Metro Station",
+        "distance": "2 Mins"
+      },
+      {
+        "title": "Mumbai-Bengaluru Highway",
+        "distance": "8 Mins"
+      },
+      {
+        "title": "Premium Healthcare",
+        "distance": "12 Mins"
+      }
+    ],
+    "masterLayout": "/assets/projects/earth-1/master-plan.jpg",
+    "floorPlans": [
+      {
+        "type": "2 BHK Premium",
+        "carpetArea": "925 - 1075 Sq.Ft.",
+        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+      },
+      {
+        "type": "3 BHK Luxury",
+        "carpetArea": "1225 - 1405 Sq.Ft.",
+        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+      },
+      {
+        "type": "4 BHK Mansion",
+        "carpetArea": "1625+ Sq.Ft.",
+        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+      }
+    ],
+    "maharera": [
+      "P52100031556"
+    ]
+  },
+  {
+    "id": 18,
+    "township": "Township Pegasus",
+    "name": "VTP DOLCE VITA",
+    "location": "New Kharadi, Pune",
+    "image": "/assets/projects/earth-1/hero.jpg",
+    "link": "https://vtprealty.in/projects/vtp-dolce-vita-kharadi-pune",
+    "slug": "vtp-dolce-vita",
+    "seoTitle": "VTP DOLCE VITA in New Kharadi, Pune | VTP BLUEWATERS Ultra Luxury",
+    "seoDescription": "Discover VTP DOLCE VITA, an ultra-luxury residential masterpiece by VTP Realty located in New Kharadi, Pune. Explore 2, 3 & 4 BHK premium configurations.",
+    "overview": "VTP DOLCE VITA sets a new global benchmark for luxury living in New Kharadi, Pune. Designed strictly on the Maximum Livable Area (MLA) philosophy, every residence ensures zero space wastage, soaring ceilings, and panoramic views. Nestled within Township Pegasus, this architectural marvel seamlessly connects the tranquility of nature with the high-paced lifestyle of New Kharadi, Pune. Experience world-class amenities, robust multi-tier security, and a community of like-minded elites.",
+    "amenities": [
+      {
+        "name": "Exclusive Club VTP",
+        "icon": "Building"
+      },
+      {
+        "name": "Aroma Gardens",
+        "icon": "Leaf"
+      },
+      {
+        "name": "Temperature Controlled Pool",
+        "icon": "Waves"
+      },
+      {
+        "name": "Smart Security Grid",
+        "icon": "Cpu"
+      }
+    ],
+    "specifications": [
+      {
+        "category": "Flooring",
+        "details": "Imported Marble in Living/Dining; Premium Wooden Laminate in Master Bedroom; Anti-skid Vitrified Tiles in Balconies."
+      },
+      {
+        "category": "Kitchen",
+        "details": "Engineered Quartz Countertop, SS Sink with Drainboard, Provision for Water Purifier and Exhaust Fan."
+      },
+      {
+        "category": "Bathrooms",
+        "details": "Grohe/Kohler Premium CP Fittings, Glass Partition in Master Bath, Designer Dado Tiles up to lintel level."
+      },
+      {
+        "category": "Security",
+        "details": "Video Door Phone, 5-Tier Security System, Digital Lock for Main Door, CCTV in Common Areas."
+      }
+    ],
+    "locationHighlights": [
+      {
+        "title": "Global IT Parks",
+        "distance": "10 Mins"
+      },
+      {
+        "title": "International Schools",
+        "distance": "5 Mins"
+      },
+      {
+        "title": "Upcoming Metro Station",
+        "distance": "2 Mins"
+      },
+      {
+        "title": "Mumbai-Bengaluru Highway",
+        "distance": "8 Mins"
+      },
+      {
+        "title": "Premium Healthcare",
+        "distance": "12 Mins"
+      }
+    ],
+    "masterLayout": "/assets/projects/earth-1/master-plan.jpg",
+    "floorPlans": [
+      {
+        "type": "2 BHK Premium",
+        "carpetArea": "970 - 1120 Sq.Ft.",
+        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+      },
+      {
+        "type": "3 BHK Luxury",
+        "carpetArea": "1270 - 1450 Sq.Ft.",
+        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+      },
+      {
+        "type": "4 BHK Mansion",
+        "carpetArea": "1670+ Sq.Ft.",
+        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+      }
+    ],
+    "maharera": [
+      "P52100051819",
+      "P52100055405",
+      "P52100055407",
+      "P52100055619"
+    ]
+  },
+  {
+    "id": 19,
+    "township": "Township Pegasus",
+    "name": "VTP EUPHORIA",
+    "location": "New Kharadi, Pune",
+    "image": "/assets/projects/earth-1/hero.jpg",
+    "link": "https://vtprealty.in/projects/vtp-euphoria-kharadi-pune",
+    "slug": "vtp-euphoria",
+    "seoTitle": "VTP EUPHORIA in New Kharadi, Pune | VTP BLUEWATERS Ultra Luxury",
+    "seoDescription": "Discover VTP EUPHORIA, an ultra-luxury residential masterpiece by VTP Realty located in New Kharadi, Pune. Explore 2, 3 & 4 BHK premium configurations.",
+    "overview": "VTP EUPHORIA sets a new global benchmark for luxury living in New Kharadi, Pune. Designed strictly on the Maximum Livable Area (MLA) philosophy, every residence ensures zero space wastage, soaring ceilings, and panoramic views. Nestled within Township Pegasus, this architectural marvel seamlessly connects the tranquility of nature with the high-paced lifestyle of New Kharadi, Pune. Experience world-class amenities, robust multi-tier security, and a community of like-minded elites.",
+    "amenities": [
+      {
+        "name": "Exclusive Club VTP",
+        "icon": "Building"
+      },
+      {
+        "name": "Aroma Gardens",
+        "icon": "Leaf"
+      },
+      {
+        "name": "Temperature Controlled Pool",
+        "icon": "Waves"
+      },
+      {
+        "name": "Smart Security Grid",
+        "icon": "Cpu"
+      }
+    ],
+    "specifications": [
+      {
+        "category": "Flooring",
+        "details": "Imported Marble in Living/Dining; Premium Wooden Laminate in Master Bedroom; Anti-skid Vitrified Tiles in Balconies."
+      },
+      {
+        "category": "Kitchen",
+        "details": "Engineered Quartz Countertop, SS Sink with Drainboard, Provision for Water Purifier and Exhaust Fan."
+      },
+      {
+        "category": "Bathrooms",
+        "details": "Grohe/Kohler Premium CP Fittings, Glass Partition in Master Bath, Designer Dado Tiles up to lintel level."
+      },
+      {
+        "category": "Security",
+        "details": "Video Door Phone, 5-Tier Security System, Digital Lock for Main Door, CCTV in Common Areas."
+      }
+    ],
+    "locationHighlights": [
+      {
+        "title": "Global IT Parks",
+        "distance": "10 Mins"
+      },
+      {
+        "title": "International Schools",
+        "distance": "5 Mins"
+      },
+      {
+        "title": "Upcoming Metro Station",
+        "distance": "2 Mins"
+      },
+      {
+        "title": "Mumbai-Bengaluru Highway",
+        "distance": "8 Mins"
+      },
+      {
+        "title": "Premium Healthcare",
+        "distance": "12 Mins"
+      }
+    ],
+    "masterLayout": "/assets/projects/earth-1/master-plan.jpg",
+    "floorPlans": [
+      {
+        "type": "2 BHK Premium",
+        "carpetArea": "985 - 1135 Sq.Ft.",
+        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+      },
+      {
+        "type": "3 BHK Luxury",
+        "carpetArea": "1285 - 1465 Sq.Ft.",
+        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+      },
+      {
+        "type": "4 BHK Mansion",
+        "carpetArea": "1685+ Sq.Ft.",
+        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+      }
+    ],
+    "maharera": [
+      "P52100031691",
+      "P52100045848",
+      "P52100047312",
+      "P52100049849"
+    ]
+  },
+  {
+    "id": 20,
+    "township": "Township Skylights",
+    "name": "VTP SIERRA",
+    "location": "Baner Sus Road, Pune",
+    "image": "/assets/projects/earth-1/hero.jpg",
+    "link": "https://vtprealty.in/projects/vtp-sierra-baner-sus-pune",
+    "slug": "vtp-sierra",
+    "seoTitle": "VTP SIERRA in Baner Sus Road, Pune | VTP BLUEWATERS Ultra Luxury",
+    "seoDescription": "Discover VTP SIERRA, an ultra-luxury residential masterpiece by VTP Realty located in Baner Sus Road, Pune. Explore 2, 3 & 4 BHK premium configurations.",
+    "overview": "VTP SIERRA sets a new global benchmark for luxury living in Baner Sus Road, Pune. Designed strictly on the Maximum Livable Area (MLA) philosophy, every residence ensures zero space wastage, soaring ceilings, and panoramic views. Nestled within Township Skylights, this architectural marvel seamlessly connects the tranquility of nature with the high-paced lifestyle of Baner Sus Road, Pune. Experience world-class amenities, robust multi-tier security, and a community of like-minded elites.",
+    "amenities": [
+      {
+        "name": "Exclusive Club VTP",
+        "icon": "Building"
+      },
+      {
+        "name": "Aroma Gardens",
+        "icon": "Leaf"
+      },
+      {
+        "name": "Temperature Controlled Pool",
+        "icon": "Waves"
+      },
+      {
+        "name": "Smart Security Grid",
+        "icon": "Cpu"
+      }
+    ],
+    "specifications": [
+      {
+        "category": "Flooring",
+        "details": "Imported Marble in Living/Dining; Premium Wooden Laminate in Master Bedroom; Anti-skid Vitrified Tiles in Balconies."
+      },
+      {
+        "category": "Kitchen",
+        "details": "Engineered Quartz Countertop, SS Sink with Drainboard, Provision for Water Purifier and Exhaust Fan."
+      },
+      {
+        "category": "Bathrooms",
+        "details": "Grohe/Kohler Premium CP Fittings, Glass Partition in Master Bath, Designer Dado Tiles up to lintel level."
+      },
+      {
+        "category": "Security",
+        "details": "Video Door Phone, 5-Tier Security System, Digital Lock for Main Door, CCTV in Common Areas."
+      }
+    ],
+    "locationHighlights": [
+      {
+        "title": "Global IT Parks",
+        "distance": "10 Mins"
+      },
+      {
+        "title": "International Schools",
+        "distance": "5 Mins"
+      },
+      {
+        "title": "Upcoming Metro Station",
+        "distance": "2 Mins"
+      },
+      {
+        "title": "Mumbai-Bengaluru Highway",
+        "distance": "8 Mins"
+      },
+      {
+        "title": "Premium Healthcare",
+        "distance": "12 Mins"
+      }
+    ],
+    "masterLayout": "/assets/projects/earth-1/master-plan.jpg",
+    "floorPlans": [
+      {
+        "type": "2 BHK Premium",
+        "carpetArea": "1000 - 1150 Sq.Ft.",
+        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+      },
+      {
+        "type": "3 BHK Luxury",
+        "carpetArea": "1300 - 1480 Sq.Ft.",
+        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+      },
+      {
+        "type": "4 BHK Mansion",
+        "carpetArea": "1700+ Sq.Ft.",
+        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+      }
+    ],
+    "maharera": [
+      "P52100028378",
+      "P52100029394"
+    ]
+  },
+  {
+    "id": 21,
+    "township": "Township",
+    "name": "ALTITUDE",
+    "location": "Wakad, Pune",
+    "image": "/assets/projects/earth-1/hero.jpg",
+    "link": "https://vtprealty.in/projects/vtp-altitude-wakad-pune",
+    "slug": "altitude",
+    "seoTitle": "ALTITUDE in Wakad, Pune | VTP BLUEWATERS Ultra Luxury",
+    "seoDescription": "Discover ALTITUDE, an ultra-luxury residential masterpiece by VTP Realty located in Wakad, Pune. Explore 2, 3 & 4 BHK premium configurations.",
+    "overview": "ALTITUDE sets a new global benchmark for luxury living in Wakad, Pune. Designed strictly on the Maximum Livable Area (MLA) philosophy, every residence ensures zero space wastage, soaring ceilings, and panoramic views. Nestled within Township, this architectural marvel seamlessly connects the tranquility of nature with the high-paced lifestyle of Wakad, Pune. Experience world-class amenities, robust multi-tier security, and a community of like-minded elites.",
+    "amenities": [
+      {
+        "name": "Exclusive Club ALTITUDE",
+        "icon": "Building"
+      },
+      {
+        "name": "Aroma Gardens",
+        "icon": "Leaf"
+      },
+      {
+        "name": "Temperature Controlled Pool",
+        "icon": "Waves"
+      },
+      {
+        "name": "Smart Security Grid",
+        "icon": "Cpu"
+      }
+    ],
+    "specifications": [
+      {
+        "category": "Flooring",
+        "details": "Imported Marble in Living/Dining; Premium Wooden Laminate in Master Bedroom; Anti-skid Vitrified Tiles in Balconies."
+      },
+      {
+        "category": "Kitchen",
+        "details": "Engineered Quartz Countertop, SS Sink with Drainboard, Provision for Water Purifier and Exhaust Fan."
+      },
+      {
+        "category": "Bathrooms",
+        "details": "Grohe/Kohler Premium CP Fittings, Glass Partition in Master Bath, Designer Dado Tiles up to lintel level."
+      },
+      {
+        "category": "Security",
+        "details": "Video Door Phone, 5-Tier Security System, Digital Lock for Main Door, CCTV in Common Areas."
+      }
+    ],
+    "locationHighlights": [
+      {
+        "title": "Global IT Parks",
+        "distance": "10 Mins"
+      },
+      {
+        "title": "International Schools",
+        "distance": "5 Mins"
+      },
+      {
+        "title": "Upcoming Metro Station",
+        "distance": "2 Mins"
+      },
+      {
+        "title": "Mumbai-Bengaluru Highway",
+        "distance": "8 Mins"
+      },
+      {
+        "title": "Premium Healthcare",
+        "distance": "12 Mins"
+      }
+    ],
+    "masterLayout": "/assets/projects/earth-1/master-plan.jpg",
+    "floorPlans": [
+      {
+        "type": "2 BHK Premium",
+        "carpetArea": "1015 - 1165 Sq.Ft.",
+        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+      },
+      {
+        "type": "3 BHK Luxury",
+        "carpetArea": "1315 - 1495 Sq.Ft.",
+        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+      },
+      {
+        "type": "4 BHK Mansion",
+        "carpetArea": "1715+ Sq.Ft.",
+        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+      }
+    ],
+    "maharera": [
+      "P52100024885"
+    ]
+  },
+  {
+    "id": 22,
+    "township": "Township",
+    "name": "VTP AETHEREUS HIGH STREET",
+    "location": "Mahalunge, Pune",
+    "image": "/assets/projects/earth-1/hero.jpg",
+    "link": "https://vtprealty.in/projects/vtp-aethereus-high-street-mahalunge-pune",
+    "slug": "vtp-aethereus-high-street",
+    "seoTitle": "VTP AETHEREUS HIGH STREET in Mahalunge, Pune | VTP BLUEWATERS Ultra Luxury",
+    "seoDescription": "Discover VTP AETHEREUS HIGH STREET, an ultra-luxury residential masterpiece by VTP Realty located in the serene landscapes of Mahalunge. Explore 2, 3 & 4 BHK premium configurations.",
+    "overview": "VTP AETHEREUS HIGH STREET sets a new global benchmark for luxury living in Mahalunge, Pune. Designed strictly on the Maximum Livable Area (MLA) philosophy, every residence ensures zero space wastage, soaring ceilings, and panoramic views. Nestled within Township, this architectural marvel seamlessly connects the tranquility of nature with the high-paced lifestyle of the serene landscapes of Mahalunge. Experience world-class amenities, robust multi-tier security, and a community of like-minded elites.",
+    "amenities": [
+      {
+        "name": "Exclusive Club VTP",
+        "icon": "Building"
+      },
+      {
+        "name": "Aroma Gardens",
+        "icon": "Leaf"
+      },
+      {
+        "name": "Temperature Controlled Pool",
+        "icon": "Waves"
+      },
+      {
+        "name": "Smart Security Grid",
+        "icon": "Cpu"
+      }
+    ],
+    "specifications": [
+      {
+        "category": "Flooring",
+        "details": "Imported Marble in Living/Dining; Premium Wooden Laminate in Master Bedroom; Anti-skid Vitrified Tiles in Balconies."
+      },
+      {
+        "category": "Kitchen",
+        "details": "Engineered Quartz Countertop, SS Sink with Drainboard, Provision for Water Purifier and Exhaust Fan."
+      },
+      {
+        "category": "Bathrooms",
+        "details": "Grohe/Kohler Premium CP Fittings, Glass Partition in Master Bath, Designer Dado Tiles up to lintel level."
+      },
+      {
+        "category": "Security",
+        "details": "Video Door Phone, 5-Tier Security System, Digital Lock for Main Door, CCTV in Common Areas."
+      }
+    ],
+    "locationHighlights": [
+      {
+        "title": "Global IT Parks",
+        "distance": "10 Mins"
+      },
+      {
+        "title": "International Schools",
+        "distance": "5 Mins"
+      },
+      {
+        "title": "Upcoming Metro Station",
+        "distance": "2 Mins"
+      },
+      {
+        "title": "Mumbai-Bengaluru Highway",
+        "distance": "8 Mins"
+      },
+      {
+        "title": "Premium Healthcare",
+        "distance": "12 Mins"
+      }
+    ],
+    "masterLayout": "/assets/projects/earth-1/master-plan.jpg",
+    "floorPlans": [
+      {
+        "type": "2 BHK Premium",
+        "carpetArea": "1030 - 1180 Sq.Ft.",
+        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+      },
+      {
+        "type": "3 BHK Luxury",
+        "carpetArea": "1330 - 1510 Sq.Ft.",
+        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+      },
+      {
+        "type": "4 BHK Mansion",
+        "carpetArea": "1730+ Sq.Ft.",
+        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+      }
+    ],
+    "maharera": [
+      "P52100026772",
+      "P52100028131"
+    ]
+  }
+]

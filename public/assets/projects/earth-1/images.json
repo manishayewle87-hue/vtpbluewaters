@@ -1,0 +1,47 @@
+[
+  {
+    "src": "https://www.vtprealty.in/_next/image?url=%2Fimages%2Ffooter%2FVTP_Gold_2x_962114e692.png&w=384&q=75",
+    "alt": "VTP",
+    "className": ""
+  },
+  {
+    "src": "https://www.vtprealty.in/images/menu-bar.svg",
+    "alt": "mobile menu bar",
+    "className": ""
+  },
+  {
+    "src": "https://www.vtprealty.in/images/menu-bar.svg",
+    "alt": "menu bar",
+    "className": ""
+  },
+  {
+    "src": "https://www.vtprealty.in/_next/image?url=%2Fimages%2Ffooter%2Fnew-vtp-logo.png&w=384&q=75",
+    "alt": "VTP Realty",
+    "className": "main_logo logo-default show"
+  },
+  {
+    "src": "https://www.vtprealty.in/_next/image?url=%2Fimages%2Ffooter%2FVTP_Gold_2x_962114e692.png&w=384&q=75",
+    "alt": "VTP Realty",
+    "className": "main_logo logo-sticky hide"
+  },
+  {
+    "src": "https://www.vtprealty.in/images/errorpage.jpg",
+    "alt": "Page not found",
+    "className": "fill_img"
+  },
+  {
+    "src": "https://www.vtprealty.in/images/arrow.svg",
+    "alt": "Arrow",
+    "className": ""
+  },
+  {
+    "src": "https://www.vtprealty.in/_next/image?url=%2Fimages%2Fwhatsapp.png&w=256&q=75",
+    "alt": "whatsapp",
+    "className": "whatsapp_cta"
+  },
+  {
+    "src": "https://www.vtprealty.in/_next/image?url=%2Fimages%2Ffooter%2Fwhatsapp.webp&w=3840&q=75",
+    "alt": "whatsapp icon",
+    "className": ""
+  }
+]

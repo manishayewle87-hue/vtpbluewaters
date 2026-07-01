@@ -1,0 +1,86 @@
+[
+  {
+    "slug": "mahalunge",
+    "name": "Mahalunge",
+    "region": "West Pune",
+    "description": "Mahalunge is the premier ultra-luxury residential destination in West Pune, strategically located between Hinjawadi IT Park and Baner. It is home to the massive VTP Bluewaters township.",
+    "highlights": [
+      {
+        "title": "Proximity to IT Parks",
+        "value": "10 Mins to Hinjawadi Phase 1"
+      },
+      {
+        "title": "Upcoming Infrastructure",
+        "value": "Pune Ring Road & Metro Line 3"
+      },
+      {
+        "title": "Lifestyle",
+        "value": "Balewadi High Street (15 Mins)"
+      }
+    ],
+    "projects": ["earth-1-by-vtp-luxe", "monarque-by-vtp-luxe"]
+  },
+  {
+    "slug": "kharadi",
+    "name": "Kharadi",
+    "region": "East Pune",
+    "description": "Kharadi is East Pune's IT and luxury real estate epicenter. Driven by the EON IT Park and World Trade Center, it offers unparalleled infrastructure and premium high-rise living.",
+    "highlights": [
+      {
+        "title": "Proximity to IT Parks",
+        "value": "EON IT Park (5 Mins)"
+      },
+      {
+        "title": "Upcoming Infrastructure",
+        "value": "Pune Metro Extension"
+      },
+      {
+        "title": "Airport",
+        "value": "Pune International Airport (20 Mins)"
+      }
+    ],
+    "projects": ["altamira-by-vtp-luxe", "flamante-by-vtp-luxe", "velvet-villas-by-vtp-luxe", "vtp-aurelia"]
+  },
+  {
+    "slug": "hinjawadi",
+    "name": "Hinjawadi",
+    "region": "West Pune",
+    "description": "Hinjawadi is the largest IT hub in Pune, employing hundreds of thousands of professionals. It offers immense rental yield potential and rapid capital appreciation due to the upcoming Metro.",
+    "highlights": [
+      {
+        "title": "Employment Hub",
+        "value": "Rajiv Gandhi Infotech Park"
+      },
+      {
+        "title": "Upcoming Infrastructure",
+        "value": "Metro Line 3 (Under Construction)"
+      },
+      {
+        "title": "Investment Potential",
+        "value": "High Rental Yields"
+      }
+    ],
+    "projects": ["monarque-by-vtp-luxe", "vtp-volare"]
+  },
+  {
+    "slug": "baner-sus",
+    "name": "Baner Sus Road",
+    "region": "West Pune",
+    "description": "Baner Sus Road perfectly balances the cosmopolitan lifestyle of Baner with the serene, green surroundings of Sus. It's a highly sought-after location for families and professionals.",
+    "highlights": [
+      {
+        "title": "Lifestyle",
+        "value": "Baner Road Cafes & Retail (10 Mins)"
+      },
+      {
+        "title": "Connectivity",
+        "value": "Mumbai-Bengaluru Highway (5 Mins)"
+      },
+      {
+        "title": "Environment",
+        "value": "Green, pollution-free surroundings"
+      }
+    ],
+    "projects": ["vtp-verve"]
+  }
+]

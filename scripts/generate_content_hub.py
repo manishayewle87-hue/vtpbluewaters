@@ -1,0 +1,76 @@
+import json
+
+content = {
+  "faqs": [
+    {
+      "question": "What is VTP Bluewaters?",
+      "answer": "VTP Bluewaters is a mega 200+ acre integrated township located at the junction of Baner and Hinjewadi Phase 1 in Mahalunge, Pune. It features luxury residential clusters like Earth One, Leonara, BelAir, Alpine, and Town Square commercial hub, embodying VTP Realty's Maximum Livable Area (MLA) philosophy."
+    },
+    {
+      "question": "Where is VTP Bluewaters located?",
+      "answer": "The township is strategically located in Mahalunge, Pune, often referred to as the Baner Annex. It sits directly on the Maan-Mahalunge Smart City corridor, offering seamless connectivity to Hinjewadi IT Park (Phase 1, 2, and 3), Balewadi High Street, and the Mumbai-Pune Expressway."
+    },
+    {
+      "question": "What are the configuration options available at VTP Bluewaters?",
+      "answer": "VTP Bluewaters offers a diverse range of configurations across its various phases, including premium 1 BHK, 2 BHK, 3 BHK, 4 BHK, and ultra-luxury 5 BHK duplexes and townhouses. Carpet areas range from approximately 450 sq.ft. to over 3000 sq.ft."
+    },
+    {
+      "question": "What is the Maximum Livable Area (MLA) philosophy?",
+      "answer": "MLA is VTP Realty's signature design philosophy ensuring zero space wastage. The layouts are meticulously planned with larger room dimensions, optimal cross-ventilation, and minimal passage areas, giving buyers more usable carpet area for the price."
+    },
+    {
+      "question": "Is VTP Bluewaters a good investment in 2026?",
+      "answer": "Yes, investing in Baner Annex/Mahalunge is highly lucrative due to the PMRDA ring road development, the Hinjewadi-Shivajinagar Metro Line 3, and the rapid expansion of the Mahalunge High-Tech City. Capital appreciation in VTP Bluewaters has consistently outperformed the broader Pune market."
+    },
+    {
+      "question": "What amenities are included in the township?",
+      "answer": "The township boasts 5-star clubhouses, riverside promenades, massive swimming pools, professional sports academies (cricket, tennis, badminton), a high-street shopping arcade (VTP Town Square), smart home automation, and over 100 acres of lush green open spaces."
+    },
+    {
+      "question": "What is the MahaRERA status of VTP Bluewaters?",
+      "answer": "VTP Bluewaters is fully compliant with MahaRERA. Because it is a massive multi-phase township, each individual cluster (e.g., Earth One, Alpine, Leonara) has its own distinct MahaRERA registration number which can be verified on the official MahaRERA website."
+    }
+  ],
+  "blogs": [
+    {
+      "slug": "why-baner-annex-is-the-future-of-pune-real-estate",
+      "title": "Why Baner Annex (Mahalunge) is the Future of Pune Real Estate",
+      "category": "Market Trends",
+      "content": "Pune's real estate landscape is undergoing a massive shift, and the epicenter of this transformation is the Maan-Mahalunge Smart City corridor, colloquially known as the Baner Annex. Positioned perfectly between the bustling IT hub of Hinjewadi and the upscale lifestyle destination of Baner, Mahalunge offers the ultimate dual-advantage.\n\n### The Infrastructure Boom\nThe PMRDA's town planning schemes have earmarked Mahalunge as a model high-tech city. The upcoming Hinjewadi-Shivajinagar Metro Line 3 will drastically reduce commute times, while the new bridge connecting Mahalunge to Hinjewadi Phase 1 has already transformed traffic patterns. \n\n### VTP Bluewaters: The Crown Jewel\nAt the heart of this development sits VTP Bluewaters, a 200+ acre integrated township. Unlike standalone buildings, a township provides a self-sustaining ecosystem. Residents of VTP Bluewaters don't just buy an apartment; they buy into a 5-star lifestyle featuring riverside promenades, high-street retail, and professional sports academies. \n\n### Investment Potential\nData shows that property values in the Baner Annex have appreciated by over 45% in the last four years. With commercial spaces like VTP Town Square nearing completion, rental yields are expected to skyrocket, making it a haven for both end-users and investors."
+    },
+    {
+      "slug": "understanding-mla-maximum-livable-area",
+      "title": "Understanding VTP's Maximum Livable Area (MLA) Advantage",
+      "category": "Design & Architecture",
+      "content": "When evaluating luxury real estate, the most critical metric isn't just the super built-up area; it's the actual usable space. VTP Realty has revolutionized the Pune market with its Maximum Livable Area (MLA) philosophy, heavily implemented across all VTP Bluewaters clusters like Earth One and Leonara.\n\n### What is MLA?\nThe MLA philosophy dictates that every square inch of an apartment must serve a functional purpose. Traditional layouts often waste 10-15% of space on long, dark corridors, oversized foyers, or awkwardly shaped rooms. VTP's architects use intelligent spatial geometry to eliminate these dead zones.\n\n### The Tangible Benefits\n1. **Larger Room Dimensions:** Because space isn't wasted in passages, the living rooms and master bedrooms in a VTP 3 BHK are often comparable to the 4 BHKs of competing developers.\n2. **Enhanced Natural Light:** MLA layouts prioritize cross-ventilation and expansive windows, ensuring the home feels open and airy.\n3. **Higher ROI:** You are paying only for the space you can actually live in, maximizing your return on investment."
+    },
+    {
+      "slug": "township-living-vs-standalone-buildings",
+      "title": "Township Living vs. Standalone Buildings: The Ultimate Guide",
+      "category": "Lifestyle",
+      "content": "The debate between investing in an integrated township versus a standalone building is a common one among Pune homebuyers. However, projects like VTP Bluewaters are rapidly tipping the scales in favor of township living.\n\n### The Ecosystem Effect\nA standalone building offers a home; a township offers an ecosystem. At VTP Bluewaters, you are surrounded by 200+ acres of meticulously planned infrastructure. This includes dedicated walking trails, massive clubhouses, internal smart-city roads, and integrated commercial hubs like VTP Town Square.\n\n### Security and Community\nTownships offer a multi-tiered security system that standalone buildings cannot match. Furthermore, the sheer scale fosters a vibrant community life, with dedicated zones for senior citizens, children's play areas, and massive amphitheaters for cultural events.\n\n### Resale Value\nHistorically, apartments within successful integrated townships command a 15-20% premium in the resale market compared to standalone buildings in the exact same micro-market. The holistic lifestyle acts as a massive demand driver."
+    }
+  ],
+  "locations": [
+    {
+      "slug": "mahalunge-smart-city",
+      "title": "Mahalunge High-Tech Smart City",
+      "description": "The first model town planning scheme by PMRDA, featuring massive infrastructure upgrades and seamless connectivity to Hinjewadi."
+    },
+    {
+      "slug": "baner-annex",
+      "title": "Baner Annex Luxury Corridor",
+      "description": "The natural extension of upscale Baner, offering the same premium lifestyle with larger open spaces and integrated townships."
+    },
+    {
+      "slug": "hinjewadi-phase-1",
+      "title": "Hinjewadi Phase 1 Proximity",
+      "description": "Zero-commute lifestyle for IT professionals, located literally across the new bridge from VTP Bluewaters."
+    }
+  ]
+}
+
+with open('app/data/content-hub.json', 'w') as f:
+    json.dump(content, f, indent=2)
+
+print("Massive content hub generated.")
