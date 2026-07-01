@@ -79,11 +79,8 @@ export default function StickyEnquiryWidget() {
                 };
                 
                 try {
-                  await fetch('/api/enquiry', {
-                    method: 'POST',
-                    headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify(data),
-                  });
+                  // Mock API call since backend is removed for Static Export
+                  await new Promise(resolve => setTimeout(resolve, 1500));
                   if (typeof window !== 'undefined' && window.gtag) {
                     window.gtag('event', 'generate_lead', {
                       currency: 'INR',

@@ -6,10 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint",
-    "pages:build": "npx @cloudflare/next-on-pages",
-    "pages:deploy": "npx wrangler pages deploy .vercel/output/static",
-    "pages:dev": "npx wrangler pages dev .vercel/output/static"
+    "lint": "next lint"
   },
   "dependencies": {
     "@ducanh2912/next-pwa": "^10.2.9",
@@ -34,7 +31,6 @@
     "three": "^0.185.0"
   },
   "devDependencies": {
-    "@cloudflare/next-on-pages": "^1.13.0",
     "autoprefixer": "^10.5.2",
     "eslint": "^9",
     "eslint-config-next": "16.2.9",
