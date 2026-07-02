@@ -1,16 +1,14 @@
-import { NextResponse } from 'next/server';
 import { PrismaClient } from '@prisma/client';
 import { PrismaD1 } from '@prisma/adapter-d1';
 
-export const runtime = 'edge';
+export async function onRequestPost(context) {
+  const { request, env } = context;
 
-export async function POST(request) {
   try {
     const data = await request.json();
     
-    // In Edge runtime on Cloudflare, the D1 binding is available globally or on request context
-    // However, for Next-on-Pages with App Router, we use process.env.DB
-    const adapter = new PrismaD1(process.env.DB);
+    // Connect to the Cloudflare D1 Database using the environment binding (env.DB)
+    const adapter = new PrismaD1(env.DB);
     const prisma = new PrismaClient({ adapter });
 
     const lead = await prisma.lead.create({
@@ -24,9 +22,14 @@ export async function POST(request) {
       }
     });
 
-    return NextResponse.json({ success: true, lead });
+    return new Response(JSON.stringify({ success: true, lead }), {
+      headers: { 'Content-Type': 'application/json' },
+    });
   } catch (error) {
     console.error('Lead generation error:', error);
-    return NextResponse.json({ success: false, error: 'Failed to submit enquiry' }, { status: 500 });
+    return new Response(JSON.stringify({ success: false, error: 'Failed to submit enquiry' }), {
+      status: 500,
+      headers: { 'Content-Type': 'application/json' },
+    });
   }
 }

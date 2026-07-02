@@ -24,10 +24,8 @@ const outfit = Outfit({
   display: 'swap',
 });
 
-export const dynamicParams = false;
-
-export async function generateStaticParams() {
-  return [{ lang: 'en' }, { lang: 'mr' }, { lang: 'hi' }];
+export function generateStaticParams() {
+  return [{ lang: 'en' }];
 }
 
 export const metadata = {
