@@ -10,10 +10,23 @@ export default function PricingModal({ isOpen, onClose, planType, projectName })
     e.preventDefault();
     setStatus('loading');
     try {
-      // Mock API call since backend is removed for Static Export
-      await new Promise(resolve => setTimeout(resolve, 1500));
-      setStatus('success');
-      setTimeout(() => { onClose(); setStatus('idle'); setFormState({ name: '', phone: '' }); }, 3000);
+      const res = await fetch('/api/enquiry', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          ...formState,
+          project: projectName,
+          configuration: planType,
+          message: `Pricing request for ${planType}`,
+        }),
+      });
+      const data = await res.json();
+      if (data.success) {
+        setStatus('success');
+        setTimeout(() => { onClose(); setStatus('idle'); setFormState({ name: '', phone: '' }); }, 3000);
+      } else {
+        setStatus('error');
+      }
     } catch {
       setStatus('error');
     }

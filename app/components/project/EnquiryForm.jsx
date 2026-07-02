@@ -16,16 +16,24 @@ export default function EnquiryForm({ projectName }) {
     e.preventDefault();
     setStatus('loading');
     try {
-      // Mock API call since backend is removed for Static Export
-      await new Promise(resolve => setTimeout(resolve, 1500));
-      setStatus('success');
-      if (typeof window !== 'undefined' && window.gtag) {
-        window.gtag('event', 'generate_lead', {
-          currency: 'INR',
-          value: 10000000,
-          project_name: projectName,
-          form_source: 'Project Page - Main Enquiry Form'
-        });
+      const res = await fetch('/api/enquiry', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ ...formData, project: projectName }),
+      });
+      const data = await res.json();
+      if (data.success) {
+        setStatus('success');
+        if (typeof window !== 'undefined' && window.gtag) {
+          window.gtag('event', 'generate_lead', {
+            currency: 'INR',
+            value: 10000000,
+            project_name: projectName,
+            form_source: 'Project Page - Main Enquiry Form'
+          });
+        }
+      } else {
+        setStatus('error');
       }
     } catch {
       setStatus('error');

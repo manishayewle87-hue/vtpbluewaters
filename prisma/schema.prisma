@@ -1,0 +1,20 @@
+generator client {
+  provider        = "prisma-client-js"
+  previewFeatures = ["driverAdapters"]
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./dev.db"
+}
+
+model Lead {
+  id            String   @id @default(cuid())
+  name          String
+  email         String?
+  phone         String
+  configuration String?
+  message       String?
+  source        String?
+  createdAt     DateTime @default(now())
+}

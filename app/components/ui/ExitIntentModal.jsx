@@ -36,8 +36,11 @@ export default function ExitIntentModal() {
     const data = Object.fromEntries(formData);
     
     try {
-      // Mock API call since backend is removed for Static Export
-      await new Promise(resolve => setTimeout(resolve, 1500));
+      await fetch('/api/enquiry', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ ...data, source: 'Exit Intent Modal' }),
+      });
       setStatus('success');
       if (typeof window !== 'undefined' && window.gtag) {
         window.gtag('event', 'generate_lead', {
