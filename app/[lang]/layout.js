@@ -24,8 +24,9 @@ const outfit = Outfit({
   display: 'swap',
 });
 
-export const runtime = 'edge';
-export const revalidate = 86400; // Cache for 24 hours
+export function generateStaticParams() {
+  return [{ lang: 'en' }];
+}
 
 export const metadata = {
   title: 'VTP Bluewaters | Premium Luxury Residences in Pune',

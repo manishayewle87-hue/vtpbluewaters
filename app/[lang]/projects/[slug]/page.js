@@ -13,8 +13,12 @@ import EmiCalculator from '@/app/components/project/EmiCalculator';
 import ProjectMasterLayout from '@/app/components/project/ProjectMasterLayout';
 import ProjectFloorPlans from '@/app/components/project/ProjectFloorPlans';
 
-export const runtime = 'edge';
-export const revalidate = 86400; // Cache for 24 hours
+export async function generateStaticParams() {
+  const projects = await cms.getAllProjects();
+  return projects.map((project) => ({
+    slug: project.slug,
+  }));
+}
 
 export async function generateMetadata({ params }) {
   const { slug } = await params;
