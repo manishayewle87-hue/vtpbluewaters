@@ -1,0 +1,28 @@
+<svg 
+  viewBox="0 0 80 80" 
+  fill="none" 
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <g transform="translate(0, 4)">
+    <!-- Cyan vertical bar -->
+    <rect x="22" y="0" width="24" height="72" fill="#36C5CD" rx="1" />
+    
+    <!-- Light blue square - left -->
+    <rect x="0" y="24" width="22" height="22" fill="#66CCF1" rx="1" />
+    
+    <!-- Purple horizontal bar - overlaps -->
+    <rect x="10" y="36" width="70" height="24" fill="#7D86C1" rx="1" />
+    
+    <!-- VTP text inside purple bar -->
+    <text 
+      x="26" y="54" 
+      fill="#FFFFFF" 
+      font-size="16" 
+      font-weight="800" 
+      font-family="system-ui, -apple-system, sans-serif"
+      letter-spacing="0.05em"
+    >
+      VTP
+    </text>
+  </g>
+</svg>

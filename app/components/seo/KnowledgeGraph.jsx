@@ -7,8 +7,8 @@ export default function KnowledgeGraph() {
         "@id": "https://vtpbluewaters.com/#organization",
         "name": "VTP BLUEWATERS",
         "url": "https://vtpbluewaters.com",
-        "logo": "https://vtpbluewaters.com/logo.png",
-        "image": "https://vtpbluewaters.com/logo.png",
+        "logo": "https://vtpbluewaters.com/logo.svg",
+        "image": "https://vtpbluewaters.com/logo.svg",
         "description": "VTP Realty is Pune's leading real estate brand, developing ultra-luxury residential projects, commercial hubs, and integrated townships across prime micro-markets.",
         "telephone": "+91-0000000000",
         "address": {

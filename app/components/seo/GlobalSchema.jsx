@@ -11,7 +11,7 @@ export default function GlobalSchema() {
         "url": "https://vtprealty.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://vtpbluewaters.com/logo.png"
+          "url": "https://vtpbluewaters.com/logo.svg"
         },
         "sameAs": [
           "https://www.facebook.com/vtprealty",
@@ -33,7 +33,7 @@ export default function GlobalSchema() {
         "@type": "RealEstateAgent",
         "@id": "https://vtpbluewaters.com/#agent",
         "name": "VTP Realty",
-        "image": "https://vtpbluewaters.com/logo.png",
+        "image": "https://vtpbluewaters.com/logo.svg",
         "telephone": "+91 20 6777 0000",
         "address": {
           "@type": "PostalAddress",
