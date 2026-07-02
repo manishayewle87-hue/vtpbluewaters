@@ -69,16 +69,23 @@
       {
         "type": "3 BHK Luxury",
         "carpetArea": "988 - 1447 Sq.Ft.",
-        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+        "image": "/images/premium_placeholders/floor_plan_3bhk.jpg"
       },
       {
         "type": "Simplex/Duplex",
         "carpetArea": "Up to 2894 Sq.Ft.",
-        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+        "image": "/images/premium_placeholders/floor_plan_2bhk.jpg"
       }
     ],
     "maharera": [
       "P52100079807"
+    ],
+    "gallery": [
+      "/images/premium_placeholders/exterior_luxury_1.jpg",
+      "/images/premium_placeholders/exterior_luxury_2.jpg",
+      "/images/premium_placeholders/amenity_pool.jpg",
+      "/images/premium_placeholders/amenity_gym.jpg",
+      "/images/premium_placeholders/amenity_clubhouse.jpg"
     ]
   },
   {
@@ -254,28 +261,35 @@
       {
         "type": "2 BHK",
         "carpetArea": "667 - 1250 Sq.Ft.",
-        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+        "image": "/images/premium_placeholders/floor_plan_2bhk.jpg"
       },
       {
         "type": "3 BHK",
         "carpetArea": "922 - 1446 Sq.Ft.",
-        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+        "image": "/images/premium_placeholders/floor_plan_3bhk.jpg"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1766 - 1770+ Sq.Ft.",
-        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+        "image": "/images/premium_placeholders/floor_plan_4bhk.jpg"
       },
       {
         "type": "Simplex/Duplex",
         "carpetArea": "Up to 3500 Sq.Ft.",
-        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+        "image": "/images/premium_placeholders/floor_plan_2bhk.jpg"
       }
     ],
     "maharera": [
       "P52100048489",
       "P52100051025",
       "P52100052414"
+    ],
+    "gallery": [
+      "/images/premium_placeholders/exterior_luxury_1.jpg",
+      "/images/premium_placeholders/exterior_luxury_2.jpg",
+      "/images/premium_placeholders/amenity_pool.jpg",
+      "/images/premium_placeholders/amenity_gym.jpg",
+      "/images/premium_placeholders/amenity_clubhouse.jpg"
     ]
   },
   {
@@ -352,21 +366,28 @@
       {
         "type": "2 BHK Premium",
         "carpetArea": "775 - 925 Sq.Ft.",
-        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+        "image": "/images/premium_placeholders/floor_plan_2bhk.jpg"
       },
       {
         "type": "3 BHK Luxury",
         "carpetArea": "1075 - 1255 Sq.Ft.",
-        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+        "image": "/images/premium_placeholders/floor_plan_3bhk.jpg"
       },
       {
         "type": "4 BHK Mansion",
         "carpetArea": "1475+ Sq.Ft.",
-        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+        "image": "/images/premium_placeholders/floor_plan_4bhk.jpg"
       }
     ],
     "maharera": [
       "P52100051826"
+    ],
+    "gallery": [
+      "/images/premium_placeholders/exterior_luxury_1.jpg",
+      "/images/premium_placeholders/exterior_luxury_2.jpg",
+      "/images/premium_placeholders/amenity_pool.jpg",
+      "/images/premium_placeholders/amenity_gym.jpg",
+      "/images/premium_placeholders/amenity_clubhouse.jpg"
     ]
   },
   {
@@ -443,22 +464,29 @@
       {
         "type": "2 BHK Premium",
         "carpetArea": "790 - 940 Sq.Ft.",
-        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+        "image": "/images/premium_placeholders/floor_plan_2bhk.jpg"
       },
       {
         "type": "3 BHK Luxury",
         "carpetArea": "1090 - 1270 Sq.Ft.",
-        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+        "image": "/images/premium_placeholders/floor_plan_3bhk.jpg"
       },
       {
         "type": "4 BHK Mansion",
         "carpetArea": "1490+ Sq.Ft.",
-        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+        "image": "/images/premium_placeholders/floor_plan_4bhk.jpg"
       }
     ],
     "maharera": [
       "P52100031829",
       "P52100047370"
+    ],
+    "gallery": [
+      "/images/premium_placeholders/exterior_luxury_1.jpg",
+      "/images/premium_placeholders/exterior_luxury_2.jpg",
+      "/images/premium_placeholders/amenity_pool.jpg",
+      "/images/premium_placeholders/amenity_gym.jpg",
+      "/images/premium_placeholders/amenity_clubhouse.jpg"
     ]
   },
   {
@@ -535,21 +563,28 @@
       {
         "type": "2 BHK Premium",
         "carpetArea": "805 - 955 Sq.Ft.",
-        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+        "image": "/images/premium_placeholders/floor_plan_2bhk.jpg"
       },
       {
         "type": "3 BHK Luxury",
         "carpetArea": "1105 - 1285 Sq.Ft.",
-        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+        "image": "/images/premium_placeholders/floor_plan_3bhk.jpg"
       },
       {
         "type": "4 BHK Mansion",
         "carpetArea": "1505+ Sq.Ft.",
-        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+        "image": "/images/premium_placeholders/floor_plan_4bhk.jpg"
       }
     ],
     "maharera": [
       "P52100056310"
+    ],
+    "gallery": [
+      "/images/premium_placeholders/exterior_luxury_1.jpg",
+      "/images/premium_placeholders/exterior_luxury_2.jpg",
+      "/images/premium_placeholders/amenity_pool.jpg",
+      "/images/premium_placeholders/amenity_gym.jpg",
+      "/images/premium_placeholders/amenity_clubhouse.jpg"
     ]
   },
   {
@@ -626,21 +661,28 @@
       {
         "type": "2 BHK Premium",
         "carpetArea": "865 - 1015 Sq.Ft.",
-        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+        "image": "/images/premium_placeholders/floor_plan_2bhk.jpg"
       },
       {
         "type": "3 BHK Luxury",
         "carpetArea": "1165 - 1345 Sq.Ft.",
-        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+        "image": "/images/premium_placeholders/floor_plan_3bhk.jpg"
       },
       {
         "type": "4 BHK Mansion",
         "carpetArea": "1565+ Sq.Ft.",
-        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+        "image": "/images/premium_placeholders/floor_plan_4bhk.jpg"
       }
     ],
     "maharera": [
       "Awaited"
+    ],
+    "gallery": [
+      "/images/premium_placeholders/exterior_luxury_1.jpg",
+      "/images/premium_placeholders/exterior_luxury_2.jpg",
+      "/images/premium_placeholders/amenity_pool.jpg",
+      "/images/premium_placeholders/amenity_gym.jpg",
+      "/images/premium_placeholders/amenity_clubhouse.jpg"
     ]
   },
   {
@@ -712,26 +754,33 @@
         "distance": "12 Mins"
       }
     ],
-    "masterLayout": "/assets/projects/earth-1/master-plan.jpg",
+    "masterLayout": "/images/premium_placeholders/amenity_garden.jpg",
     "floorPlans": [
       {
         "type": "2 BHK Premium",
         "carpetArea": "895 - 1045 Sq.Ft.",
-        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+        "image": "/images/premium_placeholders/floor_plan_2bhk.jpg"
       },
       {
         "type": "3 BHK Luxury",
         "carpetArea": "1195 - 1375 Sq.Ft.",
-        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+        "image": "/images/premium_placeholders/floor_plan_3bhk.jpg"
       },
       {
         "type": "4 BHK Mansion",
         "carpetArea": "1595+ Sq.Ft.",
-        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+        "image": "/images/premium_placeholders/floor_plan_4bhk.jpg"
       }
     ],
     "maharera": [
       "PR1260002400020"
+    ],
+    "gallery": [
+      "/images/premium_placeholders/exterior_luxury_1.jpg",
+      "/images/premium_placeholders/exterior_luxury_2.jpg",
+      "/images/premium_placeholders/amenity_pool.jpg",
+      "/images/premium_placeholders/amenity_gym.jpg",
+      "/images/premium_placeholders/amenity_clubhouse.jpg"
     ]
   },
   {
@@ -808,21 +857,28 @@
       {
         "type": "2 BHK Premium",
         "carpetArea": "925 - 1075 Sq.Ft.",
-        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+        "image": "/images/premium_placeholders/floor_plan_2bhk.jpg"
       },
       {
         "type": "3 BHK Luxury",
         "carpetArea": "1225 - 1405 Sq.Ft.",
-        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+        "image": "/images/premium_placeholders/floor_plan_3bhk.jpg"
       },
       {
         "type": "4 BHK Mansion",
         "carpetArea": "1625+ Sq.Ft.",
-        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+        "image": "/images/premium_placeholders/floor_plan_4bhk.jpg"
       }
     ],
     "maharera": [
       "P52100031556"
+    ],
+    "gallery": [
+      "/images/premium_placeholders/exterior_luxury_1.jpg",
+      "/images/premium_placeholders/exterior_luxury_2.jpg",
+      "/images/premium_placeholders/amenity_pool.jpg",
+      "/images/premium_placeholders/amenity_gym.jpg",
+      "/images/premium_placeholders/amenity_clubhouse.jpg"
     ]
   },
   {
@@ -894,22 +950,22 @@
         "distance": "12 Mins"
       }
     ],
-    "masterLayout": "/assets/projects/earth-1/master-plan.jpg",
+    "masterLayout": "/images/premium_placeholders/amenity_garden.jpg",
     "floorPlans": [
       {
         "type": "2 BHK Premium",
         "carpetArea": "970 - 1120 Sq.Ft.",
-        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+        "image": "/images/premium_placeholders/floor_plan_2bhk.jpg"
       },
       {
         "type": "3 BHK Luxury",
         "carpetArea": "1270 - 1450 Sq.Ft.",
-        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+        "image": "/images/premium_placeholders/floor_plan_3bhk.jpg"
       },
       {
         "type": "4 BHK Mansion",
         "carpetArea": "1670+ Sq.Ft.",
-        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+        "image": "/images/premium_placeholders/floor_plan_4bhk.jpg"
       }
     ],
     "maharera": [
@@ -917,6 +973,13 @@
       "P52100055405",
       "P52100055407",
       "P52100055619"
+    ],
+    "gallery": [
+      "/images/premium_placeholders/exterior_luxury_1.jpg",
+      "/images/premium_placeholders/exterior_luxury_2.jpg",
+      "/images/premium_placeholders/amenity_pool.jpg",
+      "/images/premium_placeholders/amenity_gym.jpg",
+      "/images/premium_placeholders/amenity_clubhouse.jpg"
     ]
   },
   {
@@ -988,22 +1051,22 @@
         "distance": "12 Mins"
       }
     ],
-    "masterLayout": "/assets/projects/earth-1/master-plan.jpg",
+    "masterLayout": "/images/premium_placeholders/amenity_garden.jpg",
     "floorPlans": [
       {
         "type": "2 BHK Premium",
         "carpetArea": "985 - 1135 Sq.Ft.",
-        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+        "image": "/images/premium_placeholders/floor_plan_2bhk.jpg"
       },
       {
         "type": "3 BHK Luxury",
         "carpetArea": "1285 - 1465 Sq.Ft.",
-        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+        "image": "/images/premium_placeholders/floor_plan_3bhk.jpg"
       },
       {
         "type": "4 BHK Mansion",
         "carpetArea": "1685+ Sq.Ft.",
-        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+        "image": "/images/premium_placeholders/floor_plan_4bhk.jpg"
       }
     ],
     "maharera": [
@@ -1011,6 +1074,13 @@
       "P52100045848",
       "P52100047312",
       "P52100049849"
+    ],
+    "gallery": [
+      "/images/premium_placeholders/exterior_luxury_1.jpg",
+      "/images/premium_placeholders/exterior_luxury_2.jpg",
+      "/images/premium_placeholders/amenity_pool.jpg",
+      "/images/premium_placeholders/amenity_gym.jpg",
+      "/images/premium_placeholders/amenity_clubhouse.jpg"
     ]
   },
   {
@@ -1082,27 +1152,34 @@
         "distance": "12 Mins"
       }
     ],
-    "masterLayout": "/assets/projects/earth-1/master-plan.jpg",
+    "masterLayout": "/images/premium_placeholders/amenity_garden.jpg",
     "floorPlans": [
       {
         "type": "2 BHK Premium",
         "carpetArea": "1000 - 1150 Sq.Ft.",
-        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+        "image": "/images/premium_placeholders/floor_plan_2bhk.jpg"
       },
       {
         "type": "3 BHK Luxury",
         "carpetArea": "1300 - 1480 Sq.Ft.",
-        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+        "image": "/images/premium_placeholders/floor_plan_3bhk.jpg"
       },
       {
         "type": "4 BHK Mansion",
         "carpetArea": "1700+ Sq.Ft.",
-        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+        "image": "/images/premium_placeholders/floor_plan_4bhk.jpg"
       }
     ],
     "maharera": [
       "P52100028378",
       "P52100029394"
+    ],
+    "gallery": [
+      "/images/premium_placeholders/exterior_luxury_1.jpg",
+      "/images/premium_placeholders/exterior_luxury_2.jpg",
+      "/images/premium_placeholders/amenity_pool.jpg",
+      "/images/premium_placeholders/amenity_gym.jpg",
+      "/images/premium_placeholders/amenity_clubhouse.jpg"
     ]
   },
   {
@@ -1174,26 +1251,33 @@
         "distance": "12 Mins"
       }
     ],
-    "masterLayout": "/assets/projects/earth-1/master-plan.jpg",
+    "masterLayout": "/images/premium_placeholders/amenity_garden.jpg",
     "floorPlans": [
       {
         "type": "2 BHK Premium",
         "carpetArea": "1015 - 1165 Sq.Ft.",
-        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+        "image": "/images/premium_placeholders/floor_plan_2bhk.jpg"
       },
       {
         "type": "3 BHK Luxury",
         "carpetArea": "1315 - 1495 Sq.Ft.",
-        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+        "image": "/images/premium_placeholders/floor_plan_3bhk.jpg"
       },
       {
         "type": "4 BHK Mansion",
         "carpetArea": "1715+ Sq.Ft.",
-        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+        "image": "/images/premium_placeholders/floor_plan_4bhk.jpg"
       }
     ],
     "maharera": [
       "P52100024885"
+    ],
+    "gallery": [
+      "/images/premium_placeholders/exterior_luxury_1.jpg",
+      "/images/premium_placeholders/exterior_luxury_2.jpg",
+      "/images/premium_placeholders/amenity_pool.jpg",
+      "/images/premium_placeholders/amenity_gym.jpg",
+      "/images/premium_placeholders/amenity_clubhouse.jpg"
     ]
   },
   {
@@ -1265,27 +1349,34 @@
         "distance": "12 Mins"
       }
     ],
-    "masterLayout": "/assets/projects/earth-1/master-plan.jpg",
+    "masterLayout": "/images/premium_placeholders/amenity_garden.jpg",
     "floorPlans": [
       {
         "type": "2 BHK Premium",
         "carpetArea": "1030 - 1180 Sq.Ft.",
-        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+        "image": "/images/premium_placeholders/floor_plan_2bhk.jpg"
       },
       {
         "type": "3 BHK Luxury",
         "carpetArea": "1330 - 1510 Sq.Ft.",
-        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+        "image": "/images/premium_placeholders/floor_plan_3bhk.jpg"
       },
       {
         "type": "4 BHK Mansion",
         "carpetArea": "1730+ Sq.Ft.",
-        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+        "image": "/images/premium_placeholders/floor_plan_4bhk.jpg"
       }
     ],
     "maharera": [
       "P52100026772",
       "P52100028131"
+    ],
+    "gallery": [
+      "/images/premium_placeholders/exterior_luxury_1.jpg",
+      "/images/premium_placeholders/exterior_luxury_2.jpg",
+      "/images/premium_placeholders/amenity_pool.jpg",
+      "/images/premium_placeholders/amenity_gym.jpg",
+      "/images/premium_placeholders/amenity_clubhouse.jpg"
     ]
   }
 ]
