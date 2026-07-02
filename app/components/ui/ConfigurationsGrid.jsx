@@ -82,13 +82,17 @@ export default function ConfigurationsGrid({ projects }) {
           >
             {/* Background Image */}
             <div className="absolute inset-0">
-              <Image 
-                src={project.heroImage} 
-                alt={project.name}
-                fill
-                sizes="(max-width: 1024px) 100vw, 450px"
-                className="object-cover opacity-50 group-hover:opacity-70 group-hover:scale-110 transition-all duration-1000 ease-[0.16,1,0.3,1]"
-              />
+              {project.heroImage ? (
+                <Image 
+                  src={project.heroImage} 
+                  alt={project.name || 'Project image'}
+                  fill
+                  sizes="(max-width: 1024px) 100vw, 450px"
+                  className="object-cover opacity-50 group-hover:opacity-70 group-hover:scale-110 transition-all duration-1000 ease-[0.16,1,0.3,1]"
+                />
+              ) : (
+                <div className="w-full h-full bg-[#0a0f1c] opacity-50 group-hover:opacity-70 transition-opacity duration-1000"></div>
+              )}
               <div className="absolute inset-0 bg-gradient-to-t from-luxury-navy via-luxury-navy/80 to-transparent"></div>
             </div>
 
