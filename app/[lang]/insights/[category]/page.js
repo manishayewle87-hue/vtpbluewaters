@@ -23,7 +23,7 @@ export async function generateMetadata({ params }) {
     title: `${catData.label} | VTP Realty Insights`,
     description: `Explore our latest ${catData.label.toLowerCase()} to stay informed about Pune's luxury real estate market.`,
     alternates: {
-      canonical: `https://vtpbluewaters.in/insights/${category}`,
+      canonical: `https://vtpbluewaters.com/insights/${category}`,
     }
   };
 }

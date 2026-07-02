@@ -18,6 +18,6 @@ export default function robots() {
         disallow: ['/'],
       }
     ],
-    sitemap: 'https://vtpbluewaters.in/sitemap.xml',
+    sitemap: 'https://vtpbluewaters.com/sitemap.xml',
   }
 }

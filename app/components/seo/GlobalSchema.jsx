@@ -6,12 +6,12 @@ export default function GlobalSchema() {
     "@graph": [
       {
         "@type": "Organization",
-        "@id": "https://vtpbluewaters.in/#organization",
+        "@id": "https://vtpbluewaters.com/#organization",
         "name": "VTP Realty",
         "url": "https://vtprealty.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://vtpbluewaters.in/logo.png"
+          "url": "https://vtpbluewaters.com/logo.png"
         },
         "sameAs": [
           "https://www.facebook.com/vtprealty",
@@ -21,19 +21,19 @@ export default function GlobalSchema() {
       },
       {
         "@type": "WebSite",
-        "@id": "https://vtpbluewaters.in/#website",
-        "url": "https://vtpbluewaters.in/",
+        "@id": "https://vtpbluewaters.com/#website",
+        "url": "https://vtpbluewaters.com/",
         "name": "VTP BLUEWATERS",
         "publisher": {
-          "@id": "https://vtpbluewaters.in/#organization"
+          "@id": "https://vtpbluewaters.com/#organization"
         },
         "inLanguage": "en-IN"
       },
       {
         "@type": "RealEstateAgent",
-        "@id": "https://vtpbluewaters.in/#agent",
+        "@id": "https://vtpbluewaters.com/#agent",
         "name": "VTP Realty",
-        "image": "https://vtpbluewaters.in/logo.png",
+        "image": "https://vtpbluewaters.com/logo.png",
         "telephone": "+91 20 6777 0000",
         "address": {
           "@type": "PostalAddress",
@@ -49,12 +49,12 @@ export default function GlobalSchema() {
           "longitude": 73.9135
         },
         "parentOrganization": {
-          "@id": "https://vtpbluewaters.in/#organization"
+          "@id": "https://vtpbluewaters.com/#organization"
         }
       },
       {
         "@type": "Place",
-        "@id": "https://vtpbluewaters.in/#place",
+        "@id": "https://vtpbluewaters.com/#place",
         "name": "VTP Bluewaters Township",
         "description": "A 200+ acre luxury township in Mahalunge, West Pune featuring premium 1, 2, 3, 4, 5, and 6 BHK residences and villas.",
         "address": {

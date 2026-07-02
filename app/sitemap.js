@@ -4,7 +4,7 @@ import contentData from '@/app/data/content-hub.json';
 
 export const dynamic = 'force-static';
 export default async function sitemap() {
-  const baseUrl = 'https://vtpbluewaters.in';
+  const baseUrl = 'https://vtpbluewaters.com';
   const langs = ['en', 'mr', 'hi'];
   const sitemapEntries = [];
 

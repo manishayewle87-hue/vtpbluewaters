@@ -4,11 +4,11 @@ export default function KnowledgeGraph() {
     "@graph": [
       {
         "@type": "RealEstateAgent",
-        "@id": "https://vtpbluewaters.in/#organization",
-        "name": "VTP Realty",
-        "url": "https://vtpbluewaters.in",
-        "logo": "https://vtpbluewaters.in/logo.png",
-        "image": "https://vtpbluewaters.in/logo.png",
+        "@id": "https://vtpbluewaters.com/#organization",
+        "name": "VTP BLUEWATERS",
+        "url": "https://vtpbluewaters.com",
+        "logo": "https://vtpbluewaters.com/logo.png",
+        "image": "https://vtpbluewaters.com/logo.png",
         "description": "VTP Realty is Pune's leading real estate brand, developing ultra-luxury residential projects, commercial hubs, and integrated townships across prime micro-markets.",
         "telephone": "+91-0000000000",
         "address": {
@@ -27,22 +27,22 @@ export default function KnowledgeGraph() {
       },
       {
         "@type": "Place",
-        "@id": "https://vtpbluewaters.in/#pune",
+        "@id": "https://vtpbluewaters.com/#pune",
         "name": "Pune",
         "description": "A major IT and manufacturing hub in Maharashtra, India.",
         "hasMap": "https://goo.gl/maps/Pune"
       },
       {
         "@type": "WebSite",
-        "@id": "https://vtpbluewaters.in/#website",
-        "url": "https://vtpbluewaters.in",
+        "@id": "https://vtpbluewaters.com/#website",
+        "url": "https://vtpbluewaters.com",
         "name": "VTP Bluewaters",
         "publisher": {
-          "@id": "https://vtpbluewaters.in/#organization"
+          "@id": "https://vtpbluewaters.com/#organization"
         },
         "potentialAction": {
           "@type": "SearchAction",
-          "target": "https://vtpbluewaters.in/search?q={search_term_string}",
+          "target": "https://vtpbluewaters.com/search?q={search_term_string}",
           "query-input": "required name=search_term_string"
         }
       }

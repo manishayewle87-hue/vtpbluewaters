@@ -34,7 +34,7 @@ export const metadata = {
   verification: {
     google: 'YOUR_GSC_VERIFICATION_STRING',
   },
-  metadataBase: new URL('https://vtpbluewaters.in'),
+  metadataBase: new URL('https://vtpbluewaters.com'),
   openGraph: {
     title: 'VTP BLUEWATERS | Ultra Luxury Residences in Pune',
     description: 'Discover the pinnacle of luxury living at VTP BLUEWATERS Township, Mahalunge, Pune.',

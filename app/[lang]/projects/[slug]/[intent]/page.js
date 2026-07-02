@@ -60,7 +60,7 @@ export async function generateMetadata({ params }) {
     title,
     description,
     alternates: {
-      canonical: `https://vtpbluewaters.in/projects/${project.slug}/${intent}`,
+      canonical: `https://vtpbluewaters.com/projects/${project.slug}/${intent}`,
     },
     openGraph: {
       title,
@@ -91,10 +91,10 @@ export default async function ProjectIntentDetail({ params }) {
     '@type': 'ApartmentComplex',
     name: `${project.name} ${displayIntent}`,
     description: `Official details regarding ${displayIntent} for ${project.name}.`,
-    url: `https://vtpbluewaters.in/projects/${project.slug}/${intent}`,
+    url: `https://vtpbluewaters.com/projects/${project.slug}/${intent}`,
     image: project.image,
     parentOrganization: {
-      "@id": "https://vtpbluewaters.in/#organization"
+      "@id": "https://vtpbluewaters.com/#organization"
     }
   };
 

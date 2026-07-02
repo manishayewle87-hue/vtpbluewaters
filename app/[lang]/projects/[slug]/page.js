@@ -29,7 +29,7 @@ export async function generateMetadata({ params }) {
     title: project.seoTitle,
     description: project.seoDescription,
     alternates: {
-      canonical: `https://vtpbluewaters.in/projects/${project.slug}`,
+      canonical: `https://vtpbluewaters.com/projects/${project.slug}`,
     },
     openGraph: {
       title: project.seoTitle,
@@ -46,7 +46,7 @@ function generateJsonLd(project) {
     '@type': 'ApartmentComplex',
     name: project.name,
     description: project.overview,
-    url: `https://vtpbluewaters.in/projects/${project.slug}`,
+    url: `https://vtpbluewaters.com/projects/${project.slug}`,
     image: project.image,
     address: {
       '@type': 'PostalAddress',
@@ -55,7 +55,7 @@ function generateJsonLd(project) {
       addressCountry: 'IN',
     },
     parentOrganization: {
-      "@id": "https://vtpbluewaters.in/#organization"
+      "@id": "https://vtpbluewaters.com/#organization"
     },
     offers: {
       '@type': 'Offer',

@@ -44,7 +44,7 @@ export default function BlogPostPage({ params }) {
     "author": [{
         "@type": "Organization",
         "name": "VTP Insights Team",
-        "url": "https://vtpbluewaters.in"
+        "url": "https://vtpbluewaters.com"
     }]
   };
 

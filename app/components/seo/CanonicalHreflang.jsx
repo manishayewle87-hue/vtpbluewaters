@@ -4,7 +4,7 @@ import { usePathname } from 'next/navigation';
 
 export default function CanonicalHreflang() {
   const pathname = usePathname();
-  const baseUrl = 'https://vtpbluewaters.in';
+  const baseUrl = 'https://vtpbluewaters.com';
 
   if (!pathname) return null;
 

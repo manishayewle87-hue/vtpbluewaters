@@ -6,7 +6,7 @@ export const metadata = {
   title: 'VTP Realty Insights & Market Reports | Knowledge Hub',
   description: 'Stay ahead of the market with exclusive investment guides, luxury lifestyle articles, and comprehensive Pune real estate market reports by VTP Realty.',
   alternates: {
-    canonical: 'https://vtpbluewaters.in/insights',
+    canonical: 'https://vtpbluewaters.com/insights',
   }
 };
 

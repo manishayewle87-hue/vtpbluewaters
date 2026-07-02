@@ -49,7 +49,7 @@ export async function generateMetadata({ params }) {
     title,
     description,
     alternates: {
-      canonical: `https://vtpbluewaters.in/locations/${location}/${intent}`,
+      canonical: `https://vtpbluewaters.com/locations/${location}/${intent}`,
     }
   };
 }
