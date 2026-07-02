@@ -1,2 +1,2 @@
-# Redirect www to non-www
+/ /en 302
 https://www.vtpbluewaters.com/* https://vtpbluewaters.com/:splat 301
