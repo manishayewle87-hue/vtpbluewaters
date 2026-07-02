@@ -13,6 +13,7 @@ import GoogleAnalytics from '@/app/components/analytics/GoogleAnalytics';
 import Clarity from '@/app/components/analytics/Clarity';
 import MobileBottomBar from '@/app/components/ui/MobileBottomBar';
 import CanonicalHreflang from '@/app/components/seo/CanonicalHreflang';
+import BreadcrumbSchema from '@/app/components/seo/BreadcrumbSchema';
 const inter = Inter({ 
   subsets: ['latin'], 
   variable: '--font-inter',
@@ -28,11 +29,24 @@ export function generateStaticParams() {
   return [{ lang: 'en' }];
 }
 
+export const viewport = {
+  themeColor: '#0A1128',
+  width: 'device-width',
+  initialScale: 1,
+  maximumScale: 5,
+  colorScheme: 'dark',
+};
+
 export const metadata = {
   title: 'VTP Bluewaters | Premium Luxury Residences in Pune',
   description: 'Experience ultra-luxury living at VTP Bluewaters Pune. Master-planned township featuring 2, 3, 4, 5 BHK apartments, duplexes, and villas.',
   verification: {
     google: 'YOUR_GSC_VERIFICATION_STRING',
+  },
+  appleWebApp: {
+    capable: true,
+    title: 'VTP Bluewaters',
+    statusBarStyle: 'black-translucent',
   },
   metadataBase: new URL('https://vtpbluewaters.com'),
   openGraph: {
@@ -56,6 +70,7 @@ export default function RootLayout({ children, params: { lang = 'en' } }) {
     <html lang={lang} className={`${inter.variable} ${outfit.variable}`}>
       <head>
         <CanonicalHreflang />
+        <BreadcrumbSchema />
       </head>
       <body className="bg-luxury-navy text-luxury-white font-sans antialiased cursor-none">
         <GoogleAnalytics />
