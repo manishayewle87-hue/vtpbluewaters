@@ -9,6 +9,3 @@ compatibility_flags = ["nodejs_compat"]
 binding = "DB"
 database_name = "vtp-bluewaters-db"
 database_id = "87b9f9e7-2d85-4bab-a6b4-25c11c240198"
-
-[[send_email]]
-name = "EMAIL_SENDER"
