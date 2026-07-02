@@ -13,15 +13,15 @@ export default function MobileBottomBar() {
           <span className="text-[9px] tracking-widest uppercase">Call Us</span>
         </a>
         <a 
-          href="mailto:sales@vtprealty.in" 
-          className="flex-1 flex flex-col items-center justify-center text-luxury-silver hover:bg-white/5 transition-colors"
+          href="#enquiry" 
+          className="flex-1 flex flex-col items-center justify-center text-luxury-silver hover:bg-white/5 transition-colors enquiry-trigger"
         >
           <Mail size={20} strokeWidth={1.5} className="mb-1" />
           <span className="text-[9px] tracking-widest uppercase">Enquire</span>
         </a>
         <a 
           href="#enquiry" 
-          className="flex-[1.5] bg-luxury-gold flex flex-col items-center justify-center text-luxury-navy hover:bg-white transition-colors"
+          className="flex-[1.5] bg-luxury-gold flex flex-col items-center justify-center text-luxury-navy hover:bg-white transition-colors enquiry-trigger"
         >
           <span className="text-[11px] font-bold tracking-[0.2em] uppercase">Register</span>
         </a>

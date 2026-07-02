@@ -52,7 +52,7 @@ export default function LuxuryNavbar() {
           </Link>
           
           {/* Desktop Navigation */}
-          <div className="hidden lg:flex gap-12 items-center text-[10px] font-medium tracking-[0.3em] uppercase">
+          <div className="hidden lg:flex gap-12 items-center text-[13px] font-medium tracking-[0.25em] uppercase">
             {navLinks.map((link) => (
                <Link key={link.label} href={link.href} title={`Navigate to ${link.label}`} className="hover:text-luxury-gold transition-colors duration-300">
                  {link.label}
@@ -60,8 +60,8 @@ export default function LuxuryNavbar() {
             ))}
             
             <MagneticButton>
-              <button className="relative overflow-hidden group bg-luxury-gold/10 border border-luxury-gold/30 text-luxury-gold px-8 py-3 rounded-full hover:border-luxury-gold hover:text-luxury-navy transition-all duration-500">
-                <span className="relative z-10">Enquire Now</span>
+              <button className="relative overflow-hidden group bg-luxury-gold/10 border border-luxury-gold/30 text-luxury-gold px-8 py-3 rounded-full hover:border-luxury-gold hover:text-luxury-navy transition-all duration-500 enquiry-trigger">
+                <span className="relative z-10 font-bold tracking-[0.2em]">ENQUIRE NOW</span>
                 <div className="absolute inset-0 bg-luxury-gold translate-y-full group-hover:translate-y-0 transition-transform duration-500 ease-[0.16,1,0.3,1] z-0"></div>
               </button>
             </MagneticButton>
@@ -118,9 +118,9 @@ export default function LuxuryNavbar() {
                 <Link 
                   href="#enquiry"
                   onClick={() => setMobileMenuOpen(false)}
-                  className="bg-luxury-gold text-luxury-navy px-12 py-4 rounded-full font-medium tracking-[0.2em] uppercase text-xs hover:bg-white transition-colors duration-300 shadow-[0_0_30px_rgba(212,175,55,0.3)]"
+                  className="bg-luxury-gold text-luxury-navy px-12 py-4 rounded-full font-bold tracking-[0.2em] uppercase text-xs hover:bg-white transition-colors duration-300 shadow-[0_0_30px_rgba(212,175,55,0.3)] enquiry-trigger"
                 >
-                  Enquire Now
+                  ENQUIRE NOW
                 </Link>
               </motion.div>
             </div>

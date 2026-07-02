@@ -1,10 +1,37 @@
 'use client';
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 
 export default function StickyEnquiryWidget() {
   const [isOpen, setIsOpen] = useState(false);
   const [isHovered, setIsHovered] = useState(false);
+
+  // Pre-load enquiry form on website loading and handle external triggers
+  useEffect(() => {
+    // Open after a short delay on initial load
+    const timer = setTimeout(() => {
+      if (sessionStorage.getItem('enquiry_auto_opened') !== 'true') {
+        setIsOpen(true);
+        sessionStorage.setItem('enquiry_auto_opened', 'true');
+      }
+    }, 2000);
+
+    // Listen for clicks on any element with the 'enquiry-trigger' class
+    const handleGlobalClick = (e) => {
+      const trigger = e.target.closest('.enquiry-trigger');
+      if (trigger) {
+        e.preventDefault();
+        setIsOpen(true);
+      }
+    };
+    
+    document.addEventListener('click', handleGlobalClick);
+
+    return () => {
+      clearTimeout(timer);
+      document.removeEventListener('click', handleGlobalClick);
+    };
+  }, []);
 
   return (
     <>
@@ -16,9 +43,9 @@ export default function StickyEnquiryWidget() {
         onMouseEnter={() => setIsHovered(true)}
         onMouseLeave={() => setIsHovered(false)}
         onClick={() => setIsOpen(true)}
-        className="fixed bottom-8 right-8 z-40 hidden md:flex items-center gap-3 bg-luxury-gold text-luxury-navy px-6 py-4 rounded-full shadow-[0_10px_30px_rgba(212,175,55,0.2)] hover:shadow-[0_10px_40px_rgba(212,175,55,0.4)] transition-shadow duration-300 group overflow-hidden"
+        className="fixed bottom-8 right-8 z-40 hidden md:flex items-center gap-3 bg-luxury-gold text-luxury-navy px-6 py-4 rounded-full shadow-[0_10px_30px_rgba(212,175,55,0.2)] hover:shadow-[0_10px_40px_rgba(212,175,55,0.4)] transition-shadow duration-300 group overflow-hidden enquiry-trigger"
       >
-        <span className="relative z-10 font-medium tracking-wide uppercase text-xs">Enquire Now</span>
+        <span className="relative z-10 font-bold tracking-widest uppercase text-xs">ENQUIRE NOW</span>
         <svg className="w-4 h-4 relative z-10" fill="none" viewBox="0 0 24 24" stroke="currentColor">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
         </svg>
