@@ -1,4 +1,5 @@
-export const dynamic = 'force-static';
+export const runtime = 'edge';
+export const revalidate = 86400;
 export default function robots() {
   return {
     rules: [

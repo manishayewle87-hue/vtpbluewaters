@@ -3,21 +3,8 @@ import Link from 'next/link';
 import { ArrowLeft, Calendar, User } from 'lucide-react';
 import ReactMarkdown from 'react-markdown';
 
-export async function generateStaticParams() {
-  const paths = [];
-  const langs = ['en', 'mr', 'hi'];
-  
-  langs.forEach(lang => {
-    contentData.blogs.forEach(blog => {
-      paths.push({
-        lang: lang,
-        slug: blog.slug
-      });
-    });
-  });
-  
-  return paths;
-}
+export const runtime = 'edge';
+export const revalidate = 86400; // Cache for 24 hours
 
 export function generateMetadata({ params }) {
   const blog = contentData.blogs.find(b => b.slug === params.slug);

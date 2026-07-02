@@ -18,20 +18,8 @@ const KEYWORD_INTENTS = [
   'near-metro', 'near-it-parks', 'near-schools', 'near-hospitals'
 ];
 
-export async function generateStaticParams() {
-  const params = [];
-  
-  PUNE_MICRO_MARKETS.forEach((location) => {
-    KEYWORD_INTENTS.forEach((intent) => {
-      params.push({
-        location: location.slug,
-        intent: intent,
-      });
-    });
-  });
-  
-  return params;
-}
+export const runtime = 'edge';
+export const revalidate = 86400; // Cache for 24 hours
 
 export async function generateMetadata({ params }) {
   const { location, intent } = await params;

@@ -11,6 +11,14 @@ export default function WhatsAppWidget() {
       target="_blank"
       rel="noopener noreferrer"
       aria-label="Chat on WhatsApp"
+      onClick={() => {
+        if (typeof window !== 'undefined' && window.gtag) {
+          window.gtag('event', 'whatsapp_click', {
+            event_category: 'engagement',
+            event_label: 'WhatsApp Floating Widget',
+          });
+        }
+      }}
       className="fixed bottom-6 left-6 z-[60] bg-[#25D366] text-white p-4 rounded-full shadow-lg hover:scale-110 transition-transform duration-300 flex items-center justify-center group"
     >
       <svg

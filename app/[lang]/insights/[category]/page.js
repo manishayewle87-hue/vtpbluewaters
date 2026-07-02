@@ -3,12 +3,8 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { articleEngine } from '@/app/services/articleEngine';
 
-export async function generateStaticParams() {
-  const categories = await articleEngine.getAllCategories();
-  return categories.map((cat) => ({
-    category: cat.slug,
-  }));
-}
+export const runtime = 'edge';
+export const revalidate = 86400; // Cache for 24 hours
 
 export async function generateMetadata({ params }) {
   const { category } = await params;

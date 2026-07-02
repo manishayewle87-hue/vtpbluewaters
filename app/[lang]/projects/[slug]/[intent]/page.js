@@ -25,22 +25,8 @@ const KEYWORD_INTENTS = [
   'near-metro', 'near-it-parks', 'near-schools', 'near-hospitals'
 ];
 
-export async function generateStaticParams() {
-  const projects = await cms.getAllProjects();
-  const params = [];
-  
-  // Cross-multiply every project with every intent
-  projects.forEach((project) => {
-    KEYWORD_INTENTS.forEach((intent) => {
-      params.push({
-        slug: project.slug,
-        intent: intent,
-      });
-    });
-  });
-  
-  return params;
-}
+export const runtime = 'edge';
+export const revalidate = 86400; // Cache for 24 hours
 
 // Generate dynamic, hyper-specific metadata for the pSEO page
 export async function generateMetadata({ params }) {

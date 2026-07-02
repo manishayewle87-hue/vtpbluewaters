@@ -24,9 +24,8 @@ const outfit = Outfit({
   display: 'swap',
 });
 
-export function generateStaticParams() {
-  return [{ lang: 'en' }];
-}
+export const runtime = 'edge';
+export const revalidate = 86400; // Cache for 24 hours
 
 export const metadata = {
   title: 'VTP Bluewaters | Premium Luxury Residences in Pune',
@@ -45,6 +44,9 @@ export const metadata = {
     card: 'summary_large_image',
     title: 'VTP BLUEWATERS | Ultra Luxury Residences in Pune',
     description: 'Discover the pinnacle of luxury living at VTP BLUEWATERS Township, Mahalunge, Pune.',
+  },
+  icons: {
+    icon: '/icon.svg',
   },
 };
 

@@ -2,7 +2,8 @@ import { cms } from './services/cms';
 import { PUNE_MICRO_MARKETS } from './services/locationEngine';
 import contentData from '@/app/data/content-hub.json';
 
-export const dynamic = 'force-static';
+export const runtime = 'edge';
+export const revalidate = 86400;
 export default async function sitemap() {
   const baseUrl = 'https://vtpbluewaters.com';
   const langs = ['en', 'mr', 'hi'];

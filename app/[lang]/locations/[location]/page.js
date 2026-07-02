@@ -5,17 +5,8 @@ import HeroSection from '@/app/components/ui/HeroSection';
 import TownshipOverview from '@/app/components/ui/TownshipOverview';
 import Link from 'next/link';
 
-export async function generateStaticParams() {
-  const params = [];
-  const langs = ['en', 'mr', 'hi'];
-  
-  for (const lang of langs) {
-    for (const loc of locationsData) {
-      params.push({ lang, location: loc.slug });
-    }
-  }
-  return params;
-}
+export const runtime = 'edge';
+export const revalidate = 86400; // Cache for 24 hours
 
 export async function generateMetadata({ params }) {
   const loc = locationsData.find(l => l.slug === params.location);
