@@ -1,4 +1,5 @@
 import { notFound } from 'next/navigation';
+import Image from 'next/image';
 import locationsData from '@/app/data/locations.json';
 import projectsData from '@/app/data/projects.json';
 import HeroSection from '@/app/components/ui/HeroSection';
@@ -42,10 +43,13 @@ export default function LocationPage({ params }) {
       <section className="relative w-full h-[60vh] flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0 z-0">
           <div className="absolute inset-0 bg-gradient-to-b from-luxury-navy/80 via-luxury-charcoal/60 to-luxury-charcoal z-10" />
-          <img 
+          <Image 
             src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=2940&auto=format&fit=crop"
             alt={`${loc.name} Real Estate`}
-            className="w-full h-full object-cover scale-105 transform hover:scale-100 transition-transform duration-[10s]"
+            fill
+            sizes="100vw"
+            priority
+            className="object-cover scale-105 transform hover:scale-100 transition-transform duration-[10s]"
           />
         </div>
         <div className="relative z-10 text-center max-w-4xl px-4 mt-20">
@@ -98,8 +102,8 @@ export default function LocationPage({ params }) {
           {associatedProjects.map((project) => (
             <Link href={`/${params.lang}/projects/${project.slug}`} key={project.id} className="group">
               <div className="bg-luxury-navy rounded-xl overflow-hidden border border-white/5 group-hover:border-luxury-gold/50 transition-all duration-300">
-                <div className="h-64 overflow-hidden">
-                  <img src={project.image} alt={project.name} className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700" />
+                <div className="h-64 overflow-hidden relative">
+                  <Image src={project.image} alt={project.name} fill sizes="(max-width: 768px) 100vw, 33vw" className="object-cover group-hover:scale-110 transition-transform duration-700" />
                 </div>
                 <div className="p-6">
                   <h3 className="text-2xl font-heading text-luxury-white mb-2">{project.name}</h3>

@@ -1,5 +1,6 @@
 'use client';
 import { motion } from 'framer-motion';
+import Image from 'next/image';
 
 export default function ProjectMasterLayout({ masterLayout }) {
   return (
@@ -21,10 +22,12 @@ export default function ProjectMasterLayout({ masterLayout }) {
           viewport={{ once: true }}
           className="relative w-full aspect-[16/9] md:aspect-[21/9] overflow-hidden bg-luxury-navy border border-white/5 group"
         >
-          <img 
-            src={masterLayout} 
-            alt="Master Layout" 
-            className="w-full h-full object-cover opacity-80 group-hover:opacity-100 group-hover:scale-105 transition-all duration-1000"
+          <Image 
+            src={masterLayout || '/assets/projects/earth-1/master-plan.jpg'} 
+            alt="Master Layout"
+            fill
+            sizes="100vw"
+            className="object-cover opacity-80 group-hover:opacity-100 group-hover:scale-105 transition-all duration-1000"
           />
           <div className="absolute inset-0 bg-luxury-navy/20 pointer-events-none"></div>
           

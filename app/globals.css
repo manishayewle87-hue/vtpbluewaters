@@ -23,13 +23,13 @@
   }
 
   /* Premium Typography Scale */
-  h1 { @apply font-display font-light tracking-tight leading-[0.9]; }
-  h2 { @apply font-display font-light tracking-tight leading-tight; }
-  h3 { @apply font-display font-light tracking-tight; }
-  h4 { @apply font-display font-light; }
+  h1 { @apply font-display font-normal tracking-tight leading-[0.9]; }
+  h2 { @apply font-display font-normal tracking-tight leading-tight; }
+  h3 { @apply font-display font-normal tracking-tight; }
+  h4 { @apply font-display font-normal; }
 
   p {
-    @apply font-sans font-light leading-relaxed;
+    @apply font-sans font-normal leading-relaxed;
     font-feature-settings: 'kern' 1, 'liga' 1, 'calt' 1;
   }
 

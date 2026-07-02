@@ -60,7 +60,7 @@ export async function generateMetadata({ params }) {
     title,
     description,
     alternates: {
-      canonical: `https://vtpbluewaters.com/projects/${project.slug}/${intent}`,
+      canonical: `https://vtpbluewaters.com/${params.lang}/projects/${project.slug}/${intent}`,
     },
     openGraph: {
       title,
@@ -91,7 +91,7 @@ export default async function ProjectIntentDetail({ params }) {
     '@type': 'ApartmentComplex',
     name: `${project.name} ${displayIntent}`,
     description: `Official details regarding ${displayIntent} for ${project.name}.`,
-    url: `https://vtpbluewaters.com/projects/${project.slug}/${intent}`,
+    url: `https://vtpbluewaters.com/${params.lang}/projects/${project.slug}/${intent}`,
     image: project.image,
     parentOrganization: {
       "@id": "https://vtpbluewaters.com/#organization"
@@ -138,7 +138,7 @@ export default async function ProjectIntentDetail({ params }) {
           </div>
           
           <div className="container relative z-10 mx-auto px-6 max-w-7xl">
-            <Link href={`/projects/${project.slug}`} className="inline-flex items-center gap-2 text-luxury-caption text-luxury-silver hover:text-luxury-gold transition-colors mb-8">
+            <Link href={`/${params.lang}/projects/${project.slug}`} className="inline-flex items-center gap-2 text-luxury-caption text-luxury-silver hover:text-luxury-gold transition-colors mb-8">
               <span>←</span> Back to Main Project
             </Link>
             
@@ -159,7 +159,7 @@ export default async function ProjectIntentDetail({ params }) {
               {KEYWORD_INTENTS.map(k => (
                 <Link 
                   key={k} 
-                  href={`/projects/${project.slug}/${k}`}
+                  href={`/${params.lang}/projects/${project.slug}/${k}`}
                   className={`text-sm tracking-wider uppercase whitespace-nowrap transition-colors ${intent === k ? 'text-luxury-gold font-medium' : 'text-luxury-silver hover:text-white'}`}
                 >
                   {k.replace(/-/g, ' ')}

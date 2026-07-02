@@ -29,7 +29,7 @@ export async function generateMetadata({ params }) {
     title: project.seoTitle,
     description: project.seoDescription,
     alternates: {
-      canonical: `https://vtpbluewaters.com/projects/${project.slug}`,
+      canonical: `https://vtpbluewaters.com/${(await params).lang}/projects/${project.slug}`,
     },
     openGraph: {
       title: project.seoTitle,
@@ -40,13 +40,13 @@ export async function generateMetadata({ params }) {
   };
 }
 
-function generateJsonLd(project) {
+function generateJsonLd(project, lang) {
   return {
     '@context': 'https://schema.org',
     '@type': 'ApartmentComplex',
     name: project.name,
     description: project.overview,
-    url: `https://vtpbluewaters.com/projects/${project.slug}`,
+    url: `https://vtpbluewaters.com/${lang}/projects/${project.slug}`,
     image: project.image,
     address: {
       '@type': 'PostalAddress',
@@ -66,14 +66,14 @@ function generateJsonLd(project) {
 }
 
 export default async function ProjectDetail({ params }) {
-  const { slug } = await params;
+  const { slug, lang } = await params;
   const project = await cms.getProjectBySlug(slug);
 
   if (!project) {
     notFound();
   }
 
-  const jsonLd = generateJsonLd(project);
+  const jsonLd = generateJsonLd(project, lang);
 
   return (
     <>

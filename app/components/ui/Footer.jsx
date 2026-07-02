@@ -19,7 +19,7 @@ const townships = [
 
 export default function Footer() {
   return (
-    <footer className="bg-[#050914] border-t border-white/5">
+    <footer aria-label="Site Footer" className="bg-[#050914] border-t border-white/5">
       {/* Main Footer */}
       <div className="container mx-auto px-6 max-w-7xl pt-20 pb-10">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-16 lg:gap-12">

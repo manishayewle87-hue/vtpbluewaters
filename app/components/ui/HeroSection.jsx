@@ -61,8 +61,7 @@ export default function HeroSection() {
       {/* 3D WebGL Background Layer */}
       <FluidBackground />
       
-      {/* Subtle overlay to ensure text readability */}
-      <div className="absolute inset-0 bg-luxury-navy/40 z-[1]"></div>
+      {/* Overlay removed for maximum brightness */}
 
       <div className="relative z-10 text-center flex flex-col items-center max-w-6xl px-6">
         <motion.div

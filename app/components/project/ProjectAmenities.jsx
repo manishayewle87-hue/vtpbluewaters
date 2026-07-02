@@ -212,7 +212,7 @@ export default function ProjectAmenities({ amenities }) {
         </motion.div>
 
         <div className="grid grid-cols-2 md:grid-cols-3 gap-5 lg:gap-6">
-          {amenities.map((amenity, idx) => {
+          {amenities?.map((amenity, idx) => {
             const name = typeof amenity === 'string' ? amenity : amenity.name;
             const iconName = typeof amenity === 'string' ? 'Building' : (amenity.icon || 'Building');
             const isHovered = hoveredIdx === idx;

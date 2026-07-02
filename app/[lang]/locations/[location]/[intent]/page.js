@@ -153,7 +153,7 @@ export default async function LocationIntentDetail({ params }) {
                     <h3 className="text-xl font-display text-white mb-6">Recommended Projects {isExactLocation ? 'in' : 'near'} {locData.name}</h3>
                     <div className="space-y-4">
                       {projects.map(p => (
-                        <Link href={`/projects/${p.slug}/${intent}`} key={p.id} className="block group">
+                        <Link href={`/${params.lang}/projects/${p.slug}/${intent}`} key={p.id} className="block group">
                           <div className="flex items-center gap-4 p-3 rounded bg-white/5 border border-white/5 group-hover:border-luxury-gold/50 transition-colors">
                             <div className="relative w-16 h-16 rounded overflow-hidden flex-shrink-0">
                               <Image src={p.image} alt={p.name} fill className="object-cover" />

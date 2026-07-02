@@ -60,10 +60,10 @@ const ParticleWave = () => {
         />
       </bufferGeometry>
       <pointsMaterial
-        size={0.05}
-        color="#36C5CD"
+        size={0.1}
+        color="#00FFFF"
         transparent
-        opacity={0.4}
+        opacity={1.0}
         sizeAttenuation={true}
       />
     </points>

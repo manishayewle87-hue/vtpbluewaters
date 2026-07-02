@@ -1,6 +1,7 @@
 'use client';
 import { useState } from 'react';
 import { motion } from 'framer-motion';
+import Image from 'next/image';
 import PricingModal from './PricingModal';
 
 export default function ProjectFloorPlans({ floorPlans, projectName }) {
@@ -39,9 +40,11 @@ export default function ProjectFloorPlans({ floorPlans, projectName }) {
                 className="bg-luxury-charcoal border border-white/5 overflow-hidden group hover:border-luxury-gold/40 transition-colors duration-500"
               >
                 <div className="aspect-[4/3] overflow-hidden relative bg-black/50">
-                  <img 
-                    src={plan.image} 
-                    alt={plan.type} 
+                  <Image 
+                    src={plan.image || '/assets/projects/earth-1/floor-plan-3bhk.jpg'} 
+                    alt={plan.type}
+                    fill
+                    sizes="(max-width: 768px) 100vw, 33vw"
                     className="w-full h-full object-cover opacity-60 group-hover:opacity-100 group-hover:scale-110 transition-all duration-700 mix-blend-luminosity group-hover:mix-blend-normal"
                   />
                 </div>

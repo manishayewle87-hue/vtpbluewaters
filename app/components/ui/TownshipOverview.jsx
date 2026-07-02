@@ -74,13 +74,13 @@ export default function TownshipOverview() {
                 <span className="italic text-luxury-silver">A City</span>
               </h2>
               <p className="text-luxury-silver font-light text-editorial leading-relaxed max-w-lg">
-                Spanning over 200 acres, VTP BLUEWATERS is Pune's most ambitious township. A meticulously planned ecosystem that integrates residential luxury, commercial hubs, and nature.
+                Spanning over 200 acres, VTP BLUEWATERS is Pune&apos;s most ambitious township. A meticulously planned ecosystem that integrates residential luxury, commercial hubs, and nature.
               </p>
             </div>
 
             {/* Slide 2 */}
             <div className="absolute w-full opacity-0 pointer-events-none">
-              <div className="text-luxury-label text-luxury-gold mb-6">Nature's Canvas</div>
+              <div className="text-luxury-label text-luxury-gold mb-6">Nature&apos;s Canvas</div>
               <h2 className="text-display-sm lg:text-display-md font-display font-light mb-8 leading-tight">
                 Embraced By <br />
                 <span className="italic text-[#36C5CD]">The River</span>

@@ -82,9 +82,9 @@ export default function ConfigurationsGrid({ projects }) {
           >
             {/* Background Image */}
             <div className="absolute inset-0">
-              {project.heroImage ? (
+              {project.image ? (
                 <Image 
-                  src={project.heroImage} 
+                  src={project.image} 
                   alt={project.name || 'Project image'}
                   fill
                   sizes="(max-width: 1024px) 100vw, 450px"
@@ -99,18 +99,18 @@ export default function ConfigurationsGrid({ projects }) {
             {/* Content Overlay */}
             <div className="absolute inset-0 p-8 lg:p-12 flex flex-col justify-end">
               <div className="text-luxury-label text-luxury-gold mb-3 opacity-0 translate-y-4 group-hover:opacity-100 group-hover:translate-y-0 transition-all duration-500 delay-100">
-                {project.type}
+                {project.township}
               </div>
               
               <h3 className="text-3xl lg:text-4xl font-display font-light text-white mb-2">{project.name}</h3>
               
               <div className="flex items-center gap-4 text-sm text-luxury-silver/80 font-light mb-8">
-                <span>{project.configurations}</span>
+                <span>{project.location}</span>
                 <span className="w-1 h-1 rounded-full bg-luxury-gold"></span>
-                <span>{project.status}</span>
+                <span>Ultra Luxury</span>
               </div>
 
-              <Link href={`/projects/${project.slug}`}>
+              <Link href={`/en/projects/${project.slug}`}>
                 <button className="flex items-center gap-4 text-luxury-caption text-white group-hover:text-luxury-gold transition-colors">
                   <span className="tracking-widest uppercase">Explore Project</span>
                   <span className="w-8 h-[1px] bg-luxury-gold/50 group-hover:w-16 group-hover:bg-luxury-gold transition-all duration-500"></span>

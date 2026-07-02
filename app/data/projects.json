@@ -4,7 +4,7 @@
     "township": "Township Pegasus",
     "name": "ALTAMIRA BY VTP LUXE",
     "location": "Kharadi, Pune",
-    "image": "/assets/projects/earth-1/hero.jpg",
+    "image": "/images/real_vtp/waterfall_15a1aa4cf5.webp",
     "link": "https://vtprealty.in/projects/vtp-altamira-kharadi-pune",
     "slug": "altamira-by-vtp-luxe",
     "seoTitle": "ALTAMIRA BY VTP LUXE in Kharadi, Pune | VTP BLUEWATERS Ultra Luxury",
@@ -64,7 +64,7 @@
         "distance": "12 Mins"
       }
     ],
-    "masterLayout": "/assets/projects/earth-1/master-plan.jpg",
+    "masterLayout": "/images/real_vtp/Main_website_da76ded661.webp",
     "floorPlans": [
       {
         "type": "3 BHK Luxury",
@@ -86,7 +86,7 @@
     "township": "Township BLUEWATERS",
     "name": "MONARQUE BY VTP LUXE",
     "location": "Hinjawadi,\u00a0Pune",
-    "image": "/assets/projects/earth-1/hero.jpg",
+    "image": "/images/real_vtp/monarque/monaqur_ef98ea7124.webp",
     "link": "https://vtprealty.in/projects/vtp-monarque-hinjawadi-pune",
     "slug": "monarque-by-vtp-luxe",
     "seoTitle": "MONARQUE BY VTP LUXE in Hinjawadi,\u00a0Pune | VTP BLUEWATERS Ultra Luxury",
@@ -150,23 +150,31 @@
         "distance": "12 Mins"
       }
     ],
-    "masterLayout": "/assets/projects/earth-1/master-plan.jpg",
+    "masterLayout": "/images/real_vtp/monarque/Blue_Waters_Township_Map_Monarque_cef31c4e9c.webp",
     "floorPlans": [
       {
         "type": "2 BHK",
         "carpetArea": "780 - 860 Sq.Ft.",
-        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+        "image": "/images/real_vtp/monarque/Exterior_1_92cec5d0a0.webp"
       },
       {
         "type": "3 BHK",
         "carpetArea": "951 - 1490 Sq.Ft.",
-        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+        "image": "/images/real_vtp/monarque/Exterior_2_757a0d2bde.webp"
       },
       {
         "type": "4.5 BHK Mansions",
         "carpetArea": "1610 - 2980 Sq.Ft.",
-        "image": "/assets/projects/earth-1/floor-plan-3bhk.jpg"
+        "image": "/images/real_vtp/monarque/Exterior_4_72b62aa7b1.webp"
       }
+    ],
+    "gallery": [
+      "/images/real_vtp/monarque/Exterior_6_fb9d7dd82d.webp",
+      "/images/real_vtp/monarque/Exterior_10_f6550710c5.webp",
+      "/images/real_vtp/monarque/Square_1_d587aa7840.webp",
+      "/images/real_vtp/monarque/Ame21_082cc079dd.jpg",
+      "/images/real_vtp/monarque/Ame20_35fab810ef.jpg",
+      "/images/real_vtp/monarque/Ame17_7c265d629d.jpg"
     ],
     "maharera": [
       "P52100077322"
@@ -177,7 +185,7 @@
     "township": "Township BLUEWATERS",
     "name": "EARTH 1 BY VTP LUXE",
     "location": "Mahalunge, Pune",
-    "image": "/assets/projects/earth-1/hero.jpg",
+    "image": "/images/real_vtp/VTP_EARTH_ONE_C22_N_min_35919648ed.jpg",
     "link": "https://vtprealty.in/projects/earth-one-by-vtp-luxe-mahalunge-pune",
     "slug": "earth-1-by-vtp-luxe",
     "seoTitle": "EARTH 1 BY VTP LUXE in Mahalunge, Pune | VTP BLUEWATERS Ultra Luxury",
@@ -241,7 +249,7 @@
         "distance": "12 Mins"
       }
     ],
-    "masterLayout": "/assets/projects/earth-1/master-plan.jpg",
+    "masterLayout": "/images/real_vtp/about_34bebbbd76.jpg",
     "floorPlans": [
       {
         "type": "2 BHK",
@@ -275,7 +283,7 @@
     "township": "Township Pegasus",
     "name": "FLAMANTE BY VTP LUXE",
     "location": "Kharadi, Pune",
-    "image": "/assets/projects/earth-1/hero.jpg",
+    "image": "/images/real_vtp/w_EB_b_ANNER_1920_X1080_ca362a2b3f.jpg",
     "link": "https://vtprealty.in/projects/flamante-by-vtp-luxe-kharadi-pune",
     "slug": "flamante-by-vtp-luxe",
     "seoTitle": "FLAMANTE BY VTP LUXE in Kharadi, Pune | VTP BLUEWATERS Ultra Luxury",
@@ -339,7 +347,7 @@
         "distance": "12 Mins"
       }
     ],
-    "masterLayout": "/assets/projects/earth-1/master-plan.jpg",
+    "masterLayout": "/images/real_vtp/overview_dfe87892a1.jpg",
     "floorPlans": [
       {
         "type": "2 BHK Premium",
@@ -366,7 +374,7 @@
     "township": "Township Pegasus",
     "name": "VELVET VILLAS BY VTP LUXE",
     "location": "Kharadi, Pune",
-    "image": "/assets/projects/earth-1/hero.jpg",
+    "image": "/images/real_vtp/banner_d740f9a3b1.webp",
     "link": "https://vtprealty.in/projects/velvet-villas-by-vtp-luxe-kharadi-pune",
     "slug": "velvet-villas-by-vtp-luxe",
     "seoTitle": "VELVET VILLAS BY VTP LUXE in Kharadi, Pune | VTP BLUEWATERS Ultra Luxury",
@@ -430,7 +438,7 @@
         "distance": "12 Mins"
       }
     ],
-    "masterLayout": "/assets/projects/earth-1/master-plan.jpg",
+    "masterLayout": "/images/real_vtp/overview_b3e803d638.webp",
     "floorPlans": [
       {
         "type": "2 BHK Premium",
@@ -458,7 +466,7 @@
     "township": "Township",
     "name": "CIELO BY VTP LUXE",
     "location": "Bavdhan, Pune",
-    "image": "/assets/projects/earth-1/hero.jpg",
+    "image": "/images/real_vtp/cilo_bf26631338.webp",
     "link": "https://vtprealty.in/projects/vtp-cielo-bavdhan-pune",
     "slug": "cielo-by-vtp-luxe",
     "seoTitle": "CIELO BY VTP LUXE in Bavdhan, Pune | VTP BLUEWATERS Ultra Luxury",
@@ -522,7 +530,7 @@
         "distance": "12 Mins"
       }
     ],
-    "masterLayout": "/assets/projects/earth-1/master-plan.jpg",
+    "masterLayout": "/images/real_vtp/Square_d896b84b5a.webp",
     "floorPlans": [
       {
         "type": "2 BHK Premium",
@@ -549,7 +557,7 @@
     "township": "Township Pegasus",
     "name": "VTP AURELIA",
     "location": "Kharadi, Pune",
-    "image": "/assets/projects/earth-1/hero.jpg",
+    "image": "/images/real_vtp/1536_X703_2_ab6390d229.png",
     "link": "https://vtprealty.in/projects/vtp-aurelia-kharadi-pune",
     "slug": "vtp-aurelia",
     "seoTitle": "VTP AURELIA in Kharadi, Pune | VTP BLUEWATERS Ultra Luxury",
@@ -613,7 +621,7 @@
         "distance": "12 Mins"
       }
     ],
-    "masterLayout": "/assets/projects/earth-1/master-plan.jpg",
+    "masterLayout": "/images/real_vtp/ELEVATION_NIGHT_Lores_940868b46f.jpg",
     "floorPlans": [
       {
         "type": "2 BHK Premium",
@@ -731,7 +739,7 @@
     "township": "Township Skylights",
     "name": "VTP VERVE",
     "location": "Baner Sus Road, Pune",
-    "image": "/assets/projects/earth-1/hero.jpg",
+    "image": "/images/real_vtp/banner_be053a20bf.jpg",
     "link": "https://vtprealty.in/projects/vtp-verve-baner-sus-pune",
     "slug": "vtp-verve",
     "seoTitle": "VTP VERVE in Baner Sus Road, Pune | VTP BLUEWATERS Ultra Luxury",
@@ -795,7 +803,7 @@
         "distance": "12 Mins"
       }
     ],
-    "masterLayout": "/assets/projects/earth-1/master-plan.jpg",
+    "masterLayout": "/images/real_vtp/about_b0ba8e2b88.jpg",
     "floorPlans": [
       {
         "type": "2 BHK Premium",
