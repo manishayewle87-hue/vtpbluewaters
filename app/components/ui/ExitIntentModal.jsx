@@ -82,6 +82,7 @@ export default function ExitIntentModal() {
             
             <button 
               onClick={() => setIsVisible(false)}
+              aria-label="Close modal"
               className="absolute top-6 right-6 text-white/50 hover:text-white transition-colors text-2xl font-light"
             >
               ×
