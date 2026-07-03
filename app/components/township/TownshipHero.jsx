@@ -41,7 +41,7 @@ export default function TownshipHero() {
           initial={{ opacity: 0, y: 40 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1.2, ease: [0.16, 1, 0.3, 1], delay: 0.2 }}
-          className="text-display-lg md:text-display-xl lg:text-display-2xl text-white font-display font-light uppercase tracking-tighter mb-8"
+          className="text-5xl md:text-display-xl lg:text-display-2xl text-white font-display font-light uppercase tracking-tighter mb-8"
         >
           200+ Acres Of <br />
           <span className="text-luxury-gold font-normal">Unparalleled Vision</span>

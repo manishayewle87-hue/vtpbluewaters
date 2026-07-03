@@ -33,7 +33,7 @@ export default function MasterplanDeepDive() {
           className="max-w-4xl mb-24"
         >
           <p className="text-luxury-label text-luxury-gold mb-6">The Masterplan</p>
-          <h2 className="text-display-md md:text-display-lg lg:text-display-xl font-display font-light uppercase tracking-tighter leading-[0.9]">
+          <h2 className="text-4xl sm:text-5xl md:text-display-lg lg:text-display-xl font-display font-light uppercase tracking-tighter leading-[0.9]">
             A meticulously designed <br />
             <span className="text-luxury-gold font-normal">ecosystem</span>
           </h2>

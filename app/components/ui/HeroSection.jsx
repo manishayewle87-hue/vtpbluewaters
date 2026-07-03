@@ -86,7 +86,7 @@ export default function HeroSection() {
             {titleText.split('').map((char, i) => (
               <span 
                 key={i} 
-                className="letter inline-block text-display-lg md:text-display-xl lg:text-display-2xl text-[#36C5CD] font-display font-black uppercase"
+                className="letter inline-block text-4xl sm:text-5xl md:text-display-xl lg:text-display-2xl text-[#36C5CD] font-display font-black uppercase"
                 style={{ opacity: 0 }}
               >
                 {char}

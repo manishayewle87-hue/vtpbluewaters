@@ -72,7 +72,7 @@ export default function RootLayout({ children, params: { lang = 'en' } }) {
         <CanonicalHreflang />
         <BreadcrumbSchema />
       </head>
-      <body className="bg-luxury-navy text-luxury-white font-sans antialiased cursor-none">
+      <body className="bg-luxury-navy text-luxury-white font-sans antialiased cursor-none overflow-x-hidden w-full">
         <GoogleAnalytics />
         <Clarity />
         <KnowledgeGraph />

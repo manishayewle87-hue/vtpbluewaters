@@ -27,11 +27,11 @@ module.exports = {
         display: ['var(--font-outfit)', 'system-ui', 'sans-serif'],
       },
       fontSize: {
-        'display-sm': ['3rem', { lineHeight: '1', letterSpacing: '-0.02em' }],
-        'display-md': ['4rem', { lineHeight: '0.95', letterSpacing: '-0.02em' }],
-        'display-lg': ['5.5rem', { lineHeight: '0.9', letterSpacing: '-0.02em' }],
-        'display-xl': ['7rem', { lineHeight: '0.85', letterSpacing: '-0.03em' }],
-        'display-2xl': ['9rem', { lineHeight: '0.82', letterSpacing: '-0.03em' }],
+        'display-sm': ['clamp(2rem, 5vw, 3rem)', { lineHeight: '1', letterSpacing: '-0.02em' }],
+        'display-md': ['clamp(2.5rem, 6vw, 4rem)', { lineHeight: '0.95', letterSpacing: '-0.02em' }],
+        'display-lg': ['clamp(3rem, 8vw, 5.5rem)', { lineHeight: '0.9', letterSpacing: '-0.02em' }],
+        'display-xl': ['clamp(4rem, 10vw, 7rem)', { lineHeight: '0.85', letterSpacing: '-0.03em' }],
+        'display-2xl': ['clamp(5rem, 12vw, 9rem)', { lineHeight: '0.82', letterSpacing: '-0.03em' }],
       },
       letterSpacing: {
         'editorial': '0.06em',
