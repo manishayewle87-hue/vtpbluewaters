@@ -1,0 +1,21 @@
+{
+  "routes": [
+    {
+      "routePath": "/api/enquiry",
+      "mountPath": "/api",
+      "method": "POST",
+      "module": [
+        "api/enquiry.js:onRequestPost"
+      ]
+    },
+    {
+      "routePath": "/",
+      "mountPath": "/",
+      "method": "",
+      "middleware": [
+        "_middleware.js:onRequest"
+      ]
+    }
+  ],
+  "baseURL": "/"
+}

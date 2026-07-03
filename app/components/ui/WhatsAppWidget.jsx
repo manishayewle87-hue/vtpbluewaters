@@ -1,7 +1,7 @@
 'use client';
 
 export default function WhatsAppWidget() {
-  const phoneNumber = '910000000000'; // Replace with actual WhatsApp number
+  const phoneNumber = '917744009295'; // Replace with actual WhatsApp number
   const message = 'Hello VTP Realty, I am interested in knowing more about your luxury projects in Pune.';
   const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
 
