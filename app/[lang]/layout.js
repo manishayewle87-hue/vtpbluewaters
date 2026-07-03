@@ -1,4 +1,5 @@
 import { Inter, Outfit } from 'next/font/google';
+import { GoogleAnalytics } from '@next/third-parties/google';
 import '@/app/globals.css';
 import SmoothScroll from '@/app/components/ui/SmoothScroll';
 import LuxuryNavbar from '@/app/components/ui/LuxuryNavbar';
@@ -63,6 +64,9 @@ export const metadata = {
     description: 'Discover the pinnacle of luxury living at VTP BLUEWATERS Township, Mahalunge, Pune.',
     images: ['/assets/projects/earth-1/hero.jpg'],
   },
+  verification: {
+    google: 'YOUR_GOOGLE_SEARCH_CONSOLE_VERIFICATION_CODE_HERE',
+  },
   icons: {
     icon: '/icon.svg',
   },
@@ -75,21 +79,21 @@ export default function RootLayout({ children, params: { lang = 'en' } }) {
         <CanonicalHreflang />
         <BreadcrumbSchema />
       </head>
-      <body className="bg-luxury-navy text-luxury-white font-sans antialiased cursor-none overflow-x-hidden w-full">
-        <GoogleAnalytics />
-        <Clarity />
+      <body className={`${inter.variable} ${outfit.variable} antialiased bg-[#050914] text-white selection:bg-luxury-gold selection:text-luxury-navy`}>
         <KnowledgeGraph />
         <GlobalSchema />
+        <Clarity />
         <CustomCursor />
         <SmoothScroll>
           <LuxuryNavbar />
-          <main>{children}</main>
+          <main className="min-h-screen">{children}</main>
           <Footer />
         </SmoothScroll>
         <StickyEnquiryWidget />
         <WhatsAppWidget />
         <MobileBottomBar />
         <ExitIntentModal />
+        <GoogleAnalytics gaId="G-XXXXXXXXXX" />
       </body>
     </html>
   );
