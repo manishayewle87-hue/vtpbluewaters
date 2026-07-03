@@ -11,6 +11,20 @@ export async function onRequestPost(context) {
     const adapter = new PrismaD1(env.DB);
     const prisma = new PrismaClient({ adapter });
 
+    // Optional: Verify reCAPTCHA token if SECRET is provided in env
+    if (env.RECAPTCHA_SECRET_KEY && data.recaptchaToken) {
+      const verifyRes = await fetch('https://www.google.com/recaptcha/api/siteverify', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+        body: `secret=${env.RECAPTCHA_SECRET_KEY}&response=${data.recaptchaToken}`,
+      });
+      const verifyData = await verifyRes.json();
+      if (!verifyData.success || verifyData.score < 0.5) {
+        console.error('reCAPTCHA verification failed:', verifyData);
+        return new Response(JSON.stringify({ success: false, error: 'Spam detected' }), { status: 400 });
+      }
+    }
+
     const lead = await prisma.lead.create({
       data: {
         name: data.name || 'Unknown',

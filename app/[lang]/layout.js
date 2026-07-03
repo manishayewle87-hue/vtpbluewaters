@@ -1,5 +1,5 @@
 import { Inter, Outfit } from 'next/font/google';
-import { GoogleAnalytics } from '@next/third-parties/google';
+import { GoogleTagManager } from '@next/third-parties/google';
 import '@/app/globals.css';
 import SmoothScroll from '@/app/components/ui/SmoothScroll';
 import LuxuryNavbar from '@/app/components/ui/LuxuryNavbar';
@@ -13,6 +13,7 @@ import ExitIntentModal from '@/app/components/ui/ExitIntentModal';
 import Clarity from '@/app/components/analytics/Clarity';
 import MobileBottomBar from '@/app/components/ui/MobileBottomBar';
 import CanonicalHreflang from '@/app/components/seo/CanonicalHreflang';
+import ReCaptchaProvider from '@/app/components/providers/ReCaptchaProvider';
 import BreadcrumbSchema from '@/app/components/seo/BreadcrumbSchema';
 const inter = Inter({ 
   subsets: ['latin'], 
@@ -79,20 +80,22 @@ export default function RootLayout({ children, params: { lang = 'en' } }) {
         <BreadcrumbSchema />
       </head>
       <body className={`${inter.variable} ${outfit.variable} antialiased bg-[#050914] text-white selection:bg-luxury-gold selection:text-luxury-navy`}>
-        <KnowledgeGraph />
-        <GlobalSchema />
-        <Clarity />
-        <CustomCursor />
-        <SmoothScroll>
-          <LuxuryNavbar />
-          <main className="min-h-screen">{children}</main>
-          <Footer />
-        </SmoothScroll>
-        <StickyEnquiryWidget />
-        <WhatsAppWidget />
-        <MobileBottomBar />
-        <ExitIntentModal />
-        <GoogleAnalytics gaId="G-XXXXXXXXXX" />
+        <ReCaptchaProvider>
+          <KnowledgeGraph />
+          <GlobalSchema />
+          <Clarity />
+          <CustomCursor />
+          <SmoothScroll>
+            <LuxuryNavbar />
+            <main className="min-h-screen">{children}</main>
+            <Footer />
+          </SmoothScroll>
+          <StickyEnquiryWidget />
+          <WhatsAppWidget />
+          <MobileBottomBar />
+          <ExitIntentModal />
+          <GoogleTagManager gtmId="GTM-XXXXXXX" />
+        </ReCaptchaProvider>
       </body>
     </html>
   );

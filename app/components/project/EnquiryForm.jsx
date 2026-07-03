@@ -1,8 +1,10 @@
 'use client';
 import { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
+import { useGoogleReCaptcha } from 'react-google-recaptcha-v3';
 
-export default function EnquiryForm({ projectName }) {
+export default function EnquiryForm({ projectName, customTitle, inline = false }) {
+  const { executeRecaptcha } = useGoogleReCaptcha();
   const [formData, setFormData] = useState({
     name: '', 
     email: '', 
@@ -29,15 +31,25 @@ export default function EnquiryForm({ projectName }) {
   const handleSubmit = async (e) => {
     e.preventDefault();
     setStatus('loading');
+
+    if (!executeRecaptcha) {
+      console.warn('Execute recaptcha not yet available');
+      setStatus('idle');
+      return;
+    }
+
     try {
-      // POINTING TO CLOUDFLARE BACKEND INSTEAD OF DIRECT TO GAS
+      // Get reCAPTCHA token
+      const token = await executeRecaptcha('enquiry_form');
+
       const res = await fetch('/api/enquiry', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ 
-          subject: `New Enquiry for ${formData.project || 'VTP Bluewaters'}`,
           ...formData, 
-        }),
+          project: projectName || 'VTP Bluewaters',
+          recaptchaToken: token
+        })
       });
       const data = await res.json();
       if (data.success) {

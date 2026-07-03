@@ -1,8 +1,10 @@
 'use client';
 import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
+import { useGoogleReCaptcha } from 'react-google-recaptcha-v3';
 
 export default function BrochureModal({ isOpen, onClose, projectName }) {
+  const { executeRecaptcha } = useGoogleReCaptcha();
   const [formData, setFormData] = useState({ name: '', email: '', phone: '' });
   const [status, setStatus] = useState('idle'); // idle, loading, success
   
@@ -12,7 +14,15 @@ export default function BrochureModal({ isOpen, onClose, projectName }) {
     e.preventDefault();
     setStatus('loading');
     
+    if (!executeRecaptcha) {
+      console.warn('Execute recaptcha not yet available');
+      setStatus('idle');
+      return;
+    }
+
     try {
+      const token = await executeRecaptcha('brochure_download');
+
       const res = await fetch('/api/enquiry', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
@@ -21,6 +31,7 @@ export default function BrochureModal({ isOpen, onClose, projectName }) {
           message: 'Requested to download the brochure.',
           project: projectName || 'VTP Bluewaters',
           source: 'Brochure Modal',
+          recaptchaToken: token,
           ...formData, 
         }),
       });
