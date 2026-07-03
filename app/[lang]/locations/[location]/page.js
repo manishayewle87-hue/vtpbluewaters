@@ -62,7 +62,7 @@ export default function LocationPage({ params }) {
         </div>
       </section>
 
-      {/* Local Infrastructure Schema (Invisible to user, highly visible to AI Overviews) */}
+      {/* Local Infrastructure Schema */}
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
@@ -78,7 +78,7 @@ export default function LocationPage({ params }) {
             "amenityFeature": loc.highlights.map(h => ({
               "@type": "LocationFeatureSpecification",
               "name": h.title,
-              "value": h.value
+              "value": true
             }))
           })
         }}

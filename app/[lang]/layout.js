@@ -42,9 +42,7 @@ export const viewport = {
 export const metadata = {
   title: 'VTP Bluewaters | Premium Luxury Residences in Pune',
   description: 'Experience ultra-luxury living at VTP Bluewaters Pune. Master-planned township featuring 2, 3, 4, 5 BHK apartments, duplexes, and villas.',
-  verification: {
-    google: 'YOUR_GSC_VERIFICATION_STRING',
-  },
+
   appleWebApp: {
     capable: true,
     title: 'VTP Bluewaters',
@@ -65,7 +63,7 @@ export const metadata = {
     images: ['/assets/projects/earth-1/hero.jpg'],
   },
   verification: {
-    google: 'YOUR_GOOGLE_SEARCH_CONSOLE_VERIFICATION_CODE_HERE',
+    google: process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION || '',
   },
   icons: {
     icon: '/icon.svg',
@@ -94,7 +92,9 @@ export default function RootLayout({ children, params: { lang = 'en' } }) {
           <WhatsAppWidget />
           <MobileBottomBar />
           <ExitIntentModal />
-          <GoogleTagManager gtmId="GTM-XXXXXXX" />
+          {process.env.NEXT_PUBLIC_GTM_ID && (
+            <GoogleTagManager gtmId={process.env.NEXT_PUBLIC_GTM_ID} />
+          )}
         </ReCaptchaProvider>
       </body>
     </html>
