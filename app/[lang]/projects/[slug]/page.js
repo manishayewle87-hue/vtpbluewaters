@@ -12,6 +12,7 @@ import EmiCalculator from '@/app/components/project/EmiCalculator';
 
 import ProjectMasterLayout from '@/app/components/project/ProjectMasterLayout';
 import ProjectFloorPlans from '@/app/components/project/ProjectFloorPlans';
+import ProjectVirtualTour from '@/app/components/project/ProjectVirtualTour';
 
 export async function generateStaticParams() {
   const projects = await cms.getAllProjects();
@@ -172,6 +173,9 @@ export default async function ProjectDetail({ params }) {
 
         {/* 5. Floor Plans */}
         <ProjectFloorPlans floorPlans={project.floorPlans} projectName={project.name} />
+
+        {/* 6. Virtual Reality Walkthrough */}
+        <ProjectVirtualTour projectName={project.name} tourImage={project.virtualTourImage} />
 
         {/* 6. Specifications */}
         <div id="specifications">
