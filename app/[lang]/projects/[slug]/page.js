@@ -175,7 +175,7 @@ export default async function ProjectDetail({ params }) {
         <ProjectFloorPlans floorPlans={project.floorPlans} projectName={project.name} />
 
         {/* 6. Virtual Reality Walkthrough */}
-        <ProjectVirtualTour projectName={project.name} tourImage={project.virtualTourImage} />
+        {/* <ProjectVirtualTour projectName={project.name} tourImage={project.virtualTourImage} /> */}
 
         {/* 6. Specifications */}
         <div id="specifications">
