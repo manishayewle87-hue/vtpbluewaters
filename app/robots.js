@@ -80,7 +80,11 @@ export default function robots() {
         disallow: ['/'],
       },
     ],
-    sitemap: 'https://vtpbluewaters.com/sitemap.xml',
+    sitemap: [
+      'https://vtpbluewaters.com/sitemap/0.xml',
+      'https://vtpbluewaters.com/sitemap/1.xml',
+      'https://vtpbluewaters.com/sitemap/2.xml',
+    ],
     host: 'https://vtpbluewaters.com',
   };
 }
