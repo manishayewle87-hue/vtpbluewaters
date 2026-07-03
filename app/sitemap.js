@@ -1,5 +1,6 @@
-import { cms } from './services/cms';
+import { cms } from '@/app/services/cms';
 import { PUNE_MICRO_MARKETS } from './services/locationEngine';
+import { seoSilos } from '@/app/data/seo-silos';
 import contentData from '@/app/data/content-hub.json';
 
 export const dynamic = 'force-static';
@@ -188,6 +189,30 @@ function generateContentSitemap(baseUrl, langs) {
       priority: 0.8,
     });
   }
+
+  // Static Routes
+  entries.push({
+    url: `${baseUrl}/en`,
+    lastModified: new Date(),
+    changeFrequency: 'daily',
+    priority: 1,
+  });
+  entries.push({
+    url: `${baseUrl}/en/township`,
+    lastModified: new Date(),
+    changeFrequency: 'weekly',
+    priority: 0.9,
+  });
+
+  // Dynamic SEO Keyword Routes (Batch 1)
+  entries.push(...seoSilos.flatMap((silo) => 
+    silo.slugs.map((item) => ({
+      url: `${baseUrl}/en/explore/${item.slug}`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly',
+      priority: 0.7,
+    }))
+  ));
 
   return entries;
 }
