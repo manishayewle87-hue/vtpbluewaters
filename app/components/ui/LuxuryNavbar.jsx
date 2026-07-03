@@ -33,12 +33,23 @@ export default function LuxuryNavbar() {
   }, [mobileMenuOpen]);
 
   const navLinks = [
-    { label: 'Township', href: '/en/township' },
-    { label: 'Overview', href: '#overview' },
-    { label: 'Residences', href: '#residences' },
-    { label: 'Amenities', href: '#amenities' },
-    { label: 'Location', href: '#location' }
+    { label: 'Township', href: '/en/township', targetId: null },
+    { label: 'Overview', href: '/en/explore/vtp-bluewaters-mahalunge-pune-overview', targetId: 'overview' },
+    { label: 'Residences', href: '/en/explore/vtp-bluewaters-mahalunge-pune-luxury-residences', targetId: 'residences' },
+    { label: 'Amenities', href: '/en/explore/vtp-bluewaters-mahalunge-pune-premium-amenities', targetId: 'amenities' },
+    { label: 'Location', href: '/en/explore/vtp-bluewaters-mahalunge-pune-location', targetId: 'location' }
   ];
+
+  const handleInterceptClick = (e, link) => {
+    if (link.targetId && pathname === '/en') {
+      e.preventDefault();
+      const target = document.getElementById(link.targetId);
+      if (target) {
+        target.scrollIntoView({ behavior: 'smooth' });
+      }
+      setMobileMenuOpen(false);
+    }
+  };
 
   if (isIntentLandingPage) {
     return (
@@ -68,7 +79,13 @@ export default function LuxuryNavbar() {
           {/* Desktop Navigation */}
           <div className="hidden lg:flex gap-12 items-center text-[13px] font-medium tracking-[0.25em] uppercase">
             {navLinks.map((link) => (
-               <Link key={link.label} href={link.href} title={`Navigate to ${link.label}`} className="hover:text-luxury-gold transition-colors duration-300">
+               <Link 
+                 key={link.label} 
+                 href={link.href} 
+                 title={`Navigate to ${link.label}`} 
+                 className="hover:text-luxury-gold transition-colors duration-300"
+                 onClick={(e) => handleInterceptClick(e, link)}
+               >
                  {link.label}
                </Link>
             ))}
@@ -114,7 +131,13 @@ export default function LuxuryNavbar() {
                   <Link 
                     href={link.href} 
                     title={`Navigate to ${link.label}`}
-                    onClick={() => setMobileMenuOpen(false)}
+                    onClick={(e) => {
+                      if (link.targetId && pathname === '/en') {
+                        handleInterceptClick(e, link);
+                      } else {
+                        setMobileMenuOpen(false);
+                      }
+                    }}
                     className="text-3xl font-display font-light text-luxury-silver hover:text-luxury-gold transition-colors duration-300"
                   >
                     {link.label}
@@ -130,8 +153,14 @@ export default function LuxuryNavbar() {
                 className="mt-8"
               >
                 <Link 
-                  href="#enquiry"
-                  onClick={() => setMobileMenuOpen(false)}
+                  href="/en/explore/vtp-bluewaters-mahalunge-pune-enquiry"
+                  onClick={(e) => {
+                    if (pathname === '/en') {
+                      handleInterceptClick(e, { targetId: 'enquiry' });
+                    } else {
+                      setMobileMenuOpen(false);
+                    }
+                  }}
                   className="bg-luxury-gold text-luxury-navy px-12 py-4 rounded-full font-bold tracking-[0.2em] uppercase text-xs hover:bg-white transition-colors duration-300 shadow-[0_0_30px_rgba(212,175,55,0.3)] enquiry-trigger"
                 >
                   ENQUIRE NOW

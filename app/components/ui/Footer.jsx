@@ -6,10 +6,10 @@ import Logo from './Logo';
 import contentData from '@/app/data/content-hub.json';
 
 const quickLinks = [
-  { label: 'Residences', href: '/#residences' },
-  { label: 'Amenities', href: '/#amenities' },
-  { label: 'About VTP Realty', href: 'https://vtprealty.in/about-vtp-realty' },
-  { label: 'Contact Us', href: 'https://vtprealty.in/contact-us' },
+  { label: 'Residences', href: '/en/explore/vtp-bluewaters-mahalunge-pune-luxury-residences', targetId: 'residences' },
+  { label: 'Amenities', href: '/en/explore/vtp-bluewaters-mahalunge-pune-premium-amenities', targetId: 'amenities' },
+  { label: 'About VTP Realty', href: 'https://vtprealty.in/about-vtp-realty', targetId: null },
+  { label: 'Contact Us', href: 'https://vtprealty.in/contact-us', targetId: null },
 ];
 
 const townships = [
@@ -23,6 +23,16 @@ export default function Footer() {
   const isIntentLandingPage = pathname?.includes('/locations/') && pathname?.split('/').length > 4;
 
   if (isIntentLandingPage) return null;
+
+  const handleInterceptClick = (e, link) => {
+    if (link.targetId && pathname === '/en') {
+      e.preventDefault();
+      const target = document.getElementById(link.targetId);
+      if (target) {
+        target.scrollIntoView({ behavior: 'smooth' });
+      }
+    }
+  };
 
   return (
     <footer aria-label="Site Footer" className="bg-[#050914] border-t border-white/5">
@@ -57,6 +67,7 @@ export default function Footer() {
                 <li key={link.label}>
                   <Link 
                     href={link.href}
+                    onClick={(e) => handleInterceptClick(e, link)}
                     className="text-sm text-luxury-silver hover:text-luxury-white transition-colors font-light"
                   >
                     {link.label}

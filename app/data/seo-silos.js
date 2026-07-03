@@ -109,5 +109,17 @@ export const seoSilos = [
       { slug: "luxury-5-bhk-pune", keyword: "Luxury 5 BHK Pune" },
       { slug: "luxury-penthouse-pune", keyword: "Luxury Penthouse Pune" }
     ]
+  },
+  {
+    id: "vtp-bluewaters-sections",
+    title: "VTP Bluewaters Project Sections",
+    description: "Detailed overview of VTP Bluewaters in Mahalunge, Pune, including luxury residences, premium amenities, location, and enquiry details.",
+    slugs: [
+      { slug: "vtp-bluewaters-mahalunge-pune-overview", keyword: "VTP Bluewaters Mahalunge Pune Overview" },
+      { slug: "vtp-bluewaters-mahalunge-pune-luxury-residences", keyword: "VTP Bluewaters Mahalunge Pune Luxury Residences" },
+      { slug: "vtp-bluewaters-mahalunge-pune-premium-amenities", keyword: "VTP Bluewaters Mahalunge Pune Premium Amenities" },
+      { slug: "vtp-bluewaters-mahalunge-pune-location", keyword: "VTP Bluewaters Mahalunge Pune Location" },
+      { slug: "vtp-bluewaters-mahalunge-pune-enquiry", keyword: "VTP Bluewaters Mahalunge Pune Enquiry" }
+    ]
   }
 ];
