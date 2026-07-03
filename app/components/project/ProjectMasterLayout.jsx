@@ -3,9 +3,11 @@ import { useState } from 'react';
 import { motion } from 'framer-motion';
 import Image from 'next/image';
 import LightboxGallery from '../ui/LightboxGallery';
+import BrochureModal from './BrochureModal';
 
-export default function ProjectMasterLayout({ masterLayout }) {
+export default function ProjectMasterLayout({ masterLayout, projectName }) {
   const [isLightboxOpen, setLightboxOpen] = useState(false);
+  const [isBrochureModalOpen, setBrochureModalOpen] = useState(false);
   const imageSrc = masterLayout || '/assets/projects/earth-1/master-plan.jpg';
 
   return (
@@ -45,7 +47,7 @@ export default function ProjectMasterLayout({ masterLayout }) {
                Enlarge Map
              </button>
              <button 
-                onClick={(e) => e.stopPropagation()} // Prevent lightbox if they somehow added download logic
+                onClick={(e) => { e.stopPropagation(); setBrochureModalOpen(true); }}
                 className="glass-frost px-6 py-2 text-luxury-caption text-luxury-white hover:bg-white hover:text-luxury-navy transition-colors"
              >
                Download PDF
@@ -58,6 +60,12 @@ export default function ProjectMasterLayout({ masterLayout }) {
         images={[{ src: imageSrc, alt: 'Master Layout' }]} 
         isOpen={isLightboxOpen} 
         onClose={() => setLightboxOpen(false)} 
+      />
+
+      <BrochureModal 
+        isOpen={isBrochureModalOpen}
+        onClose={() => setBrochureModalOpen(false)}
+        projectName={projectName}
       />
     </section>
   );

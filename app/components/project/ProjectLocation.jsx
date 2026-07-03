@@ -1,5 +1,6 @@
 'use client';
 import { motion } from 'framer-motion';
+import InteractiveMap from './InteractiveMap';
 
 export default function ProjectLocation({ locationHighlights, location }) {
   return (
@@ -47,16 +48,10 @@ export default function ProjectLocation({ locationHighlights, location }) {
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
-            className="aspect-square bg-luxury-charcoal overflow-hidden relative group"
+            className="aspect-square bg-luxury-charcoal overflow-hidden relative group rounded-xl border border-white/5 shadow-2xl"
           >
-            <iframe
-              src={`https://maps.google.com/maps?q=${encodeURIComponent(location)}&t=&z=14&ie=UTF8&iwloc=&output=embed`}
-              className="w-full h-full border-0 grayscale group-hover:grayscale-0 transition-all duration-700 opacity-70 group-hover:opacity-100"
-              loading="lazy"
-              referrerPolicy="no-referrer-when-downgrade"
-              title={`Map of ${location}`}
-            ></iframe>
-            <div className="absolute inset-0 border border-white/5 pointer-events-none"></div>
+            <InteractiveMap locationName={location} />
+            <div className="absolute inset-0 pointer-events-none border border-luxury-gold/10 rounded-xl"></div>
           </motion.div>
         </div>
       </div>

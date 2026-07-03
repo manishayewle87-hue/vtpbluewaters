@@ -168,7 +168,7 @@ export default async function ProjectDetail({ params }) {
         </div>
 
         {/* 4. Master Layout */}
-        <ProjectMasterLayout masterLayout={project.masterLayout} />
+        <ProjectMasterLayout masterLayout={project.masterLayout} projectName={project.name} />
 
         {/* 5. Floor Plans */}
         <ProjectFloorPlans floorPlans={project.floorPlans} projectName={project.name} />

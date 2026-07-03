@@ -1,9 +1,14 @@
 'use client';
 import { motion, useScroll, useTransform } from 'framer-motion';
 import { useEffect, useRef } from 'react';
+import dynamic from 'next/dynamic';
 import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/dist/ScrollTrigger';
-import FluidBackground from '../canvas/FluidBackground';
+
+const FluidBackground = dynamic(() => import('../canvas/FluidBackground'), {
+  ssr: false,
+  loading: () => <div className="absolute inset-0 bg-luxury-navy z-0"></div>
+});
 
 if (typeof window !== 'undefined') {
   gsap.registerPlugin(ScrollTrigger);
