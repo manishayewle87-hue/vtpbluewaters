@@ -12,14 +12,9 @@ export async function onRequest(context) {
   const { request, next } = context;
   const url = new URL(request.url);
 
-  // 1. Enforce Trailing Slash Policy (SEO Canonical Consistency)
-  // If the path does not end in a slash and is not a file (no extension), redirect.
-  // Exception: next/image, static assets, api routes, etc.
-  const isFile = url.pathname.includes('.') || url.pathname.startsWith('/_next');
-  if (!isFile && !url.pathname.endsWith('/') && url.pathname.length > 1) {
-    url.pathname = `${url.pathname}/`;
-    return Response.redirect(url.toString(), 301);
-  }
+  // Next.js App router handles canonical URLs. Enforcing trailing slashes here 
+  // conflicts with Cloudflare Pages internal asset routing and causes redirect loops.
+  // We simply pass through the request.
 
   // Pass through the request to the static Next.js export
   const response = await next();
