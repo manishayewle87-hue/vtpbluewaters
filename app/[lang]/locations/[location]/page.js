@@ -52,7 +52,7 @@ export default function LocationPage({ params }) {
             className="object-cover scale-105 transform hover:scale-100 transition-transform duration-[10s]"
           />
         </div>
-        <div className="relative z-10 text-center max-w-4xl px-4 mt-20">
+        <div className="relative z-10 text-center max-w-4xl px-4 mt-10 lg:mt-20">
           <h1 className="text-4xl md:text-6xl font-heading text-luxury-white mb-6 uppercase tracking-wider">
             Premium Properties in <span className="text-luxury-gold">{loc.name}</span>
           </h1>
@@ -85,7 +85,7 @@ export default function LocationPage({ params }) {
       />
 
       <section className="py-20 px-4 md:px-8 max-w-7xl mx-auto">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-20">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-10 lg:mb-20">
           {loc.highlights.map((highlight, idx) => (
             <div key={idx} className="bg-luxury-navy p-8 rounded-xl border border-white/5 hover:border-luxury-gold/30 transition-all">
               <h3 className="text-xl font-heading text-luxury-gold mb-2">{highlight.title}</h3>

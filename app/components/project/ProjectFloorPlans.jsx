@@ -41,7 +41,7 @@ export default function ProjectFloorPlans({ floorPlans, projectName }) {
 
   return (
     <>
-      <section id="floor-plans" className="py-16 lg:py-24 bg-luxury-navy border-b border-luxury-gold/10 relative overflow-hidden">
+      <section id="floor-plans" className="py-16 lg:py-12 lg:py-24 bg-luxury-navy border-b border-luxury-gold/10 relative overflow-hidden">
         {/* Subtle background texture/glow */}
         <div className="absolute bottom-0 left-0 w-[800px] h-[800px] bg-luxury-gold/[0.015] rounded-full blur-[150px] pointer-events-none"></div>
 

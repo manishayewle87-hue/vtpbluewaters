@@ -2,8 +2,8 @@
 // Documentation: https://developers.cloudflare.com/images/image-resizing/
 
 export default function cloudflareLoader({ src, width, quality }) {
-  // Bypass Cloudflare Image Resizing in local development
-  if (process.env.NODE_ENV !== 'production') {
+  // Bypass Cloudflare Image Resizing in local development or if not explicitly on Cloudflare
+  if (process.env.NODE_ENV !== 'production' || process.env.NEXT_PUBLIC_USE_CF_LOADER !== 'true') {
     return src;
   }
 

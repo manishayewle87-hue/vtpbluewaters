@@ -10,9 +10,9 @@ const connections = [
 
 export default function TownshipConnectivity() {
   return (
-    <section className="py-24 lg:py-40 bg-black text-white relative z-10">
+    <section className="py-12 lg:py-24 lg:py-20 lg:py-40 bg-black text-white relative z-10">
       <div className="container mx-auto px-6 lg:px-12">
-        <div className="flex flex-col lg:flex-row gap-16 lg:gap-24">
+        <div className="flex flex-col lg:flex-row gap-8 lg:gap-16 lg:gap-12 lg:gap-24">
           
           <motion.div
             initial={{ opacity: 0, x: -50 }}

@@ -3,9 +3,9 @@ import { motion } from 'framer-motion';
 
 export default function ProjectLocation({ locationHighlights, location }) {
   return (
-    <section className="py-24 bg-luxury-navy border-b border-luxury-gold/10">
+    <section className="py-12 lg:py-24 bg-luxury-navy border-b border-luxury-gold/10">
       <div className="container mx-auto px-6 max-w-7xl">
-        <div className="grid lg:grid-cols-2 gap-20">
+        <div className="grid lg:grid-cols-2 gap-10 lg:gap-20">
           <motion.div 
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}

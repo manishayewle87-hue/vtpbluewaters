@@ -14,14 +14,14 @@ export default function TownshipInfographics() {
   const containerRef = useRef(null);
 
   return (
-    <section ref={containerRef} className="py-32 bg-luxury-navy relative z-10">
+    <section ref={containerRef} className="py-16 lg:py-32 bg-luxury-navy relative z-10">
       <div className="container mx-auto px-6 lg:px-12">
         <motion.div
           initial={{ opacity: 0, y: 30 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true, margin: "-100px" }}
           transition={{ duration: 1 }}
-          className="text-center mb-20"
+          className="text-center mb-10 lg:mb-20"
         >
           <h2 className="text-display-md md:text-display-lg text-white font-display font-light uppercase tracking-tight">
             The Scale of <span className="text-luxury-gold font-normal">Luxury</span>

@@ -21,8 +21,8 @@ export default function Footer() {
   return (
     <footer aria-label="Site Footer" className="bg-[#050914] border-t border-white/5">
       {/* Main Footer */}
-      <div className="container mx-auto px-6 max-w-7xl pt-20 pb-10">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-16 lg:gap-12">
+      <div className="container mx-auto px-6 max-w-7xl pt-10 lg:pt-20 pb-10">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 lg:gap-16 lg:gap-12">
           
           {/* Brand Column */}
           <motion.div 
@@ -171,16 +171,16 @@ export default function Footer() {
       </div>
 
       {/* Bottom Bar */}
-      <div className="border-t border-white/5 pb-24 lg:pb-0">
+      <div className="border-t border-white/5 pb-12 lg:pb-24 lg:pb-0">
         <div className="container mx-auto px-6 max-w-7xl py-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-luxury-caption text-white/30 text-center md:text-left">
               © {new Date().getFullYear()} VTP Realty. All Rights Reserved. | BLUEWATERS Township, Mahalunge, Pune.
             </p>
             <div className="flex flex-wrap justify-center gap-4 md:gap-8">
-              <Link href="#" className="text-luxury-caption text-white/30 hover:text-luxury-silver transition-colors">Privacy Policy</Link>
-              <Link href="#" className="text-luxury-caption text-white/30 hover:text-luxury-silver transition-colors">Terms of Use</Link>
-              <Link href="#" className="text-luxury-caption text-white/30 hover:text-luxury-silver transition-colors">Disclaimer</Link>
+              <Link href="/en/privacy-policy" className="text-luxury-caption text-white/30 hover:text-luxury-silver transition-colors">Privacy Policy</Link>
+              <Link href="/en/terms-of-use" className="text-luxury-caption text-white/30 hover:text-luxury-silver transition-colors">Terms of Use</Link>
+              <Link href="/en/disclaimer" className="text-luxury-caption text-white/30 hover:text-luxury-silver transition-colors">Disclaimer</Link>
             </div>
           </div>
           <p className="text-[8px] tracking-widest text-white/20 uppercase mt-6 text-center leading-relaxed max-w-4xl mx-auto">

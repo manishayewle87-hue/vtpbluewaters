@@ -22,7 +22,7 @@ const features = [
 
 export default function MasterplanDeepDive() {
   return (
-    <section className="py-24 lg:py-40 bg-black text-white relative z-10 overflow-hidden">
+    <section className="py-12 lg:py-24 lg:py-20 lg:py-40 bg-black text-white relative z-10 overflow-hidden">
       <div className="container mx-auto px-6 lg:px-12">
         
         <motion.div
@@ -30,7 +30,7 @@ export default function MasterplanDeepDive() {
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
           transition={{ duration: 1 }}
-          className="max-w-4xl mb-24"
+          className="max-w-4xl mb-12 lg:mb-24"
         >
           <p className="text-luxury-label text-luxury-gold mb-6">The Masterplan</p>
           <h2 className="text-4xl sm:text-5xl md:text-display-lg lg:text-display-xl font-display font-light uppercase tracking-tighter leading-[0.9]">
@@ -39,7 +39,7 @@ export default function MasterplanDeepDive() {
           </h2>
         </motion.div>
 
-        <div className="flex flex-col lg:flex-row gap-16 lg:gap-24 items-center">
+        <div className="flex flex-col lg:flex-row gap-8 lg:gap-16 lg:gap-12 lg:gap-24 items-center">
           {/* Image Left */}
           <motion.div 
             initial={{ opacity: 0, x: -50 }}
@@ -58,7 +58,7 @@ export default function MasterplanDeepDive() {
           </motion.div>
 
           {/* Features Right */}
-          <div className="w-full lg:w-1/2 flex flex-col gap-12 lg:gap-20">
+          <div className="w-full lg:w-1/2 flex flex-col gap-12 lg:gap-10 lg:gap-20">
             {features.map((feature, i) => (
               <motion.div 
                 key={i}

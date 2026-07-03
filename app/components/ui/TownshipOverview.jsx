@@ -65,7 +65,7 @@ export default function TownshipOverview() {
   return (
     <section ref={sectionRef} className="py-20 lg:h-screen bg-luxury-charcoal relative overflow-hidden border-t border-luxury-gold/10 flex items-center">
       <div className="container mx-auto px-6 max-w-7xl relative z-10 w-full">
-        <div className="grid lg:grid-cols-2 gap-10 lg:gap-24 items-center">
+        <div className="grid lg:grid-cols-2 gap-10 lg:gap-12 lg:gap-24 items-center">
           
           {/* Left Column: Storytelling Text — mobile shows only Slide 1 statically */}
           <div className="relative lg:h-[400px] flex items-center" ref={textGroupRef}>

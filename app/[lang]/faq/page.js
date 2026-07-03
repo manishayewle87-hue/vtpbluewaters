@@ -22,7 +22,7 @@ export default function FAQPage() {
   };
 
   return (
-    <div className="min-h-screen bg-luxury-navy pt-32 pb-24">
+    <div className="min-h-screen bg-luxury-navy pt-16 lg:pt-32 pb-12 lg:pb-24">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}

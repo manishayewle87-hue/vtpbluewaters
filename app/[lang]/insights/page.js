@@ -20,7 +20,7 @@ export default async function InsightsHub() {
   return (
     <article className="min-h-screen bg-luxury-navy">
       {/* Hub Header */}
-      <header className="pt-32 pb-16 border-b border-white/5">
+      <header className="pt-16 lg:pt-32 pb-16 border-b border-white/5">
         <div className="container mx-auto px-6 max-w-7xl">
           <div className="flex flex-col md:flex-row justify-between items-end gap-8">
             <div>
@@ -50,7 +50,7 @@ export default async function InsightsHub() {
           
           {/* Hero Article */}
           {heroArticle && (
-            <Link href={`/insights/${heroArticle.category}/${heroArticle.slug}`} className="group block mb-24">
+            <Link href={`/insights/${heroArticle.category}/${heroArticle.slug}`} className="group block mb-12 lg:mb-24">
               <div className="grid grid-cols-1 lg:grid-cols-2 gap-0 border border-white/10 group-hover:border-luxury-gold/50 transition-colors">
                 <div className="relative h-[400px] lg:h-auto overflow-hidden">
                   <Image src={heroArticle.image} alt={heroArticle.title} fill className="object-cover group-hover:scale-105 transition-transform duration-700" />

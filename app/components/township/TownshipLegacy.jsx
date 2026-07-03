@@ -25,14 +25,14 @@ const deliveredClusters = [
 
 export default function TownshipLegacy() {
   return (
-    <section className="py-24 lg:py-40 bg-luxury-navy text-white relative z-10 border-t border-white/5">
+    <section className="py-12 lg:py-24 lg:py-20 lg:py-40 bg-luxury-navy text-white relative z-10 border-t border-white/5">
       <div className="container mx-auto px-6 lg:px-12">
         <motion.div
           initial={{ opacity: 0, y: 30 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
           transition={{ duration: 1 }}
-          className="text-center mb-20 max-w-4xl mx-auto"
+          className="text-center mb-10 lg:mb-20 max-w-4xl mx-auto"
         >
           <p className="text-luxury-label text-luxury-gold mb-6">A Legacy of Trust</p>
           <h2 className="text-display-md md:text-display-lg font-display font-light uppercase tracking-tighter leading-[0.9] mb-8">

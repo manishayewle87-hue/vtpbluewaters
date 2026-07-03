@@ -200,7 +200,7 @@ export default function ProjectAmenities({ amenities }) {
           initial={{ opacity: 0, y: 20 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
-          className="mb-20 text-center"
+          className="mb-10 lg:mb-20 text-center"
         >
           <div className="text-luxury-label text-luxury-gold mb-4">World-Class Living</div>
           <h2 className="text-display-sm md:text-display-md font-display font-light mb-6">

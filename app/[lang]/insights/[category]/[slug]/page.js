@@ -31,7 +31,7 @@ export default function InsightPage({ params }) {
   }
 
   return (
-    <div className="min-h-screen bg-luxury-charcoal pt-32 pb-20 px-4">
+    <div className="min-h-screen bg-luxury-charcoal pt-16 lg:pt-32 pb-20 px-4">
       {/* AI Overview Specific Article Schema */}
       <script
         type="application/ld+json"

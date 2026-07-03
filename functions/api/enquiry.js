@@ -18,7 +18,7 @@ export async function onRequestPost(context) {
         phone: data.phone || 'Unknown',
         configuration: data.configuration || null,
         message: data.message || null,
-        source: data.source || data.project || 'Website Enquiry',
+        source: (data.project || data.source || 'Website Enquiry') + (data.location ? ` - ${data.location}` : ''),
       }
     });
 
@@ -29,7 +29,10 @@ export async function onRequestPost(context) {
         headers: {
           'Content-Type': 'application/json',
         },
-        body: JSON.stringify(data)
+        body: JSON.stringify({
+          ...data,
+          source: (data.project || data.source || 'Website Enquiry') + (data.location ? ` - ${data.location}` : '')
+        })
       });
     } catch (emailError) {
       console.error('Failed to send Google Apps Script email notification:', emailError);

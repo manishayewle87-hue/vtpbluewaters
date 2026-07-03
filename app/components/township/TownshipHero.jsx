@@ -27,7 +27,7 @@ export default function TownshipHero() {
         <div className="absolute inset-0 bg-gradient-to-b from-luxury-navy/40 via-luxury-navy/20 to-luxury-navy"></div>
       </motion.div>
 
-      <div className="relative z-10 text-center flex flex-col items-center max-w-7xl px-6 pt-20">
+      <div className="relative z-10 text-center flex flex-col items-center max-w-7xl px-6 pt-10 lg:pt-20">
         <motion.div
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}

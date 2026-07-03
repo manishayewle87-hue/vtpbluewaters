@@ -39,7 +39,11 @@ export default function ExitIntentModal() {
       await fetch('/api/enquiry', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ ...data, source: 'Exit Intent Modal' }),
+        body: JSON.stringify({
+          subject: 'New Enquiry from Exit Intent Modal',
+          ...data,
+          source: 'Exit Intent Modal'
+        }),
       });
       setStatus('success');
       if (typeof window !== 'undefined' && window.gtag) {

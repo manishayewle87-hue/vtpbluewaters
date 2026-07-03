@@ -41,7 +41,7 @@ export default async function CategoryArchive({ params }) {
 
   return (
     <article className="min-h-screen bg-luxury-navy">
-      <header className="pt-32 pb-16 border-b border-white/5">
+      <header className="pt-16 lg:pt-32 pb-16 border-b border-white/5">
         <div className="container mx-auto px-6 max-w-7xl">
           <div className="flex flex-col md:flex-row justify-between items-end gap-8">
             <div>

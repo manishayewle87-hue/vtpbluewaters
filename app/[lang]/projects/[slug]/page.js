@@ -85,7 +85,7 @@ export default async function ProjectDetail({ params }) {
 
       <article className="min-h-screen bg-luxury-navy">
         {/* 1. Cinematic Hero Section */}
-        <header className="relative h-[80vh] flex items-end pb-32 border-b border-luxury-gold/20">
+        <header className="relative h-[80vh] flex items-end pb-16 lg:pb-32 border-b border-luxury-gold/20">
           <div className="absolute inset-0 z-0">
             <Image 
               src={project.image} 
@@ -127,8 +127,8 @@ export default async function ProjectDetail({ params }) {
         <ProjectTabs />
 
         {/* 2. Editorial Overview */}
-        <section id="overview" className="py-32 container mx-auto px-6 max-w-7xl">
-          <div className="grid lg:grid-cols-2 gap-20 items-center">
+        <section id="overview" className="py-16 lg:py-32 container mx-auto px-6 max-w-7xl">
+          <div className="grid lg:grid-cols-2 gap-10 lg:gap-20 items-center">
             <div>
               <div className="text-luxury-label text-luxury-gold mb-4">The Vision</div>
               <h2 className="text-display-sm md:text-display-md font-display font-light mb-8">

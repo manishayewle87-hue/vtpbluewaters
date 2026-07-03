@@ -109,7 +109,10 @@ export default function StickyEnquiryWidget() {
                   await fetch('/api/enquiry', {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify(data),
+                    body: JSON.stringify({
+                      subject: `New Enquiry from Sticky Widget`,
+                      ...data
+                    }),
                   });
                   if (typeof window !== 'undefined' && window.gtag) {
                     window.gtag('event', 'generate_lead', {

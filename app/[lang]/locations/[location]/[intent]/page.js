@@ -94,7 +94,7 @@ export default async function LocationIntentDetail({ params }) {
           <div className="absolute inset-0 bg-gradient-to-br from-luxury-navy via-luxury-navy to-luxury-charcoal z-0"></div>
           <div className="absolute inset-0 bg-[url('https://www.transparenttextures.com/patterns/cubes.png')] opacity-5 z-0"></div>
           
-          <div className="container relative z-10 mx-auto px-6 max-w-4xl text-center mt-20">
+          <div className="container relative z-10 mx-auto px-6 max-w-4xl text-center mt-10 lg:mt-20">
             <div className="text-luxury-label text-luxury-gold mb-4">Location Spotlight: {locData.zone} Pune</div>
             <h1 className="text-display-md font-display font-light mb-6 text-white">
               {heroTitle}
@@ -105,9 +105,9 @@ export default async function LocationIntentDetail({ params }) {
           </div>
         </header>
 
-        <main className="py-24">
+        <main className="py-12 lg:py-24">
           <div className="container mx-auto px-6 max-w-7xl">
-            <div className="grid grid-cols-1 lg:grid-cols-12 gap-16">
+            <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-16">
               
               {/* Left Column: Semantic Content Engine */}
               <div className="lg:col-span-7">

@@ -4,7 +4,7 @@ import Image from 'next/image';
 
 export default function ProjectMasterLayout({ masterLayout }) {
   return (
-    <section id="master-layout" className="py-24 bg-luxury-charcoal border-b border-luxury-gold/10">
+    <section id="master-layout" className="py-12 lg:py-24 bg-luxury-charcoal border-b border-luxury-gold/10">
       <div className="container mx-auto px-6 max-w-7xl">
         <motion.div 
           initial={{ opacity: 0, y: 20 }}

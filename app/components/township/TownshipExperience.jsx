@@ -4,14 +4,14 @@ import Image from 'next/image';
 
 export default function TownshipExperience() {
   return (
-    <section className="py-24 lg:py-40 bg-luxury-navy text-white relative z-10 border-t border-white/5">
+    <section className="py-12 lg:py-24 lg:py-20 lg:py-40 bg-luxury-navy text-white relative z-10 border-t border-white/5">
       <div className="container mx-auto px-6 lg:px-12">
         <motion.div
           initial={{ opacity: 0, y: 30 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true, margin: "-100px" }}
           transition={{ duration: 1 }}
-          className="text-center mb-24 max-w-4xl mx-auto"
+          className="text-center mb-12 lg:mb-24 max-w-4xl mx-auto"
         >
           <p className="text-luxury-label text-luxury-gold mb-6">The Lifestyle</p>
           <h2 className="text-display-md md:text-display-lg lg:text-display-xl font-display font-light uppercase tracking-tighter leading-[0.9] mb-8">
@@ -24,7 +24,7 @@ export default function TownshipExperience() {
           </p>
         </motion.div>
 
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-24 items-center">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-12 lg:gap-24 items-center">
           {/* Text Left */}
           <motion.div 
             initial={{ opacity: 0, x: -50 }}

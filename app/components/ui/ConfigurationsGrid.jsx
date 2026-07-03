@@ -54,7 +54,7 @@ export default function ConfigurationsGrid({ projects }) {
   }, []);
 
   return (
-    <section ref={containerRef} id="residences" className="py-16 pb-28 lg:pb-0 lg:py-0 lg:h-screen bg-[#050914] relative border-t border-luxury-gold/10 overflow-hidden flex flex-col lg:items-center">
+    <section ref={containerRef} id="residences" className="py-16 pb-14 lg:pb-28 lg:pb-0 lg:py-0 lg:h-screen bg-[#050914] relative border-t border-luxury-gold/10 overflow-hidden flex flex-col lg:items-center">
       
       {/* Background Glow */}
       <div className="absolute top-0 left-1/4 w-[500px] h-[500px] bg-luxury-gold/[0.03] rounded-full blur-[120px] pointer-events-none"></div>
@@ -66,7 +66,7 @@ export default function ConfigurationsGrid({ projects }) {
 
       <div 
         ref={scrollWrapperRef} 
-        className="flex flex-col lg:flex-row gap-6 lg:gap-16 px-6 lg:px-[10vw] w-full lg:w-max h-auto lg:h-[70vh] lg:items-center"
+        className="flex flex-col lg:flex-row gap-6 lg:gap-8 lg:gap-16 px-6 lg:px-[10vw] w-full lg:w-max h-auto lg:h-[70vh] lg:items-center"
       >
         <div className="hidden lg:flex flex-col justify-center w-[40vw] flex-shrink-0 pr-20">
           <div className="text-luxury-label text-luxury-gold mb-4 tracking-[0.3em]">The Collection</div>

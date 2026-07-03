@@ -25,7 +25,7 @@ export default function ProjectSpecs({ specifications }) {
   const [hoveredIdx, setHoveredIdx] = useState(null);
 
   return (
-    <section className="py-24 bg-luxury-charcoal border-b border-luxury-gold/10 relative overflow-hidden">
+    <section className="py-12 lg:py-24 bg-luxury-charcoal border-b border-luxury-gold/10 relative overflow-hidden">
       {/* Background glow that follows active item */}
       <div className="absolute top-0 right-0 w-[600px] h-[600px] bg-luxury-gold/[0.02] rounded-full blur-[120px] pointer-events-none"></div>
 

@@ -170,10 +170,10 @@ export default async function ProjectIntentDetail({ params }) {
         </div>
 
         {/* Dynamic Content Injection based on Intent */}
-        <main className="py-24">
+        <main className="py-12 lg:py-24">
 
           {/* === EXPANSIVE CONTENT ENGINE (MAGAZINE LAYOUT) === */}
-          <section className="container mx-auto px-6 max-w-4xl mb-24">
+          <section className="container mx-auto px-6 max-w-4xl mb-12 lg:mb-24">
             <div className="prose prose-invert prose-lg max-w-none prose-headings:font-display prose-headings:font-light prose-h2:text-4xl prose-h2:text-luxury-gold prose-h3:text-2xl prose-h3:text-white prose-p:text-luxury-silver prose-p:font-light prose-p:leading-relaxed prose-li:text-luxury-silver prose-li:font-light">
               {content.map((block, i) => {
                 if (block.type === 'h2') return <h2 key={i} className="mb-6">{block.text}</h2>;
@@ -211,26 +211,26 @@ export default async function ProjectIntentDetail({ params }) {
 
           {/* Specific Intent Modules (If applicable) */}
           {intent === 'floor-plan' && (
-            <div className="mb-24">
+            <div className="mb-12 lg:mb-24">
               <ProjectFloorPlans floorPlans={project.floorPlans} projectName={project.name} />
             </div>
           )}
 
           {intent === 'amenities' && (
-            <div className="mb-24">
+            <div className="mb-12 lg:mb-24">
               <ProjectAmenities amenities={project.amenities || []} />
             </div>
           )}
 
           {intent === 'location' && (
-            <div className="mb-24">
+            <div className="mb-12 lg:mb-24">
               <ProjectLocation locationHighlights={project.locationHighlights || []} location={project.location} />
             </div>
           )}
 
           {/* Generic Intent Catch-all Form */}
           {['price', 'brochure', 'reviews', 'payment-plan', 'virtual-tour', 'gallery', 'maharera', 'investment', 'offers', '2-bhk', '2-5-bhk', '3-bhk', '3-5-bhk', '4-bhk', '5-bhk', 'penthouse', 'duplex', 'sky-villa'].includes(intent) && (
-            <section className="container mx-auto px-6 max-w-4xl text-center mb-24">
+            <section className="container mx-auto px-6 max-w-4xl text-center mb-12 lg:mb-24">
               <div className="bg-luxury-charcoal border border-luxury-gold/20 p-12 lg:p-20 relative overflow-hidden group">
                 <div className="absolute top-0 left-1/2 -translate-x-1/2 w-full h-1 bg-gradient-to-r from-transparent via-luxury-gold to-transparent opacity-50"></div>
                 <h2 className="text-3xl lg:text-5xl font-display font-light mb-6">Request Official <span className="italic text-luxury-silver">{displayIntent}</span></h2>
@@ -244,7 +244,7 @@ export default async function ProjectIntentDetail({ params }) {
 
           {/* Always show Enquiry Form at bottom if not already shown in catch-all */}
           {!['price', 'brochure', 'reviews', 'payment-plan', 'virtual-tour', 'gallery', 'maharera', 'investment', 'offers', '2-bhk', '2-5-bhk', '3-bhk', '3-5-bhk', '4-bhk', '5-bhk', 'penthouse', 'duplex', 'sky-villa'].includes(intent) && (
-            <div className="mt-24">
+            <div className="mt-12 lg:mt-24">
                <EnquiryForm projectName={project.name} />
             </div>
           )}
