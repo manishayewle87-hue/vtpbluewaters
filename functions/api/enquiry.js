@@ -22,34 +22,18 @@ export async function onRequestPost(context) {
       }
     });
 
-    // Native Cloudflare Email Sending
-    if (env.EMAIL_SENDER) {
-      try {
-        // Create an EmailMessage for the new Email Sending binding
-        // Using the sendEmail API format (requires importing standard API, or if we use the object format from the docs)
-        // From the docs: env.EMAIL_SENDER.send({ from: '...', to: '...', subject: '...', text: '...' })
-        // Let's use the object format which works directly for the Email Routing sendEmail binding
-        await env.EMAIL_SENDER.send({
-          from: { email: 'leads@vtpbluewaters.com', name: 'VTP Bluewaters' },
-          to: [{ email: 'propsmartrealty@gmail.com', name: 'Sales Team' }],
-          subject: `New Lead: ${lead.name} - ${lead.source}`,
-          text: `
-New Enquiry Received!
-
-Name: ${lead.name}
-Email: ${lead.email || 'N/A'}
-Phone: ${lead.phone}
-Project/Source: ${lead.source}
-Configuration: ${lead.configuration || 'N/A'}
-
-Message:
-${lead.message || 'N/A'}
-          `
-        });
-      } catch (emailError) {
-        console.error('Failed to send native email notification:', emailError);
-        // We continue anyway, so the lead is still saved to DB
-      }
+    // Google Apps Script Email Sending
+    try {
+      await fetch('https://script.google.com/macros/s/AKfycbwXEA-JwXyi92dgvncHSuLuQkVeK4YzvNhvvkPksWkslUjo-gKUQEUCMXiKsq89SMkQ/exec', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(data)
+      });
+    } catch (emailError) {
+      console.error('Failed to send Google Apps Script email notification:', emailError);
+      // We continue anyway, so the lead is still saved to DB
     }
 
     return new Response(JSON.stringify({ success: true, lead }), {
