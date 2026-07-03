@@ -94,6 +94,24 @@ export default function SeoLandingPage({ params }) {
             ))}
           </ul>
         </div>
+        
+        {/* Dynamic Cross-Silo Spiderweb Linking */}
+        <div className="mt-8 p-8 border border-white/10 bg-white/5 rounded-xl text-left">
+          <h2 className="text-2xl text-luxury-white mb-4">Discover More Pune Real Estate</h2>
+          <p className="text-luxury-silver mb-6">Explore our extensive portfolio of luxury properties across Pune's most premium locations:</p>
+          <ul className="grid grid-cols-1 md:grid-cols-3 gap-4">
+            {seoSilos
+              .filter(s => s.id !== matchedSilo.id)
+              .map(s => s.slugs[0]) // Get the highest priority keyword from every other silo
+              .map((related, i) => (
+                <li key={`cross-${i}`}>
+                  <a href={`/en/explore/${related.slug}`} className="text-luxury-silver hover:text-luxury-gold transition-colors text-xs font-light">
+                    {related.keyword}
+                  </a>
+                </li>
+            ))}
+          </ul>
+        </div>
       </div>
     </div>
   );

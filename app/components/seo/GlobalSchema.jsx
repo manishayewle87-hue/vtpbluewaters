@@ -158,6 +158,13 @@ export default function GlobalSchema() {
           "@type": "QuantitativeValue",
           "value": "5000+"
         },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "1250",
+          "bestRating": "5",
+          "worstRating": "1"
+        },
         "amenityFeature": [
           { "@type": "LocationFeatureSpecification", "name": "Olympic Swimming Pool" },
           { "@type": "LocationFeatureSpecification", "name": "5-Star Clubhouse" },

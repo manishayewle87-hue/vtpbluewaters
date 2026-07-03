@@ -121,5 +121,53 @@ export const seoSilos = [
       { slug: "vtp-bluewaters-mahalunge-pune-location", keyword: "VTP Bluewaters Mahalunge Pune Location" },
       { slug: "vtp-bluewaters-mahalunge-pune-enquiry", keyword: "VTP Bluewaters Mahalunge Pune Enquiry" }
     ]
+  },
+  {
+    id: "vtp-leonara",
+    title: "VTP Leonara",
+    description: "VTP Leonara in Mahalunge offers smartly designed 1, 2, and 3 BHK homes. The perfect blend of vibrant township living and smart space utilization.",
+    slugs: [
+      { slug: "vtp-leonara-pune", keyword: "VTP Leonara Pune" },
+      { slug: "vtp-leonara-mahalunge", keyword: "VTP Leonara Mahalunge" },
+      { slug: "vtp-leonara-price", keyword: "VTP Leonara Price" },
+      { slug: "vtp-leonara-floor-plan", keyword: "VTP Leonara Floor Plan" },
+      { slug: "buy-vtp-leonara-apartments", keyword: "Buy VTP Leonara Apartments" }
+    ]
+  },
+  {
+    id: "vtp-bel-air",
+    title: "VTP Bel Air",
+    description: "Experience premium riverfront living at VTP Bel Air. Discover luxury 2 and 3 BHK apartments with breathtaking views in Mahalunge.",
+    slugs: [
+      { slug: "vtp-bel-air-pune", keyword: "VTP Bel Air Pune" },
+      { slug: "vtp-bel-air-mahalunge", keyword: "VTP Bel Air Mahalunge" },
+      { slug: "vtp-bel-air-price", keyword: "VTP Bel Air Price" },
+      { slug: "vtp-bel-air-reviews", keyword: "VTP Bel Air Reviews" },
+      { slug: "vtp-bel-air-sample-flat", keyword: "VTP Bel Air Sample Flat" }
+    ]
+  },
+  {
+    id: "vtp-alpine",
+    title: "VTP Alpine",
+    description: "VTP Alpine in Mahalunge presents exquisite high-rise living. Unmatched connectivity, luxury amenities, and sweeping views of Pune.",
+    slugs: [
+      { slug: "vtp-alpine-pune", keyword: "VTP Alpine Pune" },
+      { slug: "vtp-alpine-mahalunge", keyword: "VTP Alpine Mahalunge" },
+      { slug: "vtp-alpine-price", keyword: "VTP Alpine Price" },
+      { slug: "vtp-alpine-brochure", keyword: "VTP Alpine Brochure" },
+      { slug: "vtp-alpine-construction-status", keyword: "VTP Alpine Construction Status" }
+    ]
+  },
+  {
+    id: "township-keywords",
+    title: "Township Search Intent",
+    description: "Integrated townships provide the ultimate lifestyle. Learn why 200+ acre developments in Pune are the future of real estate.",
+    slugs: [
+      { slug: "best-township-in-pune", keyword: "Best Township in Pune" },
+      { slug: "luxury-townships-pune", keyword: "Luxury Townships Pune" },
+      { slug: "township-projects-in-west-pune", keyword: "Township Projects in West Pune" },
+      { slug: "integrated-townships-pune", keyword: "Integrated Townships Pune" },
+      { slug: "township-living-benefits", keyword: "Township Living Benefits" }
+    ]
   }
 ];
