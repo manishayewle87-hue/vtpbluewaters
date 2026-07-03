@@ -16,6 +16,10 @@ export default function TownshipOverview() {
   useEffect(() => {
     if (!sectionRef.current || !textGroupRef.current || !imagesGroupRef.current) return;
 
+    // Only enable the pinned scroll experience on desktop
+    const isDesktop = window.innerWidth >= 1024;
+    if (!isDesktop) return;
+
     // Pin the entire section
     ScrollTrigger.create({
       trigger: sectionRef.current,
@@ -59,17 +63,17 @@ export default function TownshipOverview() {
   }, []);
 
   return (
-    <section ref={sectionRef} className="h-screen bg-luxury-charcoal relative overflow-hidden border-t border-luxury-gold/10 flex items-center">
+    <section ref={sectionRef} className="py-20 lg:h-screen bg-luxury-charcoal relative overflow-hidden border-t border-luxury-gold/10 flex items-center">
       <div className="container mx-auto px-6 max-w-7xl relative z-10 w-full">
-        <div className="grid lg:grid-cols-2 gap-16 lg:gap-24 items-center">
+        <div className="grid lg:grid-cols-2 gap-10 lg:gap-24 items-center">
           
-          {/* Left Column: Storytelling Text */}
-          <div className="relative h-[400px] flex items-center" ref={textGroupRef}>
+          {/* Left Column: Storytelling Text — mobile shows only Slide 1 statically */}
+          <div className="relative lg:h-[400px] flex items-center" ref={textGroupRef}>
             
-            {/* Slide 1 */}
-            <div className="absolute w-full">
-              <div className="text-luxury-label text-luxury-gold mb-6">The Masterplan</div>
-              <h2 className="text-display-sm lg:text-display-md font-display font-light mb-8 leading-tight">
+            {/* Slide 1 — always visible on mobile, animated on desktop */}
+            <div className="lg:absolute w-full">
+              <div className="text-luxury-label text-luxury-gold mb-4">The Masterplan</div>
+              <h2 className="text-display-sm lg:text-display-md font-display font-light mb-6 leading-tight">
                 A City Within <br />
                 <span className="italic text-luxury-silver">A City</span>
               </h2>
@@ -78,8 +82,8 @@ export default function TownshipOverview() {
               </p>
             </div>
 
-            {/* Slide 2 */}
-            <div className="absolute w-full opacity-0 pointer-events-none">
+            {/* Slide 2 — desktop GSAP only */}
+            <div className="lg:absolute w-full opacity-0 pointer-events-none hidden lg:block">
               <div className="text-luxury-label text-luxury-gold mb-6">Nature&apos;s Canvas</div>
               <h2 className="text-display-sm lg:text-display-md font-display font-light mb-8 leading-tight">
                 Embraced By <br />
@@ -90,8 +94,8 @@ export default function TownshipOverview() {
               </p>
             </div>
 
-            {/* Slide 3 */}
-            <div className="absolute w-full opacity-0 pointer-events-none">
+            {/* Slide 3 — desktop GSAP only */}
+            <div className="lg:absolute w-full opacity-0 pointer-events-none hidden lg:block">
               <div className="text-luxury-label text-luxury-gold mb-6">Unrivaled Connectivity</div>
               <h2 className="text-display-sm lg:text-display-md font-display font-light mb-8 leading-tight">
                 The Heart Of <br />
@@ -105,7 +109,7 @@ export default function TownshipOverview() {
           </div>
 
           {/* Right Column: Imagery */}
-          <div className="relative h-[50vh] lg:h-[70vh] w-full" ref={imagesGroupRef}>
+          <div className="relative h-[56vw] max-h-[340px] lg:h-[70vh] lg:max-h-none w-full" ref={imagesGroupRef}>
             {/* Slide 1 Image */}
             <div className="absolute inset-0 w-full h-full">
               <Image 

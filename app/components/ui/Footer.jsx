@@ -171,13 +171,13 @@ export default function Footer() {
       </div>
 
       {/* Bottom Bar */}
-      <div className="border-t border-white/5">
+      <div className="border-t border-white/5 pb-24 lg:pb-0">
         <div className="container mx-auto px-6 max-w-7xl py-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
-            <p className="text-luxury-caption text-white/30">
+            <p className="text-luxury-caption text-white/30 text-center md:text-left">
               © {new Date().getFullYear()} VTP Realty. All Rights Reserved. | BLUEWATERS Township, Mahalunge, Pune.
             </p>
-            <div className="flex gap-8">
+            <div className="flex flex-wrap justify-center gap-4 md:gap-8">
               <Link href="#" className="text-luxury-caption text-white/30 hover:text-luxury-silver transition-colors">Privacy Policy</Link>
               <Link href="#" className="text-luxury-caption text-white/30 hover:text-luxury-silver transition-colors">Terms of Use</Link>
               <Link href="#" className="text-luxury-caption text-white/30 hover:text-luxury-silver transition-colors">Disclaimer</Link>

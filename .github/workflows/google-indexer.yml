@@ -1,0 +1,51 @@
+name: Google Indexing API Automation
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'app/data/content-hub.json'
+      - 'app/services/cms.js'
+      - 'scripts/google-indexer.js'
+  workflow_dispatch:
+    inputs:
+      url_to_index:
+        description: 'Specific URL to index (leave blank to auto-detect)'
+        required: false
+        type: string
+
+jobs:
+  index-urls:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2 # Fetch previous commit to compare changes
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Create Service Account File
+        run: |
+          echo '${{ secrets.GCP_SERVICE_ACCOUNT_JSON }}' > service_account.json
+
+      - name: Run Indexer for Specific URL
+        if: ${{ github.event.inputs.url_to_index != '' }}
+        run: node scripts/google-indexer.js ${{ github.event.inputs.url_to_index }}
+
+      # In a full implementation, you would write a script to parse the git diff of content-hub.json,
+      # extract new URLs, and loop through them. For now, we will ping the main sitemap 
+      # and the main blog hub to trigger a recrawl, or allow manual dispatch for specific URLs.
+      - name: Ping Google to recrawl sitemaps
+        if: ${{ github.event.inputs.url_to_index == '' }}
+        run: |
+          curl "https://www.google.com/ping?sitemap=https://vtpbluewaters.com/sitemap.xml"
+          echo "Pung Google Sitemap"

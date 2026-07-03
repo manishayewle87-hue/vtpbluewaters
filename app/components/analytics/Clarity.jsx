@@ -6,7 +6,7 @@ export default function Clarity({ clarityId = 'placeholder_id' }) {
   return (
     <Script
       id="microsoft-clarity"
-      strategy="afterInteractive"
+      strategy="worker"
       dangerouslySetInnerHTML={{
         __html: `
           (function(c,l,a,r,i,t,y){

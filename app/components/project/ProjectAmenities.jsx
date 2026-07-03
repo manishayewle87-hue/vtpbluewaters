@@ -191,7 +191,7 @@ export default function ProjectAmenities({ amenities }) {
   const [hoveredIdx, setHoveredIdx] = useState(null);
 
   return (
-    <section className="py-28 bg-[#080e1f] border-b border-luxury-gold/10 relative overflow-hidden">
+    <section className="py-16 lg:py-28 bg-[#080e1f] border-b border-luxury-gold/10 relative overflow-hidden">
       {/* Subtle background glow */}
       <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[800px] h-[800px] bg-[#36C5CD]/[0.02] rounded-full blur-[150px] pointer-events-none"></div>
 
@@ -211,7 +211,19 @@ export default function ProjectAmenities({ amenities }) {
           </p>
         </motion.div>
 
-        <div className="grid grid-cols-2 md:grid-cols-3 gap-5 lg:gap-6">
+        <motion.div 
+          initial="hidden"
+          whileInView="show"
+          viewport={{ once: true, margin: "-5%" }}
+          variants={{
+            hidden: { opacity: 0 },
+            show: {
+              opacity: 1,
+              transition: { staggerChildren: 0.08 }
+            }
+          }}
+          className="grid grid-cols-2 md:grid-cols-3 gap-5 lg:gap-6"
+        >
           {amenities?.map((amenity, idx) => {
             const name = typeof amenity === 'string' ? amenity : amenity.name;
             const iconName = typeof amenity === 'string' ? 'Building' : (amenity.icon || 'Building');
@@ -220,55 +232,70 @@ export default function ProjectAmenities({ amenities }) {
             return (
               <motion.div
                 key={idx}
-                initial={{ opacity: 0, y: 30 }}
-                whileInView={{ opacity: 1, y: 0 }}
-                viewport={{ once: true }}
-                transition={{ delay: idx * 0.08, duration: 0.6, ease: [0.22, 1, 0.36, 1] }}
+                variants={{
+                  hidden: { opacity: 0, y: 30, scale: 0.95 },
+                  show: { 
+                    opacity: 1, 
+                    y: 0, 
+                    scale: 1,
+                    transition: { type: "spring", stiffness: 100, damping: 20 }
+                  }
+                }}
                 onMouseEnter={() => setHoveredIdx(idx)}
                 onMouseLeave={() => setHoveredIdx(null)}
-                className="group relative"
+                className="group relative h-full"
               >
                 <div className={`
-                  relative p-8 lg:p-10 border transition-all duration-500 cursor-default overflow-hidden
+                  relative h-full p-8 lg:p-10 border transition-all duration-700 cursor-default overflow-hidden
                   ${isHovered 
-                    ? 'bg-white/[0.04] border-luxury-gold/40 shadow-[0_0_40px_rgba(212,175,55,0.06)]' 
+                    ? 'bg-white/[0.04] border-transparent shadow-[0_10px_40px_rgba(212,175,55,0.08)]' 
                     : 'bg-white/[0.015] border-white/[0.06]'}
                 `}>
-                  {/* Animated corner accent */}
-                  <motion.div 
-                    className="absolute top-0 left-0 w-8 h-px bg-luxury-gold"
-                    animate={{ width: isHovered ? 40 : 32, opacity: isHovered ? 1 : 0.3 }}
-                    transition={{ duration: 0.4 }}
-                  />
-                  <motion.div 
-                    className="absolute top-0 left-0 h-8 w-px bg-luxury-gold"
-                    animate={{ height: isHovered ? 40 : 32, opacity: isHovered ? 1 : 0.3 }}
-                    transition={{ duration: 0.4 }}
+                  {/* Fluid Sweeping Gradient Background */}
+                  <motion.div
+                    className="absolute inset-0 bg-gradient-to-br from-luxury-gold/10 via-transparent to-transparent opacity-0 mix-blend-screen pointer-events-none"
+                    animate={{ opacity: isHovered ? 1 : 0, scale: isHovered ? 1.05 : 1 }}
+                    transition={{ duration: 0.6 }}
                   />
 
-                  {/* Icon */}
+                  {/* Gradient Border Overlay (Fluid Reveal) */}
+                  <motion.div
+                    className="absolute inset-0 border border-luxury-gold/40 pointer-events-none rounded-[inherit]"
+                    initial={{ clipPath: 'inset(100% 0 0 0)' }}
+                    animate={{ clipPath: isHovered ? 'inset(0% 0 0 0)' : 'inset(100% 0 0 0)' }}
+                    transition={{ type: "spring", stiffness: 150, damping: 20 }}
+                  />
+
+                  {/* Icon with Magnetic Spring */}
                   <motion.div 
-                    className={`w-12 h-12 mb-6 transition-colors duration-500 ${isHovered ? 'text-luxury-gold' : 'text-luxury-silver/50'}`}
-                    animate={{ scale: isHovered ? 1.1 : 1 }}
-                    transition={{ duration: 0.3, type: 'spring', stiffness: 300 }}
+                    className={`w-12 h-12 mb-6 transition-colors duration-500 relative z-10 ${isHovered ? 'text-luxury-gold' : 'text-luxury-silver/50'}`}
+                    animate={{ 
+                      scale: isHovered ? 1.1 : 1,
+                      y: isHovered ? -5 : 0
+                    }}
+                    transition={{ type: 'spring', stiffness: 400, damping: 15 }}
                   >
                     <AmenityIcon name={iconName} isHovered={isHovered} />
                   </motion.div>
 
                   {/* Label */}
-                  <h3 className={`text-sm font-display font-light tracking-wide transition-colors duration-500 ${isHovered ? 'text-luxury-white' : 'text-luxury-silver/80'}`}>
+                  <h3 className={`text-sm font-display font-light tracking-wide transition-colors duration-500 relative z-10 ${isHovered ? 'text-luxury-white' : 'text-luxury-silver/80'}`}>
                     {name}
                   </h3>
 
                   {/* Subtle index number */}
-                  <div className="absolute bottom-4 right-5 text-[8px] tracking-widest text-white/10 font-display">
+                  <motion.div 
+                    className="absolute bottom-4 right-5 text-[8px] tracking-widest text-white/10 font-display pointer-events-none"
+                    animate={{ opacity: isHovered ? 1 : 0.5, x: isHovered ? -2 : 0 }}
+                    transition={{ type: "spring", stiffness: 300 }}
+                  >
                     {String(idx + 1).padStart(2, '0')}
-                  </div>
+                  </motion.div>
                 </div>
               </motion.div>
             );
           })}
-        </div>
+        </motion.div>
       </div>
     </section>
   );

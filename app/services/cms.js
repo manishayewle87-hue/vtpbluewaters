@@ -1,8 +1,25 @@
-import projectsData from '../data/projects.json';
+import { PrismaClient } from '@prisma/client';
 
-// Abstracted CMS Service
-// This acts as a facade. Currently reads from JSON, but can be easily
-// swapped to fetch from Sanity, Contentful, or Strapi in the future.
+// We instantiate a single PrismaClient for the build process.
+// Note: Since this is used in Next.js generateStaticParams/getStaticProps 
+// during `next build`, it will safely fetch from the local SQLite db.
+const prisma = new PrismaClient();
+
+/**
+ * Utility to parse JSON fields safely from Prisma SQLite models
+ */
+function parsePrismaProject(p) {
+  if (!p) return null;
+  return {
+    ...p,
+    amenities: JSON.parse(p.amenities || '[]'),
+    specifications: JSON.parse(p.specifications || '[]'),
+    locationHighlights: JSON.parse(p.locationHighlights || '[]'),
+    floorPlans: JSON.parse(p.floorPlans || '[]'),
+    maharera: JSON.parse(p.maharera || '[]'),
+    gallery: JSON.parse(p.gallery || '[]'),
+  };
+}
 
 export const cms = {
   /**
@@ -10,9 +27,8 @@ export const cms = {
    * @returns {Promise<Array>} Array of all project objects
    */
   async getAllProjects() {
-    // Simulate network delay for realistic CMS behavior
-    // await new Promise(resolve => setTimeout(resolve, 100));
-    return projectsData;
+    const projects = await prisma.project.findMany();
+    return projects.map(parsePrismaProject);
   },
 
   /**
@@ -21,8 +37,33 @@ export const cms = {
    * @returns {Promise<Object|null>} The project object or null
    */
   async getProjectBySlug(slug) {
-    const project = projectsData.find(p => p.slug === slug);
-    return project || null;
+    const project = await prisma.project.findUnique({
+      where: { slug }
+    });
+    return parsePrismaProject(project);
+  },
+
+  /**
+   * Fetch all blogs
+   */
+  async getAllBlogs() {
+    return prisma.blog.findMany({
+      orderBy: { createdAt: 'desc' }
+    });
+  },
+
+  /**
+   * Fetch all locations
+   */
+  async getAllLocations() {
+    return prisma.location.findMany();
+  },
+
+  /**
+   * Fetch all FAQs
+   */
+  async getAllFaqs() {
+    return prisma.faq.findMany();
   },
 
   /**

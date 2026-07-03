@@ -12,6 +12,7 @@
     "index-url": "node scripts/google-indexer.js"
   },
   "dependencies": {
+    "@builder.io/partytown": "^0.10.3",
     "@ducanh2912/next-pwa": "^10.2.9",
     "@libsql/client": "^0.17.4",
     "@prisma/adapter-d1": "^7.8.0",

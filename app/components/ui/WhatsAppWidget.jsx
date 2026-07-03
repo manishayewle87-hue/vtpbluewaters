@@ -19,7 +19,7 @@ export default function WhatsAppWidget() {
           });
         }
       }}
-      className="fixed bottom-6 left-6 z-[60] bg-[#25D366] text-white p-4 rounded-full shadow-lg hover:scale-110 transition-transform duration-300 flex items-center justify-center group"
+      className="fixed bottom-24 lg:bottom-8 left-4 lg:left-6 z-[60] bg-[#25D366] text-white p-4 rounded-full shadow-lg hover:scale-110 transition-transform duration-300 flex items-center justify-center group"
     >
       <svg
         xmlns="http://www.w3.org/2000/svg"

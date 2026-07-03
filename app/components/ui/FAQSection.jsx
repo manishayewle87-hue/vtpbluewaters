@@ -43,7 +43,7 @@ export default function FAQSection() {
   };
 
   return (
-    <section className="py-32 bg-luxury-navy border-t border-luxury-gold/10 relative">
+    <section className="py-20 pb-28 lg:py-32 lg:pb-32 bg-luxury-navy border-t border-luxury-gold/10 relative">
       {/* Inject Structured Data */}
       <script
         type="application/ld+json"

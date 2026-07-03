@@ -18,3 +18,55 @@ model Lead {
   source        String?
   createdAt     DateTime @default(now())
 }
+
+model Project {
+  id                 Int      @id @default(autoincrement())
+  slug               String   @unique
+  name               String
+  township           String?
+  location           String
+  image              String
+  link               String?
+  seoTitle           String?
+  seoDescription     String?
+  overview           String?
+  masterLayout       String?
+  
+  // Stored as stringified JSON arrays to simplify SQLite schema
+  amenities          String? // JSON string
+  specifications     String? // JSON string
+  locationHighlights String? // JSON string
+  floorPlans         String? // JSON string
+  maharera           String? // JSON string
+  gallery            String? // JSON string
+  
+  createdAt          DateTime @default(now())
+  updatedAt          DateTime @updatedAt
+}
+
+model Blog {
+  id        Int      @id @default(autoincrement())
+  slug      String   @unique
+  title     String
+  category  String
+  content   String
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Faq {
+  id        Int      @id @default(autoincrement())
+  question  String
+  answer    String
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Location {
+  id          Int      @id @default(autoincrement())
+  slug        String   @unique
+  title       String
+  description String
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}

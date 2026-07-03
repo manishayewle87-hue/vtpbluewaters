@@ -68,13 +68,13 @@ export default function EnquiryForm({ projectName }) {
   }
 
   return (
-    <section className="py-32 bg-[#050914] relative">
+    <section className="py-16 lg:py-32 bg-[#050914] relative">
       <div className="container mx-auto px-6 max-w-4xl">
         <motion.div 
           initial={{ opacity: 0, y: 30 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
-          className="glass-frost p-10 md:p-16 relative overflow-hidden"
+          className="glass-frost p-8 md:p-16 relative overflow-hidden"
         >
           <div className="absolute top-0 right-0 w-64 h-64 bg-luxury-gold/5 blur-[100px] rounded-full pointer-events-none"></div>
           <div className="absolute bottom-0 left-0 w-48 h-48 bg-[#36C5CD]/5 blur-[80px] rounded-full pointer-events-none"></div>

@@ -48,7 +48,7 @@ export default function LuxuryNavbar() {
       >
         <div className="container mx-auto px-6 lg:px-12 flex justify-between items-center">
           <Link href="/" title="VTP Bluewaters Home" className="flex items-center flex-shrink-0 z-50 relative">
-            <Logo className="w-48 md:w-64 lg:w-80 h-auto" />
+            <Logo className="w-36 md:w-52 lg:w-80 h-auto" />
           </Link>
           
           {/* Desktop Navigation */}
