@@ -1,23 +1,91 @@
 export const dynamic = 'force-static';
+
 export default function robots() {
   return {
     rules: [
+      // ─── Primary Search Engines (Full Access) ───
       {
-        userAgent: '*',
-        allow: '/',
+        userAgent: 'Googlebot',
+        allow: ['/'],
         disallow: [
-          '/private/',
           '/admin/',
+          '/private/',
           '/api/',
-          '/*?*intent=', // Block crawling of parametric intent filters if they exist
+          '/preview/',
+          '/staging/',
+          '/test/',
         ],
       },
-      // Aggressively block AI scrapers to protect proprietary real estate data
       {
-        userAgent: ['GPTBot', 'ChatGPT-User', 'CCBot', 'ClaudeBot', 'anthropic-ai', 'Omgilibot', 'Omgili'],
+        userAgent: 'Googlebot-Image',
+        allow: ['/'],
+      },
+      {
+        userAgent: 'Googlebot-Video',
+        allow: ['/'],
+      },
+      {
+        userAgent: 'Bingbot',
+        allow: ['/'],
+        disallow: [
+          '/admin/',
+          '/private/',
+          '/api/',
+          '/preview/',
+        ],
+        crawlDelay: 1,
+      },
+      {
+        userAgent: 'Slurp',  // Yahoo
+        allow: ['/'],
+        disallow: ['/admin/', '/private/', '/api/'],
+        crawlDelay: 2,
+      },
+      {
+        userAgent: 'DuckDuckBot',
+        allow: ['/'],
+        disallow: ['/admin/', '/private/', '/api/'],
+        crawlDelay: 1,
+      },
+      {
+        userAgent: 'Yandex',
+        allow: ['/'],
+        disallow: ['/admin/', '/private/', '/api/'],
+        crawlDelay: 2,
+      },
+
+      // ─── Default Rule for All Other Bots ───
+      {
+        userAgent: '*',
+        allow: ['/'],
+        disallow: [
+          '/admin/',
+          '/private/',
+          '/api/',
+          '/preview/',
+          '/staging/',
+          '/test/',
+          '/*?*filter=',
+          '/*?*sort=',
+          '/*?*page=',
+          '/*?*ref=',
+          '/*?*utm_',
+        ],
+      },
+
+      // ─── Block Unauthorized AI Scrapers ───
+      // Protects proprietary real estate data, pricing, and floor plans
+      {
+        userAgent: ['GPTBot', 'ChatGPT-User', 'CCBot', 'ClaudeBot', 'anthropic-ai', 'Omgilibot', 'Omgili', 'Bytespider', 'PetalBot', 'Amazonbot'],
         disallow: ['/'],
-      }
+      },
     ],
-    sitemap: 'https://vtpbluewaters.com/sitemap.xml',
-  }
+    sitemap: [
+      'https://vtpbluewaters.com/sitemap.xml',
+      'https://vtpbluewaters.com/sitemap/0.xml',
+      'https://vtpbluewaters.com/sitemap/1.xml',
+      'https://vtpbluewaters.com/sitemap/2.xml',
+    ],
+    host: 'https://vtpbluewaters.com',
+  };
 }

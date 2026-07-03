@@ -1,0 +1,33 @@
+# ─── Enterprise Security Headers ───
+# Applied by Cloudflare Pages at the edge to every response.
+# Ref: https://developers.cloudflare.com/pages/configuration/headers/
+
+/*
+  Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: SAMEORIGIN
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=(self), interest-cohort=()
+  X-XSS-Protection: 1; mode=block
+  X-DNS-Prefetch-Control: on
+
+# ─── Static Asset Immutable Caching ───
+/_next/static/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/images/*
+  Cache-Control: public, max-age=2592000, stale-while-revalidate=86400
+
+# ─── Font Caching ───
+/_next/static/media/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# ─── Sitemap & Robots (short cache to pick up changes) ───
+/sitemap.xml
+  Cache-Control: public, max-age=3600, stale-while-revalidate=600
+
+/sitemap/*
+  Cache-Control: public, max-age=3600, stale-while-revalidate=600
+
+/robots.txt
+  Cache-Control: public, max-age=3600, stale-while-revalidate=600
