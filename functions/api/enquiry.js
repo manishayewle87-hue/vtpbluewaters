@@ -1,6 +1,3 @@
-import { PrismaClient } from '@prisma/client';
-import { PrismaD1 } from '@prisma/adapter-d1';
-
 export async function onRequestPost(context) {
   const { request, env } = context;
 
@@ -22,23 +19,31 @@ export async function onRequestPost(context) {
     }
 
     let lead = null;
-    try {
-      if (env.DB) {
-        const adapter = new PrismaD1(env.DB);
-        const prisma = new PrismaClient({ adapter });
-        lead = await prisma.lead.create({
-          data: {
-            name: data.name || 'Unknown',
-            email: data.email || null,
-            phone: data.phone || 'Unknown',
-            configuration: data.configuration || null,
-            message: data.message || null,
-            source: (data.project || data.source || 'Website Enquiry') + (data.location ? ` - ${data.location}` : ''),
-          }
+
+    // Native Cloudflare Email Sending
+    if (env.EMAIL_SENDER) {
+      try {
+        await env.EMAIL_SENDER.send({
+          from: { email: 'leads@vtpbluewaters.com', name: 'VTP Bluewaters' },
+          to: [{ email: 'propsmartrealty@gmail.com', name: 'Sales Team' }],
+          subject: `New Lead: ${data.name} - ${data.project || 'Website Enquiry'}`,
+          text: `
+New Enquiry Received!
+
+Name: ${data.name}
+Email: ${data.email || 'N/A'}
+Phone: ${data.phone}
+Project/Source: ${data.project || 'Website Enquiry'}
+Location: ${data.location || 'N/A'}
+Configuration: ${data.configuration || 'N/A'}
+
+Message:
+${data.message || 'N/A'}
+          `
         });
+      } catch (emailError) {
+        console.error('Failed to send native email notification:', emailError);
       }
-    } catch (dbError) {
-      console.error('Database save failed:', dbError);
     }
 
     // Google Apps Script Email Sending
@@ -55,7 +60,6 @@ export async function onRequestPost(context) {
       });
     } catch (emailError) {
       console.error('Failed to send Google Apps Script email notification:', emailError);
-      // We continue anyway, so the lead is still saved to DB
     }
 
     return new Response(JSON.stringify({ success: true, lead }), {
