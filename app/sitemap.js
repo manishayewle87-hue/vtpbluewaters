@@ -77,7 +77,7 @@ async function generateCoreAndProjectsSitemap(baseUrl, langs) {
         lastModified: new Date(),
         changeFrequency: 'monthly',
         priority: 0.9,
-        images: project.image ? [project.image] : [],
+        images: project.image ? [`${baseUrl}${project.image}`] : [],
         alternates: {
           languages: buildAlternates(baseUrl, `/projects/${project.slug}`, langs),
         },
