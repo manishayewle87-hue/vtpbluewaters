@@ -1,6 +1,7 @@
 'use client';
 import { motion } from 'framer-motion';
 import Link from 'next/link';
+import { usePathname } from 'next/navigation';
 import Logo from './Logo';
 import contentData from '@/app/data/content-hub.json';
 
@@ -18,6 +19,11 @@ const townships = [
 ];
 
 export default function Footer() {
+  const pathname = usePathname();
+  const isIntentLandingPage = pathname?.includes('/locations/') && pathname?.split('/').length > 4;
+
+  if (isIntentLandingPage) return null;
+
   return (
     <footer aria-label="Site Footer" className="bg-[#050914] border-t border-white/5">
       {/* Main Footer */}

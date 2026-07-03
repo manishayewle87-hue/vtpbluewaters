@@ -55,11 +55,13 @@ export const metadata = {
     description: 'Discover the pinnacle of luxury living at VTP BLUEWATERS Township, Mahalunge, Pune.',
     siteName: 'VTP BLUEWATERS',
     type: 'website',
+    images: ['/assets/projects/earth-1/hero.jpg'],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'VTP BLUEWATERS | Ultra Luxury Residences in Pune',
     description: 'Discover the pinnacle of luxury living at VTP BLUEWATERS Township, Mahalunge, Pune.',
+    images: ['/assets/projects/earth-1/hero.jpg'],
   },
   icons: {
     icon: '/icon.svg',

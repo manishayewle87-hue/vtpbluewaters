@@ -3,6 +3,7 @@ import { useState } from 'react';
 import { motion } from 'framer-motion';
 import Image from 'next/image';
 import PricingModal from './PricingModal';
+import LightboxGallery from '../ui/LightboxGallery';
 
 const containerVariants = {
   hidden: { opacity: 0 },
@@ -33,11 +34,19 @@ export default function ProjectFloorPlans({ floorPlans, projectName }) {
   const [modalOpen, setModalOpen] = useState(false);
   const [selectedPlan, setSelectedPlan] = useState('');
   const [hoveredCard, setHoveredCard] = useState(null);
+  const [lightboxOpen, setLightboxOpen] = useState(false);
+  const [lightboxIndex, setLightboxIndex] = useState(0);
 
   const openModal = (planType) => {
     setSelectedPlan(planType);
     setModalOpen(true);
   };
+
+  const openLightbox = (index) => {
+    setLightboxIndex(index);
+    setLightboxOpen(true);
+  };
+
 
   return (
     <>
@@ -76,7 +85,7 @@ export default function ProjectFloorPlans({ floorPlans, projectName }) {
                   onMouseEnter={() => setHoveredCard(idx)}
                   onMouseLeave={() => setHoveredCard(null)}
                   className="bg-luxury-charcoal border border-white/5 overflow-hidden group cursor-pointer relative"
-                  onClick={() => openModal(plan.type)}
+                  onClick={() => openLightbox(idx)}
                 >
                   {/* Fluid Border Glow */}
                   <motion.div 
@@ -132,7 +141,8 @@ export default function ProjectFloorPlans({ floorPlans, projectName }) {
                     </motion.p>
                     
                     <motion.button 
-                      className="mt-6 w-full border border-luxury-gold/30 text-luxury-label py-3 relative overflow-hidden group/btn"
+                      onClick={(e) => { e.stopPropagation(); openModal(plan.type); }}
+                      className="mt-6 w-full border border-luxury-gold/30 text-luxury-label py-3 relative overflow-hidden group/btn cursor-pointer"
                     >
                       <span className="relative z-10 transition-colors duration-300 text-luxury-silver group-hover/btn:text-luxury-navy">
                         Request Pricing
@@ -157,6 +167,13 @@ export default function ProjectFloorPlans({ floorPlans, projectName }) {
         onClose={() => setModalOpen(false)} 
         planType={selectedPlan}
         projectName={projectName || 'VTP BLUEWATERS'}
+      />
+
+      <LightboxGallery 
+        images={floorPlans?.map(p => ({ src: p.image || '/assets/projects/earth-1/floor-plan-3bhk.jpg', alt: p.type })) || []} 
+        initialIndex={lightboxIndex}
+        isOpen={lightboxOpen} 
+        onClose={() => setLightboxOpen(false)} 
       />
     </>
   );

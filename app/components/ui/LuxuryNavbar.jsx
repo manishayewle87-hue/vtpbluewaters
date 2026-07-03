@@ -2,6 +2,7 @@
 import Link from 'next/link';
 import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
+import { usePathname } from 'next/navigation';
 
 import MagneticButton from './MagneticButton';
 import Logo from './Logo';
@@ -10,6 +11,9 @@ import { Menu, X } from 'lucide-react';
 export default function LuxuryNavbar() {
   const [scrolled, setScrolled] = useState(false);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const pathname = usePathname();
+
+  const isIntentLandingPage = pathname?.includes('/locations/') && pathname?.split('/').length > 4;
 
   useEffect(() => {
     const handleScroll = () => {
@@ -35,6 +39,16 @@ export default function LuxuryNavbar() {
     { label: 'Amenities', href: '#amenities' },
     { label: 'Location', href: '#location' }
   ];
+
+  if (isIntentLandingPage) {
+    return (
+      <header className="absolute top-0 w-full z-50 py-5 lg:py-10 flex justify-center bg-luxury-navy/80 backdrop-blur-xl border-b border-white/5">
+        <Link href="/" title="VTP Bluewaters Home">
+          <Logo className="w-32 md:w-48 h-auto" />
+        </Link>
+      </header>
+    );
+  }
 
   return (
     <>
