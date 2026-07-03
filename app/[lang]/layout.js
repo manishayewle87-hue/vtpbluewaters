@@ -10,7 +10,6 @@ import GlobalSchema from '@/app/components/seo/GlobalSchema';
 import KnowledgeGraph from '@/app/components/seo/KnowledgeGraph';
 import WhatsAppWidget from '@/app/components/ui/WhatsAppWidget';
 import ExitIntentModal from '@/app/components/ui/ExitIntentModal';
-import GoogleAnalytics from '@/app/components/analytics/GoogleAnalytics';
 import Clarity from '@/app/components/analytics/Clarity';
 import MobileBottomBar from '@/app/components/ui/MobileBottomBar';
 import CanonicalHreflang from '@/app/components/seo/CanonicalHreflang';
