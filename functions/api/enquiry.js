@@ -7,10 +7,6 @@ export async function onRequestPost(context) {
   try {
     const data = await request.json();
     
-    // Connect to the Cloudflare D1 Database using the environment binding (env.DB)
-    const adapter = new PrismaD1(env.DB);
-    const prisma = new PrismaClient({ adapter });
-
     // Optional: Verify reCAPTCHA token if SECRET is provided in env
     if (env.RECAPTCHA_SECRET_KEY && data.recaptchaToken) {
       const verifyRes = await fetch('https://www.google.com/recaptcha/api/siteverify', {
@@ -25,16 +21,25 @@ export async function onRequestPost(context) {
       }
     }
 
-    const lead = await prisma.lead.create({
-      data: {
-        name: data.name || 'Unknown',
-        email: data.email || null,
-        phone: data.phone || 'Unknown',
-        configuration: data.configuration || null,
-        message: data.message || null,
-        source: (data.project || data.source || 'Website Enquiry') + (data.location ? ` - ${data.location}` : ''),
+    let lead = null;
+    try {
+      if (env.DB) {
+        const adapter = new PrismaD1(env.DB);
+        const prisma = new PrismaClient({ adapter });
+        lead = await prisma.lead.create({
+          data: {
+            name: data.name || 'Unknown',
+            email: data.email || null,
+            phone: data.phone || 'Unknown',
+            configuration: data.configuration || null,
+            message: data.message || null,
+            source: (data.project || data.source || 'Website Enquiry') + (data.location ? ` - ${data.location}` : ''),
+          }
+        });
       }
-    });
+    } catch (dbError) {
+      console.error('Database save failed:', dbError);
+    }
 
     // Google Apps Script Email Sending
     try {
