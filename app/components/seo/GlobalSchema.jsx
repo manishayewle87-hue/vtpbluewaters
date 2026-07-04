@@ -55,7 +55,7 @@ export default function GlobalSchema() {
         "contactPoint": [
           {
             "@type": "ContactPoint",
-            "telephone": "+91-20-6777-0000",
+            "telephone": "+91-7744009295",
             "contactType": "sales",
             "areaServed": "IN",
             "availableLanguage": ["English", "Hindi", "Marathi"]
@@ -90,13 +90,13 @@ export default function GlobalSchema() {
         "@id": "https://vtpbluewaters.com/#agent",
         "name": "VTP Realty",
         "image": "https://vtpbluewaters.com/logo.svg",
-        "telephone": "+91-20-6777-0000",
+        "telephone": "+91-7744009295",
         "priceRange": "₹₹₹₹",
         "address": {
           "@type": "PostalAddress",
-          "streetAddress": "9th Floor, Cerebrum IT Park, Kalyani Nagar",
+          "streetAddress": "Site Office: VTP Bluewaters Township, Mahalunge",
           "addressLocality": "Pune",
-          "postalCode": "411006",
+          "postalCode": "411045",
           "addressRegion": "Maharashtra",
           "addressCountry": "IN"
         },

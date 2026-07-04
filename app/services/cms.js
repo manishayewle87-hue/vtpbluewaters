@@ -71,9 +71,9 @@ export const cms = {
    */
   async getGlobalSettings() {
     return {
-      contactEmail: 'sales@vtprealty.in',
-      contactPhone: '+91 20 6777 0000',
-      officeAddress: 'VTP Realty, 9th Floor, Cerebrum IT Park, Kalyani Nagar, Pune 411006',
+      contactEmail: 'sales@vtpbluewaters.com',
+      contactPhone: '+91 77440 09295',
+      officeAddress: 'Site Office: VTP Bluewaters Township, Mahalunge-411045',
       socials: {
         instagram: 'https://instagram.com/vtprealty',
         facebook: 'https://facebook.com/vtprealty',

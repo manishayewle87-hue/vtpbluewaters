@@ -110,8 +110,8 @@ export default function Footer() {
             <div className="space-y-6">
               <div>
                 <p className="text-luxury-caption text-luxury-silver mb-2">Sales Enquiry</p>
-                <a href="tel:+912067770000" className="text-lg font-display font-light text-luxury-white hover:text-luxury-gold transition-colors">
-                  +91 20 6777 0000
+                <a href="tel:+917744009295" className="text-lg font-display font-light text-luxury-white hover:text-luxury-gold transition-colors">
+                  +91 77440 09295
                 </a>
               </div>
               <div>
@@ -121,9 +121,9 @@ export default function Footer() {
                 </a>
               </div>
               <div>
-                <p className="text-luxury-caption text-luxury-silver mb-2">Corporate Office</p>
+                <p className="text-luxury-caption text-luxury-silver mb-2">Site Office</p>
                 <p className="text-sm text-luxury-silver font-light leading-relaxed">
-                  VTP Realty, 9th Floor, Cerebrum IT Park, Kalyani Nagar, Pune 411006
+                  VTP Bluewaters Township, Mahalunge-411045
                 </p>
               </div>
             </div>
