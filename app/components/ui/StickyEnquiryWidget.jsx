@@ -106,11 +106,17 @@ export default function StickyEnquiryWidget() {
                 };
                 
                 try {
-                  await fetch('/api/enquiry', {
+                  const webhookUrl = process.env.NEXT_PUBLIC_GAS_MAILER_URL;
+                  if (!webhookUrl) {
+                    console.error("Webhook URL missing");
+                    return;
+                  }
+
+                  await fetch(webhookUrl, {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
                     body: JSON.stringify({
-                      subject: `New Enquiry from Sticky Widget`,
+                      subject: `New Enquiry from Sticky Widget - ${data.name}`,
                       ...data
                     }),
                   });

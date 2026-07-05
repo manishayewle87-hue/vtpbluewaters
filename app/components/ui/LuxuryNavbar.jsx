@@ -6,11 +6,12 @@ import { usePathname } from 'next/navigation';
 
 import MagneticButton from './MagneticButton';
 import Logo from './Logo';
-import { Menu, X } from 'lucide-react';
+import { Menu, X, ChevronDown } from 'lucide-react';
 
 export default function LuxuryNavbar() {
   const [scrolled, setScrolled] = useState(false);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const [activeDropdown, setActiveDropdown] = useState(null); // 'locations' | 'portfolio' | null
   const pathname = usePathname();
 
   const isIntentLandingPage = pathname?.includes('/locations/') && pathname?.split('/').length > 4;
@@ -23,7 +24,6 @@ export default function LuxuryNavbar() {
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
 
-  // Prevent scroll when mobile menu is open
   useEffect(() => {
     if (mobileMenuOpen) {
       document.body.style.overflow = 'hidden';
@@ -31,14 +31,6 @@ export default function LuxuryNavbar() {
       document.body.style.overflow = 'unset';
     }
   }, [mobileMenuOpen]);
-
-  const navLinks = [
-    { label: 'Township', href: '/township', targetId: null },
-    { label: 'Overview', href: '/explore/vtp-bluewaters-mahalunge-pune-overview', targetId: 'overview' },
-    { label: 'Residences', href: '/explore/vtp-bluewaters-mahalunge-pune-luxury-residences', targetId: 'residences' },
-    { label: 'Amenities', href: '/explore/vtp-bluewaters-mahalunge-pune-premium-amenities', targetId: 'amenities' },
-    { label: 'Location', href: '/explore/vtp-bluewaters-mahalunge-pune-location', targetId: 'location' }
-  ];
 
   const handleInterceptClick = (e, link) => {
     if (link.targetId && pathname === '/en') {
@@ -50,6 +42,31 @@ export default function LuxuryNavbar() {
       setMobileMenuOpen(false);
     }
   };
+
+  const megaMenuData = {
+    locations: [
+      { name: 'Mahalunge', href: '/en/locations/mahalunge' },
+      { name: 'Kharadi', href: '/en/locations/kharadi' },
+      { name: 'Hinjawadi', href: '/en/locations/hinjawadi' },
+      { name: 'Baner', href: '/en/locations/baner-sus' },
+    ],
+    portfolio: [
+      { name: 'VTP Earth One', href: '/en/projects/vtp-earth-one-mahalunge-pune' },
+      { name: 'VTP Leonara', href: '/en/projects/vtp-leonara-mahalunge-pune' },
+      { name: 'VTP Bel Air', href: '/en/projects/vtp-bel-air-mahalunge-pune' },
+      { name: 'VTP Alpine', href: '/en/projects/vtp-alpine-mahalunge-pune' },
+      { name: 'VTP Town Square', href: '/en/projects/vtp-town-square-mahalunge-pune' },
+    ]
+  };
+
+  const navLinks = [
+    { label: 'Township', href: '/en/township', type: 'link', targetId: null },
+    { label: 'Overview', href: '/en/explore/vtp-bluewaters-mahalunge-pune-overview', type: 'link', targetId: 'overview' },
+    { label: 'Portfolio', type: 'dropdown', id: 'portfolio', targetId: 'residences', href: '/en/explore/vtp-bluewaters-mahalunge-pune-luxury-residences' },
+    { label: 'Amenities', href: '/en/explore/vtp-bluewaters-mahalunge-pune-premium-amenities', type: 'link', targetId: 'amenities' },
+    { label: 'Locations', type: 'dropdown', id: 'locations', targetId: 'location', href: '/en/explore/vtp-bluewaters-mahalunge-pune-location' },
+    { label: 'Insights', href: '/en/insights', type: 'link', targetId: null }
+  ];
 
   if (isIntentLandingPage) {
     return (
@@ -70,24 +87,65 @@ export default function LuxuryNavbar() {
         animate={{ y: 0 }}
         transition={{ duration: 1.2, ease: [0.16, 1, 0.3, 1], delay: 0.1 }}
         className={`fixed top-0 w-full z-50 transition-all duration-700 ${scrolled ? 'bg-luxury-navy/80 backdrop-blur-xl border-b border-white/5 py-5' : 'bg-transparent py-5 lg:py-10'}`}
+        onMouseLeave={() => setActiveDropdown(null)}
       >
-        <div className="container mx-auto px-6 lg:px-12 flex justify-between items-center">
+        <div className="container mx-auto px-6 lg:px-12 flex justify-between items-center relative">
           <Link href="/" title="VTP Bluewaters Home" className="flex items-center flex-shrink-0 z-50 relative">
             <Logo className="w-36 md:w-52 lg:w-80 h-auto" />
           </Link>
           
           {/* Desktop Navigation */}
-          <div className="hidden lg:flex gap-12 items-center text-[13px] font-medium tracking-[0.25em] uppercase">
+          <div className="hidden lg:flex gap-8 items-center text-[12px] font-medium tracking-[0.2em] uppercase">
             {navLinks.map((link) => (
-               <Link 
-                 key={link.label} 
-                 href={link.href} 
-                 title={`Navigate to ${link.label}`} 
-                 className="hover:text-luxury-gold transition-colors duration-300"
-                 onClick={(e) => handleInterceptClick(e, link)}
-               >
-                 {link.label}
-               </Link>
+              <div 
+                key={link.label}
+                className="relative h-full py-4"
+                onMouseEnter={() => link.type === 'dropdown' && setActiveDropdown(link.id)}
+              >
+                {link.type === 'link' ? (
+                  <Link 
+                    href={link.href} 
+                    className="hover:text-luxury-gold transition-colors duration-300"
+                    onClick={(e) => handleInterceptClick(e, link)}
+                  >
+                    {link.label}
+                  </Link>
+                ) : (
+                  <Link 
+                    href={link.href}
+                    onClick={(e) => handleInterceptClick(e, link)}
+                    className="flex items-center gap-1 hover:text-luxury-gold transition-colors duration-300 uppercase tracking-[0.2em]"
+                  >
+                    {link.label} <ChevronDown size={14} className={`transition-transform duration-300 ${activeDropdown === link.id ? 'rotate-180 text-luxury-gold' : ''}`} />
+                  </Link>
+                )}
+
+                {/* Desktop Dropdown Panel */}
+                <AnimatePresence>
+                  {link.type === 'dropdown' && activeDropdown === link.id && (
+                    <motion.div
+                      initial={{ opacity: 0, y: 10 }}
+                      animate={{ opacity: 1, y: 0 }}
+                      exit={{ opacity: 0, y: 10 }}
+                      transition={{ duration: 0.2 }}
+                      className="absolute top-full left-1/2 -translate-x-1/2 mt-2 w-64 bg-luxury-charcoal/95 backdrop-blur-lg border border-luxury-gold/20 rounded-xl overflow-hidden shadow-2xl py-4"
+                    >
+                      <div className="flex flex-col">
+                        {megaMenuData[link.id].map((item) => (
+                          <Link
+                            key={item.name}
+                            href={item.href}
+                            className="px-6 py-3 text-luxury-silver hover:text-luxury-gold hover:bg-white/5 transition-all duration-300 text-xs tracking-[0.1em]"
+                            onClick={() => setActiveDropdown(null)}
+                          >
+                            {item.name}
+                          </Link>
+                        ))}
+                      </div>
+                    </motion.div>
+                  )}
+                </AnimatePresence>
+              </div>
             ))}
             
             <MagneticButton>
@@ -117,54 +175,62 @@ export default function LuxuryNavbar() {
             animate={{ opacity: 1, backdropFilter: 'blur(20px)' }}
             exit={{ opacity: 0, backdropFilter: 'blur(0px)' }}
             transition={{ duration: 0.5, ease: [0.16, 1, 0.3, 1] }}
-            className="fixed inset-0 z-40 bg-luxury-navy/95 flex flex-col justify-center items-center"
+            className="fixed inset-0 z-40 bg-luxury-navy/95 flex flex-col pt-32 px-8 overflow-y-auto pb-10"
           >
-            <div className="flex flex-col items-center gap-10">
+            <div className="flex flex-col gap-8 max-w-sm mx-auto w-full">
               {navLinks.map((link, i) => (
                 <motion.div
                   key={link.label}
-                  initial={{ opacity: 0, y: 30 }}
-                  animate={{ opacity: 1, y: 0 }}
-                  exit={{ opacity: 0, y: 10 }}
-                  transition={{ delay: 0.1 + (i * 0.1), duration: 0.5, ease: [0.16, 1, 0.3, 1] }}
+                  initial={{ opacity: 0, x: -20 }}
+                  animate={{ opacity: 1, x: 0 }}
+                  transition={{ delay: 0.1 + (i * 0.1), duration: 0.5 }}
                 >
-                  <Link 
-                    href={link.href} 
-                    title={`Navigate to ${link.label}`}
-                    onClick={(e) => {
-                      if (link.targetId && pathname === '/en') {
-                        handleInterceptClick(e, link);
-                      } else {
-                        setMobileMenuOpen(false);
-                      }
-                    }}
-                    className="text-3xl font-display font-light text-luxury-silver hover:text-luxury-gold transition-colors duration-300"
-                  >
-                    {link.label}
-                  </Link>
+                  {link.type === 'link' ? (
+                    <Link 
+                      href={link.href} 
+                      onClick={(e) => handleInterceptClick(e, link)}
+                      className="text-2xl font-display font-light text-white hover:text-luxury-gold transition-colors block border-b border-white/10 pb-4"
+                    >
+                      {link.label}
+                    </Link>
+                  ) : (
+                    <div className="border-b border-white/10 pb-4">
+                      <Link 
+                        href={link.href}
+                        onClick={(e) => handleInterceptClick(e, link)}
+                        className="text-2xl font-display font-light text-luxury-gold mb-4 block hover:text-white transition-colors"
+                      >
+                        {link.label}
+                      </Link>
+                      <div className="flex flex-col gap-3 pl-4 border-l border-luxury-gold/30">
+                        {megaMenuData[link.id].map((item) => (
+                          <Link
+                            key={item.name}
+                            href={item.href}
+                            onClick={() => setMobileMenuOpen(false)}
+                            className="text-luxury-silver text-sm tracking-widest hover:text-white transition-colors"
+                          >
+                            {item.name}
+                          </Link>
+                        ))}
+                      </div>
+                    </div>
+                  )}
                 </motion.div>
               ))}
               
               <motion.div
                 initial={{ opacity: 0, scale: 0.9 }}
                 animate={{ opacity: 1, scale: 1 }}
-                exit={{ opacity: 0, scale: 0.9 }}
-                transition={{ delay: 0.5, duration: 0.5, ease: [0.16, 1, 0.3, 1] }}
-                className="mt-8"
+                transition={{ delay: 0.5, duration: 0.5 }}
+                className="mt-8 text-center"
               >
-                <Link 
-                  href="/explore/vtp-bluewaters-mahalunge-pune-enquiry"
-                  onClick={(e) => {
-                    if (pathname === '/') {
-                      handleInterceptClick(e, { targetId: 'enquiry' });
-                    } else {
-                      setMobileMenuOpen(false);
-                    }
-                  }}
-                  className="bg-luxury-gold text-luxury-navy px-12 py-4 rounded-full font-bold tracking-[0.2em] uppercase text-xs hover:bg-white transition-colors duration-300 shadow-[0_0_30px_rgba(212,175,55,0.3)] enquiry-trigger"
+                <button 
+                  onClick={() => setMobileMenuOpen(false)}
+                  className="bg-luxury-gold text-luxury-navy px-12 py-4 rounded-full font-bold tracking-[0.2em] uppercase text-xs hover:bg-white transition-colors duration-300 w-full enquiry-trigger"
                 >
                   ENQUIRE NOW
-                </Link>
+                </button>
               </motion.div>
             </div>
           </motion.div>

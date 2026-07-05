@@ -6,8 +6,8 @@ import Logo from './Logo';
 import contentData from '@/app/data/content-hub.json';
 
 const quickLinks = [
-  { label: 'Residences', href: '/explore/vtp-bluewaters-mahalunge-pune-luxury-residences', targetId: 'residences' },
-  { label: 'Amenities', href: '/explore/vtp-bluewaters-mahalunge-pune-premium-amenities', targetId: 'amenities' },
+  { label: 'Residences', href: '/en/explore/vtp-bluewaters-mahalunge-pune-luxury-residences', targetId: 'residences' },
+  { label: 'Amenities', href: '/en/explore/vtp-bluewaters-mahalunge-pune-premium-amenities', targetId: 'amenities' },
   { label: 'About VTP Realty', href: 'https://vtprealty.in/about-vtp-realty', targetId: null },
   { label: 'Contact Us', href: 'https://vtprealty.in/contact-us', targetId: null },
 ];
@@ -142,7 +142,7 @@ export default function Footer() {
               <ul className="space-y-3">
                 {contentData.blogs.map((blog, i) => (
                   <li key={i}>
-                    <Link href={`/blog/${blog.slug}`} className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed line-clamp-1">
+                    <Link href={`/en/blog/${blog.slug}`} className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed line-clamp-1">
                       {blog.title}
                     </Link>
                   </li>
@@ -156,7 +156,7 @@ export default function Footer() {
               <ul className="space-y-3">
                 {contentData.locations.map((loc, i) => (
                   <li key={i}>
-                    <Link href={`/locations/${loc.slug}`} className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed line-clamp-1">
+                    <Link href={`/en/locations/${loc.slug}`} className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed line-clamp-1">
                       {loc.title}
                     </Link>
                   </li>
@@ -170,13 +170,13 @@ export default function Footer() {
               <ul className="space-y-3">
                 {contentData.faqs.slice(0, 5).map((faq, i) => (
                   <li key={i}>
-                    <Link href="/faq" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed line-clamp-1">
+                    <Link href="/en/faq" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed line-clamp-1">
                       {faq.question}
                     </Link>
                   </li>
                 ))}
                 <li>
-                  <Link href="/faq" className="text-xs text-luxury-gold hover:text-luxury-white transition-colors flex items-center gap-1 mt-2">
+                  <Link href="/en/faq" className="text-xs text-luxury-gold hover:text-luxury-white transition-colors flex items-center gap-1 mt-2">
                     View All FAQs →
                   </Link>
                 </li>
@@ -195,9 +195,9 @@ export default function Footer() {
               © {new Date().getFullYear()} VTP Realty. All Rights Reserved. | BLUEWATERS Township, Mahalunge, Pune.
             </p>
             <div className="flex flex-wrap justify-center gap-4 md:gap-8">
-              <Link href="/privacy-policy" className="text-luxury-caption text-white/30 hover:text-luxury-silver transition-colors">Privacy Policy</Link>
-              <Link href="/terms-of-use" className="text-luxury-caption text-white/30 hover:text-luxury-silver transition-colors">Terms of Use</Link>
-              <Link href="/disclaimer" className="text-luxury-caption text-white/30 hover:text-luxury-silver transition-colors">Disclaimer</Link>
+              <Link href="/en/privacy-policy" className="text-luxury-caption text-white/30 hover:text-luxury-silver transition-colors">Privacy Policy</Link>
+              <Link href="/en/terms-of-use" className="text-luxury-caption text-white/30 hover:text-luxury-silver transition-colors">Terms of Use</Link>
+              <Link href="/en/disclaimer" className="text-luxury-caption text-white/30 hover:text-luxury-silver transition-colors">Disclaimer</Link>
             </div>
           </div>
           <p className="text-[8px] tracking-widest text-white/20 uppercase mt-6 text-center leading-relaxed max-w-4xl mx-auto">

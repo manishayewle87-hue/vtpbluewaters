@@ -42,11 +42,20 @@ export default function EnquiryForm({ projectName, customTitle, inline = false }
       // Get reCAPTCHA token
       const token = await executeRecaptcha('enquiry_form');
 
-      const res = await fetch('/api/enquiry', {
+      // Ensure URL is present
+      const webhookUrl = process.env.NEXT_PUBLIC_GAS_MAILER_URL;
+      if (!webhookUrl) {
+        console.error("Webhook URL missing");
+        setStatus('error');
+        return;
+      }
+
+      const res = await fetch(webhookUrl, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ 
-          ...formData, 
+          subject: `New Priority Lead from ${formData.name} - ${formData.project || 'VTP Bluewaters'}`,
+          ...formData,
           project: projectName || 'VTP Bluewaters',
           recaptchaToken: token
         })

@@ -28,7 +28,7 @@ export default function MobileBottomBar() {
           <span className="text-[9px] tracking-widest uppercase">Call Us</span>
         </a>
         <Link 
-          href="/explore/vtp-bluewaters-mahalunge-pune-enquiry" 
+          href="/en/explore/vtp-bluewaters-mahalunge-pune-enquiry" 
           onClick={(e) => handleInterceptClick(e, 'enquiry')}
           aria-label="Enquire via Email"
           className="flex flex-col items-center justify-center flex-1 py-3 text-luxury-silver hover:text-luxury-white hover:bg-white/5 transition-colors brochure-trigger border-r border-white/10"
@@ -37,7 +37,7 @@ export default function MobileBottomBar() {
           <span className="text-[9px] tracking-widest uppercase">Enquire</span>
         </Link>
         <Link 
-          href="/explore/vtp-bluewaters-mahalunge-pune-enquiry" 
+          href="/en/explore/vtp-bluewaters-mahalunge-pune-enquiry" 
           onClick={(e) => handleInterceptClick(e, 'enquiry')}
           aria-label="Register your interest"
           className="flex-[1.5] bg-luxury-gold flex flex-col items-center justify-center text-luxury-navy hover:bg-white transition-colors enquiry-trigger"

@@ -18,7 +18,11 @@
         "value": "Balewadi High Street (15 Mins)"
       }
     ],
-    "projects": ["earth-1-by-vtp-luxe", "monarque-by-vtp-luxe"]
+    "projects": [
+      "earth-1-by-vtp-luxe",
+      "monarque-by-vtp-luxe"
+    ],
+    "seoDescription": "Explore ultra-luxury real estate in Mahalunge, Pune. A prime hub for high ROI real estate investment, featuring premium apartments and unmatched connectivity."
   },
   {
     "slug": "kharadi",
@@ -39,7 +43,13 @@
         "value": "Pune International Airport (20 Mins)"
       }
     ],
-    "projects": ["altamira-by-vtp-luxe", "flamante-by-vtp-luxe", "velvet-villas-by-vtp-luxe", "vtp-aurelia"]
+    "projects": [
+      "altamira-by-vtp-luxe",
+      "flamante-by-vtp-luxe",
+      "velvet-villas-by-vtp-luxe",
+      "vtp-aurelia"
+    ],
+    "seoDescription": "Explore ultra-luxury real estate in Kharadi, Pune. A prime hub for seamless Hinjawadi IT Park access, featuring premium apartments and unmatched connectivity."
   },
   {
     "slug": "hinjawadi",
@@ -60,7 +70,11 @@
         "value": "High Rental Yields"
       }
     ],
-    "projects": ["monarque-by-vtp-luxe", "vtp-volare"]
+    "projects": [
+      "monarque-by-vtp-luxe",
+      "vtp-volare"
+    ],
+    "seoDescription": "Explore ultra-luxury real estate in Hinjawadi, Pune. A prime hub for premium rental yield properties, featuring premium apartments and unmatched connectivity."
   },
   {
     "slug": "baner-sus",
@@ -81,6 +95,9 @@
         "value": "Green, pollution-free surroundings"
       }
     ],
-    "projects": ["vtp-verve"]
+    "projects": [
+      "vtp-verve"
+    ],
+    "seoDescription": "Explore ultra-luxury real estate in Baner Sus Road, Pune. A prime hub for RERA registered luxury properties, featuring premium apartments and unmatched connectivity."
   }
 ]
