@@ -33,11 +33,11 @@ export default function LuxuryNavbar() {
   }, [mobileMenuOpen]);
 
   const navLinks = [
-    { label: 'Township', href: '/en/township', targetId: null },
-    { label: 'Overview', href: '/en/explore/vtp-bluewaters-mahalunge-pune-overview', targetId: 'overview' },
-    { label: 'Residences', href: '/en/explore/vtp-bluewaters-mahalunge-pune-luxury-residences', targetId: 'residences' },
-    { label: 'Amenities', href: '/en/explore/vtp-bluewaters-mahalunge-pune-premium-amenities', targetId: 'amenities' },
-    { label: 'Location', href: '/en/explore/vtp-bluewaters-mahalunge-pune-location', targetId: 'location' }
+    { label: 'Township', href: '/township', targetId: null },
+    { label: 'Overview', href: '/explore/vtp-bluewaters-mahalunge-pune-overview', targetId: 'overview' },
+    { label: 'Residences', href: '/explore/vtp-bluewaters-mahalunge-pune-luxury-residences', targetId: 'residences' },
+    { label: 'Amenities', href: '/explore/vtp-bluewaters-mahalunge-pune-premium-amenities', targetId: 'amenities' },
+    { label: 'Location', href: '/explore/vtp-bluewaters-mahalunge-pune-location', targetId: 'location' }
   ];
 
   const handleInterceptClick = (e, link) => {

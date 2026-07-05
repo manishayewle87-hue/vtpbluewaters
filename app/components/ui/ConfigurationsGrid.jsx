@@ -138,7 +138,7 @@ export default function ConfigurationsGrid({ projects }) {
                   <span>Ultra Luxury</span>
                 </div>
 
-                <Link href={`/en/projects/${project.slug}`}>
+                <Link href={`/projects/${project.slug}`}>
                   <button className="flex items-center gap-4 text-luxury-caption text-white transition-colors relative group/btn">
                     <span className="tracking-widest uppercase transition-colors duration-300 group-hover/btn:text-luxury-gold">Explore Project</span>
                     <span className="relative flex items-center justify-center">

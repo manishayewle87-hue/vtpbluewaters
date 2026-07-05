@@ -113,7 +113,7 @@ export default function TownshipOverview() {
             {/* Slide 1 Image */}
             <div className="absolute inset-0 w-full h-full">
               <Image 
-                src="https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?q=80&w=2940&auto=format&fit=crop" 
+                src="/images/township_ecosystem.jpg" 
                 alt="Masterplan"
                 fill
                 priority
@@ -126,7 +126,7 @@ export default function TownshipOverview() {
             {/* Slide 2 Image */}
             <div className="absolute inset-0 w-full h-full opacity-0">
               <Image 
-                src="https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=2940&auto=format&fit=crop" 
+                src="/images/township_central_garden.jpg" 
                 alt="River View"
                 fill
                 sizes="(max-width: 1024px) 100vw, 50vw"
@@ -138,7 +138,7 @@ export default function TownshipOverview() {
             {/* Slide 3 Image */}
             <div className="absolute inset-0 w-full h-full opacity-0">
               <Image 
-                src="https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?q=80&w=2940&auto=format&fit=crop" 
+                src="/images/township_hero_bg.jpg" 
                 alt="Connectivity"
                 fill
                 sizes="(max-width: 1024px) 100vw, 50vw"

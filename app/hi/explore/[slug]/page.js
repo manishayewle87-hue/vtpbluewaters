@@ -87,7 +87,7 @@ export default function SeoLandingPage({   params }) {
           <ul className="grid grid-cols-1 md:grid-cols-2 gap-4">
             {matchedSilo.slugs.map((related, i) => (
               <li key={i}>
-                <a href={`/en/explore/${related.slug}`} className="text-luxury-gold hover:text-white transition-colors text-sm">
+                <a href={`/explore/${related.slug}`} className="text-luxury-gold hover:text-white transition-colors text-sm">
                   {related.keyword}
                 </a>
               </li>
@@ -105,7 +105,7 @@ export default function SeoLandingPage({   params }) {
               .map(s => s.slugs[0]) // Get the highest priority keyword from every other silo
               .map((related, i) => (
                 <li key={`cross-${i}`}>
-                  <a href={`/en/explore/${related.slug}`} className="text-luxury-silver hover:text-luxury-gold transition-colors text-xs font-light">
+                  <a href={`/explore/${related.slug}`} className="text-luxury-silver hover:text-luxury-gold transition-colors text-xs font-light">
                     {related.keyword}
                   </a>
                 </li>

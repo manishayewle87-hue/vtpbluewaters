@@ -1,5 +1,7 @@
 import { cms } from '../../services/cms';
 
+export const dynamic = 'force-static';
+
 export async function GET() {
   const blogs = await cms.getAllBlogs();
   const projects = await cms.getAllProjects();
