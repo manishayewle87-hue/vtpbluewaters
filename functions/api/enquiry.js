@@ -20,14 +20,9 @@ export async function onRequestPost(context) {
 
     let lead = null;
 
-    // Native Cloudflare Email Sending
-    if (env.EMAIL_SENDER) {
-      try {
-        await env.EMAIL_SENDER.send({
-          from: { email: 'leads@vtpbluewaters.com', name: 'VTP Bluewaters' },
-          to: [{ email: 'propsmartrealty@gmail.com', name: 'Sales Team' }],
-          subject: `New Lead: ${data.name} - ${data.project || 'Website Enquiry'}`,
-          text: `
+    // Cloudflare MailChannels Integration (Works out of the box for Pages)
+    try {
+      const emailContent = `
 New Enquiry Received!
 
 Name: ${data.name}
@@ -39,11 +34,39 @@ Configuration: ${data.configuration || 'N/A'}
 
 Message:
 ${data.message || 'N/A'}
-          `
-        });
-      } catch (emailError) {
-        console.error('Failed to send native email notification:', emailError);
+      `;
+
+      const mailchannelsResponse = await fetch('https://api.mailchannels.net/tx/v1/send', {
+        method: 'POST',
+        headers: {
+          'content-type': 'application/json',
+        },
+        body: JSON.stringify({
+          personalizations: [
+            {
+              to: [{ email: 'propsmartrealty@gmail.com', name: 'Sales Team' }],
+            },
+          ],
+          from: {
+            email: 'leads@vtpbluewaters.com',
+            name: 'VTP Bluewaters Website',
+          },
+          subject: `New Lead: ${data.name} - ${data.project || 'Website Enquiry'}`,
+          content: [
+            {
+              type: 'text/plain',
+              value: emailContent,
+            },
+          ],
+        }),
+      });
+
+      if (!mailchannelsResponse.ok) {
+        const errorText = await mailchannelsResponse.text();
+        console.error('MailChannels Error:', errorText);
       }
+    } catch (emailError) {
+      console.error('Failed to send MailChannels email notification:', emailError);
     }
 
     // Google Apps Script Email Sending
