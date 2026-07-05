@@ -46,10 +46,10 @@ export default function LuxuryNavbar() {
 
   const megaMenuData = {
     locations: [
-      { name: 'Mahalunge', href: '/en/locations/mahalunge' },
-      { name: 'Kharadi', href: '/en/locations/kharadi' },
-      { name: 'Hinjawadi', href: '/en/locations/hinjawadi' },
-      { name: 'Baner', href: '/en/locations/baner-sus' },
+      { name: 'Mahalunge', href: '/locations/mahalunge' },
+      { name: 'Kharadi', href: '/locations/kharadi' },
+      { name: 'Hinjawadi', href: '/locations/hinjawadi' },
+      { name: 'Baner', href: '/locations/baner-sus' },
     ],
     portfolio: projectsData.map(p => ({
       name: p.name,
@@ -58,18 +58,18 @@ export default function LuxuryNavbar() {
   };
 
   const navLinks = [
-    { label: 'Township', href: '/en/township', type: 'link', targetId: null },
-    { label: 'Overview', href: '/en/explore/vtp-bluewaters-mahalunge-pune-overview', type: 'link', targetId: 'overview' },
-    { label: 'Portfolio', type: 'dropdown', id: 'portfolio', targetId: 'residences', href: '/en/explore/vtp-bluewaters-mahalunge-pune-luxury-residences' },
-    { label: 'Amenities', href: '/en/explore/vtp-bluewaters-mahalunge-pune-premium-amenities', type: 'link', targetId: 'amenities' },
-    { label: 'Locations', type: 'dropdown', id: 'locations', targetId: 'location', href: '/en/explore/vtp-bluewaters-mahalunge-pune-location' },
-    { label: 'Insights', href: '/en/insights', type: 'link', targetId: null }
+    { label: 'Township', href: '/township', type: 'link', targetId: null },
+    { label: 'Overview', href: '/explore/vtp-bluewaters-mahalunge-pune-overview', type: 'link', targetId: 'overview' },
+    { label: 'Portfolio', type: 'dropdown', id: 'portfolio', targetId: 'residences', href: '/explore/vtp-bluewaters-mahalunge-pune-luxury-residences' },
+    { label: 'Amenities', href: '/explore/vtp-bluewaters-mahalunge-pune-premium-amenities', type: 'link', targetId: 'amenities' },
+    { label: 'Locations', type: 'dropdown', id: 'locations', targetId: 'location', href: '/explore/vtp-bluewaters-mahalunge-pune-location' },
+    { label: 'Insights', href: '/insights', type: 'link', targetId: null }
   ];
 
   if (isIntentLandingPage) {
     return (
       <header className="absolute top-0 w-full z-50 py-5 lg:py-10 flex justify-center bg-luxury-navy/80 backdrop-blur-xl border-b border-white/5">
-        <Link href="/en" title="VTP Bluewaters Home">
+        <Link href="/" title="VTP Bluewaters Home">
           <Logo className="w-32 md:w-48 h-auto" />
         </Link>
       </header>
@@ -88,7 +88,7 @@ export default function LuxuryNavbar() {
         onMouseLeave={() => setActiveDropdown(null)}
       >
         <div className="container mx-auto px-6 lg:px-12 flex justify-between items-center relative">
-          <Link href="/en" title="VTP Bluewaters Home" className="flex items-center flex-shrink-0 z-50 relative">
+          <Link href="/" title="VTP Bluewaters Home" className="flex items-center flex-shrink-0 z-50 relative">
             <Logo className="w-36 md:w-52 lg:w-80 h-auto" />
           </Link>
           
