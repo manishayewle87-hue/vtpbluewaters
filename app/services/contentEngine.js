@@ -1,9 +1,21 @@
 export const generateStrategicContent = (project, intent) => {
   const location = project.location.split(',')[0];
+  const region = project.region || (['Kharadi'].includes(location) ? 'East Pune' : 'West Pune');
   const displayIntent = intent.split('-').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ');
   const maharera = project.maharera && project.maharera.length > 0 ? project.maharera.join(', ') : 'Awaited';
+  const projectName = project.name;
+  
+  // Hash function to deterministically choose variations based on project slug + intent
+  // This ensures the content doesn't change on every render, but is unique per page!
+  const seed = (project.slug + intent).split('').reduce((a, b) => { a = ((a << 5) - a) + b.charCodeAt(0); return a & a }, 0);
+  const randomChoice = (arr) => arr[Math.abs(seed) % arr.length];
 
-  // Categorize intents to generate specific templates
+  // Dynamic Vocabulary
+  const adjLuxury = ['ultra-luxury', 'premium', 'exclusive', 'bespoke', 'opulent'];
+  const adjInvestors = ['discerning investors', 'high-net-worth individuals', 'savvy homebuyers', 'institutional investors'];
+  const adjLocation = ['strategic', 'highly coveted', 'rapidly appreciating', 'prime'];
+
+  // Categorize intents
   const financialIntents = ['price', 'offers', 'payment-plan', 'investment'];
   const configIntents = ['2-bhk', '2-5-bhk', '3-bhk', '3-5-bhk', '4-bhk', '5-bhk', 'penthouse', 'duplex', 'sky-villa', 'floor-plan'];
   const lifestyleIntents = ['amenities', 'gallery', 'virtual-tour', 'brochure', 'reviews', 'location', 'maharera'];
@@ -13,200 +25,147 @@ export const generateStrategicContent = (project, intent) => {
   let content = [];
   let faqs = [];
 
+  // Regional Infra Injection
+  const regionalInfra = region === 'East Pune' 
+    ? 'Proximity to EON IT Park, WTC, and Pune International Airport'
+    : 'Immediate access to Hinjawadi IT Park, Mumbai-Bengaluru Highway, and upcoming PMRDA Ring Road';
+
   if (financialIntents.includes(intent)) {
     content = [
       {
         type: 'h2',
-        text: `Investment Overview & ${displayIntent} for ${project.name}`
+        text: randomChoice([
+          `Investment Overview & ${displayIntent} for ${projectName}`,
+          `Financial Analysis: ${projectName} ${displayIntent}`,
+          `Unlocking Value: ${projectName} ${displayIntent} in ${location}`
+        ])
       },
       {
         type: 'p',
-        text: `**Executive Summary:** For investors querying the ${displayIntent.toLowerCase()} of ${project.name}, it is a premium residential asset located in ${location}, developed by VTP Realty. It offers strong capital appreciation and flexible payment plans, making it a high-yield investment opportunity in the Pune real estate market.`
+        text: `**Executive Summary:** For ${randomChoice(adjInvestors)} querying the ${displayIntent.toLowerCase()} of ${projectName}, this asset represents a ${randomChoice(adjLuxury)} residential opportunity in ${location}. Developed by VTP Realty, it leverages ${regionalInfra} to offer strong capital appreciation and high-yield returns in the ${region} real estate market.`
       },
       {
         type: 'p',
-        text: `The real estate landscape in ${location} is witnessing unprecedented appreciation, making ${project.name} a highly coveted asset class for discerning investors and homebuyers alike. Understanding the ${displayIntent.toLowerCase()} is crucial for maximizing your return on investment.`
+        text: `The ${randomChoice(adjLocation)} real estate landscape in ${location} is witnessing unprecedented growth. Understanding the exact ${displayIntent.toLowerCase()} dynamics of ${projectName} is critical for maximizing your Return on Investment (ROI) and securing preferential inventory.`
       },
       {
         type: 'h3',
-        text: 'Strategic Financial Advantages'
+        text: 'Strategic Financial & Capital Advantages'
       },
       {
         type: 'ul',
         items: [
-          `High Capital Appreciation: ${location} has consistently outperformed market averages, ensuring robust long-term growth.`,
-          `Flexible Payment Structures: Tailored financial plans designed to align with your capital deployment strategies.`,
-          `Exclusive Pre-Launch Benefits: Register now to unlock preferential pricing and inventory selection.`,
-          `MahaRERA Compliant: Fully transparent transactions with RERA registration: ${maharera}.`
+          `Rapid Capital Appreciation: ${location} consistently outperforms the Pune average due to massive infrastructural influx.`,
+          `Flexible Deployment: Tailored payment structures designed to align with corporate liquidity and institutional capital deployment.`,
+          `MahaRERA Transparency: Fully compliant transactions governed by RERA Registration: ${maharera}.`
         ]
       },
       {
         type: 'p',
-        text: `To protect the exclusivity of our pricing strategy and ensure personalized consultations, the complete financial breakdown and official ${displayIntent.toLowerCase()} is reserved for registered clientele. Request access below to receive the detailed investment dossier.`
+        text: `To protect the exclusivity of our pricing strategy, the complete financial breakdown and official ${displayIntent.toLowerCase()} is securely vaulted. Request access below to receive the detailed investment dossier.`
       }
     ];
 
     faqs = [
-      { q: `What is the starting price at ${project.name}?`, a: `Pricing at ${project.name} varies based on configuration, floor band, and premium views. Please request the official price list for exact figures.` },
-      { q: `Are there any subvention or flexible payment plans?`, a: `Yes, we offer highly tailored payment plans to suit investor liquidity. Connect with our financial advisors for current active schemes.` },
-      { q: `Why is ${location} considered a prime investment?`, a: `Due to its proximity to major IT hubs, upcoming infrastructure like the Metro, and limited supply of ultra-luxury townships, ${location} offers excellent rental yields and capital appreciation.` }
+      { q: `What is the starting price at ${projectName}?`, a: `Pricing varies dynamically based on the exact configuration, floor band, and premium scenic views. Please request the official price list for precise, updated figures.` },
+      { q: `Are there tailored or flexible payment plans?`, a: `Yes, we offer bespoke payment plans curated for high-net-worth investors. Connect with our financial advisory desk for currently active schemes.` },
+      { q: `Why is ${location} considered a prime investment node?`, a: `Primarily due to ${regionalInfra}, coupled with a severe supply shortage of genuine ${randomChoice(adjLuxury)} townships.` }
     ];
   } 
   else if (configIntents.includes(intent)) {
     content = [
       {
         type: 'h2',
-        text: `Exquisite ${displayIntent} Residences at ${project.name}`
+        text: randomChoice([
+          `Exquisite ${displayIntent} Configurations at ${projectName}`,
+          `Architectural Brilliance: ${projectName} ${displayIntent}`,
+          `Discover the ${displayIntent} Layouts at ${projectName}`
+        ])
       },
       {
         type: 'p',
-        text: `**Executive Summary:** The ${displayIntent.toLowerCase()} at ${project.name} by VTP Realty in ${location} are ultra-luxury residential units designed with Maximum Livable Area (MLA) architecture. They feature premium specifications, expansive balconies, and smart home automation, catering to high-net-worth homebuyers.`
+        text: `**Executive Summary:** The ${displayIntent.toLowerCase()} layouts at ${projectName} by VTP Realty are ${randomChoice(adjLuxury)} residential units master-crafted with the Maximum Livable Area (MLA) philosophy. Located in ${location}, these residences feature premium specifications and smart home automation.`
       },
       {
         type: 'p',
-        text: `Redefining spatial luxury, the ${displayIntent.toLowerCase()} configurations at ${project.name} are meticulously crafted using the Maximum Livable Area (MLA) philosophy. This ensures zero space wastage, optimizing every square foot for grandeur and functionality.`
+        text: `Redefining spatial luxury in ${region}, the ${displayIntent.toLowerCase()} configurations at ${projectName} ensure zero space wastage. The layouts are meticulously engineered for absolute privacy, optimal cross-ventilation, and panoramic vistas of the Pune skyline.`
       },
       {
         type: 'h3',
-        text: 'Architectural Brilliance'
-      },
-      {
-        type: 'p',
-        text: `Each ${displayIntent.toLowerCase()} features soaring ceilings, expansive balconies, and floor-to-ceiling fenestration that invites abundant natural light and panoramic views of ${location}. The layouts are engineered for absolute privacy and cross-ventilation.`
-      },
-      {
-        type: 'h3',
-        text: 'Premium Specifications'
+        text: 'Uncompromising Specifications'
       },
       {
         type: 'ul',
         items: [
-          'Imported marble flooring in grand living and dining areas.',
-          'Engineered quartz countertops in highly functional, modular-ready kitchens.',
-          'Premium Grohe/Kohler CP fittings with designer dado tiles in all bathrooms.',
-          'Advanced Smart Home Automation integrated seamlessly into the architecture.'
+          'Imported marble flooring and designer fitments across grand living and dining areas.',
+          'Engineered quartz countertops in highly functional, modular-ready culinary spaces.',
+          'Advanced Smart Home Automation integrated seamlessly into the core architecture.',
+          'Expansive, anti-skid vitrified tiled balconies acting as private sundecks.'
         ]
       }
     ];
 
     faqs = [
-      { q: `What are the exact carpet areas for the ${displayIntent} at ${project.name}?`, a: `The carpet areas are designed to offer maximum space. Please refer to our detailed floor plan brochure for the exact dimensions of the ${displayIntent} layouts.` },
-      { q: `Do the ${displayIntent} residences come with a balcony?`, a: `Yes, all premium residences feature expansive, anti-skid vitrified tiled balconies offering spectacular views.` },
-      { q: `Is Vastu compliance considered in the floor plans?`, a: `Absolutely. The architectural design places a high emphasis on Vastu principles to ensure harmony and positive energy flow.` }
+      { q: `What are the exact dimensions for the ${displayIntent} at ${projectName}?`, a: `The carpet areas are optimized via MLA design. Please refer to our detailed floor plan brochure for exact square footage metrics of the ${displayIntent} layouts.` },
+      { q: `Is Vastu compliance considered in these specific floor plans?`, a: `Absolutely. The architectural blueprints place a strict emphasis on Vastu principles to ensure harmonious energy flow across all orientations.` }
     ];
   } 
-  else if (typologyIntents.includes(intent)) {
-    content = [
-      {
-        type: 'h2',
-        text: `Premium ${displayIntent} at ${project.name}`
-      },
-      {
-        type: 'p',
-        text: `**Executive Summary:** ${project.name} offers benchmark ${displayIntent.toLowerCase()} in ${location}. Developed by VTP Realty, it represents the pinnacle of luxury community living in Pune, combining world-class architectural design with unparalleled lifestyle amenities.`
-      },
-      {
-        type: 'p',
-        text: `When evaluating ${displayIntent.toLowerCase()} in ${location}, ${project.name} emerges as the definitive benchmark for luxury living. VTP Realty has mastered the art of integrating world-class architectural design with holistic community living.`
-      },
-      {
-        type: 'h3',
-        text: intent === 'townships' ? 'The Mega-Township Ecosystem' : 'A New Era of Vertical Luxury'
-      },
-      {
-        type: 'p',
-        text: intent === 'townships' 
-          ? `Unlike standalone buildings, this township offers a 360-degree ecosystem. Spanning across vast acres, residents enjoy high-street retail, massive vehicle-free podiums, and dedicated sports academies right at their doorstep.`
-          : `These ${displayIntent.toLowerCase()} are engineered for the global Indian. From smart-home automation to expansive sundecks, every element is curated to elevate your daily living experience.`
-      },
-      {
-        type: 'h3',
-        text: 'Why Invest in this Asset Class?'
-      },
-      {
-        type: 'ul',
-        items: [
-          'Unmatched Lifestyle: Access to resort-grade amenities within a secure, gated community.',
-          'Premium Resale Value: Branded luxury properties historically command higher secondary market premiums.',
-          'Community Living: Curated neighborhoods fostering networking among like-minded elites.'
-        ]
-      }
-    ];
-
-    faqs = [
-      { q: `Are these ${displayIntent.toLowerCase()} ready to move or under construction?`, a: `We have multiple phases ranging from near-possession to newly launched towers. Connect with our sales team for exact timelines.` },
-      { q: `What amenities are included with these ${displayIntent.toLowerCase()}?`, a: `Residents have exclusive access to Olympic-sized pools, massive clubhouses, indoor games, and wellness centers.` }
-    ];
-  }
   else if (poiIntents.includes(intent)) {
-    let poiFocus = "major infrastructure";
-    if (intent === 'near-metro') poiFocus = "the upcoming Metro station";
-    if (intent === 'near-it-parks') poiFocus = "Pune's largest IT Parks and commercial hubs";
-    if (intent === 'near-schools') poiFocus = "top-tier international schools and educational institutes";
-    if (intent === 'near-hospitals') poiFocus = "multi-specialty hospitals and premium healthcare facilities";
+    let poiFocus = intent.replace('near-', '').replace('-', ' ');
 
     content = [
       {
         type: 'h2',
-        text: `VTP ${project.name}: Perfectly Located ${displayIntent}`
+        text: randomChoice([
+          `VTP ${projectName}: Perfectly Positioned Near ${poiFocus.toUpperCase()}`,
+          `Strategic Proximity: ${projectName} and ${poiFocus.toUpperCase()}`,
+          `The Ultimate Location Advantage: ${projectName}`
+        ])
       },
       {
         type: 'p',
-        text: `**Executive Summary:** For those seeking properties ${displayIntent.toLowerCase()} in Pune, ${project.name} in ${location} is strategically positioned within minutes of ${poiFocus}. This prime location ensures minimal commute times, high rental yields, and strong capital appreciation.`
+        text: `**Executive Summary:** For discerning buyers seeking properties near ${poiFocus} in ${region}, ${projectName} in ${location} is strategically positioned within a premium radius. This location ensures minimal commute times, generating immense rental yield potential and lifestyle convenience.`
       },
       {
         type: 'p',
-        text: `Location is the ultimate luxury. ${project.name} in ${location} is strategically positioned ${displayIntent.toLowerCase()}, offering residents an unparalleled combination of lifestyle and convenience.`
+        text: `Location remains the ultimate luxury. By residing within minutes of major ${poiFocus}, you reclaim hundreds of hours annually. This zero-commute ecosystem is highly coveted in Pune's fast-paced environment, perfectly supplemented by ${regionalInfra}.`
       },
       {
         type: 'h3',
-        text: `The Advantage of Proximity to ${poiFocus.charAt(0).toUpperCase() + poiFocus.slice(1)}`
-      },
-      {
-        type: 'p',
-        text: `By residing within minutes of ${poiFocus}, you reclaim hundreds of hours annually that would otherwise be lost in transit. This walk-to-work or walk-to-school ecosystem is highly coveted in Pune's fast-paced environment.`
-      },
-      {
-        type: 'h3',
-        text: 'Unlocking High ROI'
+        text: 'Unlocking High ROI via Location'
       },
       {
         type: 'ul',
         items: [
-          `Premium Rental Yields: Properties located ${displayIntent.toLowerCase()} consistently attract high-paying corporate tenants.`,
-          `Capital Appreciation: As infrastructure matures around ${location}, property values are projected to soar.`,
-          `Future-Proof Asset: A strategic location ensures your investment remains resilient regardless of market cycles.`
+          `Premium Rental Yields: Properties located adjacent to ${poiFocus} consistently attract high-paying corporate tenants.`,
+          `Capital Resilience: A strategic location ensures your investment remains highly liquid regardless of macroeconomic market cycles.`,
+          `Walk-to-Work Ecosystem: Experience the pinnacle of convenience by slashing daily transit times.`
         ]
       }
     ];
 
     faqs = [
-      { q: `Exactly how close is ${project.name} to the nearest ${intent.replace('near-', '').replace('-', ' ')}?`, a: `The project is situated within a highly accessible radius, ensuring minimal commute times. Please download our location map for exact distances.` },
-      { q: `Does proximity to ${poiFocus} cause traffic congestion?`, a: `No. The township is designed with massive setbacks, dedicated approach roads, and vehicle-free podiums to ensure complete tranquility inside the gates.` }
+      { q: `Exactly how close is ${projectName} to the nearest ${poiFocus}?`, a: `The project is situated within a highly accessible, traffic-optimized radius. Please download our location map for exact geospatial distances.` },
+      { q: `Does proximity to commercial hubs cause traffic congestion?`, a: `No. The VTP township is master-planned with massive setbacks, dedicated multi-lane approach roads, and vehicle-free podiums to ensure complete tranquility.` }
     ];
   }
   else {
-    // Lifestyle Intents
     content = [
       {
         type: 'h2',
-        text: `Unrivaled Lifestyle & ${displayIntent} at ${project.name}`
+        text: randomChoice([
+          `Unrivaled Lifestyle & ${displayIntent} at ${projectName}`,
+          `The ${projectName} Experience: ${displayIntent}`,
+          `Deep Dive: ${projectName} ${displayIntent} in ${location}`
+        ])
       },
       {
         type: 'p',
-        text: `**Executive Summary:** Regarding the ${displayIntent.toLowerCase()} of ${project.name}, VTP Realty has curated a holistic luxury ecosystem in ${location}. It features resort-grade amenities, comprehensive security, and strategic proximity to Pune's major lifestyle hubs.`
+        text: `**Executive Summary:** Regarding the ${displayIntent.toLowerCase()} of ${projectName}, VTP Realty has curated a holistic ${randomChoice(adjLuxury)} ecosystem in ${location}. It features resort-grade infrastructure, comprehensive security, and strategic proximity to ${region}'s major lifestyle hubs.`
       },
       {
         type: 'p',
-        text: `Beyond the four walls of your residence lies an ecosystem of unparalleled luxury. The ${displayIntent.toLowerCase()} at ${project.name} is designed to cater to a global lifestyle, ensuring every desire is met within the secure confines of the township.`
-      },
-      {
-        type: 'h3',
-        text: `The ${location} Advantage`
-      },
-      {
-        type: 'p',
-        text: `Strategically positioned in ${location}, residents enjoy immediate access to global IT parks, elite international schools, and premium healthcare facilities, all while residing in a tranquil, resort-like oasis.`
+        text: `Beyond the four walls of your residence lies an ecosystem of unparalleled luxury. The ${displayIntent.toLowerCase()} at ${projectName} is designed to cater to a global lifestyle, ensuring every desire is met within the secure confines of the township.`
       },
       {
         type: 'h3',
@@ -215,18 +174,16 @@ export const generateStrategicContent = (project, intent) => {
       {
         type: 'ul',
         items: [
-          'Acres of vehicle-free, manicured green landscapes.',
-          'State-of-the-art clubhouses featuring Olympic-length infinity pools.',
-          'Dedicated sports academies and high-street retail boulevards.',
-          'Multi-tier, military-grade security systems for absolute peace of mind.'
+          'Acres of vehicle-free, manicured green landscapes and pedestrian boulevards.',
+          'State-of-the-art clubhouses featuring Olympic-length infinity pools and wellness spas.',
+          'Multi-tier, military-grade security systems utilizing advanced AI surveillance for absolute peace of mind.'
         ]
       }
     ];
 
     faqs = [
-      { q: `What makes ${project.name} different from other luxury projects in Pune?`, a: `It is the holistic township experience—combining MLA design, resort-grade amenities, and a prime location—that sets it apart.` },
-      { q: `Can I get a virtual tour or view the gallery?`, a: `Yes, we offer immersive virtual tours. Please register to access the exclusive gallery and digital walkthroughs.` },
-      { q: `Is the project MahaRERA registered?`, a: `Yes, ${project.name} is fully compliant and registered under MahaRERA: ${maharera}.` }
+      { q: `What makes ${projectName} different from other luxury projects in ${region}?`, a: `It is the holistic township experience—combining MLA design, resort-grade amenities, and a prime ${location} positioning—that sets it apart.` },
+      { q: `Is the project MahaRERA registered?`, a: `Yes, ${projectName} is fully compliant and registered under MahaRERA: ${maharera}.` }
     ];
   }
 

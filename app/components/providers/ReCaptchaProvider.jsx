@@ -7,7 +7,12 @@ export default function ReCaptchaProvider({ children }) {
   const reCaptchaKey = process.env.NEXT_PUBLIC_RECAPTCHA_SITE_KEY || '6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI'; // 6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI is Google's test key
 
   return (
-    <GoogleReCaptchaProvider reCaptchaKey={reCaptchaKey}>
+    <GoogleReCaptchaProvider 
+      reCaptchaKey={reCaptchaKey}
+      scriptProps={{
+        strategy: 'lazyOnload',
+      }}
+    >
       {children}
     </GoogleReCaptchaProvider>
   );

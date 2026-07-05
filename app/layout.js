@@ -1,5 +1,5 @@
 import { Inter, Outfit } from 'next/font/google';
-import { GoogleTagManager } from '@next/third-parties/google';
+import CustomGTM from '@/app/components/analytics/CustomGTM';
 import '@/app/globals.css';
 import SmoothScroll from '@/app/components/ui/SmoothScroll';
 import LuxuryNavbar from '@/app/components/ui/LuxuryNavbar';
@@ -14,16 +14,17 @@ import Clarity from '@/app/components/analytics/Clarity';
 import MobileBottomBar from '@/app/components/ui/MobileBottomBar';
 import CanonicalHreflang from '@/app/components/seo/CanonicalHreflang';
 import ReCaptchaProvider from '@/app/components/providers/ReCaptchaProvider';
+
 const inter = Inter({ 
   subsets: ['latin'], 
   variable: '--font-inter',
-  display: 'swap'});
+  display: 'swap'
+});
 const outfit = Outfit({ 
   subsets: ['latin'], 
   variable: '--font-outfit',
-  display: 'swap'});
-
-// removed generateStaticParams
+  display: 'swap'
+});
 
 export const viewport = {
   themeColor: '#0A1128',
@@ -31,35 +32,40 @@ export const viewport = {
   initialScale: 1,
   maximumScale: 1,
   userScalable: false,
-  colorScheme: 'dark'};
+  colorScheme: 'dark'
+};
 
 export const metadata = {
   title: 'VTP Bluewaters | Premium Luxury Residences in Pune',
   description: 'Experience ultra-luxury living at VTP Bluewaters Pune. Master-planned township featuring 2, 3, 4, 5 BHK apartments, duplexes, and villas.',
-
   appleWebApp: {
     capable: true,
     title: 'VTP Bluewaters',
-    statusBarStyle: 'black-translucent'},
+    statusBarStyle: 'black-translucent'
+  },
   metadataBase: new URL('https://vtpbluewaters.com'),
   openGraph: {
     title: 'VTP BLUEWATERS | Ultra Luxury Residences in Pune',
     description: 'Discover the pinnacle of luxury living at VTP BLUEWATERS Township, Mahalunge, Pune.',
     siteName: 'VTP BLUEWATERS',
     type: 'website',
-    images: ['/assets/projects/earth-1/hero.jpg']},
+    images: ['/assets/projects/earth-1/hero.jpg']
+  },
   twitter: {
     card: 'summary_large_image',
     title: 'VTP BLUEWATERS | Ultra Luxury Residences in Pune',
     description: 'Discover the pinnacle of luxury living at VTP BLUEWATERS Township, Mahalunge, Pune.',
-    images: ['/assets/projects/earth-1/hero.jpg']},
+    images: ['/assets/projects/earth-1/hero.jpg']
+  },
   verification: {
-    google: process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION || ''},
+    google: process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION || ''
+  },
   icons: {
-    icon: '/icon.svg'}};
+    icon: '/icon.svg'
+  }
+};
 
-export default async function RootLayout({ children, params }) {
-  
+export default async function RootLayout({ children }) {
   return (
     <html lang="en" className={`${inter.variable} ${outfit.variable}`}>
       <head>
@@ -81,7 +87,7 @@ export default async function RootLayout({ children, params }) {
           <MobileBottomBar />
           <ExitIntentModal />
           {process.env.NEXT_PUBLIC_GTM_ID && (
-            <GoogleTagManager gtmId={process.env.NEXT_PUBLIC_GTM_ID} />
+            <CustomGTM gtmId={process.env.NEXT_PUBLIC_GTM_ID} />
           )}
         </ReCaptchaProvider>
       </body>
