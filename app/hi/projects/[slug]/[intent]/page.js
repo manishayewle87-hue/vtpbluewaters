@@ -11,25 +11,23 @@ import EnquiryForm from '@/app/components/project/EnquiryForm';
 import ProjectMasterLayout from '@/app/components/project/ProjectMasterLayout';
 import ProjectFloorPlans from '@/app/components/project/ProjectFloorPlans';
 
+export const runtime = 'edge';
+
 const KEYWORD_INTENTS = [
-  'price', 'floor-plan', 'brochure', 'amenities', 'location', 'luxury-apartments'
+  // Original Intents
+  'price', 'floor-plan', 'brochure', 'reviews', 'amenities', 
+  'payment-plan', 'virtual-tour', 'gallery', 'maharera', 
+  'investment', 'location', 'offers',
+  // Configuration Intents
+  '2-bhk', '2-5-bhk', '3-bhk', '3-5-bhk', '4-bhk', '5-bhk',
+  'penthouse', 'duplex', 'sky-villa',
+  // Property Typology Intents
+  'apartments', 'luxury-apartments', 'townships',
+  // POI (Point of Interest) Intents
+  'near-metro', 'near-it-parks', 'near-schools', 'near-hospitals'
 ];
 
-export async function generateStaticParams() {
-  const projects = await cms.getAllProjects();
-  const params = [];
-  
-  // Cross-multiply every project with every intent
-  projects.forEach((project) => {
-    KEYWORD_INTENTS.forEach((intent) => {
-      params.push({
-        slug: project.slug,
-        intent: intent});
-    });
-  });
-  
-  return params;
-}
+
 
 // Generate dynamic, hyper-specific metadata for the pSEO page
 export async function generateMetadata({ params }) {

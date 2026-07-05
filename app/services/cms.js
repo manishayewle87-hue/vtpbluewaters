@@ -1,25 +1,13 @@
-import { PrismaClient } from '@prisma/client';
-
-// We instantiate a single PrismaClient for the build process.
-// Note: Since this is used in Next.js generateStaticParams/getStaticProps 
-// during `next build`, it will safely fetch from the local SQLite db.
-const prisma = new PrismaClient();
-
 /**
- * Utility to parse JSON fields safely from Prisma SQLite models
+ * Flat-File CMS Architecture
+ * Reads directly from JSON files to ensure 100% compatibility with Edge SSR.
+ * Bypasses Prisma/SQLite to allow massive SEO scaling on Cloudflare Pages.
  */
-function parsePrismaProject(p) {
-  if (!p) return null;
-  return {
-    ...p,
-    amenities: JSON.parse(p.amenities || '[]'),
-    specifications: JSON.parse(p.specifications || '[]'),
-    locationHighlights: JSON.parse(p.locationHighlights || '[]'),
-    floorPlans: JSON.parse(p.floorPlans || '[]'),
-    maharera: JSON.parse(p.maharera || '[]'),
-    gallery: JSON.parse(p.gallery || '[]'),
-  };
-}
+
+import projectsData from '../data/projects.json';
+import locationsData from '../data/locations.json';
+import articlesData from '../data/articles.json';
+import contentHubData from '../data/content-hub.json';
 
 export const cms = {
   /**
@@ -27,8 +15,7 @@ export const cms = {
    * @returns {Promise<Array>} Array of all project objects
    */
   async getAllProjects() {
-    const projects = await prisma.project.findMany();
-    return projects.map(parsePrismaProject);
+    return projectsData;
   },
 
   /**
@@ -37,33 +24,46 @@ export const cms = {
    * @returns {Promise<Object|null>} The project object or null
    */
   async getProjectBySlug(slug) {
-    const project = await prisma.project.findUnique({
-      where: { slug }
-    });
-    return parsePrismaProject(project);
+    const project = projectsData.find(p => p.slug === slug);
+    return project || null;
   },
 
   /**
    * Fetch all blogs
    */
   async getAllBlogs() {
-    return prisma.blog.findMany({
-      orderBy: { createdAt: 'desc' }
-    });
+    // Return all articles from articles.json, sorted by date (if applicable)
+    return articlesData.sort((a, b) => new Date(b.createdAt || 0) - new Date(a.createdAt || 0));
+  },
+
+  /**
+   * Fetch a single blog by slug
+   */
+  async getBlogBySlug(slug) {
+    const blog = articlesData.find(b => b.slug === slug);
+    return blog || null;
   },
 
   /**
    * Fetch all locations
    */
   async getAllLocations() {
-    return prisma.location.findMany();
+    return locationsData;
+  },
+
+  /**
+   * Fetch a single location by slug
+   */
+  async getLocationBySlug(slug) {
+    const loc = locationsData.find(l => l.slug === slug);
+    return loc || null;
   },
 
   /**
    * Fetch all FAQs
    */
   async getAllFaqs() {
-    return prisma.faq.findMany();
+    return contentHubData.faqs || [];
   },
 
   /**
@@ -71,8 +71,8 @@ export const cms = {
    */
   async getGlobalSettings() {
     return {
-      contactEmail: 'sales@vtpbluewaters.com',
-      contactPhone: '+91 77440 09295',
+      contactEmail: 'sales@vtprealty.in',
+      contactPhone: '+91 7744009295',
       officeAddress: 'Site Office: VTP Bluewaters Township, Mahalunge-411045',
       socials: {
         instagram: 'https://instagram.com/vtprealty',

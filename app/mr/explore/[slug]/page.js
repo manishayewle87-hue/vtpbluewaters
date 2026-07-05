@@ -2,19 +2,9 @@ import { notFound } from 'next/navigation';
 import { seoSilos } from '@/app/data/seo-silos';
 import HeroSection from '@/app/components/ui/HeroSection';
 
-export async function generateStaticParams() {
-  const params = [];
-  const langs = ['en'];
-  
-  for (const lang of langs) {
-    for (const silo of seoSilos) {
-      for (const item of silo.slugs) {
-        params.push({ lang, slug: item.slug });
-      }
-    }
-  }
-  return params;
-}
+export const runtime = 'edge';
+
+
 
 export async function generateMetadata({ params }) {
   let matchedKeyword = '';

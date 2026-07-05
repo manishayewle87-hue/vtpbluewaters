@@ -4,24 +4,24 @@ import { notFound } from 'next/navigation';
 import { PUNE_MICRO_MARKETS, getProjectsNearLocation, generateLocationContent } from '@/app/services/locationEngine';
 import EnquiryForm from '@/app/components/project/EnquiryForm';
 
+export const runtime = 'edge';
+
 // We import the same intents as the main project pages to keep the matrix consistent
 const KEYWORD_INTENTS = [
-  'price', 'floor-plan', 'brochure', 'amenities', 'location', 'luxury-apartments'
+  // Original Intents
+  'price', 'floor-plan', 'brochure', 'reviews', 'amenities', 
+  'payment-plan', 'virtual-tour', 'gallery', 'maharera', 
+  'investment', 'location', 'offers',
+  // Configuration Intents
+  '2-bhk', '2-5-bhk', '3-bhk', '3-5-bhk', '4-bhk', '5-bhk',
+  'penthouse', 'duplex', 'sky-villa',
+  // Property Typology Intents
+  'apartments', 'luxury-apartments', 'townships',
+  // POI (Point of Interest) Intents
+  'near-metro', 'near-it-parks', 'near-schools', 'near-hospitals'
 ];
 
-export async function generateStaticParams() {
-  const params = [];
-  
-  PUNE_MICRO_MARKETS.forEach((location) => {
-    KEYWORD_INTENTS.forEach((intent) => {
-      params.push({
-        location: location.slug,
-        intent: intent});
-    });
-  });
-  
-  return params;
-}
+
 
 export async function generateMetadata({ params }) {
   const { location, intent } = await params;

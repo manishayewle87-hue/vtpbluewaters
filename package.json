@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "pages:build": "npm run build",
+    "pages:build": "npx @cloudflare/next-on-pages",
     "start": "next start",
     "lint": "next lint",
     "index-url": "node scripts/google-indexer.js"

@@ -3,6 +3,8 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { articleEngine } from '@/app/services/articleEngine';
 
+export const runtime = 'edge';
+
 export async function generateStaticParams() {
   const categories = await articleEngine.getAllCategories();
   return categories.map((cat) => ({

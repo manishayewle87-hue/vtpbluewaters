@@ -3,6 +3,8 @@ import Link from 'next/link';
 import { ArrowLeft, Calendar, User } from 'lucide-react';
 import ReactMarkdown from 'react-markdown';
 
+export const runtime = 'edge';
+
 export async function generateStaticParams() {
   const paths = [];
   const langs = ['en', 'mr', 'hi'];

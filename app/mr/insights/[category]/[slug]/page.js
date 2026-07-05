@@ -2,17 +2,9 @@ import { notFound } from 'next/navigation';
 import insightsData from '@/app/data/insights.json';
 import Link from 'next/link';
 
-export async function generateStaticParams() {
-  const params = [];
-  const langs = ['en', 'mr', 'hi'];
-  
-  for (const lang of langs) {
-    for (const post of insightsData) {
-      params.push({ lang, category: post.category, slug: post.slug });
-    }
-  }
-  return params;
-}
+export const runtime = 'edge';
+
+
 
 export async function generateMetadata({ params }) {
   const post = insightsData.find(p => p.slug === params.slug);
