@@ -26,24 +26,27 @@ export default function HeroSection() {
     // Using simple querySelectorAll since we map the spans manually in JSX below
     const letters = titleRef.current.querySelectorAll('.letter');
     
-    gsap.fromTo(letters, 
-      { 
-        y: 100,
-        opacity: 0,
-        rotateX: -90,
-        z: -500
-      },
-      {
-        y: 0,
-        opacity: 1,
-        rotateX: 0,
-        z: 0,
-        duration: 1.5,
-        stagger: 0.05,
-        delay: 0.5,
-        ease: 'power4.out'
-      }
-    );
+    // Slight delay to ensure DOM and fonts are fully painted before 3D transforms
+    setTimeout(() => {
+      gsap.fromTo(letters, 
+        { 
+          y: 100,
+          opacity: 0,
+          rotateX: -90,
+          z: -500
+        },
+        {
+          y: 0,
+          opacity: 1,
+          rotateX: 0,
+          z: 0,
+          duration: 1.5,
+          stagger: 0.05,
+          delay: 0.2, // reduced delay since setTimeout adds some
+          ease: 'power4.out'
+        }
+      );
+    }, 100);
 
     // Scroll-linked parallax effect
     if (containerRef.current) {

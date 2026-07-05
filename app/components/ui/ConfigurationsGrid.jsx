@@ -11,7 +11,7 @@ if (typeof window !== 'undefined') {
 }
 
 const imageRevealVariants = {
-  hidden: { clipPath: 'inset(0 100% 0 0)' },
+  hidden: { clipPath: 'inset(0 0% 0 0)' },
   show: { 
     clipPath: 'inset(0 0% 0 0)',
     transition: { duration: 1.2, ease: [0.77, 0, 0.175, 1] } 
@@ -82,8 +82,8 @@ export default function ConfigurationsGrid({ projects }) {
           return (
             <motion.div 
               key={index}
-              initial="hidden"
-              whileInView="show"
+              initial="show"
+              animate="show"
               viewport={{ once: true, margin: "-10%" }}
               onMouseEnter={() => setHoveredCard(index)}
               onMouseLeave={() => setHoveredCard(null)}
@@ -138,7 +138,7 @@ export default function ConfigurationsGrid({ projects }) {
                   <span>Ultra Luxury</span>
                 </div>
 
-                <Link href={`/projects/${project.slug}`}>
+                <Link href={`/en/projects/${project.slug}`}>
                   <button className="flex items-center gap-4 text-luxury-caption text-white transition-colors relative group/btn">
                     <span className="tracking-widest uppercase transition-colors duration-300 group-hover/btn:text-luxury-gold">Explore Project</span>
                     <span className="relative flex items-center justify-center">

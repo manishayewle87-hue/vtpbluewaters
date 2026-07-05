@@ -57,6 +57,11 @@ export default function TownshipOverview() {
       .fromTo(texts[2], { opacity: 0, y: 20 }, { opacity: 1, y: 0, duration: 1 }, 2.5)
       .fromTo(images[2], { opacity: 0, scale: 1.05 }, { opacity: 1, scale: 1, duration: 1 }, 2.5);
 
+    // Refresh scroll calculations after a short delay to account for layout shifts/image loads
+    setTimeout(() => {
+      ScrollTrigger.refresh();
+    }, 500);
+
     return () => {
       ScrollTrigger.getAll().forEach(t => t.kill());
     };
