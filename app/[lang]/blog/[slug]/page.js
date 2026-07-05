@@ -47,7 +47,7 @@ export default async function BlogPostPage({   params }) {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
       />
       <div className="container mx-auto px-6 max-w-3xl">
-        <Link href="/" className="inline-flex items-center gap-2 text-luxury-gold hover:text-white transition-colors mb-12 text-sm uppercase tracking-widest">
+        <Link href="/en" className="inline-flex items-center gap-2 text-luxury-gold hover:text-white transition-colors mb-12 text-sm uppercase tracking-widest">
           <ArrowLeft size={16} /> Back to Home
         </Link>
         
