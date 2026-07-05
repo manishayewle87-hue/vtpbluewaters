@@ -57,9 +57,9 @@ export default async function LocationPage({ params }) {
         <div className="relative z-10 text-center max-w-5xl px-6 mt-10 lg:mt-20">
           <div className="flex justify-center mb-6">
             <Breadcrumbs items={[
-              { label: 'Home', href: '/en' },
+              { label: 'Home', href: '/' },
               { label: 'Locations', href: '/#locations' },
-              { label: loc.name, href: `/en/locations/${loc.slug}` }
+              { label: loc.name, href: `/locations/${loc.slug}` }
             ]} />
           </div>
           <h1 className="text-5xl md:text-7xl font-heading text-luxury-white mb-6 uppercase tracking-widest drop-shadow-lg">

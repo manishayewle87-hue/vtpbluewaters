@@ -36,8 +36,8 @@ export const viewport = {
 };
 
 export const metadata = {
-  title: 'VTP Bluewaters | Premium Luxury Residences in Pune',
-  description: 'Experience ultra-luxury living at VTP Bluewaters Pune. Master-planned township featuring 2, 3, 4, 5 BHK apartments, duplexes, and villas.',
+  title: 'VTP Bluewaters Pune | Buy Luxury 2, 3 & 4 BHK Flats in Mahalunge',
+  description: 'Invest in VTP Bluewaters Pune. Buy premium 2, 3, 4 & 5 BHK luxury apartments, duplexes, and villas in Mahalunge. Zero Brokerage. View Floor Plans & Price.',
   appleWebApp: {
     capable: true,
     title: 'VTP Bluewaters',
@@ -45,16 +45,16 @@ export const metadata = {
   },
   metadataBase: new URL('https://vtpbluewaters.com'),
   openGraph: {
-    title: 'VTP BLUEWATERS | Ultra Luxury Residences in Pune',
-    description: 'Discover the pinnacle of luxury living at VTP BLUEWATERS Township, Mahalunge, Pune.',
+    title: 'VTP Bluewaters Pune | Buy Luxury 2, 3 & 4 BHK Flats',
+    description: 'Invest in VTP Bluewaters Pune. Buy premium 2, 3, 4 & 5 BHK luxury apartments in Mahalunge. Zero Brokerage. View Floor Plans & Price.',
     siteName: 'VTP BLUEWATERS',
     type: 'website',
     images: ['/assets/projects/earth-1/hero.jpg']
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'VTP BLUEWATERS | Ultra Luxury Residences in Pune',
-    description: 'Discover the pinnacle of luxury living at VTP BLUEWATERS Township, Mahalunge, Pune.',
+    title: 'VTP Bluewaters Pune | Buy Luxury 2, 3 & 4 BHK Flats',
+    description: 'Invest in VTP Bluewaters Pune. Buy premium luxury apartments in Mahalunge. Zero Brokerage.',
     images: ['/assets/projects/earth-1/hero.jpg']
   },
   verification: {

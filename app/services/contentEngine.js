@@ -10,10 +10,11 @@ export const generateStrategicContent = (project, intent) => {
   const seed = (project.slug + intent).split('').reduce((a, b) => { a = ((a << 5) - a) + b.charCodeAt(0); return a & a }, 0);
   const randomChoice = (arr) => arr[Math.abs(seed) % arr.length];
 
-  // Dynamic Vocabulary
+  // Dynamic Vocabulary & Aggressive LSI Keywords
   const adjLuxury = ['ultra-luxury', 'premium', 'exclusive', 'bespoke', 'opulent'];
   const adjInvestors = ['discerning investors', 'high-net-worth individuals', 'savvy homebuyers', 'institutional investors'];
   const adjLocation = ['strategic', 'highly coveted', 'rapidly appreciating', 'prime'];
+  const lsiCommercial = ['Zero Brokerage', 'Ready Possession Flats', 'Under Construction Projects', 'High ROI Investment', 'Pre-Launch Offers', 'Premium Real Estate'];
 
   // Categorize intents
   const financialIntents = ['price', 'offers', 'payment-plan', 'investment'];
@@ -42,11 +43,11 @@ export const generateStrategicContent = (project, intent) => {
       },
       {
         type: 'p',
-        text: `**Executive Summary:** For ${randomChoice(adjInvestors)} querying the ${displayIntent.toLowerCase()} of ${projectName}, this asset represents a ${randomChoice(adjLuxury)} residential opportunity in ${location}. Developed by VTP Realty, it leverages ${regionalInfra} to offer strong capital appreciation and high-yield returns in the ${region} real estate market.`
+        text: `**Executive Summary:** For ${randomChoice(adjInvestors)} querying the ${displayIntent.toLowerCase()} of ${projectName}, this asset represents a ${randomChoice(adjLuxury)} residential opportunity in ${location}. Developed by VTP Realty, it leverages ${regionalInfra} to offer strong capital appreciation and a ${randomChoice(lsiCommercial)} in the ${region} real estate market.`
       },
       {
         type: 'p',
-        text: `The ${randomChoice(adjLocation)} real estate landscape in ${location} is witnessing unprecedented growth. Understanding the exact ${displayIntent.toLowerCase()} dynamics of ${projectName} is critical for maximizing your Return on Investment (ROI) and securing preferential inventory.`
+        text: `The ${randomChoice(adjLocation)} real estate landscape in ${location} is witnessing unprecedented growth. Whether you are looking for ${randomChoice(lsiCommercial)} or long-term wealth generation, understanding the exact ${displayIntent.toLowerCase()} dynamics of ${projectName} is critical for maximizing your Return on Investment (ROI) and securing preferential inventory.`
       },
       {
         type: 'h3',

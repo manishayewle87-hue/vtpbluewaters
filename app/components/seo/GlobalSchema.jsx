@@ -78,7 +78,7 @@ export default function GlobalSchema() {
           "@type": "SearchAction",
           "target": {
             "@type": "EntryPoint",
-            "urlTemplate": "https://vtpbluewaters.com/en/projects/{search_term_string}"
+            "urlTemplate": "https://vtpbluewaters.com/projects/{search_term_string}"
           },
           "query-input": "required name=search_term_string"
         }

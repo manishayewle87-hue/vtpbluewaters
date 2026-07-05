@@ -53,7 +53,7 @@ export default function LuxuryNavbar() {
     ],
     portfolio: projectsData.map(p => ({
       name: p.name,
-      href: `/en/projects/${p.slug}`
+      href: `/projects/${p.slug}`
     }))
   };
 

@@ -79,10 +79,10 @@ export default async function ProjectDetail({   params }) {
   const locationSlug = project.location?.split(',')[0]?.trim().toLowerCase().replace(/\s+/g, '-') || 'pune';
 
   const breadcrumbItems = [
-    { label: 'Home', href: '/en' },
+    { label: 'Home', href: '/' },
     { label: 'Projects', href: '/#residences' },
-    { label: project.location?.split(',')[0]?.trim() || 'Location', href: `/en/locations/${locationSlug}` },
-    { label: project.name, href: `/en/projects/${project.slug}` }
+    { label: project.location?.split(',')[0]?.trim() || 'Location', href: `/locations/${locationSlug}` },
+    { label: project.name, href: `/projects/${project.slug}` }
   ];
 
   return (
