@@ -58,8 +58,8 @@ export const metadata = {
   icons: {
     icon: '/icon.svg'}};
 
-export default function RootLayout({ children, params }) {
-  const lang = params.lang || 'en';
+export default async function RootLayout({ children, params }) {
+  const { lang } = await params;
   return (
     <html lang={lang} className={`${inter.variable} ${outfit.variable}`}>
       <head>

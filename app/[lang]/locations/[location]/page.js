@@ -14,7 +14,8 @@ import Breadcrumbs from '@/app/components/ui/Breadcrumbs';
 
 
 export async function generateMetadata({ params }) {
-  const loc = locationsData.find(l => l.slug === params.location);
+  const { location } = await params;
+  const loc = locationsData.find(l => l.slug === location);
   if (!loc) return {};
   
   return {
@@ -22,9 +23,9 @@ export async function generateMetadata({ params }) {
     description: `Explore premium 2, 3, 4 BHK luxury apartments and townships in ${loc.name}, ${loc.region}. Find your dream home near top IT parks with VTP Realty.`};
 }
 
-export default function LocationPage({   params }) {
-  const lang = 'en';
-  const loc = locationsData.find(l => l.slug === params.location);
+export default async function LocationPage({   params }) {
+  const { lang, location } = await params;
+  const loc = locationsData.find(l => l.slug === location);
   if (!loc) {
     notFound();
   }

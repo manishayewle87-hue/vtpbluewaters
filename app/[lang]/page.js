@@ -12,7 +12,7 @@ export function generateStaticParams() {
 }
 
 export default async function LanguageRoot({ params }) {
-  const lang = params.lang || 'en';
+  const { lang } = await params;
     const projects = await cms.getAllProjects();
 
   return (

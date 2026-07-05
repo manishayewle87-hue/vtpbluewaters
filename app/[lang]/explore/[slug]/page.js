@@ -28,7 +28,7 @@ export async function generateMetadata({ params }) {
     description: `Discover ${matchedKeyword}. ${matchedSilo.description} Experience ultimate luxury with VTP Realty.`};
 }
 
-export default function SeoLandingPage({   params }) {
+export default async function SeoLandingPage({   params }) {
   const lang = 'en';
   let matchedKeyword = '';
   let matchedSilo = null;

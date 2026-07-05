@@ -17,7 +17,7 @@ export async function generateMetadata({ params }) {
     description: post.content.substring(0, 160) + '...'};
 }
 
-export default function InsightPage({   params }) {
+export default async function InsightPage({   params }) {
   const lang = 'en';
   const post = insightsData.find(p => p.slug === params.slug);
   if (!post) {
