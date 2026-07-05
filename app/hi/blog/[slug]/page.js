@@ -29,8 +29,8 @@ export function generateMetadata({ params }) {
   };
 }
 
-export default function BlogPostPage({  const lang = 'hi';
- params }) {
+export default function BlogPostPage({   params }) {
+  const lang = 'hi';
   const blog = contentData.blogs.find(b => b.slug === params.slug);
 
   if (!blog) {

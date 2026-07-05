@@ -25,8 +25,7 @@ export async function generateStaticParams() {
     KEYWORD_INTENTS.forEach((intent) => {
       params.push({
         location: location.slug,
-        intent: intent,
-      });
+        intent: intent});
     });
   });
   
@@ -49,13 +48,12 @@ export async function generateMetadata({ params }) {
     title,
     description,
     alternates: {
-      canonical: `https://vtpbluewaters.com/locations/${location}/${intent}`,
-    }
+      canonical: `https://vtpbluewaters.com/locations/${location}/${intent}`}
   };
 }
 
-export default async function LocationIntentDetail({  const lang = 'en';
- params }) {
+export default async function LocationIntentDetail({   params }) {
+  const lang = 'en';
   const { location, intent } = await params;
   
   const locData = PUNE_MICRO_MARKETS.find(l => l.slug === location);

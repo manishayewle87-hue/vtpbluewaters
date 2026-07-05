@@ -3,12 +3,11 @@ import { ArrowLeft } from 'lucide-react';
 
 export const metadata = {
   title: 'Disclaimer | VTP Bluewaters',
-  description: 'Disclaimer for VTP Bluewaters.',
-};
+  description: 'Disclaimer for VTP Bluewaters.'};
 
 export default function DisclaimerPage() {
   const lang = 'hi';
-  return (
+    return (
     <div className="min-h-screen bg-luxury-navy pt-24 lg:pt-32 pb-12 lg:pb-24">
       <div className="container mx-auto px-6 max-w-4xl">
         <Link href="/" className="inline-flex items-center gap-2 text-luxury-gold hover:text-white transition-colors mb-12 text-sm uppercase tracking-widest">

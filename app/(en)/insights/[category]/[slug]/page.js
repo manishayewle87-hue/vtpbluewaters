@@ -20,12 +20,11 @@ export async function generateMetadata({ params }) {
   
   return {
     title: `${post.title} | VTP Realty Insights`,
-    description: post.content.substring(0, 160) + '...',
-  };
+    description: post.content.substring(0, 160) + '...'};
 }
 
-export default function InsightPage({  const lang = 'en';
- params }) {
+export default function InsightPage({   params }) {
+  const lang = 'en';
   const post = insightsData.find(p => p.slug === params.slug);
   if (!post) {
     notFound();

@@ -6,13 +6,12 @@ export const metadata = {
   title: 'VTP Realty Insights & Market Reports | Knowledge Hub',
   description: 'Stay ahead of the market with exclusive investment guides, luxury lifestyle articles, and comprehensive Pune real estate market reports by VTP Realty.',
   alternates: {
-    canonical: 'https://vtpbluewaters.com/insights',
-  }
+    canonical: 'https://vtpbluewaters.com/insights'}
 };
 
 export default async function InsightsHub() {
   const lang = 'mr';
-  const allArticles = await articleEngine.getAllArticles();
+    const allArticles = await articleEngine.getAllArticles();
   const categories = await articleEngine.getAllCategories();
   
   const heroArticle = allArticles[0];

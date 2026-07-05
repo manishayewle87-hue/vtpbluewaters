@@ -17,8 +17,7 @@ import ProjectVirtualTour from '@/app/components/project/ProjectVirtualTour';
 export async function generateStaticParams() {
   const projects = await cms.getAllProjects();
   return projects.map((project) => ({
-    slug: project.slug,
-  }));
+    slug: project.slug}));
 }
 
 export async function generateMetadata({ params }) {
@@ -30,15 +29,12 @@ export async function generateMetadata({ params }) {
     title: project.seoTitle,
     description: project.seoDescription,
     alternates: {
-      canonical: `https://vtpbluewaters.com/${(await params).lang}/projects/${project.slug}`,
-    },
+      canonical: `https://vtpbluewaters.com/${(await params).lang}/projects/${project.slug}`},
     openGraph: {
       title: project.seoTitle,
       description: project.seoDescription,
       images: [project.image],
-      type: 'website',
-    },
-  };
+      type: 'website'}};
 }
 
 function generateJsonLd(project, lang) {
@@ -53,22 +49,20 @@ function generateJsonLd(project, lang) {
       '@type': 'PostalAddress',
       addressLocality: project.location?.split(',')[0]?.trim(),
       addressRegion: 'Maharashtra',
-      addressCountry: 'IN',
-    },
+      addressCountry: 'IN'},
     parentOrganization: {
       "@id": "https://vtpbluewaters.com/#organization"
     },
     offers: {
       '@type': 'Offer',
       priceCurrency: 'INR',
-      availability: 'https://schema.org/InStock',
-    }
+      availability: 'https://schema.org/InStock'}
   };
 }
 
-export default async function ProjectDetail({  const lang = 'hi';
- params }) {
-  const { slug, lang } = await params;
+export default async function ProjectDetail({   params }) {
+  const lang = 'hi';
+  const { slug } = await params;
   const project = await cms.getProjectBySlug(slug);
 
   if (!project) {

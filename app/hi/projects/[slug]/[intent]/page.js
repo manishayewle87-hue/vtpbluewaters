@@ -34,8 +34,7 @@ export async function generateStaticParams() {
     KEYWORD_INTENTS.forEach((intent) => {
       params.push({
         slug: project.slug,
-        intent: intent,
-      });
+        intent: intent});
     });
   });
   
@@ -60,19 +59,16 @@ export async function generateMetadata({ params }) {
     title,
     description,
     alternates: {
-      canonical: `https://vtpbluewaters.com/${params.lang}/projects/${project.slug}/${intent}`,
-    },
+      canonical: `https://vtpbluewaters.com/${params.lang}/projects/${project.slug}/${intent}`},
     openGraph: {
       title,
       description,
       images: [project.image],
-      type: 'website',
-    },
-  };
+      type: 'website'}};
 }
 
-export default async function ProjectIntentDetail({  const lang = 'hi';
- params }) {
+export default async function ProjectIntentDetail({   params }) {
+  const lang = 'hi';
   const { slug, intent } = await params;
   const project = await cms.getProjectBySlug(slug);
 

@@ -24,12 +24,11 @@ export async function generateMetadata({ params }) {
   
   return {
     title: `Luxury Real Estate in ${loc.name}, Pune | VTP Realty`,
-    description: `Explore premium 2, 3, 4 BHK luxury apartments and townships in ${loc.name}, ${loc.region}. Find your dream home near top IT parks with VTP Realty.`,
-  };
+    description: `Explore premium 2, 3, 4 BHK luxury apartments and townships in ${loc.name}, ${loc.region}. Find your dream home near top IT parks with VTP Realty.`};
 }
 
-export default function LocationPage({  const lang = 'mr';
- params }) {
+export default function LocationPage({   params }) {
+  const lang = 'mr';
   const loc = locationsData.find(l => l.slug === params.location);
   if (!loc) {
     notFound();

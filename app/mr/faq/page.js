@@ -4,12 +4,11 @@ import { ArrowLeft } from 'lucide-react';
 
 export const metadata = {
   title: 'Frequently Asked Questions | VTP Bluewaters Mahalunge',
-  description: 'Comprehensive FAQs for VTP Bluewaters, Baner Annex. Find answers regarding pricing, amenities, connectivity, and MahaRERA details.',
-};
+  description: 'Comprehensive FAQs for VTP Bluewaters, Baner Annex. Find answers regarding pricing, amenities, connectivity, and MahaRERA details.'};
 
 export default function FAQPage() {
   const lang = 'mr';
-  const faqSchema = {
+    const faqSchema = {
     "@context": "https://schema.org",
     "@type": "FAQPage",
     "mainEntity": contentData.faqs.map(faq => ({

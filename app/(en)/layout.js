@@ -18,13 +18,11 @@ import BreadcrumbSchema from '@/app/components/seo/BreadcrumbSchema';
 const inter = Inter({ 
   subsets: ['latin'], 
   variable: '--font-inter',
-  display: 'swap',
-});
+  display: 'swap'});
 const outfit = Outfit({ 
   subsets: ['latin'], 
   variable: '--font-outfit',
-  display: 'swap',
-});
+  display: 'swap'});
 
 export function generateStaticParams() {
   return [{ lang: 'en' }];
@@ -36,8 +34,7 @@ export const viewport = {
   initialScale: 1,
   maximumScale: 1,
   userScalable: false,
-  colorScheme: 'dark',
-};
+  colorScheme: 'dark'};
 
 export const metadata = {
   title: 'VTP Bluewaters | Premium Luxury Residences in Pune',
@@ -46,32 +43,26 @@ export const metadata = {
   appleWebApp: {
     capable: true,
     title: 'VTP Bluewaters',
-    statusBarStyle: 'black-translucent',
-  },
+    statusBarStyle: 'black-translucent'},
   metadataBase: new URL('https://vtpbluewaters.com'),
   openGraph: {
     title: 'VTP BLUEWATERS | Ultra Luxury Residences in Pune',
     description: 'Discover the pinnacle of luxury living at VTP BLUEWATERS Township, Mahalunge, Pune.',
     siteName: 'VTP BLUEWATERS',
     type: 'website',
-    images: ['/assets/projects/earth-1/hero.jpg'],
-  },
+    images: ['/assets/projects/earth-1/hero.jpg']},
   twitter: {
     card: 'summary_large_image',
     title: 'VTP BLUEWATERS | Ultra Luxury Residences in Pune',
     description: 'Discover the pinnacle of luxury living at VTP BLUEWATERS Township, Mahalunge, Pune.',
-    images: ['/assets/projects/earth-1/hero.jpg'],
-  },
+    images: ['/assets/projects/earth-1/hero.jpg']},
   verification: {
-    google: process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION || '',
-  },
+    google: process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION || ''},
   icons: {
-    icon: '/icon.svg',
-  },
-};
+    icon: '/icon.svg'}};
 
-export default function RootLayout({  const lang = 'en';
- children, params: { = 'en'  } }) {
+export default function RootLayout({   children}) {
+  const lang = 'en';
   return (
     <html lang={lang} className={`${inter.variable} ${outfit.variable}`}>
       <head>

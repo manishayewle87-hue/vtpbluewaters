@@ -33,12 +33,11 @@ export async function generateMetadata({ params }) {
 
   return {
     title: `${matchedKeyword} | VTP Realty`,
-    description: `Discover ${matchedKeyword}. ${matchedSilo.description} Experience ultimate luxury with VTP Realty.`,
-  };
+    description: `Discover ${matchedKeyword}. ${matchedSilo.description} Experience ultimate luxury with VTP Realty.`};
 }
 
-export default function SeoLandingPage({  const lang = 'hi';
- params }) {
+export default function SeoLandingPage({   params }) {
+  const lang = 'hi';
   let matchedKeyword = '';
   let matchedSilo = null;
 

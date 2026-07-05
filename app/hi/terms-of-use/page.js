@@ -3,12 +3,11 @@ import { ArrowLeft } from 'lucide-react';
 
 export const metadata = {
   title: 'Terms of Use | VTP Bluewaters',
-  description: 'Terms of Use for VTP Bluewaters.',
-};
+  description: 'Terms of Use for VTP Bluewaters.'};
 
 export default function TermsOfUsePage() {
   const lang = 'hi';
-  return (
+    return (
     <div className="min-h-screen bg-luxury-navy pt-24 lg:pt-32 pb-12 lg:pb-24">
       <div className="container mx-auto px-6 max-w-4xl">
         <Link href="/" className="inline-flex items-center gap-2 text-luxury-gold hover:text-white transition-colors mb-12 text-sm uppercase tracking-widest">

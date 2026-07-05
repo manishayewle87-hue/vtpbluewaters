@@ -7,7 +7,7 @@ import FAQSection from '@/app/components/ui/FAQSection';
 
 export default async function Home() {
   const lang = 'en';
-  const projects = await cms.getAllProjects();
+    const projects = await cms.getAllProjects();
 
   return (
     <div className="bg-luxury-navy relative">

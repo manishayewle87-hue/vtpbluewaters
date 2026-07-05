@@ -6,8 +6,7 @@ import { articleEngine } from '@/app/services/articleEngine';
 export async function generateStaticParams() {
   const categories = await articleEngine.getAllCategories();
   return categories.map((cat) => ({
-    category: cat.slug,
-  }));
+    category: cat.slug}));
 }
 
 export async function generateMetadata({ params }) {
@@ -23,13 +22,12 @@ export async function generateMetadata({ params }) {
     title: `${catData.label} | VTP Realty Insights`,
     description: `Explore our latest ${catData.label.toLowerCase()} to stay informed about Pune's luxury real estate market.`,
     alternates: {
-      canonical: `https://vtpbluewaters.com/insights/${category}`,
-    }
+      canonical: `https://vtpbluewaters.com/insights/${category}`}
   };
 }
 
-export default async function CategoryArchive({  const lang = 'en';
- params }) {
+export default async function CategoryArchive({   params }) {
+  const lang = 'en';
   const { category } = await params;
   const categories = await articleEngine.getAllCategories();
   const catData = categories.find(c => c.slug === category);
