@@ -6,16 +6,7 @@ import EnquiryForm from '@/app/components/project/EnquiryForm';
 
 // We import the same intents as the main project pages to keep the matrix consistent
 const KEYWORD_INTENTS = [
-  'price', 'floor-plan', 'brochure', 'reviews', 'amenities', 
-  'payment-plan', 'virtual-tour', 'gallery', 'maharera', 
-  'investment', 'location', 'offers',
-  // Configuration Intents
-  '2-bhk', '2-5-bhk', '3-bhk', '3-5-bhk', '4-bhk', '5-bhk',
-  'penthouse', 'duplex', 'sky-villa',
-  // Property Typology Intents
-  'apartments', 'luxury-apartments', 'townships',
-  // POI (Point of Interest) Intents
-  'near-metro', 'near-it-parks', 'near-schools', 'near-hospitals'
+  'price', 'floor-plan', 'brochure', 'amenities', 'location', 'luxury-apartments'
 ];
 
 export async function generateStaticParams() {
