@@ -5,21 +5,8 @@ import ReactMarkdown from 'react-markdown';
 
 export const runtime = 'edge';
 
-export async function generateStaticParams() {
-  const paths = [];
-  const langs = ['en', 'mr', 'hi'];
-  
-  langs.forEach(lang => {
-    contentData.blogs.forEach(blog => {
-      paths.push({
-        lang: lang,
-        slug: blog.slug
-      });
-    });
-  });
-  
-  return paths;
-}
+
+
 
 export function generateMetadata({ params }) {
   const blog = contentData.blogs.find(b => b.slug === params.slug);

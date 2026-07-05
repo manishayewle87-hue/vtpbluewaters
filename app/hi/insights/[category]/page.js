@@ -5,11 +5,8 @@ import { articleEngine } from '@/app/services/articleEngine';
 
 export const runtime = 'edge';
 
-export async function generateStaticParams() {
-  const categories = await articleEngine.getAllCategories();
-  return categories.map((cat) => ({
-    category: cat.slug}));
-}
+
+
 
 export async function generateMetadata({ params }) {
   const { category } = await params;

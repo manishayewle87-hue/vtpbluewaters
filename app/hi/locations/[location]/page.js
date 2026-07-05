@@ -10,6 +10,7 @@ export const runtime = 'edge';
 
 
 
+
 export async function generateMetadata({ params }) {
   const loc = locationsData.find(l => l.slug === params.location);
   if (!loc) return {};

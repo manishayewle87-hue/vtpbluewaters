@@ -13,6 +13,7 @@ import ProjectFloorPlans from '@/app/components/project/ProjectFloorPlans';
 
 export const runtime = 'edge';
 
+
 const KEYWORD_INTENTS = [
   // Original Intents
   'price', 'floor-plan', 'brochure', 'reviews', 'amenities', 

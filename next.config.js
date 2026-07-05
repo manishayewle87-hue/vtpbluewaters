@@ -15,9 +15,7 @@ const nextConfig = {
     ],
     formats: ['image/avif', 'image/webp'],
   },
-  experimental: {
-    nextScriptWorkers: true,
-  },
+  // experimental removed
   // NOTE: Security headers are enforced at the Cloudflare edge via public/_headers
   // since output: 'export' does not support Next.js headers() at runtime.
 };

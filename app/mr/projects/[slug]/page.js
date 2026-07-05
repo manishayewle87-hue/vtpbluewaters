@@ -9,7 +9,6 @@ import ProjectLocation from '@/app/components/project/ProjectLocation';
 import EnquiryForm from '@/app/components/project/EnquiryForm';
 import EmiCalculator from '@/app/components/project/EmiCalculator';
 
-export const runtime = 'edge';
 
 
 import ProjectMasterLayout from '@/app/components/project/ProjectMasterLayout';
@@ -18,11 +17,8 @@ import ProjectVirtualTour from '@/app/components/project/ProjectVirtualTour';
 
 export const runtime = 'edge';
 
-export async function generateStaticParams() {
-  const projects = await cms.getAllProjects();
-  return projects.map((project) => ({
-    slug: project.slug}));
-}
+
+
 
 export async function generateMetadata({ params }) {
   const { slug } = await params;

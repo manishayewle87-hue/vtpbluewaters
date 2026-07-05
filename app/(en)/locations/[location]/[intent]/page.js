@@ -6,6 +6,7 @@ import EnquiryForm from '@/app/components/project/EnquiryForm';
 
 export const runtime = 'edge';
 
+
 // We import the same intents as the main project pages to keep the matrix consistent
 const KEYWORD_INTENTS = [
   // Original Intents

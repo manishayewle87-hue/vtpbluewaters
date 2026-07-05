@@ -6,6 +6,7 @@ export const runtime = 'edge';
 
 
 
+
 export async function generateMetadata({ params }) {
   const post = insightsData.find(p => p.slug === params.slug);
   if (!post) return {};

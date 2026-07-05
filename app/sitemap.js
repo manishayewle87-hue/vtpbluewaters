@@ -5,50 +5,30 @@ import contentData from '@/app/data/content-hub.json';
 
 export const dynamic = 'force-static';
 
-// ─── Segmented Sitemap Architecture ───
-// Next.js 16 generateSitemaps splits the monolithic sitemap into indexed segments:
-//   /sitemap/0.xml → Core pages + Projects
-//   /sitemap/1.xml → Location pages
-//   /sitemap/2.xml → Content (Blogs, Insights, FAQ)
-// Each segment stays well under Google's 50,000 URL limit.
-
-export async function generateSitemaps() {
-  return [{ id: '0' }, { id: '1' }, { id: '2' }];
-}
-
-export default async function sitemap(props) {
-  const id = await props.id;
+export default async function sitemap() {
   const baseUrl = 'https://vtpbluewaters.com';
   const langs = ['en', 'mr', 'hi'];
-
-  // ─── Segment 0: Core Pages + Projects ───
-  if (id === '0') {
-    return generateCoreAndProjectsSitemap(baseUrl, langs);
-  }
-
-  // ─── Segment 1: Location Pages ───
-  if (id === '1') {
-    return generateLocationsSitemap(baseUrl, langs);
-  }
-
-  // ─── Segment 2: Content Hub (Blogs, Insights, FAQ) ───
-  if (id === '2') {
-    return generateContentSitemap(baseUrl, langs);
-  }
-
-  return [];
-}
-
-// ─── Core Pages + Project URLs ───
-async function generateCoreAndProjectsSitemap(baseUrl, langs) {
+  
   const entries = [];
+  
+  // ─── 1. Core Pages + Projects ───
   const projects = await cms.getAllProjects();
-  const projectIntents = ['price', 'floor-plan', 'brochure', 'amenities', 'location', 'investment'];
+  
+  // ─── FULL KEYWORD INTENTS RESTORED ───
+  const FULL_INTENTS_STR = [
+    'price', 'floor-plan', 'brochure', 'reviews', 'amenities', 
+    'payment-plan', 'virtual-tour', 'gallery', 'maharera', 
+    'investment', 'location', 'offers',
+    '2-bhk', '2-5-bhk', '3-bhk', '3-5-bhk', '4-bhk', '5-bhk',
+    'penthouse', 'duplex', 'sky-villa',
+    'apartments', 'luxury-apartments', 'townships',
+    'near-metro', 'near-it-parks', 'near-schools', 'near-hospitals'
+  ];
 
   for (const lang of langs) {
     const prefix = lang === 'en' ? baseUrl : `${baseUrl}/${lang}`;
 
-    // Homepage — highest priority
+    // Homepage
     entries.push({
       url: prefix,
       lastModified: new Date(),
@@ -83,8 +63,8 @@ async function generateCoreAndProjectsSitemap(baseUrl, langs) {
         },
       });
 
-      // Project intent sub-pages
-      for (const intent of projectIntents) {
+      // Project intent sub-pages (MASSIVE SCALING)
+      for (const intent of FULL_INTENTS_STR) {
         entries.push({
           url: `${prefix}/projects/${project.slug}/${intent}`,
           lastModified: new Date(),
@@ -98,12 +78,7 @@ async function generateCoreAndProjectsSitemap(baseUrl, langs) {
     }
   }
 
-  return entries;
-}
-
-// ─── Location Pages ───
-function generateLocationsSitemap(baseUrl, langs) {
-  const entries = [];
+  // ─── 2. Location Pages ───
   const locationIntents = ['price', '2-bhk', '3-bhk', 'luxury-apartments'];
 
   for (const lang of langs) {
@@ -134,18 +109,12 @@ function generateLocationsSitemap(baseUrl, langs) {
     }
   }
 
-  return entries;
-}
-
-// ─── Content Hub (Blogs, Insights, FAQ) ───
-function generateContentSitemap(baseUrl, langs) {
-  const entries = [];
+  // ─── 3. Content Hub (Blogs, Insights, FAQ) ───
   const insightCategories = ['investment-guides', 'educational', 'market-reports', 'comparisons'];
 
   for (const lang of langs) {
     const prefix = lang === 'en' ? baseUrl : `${baseUrl}/${lang}`;
 
-    // Blog index
     entries.push({
       url: `${prefix}/blog`,
       lastModified: new Date(),
@@ -153,7 +122,6 @@ function generateContentSitemap(baseUrl, langs) {
       priority: 0.8,
     });
 
-    // Individual blog posts
     for (const blog of contentData.blogs) {
       entries.push({
         url: `${prefix}/blog/${blog.slug}`,
@@ -163,7 +131,6 @@ function generateContentSitemap(baseUrl, langs) {
       });
     }
 
-    // Insights hub
     entries.push({
       url: `${prefix}/insights`,
       lastModified: new Date(),
@@ -171,7 +138,6 @@ function generateContentSitemap(baseUrl, langs) {
       priority: 0.8,
     });
 
-    // Insight categories
     for (const cat of insightCategories) {
       entries.push({
         url: `${prefix}/insights/${cat}`,
@@ -181,7 +147,6 @@ function generateContentSitemap(baseUrl, langs) {
       });
     }
 
-    // FAQ
     entries.push({
       url: `${prefix}/faq`,
       lastModified: new Date(),
@@ -189,20 +154,6 @@ function generateContentSitemap(baseUrl, langs) {
       priority: 0.8,
     });
   }
-
-  // Static Routes
-  entries.push({
-    url: `${baseUrl}/en`,
-    lastModified: new Date(),
-    changeFrequency: 'daily',
-    priority: 1,
-  });
-  entries.push({
-    url: `${baseUrl}/en/township`,
-    lastModified: new Date(),
-    changeFrequency: 'weekly',
-    priority: 0.9,
-  });
 
   // Dynamic SEO Keyword Routes (Batch 1)
   entries.push(...seoSilos.flatMap((silo) => 
