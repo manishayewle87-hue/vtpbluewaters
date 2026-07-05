@@ -153,9 +153,9 @@ export default function LuxuryNavbar() {
                 className="mt-8"
               >
                 <Link 
-                  href="/en/explore/vtp-bluewaters-mahalunge-pune-enquiry"
+                  href="/explore/vtp-bluewaters-mahalunge-pune-enquiry"
                   onClick={(e) => {
-                    if (pathname === '/en') {
+                    if (pathname === '/') {
                       handleInterceptClick(e, { targetId: 'enquiry' });
                     } else {
                       setMobileMenuOpen(false);

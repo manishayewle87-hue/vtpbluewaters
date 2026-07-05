@@ -59,7 +59,7 @@ export default function AutoLinker({ text, lang = 'en' }) {
     parts.push(
       <Link 
         key={match.index} 
-        href={`/${lang}${path}`}
+        href={`${lang === 'en' ? path : '/' + lang + path}`}
         className="text-primary-600 hover:text-primary-800 underline decoration-primary-300 decoration-2 underline-offset-2 font-medium transition-colors"
         title={`View details for ${keyword}`}
       >

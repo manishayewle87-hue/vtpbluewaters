@@ -32,7 +32,7 @@ export default function CanonicalHreflang() {
           key={lang} 
           rel="alternate" 
           hrefLang={lang === 'en' ? 'en-IN' : lang === 'hi' ? 'hi-IN' : 'mr-IN'} 
-          href={`${baseUrl}/${lang}/${pathWithoutLang}`} 
+          href={`${baseUrl}${lang === 'en' ? '/' : '/' + lang + '/'}${pathWithoutLang}`} 
         />
       ))}
       

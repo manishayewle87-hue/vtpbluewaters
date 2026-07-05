@@ -25,12 +25,12 @@ export function generateProjectMeta(project, lang = 'en') {
     title,
     description,
     alternates: {
-      canonical: `${BASE_URL}/${lang}/projects/${project.slug}`,
+      canonical: `${BASE_URL}${lang === 'en' ? '/' : '/' + lang + '/'}projects/${project.slug}`,
     },
     openGraph: {
       title,
       description,
-      url: `${BASE_URL}/${lang}/projects/${project.slug}`,
+      url: `${BASE_URL}${lang === 'en' ? '/' : '/' + lang + '/'}projects/${project.slug}`,
       siteName: SITE_NAME,
       images: [{ url: project.image || DEFAULT_OG_IMAGE, width: 1200, height: 630, alt: project.name }],
       type: 'website',
@@ -58,12 +58,12 @@ export function generateProjectIntentMeta(project, intent, lang = 'en') {
     title,
     description,
     alternates: {
-      canonical: `${BASE_URL}/${lang}/projects/${project.slug}/${intent}`,
+      canonical: `${BASE_URL}${lang === 'en' ? '/' : '/' + lang + '/'}projects/${project.slug}/${intent}`,
     },
     openGraph: {
       title,
       description,
-      url: `${BASE_URL}/${lang}/projects/${project.slug}/${intent}`,
+      url: `${BASE_URL}${lang === 'en' ? '/' : '/' + lang + '/'}projects/${project.slug}/${intent}`,
       siteName: SITE_NAME,
       images: [{ url: project.image || DEFAULT_OG_IMAGE, width: 1200, height: 630, alt: `${project.name} ${formattedIntent}` }],
       type: 'website',
@@ -87,12 +87,12 @@ export function generateLocationMeta(location, lang = 'en') {
     title,
     description,
     alternates: {
-      canonical: `${BASE_URL}/${lang}/locations/${location.slug}`,
+      canonical: `${BASE_URL}${lang === 'en' ? '/' : '/' + lang + '/'}locations/${location.slug}`,
     },
     openGraph: {
       title,
       description,
-      url: `${BASE_URL}/${lang}/locations/${location.slug}`,
+      url: `${BASE_URL}${lang === 'en' ? '/' : '/' + lang + '/'}locations/${location.slug}`,
       siteName: SITE_NAME,
       images: [{ url: DEFAULT_OG_IMAGE, width: 1200, height: 630, alt: `Real Estate in ${location.name}` }],
       type: 'website',
@@ -117,12 +117,12 @@ export function generateLocationIntentMeta(location, intent, lang = 'en') {
     title,
     description,
     alternates: {
-      canonical: `${BASE_URL}/${lang}/locations/${location.slug}/${intent}`,
+      canonical: `${BASE_URL}${lang === 'en' ? '/' : '/' + lang + '/'}locations/${location.slug}/${intent}`,
     },
     openGraph: {
       title,
       description,
-      url: `${BASE_URL}/${lang}/locations/${location.slug}/${intent}`,
+      url: `${BASE_URL}${lang === 'en' ? '/' : '/' + lang + '/'}locations/${location.slug}/${intent}`,
       siteName: SITE_NAME,
       type: 'website',
     },
@@ -145,12 +145,12 @@ export function generateBlogMeta(blog, lang = 'en') {
     title,
     description,
     alternates: {
-      canonical: `${BASE_URL}/${lang}/blog/${blog.slug}`,
+      canonical: `${BASE_URL}${lang === 'en' ? '/' : '/' + lang + '/'}blog/${blog.slug}`,
     },
     openGraph: {
       title,
       description,
-      url: `${BASE_URL}/${lang}/blog/${blog.slug}`,
+      url: `${BASE_URL}${lang === 'en' ? '/' : '/' + lang + '/'}blog/${blog.slug}`,
       siteName: SITE_NAME,
       type: 'article',
       publishedTime: blog.date || new Date().toISOString(),
@@ -175,12 +175,12 @@ export function generateInsightMeta(article, category, lang = 'en') {
     title,
     description,
     alternates: {
-      canonical: `${BASE_URL}/${lang}/insights/${category}/${article.slug}`,
+      canonical: `${BASE_URL}${lang === 'en' ? '/' : '/' + lang + '/'}insights/${category}/${article.slug}`,
     },
     openGraph: {
       title,
       description,
-      url: `${BASE_URL}/${lang}/insights/${category}/${article.slug}`,
+      url: `${BASE_URL}${lang === 'en' ? '/' : '/' + lang + '/'}insights/${category}/${article.slug}`,
       siteName: SITE_NAME,
       type: 'article',
     },
@@ -201,10 +201,10 @@ export function generateProjectJsonLd(project, lang = 'en') {
   return {
     '@context': 'https://schema.org',
     '@type': 'ApartmentComplex',
-    '@id': `${BASE_URL}/${lang}/projects/${project.slug}#residence`,
+    '@id': `${BASE_URL}${lang === 'en' ? '/' : '/' + lang + '/'}projects/${project.slug}#residence`,
     name: project.name,
     description: project.overview || project.seoDescription,
-    url: `${BASE_URL}/${lang}/projects/${project.slug}`,
+    url: `${BASE_URL}${lang === 'en' ? '/' : '/' + lang + '/'}projects/${project.slug}`,
     image: project.image,
     numberOfRooms: project.configurations?.length || undefined,
     address: {
@@ -256,7 +256,7 @@ export function generateArticleJsonLd(article, lang = 'en') {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': `${BASE_URL}/${lang}/blog/${article.slug}`,
+      '@id': `${BASE_URL}${lang === 'en' ? '/' : '/' + lang + '/'}blog/${article.slug}`,
     },
   };
 }

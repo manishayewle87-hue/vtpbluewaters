@@ -46,7 +46,7 @@ async function generateCoreAndProjectsSitemap(baseUrl, langs) {
   const projectIntents = ['price', 'floor-plan', 'brochure', 'amenities', 'location', 'investment'];
 
   for (const lang of langs) {
-    const prefix = `${baseUrl}/${lang}`;
+    const prefix = lang === 'en' ? baseUrl : `${baseUrl}/${lang}`;
 
     // Homepage — highest priority
     entries.push({
@@ -107,7 +107,7 @@ function generateLocationsSitemap(baseUrl, langs) {
   const locationIntents = ['price', '2-bhk', '3-bhk', 'luxury-apartments'];
 
   for (const lang of langs) {
-    const prefix = `${baseUrl}/${lang}`;
+    const prefix = lang === 'en' ? baseUrl : `${baseUrl}/${lang}`;
 
     for (const loc of PUNE_MICRO_MARKETS) {
       entries.push({
@@ -143,7 +143,7 @@ function generateContentSitemap(baseUrl, langs) {
   const insightCategories = ['investment-guides', 'educational', 'market-reports', 'comparisons'];
 
   for (const lang of langs) {
-    const prefix = `${baseUrl}/${lang}`;
+    const prefix = lang === 'en' ? baseUrl : `${baseUrl}/${lang}`;
 
     // Blog index
     entries.push({
@@ -222,7 +222,7 @@ function buildAlternates(baseUrl, path, langs) {
   const map = {};
   for (const lang of langs) {
     const hreflang = lang === 'en' ? 'en-IN' : lang === 'hi' ? 'hi-IN' : 'mr-IN';
-    map[hreflang] = `${baseUrl}/${lang}${path}`;
+    map[hreflang] = lang === 'en' ? `${baseUrl}${path === '/' ? '' : path}` : `${baseUrl}/${lang}${path}`;
   }
   return map;
 }
