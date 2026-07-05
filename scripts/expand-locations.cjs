@@ -1,4 +1,7 @@
-[
+const fs = require('fs');
+const path = require('path');
+
+const locations = [
   {
     "slug": "mahalunge",
     "name": "Mahalunge",
@@ -144,4 +147,8 @@
     ],
     "seoDescription": "Explore ultra-luxury real estate on Baner Sus Road, Pune. A prime hub for cosmopolitan lifestyle, lush green views, and premium apartment living."
   }
-]
+];
+
+const filePath = path.join('/Users/vikasyewle/Documents/vtpbluewaters/app/data/locations.json');
+fs.writeFileSync(filePath, JSON.stringify(locations, null, 2), 'utf8');
+console.log('Successfully expanded locations.json');

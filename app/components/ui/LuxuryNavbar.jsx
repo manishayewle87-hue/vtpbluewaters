@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { usePathname } from 'next/navigation';
+import projectsData from '@/app/data/projects.json';
 
 import MagneticButton from './MagneticButton';
 import Logo from './Logo';
@@ -50,13 +51,10 @@ export default function LuxuryNavbar() {
       { name: 'Hinjawadi', href: '/en/locations/hinjawadi' },
       { name: 'Baner', href: '/en/locations/baner-sus' },
     ],
-    portfolio: [
-      { name: 'VTP Earth One', href: '/en/projects/vtp-earth-one-mahalunge-pune' },
-      { name: 'VTP Leonara', href: '/en/projects/vtp-leonara-mahalunge-pune' },
-      { name: 'VTP Bel Air', href: '/en/projects/vtp-bel-air-mahalunge-pune' },
-      { name: 'VTP Alpine', href: '/en/projects/vtp-alpine-mahalunge-pune' },
-      { name: 'VTP Town Square', href: '/en/projects/vtp-town-square-mahalunge-pune' },
-    ]
+    portfolio: projectsData.map(p => ({
+      name: p.name,
+      href: `/en/projects/${p.slug}`
+    }))
   };
 
   const navLinks = [
@@ -128,9 +126,9 @@ export default function LuxuryNavbar() {
                       animate={{ opacity: 1, y: 0 }}
                       exit={{ opacity: 0, y: 10 }}
                       transition={{ duration: 0.2 }}
-                      className="absolute top-full left-1/2 -translate-x-1/2 mt-2 w-64 bg-luxury-charcoal/95 backdrop-blur-lg border border-luxury-gold/20 rounded-xl overflow-hidden shadow-2xl py-4"
+                      className="absolute top-full left-1/2 -translate-x-1/2 mt-2 w-72 bg-luxury-charcoal/95 backdrop-blur-lg border border-luxury-gold/20 rounded-xl overflow-hidden shadow-2xl py-4"
                     >
-                      <div className="flex flex-col">
+                      <div className="flex flex-col max-h-[60vh] overflow-y-auto custom-scrollbar">
                         {megaMenuData[link.id].map((item) => (
                           <Link
                             key={item.name}
