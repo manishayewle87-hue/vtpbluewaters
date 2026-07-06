@@ -69,23 +69,23 @@
       {
         "type": "3 BHK Luxury",
         "carpetArea": "988 - 1447 Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/assets/projects/altamira/scraped-9.webp"
       },
       {
         "type": "Simplex/Duplex",
         "carpetArea": "Up to 2894 Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/assets/projects/altamira/scraped-10.webp"
       }
     ],
     "maharera": [
       "P52100079807"
     ],
     "gallery": [
-      "/images/ai_assets/exterior_luxury.jpg",
-      "/images/ai_assets/exterior_luxury.jpg",
-      "/images/ai_assets/amenity_pool.jpg",
-      "/images/ai_assets/amenity_clubhouse.jpg",
-      "/images/ai_assets/amenity_clubhouse.jpg"
+      "/assets/projects/altamira/scraped-3.webp",
+      "/assets/projects/altamira/scraped-5.webp",
+      "/assets/projects/altamira/scraped-4.webp",
+      "/assets/projects/altamira/scraped-5.webp",
+      "/assets/projects/altamira/scraped-5.webp"
     ]
   },
   {
@@ -261,22 +261,22 @@
       {
         "type": "2 BHK",
         "carpetArea": "667 - 1250 Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/assets/projects/earth-1/image-6.jpg"
       },
       {
         "type": "3 BHK",
         "carpetArea": "922 - 1446 Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/assets/projects/earth-1/scraped-15.jpg"
       },
       {
         "type": "4 BHK",
         "carpetArea": "1766 - 1770+ Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/assets/projects/earth-1/scraped-14.jpg"
       },
       {
         "type": "Simplex/Duplex",
         "carpetArea": "Up to 3500 Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/assets/projects/earth-1/scraped-18.png"
       }
     ],
     "maharera": [
@@ -285,11 +285,11 @@
       "P52100052414"
     ],
     "gallery": [
-      "/images/ai_assets/exterior_luxury.jpg",
-      "/images/ai_assets/exterior_luxury.jpg",
-      "/images/ai_assets/amenity_pool.jpg",
-      "/images/ai_assets/amenity_clubhouse.jpg",
-      "/images/ai_assets/amenity_clubhouse.jpg"
+      "/assets/projects/earth-1/scraped-12.jpg",
+      "/assets/projects/earth-1/scraped-18.png",
+      "/assets/projects/earth-1/scraped-17.jpg",
+      "/assets/projects/earth-1/scraped-7.jpg",
+      "/assets/projects/earth-1/scraped-18.png"
     ]
   },
   {
@@ -366,28 +366,28 @@
       {
         "type": "2 BHK Premium",
         "carpetArea": "775 - 925 Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/assets/projects/flamante/scraped-13.jpg"
       },
       {
         "type": "3 BHK Luxury",
         "carpetArea": "1075 - 1255 Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/assets/projects/flamante/scraped-18.jpg"
       },
       {
         "type": "4 BHK Mansion",
         "carpetArea": "1475+ Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/assets/projects/flamante/scraped-10.jpg"
       }
     ],
     "maharera": [
       "P52100051826"
     ],
     "gallery": [
-      "/images/ai_assets/exterior_luxury.jpg",
-      "/images/ai_assets/exterior_luxury.jpg",
-      "/images/ai_assets/amenity_pool.jpg",
-      "/images/ai_assets/amenity_clubhouse.jpg",
-      "/images/ai_assets/amenity_clubhouse.jpg"
+      "/assets/projects/flamante/scraped-2.jpg",
+      "/assets/projects/flamante/scraped-18.jpg",
+      "/assets/projects/flamante/scraped-3.jpg",
+      "/assets/projects/flamante/scraped-22.jpg",
+      "/assets/projects/flamante/scraped-10.jpg"
     ]
   },
   {
@@ -464,17 +464,17 @@
       {
         "type": "2 BHK Premium",
         "carpetArea": "790 - 940 Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/assets/projects/velvet-villas/scraped-3.webp"
       },
       {
         "type": "3 BHK Luxury",
         "carpetArea": "1090 - 1270 Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/assets/projects/velvet-villas/scraped-3.webp"
       },
       {
         "type": "4 BHK Mansion",
         "carpetArea": "1490+ Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/assets/projects/velvet-villas/scraped-7.jpg"
       }
     ],
     "maharera": [
@@ -482,11 +482,11 @@
       "P52100047370"
     ],
     "gallery": [
-      "/images/ai_assets/exterior_luxury.jpg",
-      "/images/ai_assets/exterior_luxury.jpg",
-      "/images/ai_assets/amenity_pool.jpg",
-      "/images/ai_assets/amenity_clubhouse.jpg",
-      "/images/ai_assets/amenity_clubhouse.jpg"
+      "/assets/projects/velvet-villas/scraped-4.webp",
+      "/assets/projects/velvet-villas/scraped-5.webp",
+      "/assets/projects/velvet-villas/scraped-3.webp",
+      "/assets/projects/velvet-villas/scraped-7.jpg",
+      "/assets/projects/velvet-villas/scraped-1.webp"
     ]
   },
   {
@@ -563,28 +563,28 @@
       {
         "type": "2 BHK Premium",
         "carpetArea": "805 - 955 Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/images/real_vtp/overview_dfe87892a1.jpg"
       },
       {
         "type": "3 BHK Luxury",
         "carpetArea": "1105 - 1285 Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/images/real_vtp/overview_dfe87892a1.jpg"
       },
       {
         "type": "4 BHK Mansion",
         "carpetArea": "1505+ Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/images/real_vtp/monarque_hero.webp"
       }
     ],
     "maharera": [
       "P52100056310"
     ],
     "gallery": [
-      "/images/ai_assets/exterior_luxury.jpg",
-      "/images/ai_assets/exterior_luxury.jpg",
-      "/images/ai_assets/amenity_pool.jpg",
-      "/images/ai_assets/amenity_clubhouse.jpg",
-      "/images/ai_assets/amenity_clubhouse.jpg"
+      "/images/real_vtp/waterfall_15a1aa4cf5.webp",
+      "/images/real_vtp/monarque_hero.webp",
+      "/images/real_vtp/earth_one_hero.jpg",
+      "/images/real_vtp/overview_dfe87892a1.jpg",
+      "/images/real_vtp/monarque_hero.webp"
     ]
   },
   {
@@ -661,28 +661,28 @@
       {
         "type": "2 BHK Premium",
         "carpetArea": "865 - 1015 Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/images/real_vtp/overview_dfe87892a1.jpg"
       },
       {
         "type": "3 BHK Luxury",
         "carpetArea": "1165 - 1345 Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/images/real_vtp/monarque_hero.webp"
       },
       {
         "type": "4 BHK Mansion",
         "carpetArea": "1565+ Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/images/real_vtp/earth_one_hero.jpg"
       }
     ],
     "maharera": [
       "Awaited"
     ],
     "gallery": [
-      "/images/ai_assets/exterior_luxury.jpg",
-      "/images/ai_assets/exterior_luxury.jpg",
-      "/images/ai_assets/amenity_pool.jpg",
-      "/images/ai_assets/amenity_clubhouse.jpg",
-      "/images/ai_assets/amenity_clubhouse.jpg"
+      "/images/real_vtp/monarque_hero.webp",
+      "/images/real_vtp/waterfall_15a1aa4cf5.webp",
+      "/images/real_vtp/waterfall_15a1aa4cf5.webp",
+      "/images/real_vtp/waterfall_15a1aa4cf5.webp",
+      "/images/real_vtp/waterfall_15a1aa4cf5.webp"
     ]
   },
   {
@@ -754,33 +754,33 @@
         "distance": "12 Mins"
       }
     ],
-    "masterLayout": "/images/ai_assets/exterior_luxury.jpg",
+    "masterLayout": "/images/real_vtp/earth_one_hero.jpg",
     "floorPlans": [
       {
         "type": "2 BHK Premium",
         "carpetArea": "895 - 1045 Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/images/real_vtp/waterfall_15a1aa4cf5.webp"
       },
       {
         "type": "3 BHK Luxury",
         "carpetArea": "1195 - 1375 Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/images/real_vtp/earth_one_hero.jpg"
       },
       {
         "type": "4 BHK Mansion",
         "carpetArea": "1595+ Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/images/real_vtp/overview_dfe87892a1.jpg"
       }
     ],
     "maharera": [
       "PR1260002400020"
     ],
     "gallery": [
-      "/images/ai_assets/exterior_luxury.jpg",
-      "/images/ai_assets/exterior_luxury.jpg",
-      "/images/ai_assets/amenity_pool.jpg",
-      "/images/ai_assets/amenity_clubhouse.jpg",
-      "/images/ai_assets/amenity_clubhouse.jpg"
+      "/images/real_vtp/monarque_hero.webp",
+      "/images/real_vtp/monarque_hero.webp",
+      "/images/real_vtp/flamante_hero.jpg",
+      "/images/real_vtp/waterfall_15a1aa4cf5.webp",
+      "/images/real_vtp/monarque_hero.webp"
     ]
   },
   {
@@ -857,28 +857,28 @@
       {
         "type": "2 BHK Premium",
         "carpetArea": "925 - 1075 Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/images/real_vtp/overview_dfe87892a1.jpg"
       },
       {
         "type": "3 BHK Luxury",
         "carpetArea": "1225 - 1405 Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/images/real_vtp/overview_dfe87892a1.jpg"
       },
       {
         "type": "4 BHK Mansion",
         "carpetArea": "1625+ Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/images/real_vtp/flamante_hero.jpg"
       }
     ],
     "maharera": [
       "P52100031556"
     ],
     "gallery": [
-      "/images/ai_assets/exterior_luxury.jpg",
-      "/images/ai_assets/exterior_luxury.jpg",
-      "/images/ai_assets/amenity_pool.jpg",
-      "/images/ai_assets/amenity_clubhouse.jpg",
-      "/images/ai_assets/amenity_clubhouse.jpg"
+      "/images/real_vtp/overview_dfe87892a1.jpg",
+      "/images/real_vtp/overview_dfe87892a1.jpg",
+      "/images/real_vtp/overview_dfe87892a1.jpg",
+      "/images/real_vtp/overview_dfe87892a1.jpg",
+      "/images/real_vtp/waterfall_15a1aa4cf5.webp"
     ]
   },
   {
@@ -950,22 +950,22 @@
         "distance": "12 Mins"
       }
     ],
-    "masterLayout": "/images/ai_assets/exterior_luxury.jpg",
+    "masterLayout": "/images/real_vtp/waterfall_15a1aa4cf5.webp",
     "floorPlans": [
       {
         "type": "2 BHK Premium",
         "carpetArea": "970 - 1120 Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/images/real_vtp/monarque_hero.webp"
       },
       {
         "type": "3 BHK Luxury",
         "carpetArea": "1270 - 1450 Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/images/real_vtp/monarque_hero.webp"
       },
       {
         "type": "4 BHK Mansion",
         "carpetArea": "1670+ Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/images/real_vtp/overview_dfe87892a1.jpg"
       }
     ],
     "maharera": [
@@ -975,11 +975,11 @@
       "P52100055619"
     ],
     "gallery": [
-      "/images/ai_assets/exterior_luxury.jpg",
-      "/images/ai_assets/exterior_luxury.jpg",
-      "/images/ai_assets/amenity_pool.jpg",
-      "/images/ai_assets/amenity_clubhouse.jpg",
-      "/images/ai_assets/amenity_clubhouse.jpg"
+      "/images/real_vtp/overview_dfe87892a1.jpg",
+      "/images/real_vtp/flamante_hero.jpg",
+      "/images/real_vtp/earth_one_hero.jpg",
+      "/images/real_vtp/waterfall_15a1aa4cf5.webp",
+      "/images/real_vtp/earth_one_hero.jpg"
     ]
   },
   {
@@ -1051,22 +1051,22 @@
         "distance": "12 Mins"
       }
     ],
-    "masterLayout": "/images/ai_assets/exterior_luxury.jpg",
+    "masterLayout": "/images/real_vtp/flamante_hero.jpg",
     "floorPlans": [
       {
         "type": "2 BHK Premium",
         "carpetArea": "985 - 1135 Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/images/real_vtp/earth_one_hero.jpg"
       },
       {
         "type": "3 BHK Luxury",
         "carpetArea": "1285 - 1465 Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/images/real_vtp/overview_dfe87892a1.jpg"
       },
       {
         "type": "4 BHK Mansion",
         "carpetArea": "1685+ Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/images/real_vtp/overview_dfe87892a1.jpg"
       }
     ],
     "maharera": [
@@ -1076,11 +1076,11 @@
       "P52100049849"
     ],
     "gallery": [
-      "/images/ai_assets/exterior_luxury.jpg",
-      "/images/ai_assets/exterior_luxury.jpg",
-      "/images/ai_assets/amenity_pool.jpg",
-      "/images/ai_assets/amenity_clubhouse.jpg",
-      "/images/ai_assets/amenity_clubhouse.jpg"
+      "/images/real_vtp/waterfall_15a1aa4cf5.webp",
+      "/images/real_vtp/earth_one_hero.jpg",
+      "/images/real_vtp/earth_one_hero.jpg",
+      "/images/real_vtp/flamante_hero.jpg",
+      "/images/real_vtp/monarque_hero.webp"
     ]
   },
   {
@@ -1152,22 +1152,22 @@
         "distance": "12 Mins"
       }
     ],
-    "masterLayout": "/images/ai_assets/exterior_luxury.jpg",
+    "masterLayout": "/images/real_vtp/monarque_hero.webp",
     "floorPlans": [
       {
         "type": "2 BHK Premium",
         "carpetArea": "1000 - 1150 Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/images/real_vtp/earth_one_hero.jpg"
       },
       {
         "type": "3 BHK Luxury",
         "carpetArea": "1300 - 1480 Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/images/real_vtp/overview_dfe87892a1.jpg"
       },
       {
         "type": "4 BHK Mansion",
         "carpetArea": "1700+ Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/images/real_vtp/overview_dfe87892a1.jpg"
       }
     ],
     "maharera": [
@@ -1175,11 +1175,11 @@
       "P52100029394"
     ],
     "gallery": [
-      "/images/ai_assets/exterior_luxury.jpg",
-      "/images/ai_assets/exterior_luxury.jpg",
-      "/images/ai_assets/amenity_pool.jpg",
-      "/images/ai_assets/amenity_clubhouse.jpg",
-      "/images/ai_assets/amenity_clubhouse.jpg"
+      "/images/real_vtp/monarque_hero.webp",
+      "/images/real_vtp/monarque_hero.webp",
+      "/images/real_vtp/overview_dfe87892a1.jpg",
+      "/images/real_vtp/earth_one_hero.jpg",
+      "/images/real_vtp/waterfall_15a1aa4cf5.webp"
     ]
   },
   {
@@ -1251,33 +1251,33 @@
         "distance": "12 Mins"
       }
     ],
-    "masterLayout": "/images/ai_assets/exterior_luxury.jpg",
+    "masterLayout": "/images/real_vtp/waterfall_15a1aa4cf5.webp",
     "floorPlans": [
       {
         "type": "2 BHK Premium",
         "carpetArea": "1015 - 1165 Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/images/real_vtp/earth_one_hero.jpg"
       },
       {
         "type": "3 BHK Luxury",
         "carpetArea": "1315 - 1495 Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/images/real_vtp/monarque_hero.webp"
       },
       {
         "type": "4 BHK Mansion",
         "carpetArea": "1715+ Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/images/real_vtp/flamante_hero.jpg"
       }
     ],
     "maharera": [
       "P52100024885"
     ],
     "gallery": [
-      "/images/ai_assets/exterior_luxury.jpg",
-      "/images/ai_assets/exterior_luxury.jpg",
-      "/images/ai_assets/amenity_pool.jpg",
-      "/images/ai_assets/amenity_clubhouse.jpg",
-      "/images/ai_assets/amenity_clubhouse.jpg"
+      "/images/real_vtp/overview_dfe87892a1.jpg",
+      "/images/real_vtp/overview_dfe87892a1.jpg",
+      "/images/real_vtp/earth_one_hero.jpg",
+      "/images/real_vtp/overview_dfe87892a1.jpg",
+      "/images/real_vtp/overview_dfe87892a1.jpg"
     ]
   },
   {
@@ -1349,22 +1349,22 @@
         "distance": "12 Mins"
       }
     ],
-    "masterLayout": "/images/ai_assets/exterior_luxury.jpg",
+    "masterLayout": "/images/real_vtp/monarque_hero.webp",
     "floorPlans": [
       {
         "type": "2 BHK Premium",
         "carpetArea": "1030 - 1180 Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/images/real_vtp/waterfall_15a1aa4cf5.webp"
       },
       {
         "type": "3 BHK Luxury",
         "carpetArea": "1330 - 1510 Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/images/real_vtp/monarque_hero.webp"
       },
       {
         "type": "4 BHK Mansion",
         "carpetArea": "1730+ Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/images/real_vtp/earth_one_hero.jpg"
       }
     ],
     "maharera": [
@@ -1372,11 +1372,11 @@
       "P52100028131"
     ],
     "gallery": [
-      "/images/ai_assets/exterior_luxury.jpg",
-      "/images/ai_assets/exterior_luxury.jpg",
-      "/images/ai_assets/amenity_pool.jpg",
-      "/images/ai_assets/amenity_clubhouse.jpg",
-      "/images/ai_assets/amenity_clubhouse.jpg"
+      "/images/real_vtp/earth_one_hero.jpg",
+      "/images/real_vtp/waterfall_15a1aa4cf5.webp",
+      "/images/real_vtp/waterfall_15a1aa4cf5.webp",
+      "/images/real_vtp/waterfall_15a1aa4cf5.webp",
+      "/images/real_vtp/overview_dfe87892a1.jpg"
     ]
   },
   {
@@ -1386,7 +1386,7 @@
     "location": "Mahalunge, Pune",
     "slug": "vtp-leonara-mahalunge-pune",
     "link": "https://vtprealty.in/projects/vtp-leonara-mahalunge-pune",
-    "image": "/images/ai_assets/exterior_luxury.jpg",
+    "image": "/images/real_vtp/monarque_hero.webp",
     "seoTitle": "VTP VTP LEONARA Mahalunge | Buy Luxury 3 & 4 BHK Flats in Pune",
     "overview": "Welcome to the unparalleled lifestyle at VTP LEONARA, a distinguished luxury cluster within the visionary Township BLUEWATERS ecosystem. As Pune's premier residential destination, this architectural marvel redefines urban luxury in Mahalunge. \n\nDesigned strictly on the Maximum Livable Area (MLA) philosophy, every residence in VTP LEONARA ensures zero space wastage, soaring ceilings, and panoramic views. Nestled strategically, it seamlessly connects the tranquility of nature with the high-paced lifestyle of Mahalunge. \n\nFor investors and homebuyers, VTP LEONARA represents a RERA registered luxury properties. With high ROI real estate investment and seamless Hinjawadi IT Park access, residents experience a global benchmark in living. \n\nExperience world-class amenities, robust multi-tier security, and a community of like-minded elites. Investing in VTP LEONARA ensures unmatched returns and a world-class living experience at the heart of Pune's rapid development. Explore <a href=\"/locations/mahalunge\">premium properties in Mahalunge</a> and secure your future today.",
     "seoDescription": "Invest in VTP LEONARA. Buy ultra-luxury 3, 4 BHK apartments in Mahalunge, Pune. Zero Brokerage, exclusive pre-launch offers, and premium amenities. View Price & Floor Plan.",
@@ -1441,26 +1441,26 @@
       {
         "type": "1 BHK",
         "carpetArea": "425 Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/images/real_vtp/earth_one_hero.jpg"
       },
       {
         "type": "2 BHK",
         "carpetArea": "630 Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/images/real_vtp/monarque_hero.webp"
       },
       {
         "type": "3 BHK",
         "carpetArea": "870 Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/images/real_vtp/earth_one_hero.jpg"
       }
     ],
     "maharera": [
       "P52100019559"
     ],
     "gallery": [
-      "/images/ai_assets/exterior_luxury.jpg",
-      "/images/ai_assets/amenity_pool.jpg",
-      "/images/ai_assets/amenity_clubhouse.jpg"
+      "/images/real_vtp/monarque_hero.webp",
+      "/images/real_vtp/flamante_hero.jpg",
+      "/images/real_vtp/overview_dfe87892a1.jpg"
     ]
   },
   {
@@ -1470,7 +1470,7 @@
     "location": "Mahalunge, Pune",
     "slug": "vtp-bel-air-mahalunge-pune",
     "link": "https://vtprealty.in/projects/vtp-bel-air-mahalunge-pune",
-    "image": "/images/ai_assets/exterior_luxury.jpg",
+    "image": "/images/real_vtp/overview_dfe87892a1.jpg",
     "seoTitle": "VTP VTP BEL AIR Mahalunge | Buy Luxury 3 & 4 BHK Flats in Pune",
     "overview": "Welcome to the unparalleled lifestyle at VTP BEL AIR, a distinguished luxury cluster within the visionary Township BLUEWATERS ecosystem. As Pune's premier residential destination, this architectural marvel redefines urban luxury in Mahalunge. \n\nDesigned strictly on the Maximum Livable Area (MLA) philosophy, every residence in VTP BEL AIR ensures zero space wastage, soaring ceilings, and panoramic views. Nestled strategically, it seamlessly connects the tranquility of nature with the high-paced lifestyle of Mahalunge. \n\nFor investors and homebuyers, VTP BEL AIR represents a high ROI real estate investment. With seamless Hinjawadi IT Park access and PMRDA ring road infrastructure, residents experience a global benchmark in living. \n\nExperience world-class amenities, robust multi-tier security, and a community of like-minded elites. Investing in VTP BEL AIR ensures unmatched returns and a world-class living experience at the heart of Pune's rapid development. Explore <a href=\"/locations/mahalunge\">premium properties in Mahalunge</a> and secure your future today.",
     "seoDescription": "Invest in VTP BEL AIR. Buy ultra-luxury 3, 4 BHK apartments in Mahalunge, Pune. Zero Brokerage, exclusive pre-launch offers, and premium amenities. View Price & Floor Plan.",
@@ -1525,12 +1525,12 @@
       {
         "type": "2 BHK",
         "carpetArea": "730 Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/images/real_vtp/earth_one_hero.jpg"
       },
       {
         "type": "3 BHK",
         "carpetArea": "980 Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/images/real_vtp/flamante_hero.jpg"
       }
     ],
     "maharera": [
@@ -1538,9 +1538,9 @@
       "P52100020368"
     ],
     "gallery": [
-      "/images/ai_assets/exterior_luxury.jpg",
-      "/images/ai_assets/amenity_clubhouse.jpg",
-      "/images/ai_assets/exterior_luxury.jpg"
+      "/images/real_vtp/flamante_hero.jpg",
+      "/images/real_vtp/flamante_hero.jpg",
+      "/images/real_vtp/overview_dfe87892a1.jpg"
     ]
   },
   {
@@ -1605,12 +1605,12 @@
       {
         "type": "2 BHK",
         "carpetArea": "750 Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/images/real_vtp/earth_one_hero.jpg"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1050 Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/images/real_vtp/flamante_hero.jpg"
       }
     ],
     "maharera": [
@@ -1618,7 +1618,7 @@
     ],
     "gallery": [
       "/images/real_vtp/waterfall_15a1aa4cf5.webp",
-      "/images/ai_assets/amenity_pool.jpg"
+      "/images/real_vtp/overview_dfe87892a1.jpg"
     ]
   },
   {
@@ -1683,12 +1683,12 @@
       {
         "type": "1 BHK",
         "carpetArea": "450 Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/images/real_vtp/flamante_hero.jpg"
       },
       {
         "type": "2 BHK",
         "carpetArea": "650 Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/images/real_vtp/flamante_hero.jpg"
       }
     ],
     "maharera": [
@@ -1696,7 +1696,7 @@
     ],
     "gallery": [
       "/images/real_vtp/w_EB_b_ANNER_1920_X1080_ca362a2b3f.jpg",
-      "/images/ai_assets/amenity_clubhouse.jpg"
+      "/images/real_vtp/monarque_hero.webp"
     ]
   },
   {
@@ -1761,12 +1761,12 @@
       {
         "type": "2 BHK",
         "carpetArea": "780 Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/images/real_vtp/earth_one_hero.jpg"
       },
       {
         "type": "3 BHK",
         "carpetArea": "1020 Sq.Ft.",
-        "image": "/images/ai_assets/floor_plan_3bhk.jpg"
+        "image": "/images/real_vtp/monarque_hero.webp"
       }
     ],
     "maharera": [
@@ -1774,7 +1774,7 @@
     ],
     "gallery": [
       "/images/real_vtp/banner_be053a20bf.jpg",
-      "/images/ai_assets/amenity_clubhouse.jpg"
+      "/images/real_vtp/waterfall_15a1aa4cf5.webp"
     ]
   }
 ]
