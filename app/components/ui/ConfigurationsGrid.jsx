@@ -132,10 +132,17 @@ export default function ConfigurationsGrid({ projects }) {
                 
                 <h3 className="text-3xl lg:text-4xl font-display font-light text-white mb-2">{project.name}</h3>
                 
-                <div className="flex items-center gap-4 text-sm text-luxury-silver/80 font-light mb-8">
-                  <span>{project.location}</span>
-                  <span className="w-1 h-1 rounded-full bg-luxury-gold"></span>
-                  <span>Ultra Luxury</span>
+                <div className="flex flex-col gap-2 mb-8">
+                  <div className="flex items-center gap-4 text-sm text-luxury-silver/80 font-light">
+                    <span>{project.location}</span>
+                    <span className="w-1 h-1 rounded-full bg-luxury-gold"></span>
+                    <span>Ultra Luxury</span>
+                  </div>
+                  {project.maharera && project.maharera.length > 0 && (
+                    <div className="text-[10px] uppercase tracking-widest text-white/40">
+                      MahaRERA: {project.maharera[0]}
+                    </div>
+                  )}
                 </div>
 
                 <Link href={`/projects/${project.slug}`}>
