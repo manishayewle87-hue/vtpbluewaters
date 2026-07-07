@@ -34,13 +34,13 @@ export default function LuxuryNavbar() {
   }, [mobileMenuOpen]);
 
   const handleInterceptClick = (e, link) => {
-    if (link.targetId && pathname === '/en') {
+    if (link.targetId && pathname === '/') {
       e.preventDefault();
       const target = document.getElementById(link.targetId);
       if (target) {
         target.scrollIntoView({ behavior: 'smooth' });
+        setMobileMenuOpen(false);
       }
-      setMobileMenuOpen(false);
     }
   };
 

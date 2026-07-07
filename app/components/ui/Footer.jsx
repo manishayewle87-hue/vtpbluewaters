@@ -25,7 +25,7 @@ export default function Footer() {
   if (isIntentLandingPage) return null;
 
   const handleInterceptClick = (e, link) => {
-    if (link.targetId && pathname === '/en') {
+    if (link.targetId && pathname === '/') {
       e.preventDefault();
       const target = document.getElementById(link.targetId);
       if (target) {

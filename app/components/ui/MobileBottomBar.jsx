@@ -7,7 +7,7 @@ export default function MobileBottomBar() {
   const pathname = usePathname();
 
   const handleInterceptClick = (e, targetId) => {
-    if (pathname === '/en') {
+    if (targetId && pathname === '/') {
       e.preventDefault();
       const target = document.getElementById(targetId);
       if (target) {

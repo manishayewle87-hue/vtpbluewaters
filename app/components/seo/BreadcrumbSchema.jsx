@@ -6,7 +6,7 @@ export default function BreadcrumbSchema() {
   const pathname = usePathname();
   const baseUrl = 'https://vtpbluewaters.com';
 
-  if (!pathname || pathname === '/' || pathname === '/en' || pathname === '/mr' || pathname === '/hi') return null;
+  if (!pathname || pathname === '/') return null;
 
   const segments = pathname.split('/').filter(Boolean);
   
