@@ -4,7 +4,7 @@
     "township": "Township Pegasus",
     "name": "ALTAMIRA BY VTP LUXE",
     "location": "Kharadi, Pune",
-    "image": "/images/real_vtp/waterfall_15a1aa4cf5.webp",
+    "image": "/assets/projects/vtp-altamira-kharadi-pune/accurate-hero.jpg&w=1200&q=75",
     "link": "https://vtprealty.in/projects/vtp-altamira-kharadi-pune",
     "slug": "vtp-altamira-kharadi-pune",
     "seoTitle": "VTP ALTAMIRA Kharadi | Buy Luxury 3 & 4 BHK Flats in Pune",
@@ -67,25 +67,31 @@
     "masterLayout": "/images/real_vtp/Main_website_da76ded661.webp",
     "floorPlans": [
       {
-        "type": "3 BHK Luxury",
-        "carpetArea": "988 - 1447 Sq.Ft.",
+        "type": "Configuration",
+        "carpetArea": "Carpet Area (sq.ft.)",
         "image": "/assets/projects/altamira/scraped-9.webp"
       },
       {
-        "type": "Simplex/Duplex",
-        "carpetArea": "Up to 2894 Sq.Ft.",
+        "type": "3 BHK",
+        "carpetArea": "988 - 1475Sq.ft",
         "image": "/assets/projects/altamira/scraped-10.webp"
+      },
+      {
+        "type": "SIMPLEX & DUPLEX",
+        "carpetArea": "1976 - 2894Sq.ft",
+        "image": "/assets/projects/vtp-altamira-kharadi-pune/accurate-hero.jpg&w=1200&q=75"
       }
     ],
     "maharera": [
       "P52100079807"
     ],
     "gallery": [
-      "/assets/projects/altamira/scraped-3.webp",
-      "/assets/projects/altamira/scraped-5.webp",
-      "/assets/projects/altamira/scraped-4.webp",
-      "/assets/projects/altamira/scraped-5.webp",
-      "/assets/projects/altamira/scraped-5.webp"
+      "/assets/projects/vtp-altamira-kharadi-pune/accurate-gallery-1.svg",
+      "/assets/projects/vtp-altamira-kharadi-pune/accurate-gallery-2.png&w=384&q=75",
+      "/assets/projects/vtp-altamira-kharadi-pune/accurate-gallery-3.webp&w=3840&q=75",
+      "/assets/projects/vtp-altamira-kharadi-pune/accurate-gallery-4.webp&w=3840&q=75",
+      "/assets/projects/vtp-altamira-kharadi-pune/accurate-gallery-5.png&w=1200&q=75",
+      "/assets/projects/vtp-altamira-kharadi-pune/accurate-gallery-6.svg"
     ]
   },
   {
@@ -93,7 +99,7 @@
     "township": "Township BLUEWATERS",
     "name": "MONARQUE BY VTP LUXE",
     "location": "Hinjawadi, Pune",
-    "image": "/images/real_vtp/monarque/monaqur_ef98ea7124.webp",
+    "image": "/assets/projects/vtp-monarque-hinjawadi-pune/accurate-hero.webp&w=1200&q=75",
     "link": "https://vtprealty.in/projects/vtp-monarque-hinjawadi-pune",
     "slug": "vtp-monarque-hinjawadi-pune",
     "seoTitle": "VTP MONARQUE Hinjawadi | Buy Luxury 3 & 4 BHK Flats in Pune",
@@ -160,31 +166,42 @@
     "masterLayout": "/images/real_vtp/monarque/Blue_Waters_Township_Map_Monarque_cef31c4e9c.webp",
     "floorPlans": [
       {
-        "type": "2 BHK",
-        "carpetArea": "780 - 860 Sq.Ft.",
+        "type": "Configuration",
+        "carpetArea": "Carpet Area (sq.ft.)",
         "image": "/images/real_vtp/monarque/Exterior_1_92cec5d0a0.webp"
       },
       {
-        "type": "3 BHK",
-        "carpetArea": "951 - 1490 Sq.Ft.",
+        "type": "2 BHK Homes",
+        "carpetArea": "805 - 860 Sq.ft",
         "image": "/images/real_vtp/monarque/Exterior_2_757a0d2bde.webp"
       },
       {
-        "type": "4.5 BHK Mansions",
-        "carpetArea": "1610 - 2980 Sq.Ft.",
+        "type": "3 BHK Homes",
+        "carpetArea": "1094 - 1490Sq.ft",
         "image": "/images/real_vtp/monarque/Exterior_4_72b62aa7b1.webp"
+      },
+      {
+        "type": "MANSION",
+        "carpetArea": "1652 - 2105Sq.ft",
+        "image": "/assets/projects/vtp-monarque-hinjawadi-pune/accurate-hero.webp&w=1200&q=75"
+      },
+      {
+        "type": "DUPLEX Homes",
+        "carpetArea": "1610 - 2980Sq.ft",
+        "image": "/assets/projects/vtp-monarque-hinjawadi-pune/accurate-hero.webp&w=1200&q=75"
       }
     ],
     "gallery": [
-      "/images/real_vtp/monarque/Exterior_6_fb9d7dd82d.webp",
-      "/images/real_vtp/monarque/Exterior_10_f6550710c5.webp",
-      "/images/real_vtp/monarque/Square_1_d587aa7840.webp",
-      "/images/real_vtp/monarque/Ame21_082cc079dd.jpg",
-      "/images/real_vtp/monarque/Ame20_35fab810ef.jpg",
-      "/images/real_vtp/monarque/Ame17_7c265d629d.jpg"
+      "/assets/projects/vtp-monarque-hinjawadi-pune/accurate-gallery-1.svg",
+      "/assets/projects/vtp-monarque-hinjawadi-pune/accurate-gallery-2.png&w=384&q=75",
+      "/assets/projects/vtp-monarque-hinjawadi-pune/accurate-gallery-3.webp&w=3840&q=75",
+      "/assets/projects/vtp-monarque-hinjawadi-pune/accurate-gallery-4.webp&w=3840&q=75",
+      "/assets/projects/vtp-monarque-hinjawadi-pune/accurate-gallery-5.png&w=1200&q=75",
+      "/assets/projects/vtp-monarque-hinjawadi-pune/accurate-gallery-6.svg"
     ],
     "maharera": [
-      "P52100077322"
+      "P52100077322",
+      "P52100079440"
     ]
   },
   {
@@ -192,7 +209,7 @@
     "township": "Township BLUEWATERS",
     "name": "EARTH 1 BY VTP LUXE",
     "location": "Mahalunge, Pune",
-    "image": "/images/real_vtp/VTP_EARTH_ONE_C22_N_min_35919648ed.jpg",
+    "image": "/assets/projects/vtp-earth-one-mahalunge-pune/accurate-hero.svg",
     "link": "https://vtprealty.in/projects/earth-one-by-vtp-luxe-mahalunge-pune",
     "slug": "vtp-earth-one-mahalunge-pune",
     "seoTitle": "VTP EARTH 1 Mahalunge | Buy Luxury 3 & 4 BHK Flats in Pune",
@@ -259,24 +276,34 @@
     "masterLayout": "/images/real_vtp/about_34bebbbd76.jpg",
     "floorPlans": [
       {
-        "type": "2 BHK",
-        "carpetArea": "667 - 1250 Sq.Ft.",
+        "type": "Configuration",
+        "carpetArea": "Carpet Area (sq.ft.)",
         "image": "/assets/projects/earth-1/image-6.jpg"
       },
       {
-        "type": "3 BHK",
-        "carpetArea": "922 - 1446 Sq.Ft.",
+        "type": "2 BHK Homes",
+        "carpetArea": "673 - 861Sq.ft",
         "image": "/assets/projects/earth-1/scraped-15.jpg"
       },
       {
-        "type": "4 BHK",
-        "carpetArea": "1766 - 1770+ Sq.Ft.",
+        "type": "3 BHK Homes",
+        "carpetArea": "1446Sq.ft",
         "image": "/assets/projects/earth-1/scraped-14.jpg"
       },
       {
-        "type": "Simplex/Duplex",
-        "carpetArea": "Up to 3500 Sq.Ft.",
+        "type": "4 BHK Homes",
+        "carpetArea": "1766Sq.ft",
         "image": "/assets/projects/earth-1/scraped-18.png"
+      },
+      {
+        "type": "SIMPLEX Homes",
+        "carpetArea": "1534 - 1540Sq.ft",
+        "image": "/assets/projects/vtp-earth-one-mahalunge-pune/accurate-hero.svg"
+      },
+      {
+        "type": "DUPLEX Homes",
+        "carpetArea": "1346 - 1722Sq.ft",
+        "image": "/assets/projects/vtp-earth-one-mahalunge-pune/accurate-hero.svg"
       }
     ],
     "maharera": [
@@ -285,11 +312,12 @@
       "P52100052414"
     ],
     "gallery": [
-      "/assets/projects/earth-1/scraped-12.jpg",
-      "/assets/projects/earth-1/scraped-18.png",
-      "/assets/projects/earth-1/scraped-17.jpg",
-      "/assets/projects/earth-1/scraped-7.jpg",
-      "/assets/projects/earth-1/scraped-18.png"
+      "/assets/projects/vtp-earth-one-mahalunge-pune/accurate-gallery-1.svg",
+      "/assets/projects/vtp-earth-one-mahalunge-pune/accurate-gallery-2.png&w=384&q=75",
+      "/assets/projects/vtp-earth-one-mahalunge-pune/accurate-gallery-3.jpg&w=3840&q=75",
+      "/assets/projects/vtp-earth-one-mahalunge-pune/accurate-gallery-4.jpg&w=1200&q=75",
+      "/assets/projects/vtp-earth-one-mahalunge-pune/accurate-gallery-5.jpg&w=3840&q=75",
+      "/assets/projects/vtp-earth-one-mahalunge-pune/accurate-gallery-6.png&w=1200&q=75"
     ]
   },
   {
@@ -297,7 +325,7 @@
     "township": "Township Pegasus",
     "name": "FLAMANTE BY VTP LUXE",
     "location": "Kharadi, Pune",
-    "image": "/images/real_vtp/w_EB_b_ANNER_1920_X1080_ca362a2b3f.jpg",
+    "image": "/assets/projects/vtp-flamante-kharadi-pune/accurate-hero.svg",
     "link": "https://vtprealty.in/projects/flamante-by-vtp-luxe-kharadi-pune",
     "slug": "vtp-flamante-kharadi-pune",
     "seoTitle": "VTP FLAMANTE Kharadi | Buy Luxury 3 & 4 BHK Flats in Pune",
@@ -364,30 +392,41 @@
     "masterLayout": "/images/real_vtp/overview_dfe87892a1.jpg",
     "floorPlans": [
       {
-        "type": "2 BHK Premium",
-        "carpetArea": "775 - 925 Sq.Ft.",
+        "type": "Configuration",
+        "carpetArea": "Carpet Area (sq.ft.)",
         "image": "/assets/projects/flamante/scraped-13.jpg"
       },
       {
-        "type": "3 BHK Luxury",
-        "carpetArea": "1075 - 1255 Sq.Ft.",
+        "type": "2 BHK Homes",
+        "carpetArea": "808 - 850Sq.ft",
         "image": "/assets/projects/flamante/scraped-18.jpg"
       },
       {
-        "type": "4 BHK Mansion",
-        "carpetArea": "1475+ Sq.Ft.",
+        "type": "4 BHK Homes",
+        "carpetArea": "1793Sq.ft",
         "image": "/assets/projects/flamante/scraped-10.jpg"
+      },
+      {
+        "type": "SIMPLEX Homes",
+        "carpetArea": "1656Sq.ft",
+        "image": "/assets/projects/vtp-flamante-kharadi-pune/accurate-hero.svg"
+      },
+      {
+        "type": "DUPLEX Homes",
+        "carpetArea": "1616 - 1696Sq.ft",
+        "image": "/assets/projects/vtp-flamante-kharadi-pune/accurate-hero.svg"
       }
     ],
     "maharera": [
       "P52100051826"
     ],
     "gallery": [
-      "/assets/projects/flamante/scraped-2.jpg",
-      "/assets/projects/flamante/scraped-18.jpg",
-      "/assets/projects/flamante/scraped-3.jpg",
-      "/assets/projects/flamante/scraped-22.jpg",
-      "/assets/projects/flamante/scraped-10.jpg"
+      "/assets/projects/vtp-flamante-kharadi-pune/accurate-gallery-1.svg",
+      "/assets/projects/vtp-flamante-kharadi-pune/accurate-gallery-2.png&w=384&q=75",
+      "/assets/projects/vtp-flamante-kharadi-pune/accurate-gallery-3.jpg&w=3840&q=75",
+      "/assets/projects/vtp-flamante-kharadi-pune/accurate-gallery-4.jpg&w=1200&q=75",
+      "/assets/projects/vtp-flamante-kharadi-pune/accurate-gallery-5.jpg&w=3840&q=75",
+      "/assets/projects/vtp-flamante-kharadi-pune/accurate-gallery-6.png&w=1200&q=75"
     ]
   },
   {
@@ -395,7 +434,7 @@
     "township": "Township Pegasus",
     "name": "VELVET VILLAS BY VTP LUXE",
     "location": "Kharadi, Pune",
-    "image": "/images/real_vtp/banner_d740f9a3b1.webp",
+    "image": "/assets/projects/vtp-velvet-villas-kharadi-pune/accurate-hero.webp&w=3840&q=75",
     "link": "https://vtprealty.in/projects/velvet-villas-by-vtp-luxe-kharadi-pune",
     "slug": "vtp-velvet-villas-kharadi-pune",
     "seoTitle": "VTP VELVET VILLAS Kharadi | Buy Luxury 3 & 4 BHK Flats in Pune",
@@ -482,11 +521,12 @@
       "P52100047370"
     ],
     "gallery": [
-      "/assets/projects/velvet-villas/scraped-4.webp",
-      "/assets/projects/velvet-villas/scraped-5.webp",
-      "/assets/projects/velvet-villas/scraped-3.webp",
-      "/assets/projects/velvet-villas/scraped-7.jpg",
-      "/assets/projects/velvet-villas/scraped-1.webp"
+      "/assets/projects/vtp-velvet-villas-kharadi-pune/accurate-gallery-1.svg",
+      "/assets/projects/vtp-velvet-villas-kharadi-pune/accurate-gallery-2.png&w=384&q=75",
+      "/assets/projects/vtp-velvet-villas-kharadi-pune/accurate-gallery-3.webp&w=1200&q=75",
+      "/assets/projects/vtp-velvet-villas-kharadi-pune/accurate-gallery-4.webp&w=3840&q=75",
+      "/assets/projects/vtp-velvet-villas-kharadi-pune/accurate-gallery-5.png&w=1200&q=75",
+      "/assets/projects/vtp-velvet-villas-kharadi-pune/accurate-gallery-6.png&w=3840&q=75"
     ]
   },
   {
@@ -494,7 +534,7 @@
     "township": "Township",
     "name": "CIELO BY VTP LUXE",
     "location": "Bavdhan, Pune",
-    "image": "/images/real_vtp/cilo_bf26631338.webp",
+    "image": "/assets/projects/vtp-cielo-bavdhan-pune/accurate-hero.webp&w=1200&q=75",
     "link": "https://vtprealty.in/projects/vtp-cielo-bavdhan-pune",
     "slug": "vtp-cielo-bavdhan-pune",
     "seoTitle": "VTP CIELO Bavdhan | Buy Luxury 3 & 4 BHK Flats in Pune",
@@ -561,30 +601,36 @@
     "masterLayout": "/images/real_vtp/Square_d896b84b5a.webp",
     "floorPlans": [
       {
-        "type": "2 BHK Premium",
-        "carpetArea": "805 - 955 Sq.Ft.",
+        "type": "Configuration",
+        "carpetArea": "Carpet Area (sq.ft.)",
         "image": "/images/real_vtp/overview_dfe87892a1.jpg"
       },
       {
-        "type": "3 BHK Luxury",
-        "carpetArea": "1105 - 1285 Sq.Ft.",
+        "type": "2 BHK Homes",
+        "carpetArea": "761 - 855Sq.ft",
         "image": "/images/real_vtp/overview_dfe87892a1.jpg"
       },
       {
-        "type": "4 BHK Mansion",
-        "carpetArea": "1505+ Sq.Ft.",
+        "type": "3 BHK Homes",
+        "carpetArea": "975 - 1470Sq.ft",
         "image": "/images/real_vtp/monarque_hero.webp"
+      },
+      {
+        "type": "4 BHK Homes",
+        "carpetArea": "1750Sq.ft",
+        "image": "/assets/projects/vtp-cielo-bavdhan-pune/accurate-hero.webp&w=1200&q=75"
       }
     ],
     "maharera": [
       "P52100056310"
     ],
     "gallery": [
-      "/images/real_vtp/waterfall_15a1aa4cf5.webp",
-      "/images/real_vtp/monarque_hero.webp",
-      "/images/real_vtp/earth_one_hero.jpg",
-      "/images/real_vtp/overview_dfe87892a1.jpg",
-      "/images/real_vtp/monarque_hero.webp"
+      "/assets/projects/vtp-cielo-bavdhan-pune/accurate-gallery-1.svg",
+      "/assets/projects/vtp-cielo-bavdhan-pune/accurate-gallery-2.png&w=384&q=75",
+      "/assets/projects/vtp-cielo-bavdhan-pune/accurate-gallery-3.webp&w=3840&q=75",
+      "/assets/projects/vtp-cielo-bavdhan-pune/accurate-gallery-4.webp&w=3840&q=75",
+      "/assets/projects/vtp-cielo-bavdhan-pune/accurate-gallery-5.png&w=1200&q=75",
+      "/assets/projects/vtp-cielo-bavdhan-pune/accurate-gallery-6.png&w=3840&q=75"
     ]
   },
   {
@@ -592,7 +638,7 @@
     "township": "Township Pegasus",
     "name": "VTP AURELIA",
     "location": "Kharadi, Pune",
-    "image": "/images/real_vtp/1536_X703_2_ab6390d229.png",
+    "image": "/assets/projects/vtp-aurelia-kharadi-pune/accurate-hero.jpg&w=3840&q=75",
     "link": "https://vtprealty.in/projects/vtp-aurelia-kharadi-pune",
     "slug": "vtp-aurelia-kharadi-pune",
     "seoTitle": "VTP VTP AURELIA Kharadi | Buy Luxury 3 & 4 BHK Flats in Pune",
@@ -678,11 +724,12 @@
       "Awaited"
     ],
     "gallery": [
-      "/images/real_vtp/monarque_hero.webp",
-      "/images/real_vtp/waterfall_15a1aa4cf5.webp",
-      "/images/real_vtp/waterfall_15a1aa4cf5.webp",
-      "/images/real_vtp/waterfall_15a1aa4cf5.webp",
-      "/images/real_vtp/waterfall_15a1aa4cf5.webp"
+      "/assets/projects/vtp-aurelia-kharadi-pune/accurate-gallery-1.svg",
+      "/assets/projects/vtp-aurelia-kharadi-pune/accurate-gallery-2.png&w=384&q=75",
+      "/assets/projects/vtp-aurelia-kharadi-pune/accurate-gallery-3.png&w=3840&q=75",
+      "/assets/projects/vtp-aurelia-kharadi-pune/accurate-gallery-4.png&w=1200&q=75",
+      "/assets/projects/vtp-aurelia-kharadi-pune/accurate-gallery-5.jpg&w=3840&q=75",
+      "/assets/projects/vtp-aurelia-kharadi-pune/accurate-gallery-6.png&w=1200&q=75"
     ]
   },
   {
@@ -690,7 +737,7 @@
     "township": "Township BLUEWATERS",
     "name": "VTP VOLARE",
     "location": "Hinjawadi, Pune",
-    "image": "/assets/projects/earth-1/hero.jpg",
+    "image": "/assets/projects/vtp-volare-hinjawadi-pune/accurate-hero.webp&w=3840&q=75",
     "link": "https://vtprealty.in/projects/vtp-volare-hinjawadi-pune",
     "slug": "vtp-volare-hinjawadi-pune",
     "seoTitle": "VTP VTP VOLARE Hinjawadi | Buy Luxury 3 & 4 BHK Flats in Pune",
@@ -757,30 +804,46 @@
     "masterLayout": "/images/real_vtp/earth_one_hero.jpg",
     "floorPlans": [
       {
-        "type": "2 BHK Premium",
-        "carpetArea": "895 - 1045 Sq.Ft.",
+        "type": "Configuration",
+        "carpetArea": "Carpet Area (sq.ft.)",
         "image": "/images/real_vtp/waterfall_15a1aa4cf5.webp"
       },
       {
-        "type": "3 BHK Luxury",
-        "carpetArea": "1195 - 1375 Sq.Ft.",
+        "type": "2 BHK Homes",
+        "carpetArea": "616 - 782Sq.ft",
         "image": "/images/real_vtp/earth_one_hero.jpg"
       },
       {
-        "type": "4 BHK Mansion",
-        "carpetArea": "1595+ Sq.Ft.",
+        "type": "SMART 3BHK Homes",
+        "carpetArea": "871Sq.ft",
         "image": "/images/real_vtp/overview_dfe87892a1.jpg"
+      },
+      {
+        "type": "3 BHK Homes",
+        "carpetArea": "948 - 968Sq.ft",
+        "image": "/assets/projects/vtp-volare-hinjawadi-pune/accurate-hero.webp&w=3840&q=75"
+      },
+      {
+        "type": "SIMPLEX Homes",
+        "carpetArea": "1240 - 1732Sq.ft",
+        "image": "/assets/projects/vtp-volare-hinjawadi-pune/accurate-hero.webp&w=3840&q=75"
+      },
+      {
+        "type": "DUPLEX Homes",
+        "carpetArea": "1240 - 1936Sq.ft",
+        "image": "/assets/projects/vtp-volare-hinjawadi-pune/accurate-hero.webp&w=3840&q=75"
       }
     ],
     "maharera": [
-      "PR1260002400020"
+      "PR1260002400"
     ],
     "gallery": [
-      "/images/real_vtp/monarque_hero.webp",
-      "/images/real_vtp/monarque_hero.webp",
-      "/images/real_vtp/flamante_hero.jpg",
-      "/images/real_vtp/waterfall_15a1aa4cf5.webp",
-      "/images/real_vtp/monarque_hero.webp"
+      "/assets/projects/vtp-volare-hinjawadi-pune/accurate-gallery-1.png&w=384&q=75",
+      "/assets/projects/vtp-volare-hinjawadi-pune/accurate-gallery-2.svg",
+      "/assets/projects/vtp-volare-hinjawadi-pune/accurate-gallery-3.jpg&w=3840&q=75",
+      "/assets/projects/vtp-volare-hinjawadi-pune/accurate-gallery-4.png&w=1200&q=75",
+      "/assets/projects/vtp-volare-hinjawadi-pune/accurate-gallery-5.svg",
+      "/assets/projects/vtp-volare-hinjawadi-pune/accurate-gallery-6.svg"
     ]
   },
   {
@@ -788,7 +851,7 @@
     "township": "Township Skylights",
     "name": "VTP VERVE",
     "location": "Baner Sus Road, Pune",
-    "image": "/images/real_vtp/banner_be053a20bf.jpg",
+    "image": "/assets/projects/vtp-verve-baner-sus-road-pune/accurate-hero.jpg&w=3840&q=75",
     "link": "https://vtprealty.in/projects/vtp-verve-baner-sus-pune",
     "slug": "vtp-verve-baner-sus-road-pune",
     "seoTitle": "VTP VTP VERVE Baner Sus Road | Buy Luxury 3 & 4 BHK Flats in Pune",
@@ -874,11 +937,12 @@
       "P52100031556"
     ],
     "gallery": [
-      "/images/real_vtp/overview_dfe87892a1.jpg",
-      "/images/real_vtp/overview_dfe87892a1.jpg",
-      "/images/real_vtp/overview_dfe87892a1.jpg",
-      "/images/real_vtp/overview_dfe87892a1.jpg",
-      "/images/real_vtp/waterfall_15a1aa4cf5.webp"
+      "/assets/projects/vtp-verve-baner-sus-road-pune/accurate-gallery-1.png&w=384&q=75",
+      "/assets/projects/vtp-verve-baner-sus-road-pune/accurate-gallery-2.svg",
+      "/assets/projects/vtp-verve-baner-sus-road-pune/accurate-gallery-3.jpg&w=1200&q=75",
+      "/assets/projects/vtp-verve-baner-sus-road-pune/accurate-gallery-4.jpg&w=3840&q=75",
+      "/assets/projects/vtp-verve-baner-sus-road-pune/accurate-gallery-5.png&w=1200&q=75",
+      "/assets/projects/vtp-verve-baner-sus-road-pune/accurate-gallery-6.png&w=3840&q=75"
     ]
   },
   {
@@ -886,7 +950,7 @@
     "township": "Township Pegasus",
     "name": "VTP DOLCE VITA",
     "location": "New Kharadi, Pune",
-    "image": "/assets/projects/earth-1/hero.jpg",
+    "image": "/assets/projects/vtp-dolce-vita-new-kharadi-pune/accurate-hero.jpg&w=3840&q=75",
     "link": "https://vtprealty.in/projects/vtp-dolce-vita-kharadi-pune",
     "slug": "vtp-dolce-vita-new-kharadi-pune",
     "seoTitle": "VTP VTP DOLCE VITA New Kharadi | Buy Luxury 3 & 4 BHK Flats in Pune",
@@ -953,19 +1017,24 @@
     "masterLayout": "/images/real_vtp/waterfall_15a1aa4cf5.webp",
     "floorPlans": [
       {
-        "type": "2 BHK Premium",
-        "carpetArea": "970 - 1120 Sq.Ft.",
+        "type": "Configuration",
+        "carpetArea": "Carpet Area (sq.ft.)",
         "image": "/images/real_vtp/monarque_hero.webp"
       },
       {
-        "type": "3 BHK Luxury",
-        "carpetArea": "1270 - 1450 Sq.Ft.",
+        "type": "2 BHK Homes",
+        "carpetArea": "756 - 857Sq.ft",
         "image": "/images/real_vtp/monarque_hero.webp"
       },
       {
-        "type": "4 BHK Mansion",
-        "carpetArea": "1670+ Sq.Ft.",
+        "type": "3 BHK SMART Homes",
+        "carpetArea": "840 - 858Sq.ft",
         "image": "/images/real_vtp/overview_dfe87892a1.jpg"
+      },
+      {
+        "type": "3 BHK Homes",
+        "carpetArea": "928 - 1457Sq.ft",
+        "image": "/assets/projects/vtp-dolce-vita-new-kharadi-pune/accurate-hero.jpg&w=3840&q=75"
       }
     ],
     "maharera": [
@@ -975,11 +1044,12 @@
       "P52100055619"
     ],
     "gallery": [
-      "/images/real_vtp/overview_dfe87892a1.jpg",
-      "/images/real_vtp/flamante_hero.jpg",
-      "/images/real_vtp/earth_one_hero.jpg",
-      "/images/real_vtp/waterfall_15a1aa4cf5.webp",
-      "/images/real_vtp/earth_one_hero.jpg"
+      "/assets/projects/vtp-dolce-vita-new-kharadi-pune/accurate-gallery-1.png&w=384&q=75",
+      "/assets/projects/vtp-dolce-vita-new-kharadi-pune/accurate-gallery-2.svg",
+      "/assets/projects/vtp-dolce-vita-new-kharadi-pune/accurate-gallery-3.jpg&w=1200&q=75",
+      "/assets/projects/vtp-dolce-vita-new-kharadi-pune/accurate-gallery-4.jpg&w=3840&q=75",
+      "/assets/projects/vtp-dolce-vita-new-kharadi-pune/accurate-gallery-5.png&w=1200&q=75",
+      "/assets/projects/vtp-dolce-vita-new-kharadi-pune/accurate-gallery-6.png&w=3840&q=75"
     ]
   },
   {
@@ -987,7 +1057,7 @@
     "township": "Township Pegasus",
     "name": "VTP EUPHORIA",
     "location": "New Kharadi, Pune",
-    "image": "/assets/projects/earth-1/hero.jpg",
+    "image": "/assets/projects/vtp-euphoria-new-kharadi-pune/accurate-hero.png&w=3840&q=75",
     "link": "https://vtprealty.in/projects/vtp-euphoria-kharadi-pune",
     "slug": "vtp-euphoria-new-kharadi-pune",
     "seoTitle": "VTP VTP EUPHORIA New Kharadi | Buy Luxury 3 & 4 BHK Flats in Pune",
@@ -1054,19 +1124,24 @@
     "masterLayout": "/images/real_vtp/flamante_hero.jpg",
     "floorPlans": [
       {
-        "type": "2 BHK Premium",
-        "carpetArea": "985 - 1135 Sq.Ft.",
+        "type": "Configuration",
+        "carpetArea": "Carpet Area (sq.ft.)",
         "image": "/images/real_vtp/earth_one_hero.jpg"
       },
       {
-        "type": "3 BHK Luxury",
-        "carpetArea": "1285 - 1465 Sq.Ft.",
+        "type": "2 BHK Homes",
+        "carpetArea": "630 - 770Sq.ft",
         "image": "/images/real_vtp/overview_dfe87892a1.jpg"
       },
       {
-        "type": "4 BHK Mansion",
-        "carpetArea": "1685+ Sq.Ft.",
+        "type": "2 BHK (SUBLIME) Homes",
+        "carpetArea": "848 - 862Sq.ft",
         "image": "/images/real_vtp/overview_dfe87892a1.jpg"
+      },
+      {
+        "type": "3 BHK (SUBLIME) Homes",
+        "carpetArea": "1152 - 1236Sq.ft",
+        "image": "/assets/projects/vtp-euphoria-new-kharadi-pune/accurate-hero.png&w=3840&q=75"
       }
     ],
     "maharera": [
@@ -1076,11 +1151,12 @@
       "P52100049849"
     ],
     "gallery": [
-      "/images/real_vtp/waterfall_15a1aa4cf5.webp",
-      "/images/real_vtp/earth_one_hero.jpg",
-      "/images/real_vtp/earth_one_hero.jpg",
-      "/images/real_vtp/flamante_hero.jpg",
-      "/images/real_vtp/monarque_hero.webp"
+      "/assets/projects/vtp-euphoria-new-kharadi-pune/accurate-gallery-1.png&w=384&q=75",
+      "/assets/projects/vtp-euphoria-new-kharadi-pune/accurate-gallery-2.svg",
+      "/assets/projects/vtp-euphoria-new-kharadi-pune/accurate-gallery-3.jpg&w=1200&q=75",
+      "/assets/projects/vtp-euphoria-new-kharadi-pune/accurate-gallery-4.png&w=3840&q=75",
+      "/assets/projects/vtp-euphoria-new-kharadi-pune/accurate-gallery-5.png&w=1200&q=75",
+      "/assets/projects/vtp-euphoria-new-kharadi-pune/accurate-gallery-6.png&w=3840&q=75"
     ]
   },
   {
@@ -1088,7 +1164,7 @@
     "township": "Township Skylights",
     "name": "VTP SIERRA",
     "location": "Baner Sus Road, Pune",
-    "image": "/assets/projects/earth-1/hero.jpg",
+    "image": "/assets/projects/vtp-sierra-baner-sus-road-pune/accurate-hero.jpg&w=3840&q=75",
     "link": "https://vtprealty.in/projects/vtp-sierra-baner-sus-pune",
     "slug": "vtp-sierra-baner-sus-road-pune",
     "seoTitle": "VTP VTP SIERRA Baner Sus Road | Buy Luxury 3 & 4 BHK Flats in Pune",
@@ -1155,19 +1231,24 @@
     "masterLayout": "/images/real_vtp/monarque_hero.webp",
     "floorPlans": [
       {
-        "type": "2 BHK Premium",
-        "carpetArea": "1000 - 1150 Sq.Ft.",
+        "type": "Configuration",
+        "carpetArea": "Carpet Area (sq.ft.)",
         "image": "/images/real_vtp/earth_one_hero.jpg"
       },
       {
-        "type": "3 BHK Luxury",
-        "carpetArea": "1300 - 1480 Sq.Ft.",
+        "type": "2 BHK Homes",
+        "carpetArea": "720 - 845Sq.ft",
         "image": "/images/real_vtp/overview_dfe87892a1.jpg"
       },
       {
-        "type": "4 BHK Mansion",
-        "carpetArea": "1700+ Sq.Ft.",
+        "type": "SIMPLEX Homes",
+        "carpetArea": "1436 - 1690Sq.ft",
         "image": "/images/real_vtp/overview_dfe87892a1.jpg"
+      },
+      {
+        "type": "DUPLEX Homes",
+        "carpetArea": "1434 - 1690Sq.ft",
+        "image": "/assets/projects/vtp-sierra-baner-sus-road-pune/accurate-hero.jpg&w=3840&q=75"
       }
     ],
     "maharera": [
@@ -1175,11 +1256,12 @@
       "P52100029394"
     ],
     "gallery": [
-      "/images/real_vtp/monarque_hero.webp",
-      "/images/real_vtp/monarque_hero.webp",
-      "/images/real_vtp/overview_dfe87892a1.jpg",
-      "/images/real_vtp/earth_one_hero.jpg",
-      "/images/real_vtp/waterfall_15a1aa4cf5.webp"
+      "/assets/projects/vtp-sierra-baner-sus-road-pune/accurate-gallery-1.png&w=384&q=75",
+      "/assets/projects/vtp-sierra-baner-sus-road-pune/accurate-gallery-2.svg",
+      "/assets/projects/vtp-sierra-baner-sus-road-pune/accurate-gallery-3.webp&w=1200&q=75",
+      "/assets/projects/vtp-sierra-baner-sus-road-pune/accurate-gallery-4.jpg&w=3840&q=75",
+      "/assets/projects/vtp-sierra-baner-sus-road-pune/accurate-gallery-5.png&w=1200&q=75",
+      "/assets/projects/vtp-sierra-baner-sus-road-pune/accurate-gallery-6.png&w=3840&q=75"
     ]
   },
   {
@@ -1187,7 +1269,7 @@
     "township": "Township",
     "name": "ALTITUDE",
     "location": "Wakad, Pune",
-    "image": "/assets/projects/earth-1/hero.jpg",
+    "image": "/assets/projects/vtp-altitude-wakad-pune/accurate-hero.jpg&w=3840&q=75",
     "link": "https://vtprealty.in/projects/vtp-altitude-wakad-pune",
     "slug": "vtp-altitude-wakad-pune",
     "seoTitle": "VTP ALTITUDE Wakad | Buy Luxury 3 & 4 BHK Flats in Pune",
@@ -1273,11 +1355,12 @@
       "P52100024885"
     ],
     "gallery": [
-      "/images/real_vtp/overview_dfe87892a1.jpg",
-      "/images/real_vtp/overview_dfe87892a1.jpg",
-      "/images/real_vtp/earth_one_hero.jpg",
-      "/images/real_vtp/overview_dfe87892a1.jpg",
-      "/images/real_vtp/overview_dfe87892a1.jpg"
+      "/assets/projects/vtp-altitude-wakad-pune/accurate-gallery-1.png&w=384&q=75",
+      "/assets/projects/vtp-altitude-wakad-pune/accurate-gallery-2.svg",
+      "/assets/projects/vtp-altitude-wakad-pune/accurate-gallery-3.jpg&w=3840&q=75",
+      "/assets/projects/vtp-altitude-wakad-pune/accurate-gallery-4.png&w=1200&q=75",
+      "/assets/projects/vtp-altitude-wakad-pune/accurate-gallery-5.png&w=3840&q=75",
+      "/assets/projects/vtp-altitude-wakad-pune/accurate-gallery-6.png&w=3840&q=75"
     ]
   },
   {
@@ -1285,7 +1368,7 @@
     "township": "Township",
     "name": "VTP AETHEREUS HIGH STREET",
     "location": "Mahalunge, Pune",
-    "image": "/assets/projects/earth-1/hero.jpg",
+    "image": "/assets/projects/vtp-aethereus-high-street-mahalunge-pune/accurate-hero.jpg&w=3840&q=75",
     "link": "https://vtprealty.in/projects/vtp-aethereus-high-street-mahalunge-pune",
     "slug": "vtp-aethereus-high-street-mahalunge-pune",
     "seoTitle": "VTP VTP AETHEREUS HIGH STREET Mahalunge | Buy Luxury 3 & 4 BHK Flats in Pune",
@@ -1372,11 +1455,12 @@
       "P52100028131"
     ],
     "gallery": [
-      "/images/real_vtp/earth_one_hero.jpg",
-      "/images/real_vtp/waterfall_15a1aa4cf5.webp",
-      "/images/real_vtp/waterfall_15a1aa4cf5.webp",
-      "/images/real_vtp/waterfall_15a1aa4cf5.webp",
-      "/images/real_vtp/overview_dfe87892a1.jpg"
+      "/assets/projects/vtp-aethereus-high-street-mahalunge-pune/accurate-gallery-1.png&w=384&q=75",
+      "/assets/projects/vtp-aethereus-high-street-mahalunge-pune/accurate-gallery-2.svg",
+      "/assets/projects/vtp-aethereus-high-street-mahalunge-pune/accurate-gallery-3.jpg&w=3840&q=75",
+      "/assets/projects/vtp-aethereus-high-street-mahalunge-pune/accurate-gallery-4.png&w=1200&q=75",
+      "/assets/projects/vtp-aethereus-high-street-mahalunge-pune/accurate-gallery-5.png&w=3840&q=75",
+      "/assets/projects/vtp-aethereus-high-street-mahalunge-pune/accurate-gallery-6.png&w=3840&q=75"
     ]
   },
   {
@@ -1458,9 +1542,12 @@
       "P52100019559"
     ],
     "gallery": [
-      "/images/real_vtp/monarque_hero.webp",
-      "/images/real_vtp/flamante_hero.jpg",
-      "/images/real_vtp/overview_dfe87892a1.jpg"
+      "/assets/projects/vtp-leonara-mahalunge-pune/accurate-gallery-1.png&w=384&q=75",
+      "/assets/projects/vtp-leonara-mahalunge-pune/accurate-gallery-2.svg",
+      "/assets/projects/vtp-leonara-mahalunge-pune/accurate-gallery-3.jpg",
+      "/assets/projects/vtp-leonara-mahalunge-pune/accurate-gallery-4.svg",
+      "/assets/projects/vtp-leonara-mahalunge-pune/accurate-gallery-5.png&w=256&q=75",
+      "/assets/projects/vtp-leonara-mahalunge-pune/accurate-gallery-6.webp&w=3840&q=75"
     ]
   },
   {
@@ -1538,9 +1625,12 @@
       "P52100020368"
     ],
     "gallery": [
-      "/images/real_vtp/flamante_hero.jpg",
-      "/images/real_vtp/flamante_hero.jpg",
-      "/images/real_vtp/overview_dfe87892a1.jpg"
+      "/assets/projects/vtp-bel-air-mahalunge-pune/accurate-gallery-1.png&w=384&q=75",
+      "/assets/projects/vtp-bel-air-mahalunge-pune/accurate-gallery-2.svg",
+      "/assets/projects/vtp-bel-air-mahalunge-pune/accurate-gallery-3.jpg",
+      "/assets/projects/vtp-bel-air-mahalunge-pune/accurate-gallery-4.svg",
+      "/assets/projects/vtp-bel-air-mahalunge-pune/accurate-gallery-5.png&w=256&q=75",
+      "/assets/projects/vtp-bel-air-mahalunge-pune/accurate-gallery-6.webp&w=3840&q=75"
     ]
   },
   {
@@ -1617,8 +1707,12 @@
       "P52100020112"
     ],
     "gallery": [
-      "/images/real_vtp/waterfall_15a1aa4cf5.webp",
-      "/images/real_vtp/overview_dfe87892a1.jpg"
+      "/assets/projects/vtp-alpine-mahalunge-pune/accurate-gallery-1.png&w=384&q=75",
+      "/assets/projects/vtp-alpine-mahalunge-pune/accurate-gallery-2.svg",
+      "/assets/projects/vtp-alpine-mahalunge-pune/accurate-gallery-3.jpg",
+      "/assets/projects/vtp-alpine-mahalunge-pune/accurate-gallery-4.svg",
+      "/assets/projects/vtp-alpine-mahalunge-pune/accurate-gallery-5.png&w=256&q=75",
+      "/assets/projects/vtp-alpine-mahalunge-pune/accurate-gallery-6.webp&w=3840&q=75"
     ]
   },
   {
@@ -1695,8 +1789,12 @@
       "P52100026857"
     ],
     "gallery": [
-      "/images/real_vtp/w_EB_b_ANNER_1920_X1080_ca362a2b3f.jpg",
-      "/images/real_vtp/monarque_hero.webp"
+      "/assets/projects/vtp-cygnus-kharadi-pune/accurate-gallery-1.png&w=384&q=75",
+      "/assets/projects/vtp-cygnus-kharadi-pune/accurate-gallery-2.svg",
+      "/assets/projects/vtp-cygnus-kharadi-pune/accurate-gallery-3.jpg",
+      "/assets/projects/vtp-cygnus-kharadi-pune/accurate-gallery-4.svg",
+      "/assets/projects/vtp-cygnus-kharadi-pune/accurate-gallery-5.png&w=256&q=75",
+      "/assets/projects/vtp-cygnus-kharadi-pune/accurate-gallery-6.webp&w=3840&q=75"
     ]
   },
   {
@@ -1773,8 +1871,12 @@
       "P52100030588"
     ],
     "gallery": [
-      "/images/real_vtp/banner_be053a20bf.jpg",
-      "/images/real_vtp/waterfall_15a1aa4cf5.webp"
+      "/assets/projects/vtp-bellissimo-hinjawadi-pune/accurate-gallery-1.png&w=384&q=75",
+      "/assets/projects/vtp-bellissimo-hinjawadi-pune/accurate-gallery-2.svg",
+      "/assets/projects/vtp-bellissimo-hinjawadi-pune/accurate-gallery-3.jpg",
+      "/assets/projects/vtp-bellissimo-hinjawadi-pune/accurate-gallery-4.svg",
+      "/assets/projects/vtp-bellissimo-hinjawadi-pune/accurate-gallery-5.png&w=256&q=75",
+      "/assets/projects/vtp-bellissimo-hinjawadi-pune/accurate-gallery-6.webp&w=3840&q=75"
     ]
   }
 ]

@@ -20,69 +20,34 @@ export async function onRequestPost(context) {
 
     let lead = null;
 
-    // Cloudflare MailChannels Integration (Works out of the box for Pages)
+    // Web3Forms Integration - Flawless, Serverless Email Delivery
     try {
-      const emailContent = `
-New Enquiry Received!
-
-Name: ${data.name}
-Email: ${data.email || 'N/A'}
-Phone: ${data.phone}
-Project/Source: ${data.project || 'Website Enquiry'}
-Location: ${data.location || 'N/A'}
-Configuration: ${data.configuration || 'N/A'}
-
-Message:
-${data.message || 'N/A'}
-      `;
-
-      const mailchannelsResponse = await fetch('https://api.mailchannels.net/tx/v1/send', {
-        method: 'POST',
-        headers: {
-          'content-type': 'application/json',
-        },
-        body: JSON.stringify({
-          personalizations: [
-            {
-              to: [{ email: 'propsmartrealty@gmail.com', name: 'Sales Team' }],
-            },
-          ],
-          from: {
-            email: 'leads@vtpbluewaters.com',
-            name: 'VTP Bluewaters Website',
-          },
-          subject: `New Lead: ${data.name} - ${data.project || 'Website Enquiry'}`,
-          content: [
-            {
-              type: 'text/plain',
-              value: emailContent,
-            },
-          ],
-        }),
-      });
-
-      if (!mailchannelsResponse.ok) {
-        const errorText = await mailchannelsResponse.text();
-        console.error('MailChannels Error:', errorText);
-      }
-    } catch (emailError) {
-      console.error('Failed to send MailChannels email notification:', emailError);
-    }
-
-    // Google Apps Script Email Sending
-    try {
-      await fetch('https://script.google.com/macros/s/AKfycbwXEA-JwXyi92dgvncHSuLuQkVeK4YzvNhvvkPksWkslUjo-gKUQEUCMXiKsq89SMkQ/exec', {
+      const web3formsRes = await fetch('https://api.web3forms.com/submit', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
+          'Accept': 'application/json'
         },
         body: JSON.stringify({
-          ...data,
-          source: (data.project || data.source || 'Website Enquiry') + (data.location ? ` - ${data.location}` : '')
+          access_key: "01d09588-d933-46ef-b70a-120c6aa71e5a",
+          subject: `🚨 New Lead: ${data.name || 'Unknown'} — ${data.project || 'Website Enquiry'}`,
+          from_name: "VTP Bluewaters Leads",
+          name: data.name,
+          email: data.email || 'N/A',
+          phone: data.phone,
+          project: data.project || 'Website Enquiry',
+          configuration: data.configuration || 'N/A',
+          location: data.location || 'N/A',
+          message: data.message || 'N/A'
         })
       });
+      
+      const web3formsData = await web3formsRes.json();
+      if (!web3formsData.success) {
+        console.error('Web3Forms Error:', web3formsData);
+      }
     } catch (emailError) {
-      console.error('Failed to send Google Apps Script email notification:', emailError);
+      console.error('Failed to send Web3Forms email notification:', emailError);
     }
 
     return new Response(JSON.stringify({ success: true, lead }), {
