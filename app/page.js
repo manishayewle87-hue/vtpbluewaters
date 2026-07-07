@@ -7,9 +7,7 @@ import FAQSection from '@/app/components/ui/FAQSection';
 
 
 
-export function generateStaticParams() {
-  return [{ lang: 'en' }];
-}
+
 
 export default async function LanguageRoot({ params }) {
   

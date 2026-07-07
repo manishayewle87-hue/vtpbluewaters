@@ -110,6 +110,3 @@ export default async function InsightsHub() {
 }
 
 
-export function generateStaticParams() {
-  return [{ lang: 'en' }];
-}

@@ -27,6 +27,4 @@ export default function TownshipPage() {
 }
 
 
-export function generateStaticParams() {
-  return [{ lang: 'en' }];
-}
+

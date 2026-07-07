@@ -54,6 +54,4 @@ export default function FAQPage() {
 }
 
 
-export function generateStaticParams() {
-  return [{ lang: 'en' }];
-}
+

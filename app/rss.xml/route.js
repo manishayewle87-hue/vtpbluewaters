@@ -1,6 +1,6 @@
 import { cms } from '../services/cms';
 
-
+export const dynamic = 'force-static';
 
 export async function GET() {
   const blogs = await cms.getAllBlogs();
@@ -57,6 +57,4 @@ export async function GET() {
 }
 
 
-export function generateStaticParams() {
-  return [{ lang: 'en' }];
-}
+

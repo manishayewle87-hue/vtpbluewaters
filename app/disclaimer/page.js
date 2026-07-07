@@ -41,6 +41,4 @@ export default function DisclaimerPage() {
 }
 
 
-export function generateStaticParams() {
-  return [{ lang: 'en' }];
-}
+

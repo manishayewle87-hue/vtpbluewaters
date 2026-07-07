@@ -45,6 +45,4 @@ export default function PrivacyPolicyPage() {
 }
 
 
-export function generateStaticParams() {
-  return [{ lang: 'en' }];
-}
+

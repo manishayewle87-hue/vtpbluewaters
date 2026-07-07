@@ -45,6 +45,4 @@ export default function TermsOfUsePage() {
 }
 
 
-export function generateStaticParams() {
-  return [{ lang: 'en' }];
-}
+
