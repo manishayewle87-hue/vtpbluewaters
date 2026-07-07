@@ -58,7 +58,7 @@ export const metadata = {
     images: ['/assets/projects/earth-1/hero.jpg']
   },
   verification: {
-    google: process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION || ''
+    google: '0ziqnRFUOxCq-61sxxcMTCRrvPIFd0W0pOoyy57XkKw'
   },
   icons: {
     icon: '/icon.svg'
