@@ -49,7 +49,7 @@ export async function generateMetadata({ params }) {
     title,
     description,
     alternates: {
-      canonical: `https://vtpbluewaters.com/${params.lang}/projects/${project.slug}/${intent}`},
+      canonical: `https://vtpbluewaters.com/projects/${project.slug}/${intent}`},
     openGraph: {
       title,
       description,

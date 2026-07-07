@@ -30,7 +30,7 @@ export async function generateMetadata({ params }) {
     title: project.seoTitle,
     description: project.seoDescription,
     alternates: {
-      canonical: `https://vtpbluewaters.com/${(await params).lang}/projects/${project.slug}`},
+      canonical: `https://vtpbluewaters.com/projects/${project.slug}`},
     openGraph: {
       title: project.seoTitle,
       description: project.seoDescription,

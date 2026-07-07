@@ -25,7 +25,7 @@ export function generateProjectMeta(project, lang = 'en') {
     title,
     description,
     alternates: {
-      canonical: `${BASE_URL}${lang === 'en' ? '/' : '/' + lang + '/'}projects/${project.slug}`,
+      canonical: `${BASE_URL}/projects/${project.slug}`,
     },
     openGraph: {
       title,
@@ -58,7 +58,7 @@ export function generateProjectIntentMeta(project, intent, lang = 'en') {
     title,
     description,
     alternates: {
-      canonical: `${BASE_URL}${lang === 'en' ? '/' : '/' + lang + '/'}projects/${project.slug}/${intent}`,
+      canonical: `${BASE_URL}/projects/${project.slug}/${intent}`,
     },
     openGraph: {
       title,
@@ -87,7 +87,7 @@ export function generateLocationMeta(location, lang = 'en') {
     title,
     description,
     alternates: {
-      canonical: `${BASE_URL}${lang === 'en' ? '/' : '/' + lang + '/'}locations/${location.slug}`,
+      canonical: `${BASE_URL}/locations/${location.slug}`,
     },
     openGraph: {
       title,
@@ -117,7 +117,7 @@ export function generateLocationIntentMeta(location, intent, lang = 'en') {
     title,
     description,
     alternates: {
-      canonical: `${BASE_URL}${lang === 'en' ? '/' : '/' + lang + '/'}locations/${location.slug}/${intent}`,
+      canonical: `${BASE_URL}/locations/${location.slug}/${intent}`,
     },
     openGraph: {
       title,
@@ -145,7 +145,7 @@ export function generateBlogMeta(blog, lang = 'en') {
     title,
     description,
     alternates: {
-      canonical: `${BASE_URL}${lang === 'en' ? '/' : '/' + lang + '/'}blog/${blog.slug}`,
+      canonical: `${BASE_URL}/blog/${blog.slug}`,
     },
     openGraph: {
       title,
@@ -175,7 +175,7 @@ export function generateInsightMeta(article, category, lang = 'en') {
     title,
     description,
     alternates: {
-      canonical: `${BASE_URL}${lang === 'en' ? '/' : '/' + lang + '/'}insights/${category}/${article.slug}`,
+      canonical: `${BASE_URL}/insights/${category}/${article.slug}`,
     },
     openGraph: {
       title,
