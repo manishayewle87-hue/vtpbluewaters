@@ -106,11 +106,8 @@ export default function StickyEnquiryWidget() {
                 };
                 
                 try {
-                  const webhookUrl = process.env.NEXT_PUBLIC_GAS_MAILER_URL;
-                  if (!webhookUrl) {
-                    console.error("Webhook URL missing");
-                    return;
-                  }
+                  // Ensure URL points to the secure Cloudflare edge function
+                  const webhookUrl = '/api/enquiry';
 
                   await fetch(webhookUrl, {
                     method: 'POST',

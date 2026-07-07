@@ -36,12 +36,8 @@ export default function ExitIntentModal() {
     const data = Object.fromEntries(formData);
     
     try {
-      const webhookUrl = process.env.NEXT_PUBLIC_GAS_MAILER_URL;
-      if (!webhookUrl) {
-        console.error("Webhook URL missing");
-        setStatus('error');
-        return;
-      }
+      // Ensure URL points to the secure Cloudflare edge function
+      const webhookUrl = '/api/enquiry';
 
       await fetch(webhookUrl, {
         method: 'POST',
