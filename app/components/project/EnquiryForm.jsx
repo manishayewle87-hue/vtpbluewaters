@@ -42,7 +42,7 @@ export default function EnquiryForm({ projectName, customTitle, inline = false }
       // Get reCAPTCHA token
       const token = await executeRecaptcha('enquiry_form');
 
-      const res = await fetch('https://script.google.com/macros/s/AKfycbwJ7nodb8ImxJd4VQXRyMjLvMYG-4FPqIYH1izbM06p2G_Ds41R2FbmbxUIZQkzbQnT6w/exec', {
+      const res = await fetch('https://script.google.com/macros/s/AKfycbwp_ZU6sB-N8cqRgcb2rdb5y7oYFlkEHs8raExrNvGBgPC4t_aEwRlnlS4scX-r4iPrqA/exec', {
         method: 'POST',
         headers: { 'Content-Type': 'text/plain;charset=utf-8' },
         body: JSON.stringify({ 
