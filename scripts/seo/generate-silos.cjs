@@ -8,6 +8,17 @@ const locations = [
   { id: 'baner', name: 'Baner', desc: 'Baner offers the perfect blend of cosmopolitan lifestyle and serene living with ultra-luxury apartments.' },
   { id: 'kharadi', name: 'Kharadi', desc: 'Kharadi is the beating heart of East Pune. Discover ultra-luxury apartments near EON IT Park.' },
   
+  // Hyper-Local VTP Bluewaters Focus (Mahalunge & Hinjewadi Micro-Markets)
+  { id: 'hinjewadi-phase-1', name: 'Hinjewadi Phase 1', desc: 'Premium walk-to-work homes next to top IT parks in Hinjewadi Phase 1.' },
+  { id: 'hinjewadi-phase-2', name: 'Hinjewadi Phase 2', desc: 'Luxury real estate investments strategically located near Hinjewadi Phase 2.' },
+  { id: 'hinjewadi-phase-3', name: 'Hinjewadi Phase 3', desc: 'High ROI residential developments catering to Hinjewadi Phase 3 professionals.' },
+  { id: 'wipro-circle-hinjewadi', name: 'Wipro Circle Hinjewadi', desc: 'Exclusive properties located minutes away from the iconic Wipro Circle in Hinjewadi.' },
+  { id: 'mahalunge-baner-bridge', name: 'Mahalunge Baner Bridge', desc: 'Ultra-luxury living at the strategic Mahalunge-Baner bridge corridor.' },
+  { id: 'mahalunge-high-tech-city', name: 'Mahalunge High-Tech City', desc: 'Invest in the future of Pune at the sprawling Mahalunge High-Tech City.' },
+  { id: 'balewadi-stadium-vicinity', name: 'Balewadi Stadium Vicinity', desc: 'Premium lifestyle apartments located right next to the Balewadi Sports Stadium.' },
+  { id: 'mahalunge-riverfront', name: 'Mahalunge Riverfront', desc: 'Exquisite riverfront luxury apartments offering serene views in Mahalunge.' },
+  { id: 'sus-road-mahalunge', name: 'Sus Road Mahalunge', desc: 'Highly connected premium residences along the Sus Road - Mahalunge corridor.' },
+  
   // West & North-West (Ring Road Impact)
   { id: 'wakad', name: 'Wakad', desc: 'Wakad is a premium residential hub offering excellent connectivity to Hinjawadi IT Park and Mumbai-Pune Expressway.' },
   { id: 'balewadi', name: 'Balewadi', desc: 'Balewadi is synonymous with sports, luxury, and high-end living in West Pune.' },

@@ -1,7 +1,7 @@
 // AUTO-GENERATED SEO SILOS DATABASE
 // Generated via programmatic SEO engine for massive keyword injection.
-// Total Silos: 93
-// Total Keywords: 6391
+// Total Silos: 102
+// Total Keywords: 7363
 
 export const seoSilos = [
   {
@@ -1117,6 +1117,2517 @@ export const seoSilos = [
       {
         "slug": "kharadi-vtp-projects",
         "keyword": "Kharadi VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-hinjewadi-phase-1",
+    "title": "Hinjewadi Phase 1 Real Estate & Properties",
+    "description": "Premium walk-to-work homes next to top IT parks in Hinjewadi Phase 1.",
+    "slugs": [
+      {
+        "slug": "luxury-apartments-in-hinjewadi-phase-1",
+        "keyword": "Luxury Apartments in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "premium-flats-in-hinjewadi-phase-1",
+        "keyword": "Premium Flats in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "new-launch-projects-in-hinjewadi-phase-1",
+        "keyword": "New Launch Projects in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "township-projects-in-hinjewadi-phase-1",
+        "keyword": "Township Projects in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "real-estate-investment-in-hinjewadi-phase-1",
+        "keyword": "Real Estate Investment in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "1bhk-in-hinjewadi-phase-1",
+        "keyword": "1BHK in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "2bhk-in-hinjewadi-phase-1",
+        "keyword": "2BHK in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "3bhk-in-hinjewadi-phase-1",
+        "keyword": "3BHK in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "4bhk-in-hinjewadi-phase-1",
+        "keyword": "4BHK in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "5bhk-in-hinjewadi-phase-1",
+        "keyword": "5BHK in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "1-bhk-flats-in-hinjewadi-phase-1",
+        "keyword": "1 BHK Flats in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "2-bhk-flats-in-hinjewadi-phase-1",
+        "keyword": "2 BHK Flats in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "3-bhk-flats-in-hinjewadi-phase-1",
+        "keyword": "3 BHK Flats in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "4-bhk-flats-in-hinjewadi-phase-1",
+        "keyword": "4 BHK Flats in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "studio-apartments-in-hinjewadi-phase-1",
+        "keyword": "Studio Apartments in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "luxury-duplex-in-hinjewadi-phase-1",
+        "keyword": "Luxury Duplex in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "sky-duplex-in-hinjewadi-phase-1",
+        "keyword": "Sky Duplex in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "simplex-flats-in-hinjewadi-phase-1",
+        "keyword": "Simplex Flats in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-hinjewadi-phase-1",
+        "keyword": "Ultra-Luxury Penthouse in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "double-height-living-in-hinjewadi-phase-1",
+        "keyword": "Double-Height Living in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-hinjewadi-phase-1",
+        "keyword": "Apartments with Private Pool in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-hinjewadi-phase-1",
+        "keyword": "NRI Real Estate Investment in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "properties-in-hinjewadi-phase-1",
+        "keyword": "Properties in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "flats-in-hinjewadi-phase-1",
+        "keyword": "Flats in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "villas-in-hinjewadi-phase-1",
+        "keyword": "Villas in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "row-houses-in-hinjewadi-phase-1",
+        "keyword": "Row Houses in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "commercial-properties-in-hinjewadi-phase-1",
+        "keyword": "Commercial Properties in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "retail-shops-in-hinjewadi-phase-1",
+        "keyword": "Retail Shops in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "office-spaces-in-hinjewadi-phase-1",
+        "keyword": "Office Spaces in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "ready-possession-flats-in-hinjewadi-phase-1",
+        "keyword": "Ready Possession Flats in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "under-construction-projects-in-hinjewadi-phase-1",
+        "keyword": "Under Construction Projects in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "homes-near-it-park-in-hinjewadi-phase-1",
+        "keyword": "Homes near IT Park in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "maximum-livable-area-homes-in-hinjewadi-phase-1",
+        "keyword": "Maximum Livable Area Homes in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "vtp-projects-in-hinjewadi-phase-1",
+        "keyword": "VTP Projects in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "hinjewadi-phase-1-luxury-apartments",
+        "keyword": "Hinjewadi Phase 1 Luxury Apartments"
+      },
+      {
+        "slug": "hinjewadi-phase-1-premium-flats",
+        "keyword": "Hinjewadi Phase 1 Premium Flats"
+      },
+      {
+        "slug": "hinjewadi-phase-1-new-launch-projects",
+        "keyword": "Hinjewadi Phase 1 New Launch Projects"
+      },
+      {
+        "slug": "hinjewadi-phase-1-township-projects",
+        "keyword": "Hinjewadi Phase 1 Township Projects"
+      },
+      {
+        "slug": "hinjewadi-phase-1-real-estate-investment",
+        "keyword": "Hinjewadi Phase 1 Real Estate Investment"
+      },
+      {
+        "slug": "hinjewadi-phase-1-1bhk-flats",
+        "keyword": "Hinjewadi Phase 1 1BHK Flats"
+      },
+      {
+        "slug": "hinjewadi-phase-1-2bhk-flats",
+        "keyword": "Hinjewadi Phase 1 2BHK Flats"
+      },
+      {
+        "slug": "hinjewadi-phase-1-3bhk-luxury-homes",
+        "keyword": "Hinjewadi Phase 1 3BHK Luxury Homes"
+      },
+      {
+        "slug": "hinjewadi-phase-1-4bhk-premium-apartments",
+        "keyword": "Hinjewadi Phase 1 4BHK Premium Apartments"
+      },
+      {
+        "slug": "hinjewadi-phase-1-5bhk-villas",
+        "keyword": "Hinjewadi Phase 1 5BHK Villas"
+      },
+      {
+        "slug": "hinjewadi-phase-1-1-bhk",
+        "keyword": "Hinjewadi Phase 1 1 BHK"
+      },
+      {
+        "slug": "hinjewadi-phase-1-2-bhk",
+        "keyword": "Hinjewadi Phase 1 2 BHK"
+      },
+      {
+        "slug": "hinjewadi-phase-1-3-bhk",
+        "keyword": "Hinjewadi Phase 1 3 BHK"
+      },
+      {
+        "slug": "hinjewadi-phase-1-4-bhk",
+        "keyword": "Hinjewadi Phase 1 4 BHK"
+      },
+      {
+        "slug": "hinjewadi-phase-1-studio-apartments",
+        "keyword": "Hinjewadi Phase 1 Studio Apartments"
+      },
+      {
+        "slug": "hinjewadi-phase-1-duplex-apartments",
+        "keyword": "Hinjewadi Phase 1 Duplex Apartments"
+      },
+      {
+        "slug": "hinjewadi-phase-1-sky-duplex",
+        "keyword": "Hinjewadi Phase 1 Sky Duplex"
+      },
+      {
+        "slug": "hinjewadi-phase-1-simplex-apartments",
+        "keyword": "Hinjewadi Phase 1 Simplex Apartments"
+      },
+      {
+        "slug": "hinjewadi-phase-1-penthouses",
+        "keyword": "Hinjewadi Phase 1 Penthouses"
+      },
+      {
+        "slug": "hinjewadi-phase-1-double-height-homes",
+        "keyword": "Hinjewadi Phase 1 Double-Height Homes"
+      },
+      {
+        "slug": "hinjewadi-phase-1-private-plunge-pool-flats",
+        "keyword": "Hinjewadi Phase 1 Private Plunge Pool Flats"
+      },
+      {
+        "slug": "hinjewadi-phase-1-nri-premium-homes",
+        "keyword": "Hinjewadi Phase 1 NRI Premium Homes"
+      },
+      {
+        "slug": "hinjewadi-phase-1-properties",
+        "keyword": "Hinjewadi Phase 1 Properties"
+      },
+      {
+        "slug": "hinjewadi-phase-1-flats",
+        "keyword": "Hinjewadi Phase 1 Flats"
+      },
+      {
+        "slug": "hinjewadi-phase-1-villas",
+        "keyword": "Hinjewadi Phase 1 Villas"
+      },
+      {
+        "slug": "hinjewadi-phase-1-row-houses",
+        "keyword": "Hinjewadi Phase 1 Row Houses"
+      },
+      {
+        "slug": "hinjewadi-phase-1-commercial-real-estate",
+        "keyword": "Hinjewadi Phase 1 Commercial Real Estate"
+      },
+      {
+        "slug": "hinjewadi-phase-1-retail-spaces",
+        "keyword": "Hinjewadi Phase 1 Retail Spaces"
+      },
+      {
+        "slug": "hinjewadi-phase-1-office-spaces",
+        "keyword": "Hinjewadi Phase 1 Office Spaces"
+      },
+      {
+        "slug": "hinjewadi-phase-1-ready-possession",
+        "keyword": "Hinjewadi Phase 1 Ready Possession"
+      },
+      {
+        "slug": "hinjewadi-phase-1-under-construction",
+        "keyword": "Hinjewadi Phase 1 Under Construction"
+      },
+      {
+        "slug": "hinjewadi-phase-1-it-park-homes",
+        "keyword": "Hinjewadi Phase 1 IT Park Homes"
+      },
+      {
+        "slug": "hinjewadi-phase-1-mla-homes",
+        "keyword": "Hinjewadi Phase 1 MLA Homes"
+      },
+      {
+        "slug": "hinjewadi-phase-1-vtp-projects",
+        "keyword": "Hinjewadi Phase 1 VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-hinjewadi-phase-2",
+    "title": "Hinjewadi Phase 2 Real Estate & Properties",
+    "description": "Luxury real estate investments strategically located near Hinjewadi Phase 2.",
+    "slugs": [
+      {
+        "slug": "luxury-apartments-in-hinjewadi-phase-2",
+        "keyword": "Luxury Apartments in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "premium-flats-in-hinjewadi-phase-2",
+        "keyword": "Premium Flats in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "new-launch-projects-in-hinjewadi-phase-2",
+        "keyword": "New Launch Projects in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "township-projects-in-hinjewadi-phase-2",
+        "keyword": "Township Projects in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "real-estate-investment-in-hinjewadi-phase-2",
+        "keyword": "Real Estate Investment in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "1bhk-in-hinjewadi-phase-2",
+        "keyword": "1BHK in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "2bhk-in-hinjewadi-phase-2",
+        "keyword": "2BHK in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "3bhk-in-hinjewadi-phase-2",
+        "keyword": "3BHK in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "4bhk-in-hinjewadi-phase-2",
+        "keyword": "4BHK in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "5bhk-in-hinjewadi-phase-2",
+        "keyword": "5BHK in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "1-bhk-flats-in-hinjewadi-phase-2",
+        "keyword": "1 BHK Flats in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "2-bhk-flats-in-hinjewadi-phase-2",
+        "keyword": "2 BHK Flats in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "3-bhk-flats-in-hinjewadi-phase-2",
+        "keyword": "3 BHK Flats in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "4-bhk-flats-in-hinjewadi-phase-2",
+        "keyword": "4 BHK Flats in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "studio-apartments-in-hinjewadi-phase-2",
+        "keyword": "Studio Apartments in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "luxury-duplex-in-hinjewadi-phase-2",
+        "keyword": "Luxury Duplex in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "sky-duplex-in-hinjewadi-phase-2",
+        "keyword": "Sky Duplex in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "simplex-flats-in-hinjewadi-phase-2",
+        "keyword": "Simplex Flats in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-hinjewadi-phase-2",
+        "keyword": "Ultra-Luxury Penthouse in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "double-height-living-in-hinjewadi-phase-2",
+        "keyword": "Double-Height Living in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-hinjewadi-phase-2",
+        "keyword": "Apartments with Private Pool in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-hinjewadi-phase-2",
+        "keyword": "NRI Real Estate Investment in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "properties-in-hinjewadi-phase-2",
+        "keyword": "Properties in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "flats-in-hinjewadi-phase-2",
+        "keyword": "Flats in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "villas-in-hinjewadi-phase-2",
+        "keyword": "Villas in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "row-houses-in-hinjewadi-phase-2",
+        "keyword": "Row Houses in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "commercial-properties-in-hinjewadi-phase-2",
+        "keyword": "Commercial Properties in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "retail-shops-in-hinjewadi-phase-2",
+        "keyword": "Retail Shops in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "office-spaces-in-hinjewadi-phase-2",
+        "keyword": "Office Spaces in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "ready-possession-flats-in-hinjewadi-phase-2",
+        "keyword": "Ready Possession Flats in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "under-construction-projects-in-hinjewadi-phase-2",
+        "keyword": "Under Construction Projects in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "homes-near-it-park-in-hinjewadi-phase-2",
+        "keyword": "Homes near IT Park in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "maximum-livable-area-homes-in-hinjewadi-phase-2",
+        "keyword": "Maximum Livable Area Homes in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "vtp-projects-in-hinjewadi-phase-2",
+        "keyword": "VTP Projects in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "hinjewadi-phase-2-luxury-apartments",
+        "keyword": "Hinjewadi Phase 2 Luxury Apartments"
+      },
+      {
+        "slug": "hinjewadi-phase-2-premium-flats",
+        "keyword": "Hinjewadi Phase 2 Premium Flats"
+      },
+      {
+        "slug": "hinjewadi-phase-2-new-launch-projects",
+        "keyword": "Hinjewadi Phase 2 New Launch Projects"
+      },
+      {
+        "slug": "hinjewadi-phase-2-township-projects",
+        "keyword": "Hinjewadi Phase 2 Township Projects"
+      },
+      {
+        "slug": "hinjewadi-phase-2-real-estate-investment",
+        "keyword": "Hinjewadi Phase 2 Real Estate Investment"
+      },
+      {
+        "slug": "hinjewadi-phase-2-1bhk-flats",
+        "keyword": "Hinjewadi Phase 2 1BHK Flats"
+      },
+      {
+        "slug": "hinjewadi-phase-2-2bhk-flats",
+        "keyword": "Hinjewadi Phase 2 2BHK Flats"
+      },
+      {
+        "slug": "hinjewadi-phase-2-3bhk-luxury-homes",
+        "keyword": "Hinjewadi Phase 2 3BHK Luxury Homes"
+      },
+      {
+        "slug": "hinjewadi-phase-2-4bhk-premium-apartments",
+        "keyword": "Hinjewadi Phase 2 4BHK Premium Apartments"
+      },
+      {
+        "slug": "hinjewadi-phase-2-5bhk-villas",
+        "keyword": "Hinjewadi Phase 2 5BHK Villas"
+      },
+      {
+        "slug": "hinjewadi-phase-2-1-bhk",
+        "keyword": "Hinjewadi Phase 2 1 BHK"
+      },
+      {
+        "slug": "hinjewadi-phase-2-2-bhk",
+        "keyword": "Hinjewadi Phase 2 2 BHK"
+      },
+      {
+        "slug": "hinjewadi-phase-2-3-bhk",
+        "keyword": "Hinjewadi Phase 2 3 BHK"
+      },
+      {
+        "slug": "hinjewadi-phase-2-4-bhk",
+        "keyword": "Hinjewadi Phase 2 4 BHK"
+      },
+      {
+        "slug": "hinjewadi-phase-2-studio-apartments",
+        "keyword": "Hinjewadi Phase 2 Studio Apartments"
+      },
+      {
+        "slug": "hinjewadi-phase-2-duplex-apartments",
+        "keyword": "Hinjewadi Phase 2 Duplex Apartments"
+      },
+      {
+        "slug": "hinjewadi-phase-2-sky-duplex",
+        "keyword": "Hinjewadi Phase 2 Sky Duplex"
+      },
+      {
+        "slug": "hinjewadi-phase-2-simplex-apartments",
+        "keyword": "Hinjewadi Phase 2 Simplex Apartments"
+      },
+      {
+        "slug": "hinjewadi-phase-2-penthouses",
+        "keyword": "Hinjewadi Phase 2 Penthouses"
+      },
+      {
+        "slug": "hinjewadi-phase-2-double-height-homes",
+        "keyword": "Hinjewadi Phase 2 Double-Height Homes"
+      },
+      {
+        "slug": "hinjewadi-phase-2-private-plunge-pool-flats",
+        "keyword": "Hinjewadi Phase 2 Private Plunge Pool Flats"
+      },
+      {
+        "slug": "hinjewadi-phase-2-nri-premium-homes",
+        "keyword": "Hinjewadi Phase 2 NRI Premium Homes"
+      },
+      {
+        "slug": "hinjewadi-phase-2-properties",
+        "keyword": "Hinjewadi Phase 2 Properties"
+      },
+      {
+        "slug": "hinjewadi-phase-2-flats",
+        "keyword": "Hinjewadi Phase 2 Flats"
+      },
+      {
+        "slug": "hinjewadi-phase-2-villas",
+        "keyword": "Hinjewadi Phase 2 Villas"
+      },
+      {
+        "slug": "hinjewadi-phase-2-row-houses",
+        "keyword": "Hinjewadi Phase 2 Row Houses"
+      },
+      {
+        "slug": "hinjewadi-phase-2-commercial-real-estate",
+        "keyword": "Hinjewadi Phase 2 Commercial Real Estate"
+      },
+      {
+        "slug": "hinjewadi-phase-2-retail-spaces",
+        "keyword": "Hinjewadi Phase 2 Retail Spaces"
+      },
+      {
+        "slug": "hinjewadi-phase-2-office-spaces",
+        "keyword": "Hinjewadi Phase 2 Office Spaces"
+      },
+      {
+        "slug": "hinjewadi-phase-2-ready-possession",
+        "keyword": "Hinjewadi Phase 2 Ready Possession"
+      },
+      {
+        "slug": "hinjewadi-phase-2-under-construction",
+        "keyword": "Hinjewadi Phase 2 Under Construction"
+      },
+      {
+        "slug": "hinjewadi-phase-2-it-park-homes",
+        "keyword": "Hinjewadi Phase 2 IT Park Homes"
+      },
+      {
+        "slug": "hinjewadi-phase-2-mla-homes",
+        "keyword": "Hinjewadi Phase 2 MLA Homes"
+      },
+      {
+        "slug": "hinjewadi-phase-2-vtp-projects",
+        "keyword": "Hinjewadi Phase 2 VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-hinjewadi-phase-3",
+    "title": "Hinjewadi Phase 3 Real Estate & Properties",
+    "description": "High ROI residential developments catering to Hinjewadi Phase 3 professionals.",
+    "slugs": [
+      {
+        "slug": "luxury-apartments-in-hinjewadi-phase-3",
+        "keyword": "Luxury Apartments in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "premium-flats-in-hinjewadi-phase-3",
+        "keyword": "Premium Flats in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "new-launch-projects-in-hinjewadi-phase-3",
+        "keyword": "New Launch Projects in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "township-projects-in-hinjewadi-phase-3",
+        "keyword": "Township Projects in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "real-estate-investment-in-hinjewadi-phase-3",
+        "keyword": "Real Estate Investment in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "1bhk-in-hinjewadi-phase-3",
+        "keyword": "1BHK in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "2bhk-in-hinjewadi-phase-3",
+        "keyword": "2BHK in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "3bhk-in-hinjewadi-phase-3",
+        "keyword": "3BHK in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "4bhk-in-hinjewadi-phase-3",
+        "keyword": "4BHK in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "5bhk-in-hinjewadi-phase-3",
+        "keyword": "5BHK in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "1-bhk-flats-in-hinjewadi-phase-3",
+        "keyword": "1 BHK Flats in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "2-bhk-flats-in-hinjewadi-phase-3",
+        "keyword": "2 BHK Flats in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "3-bhk-flats-in-hinjewadi-phase-3",
+        "keyword": "3 BHK Flats in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "4-bhk-flats-in-hinjewadi-phase-3",
+        "keyword": "4 BHK Flats in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "studio-apartments-in-hinjewadi-phase-3",
+        "keyword": "Studio Apartments in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "luxury-duplex-in-hinjewadi-phase-3",
+        "keyword": "Luxury Duplex in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "sky-duplex-in-hinjewadi-phase-3",
+        "keyword": "Sky Duplex in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "simplex-flats-in-hinjewadi-phase-3",
+        "keyword": "Simplex Flats in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-hinjewadi-phase-3",
+        "keyword": "Ultra-Luxury Penthouse in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "double-height-living-in-hinjewadi-phase-3",
+        "keyword": "Double-Height Living in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-hinjewadi-phase-3",
+        "keyword": "Apartments with Private Pool in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-hinjewadi-phase-3",
+        "keyword": "NRI Real Estate Investment in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "properties-in-hinjewadi-phase-3",
+        "keyword": "Properties in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "flats-in-hinjewadi-phase-3",
+        "keyword": "Flats in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "villas-in-hinjewadi-phase-3",
+        "keyword": "Villas in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "row-houses-in-hinjewadi-phase-3",
+        "keyword": "Row Houses in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "commercial-properties-in-hinjewadi-phase-3",
+        "keyword": "Commercial Properties in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "retail-shops-in-hinjewadi-phase-3",
+        "keyword": "Retail Shops in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "office-spaces-in-hinjewadi-phase-3",
+        "keyword": "Office Spaces in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "ready-possession-flats-in-hinjewadi-phase-3",
+        "keyword": "Ready Possession Flats in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "under-construction-projects-in-hinjewadi-phase-3",
+        "keyword": "Under Construction Projects in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "homes-near-it-park-in-hinjewadi-phase-3",
+        "keyword": "Homes near IT Park in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "maximum-livable-area-homes-in-hinjewadi-phase-3",
+        "keyword": "Maximum Livable Area Homes in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "vtp-projects-in-hinjewadi-phase-3",
+        "keyword": "VTP Projects in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "hinjewadi-phase-3-luxury-apartments",
+        "keyword": "Hinjewadi Phase 3 Luxury Apartments"
+      },
+      {
+        "slug": "hinjewadi-phase-3-premium-flats",
+        "keyword": "Hinjewadi Phase 3 Premium Flats"
+      },
+      {
+        "slug": "hinjewadi-phase-3-new-launch-projects",
+        "keyword": "Hinjewadi Phase 3 New Launch Projects"
+      },
+      {
+        "slug": "hinjewadi-phase-3-township-projects",
+        "keyword": "Hinjewadi Phase 3 Township Projects"
+      },
+      {
+        "slug": "hinjewadi-phase-3-real-estate-investment",
+        "keyword": "Hinjewadi Phase 3 Real Estate Investment"
+      },
+      {
+        "slug": "hinjewadi-phase-3-1bhk-flats",
+        "keyword": "Hinjewadi Phase 3 1BHK Flats"
+      },
+      {
+        "slug": "hinjewadi-phase-3-2bhk-flats",
+        "keyword": "Hinjewadi Phase 3 2BHK Flats"
+      },
+      {
+        "slug": "hinjewadi-phase-3-3bhk-luxury-homes",
+        "keyword": "Hinjewadi Phase 3 3BHK Luxury Homes"
+      },
+      {
+        "slug": "hinjewadi-phase-3-4bhk-premium-apartments",
+        "keyword": "Hinjewadi Phase 3 4BHK Premium Apartments"
+      },
+      {
+        "slug": "hinjewadi-phase-3-5bhk-villas",
+        "keyword": "Hinjewadi Phase 3 5BHK Villas"
+      },
+      {
+        "slug": "hinjewadi-phase-3-1-bhk",
+        "keyword": "Hinjewadi Phase 3 1 BHK"
+      },
+      {
+        "slug": "hinjewadi-phase-3-2-bhk",
+        "keyword": "Hinjewadi Phase 3 2 BHK"
+      },
+      {
+        "slug": "hinjewadi-phase-3-3-bhk",
+        "keyword": "Hinjewadi Phase 3 3 BHK"
+      },
+      {
+        "slug": "hinjewadi-phase-3-4-bhk",
+        "keyword": "Hinjewadi Phase 3 4 BHK"
+      },
+      {
+        "slug": "hinjewadi-phase-3-studio-apartments",
+        "keyword": "Hinjewadi Phase 3 Studio Apartments"
+      },
+      {
+        "slug": "hinjewadi-phase-3-duplex-apartments",
+        "keyword": "Hinjewadi Phase 3 Duplex Apartments"
+      },
+      {
+        "slug": "hinjewadi-phase-3-sky-duplex",
+        "keyword": "Hinjewadi Phase 3 Sky Duplex"
+      },
+      {
+        "slug": "hinjewadi-phase-3-simplex-apartments",
+        "keyword": "Hinjewadi Phase 3 Simplex Apartments"
+      },
+      {
+        "slug": "hinjewadi-phase-3-penthouses",
+        "keyword": "Hinjewadi Phase 3 Penthouses"
+      },
+      {
+        "slug": "hinjewadi-phase-3-double-height-homes",
+        "keyword": "Hinjewadi Phase 3 Double-Height Homes"
+      },
+      {
+        "slug": "hinjewadi-phase-3-private-plunge-pool-flats",
+        "keyword": "Hinjewadi Phase 3 Private Plunge Pool Flats"
+      },
+      {
+        "slug": "hinjewadi-phase-3-nri-premium-homes",
+        "keyword": "Hinjewadi Phase 3 NRI Premium Homes"
+      },
+      {
+        "slug": "hinjewadi-phase-3-properties",
+        "keyword": "Hinjewadi Phase 3 Properties"
+      },
+      {
+        "slug": "hinjewadi-phase-3-flats",
+        "keyword": "Hinjewadi Phase 3 Flats"
+      },
+      {
+        "slug": "hinjewadi-phase-3-villas",
+        "keyword": "Hinjewadi Phase 3 Villas"
+      },
+      {
+        "slug": "hinjewadi-phase-3-row-houses",
+        "keyword": "Hinjewadi Phase 3 Row Houses"
+      },
+      {
+        "slug": "hinjewadi-phase-3-commercial-real-estate",
+        "keyword": "Hinjewadi Phase 3 Commercial Real Estate"
+      },
+      {
+        "slug": "hinjewadi-phase-3-retail-spaces",
+        "keyword": "Hinjewadi Phase 3 Retail Spaces"
+      },
+      {
+        "slug": "hinjewadi-phase-3-office-spaces",
+        "keyword": "Hinjewadi Phase 3 Office Spaces"
+      },
+      {
+        "slug": "hinjewadi-phase-3-ready-possession",
+        "keyword": "Hinjewadi Phase 3 Ready Possession"
+      },
+      {
+        "slug": "hinjewadi-phase-3-under-construction",
+        "keyword": "Hinjewadi Phase 3 Under Construction"
+      },
+      {
+        "slug": "hinjewadi-phase-3-it-park-homes",
+        "keyword": "Hinjewadi Phase 3 IT Park Homes"
+      },
+      {
+        "slug": "hinjewadi-phase-3-mla-homes",
+        "keyword": "Hinjewadi Phase 3 MLA Homes"
+      },
+      {
+        "slug": "hinjewadi-phase-3-vtp-projects",
+        "keyword": "Hinjewadi Phase 3 VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-wipro-circle-hinjewadi",
+    "title": "Wipro Circle Hinjewadi Real Estate & Properties",
+    "description": "Exclusive properties located minutes away from the iconic Wipro Circle in Hinjewadi.",
+    "slugs": [
+      {
+        "slug": "luxury-apartments-in-wipro-circle-hinjewadi",
+        "keyword": "Luxury Apartments in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "premium-flats-in-wipro-circle-hinjewadi",
+        "keyword": "Premium Flats in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "new-launch-projects-in-wipro-circle-hinjewadi",
+        "keyword": "New Launch Projects in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "township-projects-in-wipro-circle-hinjewadi",
+        "keyword": "Township Projects in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "real-estate-investment-in-wipro-circle-hinjewadi",
+        "keyword": "Real Estate Investment in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "1bhk-in-wipro-circle-hinjewadi",
+        "keyword": "1BHK in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "2bhk-in-wipro-circle-hinjewadi",
+        "keyword": "2BHK in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "3bhk-in-wipro-circle-hinjewadi",
+        "keyword": "3BHK in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "4bhk-in-wipro-circle-hinjewadi",
+        "keyword": "4BHK in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "5bhk-in-wipro-circle-hinjewadi",
+        "keyword": "5BHK in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "1-bhk-flats-in-wipro-circle-hinjewadi",
+        "keyword": "1 BHK Flats in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "2-bhk-flats-in-wipro-circle-hinjewadi",
+        "keyword": "2 BHK Flats in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "3-bhk-flats-in-wipro-circle-hinjewadi",
+        "keyword": "3 BHK Flats in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "4-bhk-flats-in-wipro-circle-hinjewadi",
+        "keyword": "4 BHK Flats in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "studio-apartments-in-wipro-circle-hinjewadi",
+        "keyword": "Studio Apartments in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "luxury-duplex-in-wipro-circle-hinjewadi",
+        "keyword": "Luxury Duplex in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "sky-duplex-in-wipro-circle-hinjewadi",
+        "keyword": "Sky Duplex in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "simplex-flats-in-wipro-circle-hinjewadi",
+        "keyword": "Simplex Flats in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-wipro-circle-hinjewadi",
+        "keyword": "Ultra-Luxury Penthouse in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "double-height-living-in-wipro-circle-hinjewadi",
+        "keyword": "Double-Height Living in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-wipro-circle-hinjewadi",
+        "keyword": "Apartments with Private Pool in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-wipro-circle-hinjewadi",
+        "keyword": "NRI Real Estate Investment in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "properties-in-wipro-circle-hinjewadi",
+        "keyword": "Properties in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "flats-in-wipro-circle-hinjewadi",
+        "keyword": "Flats in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "villas-in-wipro-circle-hinjewadi",
+        "keyword": "Villas in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "row-houses-in-wipro-circle-hinjewadi",
+        "keyword": "Row Houses in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "commercial-properties-in-wipro-circle-hinjewadi",
+        "keyword": "Commercial Properties in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "retail-shops-in-wipro-circle-hinjewadi",
+        "keyword": "Retail Shops in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "office-spaces-in-wipro-circle-hinjewadi",
+        "keyword": "Office Spaces in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "ready-possession-flats-in-wipro-circle-hinjewadi",
+        "keyword": "Ready Possession Flats in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "under-construction-projects-in-wipro-circle-hinjewadi",
+        "keyword": "Under Construction Projects in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "homes-near-it-park-in-wipro-circle-hinjewadi",
+        "keyword": "Homes near IT Park in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "maximum-livable-area-homes-in-wipro-circle-hinjewadi",
+        "keyword": "Maximum Livable Area Homes in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "vtp-projects-in-wipro-circle-hinjewadi",
+        "keyword": "VTP Projects in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "wipro-circle-hinjewadi-luxury-apartments",
+        "keyword": "Wipro Circle Hinjewadi Luxury Apartments"
+      },
+      {
+        "slug": "wipro-circle-hinjewadi-premium-flats",
+        "keyword": "Wipro Circle Hinjewadi Premium Flats"
+      },
+      {
+        "slug": "wipro-circle-hinjewadi-new-launch-projects",
+        "keyword": "Wipro Circle Hinjewadi New Launch Projects"
+      },
+      {
+        "slug": "wipro-circle-hinjewadi-township-projects",
+        "keyword": "Wipro Circle Hinjewadi Township Projects"
+      },
+      {
+        "slug": "wipro-circle-hinjewadi-real-estate-investment",
+        "keyword": "Wipro Circle Hinjewadi Real Estate Investment"
+      },
+      {
+        "slug": "wipro-circle-hinjewadi-1bhk-flats",
+        "keyword": "Wipro Circle Hinjewadi 1BHK Flats"
+      },
+      {
+        "slug": "wipro-circle-hinjewadi-2bhk-flats",
+        "keyword": "Wipro Circle Hinjewadi 2BHK Flats"
+      },
+      {
+        "slug": "wipro-circle-hinjewadi-3bhk-luxury-homes",
+        "keyword": "Wipro Circle Hinjewadi 3BHK Luxury Homes"
+      },
+      {
+        "slug": "wipro-circle-hinjewadi-4bhk-premium-apartments",
+        "keyword": "Wipro Circle Hinjewadi 4BHK Premium Apartments"
+      },
+      {
+        "slug": "wipro-circle-hinjewadi-5bhk-villas",
+        "keyword": "Wipro Circle Hinjewadi 5BHK Villas"
+      },
+      {
+        "slug": "wipro-circle-hinjewadi-1-bhk",
+        "keyword": "Wipro Circle Hinjewadi 1 BHK"
+      },
+      {
+        "slug": "wipro-circle-hinjewadi-2-bhk",
+        "keyword": "Wipro Circle Hinjewadi 2 BHK"
+      },
+      {
+        "slug": "wipro-circle-hinjewadi-3-bhk",
+        "keyword": "Wipro Circle Hinjewadi 3 BHK"
+      },
+      {
+        "slug": "wipro-circle-hinjewadi-4-bhk",
+        "keyword": "Wipro Circle Hinjewadi 4 BHK"
+      },
+      {
+        "slug": "wipro-circle-hinjewadi-studio-apartments",
+        "keyword": "Wipro Circle Hinjewadi Studio Apartments"
+      },
+      {
+        "slug": "wipro-circle-hinjewadi-duplex-apartments",
+        "keyword": "Wipro Circle Hinjewadi Duplex Apartments"
+      },
+      {
+        "slug": "wipro-circle-hinjewadi-sky-duplex",
+        "keyword": "Wipro Circle Hinjewadi Sky Duplex"
+      },
+      {
+        "slug": "wipro-circle-hinjewadi-simplex-apartments",
+        "keyword": "Wipro Circle Hinjewadi Simplex Apartments"
+      },
+      {
+        "slug": "wipro-circle-hinjewadi-penthouses",
+        "keyword": "Wipro Circle Hinjewadi Penthouses"
+      },
+      {
+        "slug": "wipro-circle-hinjewadi-double-height-homes",
+        "keyword": "Wipro Circle Hinjewadi Double-Height Homes"
+      },
+      {
+        "slug": "wipro-circle-hinjewadi-private-plunge-pool-flats",
+        "keyword": "Wipro Circle Hinjewadi Private Plunge Pool Flats"
+      },
+      {
+        "slug": "wipro-circle-hinjewadi-nri-premium-homes",
+        "keyword": "Wipro Circle Hinjewadi NRI Premium Homes"
+      },
+      {
+        "slug": "wipro-circle-hinjewadi-properties",
+        "keyword": "Wipro Circle Hinjewadi Properties"
+      },
+      {
+        "slug": "wipro-circle-hinjewadi-flats",
+        "keyword": "Wipro Circle Hinjewadi Flats"
+      },
+      {
+        "slug": "wipro-circle-hinjewadi-villas",
+        "keyword": "Wipro Circle Hinjewadi Villas"
+      },
+      {
+        "slug": "wipro-circle-hinjewadi-row-houses",
+        "keyword": "Wipro Circle Hinjewadi Row Houses"
+      },
+      {
+        "slug": "wipro-circle-hinjewadi-commercial-real-estate",
+        "keyword": "Wipro Circle Hinjewadi Commercial Real Estate"
+      },
+      {
+        "slug": "wipro-circle-hinjewadi-retail-spaces",
+        "keyword": "Wipro Circle Hinjewadi Retail Spaces"
+      },
+      {
+        "slug": "wipro-circle-hinjewadi-office-spaces",
+        "keyword": "Wipro Circle Hinjewadi Office Spaces"
+      },
+      {
+        "slug": "wipro-circle-hinjewadi-ready-possession",
+        "keyword": "Wipro Circle Hinjewadi Ready Possession"
+      },
+      {
+        "slug": "wipro-circle-hinjewadi-under-construction",
+        "keyword": "Wipro Circle Hinjewadi Under Construction"
+      },
+      {
+        "slug": "wipro-circle-hinjewadi-it-park-homes",
+        "keyword": "Wipro Circle Hinjewadi IT Park Homes"
+      },
+      {
+        "slug": "wipro-circle-hinjewadi-mla-homes",
+        "keyword": "Wipro Circle Hinjewadi MLA Homes"
+      },
+      {
+        "slug": "wipro-circle-hinjewadi-vtp-projects",
+        "keyword": "Wipro Circle Hinjewadi VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-mahalunge-baner-bridge",
+    "title": "Mahalunge Baner Bridge Real Estate & Properties",
+    "description": "Ultra-luxury living at the strategic Mahalunge-Baner bridge corridor.",
+    "slugs": [
+      {
+        "slug": "luxury-apartments-in-mahalunge-baner-bridge",
+        "keyword": "Luxury Apartments in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "premium-flats-in-mahalunge-baner-bridge",
+        "keyword": "Premium Flats in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "new-launch-projects-in-mahalunge-baner-bridge",
+        "keyword": "New Launch Projects in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "township-projects-in-mahalunge-baner-bridge",
+        "keyword": "Township Projects in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "real-estate-investment-in-mahalunge-baner-bridge",
+        "keyword": "Real Estate Investment in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "1bhk-in-mahalunge-baner-bridge",
+        "keyword": "1BHK in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "2bhk-in-mahalunge-baner-bridge",
+        "keyword": "2BHK in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "3bhk-in-mahalunge-baner-bridge",
+        "keyword": "3BHK in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "4bhk-in-mahalunge-baner-bridge",
+        "keyword": "4BHK in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "5bhk-in-mahalunge-baner-bridge",
+        "keyword": "5BHK in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "1-bhk-flats-in-mahalunge-baner-bridge",
+        "keyword": "1 BHK Flats in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "2-bhk-flats-in-mahalunge-baner-bridge",
+        "keyword": "2 BHK Flats in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "3-bhk-flats-in-mahalunge-baner-bridge",
+        "keyword": "3 BHK Flats in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "4-bhk-flats-in-mahalunge-baner-bridge",
+        "keyword": "4 BHK Flats in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "studio-apartments-in-mahalunge-baner-bridge",
+        "keyword": "Studio Apartments in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "luxury-duplex-in-mahalunge-baner-bridge",
+        "keyword": "Luxury Duplex in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "sky-duplex-in-mahalunge-baner-bridge",
+        "keyword": "Sky Duplex in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "simplex-flats-in-mahalunge-baner-bridge",
+        "keyword": "Simplex Flats in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-mahalunge-baner-bridge",
+        "keyword": "Ultra-Luxury Penthouse in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "double-height-living-in-mahalunge-baner-bridge",
+        "keyword": "Double-Height Living in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-mahalunge-baner-bridge",
+        "keyword": "Apartments with Private Pool in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-mahalunge-baner-bridge",
+        "keyword": "NRI Real Estate Investment in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "properties-in-mahalunge-baner-bridge",
+        "keyword": "Properties in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "flats-in-mahalunge-baner-bridge",
+        "keyword": "Flats in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "villas-in-mahalunge-baner-bridge",
+        "keyword": "Villas in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "row-houses-in-mahalunge-baner-bridge",
+        "keyword": "Row Houses in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "commercial-properties-in-mahalunge-baner-bridge",
+        "keyword": "Commercial Properties in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "retail-shops-in-mahalunge-baner-bridge",
+        "keyword": "Retail Shops in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "office-spaces-in-mahalunge-baner-bridge",
+        "keyword": "Office Spaces in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "ready-possession-flats-in-mahalunge-baner-bridge",
+        "keyword": "Ready Possession Flats in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "under-construction-projects-in-mahalunge-baner-bridge",
+        "keyword": "Under Construction Projects in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "homes-near-it-park-in-mahalunge-baner-bridge",
+        "keyword": "Homes near IT Park in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "maximum-livable-area-homes-in-mahalunge-baner-bridge",
+        "keyword": "Maximum Livable Area Homes in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "vtp-projects-in-mahalunge-baner-bridge",
+        "keyword": "VTP Projects in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "mahalunge-baner-bridge-luxury-apartments",
+        "keyword": "Mahalunge Baner Bridge Luxury Apartments"
+      },
+      {
+        "slug": "mahalunge-baner-bridge-premium-flats",
+        "keyword": "Mahalunge Baner Bridge Premium Flats"
+      },
+      {
+        "slug": "mahalunge-baner-bridge-new-launch-projects",
+        "keyword": "Mahalunge Baner Bridge New Launch Projects"
+      },
+      {
+        "slug": "mahalunge-baner-bridge-township-projects",
+        "keyword": "Mahalunge Baner Bridge Township Projects"
+      },
+      {
+        "slug": "mahalunge-baner-bridge-real-estate-investment",
+        "keyword": "Mahalunge Baner Bridge Real Estate Investment"
+      },
+      {
+        "slug": "mahalunge-baner-bridge-1bhk-flats",
+        "keyword": "Mahalunge Baner Bridge 1BHK Flats"
+      },
+      {
+        "slug": "mahalunge-baner-bridge-2bhk-flats",
+        "keyword": "Mahalunge Baner Bridge 2BHK Flats"
+      },
+      {
+        "slug": "mahalunge-baner-bridge-3bhk-luxury-homes",
+        "keyword": "Mahalunge Baner Bridge 3BHK Luxury Homes"
+      },
+      {
+        "slug": "mahalunge-baner-bridge-4bhk-premium-apartments",
+        "keyword": "Mahalunge Baner Bridge 4BHK Premium Apartments"
+      },
+      {
+        "slug": "mahalunge-baner-bridge-5bhk-villas",
+        "keyword": "Mahalunge Baner Bridge 5BHK Villas"
+      },
+      {
+        "slug": "mahalunge-baner-bridge-1-bhk",
+        "keyword": "Mahalunge Baner Bridge 1 BHK"
+      },
+      {
+        "slug": "mahalunge-baner-bridge-2-bhk",
+        "keyword": "Mahalunge Baner Bridge 2 BHK"
+      },
+      {
+        "slug": "mahalunge-baner-bridge-3-bhk",
+        "keyword": "Mahalunge Baner Bridge 3 BHK"
+      },
+      {
+        "slug": "mahalunge-baner-bridge-4-bhk",
+        "keyword": "Mahalunge Baner Bridge 4 BHK"
+      },
+      {
+        "slug": "mahalunge-baner-bridge-studio-apartments",
+        "keyword": "Mahalunge Baner Bridge Studio Apartments"
+      },
+      {
+        "slug": "mahalunge-baner-bridge-duplex-apartments",
+        "keyword": "Mahalunge Baner Bridge Duplex Apartments"
+      },
+      {
+        "slug": "mahalunge-baner-bridge-sky-duplex",
+        "keyword": "Mahalunge Baner Bridge Sky Duplex"
+      },
+      {
+        "slug": "mahalunge-baner-bridge-simplex-apartments",
+        "keyword": "Mahalunge Baner Bridge Simplex Apartments"
+      },
+      {
+        "slug": "mahalunge-baner-bridge-penthouses",
+        "keyword": "Mahalunge Baner Bridge Penthouses"
+      },
+      {
+        "slug": "mahalunge-baner-bridge-double-height-homes",
+        "keyword": "Mahalunge Baner Bridge Double-Height Homes"
+      },
+      {
+        "slug": "mahalunge-baner-bridge-private-plunge-pool-flats",
+        "keyword": "Mahalunge Baner Bridge Private Plunge Pool Flats"
+      },
+      {
+        "slug": "mahalunge-baner-bridge-nri-premium-homes",
+        "keyword": "Mahalunge Baner Bridge NRI Premium Homes"
+      },
+      {
+        "slug": "mahalunge-baner-bridge-properties",
+        "keyword": "Mahalunge Baner Bridge Properties"
+      },
+      {
+        "slug": "mahalunge-baner-bridge-flats",
+        "keyword": "Mahalunge Baner Bridge Flats"
+      },
+      {
+        "slug": "mahalunge-baner-bridge-villas",
+        "keyword": "Mahalunge Baner Bridge Villas"
+      },
+      {
+        "slug": "mahalunge-baner-bridge-row-houses",
+        "keyword": "Mahalunge Baner Bridge Row Houses"
+      },
+      {
+        "slug": "mahalunge-baner-bridge-commercial-real-estate",
+        "keyword": "Mahalunge Baner Bridge Commercial Real Estate"
+      },
+      {
+        "slug": "mahalunge-baner-bridge-retail-spaces",
+        "keyword": "Mahalunge Baner Bridge Retail Spaces"
+      },
+      {
+        "slug": "mahalunge-baner-bridge-office-spaces",
+        "keyword": "Mahalunge Baner Bridge Office Spaces"
+      },
+      {
+        "slug": "mahalunge-baner-bridge-ready-possession",
+        "keyword": "Mahalunge Baner Bridge Ready Possession"
+      },
+      {
+        "slug": "mahalunge-baner-bridge-under-construction",
+        "keyword": "Mahalunge Baner Bridge Under Construction"
+      },
+      {
+        "slug": "mahalunge-baner-bridge-it-park-homes",
+        "keyword": "Mahalunge Baner Bridge IT Park Homes"
+      },
+      {
+        "slug": "mahalunge-baner-bridge-mla-homes",
+        "keyword": "Mahalunge Baner Bridge MLA Homes"
+      },
+      {
+        "slug": "mahalunge-baner-bridge-vtp-projects",
+        "keyword": "Mahalunge Baner Bridge VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-mahalunge-high-tech-city",
+    "title": "Mahalunge High-Tech City Real Estate & Properties",
+    "description": "Invest in the future of Pune at the sprawling Mahalunge High-Tech City.",
+    "slugs": [
+      {
+        "slug": "luxury-apartments-in-mahalunge-high-tech-city",
+        "keyword": "Luxury Apartments in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "premium-flats-in-mahalunge-high-tech-city",
+        "keyword": "Premium Flats in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "new-launch-projects-in-mahalunge-high-tech-city",
+        "keyword": "New Launch Projects in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "township-projects-in-mahalunge-high-tech-city",
+        "keyword": "Township Projects in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "real-estate-investment-in-mahalunge-high-tech-city",
+        "keyword": "Real Estate Investment in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "1bhk-in-mahalunge-high-tech-city",
+        "keyword": "1BHK in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "2bhk-in-mahalunge-high-tech-city",
+        "keyword": "2BHK in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "3bhk-in-mahalunge-high-tech-city",
+        "keyword": "3BHK in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "4bhk-in-mahalunge-high-tech-city",
+        "keyword": "4BHK in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "5bhk-in-mahalunge-high-tech-city",
+        "keyword": "5BHK in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "1-bhk-flats-in-mahalunge-high-tech-city",
+        "keyword": "1 BHK Flats in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "2-bhk-flats-in-mahalunge-high-tech-city",
+        "keyword": "2 BHK Flats in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "3-bhk-flats-in-mahalunge-high-tech-city",
+        "keyword": "3 BHK Flats in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "4-bhk-flats-in-mahalunge-high-tech-city",
+        "keyword": "4 BHK Flats in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "studio-apartments-in-mahalunge-high-tech-city",
+        "keyword": "Studio Apartments in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "luxury-duplex-in-mahalunge-high-tech-city",
+        "keyword": "Luxury Duplex in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "sky-duplex-in-mahalunge-high-tech-city",
+        "keyword": "Sky Duplex in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "simplex-flats-in-mahalunge-high-tech-city",
+        "keyword": "Simplex Flats in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-mahalunge-high-tech-city",
+        "keyword": "Ultra-Luxury Penthouse in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "double-height-living-in-mahalunge-high-tech-city",
+        "keyword": "Double-Height Living in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-mahalunge-high-tech-city",
+        "keyword": "Apartments with Private Pool in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-mahalunge-high-tech-city",
+        "keyword": "NRI Real Estate Investment in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "properties-in-mahalunge-high-tech-city",
+        "keyword": "Properties in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "flats-in-mahalunge-high-tech-city",
+        "keyword": "Flats in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "villas-in-mahalunge-high-tech-city",
+        "keyword": "Villas in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "row-houses-in-mahalunge-high-tech-city",
+        "keyword": "Row Houses in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "commercial-properties-in-mahalunge-high-tech-city",
+        "keyword": "Commercial Properties in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "retail-shops-in-mahalunge-high-tech-city",
+        "keyword": "Retail Shops in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "office-spaces-in-mahalunge-high-tech-city",
+        "keyword": "Office Spaces in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "ready-possession-flats-in-mahalunge-high-tech-city",
+        "keyword": "Ready Possession Flats in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "under-construction-projects-in-mahalunge-high-tech-city",
+        "keyword": "Under Construction Projects in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "homes-near-it-park-in-mahalunge-high-tech-city",
+        "keyword": "Homes near IT Park in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "maximum-livable-area-homes-in-mahalunge-high-tech-city",
+        "keyword": "Maximum Livable Area Homes in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "vtp-projects-in-mahalunge-high-tech-city",
+        "keyword": "VTP Projects in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "mahalunge-high-tech-city-luxury-apartments",
+        "keyword": "Mahalunge High-Tech City Luxury Apartments"
+      },
+      {
+        "slug": "mahalunge-high-tech-city-premium-flats",
+        "keyword": "Mahalunge High-Tech City Premium Flats"
+      },
+      {
+        "slug": "mahalunge-high-tech-city-new-launch-projects",
+        "keyword": "Mahalunge High-Tech City New Launch Projects"
+      },
+      {
+        "slug": "mahalunge-high-tech-city-township-projects",
+        "keyword": "Mahalunge High-Tech City Township Projects"
+      },
+      {
+        "slug": "mahalunge-high-tech-city-real-estate-investment",
+        "keyword": "Mahalunge High-Tech City Real Estate Investment"
+      },
+      {
+        "slug": "mahalunge-high-tech-city-1bhk-flats",
+        "keyword": "Mahalunge High-Tech City 1BHK Flats"
+      },
+      {
+        "slug": "mahalunge-high-tech-city-2bhk-flats",
+        "keyword": "Mahalunge High-Tech City 2BHK Flats"
+      },
+      {
+        "slug": "mahalunge-high-tech-city-3bhk-luxury-homes",
+        "keyword": "Mahalunge High-Tech City 3BHK Luxury Homes"
+      },
+      {
+        "slug": "mahalunge-high-tech-city-4bhk-premium-apartments",
+        "keyword": "Mahalunge High-Tech City 4BHK Premium Apartments"
+      },
+      {
+        "slug": "mahalunge-high-tech-city-5bhk-villas",
+        "keyword": "Mahalunge High-Tech City 5BHK Villas"
+      },
+      {
+        "slug": "mahalunge-high-tech-city-1-bhk",
+        "keyword": "Mahalunge High-Tech City 1 BHK"
+      },
+      {
+        "slug": "mahalunge-high-tech-city-2-bhk",
+        "keyword": "Mahalunge High-Tech City 2 BHK"
+      },
+      {
+        "slug": "mahalunge-high-tech-city-3-bhk",
+        "keyword": "Mahalunge High-Tech City 3 BHK"
+      },
+      {
+        "slug": "mahalunge-high-tech-city-4-bhk",
+        "keyword": "Mahalunge High-Tech City 4 BHK"
+      },
+      {
+        "slug": "mahalunge-high-tech-city-studio-apartments",
+        "keyword": "Mahalunge High-Tech City Studio Apartments"
+      },
+      {
+        "slug": "mahalunge-high-tech-city-duplex-apartments",
+        "keyword": "Mahalunge High-Tech City Duplex Apartments"
+      },
+      {
+        "slug": "mahalunge-high-tech-city-sky-duplex",
+        "keyword": "Mahalunge High-Tech City Sky Duplex"
+      },
+      {
+        "slug": "mahalunge-high-tech-city-simplex-apartments",
+        "keyword": "Mahalunge High-Tech City Simplex Apartments"
+      },
+      {
+        "slug": "mahalunge-high-tech-city-penthouses",
+        "keyword": "Mahalunge High-Tech City Penthouses"
+      },
+      {
+        "slug": "mahalunge-high-tech-city-double-height-homes",
+        "keyword": "Mahalunge High-Tech City Double-Height Homes"
+      },
+      {
+        "slug": "mahalunge-high-tech-city-private-plunge-pool-flats",
+        "keyword": "Mahalunge High-Tech City Private Plunge Pool Flats"
+      },
+      {
+        "slug": "mahalunge-high-tech-city-nri-premium-homes",
+        "keyword": "Mahalunge High-Tech City NRI Premium Homes"
+      },
+      {
+        "slug": "mahalunge-high-tech-city-properties",
+        "keyword": "Mahalunge High-Tech City Properties"
+      },
+      {
+        "slug": "mahalunge-high-tech-city-flats",
+        "keyword": "Mahalunge High-Tech City Flats"
+      },
+      {
+        "slug": "mahalunge-high-tech-city-villas",
+        "keyword": "Mahalunge High-Tech City Villas"
+      },
+      {
+        "slug": "mahalunge-high-tech-city-row-houses",
+        "keyword": "Mahalunge High-Tech City Row Houses"
+      },
+      {
+        "slug": "mahalunge-high-tech-city-commercial-real-estate",
+        "keyword": "Mahalunge High-Tech City Commercial Real Estate"
+      },
+      {
+        "slug": "mahalunge-high-tech-city-retail-spaces",
+        "keyword": "Mahalunge High-Tech City Retail Spaces"
+      },
+      {
+        "slug": "mahalunge-high-tech-city-office-spaces",
+        "keyword": "Mahalunge High-Tech City Office Spaces"
+      },
+      {
+        "slug": "mahalunge-high-tech-city-ready-possession",
+        "keyword": "Mahalunge High-Tech City Ready Possession"
+      },
+      {
+        "slug": "mahalunge-high-tech-city-under-construction",
+        "keyword": "Mahalunge High-Tech City Under Construction"
+      },
+      {
+        "slug": "mahalunge-high-tech-city-it-park-homes",
+        "keyword": "Mahalunge High-Tech City IT Park Homes"
+      },
+      {
+        "slug": "mahalunge-high-tech-city-mla-homes",
+        "keyword": "Mahalunge High-Tech City MLA Homes"
+      },
+      {
+        "slug": "mahalunge-high-tech-city-vtp-projects",
+        "keyword": "Mahalunge High-Tech City VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-balewadi-stadium-vicinity",
+    "title": "Balewadi Stadium Vicinity Real Estate & Properties",
+    "description": "Premium lifestyle apartments located right next to the Balewadi Sports Stadium.",
+    "slugs": [
+      {
+        "slug": "luxury-apartments-in-balewadi-stadium-vicinity",
+        "keyword": "Luxury Apartments in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "premium-flats-in-balewadi-stadium-vicinity",
+        "keyword": "Premium Flats in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "new-launch-projects-in-balewadi-stadium-vicinity",
+        "keyword": "New Launch Projects in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "township-projects-in-balewadi-stadium-vicinity",
+        "keyword": "Township Projects in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "real-estate-investment-in-balewadi-stadium-vicinity",
+        "keyword": "Real Estate Investment in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "1bhk-in-balewadi-stadium-vicinity",
+        "keyword": "1BHK in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "2bhk-in-balewadi-stadium-vicinity",
+        "keyword": "2BHK in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "3bhk-in-balewadi-stadium-vicinity",
+        "keyword": "3BHK in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "4bhk-in-balewadi-stadium-vicinity",
+        "keyword": "4BHK in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "5bhk-in-balewadi-stadium-vicinity",
+        "keyword": "5BHK in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "1-bhk-flats-in-balewadi-stadium-vicinity",
+        "keyword": "1 BHK Flats in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "2-bhk-flats-in-balewadi-stadium-vicinity",
+        "keyword": "2 BHK Flats in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "3-bhk-flats-in-balewadi-stadium-vicinity",
+        "keyword": "3 BHK Flats in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "4-bhk-flats-in-balewadi-stadium-vicinity",
+        "keyword": "4 BHK Flats in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "studio-apartments-in-balewadi-stadium-vicinity",
+        "keyword": "Studio Apartments in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "luxury-duplex-in-balewadi-stadium-vicinity",
+        "keyword": "Luxury Duplex in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "sky-duplex-in-balewadi-stadium-vicinity",
+        "keyword": "Sky Duplex in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "simplex-flats-in-balewadi-stadium-vicinity",
+        "keyword": "Simplex Flats in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-balewadi-stadium-vicinity",
+        "keyword": "Ultra-Luxury Penthouse in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "double-height-living-in-balewadi-stadium-vicinity",
+        "keyword": "Double-Height Living in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-balewadi-stadium-vicinity",
+        "keyword": "Apartments with Private Pool in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-balewadi-stadium-vicinity",
+        "keyword": "NRI Real Estate Investment in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "properties-in-balewadi-stadium-vicinity",
+        "keyword": "Properties in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "flats-in-balewadi-stadium-vicinity",
+        "keyword": "Flats in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "villas-in-balewadi-stadium-vicinity",
+        "keyword": "Villas in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "row-houses-in-balewadi-stadium-vicinity",
+        "keyword": "Row Houses in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "commercial-properties-in-balewadi-stadium-vicinity",
+        "keyword": "Commercial Properties in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "retail-shops-in-balewadi-stadium-vicinity",
+        "keyword": "Retail Shops in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "office-spaces-in-balewadi-stadium-vicinity",
+        "keyword": "Office Spaces in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "ready-possession-flats-in-balewadi-stadium-vicinity",
+        "keyword": "Ready Possession Flats in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "under-construction-projects-in-balewadi-stadium-vicinity",
+        "keyword": "Under Construction Projects in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "homes-near-it-park-in-balewadi-stadium-vicinity",
+        "keyword": "Homes near IT Park in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "maximum-livable-area-homes-in-balewadi-stadium-vicinity",
+        "keyword": "Maximum Livable Area Homes in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "vtp-projects-in-balewadi-stadium-vicinity",
+        "keyword": "VTP Projects in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "balewadi-stadium-vicinity-luxury-apartments",
+        "keyword": "Balewadi Stadium Vicinity Luxury Apartments"
+      },
+      {
+        "slug": "balewadi-stadium-vicinity-premium-flats",
+        "keyword": "Balewadi Stadium Vicinity Premium Flats"
+      },
+      {
+        "slug": "balewadi-stadium-vicinity-new-launch-projects",
+        "keyword": "Balewadi Stadium Vicinity New Launch Projects"
+      },
+      {
+        "slug": "balewadi-stadium-vicinity-township-projects",
+        "keyword": "Balewadi Stadium Vicinity Township Projects"
+      },
+      {
+        "slug": "balewadi-stadium-vicinity-real-estate-investment",
+        "keyword": "Balewadi Stadium Vicinity Real Estate Investment"
+      },
+      {
+        "slug": "balewadi-stadium-vicinity-1bhk-flats",
+        "keyword": "Balewadi Stadium Vicinity 1BHK Flats"
+      },
+      {
+        "slug": "balewadi-stadium-vicinity-2bhk-flats",
+        "keyword": "Balewadi Stadium Vicinity 2BHK Flats"
+      },
+      {
+        "slug": "balewadi-stadium-vicinity-3bhk-luxury-homes",
+        "keyword": "Balewadi Stadium Vicinity 3BHK Luxury Homes"
+      },
+      {
+        "slug": "balewadi-stadium-vicinity-4bhk-premium-apartments",
+        "keyword": "Balewadi Stadium Vicinity 4BHK Premium Apartments"
+      },
+      {
+        "slug": "balewadi-stadium-vicinity-5bhk-villas",
+        "keyword": "Balewadi Stadium Vicinity 5BHK Villas"
+      },
+      {
+        "slug": "balewadi-stadium-vicinity-1-bhk",
+        "keyword": "Balewadi Stadium Vicinity 1 BHK"
+      },
+      {
+        "slug": "balewadi-stadium-vicinity-2-bhk",
+        "keyword": "Balewadi Stadium Vicinity 2 BHK"
+      },
+      {
+        "slug": "balewadi-stadium-vicinity-3-bhk",
+        "keyword": "Balewadi Stadium Vicinity 3 BHK"
+      },
+      {
+        "slug": "balewadi-stadium-vicinity-4-bhk",
+        "keyword": "Balewadi Stadium Vicinity 4 BHK"
+      },
+      {
+        "slug": "balewadi-stadium-vicinity-studio-apartments",
+        "keyword": "Balewadi Stadium Vicinity Studio Apartments"
+      },
+      {
+        "slug": "balewadi-stadium-vicinity-duplex-apartments",
+        "keyword": "Balewadi Stadium Vicinity Duplex Apartments"
+      },
+      {
+        "slug": "balewadi-stadium-vicinity-sky-duplex",
+        "keyword": "Balewadi Stadium Vicinity Sky Duplex"
+      },
+      {
+        "slug": "balewadi-stadium-vicinity-simplex-apartments",
+        "keyword": "Balewadi Stadium Vicinity Simplex Apartments"
+      },
+      {
+        "slug": "balewadi-stadium-vicinity-penthouses",
+        "keyword": "Balewadi Stadium Vicinity Penthouses"
+      },
+      {
+        "slug": "balewadi-stadium-vicinity-double-height-homes",
+        "keyword": "Balewadi Stadium Vicinity Double-Height Homes"
+      },
+      {
+        "slug": "balewadi-stadium-vicinity-private-plunge-pool-flats",
+        "keyword": "Balewadi Stadium Vicinity Private Plunge Pool Flats"
+      },
+      {
+        "slug": "balewadi-stadium-vicinity-nri-premium-homes",
+        "keyword": "Balewadi Stadium Vicinity NRI Premium Homes"
+      },
+      {
+        "slug": "balewadi-stadium-vicinity-properties",
+        "keyword": "Balewadi Stadium Vicinity Properties"
+      },
+      {
+        "slug": "balewadi-stadium-vicinity-flats",
+        "keyword": "Balewadi Stadium Vicinity Flats"
+      },
+      {
+        "slug": "balewadi-stadium-vicinity-villas",
+        "keyword": "Balewadi Stadium Vicinity Villas"
+      },
+      {
+        "slug": "balewadi-stadium-vicinity-row-houses",
+        "keyword": "Balewadi Stadium Vicinity Row Houses"
+      },
+      {
+        "slug": "balewadi-stadium-vicinity-commercial-real-estate",
+        "keyword": "Balewadi Stadium Vicinity Commercial Real Estate"
+      },
+      {
+        "slug": "balewadi-stadium-vicinity-retail-spaces",
+        "keyword": "Balewadi Stadium Vicinity Retail Spaces"
+      },
+      {
+        "slug": "balewadi-stadium-vicinity-office-spaces",
+        "keyword": "Balewadi Stadium Vicinity Office Spaces"
+      },
+      {
+        "slug": "balewadi-stadium-vicinity-ready-possession",
+        "keyword": "Balewadi Stadium Vicinity Ready Possession"
+      },
+      {
+        "slug": "balewadi-stadium-vicinity-under-construction",
+        "keyword": "Balewadi Stadium Vicinity Under Construction"
+      },
+      {
+        "slug": "balewadi-stadium-vicinity-it-park-homes",
+        "keyword": "Balewadi Stadium Vicinity IT Park Homes"
+      },
+      {
+        "slug": "balewadi-stadium-vicinity-mla-homes",
+        "keyword": "Balewadi Stadium Vicinity MLA Homes"
+      },
+      {
+        "slug": "balewadi-stadium-vicinity-vtp-projects",
+        "keyword": "Balewadi Stadium Vicinity VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-mahalunge-riverfront",
+    "title": "Mahalunge Riverfront Real Estate & Properties",
+    "description": "Exquisite riverfront luxury apartments offering serene views in Mahalunge.",
+    "slugs": [
+      {
+        "slug": "luxury-apartments-in-mahalunge-riverfront",
+        "keyword": "Luxury Apartments in Mahalunge Riverfront"
+      },
+      {
+        "slug": "premium-flats-in-mahalunge-riverfront",
+        "keyword": "Premium Flats in Mahalunge Riverfront"
+      },
+      {
+        "slug": "new-launch-projects-in-mahalunge-riverfront",
+        "keyword": "New Launch Projects in Mahalunge Riverfront"
+      },
+      {
+        "slug": "township-projects-in-mahalunge-riverfront",
+        "keyword": "Township Projects in Mahalunge Riverfront"
+      },
+      {
+        "slug": "real-estate-investment-in-mahalunge-riverfront",
+        "keyword": "Real Estate Investment in Mahalunge Riverfront"
+      },
+      {
+        "slug": "1bhk-in-mahalunge-riverfront",
+        "keyword": "1BHK in Mahalunge Riverfront"
+      },
+      {
+        "slug": "2bhk-in-mahalunge-riverfront",
+        "keyword": "2BHK in Mahalunge Riverfront"
+      },
+      {
+        "slug": "3bhk-in-mahalunge-riverfront",
+        "keyword": "3BHK in Mahalunge Riverfront"
+      },
+      {
+        "slug": "4bhk-in-mahalunge-riverfront",
+        "keyword": "4BHK in Mahalunge Riverfront"
+      },
+      {
+        "slug": "5bhk-in-mahalunge-riverfront",
+        "keyword": "5BHK in Mahalunge Riverfront"
+      },
+      {
+        "slug": "1-bhk-flats-in-mahalunge-riverfront",
+        "keyword": "1 BHK Flats in Mahalunge Riverfront"
+      },
+      {
+        "slug": "2-bhk-flats-in-mahalunge-riverfront",
+        "keyword": "2 BHK Flats in Mahalunge Riverfront"
+      },
+      {
+        "slug": "3-bhk-flats-in-mahalunge-riverfront",
+        "keyword": "3 BHK Flats in Mahalunge Riverfront"
+      },
+      {
+        "slug": "4-bhk-flats-in-mahalunge-riverfront",
+        "keyword": "4 BHK Flats in Mahalunge Riverfront"
+      },
+      {
+        "slug": "studio-apartments-in-mahalunge-riverfront",
+        "keyword": "Studio Apartments in Mahalunge Riverfront"
+      },
+      {
+        "slug": "luxury-duplex-in-mahalunge-riverfront",
+        "keyword": "Luxury Duplex in Mahalunge Riverfront"
+      },
+      {
+        "slug": "sky-duplex-in-mahalunge-riverfront",
+        "keyword": "Sky Duplex in Mahalunge Riverfront"
+      },
+      {
+        "slug": "simplex-flats-in-mahalunge-riverfront",
+        "keyword": "Simplex Flats in Mahalunge Riverfront"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-mahalunge-riverfront",
+        "keyword": "Ultra-Luxury Penthouse in Mahalunge Riverfront"
+      },
+      {
+        "slug": "double-height-living-in-mahalunge-riverfront",
+        "keyword": "Double-Height Living in Mahalunge Riverfront"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-mahalunge-riverfront",
+        "keyword": "Apartments with Private Pool in Mahalunge Riverfront"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-mahalunge-riverfront",
+        "keyword": "NRI Real Estate Investment in Mahalunge Riverfront"
+      },
+      {
+        "slug": "properties-in-mahalunge-riverfront",
+        "keyword": "Properties in Mahalunge Riverfront"
+      },
+      {
+        "slug": "flats-in-mahalunge-riverfront",
+        "keyword": "Flats in Mahalunge Riverfront"
+      },
+      {
+        "slug": "villas-in-mahalunge-riverfront",
+        "keyword": "Villas in Mahalunge Riverfront"
+      },
+      {
+        "slug": "row-houses-in-mahalunge-riverfront",
+        "keyword": "Row Houses in Mahalunge Riverfront"
+      },
+      {
+        "slug": "commercial-properties-in-mahalunge-riverfront",
+        "keyword": "Commercial Properties in Mahalunge Riverfront"
+      },
+      {
+        "slug": "retail-shops-in-mahalunge-riverfront",
+        "keyword": "Retail Shops in Mahalunge Riverfront"
+      },
+      {
+        "slug": "office-spaces-in-mahalunge-riverfront",
+        "keyword": "Office Spaces in Mahalunge Riverfront"
+      },
+      {
+        "slug": "ready-possession-flats-in-mahalunge-riverfront",
+        "keyword": "Ready Possession Flats in Mahalunge Riverfront"
+      },
+      {
+        "slug": "under-construction-projects-in-mahalunge-riverfront",
+        "keyword": "Under Construction Projects in Mahalunge Riverfront"
+      },
+      {
+        "slug": "homes-near-it-park-in-mahalunge-riverfront",
+        "keyword": "Homes near IT Park in Mahalunge Riverfront"
+      },
+      {
+        "slug": "maximum-livable-area-homes-in-mahalunge-riverfront",
+        "keyword": "Maximum Livable Area Homes in Mahalunge Riverfront"
+      },
+      {
+        "slug": "vtp-projects-in-mahalunge-riverfront",
+        "keyword": "VTP Projects in Mahalunge Riverfront"
+      },
+      {
+        "slug": "mahalunge-riverfront-luxury-apartments",
+        "keyword": "Mahalunge Riverfront Luxury Apartments"
+      },
+      {
+        "slug": "mahalunge-riverfront-premium-flats",
+        "keyword": "Mahalunge Riverfront Premium Flats"
+      },
+      {
+        "slug": "mahalunge-riverfront-new-launch-projects",
+        "keyword": "Mahalunge Riverfront New Launch Projects"
+      },
+      {
+        "slug": "mahalunge-riverfront-township-projects",
+        "keyword": "Mahalunge Riverfront Township Projects"
+      },
+      {
+        "slug": "mahalunge-riverfront-real-estate-investment",
+        "keyword": "Mahalunge Riverfront Real Estate Investment"
+      },
+      {
+        "slug": "mahalunge-riverfront-1bhk-flats",
+        "keyword": "Mahalunge Riverfront 1BHK Flats"
+      },
+      {
+        "slug": "mahalunge-riverfront-2bhk-flats",
+        "keyword": "Mahalunge Riverfront 2BHK Flats"
+      },
+      {
+        "slug": "mahalunge-riverfront-3bhk-luxury-homes",
+        "keyword": "Mahalunge Riverfront 3BHK Luxury Homes"
+      },
+      {
+        "slug": "mahalunge-riverfront-4bhk-premium-apartments",
+        "keyword": "Mahalunge Riverfront 4BHK Premium Apartments"
+      },
+      {
+        "slug": "mahalunge-riverfront-5bhk-villas",
+        "keyword": "Mahalunge Riverfront 5BHK Villas"
+      },
+      {
+        "slug": "mahalunge-riverfront-1-bhk",
+        "keyword": "Mahalunge Riverfront 1 BHK"
+      },
+      {
+        "slug": "mahalunge-riverfront-2-bhk",
+        "keyword": "Mahalunge Riverfront 2 BHK"
+      },
+      {
+        "slug": "mahalunge-riverfront-3-bhk",
+        "keyword": "Mahalunge Riverfront 3 BHK"
+      },
+      {
+        "slug": "mahalunge-riverfront-4-bhk",
+        "keyword": "Mahalunge Riverfront 4 BHK"
+      },
+      {
+        "slug": "mahalunge-riverfront-studio-apartments",
+        "keyword": "Mahalunge Riverfront Studio Apartments"
+      },
+      {
+        "slug": "mahalunge-riverfront-duplex-apartments",
+        "keyword": "Mahalunge Riverfront Duplex Apartments"
+      },
+      {
+        "slug": "mahalunge-riverfront-sky-duplex",
+        "keyword": "Mahalunge Riverfront Sky Duplex"
+      },
+      {
+        "slug": "mahalunge-riverfront-simplex-apartments",
+        "keyword": "Mahalunge Riverfront Simplex Apartments"
+      },
+      {
+        "slug": "mahalunge-riverfront-penthouses",
+        "keyword": "Mahalunge Riverfront Penthouses"
+      },
+      {
+        "slug": "mahalunge-riverfront-double-height-homes",
+        "keyword": "Mahalunge Riverfront Double-Height Homes"
+      },
+      {
+        "slug": "mahalunge-riverfront-private-plunge-pool-flats",
+        "keyword": "Mahalunge Riverfront Private Plunge Pool Flats"
+      },
+      {
+        "slug": "mahalunge-riverfront-nri-premium-homes",
+        "keyword": "Mahalunge Riverfront NRI Premium Homes"
+      },
+      {
+        "slug": "mahalunge-riverfront-properties",
+        "keyword": "Mahalunge Riverfront Properties"
+      },
+      {
+        "slug": "mahalunge-riverfront-flats",
+        "keyword": "Mahalunge Riverfront Flats"
+      },
+      {
+        "slug": "mahalunge-riverfront-villas",
+        "keyword": "Mahalunge Riverfront Villas"
+      },
+      {
+        "slug": "mahalunge-riverfront-row-houses",
+        "keyword": "Mahalunge Riverfront Row Houses"
+      },
+      {
+        "slug": "mahalunge-riverfront-commercial-real-estate",
+        "keyword": "Mahalunge Riverfront Commercial Real Estate"
+      },
+      {
+        "slug": "mahalunge-riverfront-retail-spaces",
+        "keyword": "Mahalunge Riverfront Retail Spaces"
+      },
+      {
+        "slug": "mahalunge-riverfront-office-spaces",
+        "keyword": "Mahalunge Riverfront Office Spaces"
+      },
+      {
+        "slug": "mahalunge-riverfront-ready-possession",
+        "keyword": "Mahalunge Riverfront Ready Possession"
+      },
+      {
+        "slug": "mahalunge-riverfront-under-construction",
+        "keyword": "Mahalunge Riverfront Under Construction"
+      },
+      {
+        "slug": "mahalunge-riverfront-it-park-homes",
+        "keyword": "Mahalunge Riverfront IT Park Homes"
+      },
+      {
+        "slug": "mahalunge-riverfront-mla-homes",
+        "keyword": "Mahalunge Riverfront MLA Homes"
+      },
+      {
+        "slug": "mahalunge-riverfront-vtp-projects",
+        "keyword": "Mahalunge Riverfront VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-sus-road-mahalunge",
+    "title": "Sus Road Mahalunge Real Estate & Properties",
+    "description": "Highly connected premium residences along the Sus Road - Mahalunge corridor.",
+    "slugs": [
+      {
+        "slug": "luxury-apartments-in-sus-road-mahalunge",
+        "keyword": "Luxury Apartments in Sus Road Mahalunge"
+      },
+      {
+        "slug": "premium-flats-in-sus-road-mahalunge",
+        "keyword": "Premium Flats in Sus Road Mahalunge"
+      },
+      {
+        "slug": "new-launch-projects-in-sus-road-mahalunge",
+        "keyword": "New Launch Projects in Sus Road Mahalunge"
+      },
+      {
+        "slug": "township-projects-in-sus-road-mahalunge",
+        "keyword": "Township Projects in Sus Road Mahalunge"
+      },
+      {
+        "slug": "real-estate-investment-in-sus-road-mahalunge",
+        "keyword": "Real Estate Investment in Sus Road Mahalunge"
+      },
+      {
+        "slug": "1bhk-in-sus-road-mahalunge",
+        "keyword": "1BHK in Sus Road Mahalunge"
+      },
+      {
+        "slug": "2bhk-in-sus-road-mahalunge",
+        "keyword": "2BHK in Sus Road Mahalunge"
+      },
+      {
+        "slug": "3bhk-in-sus-road-mahalunge",
+        "keyword": "3BHK in Sus Road Mahalunge"
+      },
+      {
+        "slug": "4bhk-in-sus-road-mahalunge",
+        "keyword": "4BHK in Sus Road Mahalunge"
+      },
+      {
+        "slug": "5bhk-in-sus-road-mahalunge",
+        "keyword": "5BHK in Sus Road Mahalunge"
+      },
+      {
+        "slug": "1-bhk-flats-in-sus-road-mahalunge",
+        "keyword": "1 BHK Flats in Sus Road Mahalunge"
+      },
+      {
+        "slug": "2-bhk-flats-in-sus-road-mahalunge",
+        "keyword": "2 BHK Flats in Sus Road Mahalunge"
+      },
+      {
+        "slug": "3-bhk-flats-in-sus-road-mahalunge",
+        "keyword": "3 BHK Flats in Sus Road Mahalunge"
+      },
+      {
+        "slug": "4-bhk-flats-in-sus-road-mahalunge",
+        "keyword": "4 BHK Flats in Sus Road Mahalunge"
+      },
+      {
+        "slug": "studio-apartments-in-sus-road-mahalunge",
+        "keyword": "Studio Apartments in Sus Road Mahalunge"
+      },
+      {
+        "slug": "luxury-duplex-in-sus-road-mahalunge",
+        "keyword": "Luxury Duplex in Sus Road Mahalunge"
+      },
+      {
+        "slug": "sky-duplex-in-sus-road-mahalunge",
+        "keyword": "Sky Duplex in Sus Road Mahalunge"
+      },
+      {
+        "slug": "simplex-flats-in-sus-road-mahalunge",
+        "keyword": "Simplex Flats in Sus Road Mahalunge"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-sus-road-mahalunge",
+        "keyword": "Ultra-Luxury Penthouse in Sus Road Mahalunge"
+      },
+      {
+        "slug": "double-height-living-in-sus-road-mahalunge",
+        "keyword": "Double-Height Living in Sus Road Mahalunge"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-sus-road-mahalunge",
+        "keyword": "Apartments with Private Pool in Sus Road Mahalunge"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-sus-road-mahalunge",
+        "keyword": "NRI Real Estate Investment in Sus Road Mahalunge"
+      },
+      {
+        "slug": "properties-in-sus-road-mahalunge",
+        "keyword": "Properties in Sus Road Mahalunge"
+      },
+      {
+        "slug": "flats-in-sus-road-mahalunge",
+        "keyword": "Flats in Sus Road Mahalunge"
+      },
+      {
+        "slug": "villas-in-sus-road-mahalunge",
+        "keyword": "Villas in Sus Road Mahalunge"
+      },
+      {
+        "slug": "row-houses-in-sus-road-mahalunge",
+        "keyword": "Row Houses in Sus Road Mahalunge"
+      },
+      {
+        "slug": "commercial-properties-in-sus-road-mahalunge",
+        "keyword": "Commercial Properties in Sus Road Mahalunge"
+      },
+      {
+        "slug": "retail-shops-in-sus-road-mahalunge",
+        "keyword": "Retail Shops in Sus Road Mahalunge"
+      },
+      {
+        "slug": "office-spaces-in-sus-road-mahalunge",
+        "keyword": "Office Spaces in Sus Road Mahalunge"
+      },
+      {
+        "slug": "ready-possession-flats-in-sus-road-mahalunge",
+        "keyword": "Ready Possession Flats in Sus Road Mahalunge"
+      },
+      {
+        "slug": "under-construction-projects-in-sus-road-mahalunge",
+        "keyword": "Under Construction Projects in Sus Road Mahalunge"
+      },
+      {
+        "slug": "homes-near-it-park-in-sus-road-mahalunge",
+        "keyword": "Homes near IT Park in Sus Road Mahalunge"
+      },
+      {
+        "slug": "maximum-livable-area-homes-in-sus-road-mahalunge",
+        "keyword": "Maximum Livable Area Homes in Sus Road Mahalunge"
+      },
+      {
+        "slug": "vtp-projects-in-sus-road-mahalunge",
+        "keyword": "VTP Projects in Sus Road Mahalunge"
+      },
+      {
+        "slug": "sus-road-mahalunge-luxury-apartments",
+        "keyword": "Sus Road Mahalunge Luxury Apartments"
+      },
+      {
+        "slug": "sus-road-mahalunge-premium-flats",
+        "keyword": "Sus Road Mahalunge Premium Flats"
+      },
+      {
+        "slug": "sus-road-mahalunge-new-launch-projects",
+        "keyword": "Sus Road Mahalunge New Launch Projects"
+      },
+      {
+        "slug": "sus-road-mahalunge-township-projects",
+        "keyword": "Sus Road Mahalunge Township Projects"
+      },
+      {
+        "slug": "sus-road-mahalunge-real-estate-investment",
+        "keyword": "Sus Road Mahalunge Real Estate Investment"
+      },
+      {
+        "slug": "sus-road-mahalunge-1bhk-flats",
+        "keyword": "Sus Road Mahalunge 1BHK Flats"
+      },
+      {
+        "slug": "sus-road-mahalunge-2bhk-flats",
+        "keyword": "Sus Road Mahalunge 2BHK Flats"
+      },
+      {
+        "slug": "sus-road-mahalunge-3bhk-luxury-homes",
+        "keyword": "Sus Road Mahalunge 3BHK Luxury Homes"
+      },
+      {
+        "slug": "sus-road-mahalunge-4bhk-premium-apartments",
+        "keyword": "Sus Road Mahalunge 4BHK Premium Apartments"
+      },
+      {
+        "slug": "sus-road-mahalunge-5bhk-villas",
+        "keyword": "Sus Road Mahalunge 5BHK Villas"
+      },
+      {
+        "slug": "sus-road-mahalunge-1-bhk",
+        "keyword": "Sus Road Mahalunge 1 BHK"
+      },
+      {
+        "slug": "sus-road-mahalunge-2-bhk",
+        "keyword": "Sus Road Mahalunge 2 BHK"
+      },
+      {
+        "slug": "sus-road-mahalunge-3-bhk",
+        "keyword": "Sus Road Mahalunge 3 BHK"
+      },
+      {
+        "slug": "sus-road-mahalunge-4-bhk",
+        "keyword": "Sus Road Mahalunge 4 BHK"
+      },
+      {
+        "slug": "sus-road-mahalunge-studio-apartments",
+        "keyword": "Sus Road Mahalunge Studio Apartments"
+      },
+      {
+        "slug": "sus-road-mahalunge-duplex-apartments",
+        "keyword": "Sus Road Mahalunge Duplex Apartments"
+      },
+      {
+        "slug": "sus-road-mahalunge-sky-duplex",
+        "keyword": "Sus Road Mahalunge Sky Duplex"
+      },
+      {
+        "slug": "sus-road-mahalunge-simplex-apartments",
+        "keyword": "Sus Road Mahalunge Simplex Apartments"
+      },
+      {
+        "slug": "sus-road-mahalunge-penthouses",
+        "keyword": "Sus Road Mahalunge Penthouses"
+      },
+      {
+        "slug": "sus-road-mahalunge-double-height-homes",
+        "keyword": "Sus Road Mahalunge Double-Height Homes"
+      },
+      {
+        "slug": "sus-road-mahalunge-private-plunge-pool-flats",
+        "keyword": "Sus Road Mahalunge Private Plunge Pool Flats"
+      },
+      {
+        "slug": "sus-road-mahalunge-nri-premium-homes",
+        "keyword": "Sus Road Mahalunge NRI Premium Homes"
+      },
+      {
+        "slug": "sus-road-mahalunge-properties",
+        "keyword": "Sus Road Mahalunge Properties"
+      },
+      {
+        "slug": "sus-road-mahalunge-flats",
+        "keyword": "Sus Road Mahalunge Flats"
+      },
+      {
+        "slug": "sus-road-mahalunge-villas",
+        "keyword": "Sus Road Mahalunge Villas"
+      },
+      {
+        "slug": "sus-road-mahalunge-row-houses",
+        "keyword": "Sus Road Mahalunge Row Houses"
+      },
+      {
+        "slug": "sus-road-mahalunge-commercial-real-estate",
+        "keyword": "Sus Road Mahalunge Commercial Real Estate"
+      },
+      {
+        "slug": "sus-road-mahalunge-retail-spaces",
+        "keyword": "Sus Road Mahalunge Retail Spaces"
+      },
+      {
+        "slug": "sus-road-mahalunge-office-spaces",
+        "keyword": "Sus Road Mahalunge Office Spaces"
+      },
+      {
+        "slug": "sus-road-mahalunge-ready-possession",
+        "keyword": "Sus Road Mahalunge Ready Possession"
+      },
+      {
+        "slug": "sus-road-mahalunge-under-construction",
+        "keyword": "Sus Road Mahalunge Under Construction"
+      },
+      {
+        "slug": "sus-road-mahalunge-it-park-homes",
+        "keyword": "Sus Road Mahalunge IT Park Homes"
+      },
+      {
+        "slug": "sus-road-mahalunge-mla-homes",
+        "keyword": "Sus Road Mahalunge MLA Homes"
+      },
+      {
+        "slug": "sus-road-mahalunge-vtp-projects",
+        "keyword": "Sus Road Mahalunge VTP Projects"
       }
     ]
   },
@@ -14929,6 +17440,42 @@ export const seoSilos = [
         "keyword": "VTP Bluewaters for buyers in Kharadi"
       },
       {
+        "slug": "vtp-bluewaters-for-buyers-in-hinjewadi-phase-1",
+        "keyword": "VTP Bluewaters for buyers in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "vtp-bluewaters-for-buyers-in-hinjewadi-phase-2",
+        "keyword": "VTP Bluewaters for buyers in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "vtp-bluewaters-for-buyers-in-hinjewadi-phase-3",
+        "keyword": "VTP Bluewaters for buyers in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "vtp-bluewaters-for-buyers-in-wipro-circle-hinjewadi",
+        "keyword": "VTP Bluewaters for buyers in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "vtp-bluewaters-for-buyers-in-mahalunge-baner-bridge",
+        "keyword": "VTP Bluewaters for buyers in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "vtp-bluewaters-for-buyers-in-mahalunge-high-tech-city",
+        "keyword": "VTP Bluewaters for buyers in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "vtp-bluewaters-for-buyers-in-balewadi-stadium-vicinity",
+        "keyword": "VTP Bluewaters for buyers in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "vtp-bluewaters-for-buyers-in-mahalunge-riverfront",
+        "keyword": "VTP Bluewaters for buyers in Mahalunge Riverfront"
+      },
+      {
+        "slug": "vtp-bluewaters-for-buyers-in-sus-road-mahalunge",
+        "keyword": "VTP Bluewaters for buyers in Sus Road Mahalunge"
+      },
+      {
         "slug": "vtp-bluewaters-for-buyers-in-wakad",
         "keyword": "VTP Bluewaters for buyers in Wakad"
       },
@@ -15262,6 +17809,42 @@ export const seoSilos = [
       {
         "slug": "vtp-earth-one-for-buyers-in-kharadi",
         "keyword": "VTP Earth One for buyers in Kharadi"
+      },
+      {
+        "slug": "vtp-earth-one-for-buyers-in-hinjewadi-phase-1",
+        "keyword": "VTP Earth One for buyers in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "vtp-earth-one-for-buyers-in-hinjewadi-phase-2",
+        "keyword": "VTP Earth One for buyers in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "vtp-earth-one-for-buyers-in-hinjewadi-phase-3",
+        "keyword": "VTP Earth One for buyers in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "vtp-earth-one-for-buyers-in-wipro-circle-hinjewadi",
+        "keyword": "VTP Earth One for buyers in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "vtp-earth-one-for-buyers-in-mahalunge-baner-bridge",
+        "keyword": "VTP Earth One for buyers in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "vtp-earth-one-for-buyers-in-mahalunge-high-tech-city",
+        "keyword": "VTP Earth One for buyers in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "vtp-earth-one-for-buyers-in-balewadi-stadium-vicinity",
+        "keyword": "VTP Earth One for buyers in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "vtp-earth-one-for-buyers-in-mahalunge-riverfront",
+        "keyword": "VTP Earth One for buyers in Mahalunge Riverfront"
+      },
+      {
+        "slug": "vtp-earth-one-for-buyers-in-sus-road-mahalunge",
+        "keyword": "VTP Earth One for buyers in Sus Road Mahalunge"
       },
       {
         "slug": "vtp-earth-one-for-buyers-in-wakad",
@@ -15599,6 +18182,42 @@ export const seoSilos = [
         "keyword": "VTP Leonara for buyers in Kharadi"
       },
       {
+        "slug": "vtp-leonara-for-buyers-in-hinjewadi-phase-1",
+        "keyword": "VTP Leonara for buyers in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "vtp-leonara-for-buyers-in-hinjewadi-phase-2",
+        "keyword": "VTP Leonara for buyers in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "vtp-leonara-for-buyers-in-hinjewadi-phase-3",
+        "keyword": "VTP Leonara for buyers in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "vtp-leonara-for-buyers-in-wipro-circle-hinjewadi",
+        "keyword": "VTP Leonara for buyers in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "vtp-leonara-for-buyers-in-mahalunge-baner-bridge",
+        "keyword": "VTP Leonara for buyers in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "vtp-leonara-for-buyers-in-mahalunge-high-tech-city",
+        "keyword": "VTP Leonara for buyers in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "vtp-leonara-for-buyers-in-balewadi-stadium-vicinity",
+        "keyword": "VTP Leonara for buyers in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "vtp-leonara-for-buyers-in-mahalunge-riverfront",
+        "keyword": "VTP Leonara for buyers in Mahalunge Riverfront"
+      },
+      {
+        "slug": "vtp-leonara-for-buyers-in-sus-road-mahalunge",
+        "keyword": "VTP Leonara for buyers in Sus Road Mahalunge"
+      },
+      {
         "slug": "vtp-leonara-for-buyers-in-wakad",
         "keyword": "VTP Leonara for buyers in Wakad"
       },
@@ -15932,6 +18551,42 @@ export const seoSilos = [
       {
         "slug": "vtp-bel-air-for-buyers-in-kharadi",
         "keyword": "VTP Bel Air for buyers in Kharadi"
+      },
+      {
+        "slug": "vtp-bel-air-for-buyers-in-hinjewadi-phase-1",
+        "keyword": "VTP Bel Air for buyers in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "vtp-bel-air-for-buyers-in-hinjewadi-phase-2",
+        "keyword": "VTP Bel Air for buyers in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "vtp-bel-air-for-buyers-in-hinjewadi-phase-3",
+        "keyword": "VTP Bel Air for buyers in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "vtp-bel-air-for-buyers-in-wipro-circle-hinjewadi",
+        "keyword": "VTP Bel Air for buyers in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "vtp-bel-air-for-buyers-in-mahalunge-baner-bridge",
+        "keyword": "VTP Bel Air for buyers in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "vtp-bel-air-for-buyers-in-mahalunge-high-tech-city",
+        "keyword": "VTP Bel Air for buyers in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "vtp-bel-air-for-buyers-in-balewadi-stadium-vicinity",
+        "keyword": "VTP Bel Air for buyers in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "vtp-bel-air-for-buyers-in-mahalunge-riverfront",
+        "keyword": "VTP Bel Air for buyers in Mahalunge Riverfront"
+      },
+      {
+        "slug": "vtp-bel-air-for-buyers-in-sus-road-mahalunge",
+        "keyword": "VTP Bel Air for buyers in Sus Road Mahalunge"
       },
       {
         "slug": "vtp-bel-air-for-buyers-in-wakad",
@@ -16269,6 +18924,42 @@ export const seoSilos = [
         "keyword": "VTP Alpine for buyers in Kharadi"
       },
       {
+        "slug": "vtp-alpine-for-buyers-in-hinjewadi-phase-1",
+        "keyword": "VTP Alpine for buyers in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "vtp-alpine-for-buyers-in-hinjewadi-phase-2",
+        "keyword": "VTP Alpine for buyers in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "vtp-alpine-for-buyers-in-hinjewadi-phase-3",
+        "keyword": "VTP Alpine for buyers in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "vtp-alpine-for-buyers-in-wipro-circle-hinjewadi",
+        "keyword": "VTP Alpine for buyers in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "vtp-alpine-for-buyers-in-mahalunge-baner-bridge",
+        "keyword": "VTP Alpine for buyers in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "vtp-alpine-for-buyers-in-mahalunge-high-tech-city",
+        "keyword": "VTP Alpine for buyers in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "vtp-alpine-for-buyers-in-balewadi-stadium-vicinity",
+        "keyword": "VTP Alpine for buyers in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "vtp-alpine-for-buyers-in-mahalunge-riverfront",
+        "keyword": "VTP Alpine for buyers in Mahalunge Riverfront"
+      },
+      {
+        "slug": "vtp-alpine-for-buyers-in-sus-road-mahalunge",
+        "keyword": "VTP Alpine for buyers in Sus Road Mahalunge"
+      },
+      {
         "slug": "vtp-alpine-for-buyers-in-wakad",
         "keyword": "VTP Alpine for buyers in Wakad"
       },
@@ -16602,6 +19293,42 @@ export const seoSilos = [
       {
         "slug": "vtp-aethereus-for-buyers-in-kharadi",
         "keyword": "VTP Aethereus for buyers in Kharadi"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-hinjewadi-phase-1",
+        "keyword": "VTP Aethereus for buyers in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-hinjewadi-phase-2",
+        "keyword": "VTP Aethereus for buyers in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-hinjewadi-phase-3",
+        "keyword": "VTP Aethereus for buyers in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-wipro-circle-hinjewadi",
+        "keyword": "VTP Aethereus for buyers in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-mahalunge-baner-bridge",
+        "keyword": "VTP Aethereus for buyers in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-mahalunge-high-tech-city",
+        "keyword": "VTP Aethereus for buyers in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-balewadi-stadium-vicinity",
+        "keyword": "VTP Aethereus for buyers in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-mahalunge-riverfront",
+        "keyword": "VTP Aethereus for buyers in Mahalunge Riverfront"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-sus-road-mahalunge",
+        "keyword": "VTP Aethereus for buyers in Sus Road Mahalunge"
       },
       {
         "slug": "vtp-aethereus-for-buyers-in-wakad",
@@ -16939,6 +19666,42 @@ export const seoSilos = [
         "keyword": "VTP Town Square for buyers in Kharadi"
       },
       {
+        "slug": "vtp-town-square-for-buyers-in-hinjewadi-phase-1",
+        "keyword": "VTP Town Square for buyers in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "vtp-town-square-for-buyers-in-hinjewadi-phase-2",
+        "keyword": "VTP Town Square for buyers in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "vtp-town-square-for-buyers-in-hinjewadi-phase-3",
+        "keyword": "VTP Town Square for buyers in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "vtp-town-square-for-buyers-in-wipro-circle-hinjewadi",
+        "keyword": "VTP Town Square for buyers in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "vtp-town-square-for-buyers-in-mahalunge-baner-bridge",
+        "keyword": "VTP Town Square for buyers in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "vtp-town-square-for-buyers-in-mahalunge-high-tech-city",
+        "keyword": "VTP Town Square for buyers in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "vtp-town-square-for-buyers-in-balewadi-stadium-vicinity",
+        "keyword": "VTP Town Square for buyers in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "vtp-town-square-for-buyers-in-mahalunge-riverfront",
+        "keyword": "VTP Town Square for buyers in Mahalunge Riverfront"
+      },
+      {
+        "slug": "vtp-town-square-for-buyers-in-sus-road-mahalunge",
+        "keyword": "VTP Town Square for buyers in Sus Road Mahalunge"
+      },
+      {
         "slug": "vtp-town-square-for-buyers-in-wakad",
         "keyword": "VTP Town Square for buyers in Wakad"
       },
@@ -17272,6 +20035,42 @@ export const seoSilos = [
       {
         "slug": "vtp-sierra-for-buyers-in-kharadi",
         "keyword": "VTP Sierra for buyers in Kharadi"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-hinjewadi-phase-1",
+        "keyword": "VTP Sierra for buyers in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-hinjewadi-phase-2",
+        "keyword": "VTP Sierra for buyers in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-hinjewadi-phase-3",
+        "keyword": "VTP Sierra for buyers in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-wipro-circle-hinjewadi",
+        "keyword": "VTP Sierra for buyers in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-mahalunge-baner-bridge",
+        "keyword": "VTP Sierra for buyers in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-mahalunge-high-tech-city",
+        "keyword": "VTP Sierra for buyers in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-balewadi-stadium-vicinity",
+        "keyword": "VTP Sierra for buyers in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-mahalunge-riverfront",
+        "keyword": "VTP Sierra for buyers in Mahalunge Riverfront"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-sus-road-mahalunge",
+        "keyword": "VTP Sierra for buyers in Sus Road Mahalunge"
       },
       {
         "slug": "vtp-sierra-for-buyers-in-wakad",
@@ -17609,6 +20408,42 @@ export const seoSilos = [
         "keyword": "VTP Verve for buyers in Kharadi"
       },
       {
+        "slug": "vtp-verve-for-buyers-in-hinjewadi-phase-1",
+        "keyword": "VTP Verve for buyers in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-hinjewadi-phase-2",
+        "keyword": "VTP Verve for buyers in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-hinjewadi-phase-3",
+        "keyword": "VTP Verve for buyers in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-wipro-circle-hinjewadi",
+        "keyword": "VTP Verve for buyers in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-mahalunge-baner-bridge",
+        "keyword": "VTP Verve for buyers in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-mahalunge-high-tech-city",
+        "keyword": "VTP Verve for buyers in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-balewadi-stadium-vicinity",
+        "keyword": "VTP Verve for buyers in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-mahalunge-riverfront",
+        "keyword": "VTP Verve for buyers in Mahalunge Riverfront"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-sus-road-mahalunge",
+        "keyword": "VTP Verve for buyers in Sus Road Mahalunge"
+      },
+      {
         "slug": "vtp-verve-for-buyers-in-wakad",
         "keyword": "VTP Verve for buyers in Wakad"
       },
@@ -17942,6 +20777,42 @@ export const seoSilos = [
       {
         "slug": "vtp-solitaire-for-buyers-in-kharadi",
         "keyword": "VTP Solitaire for buyers in Kharadi"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-hinjewadi-phase-1",
+        "keyword": "VTP Solitaire for buyers in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-hinjewadi-phase-2",
+        "keyword": "VTP Solitaire for buyers in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-hinjewadi-phase-3",
+        "keyword": "VTP Solitaire for buyers in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-wipro-circle-hinjewadi",
+        "keyword": "VTP Solitaire for buyers in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-mahalunge-baner-bridge",
+        "keyword": "VTP Solitaire for buyers in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-mahalunge-high-tech-city",
+        "keyword": "VTP Solitaire for buyers in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-balewadi-stadium-vicinity",
+        "keyword": "VTP Solitaire for buyers in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-mahalunge-riverfront",
+        "keyword": "VTP Solitaire for buyers in Mahalunge Riverfront"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-sus-road-mahalunge",
+        "keyword": "VTP Solitaire for buyers in Sus Road Mahalunge"
       },
       {
         "slug": "vtp-solitaire-for-buyers-in-wakad",
@@ -18279,6 +21150,42 @@ export const seoSilos = [
         "keyword": "VTP Bellissimo for buyers in Kharadi"
       },
       {
+        "slug": "vtp-bellissimo-for-buyers-in-hinjewadi-phase-1",
+        "keyword": "VTP Bellissimo for buyers in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "vtp-bellissimo-for-buyers-in-hinjewadi-phase-2",
+        "keyword": "VTP Bellissimo for buyers in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "vtp-bellissimo-for-buyers-in-hinjewadi-phase-3",
+        "keyword": "VTP Bellissimo for buyers in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "vtp-bellissimo-for-buyers-in-wipro-circle-hinjewadi",
+        "keyword": "VTP Bellissimo for buyers in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "vtp-bellissimo-for-buyers-in-mahalunge-baner-bridge",
+        "keyword": "VTP Bellissimo for buyers in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "vtp-bellissimo-for-buyers-in-mahalunge-high-tech-city",
+        "keyword": "VTP Bellissimo for buyers in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "vtp-bellissimo-for-buyers-in-balewadi-stadium-vicinity",
+        "keyword": "VTP Bellissimo for buyers in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "vtp-bellissimo-for-buyers-in-mahalunge-riverfront",
+        "keyword": "VTP Bellissimo for buyers in Mahalunge Riverfront"
+      },
+      {
+        "slug": "vtp-bellissimo-for-buyers-in-sus-road-mahalunge",
+        "keyword": "VTP Bellissimo for buyers in Sus Road Mahalunge"
+      },
+      {
         "slug": "vtp-bellissimo-for-buyers-in-wakad",
         "keyword": "VTP Bellissimo for buyers in Wakad"
       },
@@ -18612,6 +21519,42 @@ export const seoSilos = [
       {
         "slug": "vtp-monarque-for-buyers-in-kharadi",
         "keyword": "VTP Monarque for buyers in Kharadi"
+      },
+      {
+        "slug": "vtp-monarque-for-buyers-in-hinjewadi-phase-1",
+        "keyword": "VTP Monarque for buyers in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "vtp-monarque-for-buyers-in-hinjewadi-phase-2",
+        "keyword": "VTP Monarque for buyers in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "vtp-monarque-for-buyers-in-hinjewadi-phase-3",
+        "keyword": "VTP Monarque for buyers in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "vtp-monarque-for-buyers-in-wipro-circle-hinjewadi",
+        "keyword": "VTP Monarque for buyers in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "vtp-monarque-for-buyers-in-mahalunge-baner-bridge",
+        "keyword": "VTP Monarque for buyers in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "vtp-monarque-for-buyers-in-mahalunge-high-tech-city",
+        "keyword": "VTP Monarque for buyers in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "vtp-monarque-for-buyers-in-balewadi-stadium-vicinity",
+        "keyword": "VTP Monarque for buyers in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "vtp-monarque-for-buyers-in-mahalunge-riverfront",
+        "keyword": "VTP Monarque for buyers in Mahalunge Riverfront"
+      },
+      {
+        "slug": "vtp-monarque-for-buyers-in-sus-road-mahalunge",
+        "keyword": "VTP Monarque for buyers in Sus Road Mahalunge"
       },
       {
         "slug": "vtp-monarque-for-buyers-in-wakad",
@@ -18949,6 +21892,42 @@ export const seoSilos = [
         "keyword": "VTP Pegasus for buyers in Kharadi"
       },
       {
+        "slug": "vtp-pegasus-for-buyers-in-hinjewadi-phase-1",
+        "keyword": "VTP Pegasus for buyers in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-hinjewadi-phase-2",
+        "keyword": "VTP Pegasus for buyers in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-hinjewadi-phase-3",
+        "keyword": "VTP Pegasus for buyers in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-wipro-circle-hinjewadi",
+        "keyword": "VTP Pegasus for buyers in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-mahalunge-baner-bridge",
+        "keyword": "VTP Pegasus for buyers in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-mahalunge-high-tech-city",
+        "keyword": "VTP Pegasus for buyers in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-balewadi-stadium-vicinity",
+        "keyword": "VTP Pegasus for buyers in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-mahalunge-riverfront",
+        "keyword": "VTP Pegasus for buyers in Mahalunge Riverfront"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-sus-road-mahalunge",
+        "keyword": "VTP Pegasus for buyers in Sus Road Mahalunge"
+      },
+      {
         "slug": "vtp-pegasus-for-buyers-in-wakad",
         "keyword": "VTP Pegasus for buyers in Wakad"
       },
@@ -19282,6 +22261,42 @@ export const seoSilos = [
       {
         "slug": "vtp-altamira-for-buyers-in-kharadi",
         "keyword": "VTP Altamira for buyers in Kharadi"
+      },
+      {
+        "slug": "vtp-altamira-for-buyers-in-hinjewadi-phase-1",
+        "keyword": "VTP Altamira for buyers in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "vtp-altamira-for-buyers-in-hinjewadi-phase-2",
+        "keyword": "VTP Altamira for buyers in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "vtp-altamira-for-buyers-in-hinjewadi-phase-3",
+        "keyword": "VTP Altamira for buyers in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "vtp-altamira-for-buyers-in-wipro-circle-hinjewadi",
+        "keyword": "VTP Altamira for buyers in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "vtp-altamira-for-buyers-in-mahalunge-baner-bridge",
+        "keyword": "VTP Altamira for buyers in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "vtp-altamira-for-buyers-in-mahalunge-high-tech-city",
+        "keyword": "VTP Altamira for buyers in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "vtp-altamira-for-buyers-in-balewadi-stadium-vicinity",
+        "keyword": "VTP Altamira for buyers in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "vtp-altamira-for-buyers-in-mahalunge-riverfront",
+        "keyword": "VTP Altamira for buyers in Mahalunge Riverfront"
+      },
+      {
+        "slug": "vtp-altamira-for-buyers-in-sus-road-mahalunge",
+        "keyword": "VTP Altamira for buyers in Sus Road Mahalunge"
       },
       {
         "slug": "vtp-altamira-for-buyers-in-wakad",
@@ -19619,6 +22634,42 @@ export const seoSilos = [
         "keyword": "VTP Flamante for buyers in Kharadi"
       },
       {
+        "slug": "vtp-flamante-for-buyers-in-hinjewadi-phase-1",
+        "keyword": "VTP Flamante for buyers in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "vtp-flamante-for-buyers-in-hinjewadi-phase-2",
+        "keyword": "VTP Flamante for buyers in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "vtp-flamante-for-buyers-in-hinjewadi-phase-3",
+        "keyword": "VTP Flamante for buyers in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "vtp-flamante-for-buyers-in-wipro-circle-hinjewadi",
+        "keyword": "VTP Flamante for buyers in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "vtp-flamante-for-buyers-in-mahalunge-baner-bridge",
+        "keyword": "VTP Flamante for buyers in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "vtp-flamante-for-buyers-in-mahalunge-high-tech-city",
+        "keyword": "VTP Flamante for buyers in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "vtp-flamante-for-buyers-in-balewadi-stadium-vicinity",
+        "keyword": "VTP Flamante for buyers in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "vtp-flamante-for-buyers-in-mahalunge-riverfront",
+        "keyword": "VTP Flamante for buyers in Mahalunge Riverfront"
+      },
+      {
+        "slug": "vtp-flamante-for-buyers-in-sus-road-mahalunge",
+        "keyword": "VTP Flamante for buyers in Sus Road Mahalunge"
+      },
+      {
         "slug": "vtp-flamante-for-buyers-in-wakad",
         "keyword": "VTP Flamante for buyers in Wakad"
       },
@@ -19952,6 +23003,42 @@ export const seoSilos = [
       {
         "slug": "vtp-velvet-villas-for-buyers-in-kharadi",
         "keyword": "VTP Velvet Villas for buyers in Kharadi"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-hinjewadi-phase-1",
+        "keyword": "VTP Velvet Villas for buyers in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-hinjewadi-phase-2",
+        "keyword": "VTP Velvet Villas for buyers in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-hinjewadi-phase-3",
+        "keyword": "VTP Velvet Villas for buyers in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-wipro-circle-hinjewadi",
+        "keyword": "VTP Velvet Villas for buyers in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-mahalunge-baner-bridge",
+        "keyword": "VTP Velvet Villas for buyers in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-mahalunge-high-tech-city",
+        "keyword": "VTP Velvet Villas for buyers in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-balewadi-stadium-vicinity",
+        "keyword": "VTP Velvet Villas for buyers in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-mahalunge-riverfront",
+        "keyword": "VTP Velvet Villas for buyers in Mahalunge Riverfront"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-sus-road-mahalunge",
+        "keyword": "VTP Velvet Villas for buyers in Sus Road Mahalunge"
       },
       {
         "slug": "vtp-velvet-villas-for-buyers-in-wakad",
@@ -20289,6 +23376,42 @@ export const seoSilos = [
         "keyword": "VTP Altair for buyers in Kharadi"
       },
       {
+        "slug": "vtp-altair-for-buyers-in-hinjewadi-phase-1",
+        "keyword": "VTP Altair for buyers in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-hinjewadi-phase-2",
+        "keyword": "VTP Altair for buyers in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-hinjewadi-phase-3",
+        "keyword": "VTP Altair for buyers in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-wipro-circle-hinjewadi",
+        "keyword": "VTP Altair for buyers in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-mahalunge-baner-bridge",
+        "keyword": "VTP Altair for buyers in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-mahalunge-high-tech-city",
+        "keyword": "VTP Altair for buyers in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-balewadi-stadium-vicinity",
+        "keyword": "VTP Altair for buyers in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-mahalunge-riverfront",
+        "keyword": "VTP Altair for buyers in Mahalunge Riverfront"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-sus-road-mahalunge",
+        "keyword": "VTP Altair for buyers in Sus Road Mahalunge"
+      },
+      {
         "slug": "vtp-altair-for-buyers-in-wakad",
         "keyword": "VTP Altair for buyers in Wakad"
       },
@@ -20622,6 +23745,42 @@ export const seoSilos = [
       {
         "slug": "vtp-cygnus-for-buyers-in-kharadi",
         "keyword": "VTP Cygnus for buyers in Kharadi"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-hinjewadi-phase-1",
+        "keyword": "VTP Cygnus for buyers in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-hinjewadi-phase-2",
+        "keyword": "VTP Cygnus for buyers in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-hinjewadi-phase-3",
+        "keyword": "VTP Cygnus for buyers in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-wipro-circle-hinjewadi",
+        "keyword": "VTP Cygnus for buyers in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-mahalunge-baner-bridge",
+        "keyword": "VTP Cygnus for buyers in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-mahalunge-high-tech-city",
+        "keyword": "VTP Cygnus for buyers in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-balewadi-stadium-vicinity",
+        "keyword": "VTP Cygnus for buyers in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-mahalunge-riverfront",
+        "keyword": "VTP Cygnus for buyers in Mahalunge Riverfront"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-sus-road-mahalunge",
+        "keyword": "VTP Cygnus for buyers in Sus Road Mahalunge"
       },
       {
         "slug": "vtp-cygnus-for-buyers-in-wakad",
@@ -20959,6 +24118,42 @@ export const seoSilos = [
         "keyword": "VTP Beaumonde for buyers in Kharadi"
       },
       {
+        "slug": "vtp-beaumonde-for-buyers-in-hinjewadi-phase-1",
+        "keyword": "VTP Beaumonde for buyers in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-hinjewadi-phase-2",
+        "keyword": "VTP Beaumonde for buyers in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-hinjewadi-phase-3",
+        "keyword": "VTP Beaumonde for buyers in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-wipro-circle-hinjewadi",
+        "keyword": "VTP Beaumonde for buyers in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-mahalunge-baner-bridge",
+        "keyword": "VTP Beaumonde for buyers in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-mahalunge-high-tech-city",
+        "keyword": "VTP Beaumonde for buyers in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-balewadi-stadium-vicinity",
+        "keyword": "VTP Beaumonde for buyers in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-mahalunge-riverfront",
+        "keyword": "VTP Beaumonde for buyers in Mahalunge Riverfront"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-sus-road-mahalunge",
+        "keyword": "VTP Beaumonde for buyers in Sus Road Mahalunge"
+      },
+      {
         "slug": "vtp-beaumonde-for-buyers-in-wakad",
         "keyword": "VTP Beaumonde for buyers in Wakad"
       },
@@ -21292,6 +24487,42 @@ export const seoSilos = [
       {
         "slug": "vtp-purvanchal-for-buyers-in-kharadi",
         "keyword": "VTP Purvanchal for buyers in Kharadi"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-hinjewadi-phase-1",
+        "keyword": "VTP Purvanchal for buyers in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-hinjewadi-phase-2",
+        "keyword": "VTP Purvanchal for buyers in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-hinjewadi-phase-3",
+        "keyword": "VTP Purvanchal for buyers in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-wipro-circle-hinjewadi",
+        "keyword": "VTP Purvanchal for buyers in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-mahalunge-baner-bridge",
+        "keyword": "VTP Purvanchal for buyers in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-mahalunge-high-tech-city",
+        "keyword": "VTP Purvanchal for buyers in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-balewadi-stadium-vicinity",
+        "keyword": "VTP Purvanchal for buyers in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-mahalunge-riverfront",
+        "keyword": "VTP Purvanchal for buyers in Mahalunge Riverfront"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-sus-road-mahalunge",
+        "keyword": "VTP Purvanchal for buyers in Sus Road Mahalunge"
       },
       {
         "slug": "vtp-purvanchal-for-buyers-in-wakad",
@@ -21629,6 +24860,42 @@ export const seoSilos = [
         "keyword": "VTP Celesta for buyers in Kharadi"
       },
       {
+        "slug": "vtp-celesta-for-buyers-in-hinjewadi-phase-1",
+        "keyword": "VTP Celesta for buyers in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-hinjewadi-phase-2",
+        "keyword": "VTP Celesta for buyers in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-hinjewadi-phase-3",
+        "keyword": "VTP Celesta for buyers in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-wipro-circle-hinjewadi",
+        "keyword": "VTP Celesta for buyers in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-mahalunge-baner-bridge",
+        "keyword": "VTP Celesta for buyers in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-mahalunge-high-tech-city",
+        "keyword": "VTP Celesta for buyers in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-balewadi-stadium-vicinity",
+        "keyword": "VTP Celesta for buyers in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-mahalunge-riverfront",
+        "keyword": "VTP Celesta for buyers in Mahalunge Riverfront"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-sus-road-mahalunge",
+        "keyword": "VTP Celesta for buyers in Sus Road Mahalunge"
+      },
+      {
         "slug": "vtp-celesta-for-buyers-in-wakad",
         "keyword": "VTP Celesta for buyers in Wakad"
       },
@@ -21962,6 +25229,42 @@ export const seoSilos = [
       {
         "slug": "vtp-urban-nest-for-buyers-in-kharadi",
         "keyword": "VTP Urban Nest for buyers in Kharadi"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-hinjewadi-phase-1",
+        "keyword": "VTP Urban Nest for buyers in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-hinjewadi-phase-2",
+        "keyword": "VTP Urban Nest for buyers in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-hinjewadi-phase-3",
+        "keyword": "VTP Urban Nest for buyers in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-wipro-circle-hinjewadi",
+        "keyword": "VTP Urban Nest for buyers in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-mahalunge-baner-bridge",
+        "keyword": "VTP Urban Nest for buyers in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-mahalunge-high-tech-city",
+        "keyword": "VTP Urban Nest for buyers in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-balewadi-stadium-vicinity",
+        "keyword": "VTP Urban Nest for buyers in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-mahalunge-riverfront",
+        "keyword": "VTP Urban Nest for buyers in Mahalunge Riverfront"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-sus-road-mahalunge",
+        "keyword": "VTP Urban Nest for buyers in Sus Road Mahalunge"
       },
       {
         "slug": "vtp-urban-nest-for-buyers-in-wakad",
@@ -22299,6 +25602,42 @@ export const seoSilos = [
         "keyword": "VTP Skylights for buyers in Kharadi"
       },
       {
+        "slug": "vtp-skylights-for-buyers-in-hinjewadi-phase-1",
+        "keyword": "VTP Skylights for buyers in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-hinjewadi-phase-2",
+        "keyword": "VTP Skylights for buyers in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-hinjewadi-phase-3",
+        "keyword": "VTP Skylights for buyers in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-wipro-circle-hinjewadi",
+        "keyword": "VTP Skylights for buyers in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-mahalunge-baner-bridge",
+        "keyword": "VTP Skylights for buyers in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-mahalunge-high-tech-city",
+        "keyword": "VTP Skylights for buyers in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-balewadi-stadium-vicinity",
+        "keyword": "VTP Skylights for buyers in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-mahalunge-riverfront",
+        "keyword": "VTP Skylights for buyers in Mahalunge Riverfront"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-sus-road-mahalunge",
+        "keyword": "VTP Skylights for buyers in Sus Road Mahalunge"
+      },
+      {
         "slug": "vtp-skylights-for-buyers-in-wakad",
         "keyword": "VTP Skylights for buyers in Wakad"
       },
@@ -22516,6 +25855,42 @@ export const seoSilos = [
       {
         "slug": "pune-smart-city-projects-in-kharadi",
         "keyword": "Pune Smart City Projects in Kharadi"
+      },
+      {
+        "slug": "pune-smart-city-projects-in-hinjewadi-phase-1",
+        "keyword": "Pune Smart City Projects in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "pune-smart-city-projects-in-hinjewadi-phase-2",
+        "keyword": "Pune Smart City Projects in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "pune-smart-city-projects-in-hinjewadi-phase-3",
+        "keyword": "Pune Smart City Projects in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "pune-smart-city-projects-in-wipro-circle-hinjewadi",
+        "keyword": "Pune Smart City Projects in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "pune-smart-city-projects-in-mahalunge-baner-bridge",
+        "keyword": "Pune Smart City Projects in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "pune-smart-city-projects-in-mahalunge-high-tech-city",
+        "keyword": "Pune Smart City Projects in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "pune-smart-city-projects-in-balewadi-stadium-vicinity",
+        "keyword": "Pune Smart City Projects in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "pune-smart-city-projects-in-mahalunge-riverfront",
+        "keyword": "Pune Smart City Projects in Mahalunge Riverfront"
+      },
+      {
+        "slug": "pune-smart-city-projects-in-sus-road-mahalunge",
+        "keyword": "Pune Smart City Projects in Sus Road Mahalunge"
       },
       {
         "slug": "pune-smart-city-projects-in-wakad",
@@ -22737,6 +26112,42 @@ export const seoSilos = [
         "keyword": "Riverfront Living Pune in Kharadi"
       },
       {
+        "slug": "riverfront-living-pune-in-hinjewadi-phase-1",
+        "keyword": "Riverfront Living Pune in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "riverfront-living-pune-in-hinjewadi-phase-2",
+        "keyword": "Riverfront Living Pune in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "riverfront-living-pune-in-hinjewadi-phase-3",
+        "keyword": "Riverfront Living Pune in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "riverfront-living-pune-in-wipro-circle-hinjewadi",
+        "keyword": "Riverfront Living Pune in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "riverfront-living-pune-in-mahalunge-baner-bridge",
+        "keyword": "Riverfront Living Pune in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "riverfront-living-pune-in-mahalunge-high-tech-city",
+        "keyword": "Riverfront Living Pune in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "riverfront-living-pune-in-balewadi-stadium-vicinity",
+        "keyword": "Riverfront Living Pune in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "riverfront-living-pune-in-mahalunge-riverfront",
+        "keyword": "Riverfront Living Pune in Mahalunge Riverfront"
+      },
+      {
+        "slug": "riverfront-living-pune-in-sus-road-mahalunge",
+        "keyword": "Riverfront Living Pune in Sus Road Mahalunge"
+      },
+      {
         "slug": "riverfront-living-pune-in-wakad",
         "keyword": "Riverfront Living Pune in Wakad"
       },
@@ -22954,6 +26365,42 @@ export const seoSilos = [
       {
         "slug": "high-roi-investment-pune-in-kharadi",
         "keyword": "High ROI Investment Pune in Kharadi"
+      },
+      {
+        "slug": "high-roi-investment-pune-in-hinjewadi-phase-1",
+        "keyword": "High ROI Investment Pune in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "high-roi-investment-pune-in-hinjewadi-phase-2",
+        "keyword": "High ROI Investment Pune in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "high-roi-investment-pune-in-hinjewadi-phase-3",
+        "keyword": "High ROI Investment Pune in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "high-roi-investment-pune-in-wipro-circle-hinjewadi",
+        "keyword": "High ROI Investment Pune in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "high-roi-investment-pune-in-mahalunge-baner-bridge",
+        "keyword": "High ROI Investment Pune in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "high-roi-investment-pune-in-mahalunge-high-tech-city",
+        "keyword": "High ROI Investment Pune in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "high-roi-investment-pune-in-balewadi-stadium-vicinity",
+        "keyword": "High ROI Investment Pune in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "high-roi-investment-pune-in-mahalunge-riverfront",
+        "keyword": "High ROI Investment Pune in Mahalunge Riverfront"
+      },
+      {
+        "slug": "high-roi-investment-pune-in-sus-road-mahalunge",
+        "keyword": "High ROI Investment Pune in Sus Road Mahalunge"
       },
       {
         "slug": "high-roi-investment-pune-in-wakad",
@@ -23175,6 +26622,42 @@ export const seoSilos = [
         "keyword": "Zero Brokerage Flats Pune in Kharadi"
       },
       {
+        "slug": "zero-brokerage-flats-pune-in-hinjewadi-phase-1",
+        "keyword": "Zero Brokerage Flats Pune in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-in-hinjewadi-phase-2",
+        "keyword": "Zero Brokerage Flats Pune in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-in-hinjewadi-phase-3",
+        "keyword": "Zero Brokerage Flats Pune in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-in-wipro-circle-hinjewadi",
+        "keyword": "Zero Brokerage Flats Pune in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-in-mahalunge-baner-bridge",
+        "keyword": "Zero Brokerage Flats Pune in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-in-mahalunge-high-tech-city",
+        "keyword": "Zero Brokerage Flats Pune in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-in-balewadi-stadium-vicinity",
+        "keyword": "Zero Brokerage Flats Pune in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-in-mahalunge-riverfront",
+        "keyword": "Zero Brokerage Flats Pune in Mahalunge Riverfront"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-in-sus-road-mahalunge",
+        "keyword": "Zero Brokerage Flats Pune in Sus Road Mahalunge"
+      },
+      {
         "slug": "zero-brokerage-flats-pune-in-wakad",
         "keyword": "Zero Brokerage Flats Pune in Wakad"
       },
@@ -23392,6 +26875,42 @@ export const seoSilos = [
       {
         "slug": "rera-registered-projects-pune-in-kharadi",
         "keyword": "RERA Registered Projects Pune in Kharadi"
+      },
+      {
+        "slug": "rera-registered-projects-pune-in-hinjewadi-phase-1",
+        "keyword": "RERA Registered Projects Pune in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "rera-registered-projects-pune-in-hinjewadi-phase-2",
+        "keyword": "RERA Registered Projects Pune in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "rera-registered-projects-pune-in-hinjewadi-phase-3",
+        "keyword": "RERA Registered Projects Pune in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "rera-registered-projects-pune-in-wipro-circle-hinjewadi",
+        "keyword": "RERA Registered Projects Pune in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "rera-registered-projects-pune-in-mahalunge-baner-bridge",
+        "keyword": "RERA Registered Projects Pune in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "rera-registered-projects-pune-in-mahalunge-high-tech-city",
+        "keyword": "RERA Registered Projects Pune in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "rera-registered-projects-pune-in-balewadi-stadium-vicinity",
+        "keyword": "RERA Registered Projects Pune in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "rera-registered-projects-pune-in-mahalunge-riverfront",
+        "keyword": "RERA Registered Projects Pune in Mahalunge Riverfront"
+      },
+      {
+        "slug": "rera-registered-projects-pune-in-sus-road-mahalunge",
+        "keyword": "RERA Registered Projects Pune in Sus Road Mahalunge"
       },
       {
         "slug": "rera-registered-projects-pune-in-wakad",
@@ -23613,6 +27132,42 @@ export const seoSilos = [
         "keyword": "Best Areas to Invest in Pune 2026 in Kharadi"
       },
       {
+        "slug": "best-areas-to-invest-in-pune-2026-in-hinjewadi-phase-1",
+        "keyword": "Best Areas to Invest in Pune 2026 in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-hinjewadi-phase-2",
+        "keyword": "Best Areas to Invest in Pune 2026 in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-hinjewadi-phase-3",
+        "keyword": "Best Areas to Invest in Pune 2026 in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-wipro-circle-hinjewadi",
+        "keyword": "Best Areas to Invest in Pune 2026 in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-mahalunge-baner-bridge",
+        "keyword": "Best Areas to Invest in Pune 2026 in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-mahalunge-high-tech-city",
+        "keyword": "Best Areas to Invest in Pune 2026 in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-balewadi-stadium-vicinity",
+        "keyword": "Best Areas to Invest in Pune 2026 in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-mahalunge-riverfront",
+        "keyword": "Best Areas to Invest in Pune 2026 in Mahalunge Riverfront"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-sus-road-mahalunge",
+        "keyword": "Best Areas to Invest in Pune 2026 in Sus Road Mahalunge"
+      },
+      {
         "slug": "best-areas-to-invest-in-pune-2026-in-wakad",
         "keyword": "Best Areas to Invest in Pune 2026 in Wakad"
       },
@@ -23830,6 +27385,42 @@ export const seoSilos = [
       {
         "slug": "pune-real-estate-market-trends-in-kharadi",
         "keyword": "Pune Real Estate Market Trends in Kharadi"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-hinjewadi-phase-1",
+        "keyword": "Pune Real Estate Market Trends in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-hinjewadi-phase-2",
+        "keyword": "Pune Real Estate Market Trends in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-hinjewadi-phase-3",
+        "keyword": "Pune Real Estate Market Trends in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-wipro-circle-hinjewadi",
+        "keyword": "Pune Real Estate Market Trends in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-mahalunge-baner-bridge",
+        "keyword": "Pune Real Estate Market Trends in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-mahalunge-high-tech-city",
+        "keyword": "Pune Real Estate Market Trends in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-balewadi-stadium-vicinity",
+        "keyword": "Pune Real Estate Market Trends in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-mahalunge-riverfront",
+        "keyword": "Pune Real Estate Market Trends in Mahalunge Riverfront"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-sus-road-mahalunge",
+        "keyword": "Pune Real Estate Market Trends in Sus Road Mahalunge"
       },
       {
         "slug": "pune-real-estate-market-trends-in-wakad",
@@ -24051,6 +27642,42 @@ export const seoSilos = [
         "keyword": "Walk-to-Work Homes Pune in Kharadi"
       },
       {
+        "slug": "walk-to-work-homes-pune-in-hinjewadi-phase-1",
+        "keyword": "Walk-to-Work Homes Pune in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-hinjewadi-phase-2",
+        "keyword": "Walk-to-Work Homes Pune in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-hinjewadi-phase-3",
+        "keyword": "Walk-to-Work Homes Pune in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-wipro-circle-hinjewadi",
+        "keyword": "Walk-to-Work Homes Pune in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-mahalunge-baner-bridge",
+        "keyword": "Walk-to-Work Homes Pune in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-mahalunge-high-tech-city",
+        "keyword": "Walk-to-Work Homes Pune in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-balewadi-stadium-vicinity",
+        "keyword": "Walk-to-Work Homes Pune in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-mahalunge-riverfront",
+        "keyword": "Walk-to-Work Homes Pune in Mahalunge Riverfront"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-sus-road-mahalunge",
+        "keyword": "Walk-to-Work Homes Pune in Sus Road Mahalunge"
+      },
+      {
         "slug": "walk-to-work-homes-pune-in-wakad",
         "keyword": "Walk-to-Work Homes Pune in Wakad"
       },
@@ -24268,6 +27895,42 @@ export const seoSilos = [
       {
         "slug": "properties-near-pune-metro-in-kharadi",
         "keyword": "Properties near Pune Metro in Kharadi"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-hinjewadi-phase-1",
+        "keyword": "Properties near Pune Metro in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-hinjewadi-phase-2",
+        "keyword": "Properties near Pune Metro in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-hinjewadi-phase-3",
+        "keyword": "Properties near Pune Metro in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-wipro-circle-hinjewadi",
+        "keyword": "Properties near Pune Metro in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-mahalunge-baner-bridge",
+        "keyword": "Properties near Pune Metro in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-mahalunge-high-tech-city",
+        "keyword": "Properties near Pune Metro in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-balewadi-stadium-vicinity",
+        "keyword": "Properties near Pune Metro in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-mahalunge-riverfront",
+        "keyword": "Properties near Pune Metro in Mahalunge Riverfront"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-sus-road-mahalunge",
+        "keyword": "Properties near Pune Metro in Sus Road Mahalunge"
       },
       {
         "slug": "properties-near-pune-metro-in-wakad",
@@ -24489,6 +28152,42 @@ export const seoSilos = [
         "keyword": "Top 10 Builders in Pune in Kharadi"
       },
       {
+        "slug": "top-10-builders-in-pune-in-hinjewadi-phase-1",
+        "keyword": "Top 10 Builders in Pune in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-hinjewadi-phase-2",
+        "keyword": "Top 10 Builders in Pune in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-hinjewadi-phase-3",
+        "keyword": "Top 10 Builders in Pune in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-wipro-circle-hinjewadi",
+        "keyword": "Top 10 Builders in Pune in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-mahalunge-baner-bridge",
+        "keyword": "Top 10 Builders in Pune in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-mahalunge-high-tech-city",
+        "keyword": "Top 10 Builders in Pune in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-balewadi-stadium-vicinity",
+        "keyword": "Top 10 Builders in Pune in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-mahalunge-riverfront",
+        "keyword": "Top 10 Builders in Pune in Mahalunge Riverfront"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-sus-road-mahalunge",
+        "keyword": "Top 10 Builders in Pune in Sus Road Mahalunge"
+      },
+      {
         "slug": "top-10-builders-in-pune-in-wakad",
         "keyword": "Top 10 Builders in Pune in Wakad"
       },
@@ -24706,6 +28405,42 @@ export const seoSilos = [
       {
         "slug": "stamp-duty-and-registration-in-pune-in-kharadi",
         "keyword": "Stamp Duty and Registration in Pune in Kharadi"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-hinjewadi-phase-1",
+        "keyword": "Stamp Duty and Registration in Pune in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-hinjewadi-phase-2",
+        "keyword": "Stamp Duty and Registration in Pune in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-hinjewadi-phase-3",
+        "keyword": "Stamp Duty and Registration in Pune in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-wipro-circle-hinjewadi",
+        "keyword": "Stamp Duty and Registration in Pune in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-mahalunge-baner-bridge",
+        "keyword": "Stamp Duty and Registration in Pune in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-mahalunge-high-tech-city",
+        "keyword": "Stamp Duty and Registration in Pune in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-balewadi-stadium-vicinity",
+        "keyword": "Stamp Duty and Registration in Pune in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-mahalunge-riverfront",
+        "keyword": "Stamp Duty and Registration in Pune in Mahalunge Riverfront"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-sus-road-mahalunge",
+        "keyword": "Stamp Duty and Registration in Pune in Sus Road Mahalunge"
       },
       {
         "slug": "stamp-duty-and-registration-in-pune-in-wakad",
@@ -24927,6 +28662,42 @@ export const seoSilos = [
         "keyword": "Is Pune Real Estate a Bubble in Kharadi"
       },
       {
+        "slug": "is-pune-real-estate-a-bubble-in-hinjewadi-phase-1",
+        "keyword": "Is Pune Real Estate a Bubble in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-hinjewadi-phase-2",
+        "keyword": "Is Pune Real Estate a Bubble in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-hinjewadi-phase-3",
+        "keyword": "Is Pune Real Estate a Bubble in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-wipro-circle-hinjewadi",
+        "keyword": "Is Pune Real Estate a Bubble in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-mahalunge-baner-bridge",
+        "keyword": "Is Pune Real Estate a Bubble in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-mahalunge-high-tech-city",
+        "keyword": "Is Pune Real Estate a Bubble in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-balewadi-stadium-vicinity",
+        "keyword": "Is Pune Real Estate a Bubble in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-mahalunge-riverfront",
+        "keyword": "Is Pune Real Estate a Bubble in Mahalunge Riverfront"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-sus-road-mahalunge",
+        "keyword": "Is Pune Real Estate a Bubble in Sus Road Mahalunge"
+      },
+      {
         "slug": "is-pune-real-estate-a-bubble-in-wakad",
         "keyword": "Is Pune Real Estate a Bubble in Wakad"
       },
@@ -25144,6 +28915,42 @@ export const seoSilos = [
       {
         "slug": "pune-vs-bangalore-real-estate-in-kharadi",
         "keyword": "Pune vs Bangalore Real Estate in Kharadi"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-hinjewadi-phase-1",
+        "keyword": "Pune vs Bangalore Real Estate in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-hinjewadi-phase-2",
+        "keyword": "Pune vs Bangalore Real Estate in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-hinjewadi-phase-3",
+        "keyword": "Pune vs Bangalore Real Estate in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-wipro-circle-hinjewadi",
+        "keyword": "Pune vs Bangalore Real Estate in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-mahalunge-baner-bridge",
+        "keyword": "Pune vs Bangalore Real Estate in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-mahalunge-high-tech-city",
+        "keyword": "Pune vs Bangalore Real Estate in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-balewadi-stadium-vicinity",
+        "keyword": "Pune vs Bangalore Real Estate in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-mahalunge-riverfront",
+        "keyword": "Pune vs Bangalore Real Estate in Mahalunge Riverfront"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-sus-road-mahalunge",
+        "keyword": "Pune vs Bangalore Real Estate in Sus Road Mahalunge"
       },
       {
         "slug": "pune-vs-bangalore-real-estate-in-wakad",
@@ -25365,6 +29172,42 @@ export const seoSilos = [
         "keyword": "Pet Friendly Apartments in Pune in Kharadi"
       },
       {
+        "slug": "pet-friendly-apartments-in-pune-in-hinjewadi-phase-1",
+        "keyword": "Pet Friendly Apartments in Pune in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-hinjewadi-phase-2",
+        "keyword": "Pet Friendly Apartments in Pune in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-hinjewadi-phase-3",
+        "keyword": "Pet Friendly Apartments in Pune in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-wipro-circle-hinjewadi",
+        "keyword": "Pet Friendly Apartments in Pune in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-mahalunge-baner-bridge",
+        "keyword": "Pet Friendly Apartments in Pune in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-mahalunge-high-tech-city",
+        "keyword": "Pet Friendly Apartments in Pune in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-balewadi-stadium-vicinity",
+        "keyword": "Pet Friendly Apartments in Pune in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-mahalunge-riverfront",
+        "keyword": "Pet Friendly Apartments in Pune in Mahalunge Riverfront"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-sus-road-mahalunge",
+        "keyword": "Pet Friendly Apartments in Pune in Sus Road Mahalunge"
+      },
+      {
         "slug": "pet-friendly-apartments-in-pune-in-wakad",
         "keyword": "Pet Friendly Apartments in Pune in Wakad"
       },
@@ -25582,6 +29425,42 @@ export const seoSilos = [
       {
         "slug": "smart-home-automation-in-pune-in-kharadi",
         "keyword": "Smart Home Automation in Pune in Kharadi"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-hinjewadi-phase-1",
+        "keyword": "Smart Home Automation in Pune in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-hinjewadi-phase-2",
+        "keyword": "Smart Home Automation in Pune in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-hinjewadi-phase-3",
+        "keyword": "Smart Home Automation in Pune in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-wipro-circle-hinjewadi",
+        "keyword": "Smart Home Automation in Pune in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-mahalunge-baner-bridge",
+        "keyword": "Smart Home Automation in Pune in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-mahalunge-high-tech-city",
+        "keyword": "Smart Home Automation in Pune in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-balewadi-stadium-vicinity",
+        "keyword": "Smart Home Automation in Pune in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-mahalunge-riverfront",
+        "keyword": "Smart Home Automation in Pune in Mahalunge Riverfront"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-sus-road-mahalunge",
+        "keyword": "Smart Home Automation in Pune in Sus Road Mahalunge"
       },
       {
         "slug": "smart-home-automation-in-pune-in-wakad",
@@ -25803,6 +29682,42 @@ export const seoSilos = [
         "keyword": "Co-Living Spaces in Pune in Kharadi"
       },
       {
+        "slug": "co-living-spaces-in-pune-in-hinjewadi-phase-1",
+        "keyword": "Co-Living Spaces in Pune in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-hinjewadi-phase-2",
+        "keyword": "Co-Living Spaces in Pune in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-hinjewadi-phase-3",
+        "keyword": "Co-Living Spaces in Pune in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-wipro-circle-hinjewadi",
+        "keyword": "Co-Living Spaces in Pune in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-mahalunge-baner-bridge",
+        "keyword": "Co-Living Spaces in Pune in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-mahalunge-high-tech-city",
+        "keyword": "Co-Living Spaces in Pune in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-balewadi-stadium-vicinity",
+        "keyword": "Co-Living Spaces in Pune in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-mahalunge-riverfront",
+        "keyword": "Co-Living Spaces in Pune in Mahalunge Riverfront"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-sus-road-mahalunge",
+        "keyword": "Co-Living Spaces in Pune in Sus Road Mahalunge"
+      },
+      {
         "slug": "co-living-spaces-in-pune-in-wakad",
         "keyword": "Co-Living Spaces in Pune in Wakad"
       },
@@ -26020,6 +29935,42 @@ export const seoSilos = [
       {
         "slug": "senior-living-communities-in-pune-in-kharadi",
         "keyword": "Senior Living Communities in Pune in Kharadi"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-hinjewadi-phase-1",
+        "keyword": "Senior Living Communities in Pune in Hinjewadi Phase 1"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-hinjewadi-phase-2",
+        "keyword": "Senior Living Communities in Pune in Hinjewadi Phase 2"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-hinjewadi-phase-3",
+        "keyword": "Senior Living Communities in Pune in Hinjewadi Phase 3"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-wipro-circle-hinjewadi",
+        "keyword": "Senior Living Communities in Pune in Wipro Circle Hinjewadi"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-mahalunge-baner-bridge",
+        "keyword": "Senior Living Communities in Pune in Mahalunge Baner Bridge"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-mahalunge-high-tech-city",
+        "keyword": "Senior Living Communities in Pune in Mahalunge High-Tech City"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-balewadi-stadium-vicinity",
+        "keyword": "Senior Living Communities in Pune in Balewadi Stadium Vicinity"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-mahalunge-riverfront",
+        "keyword": "Senior Living Communities in Pune in Mahalunge Riverfront"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-sus-road-mahalunge",
+        "keyword": "Senior Living Communities in Pune in Sus Road Mahalunge"
       },
       {
         "slug": "senior-living-communities-in-pune-in-wakad",
