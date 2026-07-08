@@ -230,3 +230,12 @@ export default async function LocationPage({ params }) {
   );
 }
 
+export async function generateStaticParams() {
+  const cms = require('../../services/cms').cms;
+  const locations = await cms.getAllLocations();
+  const params = [];
+  for (const loc of locations) {
+      params.push({ location: loc.slug });
+    }
+  return params;
+}

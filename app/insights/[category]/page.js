@@ -93,3 +93,11 @@ export default async function CategoryArchive({   params }) {
   );
 }
 
+export async function generateStaticParams() {
+  const categories = ['market-trends', 'investment', 'lifestyle', 'guides'];
+  const params = [];
+  for (const category of categories) {
+      params.push({ category });
+    }
+  return params;
+}

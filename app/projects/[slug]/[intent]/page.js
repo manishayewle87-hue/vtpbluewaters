@@ -241,3 +241,19 @@ export default async function ProjectIntentDetail({   params }) {
   );
 }
 
+export async function generateStaticParams() {
+  const cms = require('../../../services/cms').cms;
+  const projects = await cms.getAllProjects();
+  const intents = [
+    '2-bhk', '3-bhk', '4-bhk', 'price', 'floor-plan', 'location', 
+    'brochure', 'reviews', 'construction-update', 'amenities',
+    'master-plan', 'contact', 'possession-date', 'rera'
+  ];
+  const params = [];
+  for (const project of projects) {
+      for (const intent of intents) {
+        params.push({ slug: project.slug, intent });
+      }
+    }
+  return params;
+}

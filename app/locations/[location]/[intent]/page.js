@@ -181,3 +181,15 @@ export default async function LocationIntentDetail({   params }) {
   );
 }
 
+export async function generateStaticParams() {
+  const cms = require('../../../services/cms').cms;
+  const locations = await cms.getAllLocations();
+  const intents = ['flats', 'apartments', 'properties', 'real-estate', 'new-projects', 'luxury'];
+  const params = [];
+  for (const loc of locations) {
+      for (const intent of intents) {
+        params.push({ location: loc.slug, intent });
+      }
+    }
+  return params;
+}
