@@ -89,6 +89,8 @@ export default async function sitemap() {
     '/market-intelligence/mahalunge-hinjewadi-investment-guide',
     '/market-intelligence/vtp-bluewaters-township-review',
     '/market-intelligence/pune-ultra-luxury-real-estate-trends',
+    '/market-intelligence/vtp-bluewaters-vs-competitors',
+    '/market-intelligence/hinjewadi-walk-to-work-lifestyle',
     '/investors/nri-investment-guide',
     '/investors/pune-infrastructure-impact-report'
   ];

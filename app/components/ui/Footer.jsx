@@ -172,6 +172,16 @@ export default function Footer() {
                     Pune Ultra-Luxury Real Estate Trends
                   </Link>
                 </li>
+                <li>
+                  <Link href="/market-intelligence/vtp-bluewaters-vs-competitors" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed line-clamp-2">
+                    VTP Bluewaters vs Competitors
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/market-intelligence/hinjewadi-walk-to-work-lifestyle" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed line-clamp-2">
+                    Hinjewadi Walk-To-Work Lifestyle
+                  </Link>
+                </li>
               </ul>
             </div>
 
