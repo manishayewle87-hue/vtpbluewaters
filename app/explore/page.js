@@ -40,6 +40,7 @@ export default function ExploreHubPage() {
                   <Link 
                     key={item.slug} 
                     href={`/explore/${item.slug}`}
+                    prefetch={false}
                     className="text-gray-300 hover:text-white hover:underline text-sm font-inter flex items-center gap-2 group transition-colors"
                   >
                     <span className="w-1 h-1 rounded-full bg-luxury-gold/50 group-hover:bg-luxury-gold transition-colors" />

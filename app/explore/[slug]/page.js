@@ -36,7 +36,7 @@ export async function generateMetadata({ params }) {
       type: 'website',
       images: [
         {
-          url: 'https://vtpbluewaters.com/images/vtp-bluewaters-hero.jpg', // Default premium fallback
+          url: 'https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg', // Default premium fallback
           width: 1200,
           height: 630,
           alt: matchedKeyword,
@@ -47,7 +47,7 @@ export async function generateMetadata({ params }) {
       card: 'summary_large_image',
       title,
       description,
-      images: ['https://vtpbluewaters.com/images/vtp-bluewaters-hero.jpg'],
+      images: ['https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg'],
     },
   };
 }
@@ -173,7 +173,7 @@ export default async function SeoLandingPage({ params }) {
           <ul className="grid grid-cols-1 md:grid-cols-2 gap-4">
             {matchedSilo.slugs.map((related, i) => (
               <li key={i}>
-                <Link href={`/explore/${related.slug}`} className="text-luxury-gold hover:text-white transition-colors text-sm">
+                <Link href={`/explore/${related.slug}`} prefetch={false} className="text-luxury-gold hover:text-white transition-colors text-sm">
                   {related.keyword}
                 </Link>
               </li>
@@ -204,7 +204,7 @@ export default async function SeoLandingPage({ params }) {
               .map(s => s.slugs[0]) // Get the highest priority keyword from every other silo
               .map((related, i) => (
                 <li key={`cross-${i}`}>
-                  <Link href={`/explore/${related.slug}`} className="text-luxury-silver hover:text-luxury-gold transition-colors text-xs font-light">
+                  <Link href={`/explore/${related.slug}`} prefetch={false} className="text-luxury-silver hover:text-luxury-gold transition-colors text-xs font-light">
                     {related.keyword}
                   </Link>
                 </li>
