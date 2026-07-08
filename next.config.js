@@ -18,7 +18,6 @@ const nextConfig = {
   experimental: {
     optimizePackageImports: ['lucide-react', 'framer-motion', '@react-three/drei', '@react-three/fiber', 'three'],
   },
-  output: 'export',
   // NOTE: Security headers are enforced at the Cloudflare edge via public/_headers
   // since output: 'export' does not support Next.js headers() at runtime.
 };
