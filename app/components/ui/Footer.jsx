@@ -134,8 +134,30 @@ export default function Footer() {
       {/* SEO Mega-Footer Section (Blends Seamlessly into UI) */}
       <div className="border-t border-white/5 bg-[#030610]">
         <div className="container mx-auto px-6 max-w-7xl py-12">
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
+          <div className="grid grid-cols-1 md:grid-cols-4 gap-12">
             
+            {/* Market Intelligence Hub */}
+            <div className="col-span-1">
+              <h5 className="text-luxury-caption text-white/40 mb-6 border-b border-white/5 pb-4">Market Intelligence</h5>
+              <ul className="space-y-3">
+                <li>
+                  <Link href="/market-intelligence/mahalunge-hinjewadi-investment-guide" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed line-clamp-2">
+                    Mahalunge & Hinjewadi Investment Guide 2026
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/market-intelligence/vtp-bluewaters-township-review" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed line-clamp-2">
+                    VTP Bluewaters Township Review
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/market-intelligence/pune-ultra-luxury-real-estate-trends" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed line-clamp-2">
+                    Pune Ultra-Luxury Real Estate Trends
+                  </Link>
+                </li>
+              </ul>
+            </div>
+
             {/* Blogs & Articles Hub */}
             <div className="col-span-1">
               <h5 className="text-luxury-caption text-white/40 mb-6 border-b border-white/5 pb-4">Knowledge & Articles</h5>
