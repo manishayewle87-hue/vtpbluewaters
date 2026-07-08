@@ -134,8 +134,25 @@ export default function Footer() {
       {/* SEO Mega-Footer Section (Blends Seamlessly into UI) */}
       <div className="border-t border-white/5 bg-[#030610]">
         <div className="container mx-auto px-6 max-w-7xl py-12">
-          <div className="grid grid-cols-1 md:grid-cols-4 gap-12">
+          <div className="grid grid-cols-1 md:grid-cols-5 gap-8 lg:gap-12">
             
+            {/* Investor Relations Hub (Phase 3) */}
+            <div className="col-span-1">
+              <h5 className="text-luxury-caption text-white/40 mb-6 border-b border-white/5 pb-4">Investor Relations</h5>
+              <ul className="space-y-3">
+                <li>
+                  <Link href="/investors/nri-investment-guide" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed line-clamp-2">
+                    NRI Real Estate Investment Guide Pune
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/investors/pune-infrastructure-impact-report" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed line-clamp-2">
+                    Pune Infrastructure Impact Report
+                  </Link>
+                </li>
+              </ul>
+            </div>
+
             {/* Market Intelligence Hub */}
             <div className="col-span-1">
               <h5 className="text-luxury-caption text-white/40 mb-6 border-b border-white/5 pb-4">Market Intelligence</h5>

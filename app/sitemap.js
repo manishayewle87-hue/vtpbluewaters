@@ -84,11 +84,13 @@ export default async function sitemap() {
   // ─── 3. Content Hub (Blogs, Insights, FAQ, Market Intelligence) ───
   const insightCategories = ['investment-guides', 'educational', 'market-reports', 'comparisons'];
 
-  // Market Intelligence Pillar Pages (Highest Priority)
+  // Market Intelligence & Investor Relations Pillar Pages (Highest Priority)
   const pillarPages = [
     '/market-intelligence/mahalunge-hinjewadi-investment-guide',
     '/market-intelligence/vtp-bluewaters-township-review',
-    '/market-intelligence/pune-ultra-luxury-real-estate-trends'
+    '/market-intelligence/pune-ultra-luxury-real-estate-trends',
+    '/investors/nri-investment-guide',
+    '/investors/pune-infrastructure-impact-report'
   ];
 
   for (const route of pillarPages) {
