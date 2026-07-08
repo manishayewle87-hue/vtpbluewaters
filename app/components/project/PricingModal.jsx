@@ -10,7 +10,7 @@ export default function PricingModal({ isOpen, onClose, planType, projectName })
     e.preventDefault();
     setStatus('loading');
     try {
-      const res = await fetch(process.env.NEXT_PUBLIC_GAS_MAILER_URL, {
+      const res = await fetch('/api/contact', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({

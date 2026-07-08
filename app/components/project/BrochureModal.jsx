@@ -23,15 +23,7 @@ export default function BrochureModal({ isOpen, onClose, projectName }) {
     try {
       const token = await executeRecaptcha('brochure_download');
 
-      const webhookUrl = process.env.NEXT_PUBLIC_GAS_MAILER_URL;
-      if (!webhookUrl) {
-        console.error("Webhook URL missing");
-        setStatus('idle');
-        alert('Configuration error. Please contact support.');
-        return;
-      }
-
-      const res = await fetch(webhookUrl, {
+      const res = await fetch('/api/contact', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ 
