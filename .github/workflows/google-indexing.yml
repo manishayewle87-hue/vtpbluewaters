@@ -1,0 +1,29 @@
+name: Google Indexing API Daily Sync
+
+on:
+  schedule:
+    # Runs at 00:00 UTC (5:30 AM IST) every day to sync with Google's quota reset
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows manual trigger directly from the GitHub UI
+
+jobs:
+  index-urls:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Inject GCP Service Account Key
+        run: |
+          echo "${{ secrets.GCP_SERVICE_ACCOUNT_JSON }}" > scripts/service-account.json
+
+      - name: Run Indexing Script
+        run: node scripts/submit-indexing.cjs
