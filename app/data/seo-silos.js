@@ -1,7 +1,7 @@
 // AUTO-GENERATED SEO SILOS DATABASE
 // Generated via programmatic SEO engine for massive keyword injection.
 // Total Silos: 27
-// Total Keywords: 651
+// Total Keywords: 819
 
 export const seoSilos = [
   {
@@ -56,6 +56,34 @@ export const seoSilos = [
       {
         "slug": "4-bhk-flats-in-mahalunge",
         "keyword": "4 BHK Flats in Mahalunge"
+      },
+      {
+        "slug": "luxury-duplex-in-mahalunge",
+        "keyword": "Luxury Duplex in Mahalunge"
+      },
+      {
+        "slug": "sky-duplex-in-mahalunge",
+        "keyword": "Sky Duplex in Mahalunge"
+      },
+      {
+        "slug": "simplex-flats-in-mahalunge",
+        "keyword": "Simplex Flats in Mahalunge"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-mahalunge",
+        "keyword": "Ultra-Luxury Penthouse in Mahalunge"
+      },
+      {
+        "slug": "double-height-living-in-mahalunge",
+        "keyword": "Double-Height Living in Mahalunge"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-mahalunge",
+        "keyword": "Apartments with Private Pool in Mahalunge"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-mahalunge",
+        "keyword": "NRI Real Estate Investment in Mahalunge"
       },
       {
         "slug": "properties-in-mahalunge",
@@ -132,6 +160,34 @@ export const seoSilos = [
       {
         "slug": "mahalunge-4-bhk",
         "keyword": "Mahalunge 4 BHK"
+      },
+      {
+        "slug": "mahalunge-duplex-apartments",
+        "keyword": "Mahalunge Duplex Apartments"
+      },
+      {
+        "slug": "mahalunge-sky-duplex",
+        "keyword": "Mahalunge Sky Duplex"
+      },
+      {
+        "slug": "mahalunge-simplex-apartments",
+        "keyword": "Mahalunge Simplex Apartments"
+      },
+      {
+        "slug": "mahalunge-penthouses",
+        "keyword": "Mahalunge Penthouses"
+      },
+      {
+        "slug": "mahalunge-double-height-homes",
+        "keyword": "Mahalunge Double-Height Homes"
+      },
+      {
+        "slug": "mahalunge-private-plunge-pool-flats",
+        "keyword": "Mahalunge Private Plunge Pool Flats"
+      },
+      {
+        "slug": "mahalunge-nri-premium-homes",
+        "keyword": "Mahalunge NRI Premium Homes"
       },
       {
         "slug": "mahalunge-properties",
@@ -217,6 +273,34 @@ export const seoSilos = [
         "keyword": "4 BHK Flats in Hinjawadi"
       },
       {
+        "slug": "luxury-duplex-in-hinjawadi",
+        "keyword": "Luxury Duplex in Hinjawadi"
+      },
+      {
+        "slug": "sky-duplex-in-hinjawadi",
+        "keyword": "Sky Duplex in Hinjawadi"
+      },
+      {
+        "slug": "simplex-flats-in-hinjawadi",
+        "keyword": "Simplex Flats in Hinjawadi"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-hinjawadi",
+        "keyword": "Ultra-Luxury Penthouse in Hinjawadi"
+      },
+      {
+        "slug": "double-height-living-in-hinjawadi",
+        "keyword": "Double-Height Living in Hinjawadi"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-hinjawadi",
+        "keyword": "Apartments with Private Pool in Hinjawadi"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-hinjawadi",
+        "keyword": "NRI Real Estate Investment in Hinjawadi"
+      },
+      {
         "slug": "properties-in-hinjawadi",
         "keyword": "Properties in Hinjawadi"
       },
@@ -291,6 +375,34 @@ export const seoSilos = [
       {
         "slug": "hinjawadi-4-bhk",
         "keyword": "Hinjawadi 4 BHK"
+      },
+      {
+        "slug": "hinjawadi-duplex-apartments",
+        "keyword": "Hinjawadi Duplex Apartments"
+      },
+      {
+        "slug": "hinjawadi-sky-duplex",
+        "keyword": "Hinjawadi Sky Duplex"
+      },
+      {
+        "slug": "hinjawadi-simplex-apartments",
+        "keyword": "Hinjawadi Simplex Apartments"
+      },
+      {
+        "slug": "hinjawadi-penthouses",
+        "keyword": "Hinjawadi Penthouses"
+      },
+      {
+        "slug": "hinjawadi-double-height-homes",
+        "keyword": "Hinjawadi Double-Height Homes"
+      },
+      {
+        "slug": "hinjawadi-private-plunge-pool-flats",
+        "keyword": "Hinjawadi Private Plunge Pool Flats"
+      },
+      {
+        "slug": "hinjawadi-nri-premium-homes",
+        "keyword": "Hinjawadi NRI Premium Homes"
       },
       {
         "slug": "hinjawadi-properties",
@@ -376,6 +488,34 @@ export const seoSilos = [
         "keyword": "4 BHK Flats in Baner"
       },
       {
+        "slug": "luxury-duplex-in-baner",
+        "keyword": "Luxury Duplex in Baner"
+      },
+      {
+        "slug": "sky-duplex-in-baner",
+        "keyword": "Sky Duplex in Baner"
+      },
+      {
+        "slug": "simplex-flats-in-baner",
+        "keyword": "Simplex Flats in Baner"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-baner",
+        "keyword": "Ultra-Luxury Penthouse in Baner"
+      },
+      {
+        "slug": "double-height-living-in-baner",
+        "keyword": "Double-Height Living in Baner"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-baner",
+        "keyword": "Apartments with Private Pool in Baner"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-baner",
+        "keyword": "NRI Real Estate Investment in Baner"
+      },
+      {
         "slug": "properties-in-baner",
         "keyword": "Properties in Baner"
       },
@@ -450,6 +590,34 @@ export const seoSilos = [
       {
         "slug": "baner-4-bhk",
         "keyword": "Baner 4 BHK"
+      },
+      {
+        "slug": "baner-duplex-apartments",
+        "keyword": "Baner Duplex Apartments"
+      },
+      {
+        "slug": "baner-sky-duplex",
+        "keyword": "Baner Sky Duplex"
+      },
+      {
+        "slug": "baner-simplex-apartments",
+        "keyword": "Baner Simplex Apartments"
+      },
+      {
+        "slug": "baner-penthouses",
+        "keyword": "Baner Penthouses"
+      },
+      {
+        "slug": "baner-double-height-homes",
+        "keyword": "Baner Double-Height Homes"
+      },
+      {
+        "slug": "baner-private-plunge-pool-flats",
+        "keyword": "Baner Private Plunge Pool Flats"
+      },
+      {
+        "slug": "baner-nri-premium-homes",
+        "keyword": "Baner NRI Premium Homes"
       },
       {
         "slug": "baner-properties",
@@ -535,6 +703,34 @@ export const seoSilos = [
         "keyword": "4 BHK Flats in Kharadi"
       },
       {
+        "slug": "luxury-duplex-in-kharadi",
+        "keyword": "Luxury Duplex in Kharadi"
+      },
+      {
+        "slug": "sky-duplex-in-kharadi",
+        "keyword": "Sky Duplex in Kharadi"
+      },
+      {
+        "slug": "simplex-flats-in-kharadi",
+        "keyword": "Simplex Flats in Kharadi"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-kharadi",
+        "keyword": "Ultra-Luxury Penthouse in Kharadi"
+      },
+      {
+        "slug": "double-height-living-in-kharadi",
+        "keyword": "Double-Height Living in Kharadi"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-kharadi",
+        "keyword": "Apartments with Private Pool in Kharadi"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-kharadi",
+        "keyword": "NRI Real Estate Investment in Kharadi"
+      },
+      {
         "slug": "properties-in-kharadi",
         "keyword": "Properties in Kharadi"
       },
@@ -609,6 +805,34 @@ export const seoSilos = [
       {
         "slug": "kharadi-4-bhk",
         "keyword": "Kharadi 4 BHK"
+      },
+      {
+        "slug": "kharadi-duplex-apartments",
+        "keyword": "Kharadi Duplex Apartments"
+      },
+      {
+        "slug": "kharadi-sky-duplex",
+        "keyword": "Kharadi Sky Duplex"
+      },
+      {
+        "slug": "kharadi-simplex-apartments",
+        "keyword": "Kharadi Simplex Apartments"
+      },
+      {
+        "slug": "kharadi-penthouses",
+        "keyword": "Kharadi Penthouses"
+      },
+      {
+        "slug": "kharadi-double-height-homes",
+        "keyword": "Kharadi Double-Height Homes"
+      },
+      {
+        "slug": "kharadi-private-plunge-pool-flats",
+        "keyword": "Kharadi Private Plunge Pool Flats"
+      },
+      {
+        "slug": "kharadi-nri-premium-homes",
+        "keyword": "Kharadi NRI Premium Homes"
       },
       {
         "slug": "kharadi-properties",
@@ -694,6 +918,34 @@ export const seoSilos = [
         "keyword": "4 BHK Flats in Wakad"
       },
       {
+        "slug": "luxury-duplex-in-wakad",
+        "keyword": "Luxury Duplex in Wakad"
+      },
+      {
+        "slug": "sky-duplex-in-wakad",
+        "keyword": "Sky Duplex in Wakad"
+      },
+      {
+        "slug": "simplex-flats-in-wakad",
+        "keyword": "Simplex Flats in Wakad"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-wakad",
+        "keyword": "Ultra-Luxury Penthouse in Wakad"
+      },
+      {
+        "slug": "double-height-living-in-wakad",
+        "keyword": "Double-Height Living in Wakad"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-wakad",
+        "keyword": "Apartments with Private Pool in Wakad"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-wakad",
+        "keyword": "NRI Real Estate Investment in Wakad"
+      },
+      {
         "slug": "properties-in-wakad",
         "keyword": "Properties in Wakad"
       },
@@ -768,6 +1020,34 @@ export const seoSilos = [
       {
         "slug": "wakad-4-bhk",
         "keyword": "Wakad 4 BHK"
+      },
+      {
+        "slug": "wakad-duplex-apartments",
+        "keyword": "Wakad Duplex Apartments"
+      },
+      {
+        "slug": "wakad-sky-duplex",
+        "keyword": "Wakad Sky Duplex"
+      },
+      {
+        "slug": "wakad-simplex-apartments",
+        "keyword": "Wakad Simplex Apartments"
+      },
+      {
+        "slug": "wakad-penthouses",
+        "keyword": "Wakad Penthouses"
+      },
+      {
+        "slug": "wakad-double-height-homes",
+        "keyword": "Wakad Double-Height Homes"
+      },
+      {
+        "slug": "wakad-private-plunge-pool-flats",
+        "keyword": "Wakad Private Plunge Pool Flats"
+      },
+      {
+        "slug": "wakad-nri-premium-homes",
+        "keyword": "Wakad NRI Premium Homes"
       },
       {
         "slug": "wakad-properties",
@@ -853,6 +1133,34 @@ export const seoSilos = [
         "keyword": "4 BHK Flats in Balewadi"
       },
       {
+        "slug": "luxury-duplex-in-balewadi",
+        "keyword": "Luxury Duplex in Balewadi"
+      },
+      {
+        "slug": "sky-duplex-in-balewadi",
+        "keyword": "Sky Duplex in Balewadi"
+      },
+      {
+        "slug": "simplex-flats-in-balewadi",
+        "keyword": "Simplex Flats in Balewadi"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-balewadi",
+        "keyword": "Ultra-Luxury Penthouse in Balewadi"
+      },
+      {
+        "slug": "double-height-living-in-balewadi",
+        "keyword": "Double-Height Living in Balewadi"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-balewadi",
+        "keyword": "Apartments with Private Pool in Balewadi"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-balewadi",
+        "keyword": "NRI Real Estate Investment in Balewadi"
+      },
+      {
         "slug": "properties-in-balewadi",
         "keyword": "Properties in Balewadi"
       },
@@ -927,6 +1235,34 @@ export const seoSilos = [
       {
         "slug": "balewadi-4-bhk",
         "keyword": "Balewadi 4 BHK"
+      },
+      {
+        "slug": "balewadi-duplex-apartments",
+        "keyword": "Balewadi Duplex Apartments"
+      },
+      {
+        "slug": "balewadi-sky-duplex",
+        "keyword": "Balewadi Sky Duplex"
+      },
+      {
+        "slug": "balewadi-simplex-apartments",
+        "keyword": "Balewadi Simplex Apartments"
+      },
+      {
+        "slug": "balewadi-penthouses",
+        "keyword": "Balewadi Penthouses"
+      },
+      {
+        "slug": "balewadi-double-height-homes",
+        "keyword": "Balewadi Double-Height Homes"
+      },
+      {
+        "slug": "balewadi-private-plunge-pool-flats",
+        "keyword": "Balewadi Private Plunge Pool Flats"
+      },
+      {
+        "slug": "balewadi-nri-premium-homes",
+        "keyword": "Balewadi NRI Premium Homes"
       },
       {
         "slug": "balewadi-properties",
@@ -1012,6 +1348,34 @@ export const seoSilos = [
         "keyword": "4 BHK Flats in Tathawade"
       },
       {
+        "slug": "luxury-duplex-in-tathawade",
+        "keyword": "Luxury Duplex in Tathawade"
+      },
+      {
+        "slug": "sky-duplex-in-tathawade",
+        "keyword": "Sky Duplex in Tathawade"
+      },
+      {
+        "slug": "simplex-flats-in-tathawade",
+        "keyword": "Simplex Flats in Tathawade"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-tathawade",
+        "keyword": "Ultra-Luxury Penthouse in Tathawade"
+      },
+      {
+        "slug": "double-height-living-in-tathawade",
+        "keyword": "Double-Height Living in Tathawade"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-tathawade",
+        "keyword": "Apartments with Private Pool in Tathawade"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-tathawade",
+        "keyword": "NRI Real Estate Investment in Tathawade"
+      },
+      {
         "slug": "properties-in-tathawade",
         "keyword": "Properties in Tathawade"
       },
@@ -1086,6 +1450,34 @@ export const seoSilos = [
       {
         "slug": "tathawade-4-bhk",
         "keyword": "Tathawade 4 BHK"
+      },
+      {
+        "slug": "tathawade-duplex-apartments",
+        "keyword": "Tathawade Duplex Apartments"
+      },
+      {
+        "slug": "tathawade-sky-duplex",
+        "keyword": "Tathawade Sky Duplex"
+      },
+      {
+        "slug": "tathawade-simplex-apartments",
+        "keyword": "Tathawade Simplex Apartments"
+      },
+      {
+        "slug": "tathawade-penthouses",
+        "keyword": "Tathawade Penthouses"
+      },
+      {
+        "slug": "tathawade-double-height-homes",
+        "keyword": "Tathawade Double-Height Homes"
+      },
+      {
+        "slug": "tathawade-private-plunge-pool-flats",
+        "keyword": "Tathawade Private Plunge Pool Flats"
+      },
+      {
+        "slug": "tathawade-nri-premium-homes",
+        "keyword": "Tathawade NRI Premium Homes"
       },
       {
         "slug": "tathawade-properties",
@@ -1171,6 +1563,34 @@ export const seoSilos = [
         "keyword": "4 BHK Flats in PCMC"
       },
       {
+        "slug": "luxury-duplex-in-pcmc",
+        "keyword": "Luxury Duplex in PCMC"
+      },
+      {
+        "slug": "sky-duplex-in-pcmc",
+        "keyword": "Sky Duplex in PCMC"
+      },
+      {
+        "slug": "simplex-flats-in-pcmc",
+        "keyword": "Simplex Flats in PCMC"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-pcmc",
+        "keyword": "Ultra-Luxury Penthouse in PCMC"
+      },
+      {
+        "slug": "double-height-living-in-pcmc",
+        "keyword": "Double-Height Living in PCMC"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-pcmc",
+        "keyword": "Apartments with Private Pool in PCMC"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-pcmc",
+        "keyword": "NRI Real Estate Investment in PCMC"
+      },
+      {
         "slug": "properties-in-pcmc",
         "keyword": "Properties in PCMC"
       },
@@ -1245,6 +1665,34 @@ export const seoSilos = [
       {
         "slug": "pcmc-4-bhk",
         "keyword": "PCMC 4 BHK"
+      },
+      {
+        "slug": "pcmc-duplex-apartments",
+        "keyword": "PCMC Duplex Apartments"
+      },
+      {
+        "slug": "pcmc-sky-duplex",
+        "keyword": "PCMC Sky Duplex"
+      },
+      {
+        "slug": "pcmc-simplex-apartments",
+        "keyword": "PCMC Simplex Apartments"
+      },
+      {
+        "slug": "pcmc-penthouses",
+        "keyword": "PCMC Penthouses"
+      },
+      {
+        "slug": "pcmc-double-height-homes",
+        "keyword": "PCMC Double-Height Homes"
+      },
+      {
+        "slug": "pcmc-private-plunge-pool-flats",
+        "keyword": "PCMC Private Plunge Pool Flats"
+      },
+      {
+        "slug": "pcmc-nri-premium-homes",
+        "keyword": "PCMC NRI Premium Homes"
       },
       {
         "slug": "pcmc-properties",
@@ -1330,6 +1778,34 @@ export const seoSilos = [
         "keyword": "4 BHK Flats in Bavdhan"
       },
       {
+        "slug": "luxury-duplex-in-bavdhan",
+        "keyword": "Luxury Duplex in Bavdhan"
+      },
+      {
+        "slug": "sky-duplex-in-bavdhan",
+        "keyword": "Sky Duplex in Bavdhan"
+      },
+      {
+        "slug": "simplex-flats-in-bavdhan",
+        "keyword": "Simplex Flats in Bavdhan"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-bavdhan",
+        "keyword": "Ultra-Luxury Penthouse in Bavdhan"
+      },
+      {
+        "slug": "double-height-living-in-bavdhan",
+        "keyword": "Double-Height Living in Bavdhan"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-bavdhan",
+        "keyword": "Apartments with Private Pool in Bavdhan"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-bavdhan",
+        "keyword": "NRI Real Estate Investment in Bavdhan"
+      },
+      {
         "slug": "properties-in-bavdhan",
         "keyword": "Properties in Bavdhan"
       },
@@ -1404,6 +1880,34 @@ export const seoSilos = [
       {
         "slug": "bavdhan-4-bhk",
         "keyword": "Bavdhan 4 BHK"
+      },
+      {
+        "slug": "bavdhan-duplex-apartments",
+        "keyword": "Bavdhan Duplex Apartments"
+      },
+      {
+        "slug": "bavdhan-sky-duplex",
+        "keyword": "Bavdhan Sky Duplex"
+      },
+      {
+        "slug": "bavdhan-simplex-apartments",
+        "keyword": "Bavdhan Simplex Apartments"
+      },
+      {
+        "slug": "bavdhan-penthouses",
+        "keyword": "Bavdhan Penthouses"
+      },
+      {
+        "slug": "bavdhan-double-height-homes",
+        "keyword": "Bavdhan Double-Height Homes"
+      },
+      {
+        "slug": "bavdhan-private-plunge-pool-flats",
+        "keyword": "Bavdhan Private Plunge Pool Flats"
+      },
+      {
+        "slug": "bavdhan-nri-premium-homes",
+        "keyword": "Bavdhan NRI Premium Homes"
       },
       {
         "slug": "bavdhan-properties",
@@ -1489,6 +1993,34 @@ export const seoSilos = [
         "keyword": "4 BHK Flats in West Pune"
       },
       {
+        "slug": "luxury-duplex-in-west-pune",
+        "keyword": "Luxury Duplex in West Pune"
+      },
+      {
+        "slug": "sky-duplex-in-west-pune",
+        "keyword": "Sky Duplex in West Pune"
+      },
+      {
+        "slug": "simplex-flats-in-west-pune",
+        "keyword": "Simplex Flats in West Pune"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-west-pune",
+        "keyword": "Ultra-Luxury Penthouse in West Pune"
+      },
+      {
+        "slug": "double-height-living-in-west-pune",
+        "keyword": "Double-Height Living in West Pune"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-west-pune",
+        "keyword": "Apartments with Private Pool in West Pune"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-west-pune",
+        "keyword": "NRI Real Estate Investment in West Pune"
+      },
+      {
         "slug": "properties-in-west-pune",
         "keyword": "Properties in West Pune"
       },
@@ -1563,6 +2095,34 @@ export const seoSilos = [
       {
         "slug": "west-pune-4-bhk",
         "keyword": "West Pune 4 BHK"
+      },
+      {
+        "slug": "west-pune-duplex-apartments",
+        "keyword": "West Pune Duplex Apartments"
+      },
+      {
+        "slug": "west-pune-sky-duplex",
+        "keyword": "West Pune Sky Duplex"
+      },
+      {
+        "slug": "west-pune-simplex-apartments",
+        "keyword": "West Pune Simplex Apartments"
+      },
+      {
+        "slug": "west-pune-penthouses",
+        "keyword": "West Pune Penthouses"
+      },
+      {
+        "slug": "west-pune-double-height-homes",
+        "keyword": "West Pune Double-Height Homes"
+      },
+      {
+        "slug": "west-pune-private-plunge-pool-flats",
+        "keyword": "West Pune Private Plunge Pool Flats"
+      },
+      {
+        "slug": "west-pune-nri-premium-homes",
+        "keyword": "West Pune NRI Premium Homes"
       },
       {
         "slug": "west-pune-properties",
@@ -1648,6 +2208,34 @@ export const seoSilos = [
         "keyword": "4 BHK Flats in East Pune"
       },
       {
+        "slug": "luxury-duplex-in-east-pune",
+        "keyword": "Luxury Duplex in East Pune"
+      },
+      {
+        "slug": "sky-duplex-in-east-pune",
+        "keyword": "Sky Duplex in East Pune"
+      },
+      {
+        "slug": "simplex-flats-in-east-pune",
+        "keyword": "Simplex Flats in East Pune"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-east-pune",
+        "keyword": "Ultra-Luxury Penthouse in East Pune"
+      },
+      {
+        "slug": "double-height-living-in-east-pune",
+        "keyword": "Double-Height Living in East Pune"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-east-pune",
+        "keyword": "Apartments with Private Pool in East Pune"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-east-pune",
+        "keyword": "NRI Real Estate Investment in East Pune"
+      },
+      {
         "slug": "properties-in-east-pune",
         "keyword": "Properties in East Pune"
       },
@@ -1722,6 +2310,34 @@ export const seoSilos = [
       {
         "slug": "east-pune-4-bhk",
         "keyword": "East Pune 4 BHK"
+      },
+      {
+        "slug": "east-pune-duplex-apartments",
+        "keyword": "East Pune Duplex Apartments"
+      },
+      {
+        "slug": "east-pune-sky-duplex",
+        "keyword": "East Pune Sky Duplex"
+      },
+      {
+        "slug": "east-pune-simplex-apartments",
+        "keyword": "East Pune Simplex Apartments"
+      },
+      {
+        "slug": "east-pune-penthouses",
+        "keyword": "East Pune Penthouses"
+      },
+      {
+        "slug": "east-pune-double-height-homes",
+        "keyword": "East Pune Double-Height Homes"
+      },
+      {
+        "slug": "east-pune-private-plunge-pool-flats",
+        "keyword": "East Pune Private Plunge Pool Flats"
+      },
+      {
+        "slug": "east-pune-nri-premium-homes",
+        "keyword": "East Pune NRI Premium Homes"
       },
       {
         "slug": "east-pune-properties",
@@ -1807,6 +2423,34 @@ export const seoSilos = [
         "keyword": "4 BHK Flats in Pune City"
       },
       {
+        "slug": "luxury-duplex-in-pune-city",
+        "keyword": "Luxury Duplex in Pune City"
+      },
+      {
+        "slug": "sky-duplex-in-pune-city",
+        "keyword": "Sky Duplex in Pune City"
+      },
+      {
+        "slug": "simplex-flats-in-pune-city",
+        "keyword": "Simplex Flats in Pune City"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-pune-city",
+        "keyword": "Ultra-Luxury Penthouse in Pune City"
+      },
+      {
+        "slug": "double-height-living-in-pune-city",
+        "keyword": "Double-Height Living in Pune City"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-pune-city",
+        "keyword": "Apartments with Private Pool in Pune City"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-pune-city",
+        "keyword": "NRI Real Estate Investment in Pune City"
+      },
+      {
         "slug": "properties-in-pune-city",
         "keyword": "Properties in Pune City"
       },
@@ -1881,6 +2525,34 @@ export const seoSilos = [
       {
         "slug": "pune-city-4-bhk",
         "keyword": "Pune City 4 BHK"
+      },
+      {
+        "slug": "pune-city-duplex-apartments",
+        "keyword": "Pune City Duplex Apartments"
+      },
+      {
+        "slug": "pune-city-sky-duplex",
+        "keyword": "Pune City Sky Duplex"
+      },
+      {
+        "slug": "pune-city-simplex-apartments",
+        "keyword": "Pune City Simplex Apartments"
+      },
+      {
+        "slug": "pune-city-penthouses",
+        "keyword": "Pune City Penthouses"
+      },
+      {
+        "slug": "pune-city-double-height-homes",
+        "keyword": "Pune City Double-Height Homes"
+      },
+      {
+        "slug": "pune-city-private-plunge-pool-flats",
+        "keyword": "Pune City Private Plunge Pool Flats"
+      },
+      {
+        "slug": "pune-city-nri-premium-homes",
+        "keyword": "Pune City NRI Premium Homes"
       },
       {
         "slug": "pune-city-properties",

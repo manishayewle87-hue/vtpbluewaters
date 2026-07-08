@@ -35,6 +35,8 @@ const categories = [
   { id: 'new-launch-projects', prefix: 'New Launch Projects in', suffix: 'New Launch Projects' },
   { id: 'township-projects', prefix: 'Township Projects in', suffix: 'Township Projects' },
   { id: 'real-estate-investment', prefix: 'Real Estate Investment in', suffix: 'Real Estate Investment' },
+  
+  // Exact Match Configs
   { id: '2bhk', prefix: '2BHK in', suffix: '2BHK Flats' },
   { id: '3bhk', prefix: '3BHK in', suffix: '3BHK Luxury Homes' },
   { id: '4bhk', prefix: '4BHK in', suffix: '4BHK Premium Apartments' },
@@ -42,6 +44,17 @@ const categories = [
   { id: '2-bhk-flats', prefix: '2 BHK Flats in', suffix: '2 BHK' },
   { id: '3-bhk-flats', prefix: '3 BHK Flats in', suffix: '3 BHK' },
   { id: '4-bhk-flats', prefix: '4 BHK Flats in', suffix: '4 BHK' },
+  
+  // Ultra-Luxury & Architectural (HNWI Targeting)
+  { id: 'duplex', prefix: 'Luxury Duplex in', suffix: 'Duplex Apartments' },
+  { id: 'skyduplex', prefix: 'Sky Duplex in', suffix: 'Sky Duplex' },
+  { id: 'simplex', prefix: 'Simplex Flats in', suffix: 'Simplex Apartments' },
+  { id: 'penthouse', prefix: 'Ultra-Luxury Penthouse in', suffix: 'Penthouses' },
+  { id: 'double-height', prefix: 'Double-Height Living in', suffix: 'Double-Height Homes' },
+  { id: 'private-pool', prefix: 'Apartments with Private Pool in', suffix: 'Private Plunge Pool Flats' },
+  { id: 'nri-investment', prefix: 'NRI Real Estate Investment in', suffix: 'NRI Premium Homes' },
+  
+  // Broad Intents
   { id: 'properties', prefix: 'Properties in', suffix: 'Properties' },
   { id: 'flats', prefix: 'Flats in', suffix: 'Flats' },
   { id: 'ready-possession', prefix: 'Ready Possession Flats in', suffix: 'Ready Possession' },
