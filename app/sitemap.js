@@ -81,8 +81,24 @@ export default async function sitemap() {
     }
   }
 
-  // ─── 3. Content Hub (Blogs, Insights, FAQ) ───
+  // ─── 3. Content Hub (Blogs, Insights, FAQ, Market Intelligence) ───
   const insightCategories = ['investment-guides', 'educational', 'market-reports', 'comparisons'];
+
+  // Market Intelligence Pillar Pages (Highest Priority)
+  const pillarPages = [
+    '/market-intelligence/mahalunge-hinjewadi-investment-guide',
+    '/market-intelligence/vtp-bluewaters-township-review',
+    '/market-intelligence/pune-ultra-luxury-real-estate-trends'
+  ];
+
+  for (const route of pillarPages) {
+    entries.push({
+      url: `${baseUrl}${route}`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly',
+      priority: 1.0,
+    });
+  }
 
   entries.push({
     url: `${baseUrl}/blog`,
@@ -91,7 +107,8 @@ export default async function sitemap() {
     priority: 0.8,
   });
 
-  for (const blog of contentData.blogs) {
+  const allBlogs = await cms.getAllBlogs();
+  for (const blog of allBlogs) {
     entries.push({
       url: `${baseUrl}/blog/${blog.slug}`,
       lastModified: new Date(),
