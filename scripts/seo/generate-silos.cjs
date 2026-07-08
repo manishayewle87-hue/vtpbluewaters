@@ -2,15 +2,41 @@ const fs = require('fs');
 const path = require('path');
 
 const locations = [
+  // Core VTP Hubs
   { id: 'mahalunge', name: 'Mahalunge', desc: 'VTP Bluewaters in Mahalunge is West Pune\'s most prestigious 200+ acre luxury township.' },
   { id: 'hinjawadi', name: 'Hinjawadi', desc: 'Invest in Hinjawadi, Pune\'s largest IT hub. Premium apartments near Rajiv Gandhi Infotech Park.' },
   { id: 'baner', name: 'Baner', desc: 'Baner offers the perfect blend of cosmopolitan lifestyle and serene living with ultra-luxury apartments.' },
   { id: 'kharadi', name: 'Kharadi', desc: 'Kharadi is the beating heart of East Pune. Discover ultra-luxury apartments near EON IT Park.' },
+  
+  // West & North-West (Ring Road Impact)
   { id: 'wakad', name: 'Wakad', desc: 'Wakad is a premium residential hub offering excellent connectivity to Hinjawadi IT Park and Mumbai-Pune Expressway.' },
   { id: 'balewadi', name: 'Balewadi', desc: 'Balewadi is synonymous with sports, luxury, and high-end living in West Pune.' },
   { id: 'tathawade', name: 'Tathawade', desc: 'Tathawade is an emerging educational and residential hotspot in West Pune with tremendous growth potential.' },
-  { id: 'pcmc', name: 'PCMC', desc: 'Pimpri-Chinchwad (PCMC) offers unparalleled infrastructure and premium residential developments.' },
   { id: 'bavdhan', name: 'Bavdhan', desc: 'Bavdhan offers scenic nature views combined with premium luxury living in West Pune.' },
+  { id: 'aundh', name: 'Aundh', desc: 'Aundh remains one of Pune\'s most elite, established residential corridors.' },
+  { id: 'pashan', name: 'Pashan', desc: 'Pashan offers a tranquil, green environment in close proximity to major West Pune hubs.' },
+  { id: 'sus', name: 'Sus', desc: 'Sus is rapidly developing into a highly preferred residential destination near the IT hubs.' },
+  { id: 'kothrud', name: 'Kothrud', desc: 'Kothrud combines rich cultural heritage with modern premium residential developments.' },
+  
+  // East & Central (Premium Hubs)
+  { id: 'kalyani-nagar', name: 'Kalyani Nagar', desc: 'Kalyani Nagar is an exclusive enclave known for its ultra-luxury lifestyle and premium connectivity.' },
+  { id: 'koregaon-park', name: 'Koregaon Park', desc: 'Koregaon Park is Pune\'s most prestigious address, defined by its massive green canopy and elite residences.' },
+  { id: 'viman-nagar', name: 'Viman Nagar', desc: 'Viman Nagar offers unparalleled convenience, retail hubs, and proximity to the international airport.' },
+  { id: 'magarpatta', name: 'Magarpatta', desc: 'Magarpatta is the original integrated IT township and a beacon for modern residential living.' },
+  { id: 'hadapsar', name: 'Hadapsar', desc: 'Hadapsar is a massive growth corridor connecting industrial parks and premium IT zones.' },
+  { id: 'wagholi', name: 'Wagholi', desc: 'Wagholi is East Pune\'s fastest-growing residential destination for IT professionals.' },
+  
+  // PCMC & Emerging Growth
+  { id: 'pcmc', name: 'PCMC', desc: 'Pimpri-Chinchwad (PCMC) offers unparalleled infrastructure and premium residential developments.' },
+  { id: 'ravet', name: 'Ravet', desc: 'Ravet is the gateway to Pune, witnessing a massive boom in premium high-rise living.' },
+  { id: 'punawale', name: 'Punawale', desc: 'Punawale is a prime investment hub, capitalizing on the upcoming Ring Road infrastructure.' },
+  { id: 'moshi', name: 'Moshi', desc: 'Moshi is transforming into a self-sufficient residential hotspot in the PCMC region.' },
+  
+  // South Pune
+  { id: 'undri', name: 'Undri', desc: 'Undri offers serene, large-format living away from the city chaos but with excellent connectivity.' },
+  { id: 'kondhwa', name: 'Kondhwa', desc: 'Kondhwa represents the established South Pune market with diverse residential options.' },
+
+  // Macro Zones
   { id: 'pune-west', name: 'West Pune', desc: 'West Pune is the ultimate destination for luxury real estate, IT parks, and high ROI investments.' },
   { id: 'pune-east', name: 'East Pune', desc: 'East Pune features rapidly growing IT hubs and premium residential townships.' },
   { id: 'pune-city', name: 'Pune City', desc: 'Explore the finest real estate opportunities across Pune, from luxury apartments to premium townships.' }
@@ -120,7 +146,11 @@ const themes = [
   { id: 'riverfront-living', name: 'Riverfront Living Pune' },
   { id: 'high-roi-investment', name: 'High ROI Investment Pune' },
   { id: 'zero-brokerage-flats', name: 'Zero Brokerage Flats Pune' },
-  { id: 'rera-registered-projects', name: 'RERA Registered Projects Pune' }
+  { id: 'rera-registered-projects', name: 'RERA Registered Projects Pune' },
+  { id: 'best-areas-invest-2026', name: 'Best Areas to Invest in Pune 2026' },
+  { id: 'pune-real-estate-market', name: 'Pune Real Estate Market Trends' },
+  { id: 'walk-to-work-homes', name: 'Walk-to-Work Homes Pune' },
+  { id: 'metro-connected-properties', name: 'Properties near Pune Metro' }
 ];
 
 themes.forEach(theme => {

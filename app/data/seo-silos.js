@@ -1,7 +1,7 @@
 // AUTO-GENERATED SEO SILOS DATABASE
 // Generated via programmatic SEO engine for massive keyword injection.
-// Total Silos: 27
-// Total Keywords: 819
+// Total Silos: 46
+// Total Keywords: 1619
 
 export const seoSilos = [
   {
@@ -1510,6 +1510,2371 @@ export const seoSilos = [
     ]
   },
   {
+    "id": "location-bavdhan",
+    "title": "Bavdhan Real Estate & Properties",
+    "description": "Bavdhan offers scenic nature views combined with premium luxury living in West Pune.",
+    "slugs": [
+      {
+        "slug": "luxury-apartments-in-bavdhan",
+        "keyword": "Luxury Apartments in Bavdhan"
+      },
+      {
+        "slug": "premium-flats-in-bavdhan",
+        "keyword": "Premium Flats in Bavdhan"
+      },
+      {
+        "slug": "new-launch-projects-in-bavdhan",
+        "keyword": "New Launch Projects in Bavdhan"
+      },
+      {
+        "slug": "township-projects-in-bavdhan",
+        "keyword": "Township Projects in Bavdhan"
+      },
+      {
+        "slug": "real-estate-investment-in-bavdhan",
+        "keyword": "Real Estate Investment in Bavdhan"
+      },
+      {
+        "slug": "2bhk-in-bavdhan",
+        "keyword": "2BHK in Bavdhan"
+      },
+      {
+        "slug": "3bhk-in-bavdhan",
+        "keyword": "3BHK in Bavdhan"
+      },
+      {
+        "slug": "4bhk-in-bavdhan",
+        "keyword": "4BHK in Bavdhan"
+      },
+      {
+        "slug": "5bhk-in-bavdhan",
+        "keyword": "5BHK in Bavdhan"
+      },
+      {
+        "slug": "2-bhk-flats-in-bavdhan",
+        "keyword": "2 BHK Flats in Bavdhan"
+      },
+      {
+        "slug": "3-bhk-flats-in-bavdhan",
+        "keyword": "3 BHK Flats in Bavdhan"
+      },
+      {
+        "slug": "4-bhk-flats-in-bavdhan",
+        "keyword": "4 BHK Flats in Bavdhan"
+      },
+      {
+        "slug": "luxury-duplex-in-bavdhan",
+        "keyword": "Luxury Duplex in Bavdhan"
+      },
+      {
+        "slug": "sky-duplex-in-bavdhan",
+        "keyword": "Sky Duplex in Bavdhan"
+      },
+      {
+        "slug": "simplex-flats-in-bavdhan",
+        "keyword": "Simplex Flats in Bavdhan"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-bavdhan",
+        "keyword": "Ultra-Luxury Penthouse in Bavdhan"
+      },
+      {
+        "slug": "double-height-living-in-bavdhan",
+        "keyword": "Double-Height Living in Bavdhan"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-bavdhan",
+        "keyword": "Apartments with Private Pool in Bavdhan"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-bavdhan",
+        "keyword": "NRI Real Estate Investment in Bavdhan"
+      },
+      {
+        "slug": "properties-in-bavdhan",
+        "keyword": "Properties in Bavdhan"
+      },
+      {
+        "slug": "flats-in-bavdhan",
+        "keyword": "Flats in Bavdhan"
+      },
+      {
+        "slug": "ready-possession-flats-in-bavdhan",
+        "keyword": "Ready Possession Flats in Bavdhan"
+      },
+      {
+        "slug": "under-construction-projects-in-bavdhan",
+        "keyword": "Under Construction Projects in Bavdhan"
+      },
+      {
+        "slug": "homes-near-it-park-in-bavdhan",
+        "keyword": "Homes near IT Park in Bavdhan"
+      },
+      {
+        "slug": "maximum-livable-area-homes-in-bavdhan",
+        "keyword": "Maximum Livable Area Homes in Bavdhan"
+      },
+      {
+        "slug": "vtp-projects-in-bavdhan",
+        "keyword": "VTP Projects in Bavdhan"
+      },
+      {
+        "slug": "bavdhan-luxury-apartments",
+        "keyword": "Bavdhan Luxury Apartments"
+      },
+      {
+        "slug": "bavdhan-premium-flats",
+        "keyword": "Bavdhan Premium Flats"
+      },
+      {
+        "slug": "bavdhan-new-launch-projects",
+        "keyword": "Bavdhan New Launch Projects"
+      },
+      {
+        "slug": "bavdhan-township-projects",
+        "keyword": "Bavdhan Township Projects"
+      },
+      {
+        "slug": "bavdhan-real-estate-investment",
+        "keyword": "Bavdhan Real Estate Investment"
+      },
+      {
+        "slug": "bavdhan-2bhk-flats",
+        "keyword": "Bavdhan 2BHK Flats"
+      },
+      {
+        "slug": "bavdhan-3bhk-luxury-homes",
+        "keyword": "Bavdhan 3BHK Luxury Homes"
+      },
+      {
+        "slug": "bavdhan-4bhk-premium-apartments",
+        "keyword": "Bavdhan 4BHK Premium Apartments"
+      },
+      {
+        "slug": "bavdhan-5bhk-villas",
+        "keyword": "Bavdhan 5BHK Villas"
+      },
+      {
+        "slug": "bavdhan-2-bhk",
+        "keyword": "Bavdhan 2 BHK"
+      },
+      {
+        "slug": "bavdhan-3-bhk",
+        "keyword": "Bavdhan 3 BHK"
+      },
+      {
+        "slug": "bavdhan-4-bhk",
+        "keyword": "Bavdhan 4 BHK"
+      },
+      {
+        "slug": "bavdhan-duplex-apartments",
+        "keyword": "Bavdhan Duplex Apartments"
+      },
+      {
+        "slug": "bavdhan-sky-duplex",
+        "keyword": "Bavdhan Sky Duplex"
+      },
+      {
+        "slug": "bavdhan-simplex-apartments",
+        "keyword": "Bavdhan Simplex Apartments"
+      },
+      {
+        "slug": "bavdhan-penthouses",
+        "keyword": "Bavdhan Penthouses"
+      },
+      {
+        "slug": "bavdhan-double-height-homes",
+        "keyword": "Bavdhan Double-Height Homes"
+      },
+      {
+        "slug": "bavdhan-private-plunge-pool-flats",
+        "keyword": "Bavdhan Private Plunge Pool Flats"
+      },
+      {
+        "slug": "bavdhan-nri-premium-homes",
+        "keyword": "Bavdhan NRI Premium Homes"
+      },
+      {
+        "slug": "bavdhan-properties",
+        "keyword": "Bavdhan Properties"
+      },
+      {
+        "slug": "bavdhan-flats",
+        "keyword": "Bavdhan Flats"
+      },
+      {
+        "slug": "bavdhan-ready-possession",
+        "keyword": "Bavdhan Ready Possession"
+      },
+      {
+        "slug": "bavdhan-under-construction",
+        "keyword": "Bavdhan Under Construction"
+      },
+      {
+        "slug": "bavdhan-it-park-homes",
+        "keyword": "Bavdhan IT Park Homes"
+      },
+      {
+        "slug": "bavdhan-mla-homes",
+        "keyword": "Bavdhan MLA Homes"
+      },
+      {
+        "slug": "bavdhan-vtp-projects",
+        "keyword": "Bavdhan VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-aundh",
+    "title": "Aundh Real Estate & Properties",
+    "description": "Aundh remains one of Pune's most elite, established residential corridors.",
+    "slugs": [
+      {
+        "slug": "luxury-apartments-in-aundh",
+        "keyword": "Luxury Apartments in Aundh"
+      },
+      {
+        "slug": "premium-flats-in-aundh",
+        "keyword": "Premium Flats in Aundh"
+      },
+      {
+        "slug": "new-launch-projects-in-aundh",
+        "keyword": "New Launch Projects in Aundh"
+      },
+      {
+        "slug": "township-projects-in-aundh",
+        "keyword": "Township Projects in Aundh"
+      },
+      {
+        "slug": "real-estate-investment-in-aundh",
+        "keyword": "Real Estate Investment in Aundh"
+      },
+      {
+        "slug": "2bhk-in-aundh",
+        "keyword": "2BHK in Aundh"
+      },
+      {
+        "slug": "3bhk-in-aundh",
+        "keyword": "3BHK in Aundh"
+      },
+      {
+        "slug": "4bhk-in-aundh",
+        "keyword": "4BHK in Aundh"
+      },
+      {
+        "slug": "5bhk-in-aundh",
+        "keyword": "5BHK in Aundh"
+      },
+      {
+        "slug": "2-bhk-flats-in-aundh",
+        "keyword": "2 BHK Flats in Aundh"
+      },
+      {
+        "slug": "3-bhk-flats-in-aundh",
+        "keyword": "3 BHK Flats in Aundh"
+      },
+      {
+        "slug": "4-bhk-flats-in-aundh",
+        "keyword": "4 BHK Flats in Aundh"
+      },
+      {
+        "slug": "luxury-duplex-in-aundh",
+        "keyword": "Luxury Duplex in Aundh"
+      },
+      {
+        "slug": "sky-duplex-in-aundh",
+        "keyword": "Sky Duplex in Aundh"
+      },
+      {
+        "slug": "simplex-flats-in-aundh",
+        "keyword": "Simplex Flats in Aundh"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-aundh",
+        "keyword": "Ultra-Luxury Penthouse in Aundh"
+      },
+      {
+        "slug": "double-height-living-in-aundh",
+        "keyword": "Double-Height Living in Aundh"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-aundh",
+        "keyword": "Apartments with Private Pool in Aundh"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-aundh",
+        "keyword": "NRI Real Estate Investment in Aundh"
+      },
+      {
+        "slug": "properties-in-aundh",
+        "keyword": "Properties in Aundh"
+      },
+      {
+        "slug": "flats-in-aundh",
+        "keyword": "Flats in Aundh"
+      },
+      {
+        "slug": "ready-possession-flats-in-aundh",
+        "keyword": "Ready Possession Flats in Aundh"
+      },
+      {
+        "slug": "under-construction-projects-in-aundh",
+        "keyword": "Under Construction Projects in Aundh"
+      },
+      {
+        "slug": "homes-near-it-park-in-aundh",
+        "keyword": "Homes near IT Park in Aundh"
+      },
+      {
+        "slug": "maximum-livable-area-homes-in-aundh",
+        "keyword": "Maximum Livable Area Homes in Aundh"
+      },
+      {
+        "slug": "vtp-projects-in-aundh",
+        "keyword": "VTP Projects in Aundh"
+      },
+      {
+        "slug": "aundh-luxury-apartments",
+        "keyword": "Aundh Luxury Apartments"
+      },
+      {
+        "slug": "aundh-premium-flats",
+        "keyword": "Aundh Premium Flats"
+      },
+      {
+        "slug": "aundh-new-launch-projects",
+        "keyword": "Aundh New Launch Projects"
+      },
+      {
+        "slug": "aundh-township-projects",
+        "keyword": "Aundh Township Projects"
+      },
+      {
+        "slug": "aundh-real-estate-investment",
+        "keyword": "Aundh Real Estate Investment"
+      },
+      {
+        "slug": "aundh-2bhk-flats",
+        "keyword": "Aundh 2BHK Flats"
+      },
+      {
+        "slug": "aundh-3bhk-luxury-homes",
+        "keyword": "Aundh 3BHK Luxury Homes"
+      },
+      {
+        "slug": "aundh-4bhk-premium-apartments",
+        "keyword": "Aundh 4BHK Premium Apartments"
+      },
+      {
+        "slug": "aundh-5bhk-villas",
+        "keyword": "Aundh 5BHK Villas"
+      },
+      {
+        "slug": "aundh-2-bhk",
+        "keyword": "Aundh 2 BHK"
+      },
+      {
+        "slug": "aundh-3-bhk",
+        "keyword": "Aundh 3 BHK"
+      },
+      {
+        "slug": "aundh-4-bhk",
+        "keyword": "Aundh 4 BHK"
+      },
+      {
+        "slug": "aundh-duplex-apartments",
+        "keyword": "Aundh Duplex Apartments"
+      },
+      {
+        "slug": "aundh-sky-duplex",
+        "keyword": "Aundh Sky Duplex"
+      },
+      {
+        "slug": "aundh-simplex-apartments",
+        "keyword": "Aundh Simplex Apartments"
+      },
+      {
+        "slug": "aundh-penthouses",
+        "keyword": "Aundh Penthouses"
+      },
+      {
+        "slug": "aundh-double-height-homes",
+        "keyword": "Aundh Double-Height Homes"
+      },
+      {
+        "slug": "aundh-private-plunge-pool-flats",
+        "keyword": "Aundh Private Plunge Pool Flats"
+      },
+      {
+        "slug": "aundh-nri-premium-homes",
+        "keyword": "Aundh NRI Premium Homes"
+      },
+      {
+        "slug": "aundh-properties",
+        "keyword": "Aundh Properties"
+      },
+      {
+        "slug": "aundh-flats",
+        "keyword": "Aundh Flats"
+      },
+      {
+        "slug": "aundh-ready-possession",
+        "keyword": "Aundh Ready Possession"
+      },
+      {
+        "slug": "aundh-under-construction",
+        "keyword": "Aundh Under Construction"
+      },
+      {
+        "slug": "aundh-it-park-homes",
+        "keyword": "Aundh IT Park Homes"
+      },
+      {
+        "slug": "aundh-mla-homes",
+        "keyword": "Aundh MLA Homes"
+      },
+      {
+        "slug": "aundh-vtp-projects",
+        "keyword": "Aundh VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-pashan",
+    "title": "Pashan Real Estate & Properties",
+    "description": "Pashan offers a tranquil, green environment in close proximity to major West Pune hubs.",
+    "slugs": [
+      {
+        "slug": "luxury-apartments-in-pashan",
+        "keyword": "Luxury Apartments in Pashan"
+      },
+      {
+        "slug": "premium-flats-in-pashan",
+        "keyword": "Premium Flats in Pashan"
+      },
+      {
+        "slug": "new-launch-projects-in-pashan",
+        "keyword": "New Launch Projects in Pashan"
+      },
+      {
+        "slug": "township-projects-in-pashan",
+        "keyword": "Township Projects in Pashan"
+      },
+      {
+        "slug": "real-estate-investment-in-pashan",
+        "keyword": "Real Estate Investment in Pashan"
+      },
+      {
+        "slug": "2bhk-in-pashan",
+        "keyword": "2BHK in Pashan"
+      },
+      {
+        "slug": "3bhk-in-pashan",
+        "keyword": "3BHK in Pashan"
+      },
+      {
+        "slug": "4bhk-in-pashan",
+        "keyword": "4BHK in Pashan"
+      },
+      {
+        "slug": "5bhk-in-pashan",
+        "keyword": "5BHK in Pashan"
+      },
+      {
+        "slug": "2-bhk-flats-in-pashan",
+        "keyword": "2 BHK Flats in Pashan"
+      },
+      {
+        "slug": "3-bhk-flats-in-pashan",
+        "keyword": "3 BHK Flats in Pashan"
+      },
+      {
+        "slug": "4-bhk-flats-in-pashan",
+        "keyword": "4 BHK Flats in Pashan"
+      },
+      {
+        "slug": "luxury-duplex-in-pashan",
+        "keyword": "Luxury Duplex in Pashan"
+      },
+      {
+        "slug": "sky-duplex-in-pashan",
+        "keyword": "Sky Duplex in Pashan"
+      },
+      {
+        "slug": "simplex-flats-in-pashan",
+        "keyword": "Simplex Flats in Pashan"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-pashan",
+        "keyword": "Ultra-Luxury Penthouse in Pashan"
+      },
+      {
+        "slug": "double-height-living-in-pashan",
+        "keyword": "Double-Height Living in Pashan"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-pashan",
+        "keyword": "Apartments with Private Pool in Pashan"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-pashan",
+        "keyword": "NRI Real Estate Investment in Pashan"
+      },
+      {
+        "slug": "properties-in-pashan",
+        "keyword": "Properties in Pashan"
+      },
+      {
+        "slug": "flats-in-pashan",
+        "keyword": "Flats in Pashan"
+      },
+      {
+        "slug": "ready-possession-flats-in-pashan",
+        "keyword": "Ready Possession Flats in Pashan"
+      },
+      {
+        "slug": "under-construction-projects-in-pashan",
+        "keyword": "Under Construction Projects in Pashan"
+      },
+      {
+        "slug": "homes-near-it-park-in-pashan",
+        "keyword": "Homes near IT Park in Pashan"
+      },
+      {
+        "slug": "maximum-livable-area-homes-in-pashan",
+        "keyword": "Maximum Livable Area Homes in Pashan"
+      },
+      {
+        "slug": "vtp-projects-in-pashan",
+        "keyword": "VTP Projects in Pashan"
+      },
+      {
+        "slug": "pashan-luxury-apartments",
+        "keyword": "Pashan Luxury Apartments"
+      },
+      {
+        "slug": "pashan-premium-flats",
+        "keyword": "Pashan Premium Flats"
+      },
+      {
+        "slug": "pashan-new-launch-projects",
+        "keyword": "Pashan New Launch Projects"
+      },
+      {
+        "slug": "pashan-township-projects",
+        "keyword": "Pashan Township Projects"
+      },
+      {
+        "slug": "pashan-real-estate-investment",
+        "keyword": "Pashan Real Estate Investment"
+      },
+      {
+        "slug": "pashan-2bhk-flats",
+        "keyword": "Pashan 2BHK Flats"
+      },
+      {
+        "slug": "pashan-3bhk-luxury-homes",
+        "keyword": "Pashan 3BHK Luxury Homes"
+      },
+      {
+        "slug": "pashan-4bhk-premium-apartments",
+        "keyword": "Pashan 4BHK Premium Apartments"
+      },
+      {
+        "slug": "pashan-5bhk-villas",
+        "keyword": "Pashan 5BHK Villas"
+      },
+      {
+        "slug": "pashan-2-bhk",
+        "keyword": "Pashan 2 BHK"
+      },
+      {
+        "slug": "pashan-3-bhk",
+        "keyword": "Pashan 3 BHK"
+      },
+      {
+        "slug": "pashan-4-bhk",
+        "keyword": "Pashan 4 BHK"
+      },
+      {
+        "slug": "pashan-duplex-apartments",
+        "keyword": "Pashan Duplex Apartments"
+      },
+      {
+        "slug": "pashan-sky-duplex",
+        "keyword": "Pashan Sky Duplex"
+      },
+      {
+        "slug": "pashan-simplex-apartments",
+        "keyword": "Pashan Simplex Apartments"
+      },
+      {
+        "slug": "pashan-penthouses",
+        "keyword": "Pashan Penthouses"
+      },
+      {
+        "slug": "pashan-double-height-homes",
+        "keyword": "Pashan Double-Height Homes"
+      },
+      {
+        "slug": "pashan-private-plunge-pool-flats",
+        "keyword": "Pashan Private Plunge Pool Flats"
+      },
+      {
+        "slug": "pashan-nri-premium-homes",
+        "keyword": "Pashan NRI Premium Homes"
+      },
+      {
+        "slug": "pashan-properties",
+        "keyword": "Pashan Properties"
+      },
+      {
+        "slug": "pashan-flats",
+        "keyword": "Pashan Flats"
+      },
+      {
+        "slug": "pashan-ready-possession",
+        "keyword": "Pashan Ready Possession"
+      },
+      {
+        "slug": "pashan-under-construction",
+        "keyword": "Pashan Under Construction"
+      },
+      {
+        "slug": "pashan-it-park-homes",
+        "keyword": "Pashan IT Park Homes"
+      },
+      {
+        "slug": "pashan-mla-homes",
+        "keyword": "Pashan MLA Homes"
+      },
+      {
+        "slug": "pashan-vtp-projects",
+        "keyword": "Pashan VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-sus",
+    "title": "Sus Real Estate & Properties",
+    "description": "Sus is rapidly developing into a highly preferred residential destination near the IT hubs.",
+    "slugs": [
+      {
+        "slug": "luxury-apartments-in-sus",
+        "keyword": "Luxury Apartments in Sus"
+      },
+      {
+        "slug": "premium-flats-in-sus",
+        "keyword": "Premium Flats in Sus"
+      },
+      {
+        "slug": "new-launch-projects-in-sus",
+        "keyword": "New Launch Projects in Sus"
+      },
+      {
+        "slug": "township-projects-in-sus",
+        "keyword": "Township Projects in Sus"
+      },
+      {
+        "slug": "real-estate-investment-in-sus",
+        "keyword": "Real Estate Investment in Sus"
+      },
+      {
+        "slug": "2bhk-in-sus",
+        "keyword": "2BHK in Sus"
+      },
+      {
+        "slug": "3bhk-in-sus",
+        "keyword": "3BHK in Sus"
+      },
+      {
+        "slug": "4bhk-in-sus",
+        "keyword": "4BHK in Sus"
+      },
+      {
+        "slug": "5bhk-in-sus",
+        "keyword": "5BHK in Sus"
+      },
+      {
+        "slug": "2-bhk-flats-in-sus",
+        "keyword": "2 BHK Flats in Sus"
+      },
+      {
+        "slug": "3-bhk-flats-in-sus",
+        "keyword": "3 BHK Flats in Sus"
+      },
+      {
+        "slug": "4-bhk-flats-in-sus",
+        "keyword": "4 BHK Flats in Sus"
+      },
+      {
+        "slug": "luxury-duplex-in-sus",
+        "keyword": "Luxury Duplex in Sus"
+      },
+      {
+        "slug": "sky-duplex-in-sus",
+        "keyword": "Sky Duplex in Sus"
+      },
+      {
+        "slug": "simplex-flats-in-sus",
+        "keyword": "Simplex Flats in Sus"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-sus",
+        "keyword": "Ultra-Luxury Penthouse in Sus"
+      },
+      {
+        "slug": "double-height-living-in-sus",
+        "keyword": "Double-Height Living in Sus"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-sus",
+        "keyword": "Apartments with Private Pool in Sus"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-sus",
+        "keyword": "NRI Real Estate Investment in Sus"
+      },
+      {
+        "slug": "properties-in-sus",
+        "keyword": "Properties in Sus"
+      },
+      {
+        "slug": "flats-in-sus",
+        "keyword": "Flats in Sus"
+      },
+      {
+        "slug": "ready-possession-flats-in-sus",
+        "keyword": "Ready Possession Flats in Sus"
+      },
+      {
+        "slug": "under-construction-projects-in-sus",
+        "keyword": "Under Construction Projects in Sus"
+      },
+      {
+        "slug": "homes-near-it-park-in-sus",
+        "keyword": "Homes near IT Park in Sus"
+      },
+      {
+        "slug": "maximum-livable-area-homes-in-sus",
+        "keyword": "Maximum Livable Area Homes in Sus"
+      },
+      {
+        "slug": "vtp-projects-in-sus",
+        "keyword": "VTP Projects in Sus"
+      },
+      {
+        "slug": "sus-luxury-apartments",
+        "keyword": "Sus Luxury Apartments"
+      },
+      {
+        "slug": "sus-premium-flats",
+        "keyword": "Sus Premium Flats"
+      },
+      {
+        "slug": "sus-new-launch-projects",
+        "keyword": "Sus New Launch Projects"
+      },
+      {
+        "slug": "sus-township-projects",
+        "keyword": "Sus Township Projects"
+      },
+      {
+        "slug": "sus-real-estate-investment",
+        "keyword": "Sus Real Estate Investment"
+      },
+      {
+        "slug": "sus-2bhk-flats",
+        "keyword": "Sus 2BHK Flats"
+      },
+      {
+        "slug": "sus-3bhk-luxury-homes",
+        "keyword": "Sus 3BHK Luxury Homes"
+      },
+      {
+        "slug": "sus-4bhk-premium-apartments",
+        "keyword": "Sus 4BHK Premium Apartments"
+      },
+      {
+        "slug": "sus-5bhk-villas",
+        "keyword": "Sus 5BHK Villas"
+      },
+      {
+        "slug": "sus-2-bhk",
+        "keyword": "Sus 2 BHK"
+      },
+      {
+        "slug": "sus-3-bhk",
+        "keyword": "Sus 3 BHK"
+      },
+      {
+        "slug": "sus-4-bhk",
+        "keyword": "Sus 4 BHK"
+      },
+      {
+        "slug": "sus-duplex-apartments",
+        "keyword": "Sus Duplex Apartments"
+      },
+      {
+        "slug": "sus-sky-duplex",
+        "keyword": "Sus Sky Duplex"
+      },
+      {
+        "slug": "sus-simplex-apartments",
+        "keyword": "Sus Simplex Apartments"
+      },
+      {
+        "slug": "sus-penthouses",
+        "keyword": "Sus Penthouses"
+      },
+      {
+        "slug": "sus-double-height-homes",
+        "keyword": "Sus Double-Height Homes"
+      },
+      {
+        "slug": "sus-private-plunge-pool-flats",
+        "keyword": "Sus Private Plunge Pool Flats"
+      },
+      {
+        "slug": "sus-nri-premium-homes",
+        "keyword": "Sus NRI Premium Homes"
+      },
+      {
+        "slug": "sus-properties",
+        "keyword": "Sus Properties"
+      },
+      {
+        "slug": "sus-flats",
+        "keyword": "Sus Flats"
+      },
+      {
+        "slug": "sus-ready-possession",
+        "keyword": "Sus Ready Possession"
+      },
+      {
+        "slug": "sus-under-construction",
+        "keyword": "Sus Under Construction"
+      },
+      {
+        "slug": "sus-it-park-homes",
+        "keyword": "Sus IT Park Homes"
+      },
+      {
+        "slug": "sus-mla-homes",
+        "keyword": "Sus MLA Homes"
+      },
+      {
+        "slug": "sus-vtp-projects",
+        "keyword": "Sus VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-kothrud",
+    "title": "Kothrud Real Estate & Properties",
+    "description": "Kothrud combines rich cultural heritage with modern premium residential developments.",
+    "slugs": [
+      {
+        "slug": "luxury-apartments-in-kothrud",
+        "keyword": "Luxury Apartments in Kothrud"
+      },
+      {
+        "slug": "premium-flats-in-kothrud",
+        "keyword": "Premium Flats in Kothrud"
+      },
+      {
+        "slug": "new-launch-projects-in-kothrud",
+        "keyword": "New Launch Projects in Kothrud"
+      },
+      {
+        "slug": "township-projects-in-kothrud",
+        "keyword": "Township Projects in Kothrud"
+      },
+      {
+        "slug": "real-estate-investment-in-kothrud",
+        "keyword": "Real Estate Investment in Kothrud"
+      },
+      {
+        "slug": "2bhk-in-kothrud",
+        "keyword": "2BHK in Kothrud"
+      },
+      {
+        "slug": "3bhk-in-kothrud",
+        "keyword": "3BHK in Kothrud"
+      },
+      {
+        "slug": "4bhk-in-kothrud",
+        "keyword": "4BHK in Kothrud"
+      },
+      {
+        "slug": "5bhk-in-kothrud",
+        "keyword": "5BHK in Kothrud"
+      },
+      {
+        "slug": "2-bhk-flats-in-kothrud",
+        "keyword": "2 BHK Flats in Kothrud"
+      },
+      {
+        "slug": "3-bhk-flats-in-kothrud",
+        "keyword": "3 BHK Flats in Kothrud"
+      },
+      {
+        "slug": "4-bhk-flats-in-kothrud",
+        "keyword": "4 BHK Flats in Kothrud"
+      },
+      {
+        "slug": "luxury-duplex-in-kothrud",
+        "keyword": "Luxury Duplex in Kothrud"
+      },
+      {
+        "slug": "sky-duplex-in-kothrud",
+        "keyword": "Sky Duplex in Kothrud"
+      },
+      {
+        "slug": "simplex-flats-in-kothrud",
+        "keyword": "Simplex Flats in Kothrud"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-kothrud",
+        "keyword": "Ultra-Luxury Penthouse in Kothrud"
+      },
+      {
+        "slug": "double-height-living-in-kothrud",
+        "keyword": "Double-Height Living in Kothrud"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-kothrud",
+        "keyword": "Apartments with Private Pool in Kothrud"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-kothrud",
+        "keyword": "NRI Real Estate Investment in Kothrud"
+      },
+      {
+        "slug": "properties-in-kothrud",
+        "keyword": "Properties in Kothrud"
+      },
+      {
+        "slug": "flats-in-kothrud",
+        "keyword": "Flats in Kothrud"
+      },
+      {
+        "slug": "ready-possession-flats-in-kothrud",
+        "keyword": "Ready Possession Flats in Kothrud"
+      },
+      {
+        "slug": "under-construction-projects-in-kothrud",
+        "keyword": "Under Construction Projects in Kothrud"
+      },
+      {
+        "slug": "homes-near-it-park-in-kothrud",
+        "keyword": "Homes near IT Park in Kothrud"
+      },
+      {
+        "slug": "maximum-livable-area-homes-in-kothrud",
+        "keyword": "Maximum Livable Area Homes in Kothrud"
+      },
+      {
+        "slug": "vtp-projects-in-kothrud",
+        "keyword": "VTP Projects in Kothrud"
+      },
+      {
+        "slug": "kothrud-luxury-apartments",
+        "keyword": "Kothrud Luxury Apartments"
+      },
+      {
+        "slug": "kothrud-premium-flats",
+        "keyword": "Kothrud Premium Flats"
+      },
+      {
+        "slug": "kothrud-new-launch-projects",
+        "keyword": "Kothrud New Launch Projects"
+      },
+      {
+        "slug": "kothrud-township-projects",
+        "keyword": "Kothrud Township Projects"
+      },
+      {
+        "slug": "kothrud-real-estate-investment",
+        "keyword": "Kothrud Real Estate Investment"
+      },
+      {
+        "slug": "kothrud-2bhk-flats",
+        "keyword": "Kothrud 2BHK Flats"
+      },
+      {
+        "slug": "kothrud-3bhk-luxury-homes",
+        "keyword": "Kothrud 3BHK Luxury Homes"
+      },
+      {
+        "slug": "kothrud-4bhk-premium-apartments",
+        "keyword": "Kothrud 4BHK Premium Apartments"
+      },
+      {
+        "slug": "kothrud-5bhk-villas",
+        "keyword": "Kothrud 5BHK Villas"
+      },
+      {
+        "slug": "kothrud-2-bhk",
+        "keyword": "Kothrud 2 BHK"
+      },
+      {
+        "slug": "kothrud-3-bhk",
+        "keyword": "Kothrud 3 BHK"
+      },
+      {
+        "slug": "kothrud-4-bhk",
+        "keyword": "Kothrud 4 BHK"
+      },
+      {
+        "slug": "kothrud-duplex-apartments",
+        "keyword": "Kothrud Duplex Apartments"
+      },
+      {
+        "slug": "kothrud-sky-duplex",
+        "keyword": "Kothrud Sky Duplex"
+      },
+      {
+        "slug": "kothrud-simplex-apartments",
+        "keyword": "Kothrud Simplex Apartments"
+      },
+      {
+        "slug": "kothrud-penthouses",
+        "keyword": "Kothrud Penthouses"
+      },
+      {
+        "slug": "kothrud-double-height-homes",
+        "keyword": "Kothrud Double-Height Homes"
+      },
+      {
+        "slug": "kothrud-private-plunge-pool-flats",
+        "keyword": "Kothrud Private Plunge Pool Flats"
+      },
+      {
+        "slug": "kothrud-nri-premium-homes",
+        "keyword": "Kothrud NRI Premium Homes"
+      },
+      {
+        "slug": "kothrud-properties",
+        "keyword": "Kothrud Properties"
+      },
+      {
+        "slug": "kothrud-flats",
+        "keyword": "Kothrud Flats"
+      },
+      {
+        "slug": "kothrud-ready-possession",
+        "keyword": "Kothrud Ready Possession"
+      },
+      {
+        "slug": "kothrud-under-construction",
+        "keyword": "Kothrud Under Construction"
+      },
+      {
+        "slug": "kothrud-it-park-homes",
+        "keyword": "Kothrud IT Park Homes"
+      },
+      {
+        "slug": "kothrud-mla-homes",
+        "keyword": "Kothrud MLA Homes"
+      },
+      {
+        "slug": "kothrud-vtp-projects",
+        "keyword": "Kothrud VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-kalyani-nagar",
+    "title": "Kalyani Nagar Real Estate & Properties",
+    "description": "Kalyani Nagar is an exclusive enclave known for its ultra-luxury lifestyle and premium connectivity.",
+    "slugs": [
+      {
+        "slug": "luxury-apartments-in-kalyani-nagar",
+        "keyword": "Luxury Apartments in Kalyani Nagar"
+      },
+      {
+        "slug": "premium-flats-in-kalyani-nagar",
+        "keyword": "Premium Flats in Kalyani Nagar"
+      },
+      {
+        "slug": "new-launch-projects-in-kalyani-nagar",
+        "keyword": "New Launch Projects in Kalyani Nagar"
+      },
+      {
+        "slug": "township-projects-in-kalyani-nagar",
+        "keyword": "Township Projects in Kalyani Nagar"
+      },
+      {
+        "slug": "real-estate-investment-in-kalyani-nagar",
+        "keyword": "Real Estate Investment in Kalyani Nagar"
+      },
+      {
+        "slug": "2bhk-in-kalyani-nagar",
+        "keyword": "2BHK in Kalyani Nagar"
+      },
+      {
+        "slug": "3bhk-in-kalyani-nagar",
+        "keyword": "3BHK in Kalyani Nagar"
+      },
+      {
+        "slug": "4bhk-in-kalyani-nagar",
+        "keyword": "4BHK in Kalyani Nagar"
+      },
+      {
+        "slug": "5bhk-in-kalyani-nagar",
+        "keyword": "5BHK in Kalyani Nagar"
+      },
+      {
+        "slug": "2-bhk-flats-in-kalyani-nagar",
+        "keyword": "2 BHK Flats in Kalyani Nagar"
+      },
+      {
+        "slug": "3-bhk-flats-in-kalyani-nagar",
+        "keyword": "3 BHK Flats in Kalyani Nagar"
+      },
+      {
+        "slug": "4-bhk-flats-in-kalyani-nagar",
+        "keyword": "4 BHK Flats in Kalyani Nagar"
+      },
+      {
+        "slug": "luxury-duplex-in-kalyani-nagar",
+        "keyword": "Luxury Duplex in Kalyani Nagar"
+      },
+      {
+        "slug": "sky-duplex-in-kalyani-nagar",
+        "keyword": "Sky Duplex in Kalyani Nagar"
+      },
+      {
+        "slug": "simplex-flats-in-kalyani-nagar",
+        "keyword": "Simplex Flats in Kalyani Nagar"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-kalyani-nagar",
+        "keyword": "Ultra-Luxury Penthouse in Kalyani Nagar"
+      },
+      {
+        "slug": "double-height-living-in-kalyani-nagar",
+        "keyword": "Double-Height Living in Kalyani Nagar"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-kalyani-nagar",
+        "keyword": "Apartments with Private Pool in Kalyani Nagar"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-kalyani-nagar",
+        "keyword": "NRI Real Estate Investment in Kalyani Nagar"
+      },
+      {
+        "slug": "properties-in-kalyani-nagar",
+        "keyword": "Properties in Kalyani Nagar"
+      },
+      {
+        "slug": "flats-in-kalyani-nagar",
+        "keyword": "Flats in Kalyani Nagar"
+      },
+      {
+        "slug": "ready-possession-flats-in-kalyani-nagar",
+        "keyword": "Ready Possession Flats in Kalyani Nagar"
+      },
+      {
+        "slug": "under-construction-projects-in-kalyani-nagar",
+        "keyword": "Under Construction Projects in Kalyani Nagar"
+      },
+      {
+        "slug": "homes-near-it-park-in-kalyani-nagar",
+        "keyword": "Homes near IT Park in Kalyani Nagar"
+      },
+      {
+        "slug": "maximum-livable-area-homes-in-kalyani-nagar",
+        "keyword": "Maximum Livable Area Homes in Kalyani Nagar"
+      },
+      {
+        "slug": "vtp-projects-in-kalyani-nagar",
+        "keyword": "VTP Projects in Kalyani Nagar"
+      },
+      {
+        "slug": "kalyani-nagar-luxury-apartments",
+        "keyword": "Kalyani Nagar Luxury Apartments"
+      },
+      {
+        "slug": "kalyani-nagar-premium-flats",
+        "keyword": "Kalyani Nagar Premium Flats"
+      },
+      {
+        "slug": "kalyani-nagar-new-launch-projects",
+        "keyword": "Kalyani Nagar New Launch Projects"
+      },
+      {
+        "slug": "kalyani-nagar-township-projects",
+        "keyword": "Kalyani Nagar Township Projects"
+      },
+      {
+        "slug": "kalyani-nagar-real-estate-investment",
+        "keyword": "Kalyani Nagar Real Estate Investment"
+      },
+      {
+        "slug": "kalyani-nagar-2bhk-flats",
+        "keyword": "Kalyani Nagar 2BHK Flats"
+      },
+      {
+        "slug": "kalyani-nagar-3bhk-luxury-homes",
+        "keyword": "Kalyani Nagar 3BHK Luxury Homes"
+      },
+      {
+        "slug": "kalyani-nagar-4bhk-premium-apartments",
+        "keyword": "Kalyani Nagar 4BHK Premium Apartments"
+      },
+      {
+        "slug": "kalyani-nagar-5bhk-villas",
+        "keyword": "Kalyani Nagar 5BHK Villas"
+      },
+      {
+        "slug": "kalyani-nagar-2-bhk",
+        "keyword": "Kalyani Nagar 2 BHK"
+      },
+      {
+        "slug": "kalyani-nagar-3-bhk",
+        "keyword": "Kalyani Nagar 3 BHK"
+      },
+      {
+        "slug": "kalyani-nagar-4-bhk",
+        "keyword": "Kalyani Nagar 4 BHK"
+      },
+      {
+        "slug": "kalyani-nagar-duplex-apartments",
+        "keyword": "Kalyani Nagar Duplex Apartments"
+      },
+      {
+        "slug": "kalyani-nagar-sky-duplex",
+        "keyword": "Kalyani Nagar Sky Duplex"
+      },
+      {
+        "slug": "kalyani-nagar-simplex-apartments",
+        "keyword": "Kalyani Nagar Simplex Apartments"
+      },
+      {
+        "slug": "kalyani-nagar-penthouses",
+        "keyword": "Kalyani Nagar Penthouses"
+      },
+      {
+        "slug": "kalyani-nagar-double-height-homes",
+        "keyword": "Kalyani Nagar Double-Height Homes"
+      },
+      {
+        "slug": "kalyani-nagar-private-plunge-pool-flats",
+        "keyword": "Kalyani Nagar Private Plunge Pool Flats"
+      },
+      {
+        "slug": "kalyani-nagar-nri-premium-homes",
+        "keyword": "Kalyani Nagar NRI Premium Homes"
+      },
+      {
+        "slug": "kalyani-nagar-properties",
+        "keyword": "Kalyani Nagar Properties"
+      },
+      {
+        "slug": "kalyani-nagar-flats",
+        "keyword": "Kalyani Nagar Flats"
+      },
+      {
+        "slug": "kalyani-nagar-ready-possession",
+        "keyword": "Kalyani Nagar Ready Possession"
+      },
+      {
+        "slug": "kalyani-nagar-under-construction",
+        "keyword": "Kalyani Nagar Under Construction"
+      },
+      {
+        "slug": "kalyani-nagar-it-park-homes",
+        "keyword": "Kalyani Nagar IT Park Homes"
+      },
+      {
+        "slug": "kalyani-nagar-mla-homes",
+        "keyword": "Kalyani Nagar MLA Homes"
+      },
+      {
+        "slug": "kalyani-nagar-vtp-projects",
+        "keyword": "Kalyani Nagar VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-koregaon-park",
+    "title": "Koregaon Park Real Estate & Properties",
+    "description": "Koregaon Park is Pune's most prestigious address, defined by its massive green canopy and elite residences.",
+    "slugs": [
+      {
+        "slug": "luxury-apartments-in-koregaon-park",
+        "keyword": "Luxury Apartments in Koregaon Park"
+      },
+      {
+        "slug": "premium-flats-in-koregaon-park",
+        "keyword": "Premium Flats in Koregaon Park"
+      },
+      {
+        "slug": "new-launch-projects-in-koregaon-park",
+        "keyword": "New Launch Projects in Koregaon Park"
+      },
+      {
+        "slug": "township-projects-in-koregaon-park",
+        "keyword": "Township Projects in Koregaon Park"
+      },
+      {
+        "slug": "real-estate-investment-in-koregaon-park",
+        "keyword": "Real Estate Investment in Koregaon Park"
+      },
+      {
+        "slug": "2bhk-in-koregaon-park",
+        "keyword": "2BHK in Koregaon Park"
+      },
+      {
+        "slug": "3bhk-in-koregaon-park",
+        "keyword": "3BHK in Koregaon Park"
+      },
+      {
+        "slug": "4bhk-in-koregaon-park",
+        "keyword": "4BHK in Koregaon Park"
+      },
+      {
+        "slug": "5bhk-in-koregaon-park",
+        "keyword": "5BHK in Koregaon Park"
+      },
+      {
+        "slug": "2-bhk-flats-in-koregaon-park",
+        "keyword": "2 BHK Flats in Koregaon Park"
+      },
+      {
+        "slug": "3-bhk-flats-in-koregaon-park",
+        "keyword": "3 BHK Flats in Koregaon Park"
+      },
+      {
+        "slug": "4-bhk-flats-in-koregaon-park",
+        "keyword": "4 BHK Flats in Koregaon Park"
+      },
+      {
+        "slug": "luxury-duplex-in-koregaon-park",
+        "keyword": "Luxury Duplex in Koregaon Park"
+      },
+      {
+        "slug": "sky-duplex-in-koregaon-park",
+        "keyword": "Sky Duplex in Koregaon Park"
+      },
+      {
+        "slug": "simplex-flats-in-koregaon-park",
+        "keyword": "Simplex Flats in Koregaon Park"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-koregaon-park",
+        "keyword": "Ultra-Luxury Penthouse in Koregaon Park"
+      },
+      {
+        "slug": "double-height-living-in-koregaon-park",
+        "keyword": "Double-Height Living in Koregaon Park"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-koregaon-park",
+        "keyword": "Apartments with Private Pool in Koregaon Park"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-koregaon-park",
+        "keyword": "NRI Real Estate Investment in Koregaon Park"
+      },
+      {
+        "slug": "properties-in-koregaon-park",
+        "keyword": "Properties in Koregaon Park"
+      },
+      {
+        "slug": "flats-in-koregaon-park",
+        "keyword": "Flats in Koregaon Park"
+      },
+      {
+        "slug": "ready-possession-flats-in-koregaon-park",
+        "keyword": "Ready Possession Flats in Koregaon Park"
+      },
+      {
+        "slug": "under-construction-projects-in-koregaon-park",
+        "keyword": "Under Construction Projects in Koregaon Park"
+      },
+      {
+        "slug": "homes-near-it-park-in-koregaon-park",
+        "keyword": "Homes near IT Park in Koregaon Park"
+      },
+      {
+        "slug": "maximum-livable-area-homes-in-koregaon-park",
+        "keyword": "Maximum Livable Area Homes in Koregaon Park"
+      },
+      {
+        "slug": "vtp-projects-in-koregaon-park",
+        "keyword": "VTP Projects in Koregaon Park"
+      },
+      {
+        "slug": "koregaon-park-luxury-apartments",
+        "keyword": "Koregaon Park Luxury Apartments"
+      },
+      {
+        "slug": "koregaon-park-premium-flats",
+        "keyword": "Koregaon Park Premium Flats"
+      },
+      {
+        "slug": "koregaon-park-new-launch-projects",
+        "keyword": "Koregaon Park New Launch Projects"
+      },
+      {
+        "slug": "koregaon-park-township-projects",
+        "keyword": "Koregaon Park Township Projects"
+      },
+      {
+        "slug": "koregaon-park-real-estate-investment",
+        "keyword": "Koregaon Park Real Estate Investment"
+      },
+      {
+        "slug": "koregaon-park-2bhk-flats",
+        "keyword": "Koregaon Park 2BHK Flats"
+      },
+      {
+        "slug": "koregaon-park-3bhk-luxury-homes",
+        "keyword": "Koregaon Park 3BHK Luxury Homes"
+      },
+      {
+        "slug": "koregaon-park-4bhk-premium-apartments",
+        "keyword": "Koregaon Park 4BHK Premium Apartments"
+      },
+      {
+        "slug": "koregaon-park-5bhk-villas",
+        "keyword": "Koregaon Park 5BHK Villas"
+      },
+      {
+        "slug": "koregaon-park-2-bhk",
+        "keyword": "Koregaon Park 2 BHK"
+      },
+      {
+        "slug": "koregaon-park-3-bhk",
+        "keyword": "Koregaon Park 3 BHK"
+      },
+      {
+        "slug": "koregaon-park-4-bhk",
+        "keyword": "Koregaon Park 4 BHK"
+      },
+      {
+        "slug": "koregaon-park-duplex-apartments",
+        "keyword": "Koregaon Park Duplex Apartments"
+      },
+      {
+        "slug": "koregaon-park-sky-duplex",
+        "keyword": "Koregaon Park Sky Duplex"
+      },
+      {
+        "slug": "koregaon-park-simplex-apartments",
+        "keyword": "Koregaon Park Simplex Apartments"
+      },
+      {
+        "slug": "koregaon-park-penthouses",
+        "keyword": "Koregaon Park Penthouses"
+      },
+      {
+        "slug": "koregaon-park-double-height-homes",
+        "keyword": "Koregaon Park Double-Height Homes"
+      },
+      {
+        "slug": "koregaon-park-private-plunge-pool-flats",
+        "keyword": "Koregaon Park Private Plunge Pool Flats"
+      },
+      {
+        "slug": "koregaon-park-nri-premium-homes",
+        "keyword": "Koregaon Park NRI Premium Homes"
+      },
+      {
+        "slug": "koregaon-park-properties",
+        "keyword": "Koregaon Park Properties"
+      },
+      {
+        "slug": "koregaon-park-flats",
+        "keyword": "Koregaon Park Flats"
+      },
+      {
+        "slug": "koregaon-park-ready-possession",
+        "keyword": "Koregaon Park Ready Possession"
+      },
+      {
+        "slug": "koregaon-park-under-construction",
+        "keyword": "Koregaon Park Under Construction"
+      },
+      {
+        "slug": "koregaon-park-it-park-homes",
+        "keyword": "Koregaon Park IT Park Homes"
+      },
+      {
+        "slug": "koregaon-park-mla-homes",
+        "keyword": "Koregaon Park MLA Homes"
+      },
+      {
+        "slug": "koregaon-park-vtp-projects",
+        "keyword": "Koregaon Park VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-viman-nagar",
+    "title": "Viman Nagar Real Estate & Properties",
+    "description": "Viman Nagar offers unparalleled convenience, retail hubs, and proximity to the international airport.",
+    "slugs": [
+      {
+        "slug": "luxury-apartments-in-viman-nagar",
+        "keyword": "Luxury Apartments in Viman Nagar"
+      },
+      {
+        "slug": "premium-flats-in-viman-nagar",
+        "keyword": "Premium Flats in Viman Nagar"
+      },
+      {
+        "slug": "new-launch-projects-in-viman-nagar",
+        "keyword": "New Launch Projects in Viman Nagar"
+      },
+      {
+        "slug": "township-projects-in-viman-nagar",
+        "keyword": "Township Projects in Viman Nagar"
+      },
+      {
+        "slug": "real-estate-investment-in-viman-nagar",
+        "keyword": "Real Estate Investment in Viman Nagar"
+      },
+      {
+        "slug": "2bhk-in-viman-nagar",
+        "keyword": "2BHK in Viman Nagar"
+      },
+      {
+        "slug": "3bhk-in-viman-nagar",
+        "keyword": "3BHK in Viman Nagar"
+      },
+      {
+        "slug": "4bhk-in-viman-nagar",
+        "keyword": "4BHK in Viman Nagar"
+      },
+      {
+        "slug": "5bhk-in-viman-nagar",
+        "keyword": "5BHK in Viman Nagar"
+      },
+      {
+        "slug": "2-bhk-flats-in-viman-nagar",
+        "keyword": "2 BHK Flats in Viman Nagar"
+      },
+      {
+        "slug": "3-bhk-flats-in-viman-nagar",
+        "keyword": "3 BHK Flats in Viman Nagar"
+      },
+      {
+        "slug": "4-bhk-flats-in-viman-nagar",
+        "keyword": "4 BHK Flats in Viman Nagar"
+      },
+      {
+        "slug": "luxury-duplex-in-viman-nagar",
+        "keyword": "Luxury Duplex in Viman Nagar"
+      },
+      {
+        "slug": "sky-duplex-in-viman-nagar",
+        "keyword": "Sky Duplex in Viman Nagar"
+      },
+      {
+        "slug": "simplex-flats-in-viman-nagar",
+        "keyword": "Simplex Flats in Viman Nagar"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-viman-nagar",
+        "keyword": "Ultra-Luxury Penthouse in Viman Nagar"
+      },
+      {
+        "slug": "double-height-living-in-viman-nagar",
+        "keyword": "Double-Height Living in Viman Nagar"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-viman-nagar",
+        "keyword": "Apartments with Private Pool in Viman Nagar"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-viman-nagar",
+        "keyword": "NRI Real Estate Investment in Viman Nagar"
+      },
+      {
+        "slug": "properties-in-viman-nagar",
+        "keyword": "Properties in Viman Nagar"
+      },
+      {
+        "slug": "flats-in-viman-nagar",
+        "keyword": "Flats in Viman Nagar"
+      },
+      {
+        "slug": "ready-possession-flats-in-viman-nagar",
+        "keyword": "Ready Possession Flats in Viman Nagar"
+      },
+      {
+        "slug": "under-construction-projects-in-viman-nagar",
+        "keyword": "Under Construction Projects in Viman Nagar"
+      },
+      {
+        "slug": "homes-near-it-park-in-viman-nagar",
+        "keyword": "Homes near IT Park in Viman Nagar"
+      },
+      {
+        "slug": "maximum-livable-area-homes-in-viman-nagar",
+        "keyword": "Maximum Livable Area Homes in Viman Nagar"
+      },
+      {
+        "slug": "vtp-projects-in-viman-nagar",
+        "keyword": "VTP Projects in Viman Nagar"
+      },
+      {
+        "slug": "viman-nagar-luxury-apartments",
+        "keyword": "Viman Nagar Luxury Apartments"
+      },
+      {
+        "slug": "viman-nagar-premium-flats",
+        "keyword": "Viman Nagar Premium Flats"
+      },
+      {
+        "slug": "viman-nagar-new-launch-projects",
+        "keyword": "Viman Nagar New Launch Projects"
+      },
+      {
+        "slug": "viman-nagar-township-projects",
+        "keyword": "Viman Nagar Township Projects"
+      },
+      {
+        "slug": "viman-nagar-real-estate-investment",
+        "keyword": "Viman Nagar Real Estate Investment"
+      },
+      {
+        "slug": "viman-nagar-2bhk-flats",
+        "keyword": "Viman Nagar 2BHK Flats"
+      },
+      {
+        "slug": "viman-nagar-3bhk-luxury-homes",
+        "keyword": "Viman Nagar 3BHK Luxury Homes"
+      },
+      {
+        "slug": "viman-nagar-4bhk-premium-apartments",
+        "keyword": "Viman Nagar 4BHK Premium Apartments"
+      },
+      {
+        "slug": "viman-nagar-5bhk-villas",
+        "keyword": "Viman Nagar 5BHK Villas"
+      },
+      {
+        "slug": "viman-nagar-2-bhk",
+        "keyword": "Viman Nagar 2 BHK"
+      },
+      {
+        "slug": "viman-nagar-3-bhk",
+        "keyword": "Viman Nagar 3 BHK"
+      },
+      {
+        "slug": "viman-nagar-4-bhk",
+        "keyword": "Viman Nagar 4 BHK"
+      },
+      {
+        "slug": "viman-nagar-duplex-apartments",
+        "keyword": "Viman Nagar Duplex Apartments"
+      },
+      {
+        "slug": "viman-nagar-sky-duplex",
+        "keyword": "Viman Nagar Sky Duplex"
+      },
+      {
+        "slug": "viman-nagar-simplex-apartments",
+        "keyword": "Viman Nagar Simplex Apartments"
+      },
+      {
+        "slug": "viman-nagar-penthouses",
+        "keyword": "Viman Nagar Penthouses"
+      },
+      {
+        "slug": "viman-nagar-double-height-homes",
+        "keyword": "Viman Nagar Double-Height Homes"
+      },
+      {
+        "slug": "viman-nagar-private-plunge-pool-flats",
+        "keyword": "Viman Nagar Private Plunge Pool Flats"
+      },
+      {
+        "slug": "viman-nagar-nri-premium-homes",
+        "keyword": "Viman Nagar NRI Premium Homes"
+      },
+      {
+        "slug": "viman-nagar-properties",
+        "keyword": "Viman Nagar Properties"
+      },
+      {
+        "slug": "viman-nagar-flats",
+        "keyword": "Viman Nagar Flats"
+      },
+      {
+        "slug": "viman-nagar-ready-possession",
+        "keyword": "Viman Nagar Ready Possession"
+      },
+      {
+        "slug": "viman-nagar-under-construction",
+        "keyword": "Viman Nagar Under Construction"
+      },
+      {
+        "slug": "viman-nagar-it-park-homes",
+        "keyword": "Viman Nagar IT Park Homes"
+      },
+      {
+        "slug": "viman-nagar-mla-homes",
+        "keyword": "Viman Nagar MLA Homes"
+      },
+      {
+        "slug": "viman-nagar-vtp-projects",
+        "keyword": "Viman Nagar VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-magarpatta",
+    "title": "Magarpatta Real Estate & Properties",
+    "description": "Magarpatta is the original integrated IT township and a beacon for modern residential living.",
+    "slugs": [
+      {
+        "slug": "luxury-apartments-in-magarpatta",
+        "keyword": "Luxury Apartments in Magarpatta"
+      },
+      {
+        "slug": "premium-flats-in-magarpatta",
+        "keyword": "Premium Flats in Magarpatta"
+      },
+      {
+        "slug": "new-launch-projects-in-magarpatta",
+        "keyword": "New Launch Projects in Magarpatta"
+      },
+      {
+        "slug": "township-projects-in-magarpatta",
+        "keyword": "Township Projects in Magarpatta"
+      },
+      {
+        "slug": "real-estate-investment-in-magarpatta",
+        "keyword": "Real Estate Investment in Magarpatta"
+      },
+      {
+        "slug": "2bhk-in-magarpatta",
+        "keyword": "2BHK in Magarpatta"
+      },
+      {
+        "slug": "3bhk-in-magarpatta",
+        "keyword": "3BHK in Magarpatta"
+      },
+      {
+        "slug": "4bhk-in-magarpatta",
+        "keyword": "4BHK in Magarpatta"
+      },
+      {
+        "slug": "5bhk-in-magarpatta",
+        "keyword": "5BHK in Magarpatta"
+      },
+      {
+        "slug": "2-bhk-flats-in-magarpatta",
+        "keyword": "2 BHK Flats in Magarpatta"
+      },
+      {
+        "slug": "3-bhk-flats-in-magarpatta",
+        "keyword": "3 BHK Flats in Magarpatta"
+      },
+      {
+        "slug": "4-bhk-flats-in-magarpatta",
+        "keyword": "4 BHK Flats in Magarpatta"
+      },
+      {
+        "slug": "luxury-duplex-in-magarpatta",
+        "keyword": "Luxury Duplex in Magarpatta"
+      },
+      {
+        "slug": "sky-duplex-in-magarpatta",
+        "keyword": "Sky Duplex in Magarpatta"
+      },
+      {
+        "slug": "simplex-flats-in-magarpatta",
+        "keyword": "Simplex Flats in Magarpatta"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-magarpatta",
+        "keyword": "Ultra-Luxury Penthouse in Magarpatta"
+      },
+      {
+        "slug": "double-height-living-in-magarpatta",
+        "keyword": "Double-Height Living in Magarpatta"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-magarpatta",
+        "keyword": "Apartments with Private Pool in Magarpatta"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-magarpatta",
+        "keyword": "NRI Real Estate Investment in Magarpatta"
+      },
+      {
+        "slug": "properties-in-magarpatta",
+        "keyword": "Properties in Magarpatta"
+      },
+      {
+        "slug": "flats-in-magarpatta",
+        "keyword": "Flats in Magarpatta"
+      },
+      {
+        "slug": "ready-possession-flats-in-magarpatta",
+        "keyword": "Ready Possession Flats in Magarpatta"
+      },
+      {
+        "slug": "under-construction-projects-in-magarpatta",
+        "keyword": "Under Construction Projects in Magarpatta"
+      },
+      {
+        "slug": "homes-near-it-park-in-magarpatta",
+        "keyword": "Homes near IT Park in Magarpatta"
+      },
+      {
+        "slug": "maximum-livable-area-homes-in-magarpatta",
+        "keyword": "Maximum Livable Area Homes in Magarpatta"
+      },
+      {
+        "slug": "vtp-projects-in-magarpatta",
+        "keyword": "VTP Projects in Magarpatta"
+      },
+      {
+        "slug": "magarpatta-luxury-apartments",
+        "keyword": "Magarpatta Luxury Apartments"
+      },
+      {
+        "slug": "magarpatta-premium-flats",
+        "keyword": "Magarpatta Premium Flats"
+      },
+      {
+        "slug": "magarpatta-new-launch-projects",
+        "keyword": "Magarpatta New Launch Projects"
+      },
+      {
+        "slug": "magarpatta-township-projects",
+        "keyword": "Magarpatta Township Projects"
+      },
+      {
+        "slug": "magarpatta-real-estate-investment",
+        "keyword": "Magarpatta Real Estate Investment"
+      },
+      {
+        "slug": "magarpatta-2bhk-flats",
+        "keyword": "Magarpatta 2BHK Flats"
+      },
+      {
+        "slug": "magarpatta-3bhk-luxury-homes",
+        "keyword": "Magarpatta 3BHK Luxury Homes"
+      },
+      {
+        "slug": "magarpatta-4bhk-premium-apartments",
+        "keyword": "Magarpatta 4BHK Premium Apartments"
+      },
+      {
+        "slug": "magarpatta-5bhk-villas",
+        "keyword": "Magarpatta 5BHK Villas"
+      },
+      {
+        "slug": "magarpatta-2-bhk",
+        "keyword": "Magarpatta 2 BHK"
+      },
+      {
+        "slug": "magarpatta-3-bhk",
+        "keyword": "Magarpatta 3 BHK"
+      },
+      {
+        "slug": "magarpatta-4-bhk",
+        "keyword": "Magarpatta 4 BHK"
+      },
+      {
+        "slug": "magarpatta-duplex-apartments",
+        "keyword": "Magarpatta Duplex Apartments"
+      },
+      {
+        "slug": "magarpatta-sky-duplex",
+        "keyword": "Magarpatta Sky Duplex"
+      },
+      {
+        "slug": "magarpatta-simplex-apartments",
+        "keyword": "Magarpatta Simplex Apartments"
+      },
+      {
+        "slug": "magarpatta-penthouses",
+        "keyword": "Magarpatta Penthouses"
+      },
+      {
+        "slug": "magarpatta-double-height-homes",
+        "keyword": "Magarpatta Double-Height Homes"
+      },
+      {
+        "slug": "magarpatta-private-plunge-pool-flats",
+        "keyword": "Magarpatta Private Plunge Pool Flats"
+      },
+      {
+        "slug": "magarpatta-nri-premium-homes",
+        "keyword": "Magarpatta NRI Premium Homes"
+      },
+      {
+        "slug": "magarpatta-properties",
+        "keyword": "Magarpatta Properties"
+      },
+      {
+        "slug": "magarpatta-flats",
+        "keyword": "Magarpatta Flats"
+      },
+      {
+        "slug": "magarpatta-ready-possession",
+        "keyword": "Magarpatta Ready Possession"
+      },
+      {
+        "slug": "magarpatta-under-construction",
+        "keyword": "Magarpatta Under Construction"
+      },
+      {
+        "slug": "magarpatta-it-park-homes",
+        "keyword": "Magarpatta IT Park Homes"
+      },
+      {
+        "slug": "magarpatta-mla-homes",
+        "keyword": "Magarpatta MLA Homes"
+      },
+      {
+        "slug": "magarpatta-vtp-projects",
+        "keyword": "Magarpatta VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-hadapsar",
+    "title": "Hadapsar Real Estate & Properties",
+    "description": "Hadapsar is a massive growth corridor connecting industrial parks and premium IT zones.",
+    "slugs": [
+      {
+        "slug": "luxury-apartments-in-hadapsar",
+        "keyword": "Luxury Apartments in Hadapsar"
+      },
+      {
+        "slug": "premium-flats-in-hadapsar",
+        "keyword": "Premium Flats in Hadapsar"
+      },
+      {
+        "slug": "new-launch-projects-in-hadapsar",
+        "keyword": "New Launch Projects in Hadapsar"
+      },
+      {
+        "slug": "township-projects-in-hadapsar",
+        "keyword": "Township Projects in Hadapsar"
+      },
+      {
+        "slug": "real-estate-investment-in-hadapsar",
+        "keyword": "Real Estate Investment in Hadapsar"
+      },
+      {
+        "slug": "2bhk-in-hadapsar",
+        "keyword": "2BHK in Hadapsar"
+      },
+      {
+        "slug": "3bhk-in-hadapsar",
+        "keyword": "3BHK in Hadapsar"
+      },
+      {
+        "slug": "4bhk-in-hadapsar",
+        "keyword": "4BHK in Hadapsar"
+      },
+      {
+        "slug": "5bhk-in-hadapsar",
+        "keyword": "5BHK in Hadapsar"
+      },
+      {
+        "slug": "2-bhk-flats-in-hadapsar",
+        "keyword": "2 BHK Flats in Hadapsar"
+      },
+      {
+        "slug": "3-bhk-flats-in-hadapsar",
+        "keyword": "3 BHK Flats in Hadapsar"
+      },
+      {
+        "slug": "4-bhk-flats-in-hadapsar",
+        "keyword": "4 BHK Flats in Hadapsar"
+      },
+      {
+        "slug": "luxury-duplex-in-hadapsar",
+        "keyword": "Luxury Duplex in Hadapsar"
+      },
+      {
+        "slug": "sky-duplex-in-hadapsar",
+        "keyword": "Sky Duplex in Hadapsar"
+      },
+      {
+        "slug": "simplex-flats-in-hadapsar",
+        "keyword": "Simplex Flats in Hadapsar"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-hadapsar",
+        "keyword": "Ultra-Luxury Penthouse in Hadapsar"
+      },
+      {
+        "slug": "double-height-living-in-hadapsar",
+        "keyword": "Double-Height Living in Hadapsar"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-hadapsar",
+        "keyword": "Apartments with Private Pool in Hadapsar"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-hadapsar",
+        "keyword": "NRI Real Estate Investment in Hadapsar"
+      },
+      {
+        "slug": "properties-in-hadapsar",
+        "keyword": "Properties in Hadapsar"
+      },
+      {
+        "slug": "flats-in-hadapsar",
+        "keyword": "Flats in Hadapsar"
+      },
+      {
+        "slug": "ready-possession-flats-in-hadapsar",
+        "keyword": "Ready Possession Flats in Hadapsar"
+      },
+      {
+        "slug": "under-construction-projects-in-hadapsar",
+        "keyword": "Under Construction Projects in Hadapsar"
+      },
+      {
+        "slug": "homes-near-it-park-in-hadapsar",
+        "keyword": "Homes near IT Park in Hadapsar"
+      },
+      {
+        "slug": "maximum-livable-area-homes-in-hadapsar",
+        "keyword": "Maximum Livable Area Homes in Hadapsar"
+      },
+      {
+        "slug": "vtp-projects-in-hadapsar",
+        "keyword": "VTP Projects in Hadapsar"
+      },
+      {
+        "slug": "hadapsar-luxury-apartments",
+        "keyword": "Hadapsar Luxury Apartments"
+      },
+      {
+        "slug": "hadapsar-premium-flats",
+        "keyword": "Hadapsar Premium Flats"
+      },
+      {
+        "slug": "hadapsar-new-launch-projects",
+        "keyword": "Hadapsar New Launch Projects"
+      },
+      {
+        "slug": "hadapsar-township-projects",
+        "keyword": "Hadapsar Township Projects"
+      },
+      {
+        "slug": "hadapsar-real-estate-investment",
+        "keyword": "Hadapsar Real Estate Investment"
+      },
+      {
+        "slug": "hadapsar-2bhk-flats",
+        "keyword": "Hadapsar 2BHK Flats"
+      },
+      {
+        "slug": "hadapsar-3bhk-luxury-homes",
+        "keyword": "Hadapsar 3BHK Luxury Homes"
+      },
+      {
+        "slug": "hadapsar-4bhk-premium-apartments",
+        "keyword": "Hadapsar 4BHK Premium Apartments"
+      },
+      {
+        "slug": "hadapsar-5bhk-villas",
+        "keyword": "Hadapsar 5BHK Villas"
+      },
+      {
+        "slug": "hadapsar-2-bhk",
+        "keyword": "Hadapsar 2 BHK"
+      },
+      {
+        "slug": "hadapsar-3-bhk",
+        "keyword": "Hadapsar 3 BHK"
+      },
+      {
+        "slug": "hadapsar-4-bhk",
+        "keyword": "Hadapsar 4 BHK"
+      },
+      {
+        "slug": "hadapsar-duplex-apartments",
+        "keyword": "Hadapsar Duplex Apartments"
+      },
+      {
+        "slug": "hadapsar-sky-duplex",
+        "keyword": "Hadapsar Sky Duplex"
+      },
+      {
+        "slug": "hadapsar-simplex-apartments",
+        "keyword": "Hadapsar Simplex Apartments"
+      },
+      {
+        "slug": "hadapsar-penthouses",
+        "keyword": "Hadapsar Penthouses"
+      },
+      {
+        "slug": "hadapsar-double-height-homes",
+        "keyword": "Hadapsar Double-Height Homes"
+      },
+      {
+        "slug": "hadapsar-private-plunge-pool-flats",
+        "keyword": "Hadapsar Private Plunge Pool Flats"
+      },
+      {
+        "slug": "hadapsar-nri-premium-homes",
+        "keyword": "Hadapsar NRI Premium Homes"
+      },
+      {
+        "slug": "hadapsar-properties",
+        "keyword": "Hadapsar Properties"
+      },
+      {
+        "slug": "hadapsar-flats",
+        "keyword": "Hadapsar Flats"
+      },
+      {
+        "slug": "hadapsar-ready-possession",
+        "keyword": "Hadapsar Ready Possession"
+      },
+      {
+        "slug": "hadapsar-under-construction",
+        "keyword": "Hadapsar Under Construction"
+      },
+      {
+        "slug": "hadapsar-it-park-homes",
+        "keyword": "Hadapsar IT Park Homes"
+      },
+      {
+        "slug": "hadapsar-mla-homes",
+        "keyword": "Hadapsar MLA Homes"
+      },
+      {
+        "slug": "hadapsar-vtp-projects",
+        "keyword": "Hadapsar VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-wagholi",
+    "title": "Wagholi Real Estate & Properties",
+    "description": "Wagholi is East Pune's fastest-growing residential destination for IT professionals.",
+    "slugs": [
+      {
+        "slug": "luxury-apartments-in-wagholi",
+        "keyword": "Luxury Apartments in Wagholi"
+      },
+      {
+        "slug": "premium-flats-in-wagholi",
+        "keyword": "Premium Flats in Wagholi"
+      },
+      {
+        "slug": "new-launch-projects-in-wagholi",
+        "keyword": "New Launch Projects in Wagholi"
+      },
+      {
+        "slug": "township-projects-in-wagholi",
+        "keyword": "Township Projects in Wagholi"
+      },
+      {
+        "slug": "real-estate-investment-in-wagholi",
+        "keyword": "Real Estate Investment in Wagholi"
+      },
+      {
+        "slug": "2bhk-in-wagholi",
+        "keyword": "2BHK in Wagholi"
+      },
+      {
+        "slug": "3bhk-in-wagholi",
+        "keyword": "3BHK in Wagholi"
+      },
+      {
+        "slug": "4bhk-in-wagholi",
+        "keyword": "4BHK in Wagholi"
+      },
+      {
+        "slug": "5bhk-in-wagholi",
+        "keyword": "5BHK in Wagholi"
+      },
+      {
+        "slug": "2-bhk-flats-in-wagholi",
+        "keyword": "2 BHK Flats in Wagholi"
+      },
+      {
+        "slug": "3-bhk-flats-in-wagholi",
+        "keyword": "3 BHK Flats in Wagholi"
+      },
+      {
+        "slug": "4-bhk-flats-in-wagholi",
+        "keyword": "4 BHK Flats in Wagholi"
+      },
+      {
+        "slug": "luxury-duplex-in-wagholi",
+        "keyword": "Luxury Duplex in Wagholi"
+      },
+      {
+        "slug": "sky-duplex-in-wagholi",
+        "keyword": "Sky Duplex in Wagholi"
+      },
+      {
+        "slug": "simplex-flats-in-wagholi",
+        "keyword": "Simplex Flats in Wagholi"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-wagholi",
+        "keyword": "Ultra-Luxury Penthouse in Wagholi"
+      },
+      {
+        "slug": "double-height-living-in-wagholi",
+        "keyword": "Double-Height Living in Wagholi"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-wagholi",
+        "keyword": "Apartments with Private Pool in Wagholi"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-wagholi",
+        "keyword": "NRI Real Estate Investment in Wagholi"
+      },
+      {
+        "slug": "properties-in-wagholi",
+        "keyword": "Properties in Wagholi"
+      },
+      {
+        "slug": "flats-in-wagholi",
+        "keyword": "Flats in Wagholi"
+      },
+      {
+        "slug": "ready-possession-flats-in-wagholi",
+        "keyword": "Ready Possession Flats in Wagholi"
+      },
+      {
+        "slug": "under-construction-projects-in-wagholi",
+        "keyword": "Under Construction Projects in Wagholi"
+      },
+      {
+        "slug": "homes-near-it-park-in-wagholi",
+        "keyword": "Homes near IT Park in Wagholi"
+      },
+      {
+        "slug": "maximum-livable-area-homes-in-wagholi",
+        "keyword": "Maximum Livable Area Homes in Wagholi"
+      },
+      {
+        "slug": "vtp-projects-in-wagholi",
+        "keyword": "VTP Projects in Wagholi"
+      },
+      {
+        "slug": "wagholi-luxury-apartments",
+        "keyword": "Wagholi Luxury Apartments"
+      },
+      {
+        "slug": "wagholi-premium-flats",
+        "keyword": "Wagholi Premium Flats"
+      },
+      {
+        "slug": "wagholi-new-launch-projects",
+        "keyword": "Wagholi New Launch Projects"
+      },
+      {
+        "slug": "wagholi-township-projects",
+        "keyword": "Wagholi Township Projects"
+      },
+      {
+        "slug": "wagholi-real-estate-investment",
+        "keyword": "Wagholi Real Estate Investment"
+      },
+      {
+        "slug": "wagholi-2bhk-flats",
+        "keyword": "Wagholi 2BHK Flats"
+      },
+      {
+        "slug": "wagholi-3bhk-luxury-homes",
+        "keyword": "Wagholi 3BHK Luxury Homes"
+      },
+      {
+        "slug": "wagholi-4bhk-premium-apartments",
+        "keyword": "Wagholi 4BHK Premium Apartments"
+      },
+      {
+        "slug": "wagholi-5bhk-villas",
+        "keyword": "Wagholi 5BHK Villas"
+      },
+      {
+        "slug": "wagholi-2-bhk",
+        "keyword": "Wagholi 2 BHK"
+      },
+      {
+        "slug": "wagholi-3-bhk",
+        "keyword": "Wagholi 3 BHK"
+      },
+      {
+        "slug": "wagholi-4-bhk",
+        "keyword": "Wagholi 4 BHK"
+      },
+      {
+        "slug": "wagholi-duplex-apartments",
+        "keyword": "Wagholi Duplex Apartments"
+      },
+      {
+        "slug": "wagholi-sky-duplex",
+        "keyword": "Wagholi Sky Duplex"
+      },
+      {
+        "slug": "wagholi-simplex-apartments",
+        "keyword": "Wagholi Simplex Apartments"
+      },
+      {
+        "slug": "wagholi-penthouses",
+        "keyword": "Wagholi Penthouses"
+      },
+      {
+        "slug": "wagholi-double-height-homes",
+        "keyword": "Wagholi Double-Height Homes"
+      },
+      {
+        "slug": "wagholi-private-plunge-pool-flats",
+        "keyword": "Wagholi Private Plunge Pool Flats"
+      },
+      {
+        "slug": "wagholi-nri-premium-homes",
+        "keyword": "Wagholi NRI Premium Homes"
+      },
+      {
+        "slug": "wagholi-properties",
+        "keyword": "Wagholi Properties"
+      },
+      {
+        "slug": "wagholi-flats",
+        "keyword": "Wagholi Flats"
+      },
+      {
+        "slug": "wagholi-ready-possession",
+        "keyword": "Wagholi Ready Possession"
+      },
+      {
+        "slug": "wagholi-under-construction",
+        "keyword": "Wagholi Under Construction"
+      },
+      {
+        "slug": "wagholi-it-park-homes",
+        "keyword": "Wagholi IT Park Homes"
+      },
+      {
+        "slug": "wagholi-mla-homes",
+        "keyword": "Wagholi MLA Homes"
+      },
+      {
+        "slug": "wagholi-vtp-projects",
+        "keyword": "Wagholi VTP Projects"
+      }
+    ]
+  },
+  {
     "id": "location-pcmc",
     "title": "PCMC Real Estate & Properties",
     "description": "Pimpri-Chinchwad (PCMC) offers unparalleled infrastructure and premium residential developments.",
@@ -1725,217 +4090,1077 @@ export const seoSilos = [
     ]
   },
   {
-    "id": "location-bavdhan",
-    "title": "Bavdhan Real Estate & Properties",
-    "description": "Bavdhan offers scenic nature views combined with premium luxury living in West Pune.",
+    "id": "location-ravet",
+    "title": "Ravet Real Estate & Properties",
+    "description": "Ravet is the gateway to Pune, witnessing a massive boom in premium high-rise living.",
     "slugs": [
       {
-        "slug": "luxury-apartments-in-bavdhan",
-        "keyword": "Luxury Apartments in Bavdhan"
+        "slug": "luxury-apartments-in-ravet",
+        "keyword": "Luxury Apartments in Ravet"
       },
       {
-        "slug": "premium-flats-in-bavdhan",
-        "keyword": "Premium Flats in Bavdhan"
+        "slug": "premium-flats-in-ravet",
+        "keyword": "Premium Flats in Ravet"
       },
       {
-        "slug": "new-launch-projects-in-bavdhan",
-        "keyword": "New Launch Projects in Bavdhan"
+        "slug": "new-launch-projects-in-ravet",
+        "keyword": "New Launch Projects in Ravet"
       },
       {
-        "slug": "township-projects-in-bavdhan",
-        "keyword": "Township Projects in Bavdhan"
+        "slug": "township-projects-in-ravet",
+        "keyword": "Township Projects in Ravet"
       },
       {
-        "slug": "real-estate-investment-in-bavdhan",
-        "keyword": "Real Estate Investment in Bavdhan"
+        "slug": "real-estate-investment-in-ravet",
+        "keyword": "Real Estate Investment in Ravet"
       },
       {
-        "slug": "2bhk-in-bavdhan",
-        "keyword": "2BHK in Bavdhan"
+        "slug": "2bhk-in-ravet",
+        "keyword": "2BHK in Ravet"
       },
       {
-        "slug": "3bhk-in-bavdhan",
-        "keyword": "3BHK in Bavdhan"
+        "slug": "3bhk-in-ravet",
+        "keyword": "3BHK in Ravet"
       },
       {
-        "slug": "4bhk-in-bavdhan",
-        "keyword": "4BHK in Bavdhan"
+        "slug": "4bhk-in-ravet",
+        "keyword": "4BHK in Ravet"
       },
       {
-        "slug": "5bhk-in-bavdhan",
-        "keyword": "5BHK in Bavdhan"
+        "slug": "5bhk-in-ravet",
+        "keyword": "5BHK in Ravet"
       },
       {
-        "slug": "2-bhk-flats-in-bavdhan",
-        "keyword": "2 BHK Flats in Bavdhan"
+        "slug": "2-bhk-flats-in-ravet",
+        "keyword": "2 BHK Flats in Ravet"
       },
       {
-        "slug": "3-bhk-flats-in-bavdhan",
-        "keyword": "3 BHK Flats in Bavdhan"
+        "slug": "3-bhk-flats-in-ravet",
+        "keyword": "3 BHK Flats in Ravet"
       },
       {
-        "slug": "4-bhk-flats-in-bavdhan",
-        "keyword": "4 BHK Flats in Bavdhan"
+        "slug": "4-bhk-flats-in-ravet",
+        "keyword": "4 BHK Flats in Ravet"
       },
       {
-        "slug": "luxury-duplex-in-bavdhan",
-        "keyword": "Luxury Duplex in Bavdhan"
+        "slug": "luxury-duplex-in-ravet",
+        "keyword": "Luxury Duplex in Ravet"
       },
       {
-        "slug": "sky-duplex-in-bavdhan",
-        "keyword": "Sky Duplex in Bavdhan"
+        "slug": "sky-duplex-in-ravet",
+        "keyword": "Sky Duplex in Ravet"
       },
       {
-        "slug": "simplex-flats-in-bavdhan",
-        "keyword": "Simplex Flats in Bavdhan"
+        "slug": "simplex-flats-in-ravet",
+        "keyword": "Simplex Flats in Ravet"
       },
       {
-        "slug": "ultra-luxury-penthouse-in-bavdhan",
-        "keyword": "Ultra-Luxury Penthouse in Bavdhan"
+        "slug": "ultra-luxury-penthouse-in-ravet",
+        "keyword": "Ultra-Luxury Penthouse in Ravet"
       },
       {
-        "slug": "double-height-living-in-bavdhan",
-        "keyword": "Double-Height Living in Bavdhan"
+        "slug": "double-height-living-in-ravet",
+        "keyword": "Double-Height Living in Ravet"
       },
       {
-        "slug": "apartments-with-private-pool-in-bavdhan",
-        "keyword": "Apartments with Private Pool in Bavdhan"
+        "slug": "apartments-with-private-pool-in-ravet",
+        "keyword": "Apartments with Private Pool in Ravet"
       },
       {
-        "slug": "nri-real-estate-investment-in-bavdhan",
-        "keyword": "NRI Real Estate Investment in Bavdhan"
+        "slug": "nri-real-estate-investment-in-ravet",
+        "keyword": "NRI Real Estate Investment in Ravet"
       },
       {
-        "slug": "properties-in-bavdhan",
-        "keyword": "Properties in Bavdhan"
+        "slug": "properties-in-ravet",
+        "keyword": "Properties in Ravet"
       },
       {
-        "slug": "flats-in-bavdhan",
-        "keyword": "Flats in Bavdhan"
+        "slug": "flats-in-ravet",
+        "keyword": "Flats in Ravet"
       },
       {
-        "slug": "ready-possession-flats-in-bavdhan",
-        "keyword": "Ready Possession Flats in Bavdhan"
+        "slug": "ready-possession-flats-in-ravet",
+        "keyword": "Ready Possession Flats in Ravet"
       },
       {
-        "slug": "under-construction-projects-in-bavdhan",
-        "keyword": "Under Construction Projects in Bavdhan"
+        "slug": "under-construction-projects-in-ravet",
+        "keyword": "Under Construction Projects in Ravet"
       },
       {
-        "slug": "homes-near-it-park-in-bavdhan",
-        "keyword": "Homes near IT Park in Bavdhan"
+        "slug": "homes-near-it-park-in-ravet",
+        "keyword": "Homes near IT Park in Ravet"
       },
       {
-        "slug": "maximum-livable-area-homes-in-bavdhan",
-        "keyword": "Maximum Livable Area Homes in Bavdhan"
+        "slug": "maximum-livable-area-homes-in-ravet",
+        "keyword": "Maximum Livable Area Homes in Ravet"
       },
       {
-        "slug": "vtp-projects-in-bavdhan",
-        "keyword": "VTP Projects in Bavdhan"
+        "slug": "vtp-projects-in-ravet",
+        "keyword": "VTP Projects in Ravet"
       },
       {
-        "slug": "bavdhan-luxury-apartments",
-        "keyword": "Bavdhan Luxury Apartments"
+        "slug": "ravet-luxury-apartments",
+        "keyword": "Ravet Luxury Apartments"
       },
       {
-        "slug": "bavdhan-premium-flats",
-        "keyword": "Bavdhan Premium Flats"
+        "slug": "ravet-premium-flats",
+        "keyword": "Ravet Premium Flats"
       },
       {
-        "slug": "bavdhan-new-launch-projects",
-        "keyword": "Bavdhan New Launch Projects"
+        "slug": "ravet-new-launch-projects",
+        "keyword": "Ravet New Launch Projects"
       },
       {
-        "slug": "bavdhan-township-projects",
-        "keyword": "Bavdhan Township Projects"
+        "slug": "ravet-township-projects",
+        "keyword": "Ravet Township Projects"
       },
       {
-        "slug": "bavdhan-real-estate-investment",
-        "keyword": "Bavdhan Real Estate Investment"
+        "slug": "ravet-real-estate-investment",
+        "keyword": "Ravet Real Estate Investment"
       },
       {
-        "slug": "bavdhan-2bhk-flats",
-        "keyword": "Bavdhan 2BHK Flats"
+        "slug": "ravet-2bhk-flats",
+        "keyword": "Ravet 2BHK Flats"
       },
       {
-        "slug": "bavdhan-3bhk-luxury-homes",
-        "keyword": "Bavdhan 3BHK Luxury Homes"
+        "slug": "ravet-3bhk-luxury-homes",
+        "keyword": "Ravet 3BHK Luxury Homes"
       },
       {
-        "slug": "bavdhan-4bhk-premium-apartments",
-        "keyword": "Bavdhan 4BHK Premium Apartments"
+        "slug": "ravet-4bhk-premium-apartments",
+        "keyword": "Ravet 4BHK Premium Apartments"
       },
       {
-        "slug": "bavdhan-5bhk-villas",
-        "keyword": "Bavdhan 5BHK Villas"
+        "slug": "ravet-5bhk-villas",
+        "keyword": "Ravet 5BHK Villas"
       },
       {
-        "slug": "bavdhan-2-bhk",
-        "keyword": "Bavdhan 2 BHK"
+        "slug": "ravet-2-bhk",
+        "keyword": "Ravet 2 BHK"
       },
       {
-        "slug": "bavdhan-3-bhk",
-        "keyword": "Bavdhan 3 BHK"
+        "slug": "ravet-3-bhk",
+        "keyword": "Ravet 3 BHK"
       },
       {
-        "slug": "bavdhan-4-bhk",
-        "keyword": "Bavdhan 4 BHK"
+        "slug": "ravet-4-bhk",
+        "keyword": "Ravet 4 BHK"
       },
       {
-        "slug": "bavdhan-duplex-apartments",
-        "keyword": "Bavdhan Duplex Apartments"
+        "slug": "ravet-duplex-apartments",
+        "keyword": "Ravet Duplex Apartments"
       },
       {
-        "slug": "bavdhan-sky-duplex",
-        "keyword": "Bavdhan Sky Duplex"
+        "slug": "ravet-sky-duplex",
+        "keyword": "Ravet Sky Duplex"
       },
       {
-        "slug": "bavdhan-simplex-apartments",
-        "keyword": "Bavdhan Simplex Apartments"
+        "slug": "ravet-simplex-apartments",
+        "keyword": "Ravet Simplex Apartments"
       },
       {
-        "slug": "bavdhan-penthouses",
-        "keyword": "Bavdhan Penthouses"
+        "slug": "ravet-penthouses",
+        "keyword": "Ravet Penthouses"
       },
       {
-        "slug": "bavdhan-double-height-homes",
-        "keyword": "Bavdhan Double-Height Homes"
+        "slug": "ravet-double-height-homes",
+        "keyword": "Ravet Double-Height Homes"
       },
       {
-        "slug": "bavdhan-private-plunge-pool-flats",
-        "keyword": "Bavdhan Private Plunge Pool Flats"
+        "slug": "ravet-private-plunge-pool-flats",
+        "keyword": "Ravet Private Plunge Pool Flats"
       },
       {
-        "slug": "bavdhan-nri-premium-homes",
-        "keyword": "Bavdhan NRI Premium Homes"
+        "slug": "ravet-nri-premium-homes",
+        "keyword": "Ravet NRI Premium Homes"
       },
       {
-        "slug": "bavdhan-properties",
-        "keyword": "Bavdhan Properties"
+        "slug": "ravet-properties",
+        "keyword": "Ravet Properties"
       },
       {
-        "slug": "bavdhan-flats",
-        "keyword": "Bavdhan Flats"
+        "slug": "ravet-flats",
+        "keyword": "Ravet Flats"
       },
       {
-        "slug": "bavdhan-ready-possession",
-        "keyword": "Bavdhan Ready Possession"
+        "slug": "ravet-ready-possession",
+        "keyword": "Ravet Ready Possession"
       },
       {
-        "slug": "bavdhan-under-construction",
-        "keyword": "Bavdhan Under Construction"
+        "slug": "ravet-under-construction",
+        "keyword": "Ravet Under Construction"
       },
       {
-        "slug": "bavdhan-it-park-homes",
-        "keyword": "Bavdhan IT Park Homes"
+        "slug": "ravet-it-park-homes",
+        "keyword": "Ravet IT Park Homes"
       },
       {
-        "slug": "bavdhan-mla-homes",
-        "keyword": "Bavdhan MLA Homes"
+        "slug": "ravet-mla-homes",
+        "keyword": "Ravet MLA Homes"
       },
       {
-        "slug": "bavdhan-vtp-projects",
-        "keyword": "Bavdhan VTP Projects"
+        "slug": "ravet-vtp-projects",
+        "keyword": "Ravet VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-punawale",
+    "title": "Punawale Real Estate & Properties",
+    "description": "Punawale is a prime investment hub, capitalizing on the upcoming Ring Road infrastructure.",
+    "slugs": [
+      {
+        "slug": "luxury-apartments-in-punawale",
+        "keyword": "Luxury Apartments in Punawale"
+      },
+      {
+        "slug": "premium-flats-in-punawale",
+        "keyword": "Premium Flats in Punawale"
+      },
+      {
+        "slug": "new-launch-projects-in-punawale",
+        "keyword": "New Launch Projects in Punawale"
+      },
+      {
+        "slug": "township-projects-in-punawale",
+        "keyword": "Township Projects in Punawale"
+      },
+      {
+        "slug": "real-estate-investment-in-punawale",
+        "keyword": "Real Estate Investment in Punawale"
+      },
+      {
+        "slug": "2bhk-in-punawale",
+        "keyword": "2BHK in Punawale"
+      },
+      {
+        "slug": "3bhk-in-punawale",
+        "keyword": "3BHK in Punawale"
+      },
+      {
+        "slug": "4bhk-in-punawale",
+        "keyword": "4BHK in Punawale"
+      },
+      {
+        "slug": "5bhk-in-punawale",
+        "keyword": "5BHK in Punawale"
+      },
+      {
+        "slug": "2-bhk-flats-in-punawale",
+        "keyword": "2 BHK Flats in Punawale"
+      },
+      {
+        "slug": "3-bhk-flats-in-punawale",
+        "keyword": "3 BHK Flats in Punawale"
+      },
+      {
+        "slug": "4-bhk-flats-in-punawale",
+        "keyword": "4 BHK Flats in Punawale"
+      },
+      {
+        "slug": "luxury-duplex-in-punawale",
+        "keyword": "Luxury Duplex in Punawale"
+      },
+      {
+        "slug": "sky-duplex-in-punawale",
+        "keyword": "Sky Duplex in Punawale"
+      },
+      {
+        "slug": "simplex-flats-in-punawale",
+        "keyword": "Simplex Flats in Punawale"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-punawale",
+        "keyword": "Ultra-Luxury Penthouse in Punawale"
+      },
+      {
+        "slug": "double-height-living-in-punawale",
+        "keyword": "Double-Height Living in Punawale"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-punawale",
+        "keyword": "Apartments with Private Pool in Punawale"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-punawale",
+        "keyword": "NRI Real Estate Investment in Punawale"
+      },
+      {
+        "slug": "properties-in-punawale",
+        "keyword": "Properties in Punawale"
+      },
+      {
+        "slug": "flats-in-punawale",
+        "keyword": "Flats in Punawale"
+      },
+      {
+        "slug": "ready-possession-flats-in-punawale",
+        "keyword": "Ready Possession Flats in Punawale"
+      },
+      {
+        "slug": "under-construction-projects-in-punawale",
+        "keyword": "Under Construction Projects in Punawale"
+      },
+      {
+        "slug": "homes-near-it-park-in-punawale",
+        "keyword": "Homes near IT Park in Punawale"
+      },
+      {
+        "slug": "maximum-livable-area-homes-in-punawale",
+        "keyword": "Maximum Livable Area Homes in Punawale"
+      },
+      {
+        "slug": "vtp-projects-in-punawale",
+        "keyword": "VTP Projects in Punawale"
+      },
+      {
+        "slug": "punawale-luxury-apartments",
+        "keyword": "Punawale Luxury Apartments"
+      },
+      {
+        "slug": "punawale-premium-flats",
+        "keyword": "Punawale Premium Flats"
+      },
+      {
+        "slug": "punawale-new-launch-projects",
+        "keyword": "Punawale New Launch Projects"
+      },
+      {
+        "slug": "punawale-township-projects",
+        "keyword": "Punawale Township Projects"
+      },
+      {
+        "slug": "punawale-real-estate-investment",
+        "keyword": "Punawale Real Estate Investment"
+      },
+      {
+        "slug": "punawale-2bhk-flats",
+        "keyword": "Punawale 2BHK Flats"
+      },
+      {
+        "slug": "punawale-3bhk-luxury-homes",
+        "keyword": "Punawale 3BHK Luxury Homes"
+      },
+      {
+        "slug": "punawale-4bhk-premium-apartments",
+        "keyword": "Punawale 4BHK Premium Apartments"
+      },
+      {
+        "slug": "punawale-5bhk-villas",
+        "keyword": "Punawale 5BHK Villas"
+      },
+      {
+        "slug": "punawale-2-bhk",
+        "keyword": "Punawale 2 BHK"
+      },
+      {
+        "slug": "punawale-3-bhk",
+        "keyword": "Punawale 3 BHK"
+      },
+      {
+        "slug": "punawale-4-bhk",
+        "keyword": "Punawale 4 BHK"
+      },
+      {
+        "slug": "punawale-duplex-apartments",
+        "keyword": "Punawale Duplex Apartments"
+      },
+      {
+        "slug": "punawale-sky-duplex",
+        "keyword": "Punawale Sky Duplex"
+      },
+      {
+        "slug": "punawale-simplex-apartments",
+        "keyword": "Punawale Simplex Apartments"
+      },
+      {
+        "slug": "punawale-penthouses",
+        "keyword": "Punawale Penthouses"
+      },
+      {
+        "slug": "punawale-double-height-homes",
+        "keyword": "Punawale Double-Height Homes"
+      },
+      {
+        "slug": "punawale-private-plunge-pool-flats",
+        "keyword": "Punawale Private Plunge Pool Flats"
+      },
+      {
+        "slug": "punawale-nri-premium-homes",
+        "keyword": "Punawale NRI Premium Homes"
+      },
+      {
+        "slug": "punawale-properties",
+        "keyword": "Punawale Properties"
+      },
+      {
+        "slug": "punawale-flats",
+        "keyword": "Punawale Flats"
+      },
+      {
+        "slug": "punawale-ready-possession",
+        "keyword": "Punawale Ready Possession"
+      },
+      {
+        "slug": "punawale-under-construction",
+        "keyword": "Punawale Under Construction"
+      },
+      {
+        "slug": "punawale-it-park-homes",
+        "keyword": "Punawale IT Park Homes"
+      },
+      {
+        "slug": "punawale-mla-homes",
+        "keyword": "Punawale MLA Homes"
+      },
+      {
+        "slug": "punawale-vtp-projects",
+        "keyword": "Punawale VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-moshi",
+    "title": "Moshi Real Estate & Properties",
+    "description": "Moshi is transforming into a self-sufficient residential hotspot in the PCMC region.",
+    "slugs": [
+      {
+        "slug": "luxury-apartments-in-moshi",
+        "keyword": "Luxury Apartments in Moshi"
+      },
+      {
+        "slug": "premium-flats-in-moshi",
+        "keyword": "Premium Flats in Moshi"
+      },
+      {
+        "slug": "new-launch-projects-in-moshi",
+        "keyword": "New Launch Projects in Moshi"
+      },
+      {
+        "slug": "township-projects-in-moshi",
+        "keyword": "Township Projects in Moshi"
+      },
+      {
+        "slug": "real-estate-investment-in-moshi",
+        "keyword": "Real Estate Investment in Moshi"
+      },
+      {
+        "slug": "2bhk-in-moshi",
+        "keyword": "2BHK in Moshi"
+      },
+      {
+        "slug": "3bhk-in-moshi",
+        "keyword": "3BHK in Moshi"
+      },
+      {
+        "slug": "4bhk-in-moshi",
+        "keyword": "4BHK in Moshi"
+      },
+      {
+        "slug": "5bhk-in-moshi",
+        "keyword": "5BHK in Moshi"
+      },
+      {
+        "slug": "2-bhk-flats-in-moshi",
+        "keyword": "2 BHK Flats in Moshi"
+      },
+      {
+        "slug": "3-bhk-flats-in-moshi",
+        "keyword": "3 BHK Flats in Moshi"
+      },
+      {
+        "slug": "4-bhk-flats-in-moshi",
+        "keyword": "4 BHK Flats in Moshi"
+      },
+      {
+        "slug": "luxury-duplex-in-moshi",
+        "keyword": "Luxury Duplex in Moshi"
+      },
+      {
+        "slug": "sky-duplex-in-moshi",
+        "keyword": "Sky Duplex in Moshi"
+      },
+      {
+        "slug": "simplex-flats-in-moshi",
+        "keyword": "Simplex Flats in Moshi"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-moshi",
+        "keyword": "Ultra-Luxury Penthouse in Moshi"
+      },
+      {
+        "slug": "double-height-living-in-moshi",
+        "keyword": "Double-Height Living in Moshi"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-moshi",
+        "keyword": "Apartments with Private Pool in Moshi"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-moshi",
+        "keyword": "NRI Real Estate Investment in Moshi"
+      },
+      {
+        "slug": "properties-in-moshi",
+        "keyword": "Properties in Moshi"
+      },
+      {
+        "slug": "flats-in-moshi",
+        "keyword": "Flats in Moshi"
+      },
+      {
+        "slug": "ready-possession-flats-in-moshi",
+        "keyword": "Ready Possession Flats in Moshi"
+      },
+      {
+        "slug": "under-construction-projects-in-moshi",
+        "keyword": "Under Construction Projects in Moshi"
+      },
+      {
+        "slug": "homes-near-it-park-in-moshi",
+        "keyword": "Homes near IT Park in Moshi"
+      },
+      {
+        "slug": "maximum-livable-area-homes-in-moshi",
+        "keyword": "Maximum Livable Area Homes in Moshi"
+      },
+      {
+        "slug": "vtp-projects-in-moshi",
+        "keyword": "VTP Projects in Moshi"
+      },
+      {
+        "slug": "moshi-luxury-apartments",
+        "keyword": "Moshi Luxury Apartments"
+      },
+      {
+        "slug": "moshi-premium-flats",
+        "keyword": "Moshi Premium Flats"
+      },
+      {
+        "slug": "moshi-new-launch-projects",
+        "keyword": "Moshi New Launch Projects"
+      },
+      {
+        "slug": "moshi-township-projects",
+        "keyword": "Moshi Township Projects"
+      },
+      {
+        "slug": "moshi-real-estate-investment",
+        "keyword": "Moshi Real Estate Investment"
+      },
+      {
+        "slug": "moshi-2bhk-flats",
+        "keyword": "Moshi 2BHK Flats"
+      },
+      {
+        "slug": "moshi-3bhk-luxury-homes",
+        "keyword": "Moshi 3BHK Luxury Homes"
+      },
+      {
+        "slug": "moshi-4bhk-premium-apartments",
+        "keyword": "Moshi 4BHK Premium Apartments"
+      },
+      {
+        "slug": "moshi-5bhk-villas",
+        "keyword": "Moshi 5BHK Villas"
+      },
+      {
+        "slug": "moshi-2-bhk",
+        "keyword": "Moshi 2 BHK"
+      },
+      {
+        "slug": "moshi-3-bhk",
+        "keyword": "Moshi 3 BHK"
+      },
+      {
+        "slug": "moshi-4-bhk",
+        "keyword": "Moshi 4 BHK"
+      },
+      {
+        "slug": "moshi-duplex-apartments",
+        "keyword": "Moshi Duplex Apartments"
+      },
+      {
+        "slug": "moshi-sky-duplex",
+        "keyword": "Moshi Sky Duplex"
+      },
+      {
+        "slug": "moshi-simplex-apartments",
+        "keyword": "Moshi Simplex Apartments"
+      },
+      {
+        "slug": "moshi-penthouses",
+        "keyword": "Moshi Penthouses"
+      },
+      {
+        "slug": "moshi-double-height-homes",
+        "keyword": "Moshi Double-Height Homes"
+      },
+      {
+        "slug": "moshi-private-plunge-pool-flats",
+        "keyword": "Moshi Private Plunge Pool Flats"
+      },
+      {
+        "slug": "moshi-nri-premium-homes",
+        "keyword": "Moshi NRI Premium Homes"
+      },
+      {
+        "slug": "moshi-properties",
+        "keyword": "Moshi Properties"
+      },
+      {
+        "slug": "moshi-flats",
+        "keyword": "Moshi Flats"
+      },
+      {
+        "slug": "moshi-ready-possession",
+        "keyword": "Moshi Ready Possession"
+      },
+      {
+        "slug": "moshi-under-construction",
+        "keyword": "Moshi Under Construction"
+      },
+      {
+        "slug": "moshi-it-park-homes",
+        "keyword": "Moshi IT Park Homes"
+      },
+      {
+        "slug": "moshi-mla-homes",
+        "keyword": "Moshi MLA Homes"
+      },
+      {
+        "slug": "moshi-vtp-projects",
+        "keyword": "Moshi VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-undri",
+    "title": "Undri Real Estate & Properties",
+    "description": "Undri offers serene, large-format living away from the city chaos but with excellent connectivity.",
+    "slugs": [
+      {
+        "slug": "luxury-apartments-in-undri",
+        "keyword": "Luxury Apartments in Undri"
+      },
+      {
+        "slug": "premium-flats-in-undri",
+        "keyword": "Premium Flats in Undri"
+      },
+      {
+        "slug": "new-launch-projects-in-undri",
+        "keyword": "New Launch Projects in Undri"
+      },
+      {
+        "slug": "township-projects-in-undri",
+        "keyword": "Township Projects in Undri"
+      },
+      {
+        "slug": "real-estate-investment-in-undri",
+        "keyword": "Real Estate Investment in Undri"
+      },
+      {
+        "slug": "2bhk-in-undri",
+        "keyword": "2BHK in Undri"
+      },
+      {
+        "slug": "3bhk-in-undri",
+        "keyword": "3BHK in Undri"
+      },
+      {
+        "slug": "4bhk-in-undri",
+        "keyword": "4BHK in Undri"
+      },
+      {
+        "slug": "5bhk-in-undri",
+        "keyword": "5BHK in Undri"
+      },
+      {
+        "slug": "2-bhk-flats-in-undri",
+        "keyword": "2 BHK Flats in Undri"
+      },
+      {
+        "slug": "3-bhk-flats-in-undri",
+        "keyword": "3 BHK Flats in Undri"
+      },
+      {
+        "slug": "4-bhk-flats-in-undri",
+        "keyword": "4 BHK Flats in Undri"
+      },
+      {
+        "slug": "luxury-duplex-in-undri",
+        "keyword": "Luxury Duplex in Undri"
+      },
+      {
+        "slug": "sky-duplex-in-undri",
+        "keyword": "Sky Duplex in Undri"
+      },
+      {
+        "slug": "simplex-flats-in-undri",
+        "keyword": "Simplex Flats in Undri"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-undri",
+        "keyword": "Ultra-Luxury Penthouse in Undri"
+      },
+      {
+        "slug": "double-height-living-in-undri",
+        "keyword": "Double-Height Living in Undri"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-undri",
+        "keyword": "Apartments with Private Pool in Undri"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-undri",
+        "keyword": "NRI Real Estate Investment in Undri"
+      },
+      {
+        "slug": "properties-in-undri",
+        "keyword": "Properties in Undri"
+      },
+      {
+        "slug": "flats-in-undri",
+        "keyword": "Flats in Undri"
+      },
+      {
+        "slug": "ready-possession-flats-in-undri",
+        "keyword": "Ready Possession Flats in Undri"
+      },
+      {
+        "slug": "under-construction-projects-in-undri",
+        "keyword": "Under Construction Projects in Undri"
+      },
+      {
+        "slug": "homes-near-it-park-in-undri",
+        "keyword": "Homes near IT Park in Undri"
+      },
+      {
+        "slug": "maximum-livable-area-homes-in-undri",
+        "keyword": "Maximum Livable Area Homes in Undri"
+      },
+      {
+        "slug": "vtp-projects-in-undri",
+        "keyword": "VTP Projects in Undri"
+      },
+      {
+        "slug": "undri-luxury-apartments",
+        "keyword": "Undri Luxury Apartments"
+      },
+      {
+        "slug": "undri-premium-flats",
+        "keyword": "Undri Premium Flats"
+      },
+      {
+        "slug": "undri-new-launch-projects",
+        "keyword": "Undri New Launch Projects"
+      },
+      {
+        "slug": "undri-township-projects",
+        "keyword": "Undri Township Projects"
+      },
+      {
+        "slug": "undri-real-estate-investment",
+        "keyword": "Undri Real Estate Investment"
+      },
+      {
+        "slug": "undri-2bhk-flats",
+        "keyword": "Undri 2BHK Flats"
+      },
+      {
+        "slug": "undri-3bhk-luxury-homes",
+        "keyword": "Undri 3BHK Luxury Homes"
+      },
+      {
+        "slug": "undri-4bhk-premium-apartments",
+        "keyword": "Undri 4BHK Premium Apartments"
+      },
+      {
+        "slug": "undri-5bhk-villas",
+        "keyword": "Undri 5BHK Villas"
+      },
+      {
+        "slug": "undri-2-bhk",
+        "keyword": "Undri 2 BHK"
+      },
+      {
+        "slug": "undri-3-bhk",
+        "keyword": "Undri 3 BHK"
+      },
+      {
+        "slug": "undri-4-bhk",
+        "keyword": "Undri 4 BHK"
+      },
+      {
+        "slug": "undri-duplex-apartments",
+        "keyword": "Undri Duplex Apartments"
+      },
+      {
+        "slug": "undri-sky-duplex",
+        "keyword": "Undri Sky Duplex"
+      },
+      {
+        "slug": "undri-simplex-apartments",
+        "keyword": "Undri Simplex Apartments"
+      },
+      {
+        "slug": "undri-penthouses",
+        "keyword": "Undri Penthouses"
+      },
+      {
+        "slug": "undri-double-height-homes",
+        "keyword": "Undri Double-Height Homes"
+      },
+      {
+        "slug": "undri-private-plunge-pool-flats",
+        "keyword": "Undri Private Plunge Pool Flats"
+      },
+      {
+        "slug": "undri-nri-premium-homes",
+        "keyword": "Undri NRI Premium Homes"
+      },
+      {
+        "slug": "undri-properties",
+        "keyword": "Undri Properties"
+      },
+      {
+        "slug": "undri-flats",
+        "keyword": "Undri Flats"
+      },
+      {
+        "slug": "undri-ready-possession",
+        "keyword": "Undri Ready Possession"
+      },
+      {
+        "slug": "undri-under-construction",
+        "keyword": "Undri Under Construction"
+      },
+      {
+        "slug": "undri-it-park-homes",
+        "keyword": "Undri IT Park Homes"
+      },
+      {
+        "slug": "undri-mla-homes",
+        "keyword": "Undri MLA Homes"
+      },
+      {
+        "slug": "undri-vtp-projects",
+        "keyword": "Undri VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-kondhwa",
+    "title": "Kondhwa Real Estate & Properties",
+    "description": "Kondhwa represents the established South Pune market with diverse residential options.",
+    "slugs": [
+      {
+        "slug": "luxury-apartments-in-kondhwa",
+        "keyword": "Luxury Apartments in Kondhwa"
+      },
+      {
+        "slug": "premium-flats-in-kondhwa",
+        "keyword": "Premium Flats in Kondhwa"
+      },
+      {
+        "slug": "new-launch-projects-in-kondhwa",
+        "keyword": "New Launch Projects in Kondhwa"
+      },
+      {
+        "slug": "township-projects-in-kondhwa",
+        "keyword": "Township Projects in Kondhwa"
+      },
+      {
+        "slug": "real-estate-investment-in-kondhwa",
+        "keyword": "Real Estate Investment in Kondhwa"
+      },
+      {
+        "slug": "2bhk-in-kondhwa",
+        "keyword": "2BHK in Kondhwa"
+      },
+      {
+        "slug": "3bhk-in-kondhwa",
+        "keyword": "3BHK in Kondhwa"
+      },
+      {
+        "slug": "4bhk-in-kondhwa",
+        "keyword": "4BHK in Kondhwa"
+      },
+      {
+        "slug": "5bhk-in-kondhwa",
+        "keyword": "5BHK in Kondhwa"
+      },
+      {
+        "slug": "2-bhk-flats-in-kondhwa",
+        "keyword": "2 BHK Flats in Kondhwa"
+      },
+      {
+        "slug": "3-bhk-flats-in-kondhwa",
+        "keyword": "3 BHK Flats in Kondhwa"
+      },
+      {
+        "slug": "4-bhk-flats-in-kondhwa",
+        "keyword": "4 BHK Flats in Kondhwa"
+      },
+      {
+        "slug": "luxury-duplex-in-kondhwa",
+        "keyword": "Luxury Duplex in Kondhwa"
+      },
+      {
+        "slug": "sky-duplex-in-kondhwa",
+        "keyword": "Sky Duplex in Kondhwa"
+      },
+      {
+        "slug": "simplex-flats-in-kondhwa",
+        "keyword": "Simplex Flats in Kondhwa"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-kondhwa",
+        "keyword": "Ultra-Luxury Penthouse in Kondhwa"
+      },
+      {
+        "slug": "double-height-living-in-kondhwa",
+        "keyword": "Double-Height Living in Kondhwa"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-kondhwa",
+        "keyword": "Apartments with Private Pool in Kondhwa"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-kondhwa",
+        "keyword": "NRI Real Estate Investment in Kondhwa"
+      },
+      {
+        "slug": "properties-in-kondhwa",
+        "keyword": "Properties in Kondhwa"
+      },
+      {
+        "slug": "flats-in-kondhwa",
+        "keyword": "Flats in Kondhwa"
+      },
+      {
+        "slug": "ready-possession-flats-in-kondhwa",
+        "keyword": "Ready Possession Flats in Kondhwa"
+      },
+      {
+        "slug": "under-construction-projects-in-kondhwa",
+        "keyword": "Under Construction Projects in Kondhwa"
+      },
+      {
+        "slug": "homes-near-it-park-in-kondhwa",
+        "keyword": "Homes near IT Park in Kondhwa"
+      },
+      {
+        "slug": "maximum-livable-area-homes-in-kondhwa",
+        "keyword": "Maximum Livable Area Homes in Kondhwa"
+      },
+      {
+        "slug": "vtp-projects-in-kondhwa",
+        "keyword": "VTP Projects in Kondhwa"
+      },
+      {
+        "slug": "kondhwa-luxury-apartments",
+        "keyword": "Kondhwa Luxury Apartments"
+      },
+      {
+        "slug": "kondhwa-premium-flats",
+        "keyword": "Kondhwa Premium Flats"
+      },
+      {
+        "slug": "kondhwa-new-launch-projects",
+        "keyword": "Kondhwa New Launch Projects"
+      },
+      {
+        "slug": "kondhwa-township-projects",
+        "keyword": "Kondhwa Township Projects"
+      },
+      {
+        "slug": "kondhwa-real-estate-investment",
+        "keyword": "Kondhwa Real Estate Investment"
+      },
+      {
+        "slug": "kondhwa-2bhk-flats",
+        "keyword": "Kondhwa 2BHK Flats"
+      },
+      {
+        "slug": "kondhwa-3bhk-luxury-homes",
+        "keyword": "Kondhwa 3BHK Luxury Homes"
+      },
+      {
+        "slug": "kondhwa-4bhk-premium-apartments",
+        "keyword": "Kondhwa 4BHK Premium Apartments"
+      },
+      {
+        "slug": "kondhwa-5bhk-villas",
+        "keyword": "Kondhwa 5BHK Villas"
+      },
+      {
+        "slug": "kondhwa-2-bhk",
+        "keyword": "Kondhwa 2 BHK"
+      },
+      {
+        "slug": "kondhwa-3-bhk",
+        "keyword": "Kondhwa 3 BHK"
+      },
+      {
+        "slug": "kondhwa-4-bhk",
+        "keyword": "Kondhwa 4 BHK"
+      },
+      {
+        "slug": "kondhwa-duplex-apartments",
+        "keyword": "Kondhwa Duplex Apartments"
+      },
+      {
+        "slug": "kondhwa-sky-duplex",
+        "keyword": "Kondhwa Sky Duplex"
+      },
+      {
+        "slug": "kondhwa-simplex-apartments",
+        "keyword": "Kondhwa Simplex Apartments"
+      },
+      {
+        "slug": "kondhwa-penthouses",
+        "keyword": "Kondhwa Penthouses"
+      },
+      {
+        "slug": "kondhwa-double-height-homes",
+        "keyword": "Kondhwa Double-Height Homes"
+      },
+      {
+        "slug": "kondhwa-private-plunge-pool-flats",
+        "keyword": "Kondhwa Private Plunge Pool Flats"
+      },
+      {
+        "slug": "kondhwa-nri-premium-homes",
+        "keyword": "Kondhwa NRI Premium Homes"
+      },
+      {
+        "slug": "kondhwa-properties",
+        "keyword": "Kondhwa Properties"
+      },
+      {
+        "slug": "kondhwa-flats",
+        "keyword": "Kondhwa Flats"
+      },
+      {
+        "slug": "kondhwa-ready-possession",
+        "keyword": "Kondhwa Ready Possession"
+      },
+      {
+        "slug": "kondhwa-under-construction",
+        "keyword": "Kondhwa Under Construction"
+      },
+      {
+        "slug": "kondhwa-it-park-homes",
+        "keyword": "Kondhwa IT Park Homes"
+      },
+      {
+        "slug": "kondhwa-mla-homes",
+        "keyword": "Kondhwa MLA Homes"
+      },
+      {
+        "slug": "kondhwa-vtp-projects",
+        "keyword": "Kondhwa VTP Projects"
       }
     ]
   },
@@ -3466,6 +6691,114 @@ export const seoSilos = [
       {
         "slug": "rera-registered-projects-pune-in-wakad",
         "keyword": "RERA Registered Projects Pune in Wakad"
+      }
+    ]
+  },
+  {
+    "id": "theme-best-areas-invest-2026",
+    "title": "Best Areas to Invest in Pune 2026",
+    "description": "Discover the best best areas to invest in pune 2026 for exceptional lifestyle and returns.",
+    "slugs": [
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-mahalunge",
+        "keyword": "Best Areas to Invest in Pune 2026 in Mahalunge"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-hinjawadi",
+        "keyword": "Best Areas to Invest in Pune 2026 in Hinjawadi"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-baner",
+        "keyword": "Best Areas to Invest in Pune 2026 in Baner"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-kharadi",
+        "keyword": "Best Areas to Invest in Pune 2026 in Kharadi"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-wakad",
+        "keyword": "Best Areas to Invest in Pune 2026 in Wakad"
+      }
+    ]
+  },
+  {
+    "id": "theme-pune-real-estate-market",
+    "title": "Pune Real Estate Market Trends",
+    "description": "Discover the best pune real estate market trends for exceptional lifestyle and returns.",
+    "slugs": [
+      {
+        "slug": "pune-real-estate-market-trends-in-mahalunge",
+        "keyword": "Pune Real Estate Market Trends in Mahalunge"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-hinjawadi",
+        "keyword": "Pune Real Estate Market Trends in Hinjawadi"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-baner",
+        "keyword": "Pune Real Estate Market Trends in Baner"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-kharadi",
+        "keyword": "Pune Real Estate Market Trends in Kharadi"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-wakad",
+        "keyword": "Pune Real Estate Market Trends in Wakad"
+      }
+    ]
+  },
+  {
+    "id": "theme-walk-to-work-homes",
+    "title": "Walk-to-Work Homes Pune",
+    "description": "Discover the best walk-to-work homes pune for exceptional lifestyle and returns.",
+    "slugs": [
+      {
+        "slug": "walk-to-work-homes-pune-in-mahalunge",
+        "keyword": "Walk-to-Work Homes Pune in Mahalunge"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-hinjawadi",
+        "keyword": "Walk-to-Work Homes Pune in Hinjawadi"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-baner",
+        "keyword": "Walk-to-Work Homes Pune in Baner"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-kharadi",
+        "keyword": "Walk-to-Work Homes Pune in Kharadi"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-wakad",
+        "keyword": "Walk-to-Work Homes Pune in Wakad"
+      }
+    ]
+  },
+  {
+    "id": "theme-metro-connected-properties",
+    "title": "Properties near Pune Metro",
+    "description": "Discover the best properties near pune metro for exceptional lifestyle and returns.",
+    "slugs": [
+      {
+        "slug": "properties-near-pune-metro-in-mahalunge",
+        "keyword": "Properties near Pune Metro in Mahalunge"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-hinjawadi",
+        "keyword": "Properties near Pune Metro in Hinjawadi"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-baner",
+        "keyword": "Properties near Pune Metro in Baner"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-kharadi",
+        "keyword": "Properties near Pune Metro in Kharadi"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-wakad",
+        "keyword": "Properties near Pune Metro in Wakad"
       }
     ]
   }
