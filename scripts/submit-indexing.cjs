@@ -1,6 +1,6 @@
 const { google } = require('googleapis');
 const key = require('./service-account.json');
-const https = require('https');
+const fs = require('fs');
 
 // Initialize JWT authentication with the required scope
 const jwtClient = new google.auth.JWT({
@@ -8,32 +8,6 @@ const jwtClient = new google.auth.JWT({
   key: key.private_key,
   scopes: ['https://www.googleapis.com/auth/indexing'],
 });
-
-// We will fetch the first 200 URLs from sitemap/0.xml (due to 200/day quota limit)
-const SITEMAP_URL = 'https://vtpbluewaters.com/sitemap/0.xml';
-
-async function fetchSitemapUrls(sitemapUrl) {
-  return new Promise((resolve, reject) => {
-    https.get(sitemapUrl, (res) => {
-      let data = '';
-      res.on('data', (chunk) => {
-        data += chunk;
-      });
-      res.on('end', () => {
-        // Regex to extract all <loc> contents
-        const regex = /<loc>(.*?)<\/loc>/g;
-        let urls = [];
-        let match;
-        while ((match = regex.exec(data)) !== null) {
-          urls.push(match[1]);
-        }
-        resolve(urls);
-      });
-    }).on('error', (err) => {
-      reject(err);
-    });
-  });
-}
 
 async function run() {
   console.log(`[+] Authenticating with Google Cloud as ${key.client_email}...`);
@@ -45,16 +19,22 @@ async function run() {
     return;
   }
 
-  console.log(`\n[+] Fetching URLs from ${SITEMAP_URL}...`);
-  let urls = await fetchSitemapUrls(SITEMAP_URL);
+  console.log(`\n[+] Generating priority URLs locally for Indexing API...`);
   
-  if (urls.length === 0) {
-    console.log('[-] No URLs found or sitemap is empty/failing. Ensure the sitemap is live.');
-    return;
-  }
+  // We will submit the core market intelligence pages immediately
+  let urls = [
+    'https://vtpbluewaters.com',
+    'https://vtpbluewaters.com/market-intelligence/mahalunge-hinjewadi-investment-guide',
+    'https://vtpbluewaters.com/market-intelligence/vtp-bluewaters-township-review',
+    'https://vtpbluewaters.com/market-intelligence/pune-ultra-luxury-real-estate-trends',
+    'https://vtpbluewaters.com/market-intelligence/vtp-bluewaters-vs-competitors',
+    'https://vtpbluewaters.com/market-intelligence/hinjewadi-walk-to-work-lifestyle',
+    'https://vtpbluewaters.com/investors/nri-investment-guide',
+    'https://vtpbluewaters.com/investors/pune-infrastructure-impact-report',
+    'https://vtpbluewaters.com/township'
+  ];
 
-  console.log(`[+] Found ${urls.length} URLs. Truncating to 200 to respect daily quota limits.`);
-  urls = urls.slice(0, 200);
+  console.log(`[+] Pushing ${urls.length} high-priority Core & Market Intelligence pages to Google Indexing API...`);
 
   let successCount = 0;
   let failCount = 0;
