@@ -1,7 +1,7 @@
 // AUTO-GENERATED SEO SILOS DATABASE
 // Generated via programmatic SEO engine for massive keyword injection.
-// Total Silos: 59
-// Total Keywords: 2737
+// Total Silos: 82
+// Total Keywords: 5203
 
 export const seoSilos = [
   {
@@ -30,6 +30,10 @@ export const seoSilos = [
         "keyword": "Real Estate Investment in Mahalunge"
       },
       {
+        "slug": "1bhk-in-mahalunge",
+        "keyword": "1BHK in Mahalunge"
+      },
+      {
         "slug": "2bhk-in-mahalunge",
         "keyword": "2BHK in Mahalunge"
       },
@@ -46,6 +50,10 @@ export const seoSilos = [
         "keyword": "5BHK in Mahalunge"
       },
       {
+        "slug": "1-bhk-flats-in-mahalunge",
+        "keyword": "1 BHK Flats in Mahalunge"
+      },
+      {
         "slug": "2-bhk-flats-in-mahalunge",
         "keyword": "2 BHK Flats in Mahalunge"
       },
@@ -56,6 +64,10 @@ export const seoSilos = [
       {
         "slug": "4-bhk-flats-in-mahalunge",
         "keyword": "4 BHK Flats in Mahalunge"
+      },
+      {
+        "slug": "studio-apartments-in-mahalunge",
+        "keyword": "Studio Apartments in Mahalunge"
       },
       {
         "slug": "luxury-duplex-in-mahalunge",
@@ -92,6 +104,26 @@ export const seoSilos = [
       {
         "slug": "flats-in-mahalunge",
         "keyword": "Flats in Mahalunge"
+      },
+      {
+        "slug": "villas-in-mahalunge",
+        "keyword": "Villas in Mahalunge"
+      },
+      {
+        "slug": "row-houses-in-mahalunge",
+        "keyword": "Row Houses in Mahalunge"
+      },
+      {
+        "slug": "commercial-properties-in-mahalunge",
+        "keyword": "Commercial Properties in Mahalunge"
+      },
+      {
+        "slug": "retail-shops-in-mahalunge",
+        "keyword": "Retail Shops in Mahalunge"
+      },
+      {
+        "slug": "office-spaces-in-mahalunge",
+        "keyword": "Office Spaces in Mahalunge"
       },
       {
         "slug": "ready-possession-flats-in-mahalunge",
@@ -134,6 +166,10 @@ export const seoSilos = [
         "keyword": "Mahalunge Real Estate Investment"
       },
       {
+        "slug": "mahalunge-1bhk-flats",
+        "keyword": "Mahalunge 1BHK Flats"
+      },
+      {
         "slug": "mahalunge-2bhk-flats",
         "keyword": "Mahalunge 2BHK Flats"
       },
@@ -150,6 +186,10 @@ export const seoSilos = [
         "keyword": "Mahalunge 5BHK Villas"
       },
       {
+        "slug": "mahalunge-1-bhk",
+        "keyword": "Mahalunge 1 BHK"
+      },
+      {
         "slug": "mahalunge-2-bhk",
         "keyword": "Mahalunge 2 BHK"
       },
@@ -160,6 +200,10 @@ export const seoSilos = [
       {
         "slug": "mahalunge-4-bhk",
         "keyword": "Mahalunge 4 BHK"
+      },
+      {
+        "slug": "mahalunge-studio-apartments",
+        "keyword": "Mahalunge Studio Apartments"
       },
       {
         "slug": "mahalunge-duplex-apartments",
@@ -196,6 +240,26 @@ export const seoSilos = [
       {
         "slug": "mahalunge-flats",
         "keyword": "Mahalunge Flats"
+      },
+      {
+        "slug": "mahalunge-villas",
+        "keyword": "Mahalunge Villas"
+      },
+      {
+        "slug": "mahalunge-row-houses",
+        "keyword": "Mahalunge Row Houses"
+      },
+      {
+        "slug": "mahalunge-commercial-real-estate",
+        "keyword": "Mahalunge Commercial Real Estate"
+      },
+      {
+        "slug": "mahalunge-retail-spaces",
+        "keyword": "Mahalunge Retail Spaces"
+      },
+      {
+        "slug": "mahalunge-office-spaces",
+        "keyword": "Mahalunge Office Spaces"
       },
       {
         "slug": "mahalunge-ready-possession",
@@ -245,6 +309,10 @@ export const seoSilos = [
         "keyword": "Real Estate Investment in Hinjawadi"
       },
       {
+        "slug": "1bhk-in-hinjawadi",
+        "keyword": "1BHK in Hinjawadi"
+      },
+      {
         "slug": "2bhk-in-hinjawadi",
         "keyword": "2BHK in Hinjawadi"
       },
@@ -261,6 +329,10 @@ export const seoSilos = [
         "keyword": "5BHK in Hinjawadi"
       },
       {
+        "slug": "1-bhk-flats-in-hinjawadi",
+        "keyword": "1 BHK Flats in Hinjawadi"
+      },
+      {
         "slug": "2-bhk-flats-in-hinjawadi",
         "keyword": "2 BHK Flats in Hinjawadi"
       },
@@ -271,6 +343,10 @@ export const seoSilos = [
       {
         "slug": "4-bhk-flats-in-hinjawadi",
         "keyword": "4 BHK Flats in Hinjawadi"
+      },
+      {
+        "slug": "studio-apartments-in-hinjawadi",
+        "keyword": "Studio Apartments in Hinjawadi"
       },
       {
         "slug": "luxury-duplex-in-hinjawadi",
@@ -307,6 +383,26 @@ export const seoSilos = [
       {
         "slug": "flats-in-hinjawadi",
         "keyword": "Flats in Hinjawadi"
+      },
+      {
+        "slug": "villas-in-hinjawadi",
+        "keyword": "Villas in Hinjawadi"
+      },
+      {
+        "slug": "row-houses-in-hinjawadi",
+        "keyword": "Row Houses in Hinjawadi"
+      },
+      {
+        "slug": "commercial-properties-in-hinjawadi",
+        "keyword": "Commercial Properties in Hinjawadi"
+      },
+      {
+        "slug": "retail-shops-in-hinjawadi",
+        "keyword": "Retail Shops in Hinjawadi"
+      },
+      {
+        "slug": "office-spaces-in-hinjawadi",
+        "keyword": "Office Spaces in Hinjawadi"
       },
       {
         "slug": "ready-possession-flats-in-hinjawadi",
@@ -349,6 +445,10 @@ export const seoSilos = [
         "keyword": "Hinjawadi Real Estate Investment"
       },
       {
+        "slug": "hinjawadi-1bhk-flats",
+        "keyword": "Hinjawadi 1BHK Flats"
+      },
+      {
         "slug": "hinjawadi-2bhk-flats",
         "keyword": "Hinjawadi 2BHK Flats"
       },
@@ -365,6 +465,10 @@ export const seoSilos = [
         "keyword": "Hinjawadi 5BHK Villas"
       },
       {
+        "slug": "hinjawadi-1-bhk",
+        "keyword": "Hinjawadi 1 BHK"
+      },
+      {
         "slug": "hinjawadi-2-bhk",
         "keyword": "Hinjawadi 2 BHK"
       },
@@ -375,6 +479,10 @@ export const seoSilos = [
       {
         "slug": "hinjawadi-4-bhk",
         "keyword": "Hinjawadi 4 BHK"
+      },
+      {
+        "slug": "hinjawadi-studio-apartments",
+        "keyword": "Hinjawadi Studio Apartments"
       },
       {
         "slug": "hinjawadi-duplex-apartments",
@@ -411,6 +519,26 @@ export const seoSilos = [
       {
         "slug": "hinjawadi-flats",
         "keyword": "Hinjawadi Flats"
+      },
+      {
+        "slug": "hinjawadi-villas",
+        "keyword": "Hinjawadi Villas"
+      },
+      {
+        "slug": "hinjawadi-row-houses",
+        "keyword": "Hinjawadi Row Houses"
+      },
+      {
+        "slug": "hinjawadi-commercial-real-estate",
+        "keyword": "Hinjawadi Commercial Real Estate"
+      },
+      {
+        "slug": "hinjawadi-retail-spaces",
+        "keyword": "Hinjawadi Retail Spaces"
+      },
+      {
+        "slug": "hinjawadi-office-spaces",
+        "keyword": "Hinjawadi Office Spaces"
       },
       {
         "slug": "hinjawadi-ready-possession",
@@ -460,6 +588,10 @@ export const seoSilos = [
         "keyword": "Real Estate Investment in Baner"
       },
       {
+        "slug": "1bhk-in-baner",
+        "keyword": "1BHK in Baner"
+      },
+      {
         "slug": "2bhk-in-baner",
         "keyword": "2BHK in Baner"
       },
@@ -476,6 +608,10 @@ export const seoSilos = [
         "keyword": "5BHK in Baner"
       },
       {
+        "slug": "1-bhk-flats-in-baner",
+        "keyword": "1 BHK Flats in Baner"
+      },
+      {
         "slug": "2-bhk-flats-in-baner",
         "keyword": "2 BHK Flats in Baner"
       },
@@ -486,6 +622,10 @@ export const seoSilos = [
       {
         "slug": "4-bhk-flats-in-baner",
         "keyword": "4 BHK Flats in Baner"
+      },
+      {
+        "slug": "studio-apartments-in-baner",
+        "keyword": "Studio Apartments in Baner"
       },
       {
         "slug": "luxury-duplex-in-baner",
@@ -522,6 +662,26 @@ export const seoSilos = [
       {
         "slug": "flats-in-baner",
         "keyword": "Flats in Baner"
+      },
+      {
+        "slug": "villas-in-baner",
+        "keyword": "Villas in Baner"
+      },
+      {
+        "slug": "row-houses-in-baner",
+        "keyword": "Row Houses in Baner"
+      },
+      {
+        "slug": "commercial-properties-in-baner",
+        "keyword": "Commercial Properties in Baner"
+      },
+      {
+        "slug": "retail-shops-in-baner",
+        "keyword": "Retail Shops in Baner"
+      },
+      {
+        "slug": "office-spaces-in-baner",
+        "keyword": "Office Spaces in Baner"
       },
       {
         "slug": "ready-possession-flats-in-baner",
@@ -564,6 +724,10 @@ export const seoSilos = [
         "keyword": "Baner Real Estate Investment"
       },
       {
+        "slug": "baner-1bhk-flats",
+        "keyword": "Baner 1BHK Flats"
+      },
+      {
         "slug": "baner-2bhk-flats",
         "keyword": "Baner 2BHK Flats"
       },
@@ -580,6 +744,10 @@ export const seoSilos = [
         "keyword": "Baner 5BHK Villas"
       },
       {
+        "slug": "baner-1-bhk",
+        "keyword": "Baner 1 BHK"
+      },
+      {
         "slug": "baner-2-bhk",
         "keyword": "Baner 2 BHK"
       },
@@ -590,6 +758,10 @@ export const seoSilos = [
       {
         "slug": "baner-4-bhk",
         "keyword": "Baner 4 BHK"
+      },
+      {
+        "slug": "baner-studio-apartments",
+        "keyword": "Baner Studio Apartments"
       },
       {
         "slug": "baner-duplex-apartments",
@@ -626,6 +798,26 @@ export const seoSilos = [
       {
         "slug": "baner-flats",
         "keyword": "Baner Flats"
+      },
+      {
+        "slug": "baner-villas",
+        "keyword": "Baner Villas"
+      },
+      {
+        "slug": "baner-row-houses",
+        "keyword": "Baner Row Houses"
+      },
+      {
+        "slug": "baner-commercial-real-estate",
+        "keyword": "Baner Commercial Real Estate"
+      },
+      {
+        "slug": "baner-retail-spaces",
+        "keyword": "Baner Retail Spaces"
+      },
+      {
+        "slug": "baner-office-spaces",
+        "keyword": "Baner Office Spaces"
       },
       {
         "slug": "baner-ready-possession",
@@ -675,6 +867,10 @@ export const seoSilos = [
         "keyword": "Real Estate Investment in Kharadi"
       },
       {
+        "slug": "1bhk-in-kharadi",
+        "keyword": "1BHK in Kharadi"
+      },
+      {
         "slug": "2bhk-in-kharadi",
         "keyword": "2BHK in Kharadi"
       },
@@ -691,6 +887,10 @@ export const seoSilos = [
         "keyword": "5BHK in Kharadi"
       },
       {
+        "slug": "1-bhk-flats-in-kharadi",
+        "keyword": "1 BHK Flats in Kharadi"
+      },
+      {
         "slug": "2-bhk-flats-in-kharadi",
         "keyword": "2 BHK Flats in Kharadi"
       },
@@ -701,6 +901,10 @@ export const seoSilos = [
       {
         "slug": "4-bhk-flats-in-kharadi",
         "keyword": "4 BHK Flats in Kharadi"
+      },
+      {
+        "slug": "studio-apartments-in-kharadi",
+        "keyword": "Studio Apartments in Kharadi"
       },
       {
         "slug": "luxury-duplex-in-kharadi",
@@ -737,6 +941,26 @@ export const seoSilos = [
       {
         "slug": "flats-in-kharadi",
         "keyword": "Flats in Kharadi"
+      },
+      {
+        "slug": "villas-in-kharadi",
+        "keyword": "Villas in Kharadi"
+      },
+      {
+        "slug": "row-houses-in-kharadi",
+        "keyword": "Row Houses in Kharadi"
+      },
+      {
+        "slug": "commercial-properties-in-kharadi",
+        "keyword": "Commercial Properties in Kharadi"
+      },
+      {
+        "slug": "retail-shops-in-kharadi",
+        "keyword": "Retail Shops in Kharadi"
+      },
+      {
+        "slug": "office-spaces-in-kharadi",
+        "keyword": "Office Spaces in Kharadi"
       },
       {
         "slug": "ready-possession-flats-in-kharadi",
@@ -779,6 +1003,10 @@ export const seoSilos = [
         "keyword": "Kharadi Real Estate Investment"
       },
       {
+        "slug": "kharadi-1bhk-flats",
+        "keyword": "Kharadi 1BHK Flats"
+      },
+      {
         "slug": "kharadi-2bhk-flats",
         "keyword": "Kharadi 2BHK Flats"
       },
@@ -795,6 +1023,10 @@ export const seoSilos = [
         "keyword": "Kharadi 5BHK Villas"
       },
       {
+        "slug": "kharadi-1-bhk",
+        "keyword": "Kharadi 1 BHK"
+      },
+      {
         "slug": "kharadi-2-bhk",
         "keyword": "Kharadi 2 BHK"
       },
@@ -805,6 +1037,10 @@ export const seoSilos = [
       {
         "slug": "kharadi-4-bhk",
         "keyword": "Kharadi 4 BHK"
+      },
+      {
+        "slug": "kharadi-studio-apartments",
+        "keyword": "Kharadi Studio Apartments"
       },
       {
         "slug": "kharadi-duplex-apartments",
@@ -841,6 +1077,26 @@ export const seoSilos = [
       {
         "slug": "kharadi-flats",
         "keyword": "Kharadi Flats"
+      },
+      {
+        "slug": "kharadi-villas",
+        "keyword": "Kharadi Villas"
+      },
+      {
+        "slug": "kharadi-row-houses",
+        "keyword": "Kharadi Row Houses"
+      },
+      {
+        "slug": "kharadi-commercial-real-estate",
+        "keyword": "Kharadi Commercial Real Estate"
+      },
+      {
+        "slug": "kharadi-retail-spaces",
+        "keyword": "Kharadi Retail Spaces"
+      },
+      {
+        "slug": "kharadi-office-spaces",
+        "keyword": "Kharadi Office Spaces"
       },
       {
         "slug": "kharadi-ready-possession",
@@ -890,6 +1146,10 @@ export const seoSilos = [
         "keyword": "Real Estate Investment in Wakad"
       },
       {
+        "slug": "1bhk-in-wakad",
+        "keyword": "1BHK in Wakad"
+      },
+      {
         "slug": "2bhk-in-wakad",
         "keyword": "2BHK in Wakad"
       },
@@ -906,6 +1166,10 @@ export const seoSilos = [
         "keyword": "5BHK in Wakad"
       },
       {
+        "slug": "1-bhk-flats-in-wakad",
+        "keyword": "1 BHK Flats in Wakad"
+      },
+      {
         "slug": "2-bhk-flats-in-wakad",
         "keyword": "2 BHK Flats in Wakad"
       },
@@ -916,6 +1180,10 @@ export const seoSilos = [
       {
         "slug": "4-bhk-flats-in-wakad",
         "keyword": "4 BHK Flats in Wakad"
+      },
+      {
+        "slug": "studio-apartments-in-wakad",
+        "keyword": "Studio Apartments in Wakad"
       },
       {
         "slug": "luxury-duplex-in-wakad",
@@ -952,6 +1220,26 @@ export const seoSilos = [
       {
         "slug": "flats-in-wakad",
         "keyword": "Flats in Wakad"
+      },
+      {
+        "slug": "villas-in-wakad",
+        "keyword": "Villas in Wakad"
+      },
+      {
+        "slug": "row-houses-in-wakad",
+        "keyword": "Row Houses in Wakad"
+      },
+      {
+        "slug": "commercial-properties-in-wakad",
+        "keyword": "Commercial Properties in Wakad"
+      },
+      {
+        "slug": "retail-shops-in-wakad",
+        "keyword": "Retail Shops in Wakad"
+      },
+      {
+        "slug": "office-spaces-in-wakad",
+        "keyword": "Office Spaces in Wakad"
       },
       {
         "slug": "ready-possession-flats-in-wakad",
@@ -994,6 +1282,10 @@ export const seoSilos = [
         "keyword": "Wakad Real Estate Investment"
       },
       {
+        "slug": "wakad-1bhk-flats",
+        "keyword": "Wakad 1BHK Flats"
+      },
+      {
         "slug": "wakad-2bhk-flats",
         "keyword": "Wakad 2BHK Flats"
       },
@@ -1010,6 +1302,10 @@ export const seoSilos = [
         "keyword": "Wakad 5BHK Villas"
       },
       {
+        "slug": "wakad-1-bhk",
+        "keyword": "Wakad 1 BHK"
+      },
+      {
         "slug": "wakad-2-bhk",
         "keyword": "Wakad 2 BHK"
       },
@@ -1020,6 +1316,10 @@ export const seoSilos = [
       {
         "slug": "wakad-4-bhk",
         "keyword": "Wakad 4 BHK"
+      },
+      {
+        "slug": "wakad-studio-apartments",
+        "keyword": "Wakad Studio Apartments"
       },
       {
         "slug": "wakad-duplex-apartments",
@@ -1056,6 +1356,26 @@ export const seoSilos = [
       {
         "slug": "wakad-flats",
         "keyword": "Wakad Flats"
+      },
+      {
+        "slug": "wakad-villas",
+        "keyword": "Wakad Villas"
+      },
+      {
+        "slug": "wakad-row-houses",
+        "keyword": "Wakad Row Houses"
+      },
+      {
+        "slug": "wakad-commercial-real-estate",
+        "keyword": "Wakad Commercial Real Estate"
+      },
+      {
+        "slug": "wakad-retail-spaces",
+        "keyword": "Wakad Retail Spaces"
+      },
+      {
+        "slug": "wakad-office-spaces",
+        "keyword": "Wakad Office Spaces"
       },
       {
         "slug": "wakad-ready-possession",
@@ -1105,6 +1425,10 @@ export const seoSilos = [
         "keyword": "Real Estate Investment in Balewadi"
       },
       {
+        "slug": "1bhk-in-balewadi",
+        "keyword": "1BHK in Balewadi"
+      },
+      {
         "slug": "2bhk-in-balewadi",
         "keyword": "2BHK in Balewadi"
       },
@@ -1121,6 +1445,10 @@ export const seoSilos = [
         "keyword": "5BHK in Balewadi"
       },
       {
+        "slug": "1-bhk-flats-in-balewadi",
+        "keyword": "1 BHK Flats in Balewadi"
+      },
+      {
         "slug": "2-bhk-flats-in-balewadi",
         "keyword": "2 BHK Flats in Balewadi"
       },
@@ -1131,6 +1459,10 @@ export const seoSilos = [
       {
         "slug": "4-bhk-flats-in-balewadi",
         "keyword": "4 BHK Flats in Balewadi"
+      },
+      {
+        "slug": "studio-apartments-in-balewadi",
+        "keyword": "Studio Apartments in Balewadi"
       },
       {
         "slug": "luxury-duplex-in-balewadi",
@@ -1167,6 +1499,26 @@ export const seoSilos = [
       {
         "slug": "flats-in-balewadi",
         "keyword": "Flats in Balewadi"
+      },
+      {
+        "slug": "villas-in-balewadi",
+        "keyword": "Villas in Balewadi"
+      },
+      {
+        "slug": "row-houses-in-balewadi",
+        "keyword": "Row Houses in Balewadi"
+      },
+      {
+        "slug": "commercial-properties-in-balewadi",
+        "keyword": "Commercial Properties in Balewadi"
+      },
+      {
+        "slug": "retail-shops-in-balewadi",
+        "keyword": "Retail Shops in Balewadi"
+      },
+      {
+        "slug": "office-spaces-in-balewadi",
+        "keyword": "Office Spaces in Balewadi"
       },
       {
         "slug": "ready-possession-flats-in-balewadi",
@@ -1209,6 +1561,10 @@ export const seoSilos = [
         "keyword": "Balewadi Real Estate Investment"
       },
       {
+        "slug": "balewadi-1bhk-flats",
+        "keyword": "Balewadi 1BHK Flats"
+      },
+      {
         "slug": "balewadi-2bhk-flats",
         "keyword": "Balewadi 2BHK Flats"
       },
@@ -1225,6 +1581,10 @@ export const seoSilos = [
         "keyword": "Balewadi 5BHK Villas"
       },
       {
+        "slug": "balewadi-1-bhk",
+        "keyword": "Balewadi 1 BHK"
+      },
+      {
         "slug": "balewadi-2-bhk",
         "keyword": "Balewadi 2 BHK"
       },
@@ -1235,6 +1595,10 @@ export const seoSilos = [
       {
         "slug": "balewadi-4-bhk",
         "keyword": "Balewadi 4 BHK"
+      },
+      {
+        "slug": "balewadi-studio-apartments",
+        "keyword": "Balewadi Studio Apartments"
       },
       {
         "slug": "balewadi-duplex-apartments",
@@ -1271,6 +1635,26 @@ export const seoSilos = [
       {
         "slug": "balewadi-flats",
         "keyword": "Balewadi Flats"
+      },
+      {
+        "slug": "balewadi-villas",
+        "keyword": "Balewadi Villas"
+      },
+      {
+        "slug": "balewadi-row-houses",
+        "keyword": "Balewadi Row Houses"
+      },
+      {
+        "slug": "balewadi-commercial-real-estate",
+        "keyword": "Balewadi Commercial Real Estate"
+      },
+      {
+        "slug": "balewadi-retail-spaces",
+        "keyword": "Balewadi Retail Spaces"
+      },
+      {
+        "slug": "balewadi-office-spaces",
+        "keyword": "Balewadi Office Spaces"
       },
       {
         "slug": "balewadi-ready-possession",
@@ -1320,6 +1704,10 @@ export const seoSilos = [
         "keyword": "Real Estate Investment in Tathawade"
       },
       {
+        "slug": "1bhk-in-tathawade",
+        "keyword": "1BHK in Tathawade"
+      },
+      {
         "slug": "2bhk-in-tathawade",
         "keyword": "2BHK in Tathawade"
       },
@@ -1336,6 +1724,10 @@ export const seoSilos = [
         "keyword": "5BHK in Tathawade"
       },
       {
+        "slug": "1-bhk-flats-in-tathawade",
+        "keyword": "1 BHK Flats in Tathawade"
+      },
+      {
         "slug": "2-bhk-flats-in-tathawade",
         "keyword": "2 BHK Flats in Tathawade"
       },
@@ -1346,6 +1738,10 @@ export const seoSilos = [
       {
         "slug": "4-bhk-flats-in-tathawade",
         "keyword": "4 BHK Flats in Tathawade"
+      },
+      {
+        "slug": "studio-apartments-in-tathawade",
+        "keyword": "Studio Apartments in Tathawade"
       },
       {
         "slug": "luxury-duplex-in-tathawade",
@@ -1382,6 +1778,26 @@ export const seoSilos = [
       {
         "slug": "flats-in-tathawade",
         "keyword": "Flats in Tathawade"
+      },
+      {
+        "slug": "villas-in-tathawade",
+        "keyword": "Villas in Tathawade"
+      },
+      {
+        "slug": "row-houses-in-tathawade",
+        "keyword": "Row Houses in Tathawade"
+      },
+      {
+        "slug": "commercial-properties-in-tathawade",
+        "keyword": "Commercial Properties in Tathawade"
+      },
+      {
+        "slug": "retail-shops-in-tathawade",
+        "keyword": "Retail Shops in Tathawade"
+      },
+      {
+        "slug": "office-spaces-in-tathawade",
+        "keyword": "Office Spaces in Tathawade"
       },
       {
         "slug": "ready-possession-flats-in-tathawade",
@@ -1424,6 +1840,10 @@ export const seoSilos = [
         "keyword": "Tathawade Real Estate Investment"
       },
       {
+        "slug": "tathawade-1bhk-flats",
+        "keyword": "Tathawade 1BHK Flats"
+      },
+      {
         "slug": "tathawade-2bhk-flats",
         "keyword": "Tathawade 2BHK Flats"
       },
@@ -1440,6 +1860,10 @@ export const seoSilos = [
         "keyword": "Tathawade 5BHK Villas"
       },
       {
+        "slug": "tathawade-1-bhk",
+        "keyword": "Tathawade 1 BHK"
+      },
+      {
         "slug": "tathawade-2-bhk",
         "keyword": "Tathawade 2 BHK"
       },
@@ -1450,6 +1874,10 @@ export const seoSilos = [
       {
         "slug": "tathawade-4-bhk",
         "keyword": "Tathawade 4 BHK"
+      },
+      {
+        "slug": "tathawade-studio-apartments",
+        "keyword": "Tathawade Studio Apartments"
       },
       {
         "slug": "tathawade-duplex-apartments",
@@ -1486,6 +1914,26 @@ export const seoSilos = [
       {
         "slug": "tathawade-flats",
         "keyword": "Tathawade Flats"
+      },
+      {
+        "slug": "tathawade-villas",
+        "keyword": "Tathawade Villas"
+      },
+      {
+        "slug": "tathawade-row-houses",
+        "keyword": "Tathawade Row Houses"
+      },
+      {
+        "slug": "tathawade-commercial-real-estate",
+        "keyword": "Tathawade Commercial Real Estate"
+      },
+      {
+        "slug": "tathawade-retail-spaces",
+        "keyword": "Tathawade Retail Spaces"
+      },
+      {
+        "slug": "tathawade-office-spaces",
+        "keyword": "Tathawade Office Spaces"
       },
       {
         "slug": "tathawade-ready-possession",
@@ -1535,6 +1983,10 @@ export const seoSilos = [
         "keyword": "Real Estate Investment in Bavdhan"
       },
       {
+        "slug": "1bhk-in-bavdhan",
+        "keyword": "1BHK in Bavdhan"
+      },
+      {
         "slug": "2bhk-in-bavdhan",
         "keyword": "2BHK in Bavdhan"
       },
@@ -1551,6 +2003,10 @@ export const seoSilos = [
         "keyword": "5BHK in Bavdhan"
       },
       {
+        "slug": "1-bhk-flats-in-bavdhan",
+        "keyword": "1 BHK Flats in Bavdhan"
+      },
+      {
         "slug": "2-bhk-flats-in-bavdhan",
         "keyword": "2 BHK Flats in Bavdhan"
       },
@@ -1561,6 +2017,10 @@ export const seoSilos = [
       {
         "slug": "4-bhk-flats-in-bavdhan",
         "keyword": "4 BHK Flats in Bavdhan"
+      },
+      {
+        "slug": "studio-apartments-in-bavdhan",
+        "keyword": "Studio Apartments in Bavdhan"
       },
       {
         "slug": "luxury-duplex-in-bavdhan",
@@ -1597,6 +2057,26 @@ export const seoSilos = [
       {
         "slug": "flats-in-bavdhan",
         "keyword": "Flats in Bavdhan"
+      },
+      {
+        "slug": "villas-in-bavdhan",
+        "keyword": "Villas in Bavdhan"
+      },
+      {
+        "slug": "row-houses-in-bavdhan",
+        "keyword": "Row Houses in Bavdhan"
+      },
+      {
+        "slug": "commercial-properties-in-bavdhan",
+        "keyword": "Commercial Properties in Bavdhan"
+      },
+      {
+        "slug": "retail-shops-in-bavdhan",
+        "keyword": "Retail Shops in Bavdhan"
+      },
+      {
+        "slug": "office-spaces-in-bavdhan",
+        "keyword": "Office Spaces in Bavdhan"
       },
       {
         "slug": "ready-possession-flats-in-bavdhan",
@@ -1639,6 +2119,10 @@ export const seoSilos = [
         "keyword": "Bavdhan Real Estate Investment"
       },
       {
+        "slug": "bavdhan-1bhk-flats",
+        "keyword": "Bavdhan 1BHK Flats"
+      },
+      {
         "slug": "bavdhan-2bhk-flats",
         "keyword": "Bavdhan 2BHK Flats"
       },
@@ -1655,6 +2139,10 @@ export const seoSilos = [
         "keyword": "Bavdhan 5BHK Villas"
       },
       {
+        "slug": "bavdhan-1-bhk",
+        "keyword": "Bavdhan 1 BHK"
+      },
+      {
         "slug": "bavdhan-2-bhk",
         "keyword": "Bavdhan 2 BHK"
       },
@@ -1665,6 +2153,10 @@ export const seoSilos = [
       {
         "slug": "bavdhan-4-bhk",
         "keyword": "Bavdhan 4 BHK"
+      },
+      {
+        "slug": "bavdhan-studio-apartments",
+        "keyword": "Bavdhan Studio Apartments"
       },
       {
         "slug": "bavdhan-duplex-apartments",
@@ -1701,6 +2193,26 @@ export const seoSilos = [
       {
         "slug": "bavdhan-flats",
         "keyword": "Bavdhan Flats"
+      },
+      {
+        "slug": "bavdhan-villas",
+        "keyword": "Bavdhan Villas"
+      },
+      {
+        "slug": "bavdhan-row-houses",
+        "keyword": "Bavdhan Row Houses"
+      },
+      {
+        "slug": "bavdhan-commercial-real-estate",
+        "keyword": "Bavdhan Commercial Real Estate"
+      },
+      {
+        "slug": "bavdhan-retail-spaces",
+        "keyword": "Bavdhan Retail Spaces"
+      },
+      {
+        "slug": "bavdhan-office-spaces",
+        "keyword": "Bavdhan Office Spaces"
       },
       {
         "slug": "bavdhan-ready-possession",
@@ -1750,6 +2262,10 @@ export const seoSilos = [
         "keyword": "Real Estate Investment in Aundh"
       },
       {
+        "slug": "1bhk-in-aundh",
+        "keyword": "1BHK in Aundh"
+      },
+      {
         "slug": "2bhk-in-aundh",
         "keyword": "2BHK in Aundh"
       },
@@ -1766,6 +2282,10 @@ export const seoSilos = [
         "keyword": "5BHK in Aundh"
       },
       {
+        "slug": "1-bhk-flats-in-aundh",
+        "keyword": "1 BHK Flats in Aundh"
+      },
+      {
         "slug": "2-bhk-flats-in-aundh",
         "keyword": "2 BHK Flats in Aundh"
       },
@@ -1776,6 +2296,10 @@ export const seoSilos = [
       {
         "slug": "4-bhk-flats-in-aundh",
         "keyword": "4 BHK Flats in Aundh"
+      },
+      {
+        "slug": "studio-apartments-in-aundh",
+        "keyword": "Studio Apartments in Aundh"
       },
       {
         "slug": "luxury-duplex-in-aundh",
@@ -1812,6 +2336,26 @@ export const seoSilos = [
       {
         "slug": "flats-in-aundh",
         "keyword": "Flats in Aundh"
+      },
+      {
+        "slug": "villas-in-aundh",
+        "keyword": "Villas in Aundh"
+      },
+      {
+        "slug": "row-houses-in-aundh",
+        "keyword": "Row Houses in Aundh"
+      },
+      {
+        "slug": "commercial-properties-in-aundh",
+        "keyword": "Commercial Properties in Aundh"
+      },
+      {
+        "slug": "retail-shops-in-aundh",
+        "keyword": "Retail Shops in Aundh"
+      },
+      {
+        "slug": "office-spaces-in-aundh",
+        "keyword": "Office Spaces in Aundh"
       },
       {
         "slug": "ready-possession-flats-in-aundh",
@@ -1854,6 +2398,10 @@ export const seoSilos = [
         "keyword": "Aundh Real Estate Investment"
       },
       {
+        "slug": "aundh-1bhk-flats",
+        "keyword": "Aundh 1BHK Flats"
+      },
+      {
         "slug": "aundh-2bhk-flats",
         "keyword": "Aundh 2BHK Flats"
       },
@@ -1870,6 +2418,10 @@ export const seoSilos = [
         "keyword": "Aundh 5BHK Villas"
       },
       {
+        "slug": "aundh-1-bhk",
+        "keyword": "Aundh 1 BHK"
+      },
+      {
         "slug": "aundh-2-bhk",
         "keyword": "Aundh 2 BHK"
       },
@@ -1880,6 +2432,10 @@ export const seoSilos = [
       {
         "slug": "aundh-4-bhk",
         "keyword": "Aundh 4 BHK"
+      },
+      {
+        "slug": "aundh-studio-apartments",
+        "keyword": "Aundh Studio Apartments"
       },
       {
         "slug": "aundh-duplex-apartments",
@@ -1916,6 +2472,26 @@ export const seoSilos = [
       {
         "slug": "aundh-flats",
         "keyword": "Aundh Flats"
+      },
+      {
+        "slug": "aundh-villas",
+        "keyword": "Aundh Villas"
+      },
+      {
+        "slug": "aundh-row-houses",
+        "keyword": "Aundh Row Houses"
+      },
+      {
+        "slug": "aundh-commercial-real-estate",
+        "keyword": "Aundh Commercial Real Estate"
+      },
+      {
+        "slug": "aundh-retail-spaces",
+        "keyword": "Aundh Retail Spaces"
+      },
+      {
+        "slug": "aundh-office-spaces",
+        "keyword": "Aundh Office Spaces"
       },
       {
         "slug": "aundh-ready-possession",
@@ -1965,6 +2541,10 @@ export const seoSilos = [
         "keyword": "Real Estate Investment in Pashan"
       },
       {
+        "slug": "1bhk-in-pashan",
+        "keyword": "1BHK in Pashan"
+      },
+      {
         "slug": "2bhk-in-pashan",
         "keyword": "2BHK in Pashan"
       },
@@ -1981,6 +2561,10 @@ export const seoSilos = [
         "keyword": "5BHK in Pashan"
       },
       {
+        "slug": "1-bhk-flats-in-pashan",
+        "keyword": "1 BHK Flats in Pashan"
+      },
+      {
         "slug": "2-bhk-flats-in-pashan",
         "keyword": "2 BHK Flats in Pashan"
       },
@@ -1991,6 +2575,10 @@ export const seoSilos = [
       {
         "slug": "4-bhk-flats-in-pashan",
         "keyword": "4 BHK Flats in Pashan"
+      },
+      {
+        "slug": "studio-apartments-in-pashan",
+        "keyword": "Studio Apartments in Pashan"
       },
       {
         "slug": "luxury-duplex-in-pashan",
@@ -2027,6 +2615,26 @@ export const seoSilos = [
       {
         "slug": "flats-in-pashan",
         "keyword": "Flats in Pashan"
+      },
+      {
+        "slug": "villas-in-pashan",
+        "keyword": "Villas in Pashan"
+      },
+      {
+        "slug": "row-houses-in-pashan",
+        "keyword": "Row Houses in Pashan"
+      },
+      {
+        "slug": "commercial-properties-in-pashan",
+        "keyword": "Commercial Properties in Pashan"
+      },
+      {
+        "slug": "retail-shops-in-pashan",
+        "keyword": "Retail Shops in Pashan"
+      },
+      {
+        "slug": "office-spaces-in-pashan",
+        "keyword": "Office Spaces in Pashan"
       },
       {
         "slug": "ready-possession-flats-in-pashan",
@@ -2069,6 +2677,10 @@ export const seoSilos = [
         "keyword": "Pashan Real Estate Investment"
       },
       {
+        "slug": "pashan-1bhk-flats",
+        "keyword": "Pashan 1BHK Flats"
+      },
+      {
         "slug": "pashan-2bhk-flats",
         "keyword": "Pashan 2BHK Flats"
       },
@@ -2085,6 +2697,10 @@ export const seoSilos = [
         "keyword": "Pashan 5BHK Villas"
       },
       {
+        "slug": "pashan-1-bhk",
+        "keyword": "Pashan 1 BHK"
+      },
+      {
         "slug": "pashan-2-bhk",
         "keyword": "Pashan 2 BHK"
       },
@@ -2095,6 +2711,10 @@ export const seoSilos = [
       {
         "slug": "pashan-4-bhk",
         "keyword": "Pashan 4 BHK"
+      },
+      {
+        "slug": "pashan-studio-apartments",
+        "keyword": "Pashan Studio Apartments"
       },
       {
         "slug": "pashan-duplex-apartments",
@@ -2131,6 +2751,26 @@ export const seoSilos = [
       {
         "slug": "pashan-flats",
         "keyword": "Pashan Flats"
+      },
+      {
+        "slug": "pashan-villas",
+        "keyword": "Pashan Villas"
+      },
+      {
+        "slug": "pashan-row-houses",
+        "keyword": "Pashan Row Houses"
+      },
+      {
+        "slug": "pashan-commercial-real-estate",
+        "keyword": "Pashan Commercial Real Estate"
+      },
+      {
+        "slug": "pashan-retail-spaces",
+        "keyword": "Pashan Retail Spaces"
+      },
+      {
+        "slug": "pashan-office-spaces",
+        "keyword": "Pashan Office Spaces"
       },
       {
         "slug": "pashan-ready-possession",
@@ -2180,6 +2820,10 @@ export const seoSilos = [
         "keyword": "Real Estate Investment in Sus"
       },
       {
+        "slug": "1bhk-in-sus",
+        "keyword": "1BHK in Sus"
+      },
+      {
         "slug": "2bhk-in-sus",
         "keyword": "2BHK in Sus"
       },
@@ -2196,6 +2840,10 @@ export const seoSilos = [
         "keyword": "5BHK in Sus"
       },
       {
+        "slug": "1-bhk-flats-in-sus",
+        "keyword": "1 BHK Flats in Sus"
+      },
+      {
         "slug": "2-bhk-flats-in-sus",
         "keyword": "2 BHK Flats in Sus"
       },
@@ -2206,6 +2854,10 @@ export const seoSilos = [
       {
         "slug": "4-bhk-flats-in-sus",
         "keyword": "4 BHK Flats in Sus"
+      },
+      {
+        "slug": "studio-apartments-in-sus",
+        "keyword": "Studio Apartments in Sus"
       },
       {
         "slug": "luxury-duplex-in-sus",
@@ -2242,6 +2894,26 @@ export const seoSilos = [
       {
         "slug": "flats-in-sus",
         "keyword": "Flats in Sus"
+      },
+      {
+        "slug": "villas-in-sus",
+        "keyword": "Villas in Sus"
+      },
+      {
+        "slug": "row-houses-in-sus",
+        "keyword": "Row Houses in Sus"
+      },
+      {
+        "slug": "commercial-properties-in-sus",
+        "keyword": "Commercial Properties in Sus"
+      },
+      {
+        "slug": "retail-shops-in-sus",
+        "keyword": "Retail Shops in Sus"
+      },
+      {
+        "slug": "office-spaces-in-sus",
+        "keyword": "Office Spaces in Sus"
       },
       {
         "slug": "ready-possession-flats-in-sus",
@@ -2284,6 +2956,10 @@ export const seoSilos = [
         "keyword": "Sus Real Estate Investment"
       },
       {
+        "slug": "sus-1bhk-flats",
+        "keyword": "Sus 1BHK Flats"
+      },
+      {
         "slug": "sus-2bhk-flats",
         "keyword": "Sus 2BHK Flats"
       },
@@ -2300,6 +2976,10 @@ export const seoSilos = [
         "keyword": "Sus 5BHK Villas"
       },
       {
+        "slug": "sus-1-bhk",
+        "keyword": "Sus 1 BHK"
+      },
+      {
         "slug": "sus-2-bhk",
         "keyword": "Sus 2 BHK"
       },
@@ -2310,6 +2990,10 @@ export const seoSilos = [
       {
         "slug": "sus-4-bhk",
         "keyword": "Sus 4 BHK"
+      },
+      {
+        "slug": "sus-studio-apartments",
+        "keyword": "Sus Studio Apartments"
       },
       {
         "slug": "sus-duplex-apartments",
@@ -2346,6 +3030,26 @@ export const seoSilos = [
       {
         "slug": "sus-flats",
         "keyword": "Sus Flats"
+      },
+      {
+        "slug": "sus-villas",
+        "keyword": "Sus Villas"
+      },
+      {
+        "slug": "sus-row-houses",
+        "keyword": "Sus Row Houses"
+      },
+      {
+        "slug": "sus-commercial-real-estate",
+        "keyword": "Sus Commercial Real Estate"
+      },
+      {
+        "slug": "sus-retail-spaces",
+        "keyword": "Sus Retail Spaces"
+      },
+      {
+        "slug": "sus-office-spaces",
+        "keyword": "Sus Office Spaces"
       },
       {
         "slug": "sus-ready-possession",
@@ -2395,6 +3099,10 @@ export const seoSilos = [
         "keyword": "Real Estate Investment in Kothrud"
       },
       {
+        "slug": "1bhk-in-kothrud",
+        "keyword": "1BHK in Kothrud"
+      },
+      {
         "slug": "2bhk-in-kothrud",
         "keyword": "2BHK in Kothrud"
       },
@@ -2411,6 +3119,10 @@ export const seoSilos = [
         "keyword": "5BHK in Kothrud"
       },
       {
+        "slug": "1-bhk-flats-in-kothrud",
+        "keyword": "1 BHK Flats in Kothrud"
+      },
+      {
         "slug": "2-bhk-flats-in-kothrud",
         "keyword": "2 BHK Flats in Kothrud"
       },
@@ -2421,6 +3133,10 @@ export const seoSilos = [
       {
         "slug": "4-bhk-flats-in-kothrud",
         "keyword": "4 BHK Flats in Kothrud"
+      },
+      {
+        "slug": "studio-apartments-in-kothrud",
+        "keyword": "Studio Apartments in Kothrud"
       },
       {
         "slug": "luxury-duplex-in-kothrud",
@@ -2457,6 +3173,26 @@ export const seoSilos = [
       {
         "slug": "flats-in-kothrud",
         "keyword": "Flats in Kothrud"
+      },
+      {
+        "slug": "villas-in-kothrud",
+        "keyword": "Villas in Kothrud"
+      },
+      {
+        "slug": "row-houses-in-kothrud",
+        "keyword": "Row Houses in Kothrud"
+      },
+      {
+        "slug": "commercial-properties-in-kothrud",
+        "keyword": "Commercial Properties in Kothrud"
+      },
+      {
+        "slug": "retail-shops-in-kothrud",
+        "keyword": "Retail Shops in Kothrud"
+      },
+      {
+        "slug": "office-spaces-in-kothrud",
+        "keyword": "Office Spaces in Kothrud"
       },
       {
         "slug": "ready-possession-flats-in-kothrud",
@@ -2499,6 +3235,10 @@ export const seoSilos = [
         "keyword": "Kothrud Real Estate Investment"
       },
       {
+        "slug": "kothrud-1bhk-flats",
+        "keyword": "Kothrud 1BHK Flats"
+      },
+      {
         "slug": "kothrud-2bhk-flats",
         "keyword": "Kothrud 2BHK Flats"
       },
@@ -2515,6 +3255,10 @@ export const seoSilos = [
         "keyword": "Kothrud 5BHK Villas"
       },
       {
+        "slug": "kothrud-1-bhk",
+        "keyword": "Kothrud 1 BHK"
+      },
+      {
         "slug": "kothrud-2-bhk",
         "keyword": "Kothrud 2 BHK"
       },
@@ -2525,6 +3269,10 @@ export const seoSilos = [
       {
         "slug": "kothrud-4-bhk",
         "keyword": "Kothrud 4 BHK"
+      },
+      {
+        "slug": "kothrud-studio-apartments",
+        "keyword": "Kothrud Studio Apartments"
       },
       {
         "slug": "kothrud-duplex-apartments",
@@ -2561,6 +3309,26 @@ export const seoSilos = [
       {
         "slug": "kothrud-flats",
         "keyword": "Kothrud Flats"
+      },
+      {
+        "slug": "kothrud-villas",
+        "keyword": "Kothrud Villas"
+      },
+      {
+        "slug": "kothrud-row-houses",
+        "keyword": "Kothrud Row Houses"
+      },
+      {
+        "slug": "kothrud-commercial-real-estate",
+        "keyword": "Kothrud Commercial Real Estate"
+      },
+      {
+        "slug": "kothrud-retail-spaces",
+        "keyword": "Kothrud Retail Spaces"
+      },
+      {
+        "slug": "kothrud-office-spaces",
+        "keyword": "Kothrud Office Spaces"
       },
       {
         "slug": "kothrud-ready-possession",
@@ -2610,6 +3378,10 @@ export const seoSilos = [
         "keyword": "Real Estate Investment in Kalyani Nagar"
       },
       {
+        "slug": "1bhk-in-kalyani-nagar",
+        "keyword": "1BHK in Kalyani Nagar"
+      },
+      {
         "slug": "2bhk-in-kalyani-nagar",
         "keyword": "2BHK in Kalyani Nagar"
       },
@@ -2626,6 +3398,10 @@ export const seoSilos = [
         "keyword": "5BHK in Kalyani Nagar"
       },
       {
+        "slug": "1-bhk-flats-in-kalyani-nagar",
+        "keyword": "1 BHK Flats in Kalyani Nagar"
+      },
+      {
         "slug": "2-bhk-flats-in-kalyani-nagar",
         "keyword": "2 BHK Flats in Kalyani Nagar"
       },
@@ -2636,6 +3412,10 @@ export const seoSilos = [
       {
         "slug": "4-bhk-flats-in-kalyani-nagar",
         "keyword": "4 BHK Flats in Kalyani Nagar"
+      },
+      {
+        "slug": "studio-apartments-in-kalyani-nagar",
+        "keyword": "Studio Apartments in Kalyani Nagar"
       },
       {
         "slug": "luxury-duplex-in-kalyani-nagar",
@@ -2672,6 +3452,26 @@ export const seoSilos = [
       {
         "slug": "flats-in-kalyani-nagar",
         "keyword": "Flats in Kalyani Nagar"
+      },
+      {
+        "slug": "villas-in-kalyani-nagar",
+        "keyword": "Villas in Kalyani Nagar"
+      },
+      {
+        "slug": "row-houses-in-kalyani-nagar",
+        "keyword": "Row Houses in Kalyani Nagar"
+      },
+      {
+        "slug": "commercial-properties-in-kalyani-nagar",
+        "keyword": "Commercial Properties in Kalyani Nagar"
+      },
+      {
+        "slug": "retail-shops-in-kalyani-nagar",
+        "keyword": "Retail Shops in Kalyani Nagar"
+      },
+      {
+        "slug": "office-spaces-in-kalyani-nagar",
+        "keyword": "Office Spaces in Kalyani Nagar"
       },
       {
         "slug": "ready-possession-flats-in-kalyani-nagar",
@@ -2714,6 +3514,10 @@ export const seoSilos = [
         "keyword": "Kalyani Nagar Real Estate Investment"
       },
       {
+        "slug": "kalyani-nagar-1bhk-flats",
+        "keyword": "Kalyani Nagar 1BHK Flats"
+      },
+      {
         "slug": "kalyani-nagar-2bhk-flats",
         "keyword": "Kalyani Nagar 2BHK Flats"
       },
@@ -2730,6 +3534,10 @@ export const seoSilos = [
         "keyword": "Kalyani Nagar 5BHK Villas"
       },
       {
+        "slug": "kalyani-nagar-1-bhk",
+        "keyword": "Kalyani Nagar 1 BHK"
+      },
+      {
         "slug": "kalyani-nagar-2-bhk",
         "keyword": "Kalyani Nagar 2 BHK"
       },
@@ -2740,6 +3548,10 @@ export const seoSilos = [
       {
         "slug": "kalyani-nagar-4-bhk",
         "keyword": "Kalyani Nagar 4 BHK"
+      },
+      {
+        "slug": "kalyani-nagar-studio-apartments",
+        "keyword": "Kalyani Nagar Studio Apartments"
       },
       {
         "slug": "kalyani-nagar-duplex-apartments",
@@ -2776,6 +3588,26 @@ export const seoSilos = [
       {
         "slug": "kalyani-nagar-flats",
         "keyword": "Kalyani Nagar Flats"
+      },
+      {
+        "slug": "kalyani-nagar-villas",
+        "keyword": "Kalyani Nagar Villas"
+      },
+      {
+        "slug": "kalyani-nagar-row-houses",
+        "keyword": "Kalyani Nagar Row Houses"
+      },
+      {
+        "slug": "kalyani-nagar-commercial-real-estate",
+        "keyword": "Kalyani Nagar Commercial Real Estate"
+      },
+      {
+        "slug": "kalyani-nagar-retail-spaces",
+        "keyword": "Kalyani Nagar Retail Spaces"
+      },
+      {
+        "slug": "kalyani-nagar-office-spaces",
+        "keyword": "Kalyani Nagar Office Spaces"
       },
       {
         "slug": "kalyani-nagar-ready-possession",
@@ -2825,6 +3657,10 @@ export const seoSilos = [
         "keyword": "Real Estate Investment in Koregaon Park"
       },
       {
+        "slug": "1bhk-in-koregaon-park",
+        "keyword": "1BHK in Koregaon Park"
+      },
+      {
         "slug": "2bhk-in-koregaon-park",
         "keyword": "2BHK in Koregaon Park"
       },
@@ -2841,6 +3677,10 @@ export const seoSilos = [
         "keyword": "5BHK in Koregaon Park"
       },
       {
+        "slug": "1-bhk-flats-in-koregaon-park",
+        "keyword": "1 BHK Flats in Koregaon Park"
+      },
+      {
         "slug": "2-bhk-flats-in-koregaon-park",
         "keyword": "2 BHK Flats in Koregaon Park"
       },
@@ -2851,6 +3691,10 @@ export const seoSilos = [
       {
         "slug": "4-bhk-flats-in-koregaon-park",
         "keyword": "4 BHK Flats in Koregaon Park"
+      },
+      {
+        "slug": "studio-apartments-in-koregaon-park",
+        "keyword": "Studio Apartments in Koregaon Park"
       },
       {
         "slug": "luxury-duplex-in-koregaon-park",
@@ -2887,6 +3731,26 @@ export const seoSilos = [
       {
         "slug": "flats-in-koregaon-park",
         "keyword": "Flats in Koregaon Park"
+      },
+      {
+        "slug": "villas-in-koregaon-park",
+        "keyword": "Villas in Koregaon Park"
+      },
+      {
+        "slug": "row-houses-in-koregaon-park",
+        "keyword": "Row Houses in Koregaon Park"
+      },
+      {
+        "slug": "commercial-properties-in-koregaon-park",
+        "keyword": "Commercial Properties in Koregaon Park"
+      },
+      {
+        "slug": "retail-shops-in-koregaon-park",
+        "keyword": "Retail Shops in Koregaon Park"
+      },
+      {
+        "slug": "office-spaces-in-koregaon-park",
+        "keyword": "Office Spaces in Koregaon Park"
       },
       {
         "slug": "ready-possession-flats-in-koregaon-park",
@@ -2929,6 +3793,10 @@ export const seoSilos = [
         "keyword": "Koregaon Park Real Estate Investment"
       },
       {
+        "slug": "koregaon-park-1bhk-flats",
+        "keyword": "Koregaon Park 1BHK Flats"
+      },
+      {
         "slug": "koregaon-park-2bhk-flats",
         "keyword": "Koregaon Park 2BHK Flats"
       },
@@ -2945,6 +3813,10 @@ export const seoSilos = [
         "keyword": "Koregaon Park 5BHK Villas"
       },
       {
+        "slug": "koregaon-park-1-bhk",
+        "keyword": "Koregaon Park 1 BHK"
+      },
+      {
         "slug": "koregaon-park-2-bhk",
         "keyword": "Koregaon Park 2 BHK"
       },
@@ -2955,6 +3827,10 @@ export const seoSilos = [
       {
         "slug": "koregaon-park-4-bhk",
         "keyword": "Koregaon Park 4 BHK"
+      },
+      {
+        "slug": "koregaon-park-studio-apartments",
+        "keyword": "Koregaon Park Studio Apartments"
       },
       {
         "slug": "koregaon-park-duplex-apartments",
@@ -2991,6 +3867,26 @@ export const seoSilos = [
       {
         "slug": "koregaon-park-flats",
         "keyword": "Koregaon Park Flats"
+      },
+      {
+        "slug": "koregaon-park-villas",
+        "keyword": "Koregaon Park Villas"
+      },
+      {
+        "slug": "koregaon-park-row-houses",
+        "keyword": "Koregaon Park Row Houses"
+      },
+      {
+        "slug": "koregaon-park-commercial-real-estate",
+        "keyword": "Koregaon Park Commercial Real Estate"
+      },
+      {
+        "slug": "koregaon-park-retail-spaces",
+        "keyword": "Koregaon Park Retail Spaces"
+      },
+      {
+        "slug": "koregaon-park-office-spaces",
+        "keyword": "Koregaon Park Office Spaces"
       },
       {
         "slug": "koregaon-park-ready-possession",
@@ -3040,6 +3936,10 @@ export const seoSilos = [
         "keyword": "Real Estate Investment in Viman Nagar"
       },
       {
+        "slug": "1bhk-in-viman-nagar",
+        "keyword": "1BHK in Viman Nagar"
+      },
+      {
         "slug": "2bhk-in-viman-nagar",
         "keyword": "2BHK in Viman Nagar"
       },
@@ -3056,6 +3956,10 @@ export const seoSilos = [
         "keyword": "5BHK in Viman Nagar"
       },
       {
+        "slug": "1-bhk-flats-in-viman-nagar",
+        "keyword": "1 BHK Flats in Viman Nagar"
+      },
+      {
         "slug": "2-bhk-flats-in-viman-nagar",
         "keyword": "2 BHK Flats in Viman Nagar"
       },
@@ -3066,6 +3970,10 @@ export const seoSilos = [
       {
         "slug": "4-bhk-flats-in-viman-nagar",
         "keyword": "4 BHK Flats in Viman Nagar"
+      },
+      {
+        "slug": "studio-apartments-in-viman-nagar",
+        "keyword": "Studio Apartments in Viman Nagar"
       },
       {
         "slug": "luxury-duplex-in-viman-nagar",
@@ -3102,6 +4010,26 @@ export const seoSilos = [
       {
         "slug": "flats-in-viman-nagar",
         "keyword": "Flats in Viman Nagar"
+      },
+      {
+        "slug": "villas-in-viman-nagar",
+        "keyword": "Villas in Viman Nagar"
+      },
+      {
+        "slug": "row-houses-in-viman-nagar",
+        "keyword": "Row Houses in Viman Nagar"
+      },
+      {
+        "slug": "commercial-properties-in-viman-nagar",
+        "keyword": "Commercial Properties in Viman Nagar"
+      },
+      {
+        "slug": "retail-shops-in-viman-nagar",
+        "keyword": "Retail Shops in Viman Nagar"
+      },
+      {
+        "slug": "office-spaces-in-viman-nagar",
+        "keyword": "Office Spaces in Viman Nagar"
       },
       {
         "slug": "ready-possession-flats-in-viman-nagar",
@@ -3144,6 +4072,10 @@ export const seoSilos = [
         "keyword": "Viman Nagar Real Estate Investment"
       },
       {
+        "slug": "viman-nagar-1bhk-flats",
+        "keyword": "Viman Nagar 1BHK Flats"
+      },
+      {
         "slug": "viman-nagar-2bhk-flats",
         "keyword": "Viman Nagar 2BHK Flats"
       },
@@ -3160,6 +4092,10 @@ export const seoSilos = [
         "keyword": "Viman Nagar 5BHK Villas"
       },
       {
+        "slug": "viman-nagar-1-bhk",
+        "keyword": "Viman Nagar 1 BHK"
+      },
+      {
         "slug": "viman-nagar-2-bhk",
         "keyword": "Viman Nagar 2 BHK"
       },
@@ -3170,6 +4106,10 @@ export const seoSilos = [
       {
         "slug": "viman-nagar-4-bhk",
         "keyword": "Viman Nagar 4 BHK"
+      },
+      {
+        "slug": "viman-nagar-studio-apartments",
+        "keyword": "Viman Nagar Studio Apartments"
       },
       {
         "slug": "viman-nagar-duplex-apartments",
@@ -3206,6 +4146,26 @@ export const seoSilos = [
       {
         "slug": "viman-nagar-flats",
         "keyword": "Viman Nagar Flats"
+      },
+      {
+        "slug": "viman-nagar-villas",
+        "keyword": "Viman Nagar Villas"
+      },
+      {
+        "slug": "viman-nagar-row-houses",
+        "keyword": "Viman Nagar Row Houses"
+      },
+      {
+        "slug": "viman-nagar-commercial-real-estate",
+        "keyword": "Viman Nagar Commercial Real Estate"
+      },
+      {
+        "slug": "viman-nagar-retail-spaces",
+        "keyword": "Viman Nagar Retail Spaces"
+      },
+      {
+        "slug": "viman-nagar-office-spaces",
+        "keyword": "Viman Nagar Office Spaces"
       },
       {
         "slug": "viman-nagar-ready-possession",
@@ -3255,6 +4215,10 @@ export const seoSilos = [
         "keyword": "Real Estate Investment in Magarpatta"
       },
       {
+        "slug": "1bhk-in-magarpatta",
+        "keyword": "1BHK in Magarpatta"
+      },
+      {
         "slug": "2bhk-in-magarpatta",
         "keyword": "2BHK in Magarpatta"
       },
@@ -3271,6 +4235,10 @@ export const seoSilos = [
         "keyword": "5BHK in Magarpatta"
       },
       {
+        "slug": "1-bhk-flats-in-magarpatta",
+        "keyword": "1 BHK Flats in Magarpatta"
+      },
+      {
         "slug": "2-bhk-flats-in-magarpatta",
         "keyword": "2 BHK Flats in Magarpatta"
       },
@@ -3281,6 +4249,10 @@ export const seoSilos = [
       {
         "slug": "4-bhk-flats-in-magarpatta",
         "keyword": "4 BHK Flats in Magarpatta"
+      },
+      {
+        "slug": "studio-apartments-in-magarpatta",
+        "keyword": "Studio Apartments in Magarpatta"
       },
       {
         "slug": "luxury-duplex-in-magarpatta",
@@ -3317,6 +4289,26 @@ export const seoSilos = [
       {
         "slug": "flats-in-magarpatta",
         "keyword": "Flats in Magarpatta"
+      },
+      {
+        "slug": "villas-in-magarpatta",
+        "keyword": "Villas in Magarpatta"
+      },
+      {
+        "slug": "row-houses-in-magarpatta",
+        "keyword": "Row Houses in Magarpatta"
+      },
+      {
+        "slug": "commercial-properties-in-magarpatta",
+        "keyword": "Commercial Properties in Magarpatta"
+      },
+      {
+        "slug": "retail-shops-in-magarpatta",
+        "keyword": "Retail Shops in Magarpatta"
+      },
+      {
+        "slug": "office-spaces-in-magarpatta",
+        "keyword": "Office Spaces in Magarpatta"
       },
       {
         "slug": "ready-possession-flats-in-magarpatta",
@@ -3359,6 +4351,10 @@ export const seoSilos = [
         "keyword": "Magarpatta Real Estate Investment"
       },
       {
+        "slug": "magarpatta-1bhk-flats",
+        "keyword": "Magarpatta 1BHK Flats"
+      },
+      {
         "slug": "magarpatta-2bhk-flats",
         "keyword": "Magarpatta 2BHK Flats"
       },
@@ -3375,6 +4371,10 @@ export const seoSilos = [
         "keyword": "Magarpatta 5BHK Villas"
       },
       {
+        "slug": "magarpatta-1-bhk",
+        "keyword": "Magarpatta 1 BHK"
+      },
+      {
         "slug": "magarpatta-2-bhk",
         "keyword": "Magarpatta 2 BHK"
       },
@@ -3385,6 +4385,10 @@ export const seoSilos = [
       {
         "slug": "magarpatta-4-bhk",
         "keyword": "Magarpatta 4 BHK"
+      },
+      {
+        "slug": "magarpatta-studio-apartments",
+        "keyword": "Magarpatta Studio Apartments"
       },
       {
         "slug": "magarpatta-duplex-apartments",
@@ -3421,6 +4425,26 @@ export const seoSilos = [
       {
         "slug": "magarpatta-flats",
         "keyword": "Magarpatta Flats"
+      },
+      {
+        "slug": "magarpatta-villas",
+        "keyword": "Magarpatta Villas"
+      },
+      {
+        "slug": "magarpatta-row-houses",
+        "keyword": "Magarpatta Row Houses"
+      },
+      {
+        "slug": "magarpatta-commercial-real-estate",
+        "keyword": "Magarpatta Commercial Real Estate"
+      },
+      {
+        "slug": "magarpatta-retail-spaces",
+        "keyword": "Magarpatta Retail Spaces"
+      },
+      {
+        "slug": "magarpatta-office-spaces",
+        "keyword": "Magarpatta Office Spaces"
       },
       {
         "slug": "magarpatta-ready-possession",
@@ -3470,6 +4494,10 @@ export const seoSilos = [
         "keyword": "Real Estate Investment in Hadapsar"
       },
       {
+        "slug": "1bhk-in-hadapsar",
+        "keyword": "1BHK in Hadapsar"
+      },
+      {
         "slug": "2bhk-in-hadapsar",
         "keyword": "2BHK in Hadapsar"
       },
@@ -3486,6 +4514,10 @@ export const seoSilos = [
         "keyword": "5BHK in Hadapsar"
       },
       {
+        "slug": "1-bhk-flats-in-hadapsar",
+        "keyword": "1 BHK Flats in Hadapsar"
+      },
+      {
         "slug": "2-bhk-flats-in-hadapsar",
         "keyword": "2 BHK Flats in Hadapsar"
       },
@@ -3496,6 +4528,10 @@ export const seoSilos = [
       {
         "slug": "4-bhk-flats-in-hadapsar",
         "keyword": "4 BHK Flats in Hadapsar"
+      },
+      {
+        "slug": "studio-apartments-in-hadapsar",
+        "keyword": "Studio Apartments in Hadapsar"
       },
       {
         "slug": "luxury-duplex-in-hadapsar",
@@ -3532,6 +4568,26 @@ export const seoSilos = [
       {
         "slug": "flats-in-hadapsar",
         "keyword": "Flats in Hadapsar"
+      },
+      {
+        "slug": "villas-in-hadapsar",
+        "keyword": "Villas in Hadapsar"
+      },
+      {
+        "slug": "row-houses-in-hadapsar",
+        "keyword": "Row Houses in Hadapsar"
+      },
+      {
+        "slug": "commercial-properties-in-hadapsar",
+        "keyword": "Commercial Properties in Hadapsar"
+      },
+      {
+        "slug": "retail-shops-in-hadapsar",
+        "keyword": "Retail Shops in Hadapsar"
+      },
+      {
+        "slug": "office-spaces-in-hadapsar",
+        "keyword": "Office Spaces in Hadapsar"
       },
       {
         "slug": "ready-possession-flats-in-hadapsar",
@@ -3574,6 +4630,10 @@ export const seoSilos = [
         "keyword": "Hadapsar Real Estate Investment"
       },
       {
+        "slug": "hadapsar-1bhk-flats",
+        "keyword": "Hadapsar 1BHK Flats"
+      },
+      {
         "slug": "hadapsar-2bhk-flats",
         "keyword": "Hadapsar 2BHK Flats"
       },
@@ -3590,6 +4650,10 @@ export const seoSilos = [
         "keyword": "Hadapsar 5BHK Villas"
       },
       {
+        "slug": "hadapsar-1-bhk",
+        "keyword": "Hadapsar 1 BHK"
+      },
+      {
         "slug": "hadapsar-2-bhk",
         "keyword": "Hadapsar 2 BHK"
       },
@@ -3600,6 +4664,10 @@ export const seoSilos = [
       {
         "slug": "hadapsar-4-bhk",
         "keyword": "Hadapsar 4 BHK"
+      },
+      {
+        "slug": "hadapsar-studio-apartments",
+        "keyword": "Hadapsar Studio Apartments"
       },
       {
         "slug": "hadapsar-duplex-apartments",
@@ -3636,6 +4704,26 @@ export const seoSilos = [
       {
         "slug": "hadapsar-flats",
         "keyword": "Hadapsar Flats"
+      },
+      {
+        "slug": "hadapsar-villas",
+        "keyword": "Hadapsar Villas"
+      },
+      {
+        "slug": "hadapsar-row-houses",
+        "keyword": "Hadapsar Row Houses"
+      },
+      {
+        "slug": "hadapsar-commercial-real-estate",
+        "keyword": "Hadapsar Commercial Real Estate"
+      },
+      {
+        "slug": "hadapsar-retail-spaces",
+        "keyword": "Hadapsar Retail Spaces"
+      },
+      {
+        "slug": "hadapsar-office-spaces",
+        "keyword": "Hadapsar Office Spaces"
       },
       {
         "slug": "hadapsar-ready-possession",
@@ -3685,6 +4773,10 @@ export const seoSilos = [
         "keyword": "Real Estate Investment in Wagholi"
       },
       {
+        "slug": "1bhk-in-wagholi",
+        "keyword": "1BHK in Wagholi"
+      },
+      {
         "slug": "2bhk-in-wagholi",
         "keyword": "2BHK in Wagholi"
       },
@@ -3701,6 +4793,10 @@ export const seoSilos = [
         "keyword": "5BHK in Wagholi"
       },
       {
+        "slug": "1-bhk-flats-in-wagholi",
+        "keyword": "1 BHK Flats in Wagholi"
+      },
+      {
         "slug": "2-bhk-flats-in-wagholi",
         "keyword": "2 BHK Flats in Wagholi"
       },
@@ -3711,6 +4807,10 @@ export const seoSilos = [
       {
         "slug": "4-bhk-flats-in-wagholi",
         "keyword": "4 BHK Flats in Wagholi"
+      },
+      {
+        "slug": "studio-apartments-in-wagholi",
+        "keyword": "Studio Apartments in Wagholi"
       },
       {
         "slug": "luxury-duplex-in-wagholi",
@@ -3747,6 +4847,26 @@ export const seoSilos = [
       {
         "slug": "flats-in-wagholi",
         "keyword": "Flats in Wagholi"
+      },
+      {
+        "slug": "villas-in-wagholi",
+        "keyword": "Villas in Wagholi"
+      },
+      {
+        "slug": "row-houses-in-wagholi",
+        "keyword": "Row Houses in Wagholi"
+      },
+      {
+        "slug": "commercial-properties-in-wagholi",
+        "keyword": "Commercial Properties in Wagholi"
+      },
+      {
+        "slug": "retail-shops-in-wagholi",
+        "keyword": "Retail Shops in Wagholi"
+      },
+      {
+        "slug": "office-spaces-in-wagholi",
+        "keyword": "Office Spaces in Wagholi"
       },
       {
         "slug": "ready-possession-flats-in-wagholi",
@@ -3789,6 +4909,10 @@ export const seoSilos = [
         "keyword": "Wagholi Real Estate Investment"
       },
       {
+        "slug": "wagholi-1bhk-flats",
+        "keyword": "Wagholi 1BHK Flats"
+      },
+      {
         "slug": "wagholi-2bhk-flats",
         "keyword": "Wagholi 2BHK Flats"
       },
@@ -3805,6 +4929,10 @@ export const seoSilos = [
         "keyword": "Wagholi 5BHK Villas"
       },
       {
+        "slug": "wagholi-1-bhk",
+        "keyword": "Wagholi 1 BHK"
+      },
+      {
         "slug": "wagholi-2-bhk",
         "keyword": "Wagholi 2 BHK"
       },
@@ -3815,6 +4943,10 @@ export const seoSilos = [
       {
         "slug": "wagholi-4-bhk",
         "keyword": "Wagholi 4 BHK"
+      },
+      {
+        "slug": "wagholi-studio-apartments",
+        "keyword": "Wagholi Studio Apartments"
       },
       {
         "slug": "wagholi-duplex-apartments",
@@ -3851,6 +4983,26 @@ export const seoSilos = [
       {
         "slug": "wagholi-flats",
         "keyword": "Wagholi Flats"
+      },
+      {
+        "slug": "wagholi-villas",
+        "keyword": "Wagholi Villas"
+      },
+      {
+        "slug": "wagholi-row-houses",
+        "keyword": "Wagholi Row Houses"
+      },
+      {
+        "slug": "wagholi-commercial-real-estate",
+        "keyword": "Wagholi Commercial Real Estate"
+      },
+      {
+        "slug": "wagholi-retail-spaces",
+        "keyword": "Wagholi Retail Spaces"
+      },
+      {
+        "slug": "wagholi-office-spaces",
+        "keyword": "Wagholi Office Spaces"
       },
       {
         "slug": "wagholi-ready-possession",
@@ -3900,6 +5052,10 @@ export const seoSilos = [
         "keyword": "Real Estate Investment in PCMC"
       },
       {
+        "slug": "1bhk-in-pcmc",
+        "keyword": "1BHK in PCMC"
+      },
+      {
         "slug": "2bhk-in-pcmc",
         "keyword": "2BHK in PCMC"
       },
@@ -3916,6 +5072,10 @@ export const seoSilos = [
         "keyword": "5BHK in PCMC"
       },
       {
+        "slug": "1-bhk-flats-in-pcmc",
+        "keyword": "1 BHK Flats in PCMC"
+      },
+      {
         "slug": "2-bhk-flats-in-pcmc",
         "keyword": "2 BHK Flats in PCMC"
       },
@@ -3926,6 +5086,10 @@ export const seoSilos = [
       {
         "slug": "4-bhk-flats-in-pcmc",
         "keyword": "4 BHK Flats in PCMC"
+      },
+      {
+        "slug": "studio-apartments-in-pcmc",
+        "keyword": "Studio Apartments in PCMC"
       },
       {
         "slug": "luxury-duplex-in-pcmc",
@@ -3962,6 +5126,26 @@ export const seoSilos = [
       {
         "slug": "flats-in-pcmc",
         "keyword": "Flats in PCMC"
+      },
+      {
+        "slug": "villas-in-pcmc",
+        "keyword": "Villas in PCMC"
+      },
+      {
+        "slug": "row-houses-in-pcmc",
+        "keyword": "Row Houses in PCMC"
+      },
+      {
+        "slug": "commercial-properties-in-pcmc",
+        "keyword": "Commercial Properties in PCMC"
+      },
+      {
+        "slug": "retail-shops-in-pcmc",
+        "keyword": "Retail Shops in PCMC"
+      },
+      {
+        "slug": "office-spaces-in-pcmc",
+        "keyword": "Office Spaces in PCMC"
       },
       {
         "slug": "ready-possession-flats-in-pcmc",
@@ -4004,6 +5188,10 @@ export const seoSilos = [
         "keyword": "PCMC Real Estate Investment"
       },
       {
+        "slug": "pcmc-1bhk-flats",
+        "keyword": "PCMC 1BHK Flats"
+      },
+      {
         "slug": "pcmc-2bhk-flats",
         "keyword": "PCMC 2BHK Flats"
       },
@@ -4020,6 +5208,10 @@ export const seoSilos = [
         "keyword": "PCMC 5BHK Villas"
       },
       {
+        "slug": "pcmc-1-bhk",
+        "keyword": "PCMC 1 BHK"
+      },
+      {
         "slug": "pcmc-2-bhk",
         "keyword": "PCMC 2 BHK"
       },
@@ -4030,6 +5222,10 @@ export const seoSilos = [
       {
         "slug": "pcmc-4-bhk",
         "keyword": "PCMC 4 BHK"
+      },
+      {
+        "slug": "pcmc-studio-apartments",
+        "keyword": "PCMC Studio Apartments"
       },
       {
         "slug": "pcmc-duplex-apartments",
@@ -4066,6 +5262,26 @@ export const seoSilos = [
       {
         "slug": "pcmc-flats",
         "keyword": "PCMC Flats"
+      },
+      {
+        "slug": "pcmc-villas",
+        "keyword": "PCMC Villas"
+      },
+      {
+        "slug": "pcmc-row-houses",
+        "keyword": "PCMC Row Houses"
+      },
+      {
+        "slug": "pcmc-commercial-real-estate",
+        "keyword": "PCMC Commercial Real Estate"
+      },
+      {
+        "slug": "pcmc-retail-spaces",
+        "keyword": "PCMC Retail Spaces"
+      },
+      {
+        "slug": "pcmc-office-spaces",
+        "keyword": "PCMC Office Spaces"
       },
       {
         "slug": "pcmc-ready-possession",
@@ -4115,6 +5331,10 @@ export const seoSilos = [
         "keyword": "Real Estate Investment in Ravet"
       },
       {
+        "slug": "1bhk-in-ravet",
+        "keyword": "1BHK in Ravet"
+      },
+      {
         "slug": "2bhk-in-ravet",
         "keyword": "2BHK in Ravet"
       },
@@ -4131,6 +5351,10 @@ export const seoSilos = [
         "keyword": "5BHK in Ravet"
       },
       {
+        "slug": "1-bhk-flats-in-ravet",
+        "keyword": "1 BHK Flats in Ravet"
+      },
+      {
         "slug": "2-bhk-flats-in-ravet",
         "keyword": "2 BHK Flats in Ravet"
       },
@@ -4141,6 +5365,10 @@ export const seoSilos = [
       {
         "slug": "4-bhk-flats-in-ravet",
         "keyword": "4 BHK Flats in Ravet"
+      },
+      {
+        "slug": "studio-apartments-in-ravet",
+        "keyword": "Studio Apartments in Ravet"
       },
       {
         "slug": "luxury-duplex-in-ravet",
@@ -4177,6 +5405,26 @@ export const seoSilos = [
       {
         "slug": "flats-in-ravet",
         "keyword": "Flats in Ravet"
+      },
+      {
+        "slug": "villas-in-ravet",
+        "keyword": "Villas in Ravet"
+      },
+      {
+        "slug": "row-houses-in-ravet",
+        "keyword": "Row Houses in Ravet"
+      },
+      {
+        "slug": "commercial-properties-in-ravet",
+        "keyword": "Commercial Properties in Ravet"
+      },
+      {
+        "slug": "retail-shops-in-ravet",
+        "keyword": "Retail Shops in Ravet"
+      },
+      {
+        "slug": "office-spaces-in-ravet",
+        "keyword": "Office Spaces in Ravet"
       },
       {
         "slug": "ready-possession-flats-in-ravet",
@@ -4219,6 +5467,10 @@ export const seoSilos = [
         "keyword": "Ravet Real Estate Investment"
       },
       {
+        "slug": "ravet-1bhk-flats",
+        "keyword": "Ravet 1BHK Flats"
+      },
+      {
         "slug": "ravet-2bhk-flats",
         "keyword": "Ravet 2BHK Flats"
       },
@@ -4235,6 +5487,10 @@ export const seoSilos = [
         "keyword": "Ravet 5BHK Villas"
       },
       {
+        "slug": "ravet-1-bhk",
+        "keyword": "Ravet 1 BHK"
+      },
+      {
         "slug": "ravet-2-bhk",
         "keyword": "Ravet 2 BHK"
       },
@@ -4245,6 +5501,10 @@ export const seoSilos = [
       {
         "slug": "ravet-4-bhk",
         "keyword": "Ravet 4 BHK"
+      },
+      {
+        "slug": "ravet-studio-apartments",
+        "keyword": "Ravet Studio Apartments"
       },
       {
         "slug": "ravet-duplex-apartments",
@@ -4281,6 +5541,26 @@ export const seoSilos = [
       {
         "slug": "ravet-flats",
         "keyword": "Ravet Flats"
+      },
+      {
+        "slug": "ravet-villas",
+        "keyword": "Ravet Villas"
+      },
+      {
+        "slug": "ravet-row-houses",
+        "keyword": "Ravet Row Houses"
+      },
+      {
+        "slug": "ravet-commercial-real-estate",
+        "keyword": "Ravet Commercial Real Estate"
+      },
+      {
+        "slug": "ravet-retail-spaces",
+        "keyword": "Ravet Retail Spaces"
+      },
+      {
+        "slug": "ravet-office-spaces",
+        "keyword": "Ravet Office Spaces"
       },
       {
         "slug": "ravet-ready-possession",
@@ -4330,6 +5610,10 @@ export const seoSilos = [
         "keyword": "Real Estate Investment in Punawale"
       },
       {
+        "slug": "1bhk-in-punawale",
+        "keyword": "1BHK in Punawale"
+      },
+      {
         "slug": "2bhk-in-punawale",
         "keyword": "2BHK in Punawale"
       },
@@ -4346,6 +5630,10 @@ export const seoSilos = [
         "keyword": "5BHK in Punawale"
       },
       {
+        "slug": "1-bhk-flats-in-punawale",
+        "keyword": "1 BHK Flats in Punawale"
+      },
+      {
         "slug": "2-bhk-flats-in-punawale",
         "keyword": "2 BHK Flats in Punawale"
       },
@@ -4356,6 +5644,10 @@ export const seoSilos = [
       {
         "slug": "4-bhk-flats-in-punawale",
         "keyword": "4 BHK Flats in Punawale"
+      },
+      {
+        "slug": "studio-apartments-in-punawale",
+        "keyword": "Studio Apartments in Punawale"
       },
       {
         "slug": "luxury-duplex-in-punawale",
@@ -4392,6 +5684,26 @@ export const seoSilos = [
       {
         "slug": "flats-in-punawale",
         "keyword": "Flats in Punawale"
+      },
+      {
+        "slug": "villas-in-punawale",
+        "keyword": "Villas in Punawale"
+      },
+      {
+        "slug": "row-houses-in-punawale",
+        "keyword": "Row Houses in Punawale"
+      },
+      {
+        "slug": "commercial-properties-in-punawale",
+        "keyword": "Commercial Properties in Punawale"
+      },
+      {
+        "slug": "retail-shops-in-punawale",
+        "keyword": "Retail Shops in Punawale"
+      },
+      {
+        "slug": "office-spaces-in-punawale",
+        "keyword": "Office Spaces in Punawale"
       },
       {
         "slug": "ready-possession-flats-in-punawale",
@@ -4434,6 +5746,10 @@ export const seoSilos = [
         "keyword": "Punawale Real Estate Investment"
       },
       {
+        "slug": "punawale-1bhk-flats",
+        "keyword": "Punawale 1BHK Flats"
+      },
+      {
         "slug": "punawale-2bhk-flats",
         "keyword": "Punawale 2BHK Flats"
       },
@@ -4450,6 +5766,10 @@ export const seoSilos = [
         "keyword": "Punawale 5BHK Villas"
       },
       {
+        "slug": "punawale-1-bhk",
+        "keyword": "Punawale 1 BHK"
+      },
+      {
         "slug": "punawale-2-bhk",
         "keyword": "Punawale 2 BHK"
       },
@@ -4460,6 +5780,10 @@ export const seoSilos = [
       {
         "slug": "punawale-4-bhk",
         "keyword": "Punawale 4 BHK"
+      },
+      {
+        "slug": "punawale-studio-apartments",
+        "keyword": "Punawale Studio Apartments"
       },
       {
         "slug": "punawale-duplex-apartments",
@@ -4496,6 +5820,26 @@ export const seoSilos = [
       {
         "slug": "punawale-flats",
         "keyword": "Punawale Flats"
+      },
+      {
+        "slug": "punawale-villas",
+        "keyword": "Punawale Villas"
+      },
+      {
+        "slug": "punawale-row-houses",
+        "keyword": "Punawale Row Houses"
+      },
+      {
+        "slug": "punawale-commercial-real-estate",
+        "keyword": "Punawale Commercial Real Estate"
+      },
+      {
+        "slug": "punawale-retail-spaces",
+        "keyword": "Punawale Retail Spaces"
+      },
+      {
+        "slug": "punawale-office-spaces",
+        "keyword": "Punawale Office Spaces"
       },
       {
         "slug": "punawale-ready-possession",
@@ -4545,6 +5889,10 @@ export const seoSilos = [
         "keyword": "Real Estate Investment in Moshi"
       },
       {
+        "slug": "1bhk-in-moshi",
+        "keyword": "1BHK in Moshi"
+      },
+      {
         "slug": "2bhk-in-moshi",
         "keyword": "2BHK in Moshi"
       },
@@ -4561,6 +5909,10 @@ export const seoSilos = [
         "keyword": "5BHK in Moshi"
       },
       {
+        "slug": "1-bhk-flats-in-moshi",
+        "keyword": "1 BHK Flats in Moshi"
+      },
+      {
         "slug": "2-bhk-flats-in-moshi",
         "keyword": "2 BHK Flats in Moshi"
       },
@@ -4571,6 +5923,10 @@ export const seoSilos = [
       {
         "slug": "4-bhk-flats-in-moshi",
         "keyword": "4 BHK Flats in Moshi"
+      },
+      {
+        "slug": "studio-apartments-in-moshi",
+        "keyword": "Studio Apartments in Moshi"
       },
       {
         "slug": "luxury-duplex-in-moshi",
@@ -4607,6 +5963,26 @@ export const seoSilos = [
       {
         "slug": "flats-in-moshi",
         "keyword": "Flats in Moshi"
+      },
+      {
+        "slug": "villas-in-moshi",
+        "keyword": "Villas in Moshi"
+      },
+      {
+        "slug": "row-houses-in-moshi",
+        "keyword": "Row Houses in Moshi"
+      },
+      {
+        "slug": "commercial-properties-in-moshi",
+        "keyword": "Commercial Properties in Moshi"
+      },
+      {
+        "slug": "retail-shops-in-moshi",
+        "keyword": "Retail Shops in Moshi"
+      },
+      {
+        "slug": "office-spaces-in-moshi",
+        "keyword": "Office Spaces in Moshi"
       },
       {
         "slug": "ready-possession-flats-in-moshi",
@@ -4649,6 +6025,10 @@ export const seoSilos = [
         "keyword": "Moshi Real Estate Investment"
       },
       {
+        "slug": "moshi-1bhk-flats",
+        "keyword": "Moshi 1BHK Flats"
+      },
+      {
         "slug": "moshi-2bhk-flats",
         "keyword": "Moshi 2BHK Flats"
       },
@@ -4665,6 +6045,10 @@ export const seoSilos = [
         "keyword": "Moshi 5BHK Villas"
       },
       {
+        "slug": "moshi-1-bhk",
+        "keyword": "Moshi 1 BHK"
+      },
+      {
         "slug": "moshi-2-bhk",
         "keyword": "Moshi 2 BHK"
       },
@@ -4675,6 +6059,10 @@ export const seoSilos = [
       {
         "slug": "moshi-4-bhk",
         "keyword": "Moshi 4 BHK"
+      },
+      {
+        "slug": "moshi-studio-apartments",
+        "keyword": "Moshi Studio Apartments"
       },
       {
         "slug": "moshi-duplex-apartments",
@@ -4711,6 +6099,26 @@ export const seoSilos = [
       {
         "slug": "moshi-flats",
         "keyword": "Moshi Flats"
+      },
+      {
+        "slug": "moshi-villas",
+        "keyword": "Moshi Villas"
+      },
+      {
+        "slug": "moshi-row-houses",
+        "keyword": "Moshi Row Houses"
+      },
+      {
+        "slug": "moshi-commercial-real-estate",
+        "keyword": "Moshi Commercial Real Estate"
+      },
+      {
+        "slug": "moshi-retail-spaces",
+        "keyword": "Moshi Retail Spaces"
+      },
+      {
+        "slug": "moshi-office-spaces",
+        "keyword": "Moshi Office Spaces"
       },
       {
         "slug": "moshi-ready-possession",
@@ -4760,6 +6168,10 @@ export const seoSilos = [
         "keyword": "Real Estate Investment in Undri"
       },
       {
+        "slug": "1bhk-in-undri",
+        "keyword": "1BHK in Undri"
+      },
+      {
         "slug": "2bhk-in-undri",
         "keyword": "2BHK in Undri"
       },
@@ -4776,6 +6188,10 @@ export const seoSilos = [
         "keyword": "5BHK in Undri"
       },
       {
+        "slug": "1-bhk-flats-in-undri",
+        "keyword": "1 BHK Flats in Undri"
+      },
+      {
         "slug": "2-bhk-flats-in-undri",
         "keyword": "2 BHK Flats in Undri"
       },
@@ -4786,6 +6202,10 @@ export const seoSilos = [
       {
         "slug": "4-bhk-flats-in-undri",
         "keyword": "4 BHK Flats in Undri"
+      },
+      {
+        "slug": "studio-apartments-in-undri",
+        "keyword": "Studio Apartments in Undri"
       },
       {
         "slug": "luxury-duplex-in-undri",
@@ -4822,6 +6242,26 @@ export const seoSilos = [
       {
         "slug": "flats-in-undri",
         "keyword": "Flats in Undri"
+      },
+      {
+        "slug": "villas-in-undri",
+        "keyword": "Villas in Undri"
+      },
+      {
+        "slug": "row-houses-in-undri",
+        "keyword": "Row Houses in Undri"
+      },
+      {
+        "slug": "commercial-properties-in-undri",
+        "keyword": "Commercial Properties in Undri"
+      },
+      {
+        "slug": "retail-shops-in-undri",
+        "keyword": "Retail Shops in Undri"
+      },
+      {
+        "slug": "office-spaces-in-undri",
+        "keyword": "Office Spaces in Undri"
       },
       {
         "slug": "ready-possession-flats-in-undri",
@@ -4864,6 +6304,10 @@ export const seoSilos = [
         "keyword": "Undri Real Estate Investment"
       },
       {
+        "slug": "undri-1bhk-flats",
+        "keyword": "Undri 1BHK Flats"
+      },
+      {
         "slug": "undri-2bhk-flats",
         "keyword": "Undri 2BHK Flats"
       },
@@ -4880,6 +6324,10 @@ export const seoSilos = [
         "keyword": "Undri 5BHK Villas"
       },
       {
+        "slug": "undri-1-bhk",
+        "keyword": "Undri 1 BHK"
+      },
+      {
         "slug": "undri-2-bhk",
         "keyword": "Undri 2 BHK"
       },
@@ -4890,6 +6338,10 @@ export const seoSilos = [
       {
         "slug": "undri-4-bhk",
         "keyword": "Undri 4 BHK"
+      },
+      {
+        "slug": "undri-studio-apartments",
+        "keyword": "Undri Studio Apartments"
       },
       {
         "slug": "undri-duplex-apartments",
@@ -4926,6 +6378,26 @@ export const seoSilos = [
       {
         "slug": "undri-flats",
         "keyword": "Undri Flats"
+      },
+      {
+        "slug": "undri-villas",
+        "keyword": "Undri Villas"
+      },
+      {
+        "slug": "undri-row-houses",
+        "keyword": "Undri Row Houses"
+      },
+      {
+        "slug": "undri-commercial-real-estate",
+        "keyword": "Undri Commercial Real Estate"
+      },
+      {
+        "slug": "undri-retail-spaces",
+        "keyword": "Undri Retail Spaces"
+      },
+      {
+        "slug": "undri-office-spaces",
+        "keyword": "Undri Office Spaces"
       },
       {
         "slug": "undri-ready-possession",
@@ -4975,6 +6447,10 @@ export const seoSilos = [
         "keyword": "Real Estate Investment in Kondhwa"
       },
       {
+        "slug": "1bhk-in-kondhwa",
+        "keyword": "1BHK in Kondhwa"
+      },
+      {
         "slug": "2bhk-in-kondhwa",
         "keyword": "2BHK in Kondhwa"
       },
@@ -4991,6 +6467,10 @@ export const seoSilos = [
         "keyword": "5BHK in Kondhwa"
       },
       {
+        "slug": "1-bhk-flats-in-kondhwa",
+        "keyword": "1 BHK Flats in Kondhwa"
+      },
+      {
         "slug": "2-bhk-flats-in-kondhwa",
         "keyword": "2 BHK Flats in Kondhwa"
       },
@@ -5001,6 +6481,10 @@ export const seoSilos = [
       {
         "slug": "4-bhk-flats-in-kondhwa",
         "keyword": "4 BHK Flats in Kondhwa"
+      },
+      {
+        "slug": "studio-apartments-in-kondhwa",
+        "keyword": "Studio Apartments in Kondhwa"
       },
       {
         "slug": "luxury-duplex-in-kondhwa",
@@ -5037,6 +6521,26 @@ export const seoSilos = [
       {
         "slug": "flats-in-kondhwa",
         "keyword": "Flats in Kondhwa"
+      },
+      {
+        "slug": "villas-in-kondhwa",
+        "keyword": "Villas in Kondhwa"
+      },
+      {
+        "slug": "row-houses-in-kondhwa",
+        "keyword": "Row Houses in Kondhwa"
+      },
+      {
+        "slug": "commercial-properties-in-kondhwa",
+        "keyword": "Commercial Properties in Kondhwa"
+      },
+      {
+        "slug": "retail-shops-in-kondhwa",
+        "keyword": "Retail Shops in Kondhwa"
+      },
+      {
+        "slug": "office-spaces-in-kondhwa",
+        "keyword": "Office Spaces in Kondhwa"
       },
       {
         "slug": "ready-possession-flats-in-kondhwa",
@@ -5079,6 +6583,10 @@ export const seoSilos = [
         "keyword": "Kondhwa Real Estate Investment"
       },
       {
+        "slug": "kondhwa-1bhk-flats",
+        "keyword": "Kondhwa 1BHK Flats"
+      },
+      {
         "slug": "kondhwa-2bhk-flats",
         "keyword": "Kondhwa 2BHK Flats"
       },
@@ -5095,6 +6603,10 @@ export const seoSilos = [
         "keyword": "Kondhwa 5BHK Villas"
       },
       {
+        "slug": "kondhwa-1-bhk",
+        "keyword": "Kondhwa 1 BHK"
+      },
+      {
         "slug": "kondhwa-2-bhk",
         "keyword": "Kondhwa 2 BHK"
       },
@@ -5105,6 +6617,10 @@ export const seoSilos = [
       {
         "slug": "kondhwa-4-bhk",
         "keyword": "Kondhwa 4 BHK"
+      },
+      {
+        "slug": "kondhwa-studio-apartments",
+        "keyword": "Kondhwa Studio Apartments"
       },
       {
         "slug": "kondhwa-duplex-apartments",
@@ -5143,6 +6659,26 @@ export const seoSilos = [
         "keyword": "Kondhwa Flats"
       },
       {
+        "slug": "kondhwa-villas",
+        "keyword": "Kondhwa Villas"
+      },
+      {
+        "slug": "kondhwa-row-houses",
+        "keyword": "Kondhwa Row Houses"
+      },
+      {
+        "slug": "kondhwa-commercial-real-estate",
+        "keyword": "Kondhwa Commercial Real Estate"
+      },
+      {
+        "slug": "kondhwa-retail-spaces",
+        "keyword": "Kondhwa Retail Spaces"
+      },
+      {
+        "slug": "kondhwa-office-spaces",
+        "keyword": "Kondhwa Office Spaces"
+      },
+      {
         "slug": "kondhwa-ready-possession",
         "keyword": "Kondhwa Ready Possession"
       },
@@ -5161,6 +6697,3912 @@ export const seoSilos = [
       {
         "slug": "kondhwa-vtp-projects",
         "keyword": "Kondhwa VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-sinhagad-road",
+    "title": "Sinhagad Road Real Estate & Properties",
+    "description": "Sinhagad Road is a massive residential corridor favored by traditional Pune families.",
+    "slugs": [
+      {
+        "slug": "luxury-apartments-in-sinhagad-road",
+        "keyword": "Luxury Apartments in Sinhagad Road"
+      },
+      {
+        "slug": "premium-flats-in-sinhagad-road",
+        "keyword": "Premium Flats in Sinhagad Road"
+      },
+      {
+        "slug": "new-launch-projects-in-sinhagad-road",
+        "keyword": "New Launch Projects in Sinhagad Road"
+      },
+      {
+        "slug": "township-projects-in-sinhagad-road",
+        "keyword": "Township Projects in Sinhagad Road"
+      },
+      {
+        "slug": "real-estate-investment-in-sinhagad-road",
+        "keyword": "Real Estate Investment in Sinhagad Road"
+      },
+      {
+        "slug": "1bhk-in-sinhagad-road",
+        "keyword": "1BHK in Sinhagad Road"
+      },
+      {
+        "slug": "2bhk-in-sinhagad-road",
+        "keyword": "2BHK in Sinhagad Road"
+      },
+      {
+        "slug": "3bhk-in-sinhagad-road",
+        "keyword": "3BHK in Sinhagad Road"
+      },
+      {
+        "slug": "4bhk-in-sinhagad-road",
+        "keyword": "4BHK in Sinhagad Road"
+      },
+      {
+        "slug": "5bhk-in-sinhagad-road",
+        "keyword": "5BHK in Sinhagad Road"
+      },
+      {
+        "slug": "1-bhk-flats-in-sinhagad-road",
+        "keyword": "1 BHK Flats in Sinhagad Road"
+      },
+      {
+        "slug": "2-bhk-flats-in-sinhagad-road",
+        "keyword": "2 BHK Flats in Sinhagad Road"
+      },
+      {
+        "slug": "3-bhk-flats-in-sinhagad-road",
+        "keyword": "3 BHK Flats in Sinhagad Road"
+      },
+      {
+        "slug": "4-bhk-flats-in-sinhagad-road",
+        "keyword": "4 BHK Flats in Sinhagad Road"
+      },
+      {
+        "slug": "studio-apartments-in-sinhagad-road",
+        "keyword": "Studio Apartments in Sinhagad Road"
+      },
+      {
+        "slug": "luxury-duplex-in-sinhagad-road",
+        "keyword": "Luxury Duplex in Sinhagad Road"
+      },
+      {
+        "slug": "sky-duplex-in-sinhagad-road",
+        "keyword": "Sky Duplex in Sinhagad Road"
+      },
+      {
+        "slug": "simplex-flats-in-sinhagad-road",
+        "keyword": "Simplex Flats in Sinhagad Road"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-sinhagad-road",
+        "keyword": "Ultra-Luxury Penthouse in Sinhagad Road"
+      },
+      {
+        "slug": "double-height-living-in-sinhagad-road",
+        "keyword": "Double-Height Living in Sinhagad Road"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-sinhagad-road",
+        "keyword": "Apartments with Private Pool in Sinhagad Road"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-sinhagad-road",
+        "keyword": "NRI Real Estate Investment in Sinhagad Road"
+      },
+      {
+        "slug": "properties-in-sinhagad-road",
+        "keyword": "Properties in Sinhagad Road"
+      },
+      {
+        "slug": "flats-in-sinhagad-road",
+        "keyword": "Flats in Sinhagad Road"
+      },
+      {
+        "slug": "villas-in-sinhagad-road",
+        "keyword": "Villas in Sinhagad Road"
+      },
+      {
+        "slug": "row-houses-in-sinhagad-road",
+        "keyword": "Row Houses in Sinhagad Road"
+      },
+      {
+        "slug": "commercial-properties-in-sinhagad-road",
+        "keyword": "Commercial Properties in Sinhagad Road"
+      },
+      {
+        "slug": "retail-shops-in-sinhagad-road",
+        "keyword": "Retail Shops in Sinhagad Road"
+      },
+      {
+        "slug": "office-spaces-in-sinhagad-road",
+        "keyword": "Office Spaces in Sinhagad Road"
+      },
+      {
+        "slug": "ready-possession-flats-in-sinhagad-road",
+        "keyword": "Ready Possession Flats in Sinhagad Road"
+      },
+      {
+        "slug": "under-construction-projects-in-sinhagad-road",
+        "keyword": "Under Construction Projects in Sinhagad Road"
+      },
+      {
+        "slug": "homes-near-it-park-in-sinhagad-road",
+        "keyword": "Homes near IT Park in Sinhagad Road"
+      },
+      {
+        "slug": "maximum-livable-area-homes-in-sinhagad-road",
+        "keyword": "Maximum Livable Area Homes in Sinhagad Road"
+      },
+      {
+        "slug": "vtp-projects-in-sinhagad-road",
+        "keyword": "VTP Projects in Sinhagad Road"
+      },
+      {
+        "slug": "sinhagad-road-luxury-apartments",
+        "keyword": "Sinhagad Road Luxury Apartments"
+      },
+      {
+        "slug": "sinhagad-road-premium-flats",
+        "keyword": "Sinhagad Road Premium Flats"
+      },
+      {
+        "slug": "sinhagad-road-new-launch-projects",
+        "keyword": "Sinhagad Road New Launch Projects"
+      },
+      {
+        "slug": "sinhagad-road-township-projects",
+        "keyword": "Sinhagad Road Township Projects"
+      },
+      {
+        "slug": "sinhagad-road-real-estate-investment",
+        "keyword": "Sinhagad Road Real Estate Investment"
+      },
+      {
+        "slug": "sinhagad-road-1bhk-flats",
+        "keyword": "Sinhagad Road 1BHK Flats"
+      },
+      {
+        "slug": "sinhagad-road-2bhk-flats",
+        "keyword": "Sinhagad Road 2BHK Flats"
+      },
+      {
+        "slug": "sinhagad-road-3bhk-luxury-homes",
+        "keyword": "Sinhagad Road 3BHK Luxury Homes"
+      },
+      {
+        "slug": "sinhagad-road-4bhk-premium-apartments",
+        "keyword": "Sinhagad Road 4BHK Premium Apartments"
+      },
+      {
+        "slug": "sinhagad-road-5bhk-villas",
+        "keyword": "Sinhagad Road 5BHK Villas"
+      },
+      {
+        "slug": "sinhagad-road-1-bhk",
+        "keyword": "Sinhagad Road 1 BHK"
+      },
+      {
+        "slug": "sinhagad-road-2-bhk",
+        "keyword": "Sinhagad Road 2 BHK"
+      },
+      {
+        "slug": "sinhagad-road-3-bhk",
+        "keyword": "Sinhagad Road 3 BHK"
+      },
+      {
+        "slug": "sinhagad-road-4-bhk",
+        "keyword": "Sinhagad Road 4 BHK"
+      },
+      {
+        "slug": "sinhagad-road-studio-apartments",
+        "keyword": "Sinhagad Road Studio Apartments"
+      },
+      {
+        "slug": "sinhagad-road-duplex-apartments",
+        "keyword": "Sinhagad Road Duplex Apartments"
+      },
+      {
+        "slug": "sinhagad-road-sky-duplex",
+        "keyword": "Sinhagad Road Sky Duplex"
+      },
+      {
+        "slug": "sinhagad-road-simplex-apartments",
+        "keyword": "Sinhagad Road Simplex Apartments"
+      },
+      {
+        "slug": "sinhagad-road-penthouses",
+        "keyword": "Sinhagad Road Penthouses"
+      },
+      {
+        "slug": "sinhagad-road-double-height-homes",
+        "keyword": "Sinhagad Road Double-Height Homes"
+      },
+      {
+        "slug": "sinhagad-road-private-plunge-pool-flats",
+        "keyword": "Sinhagad Road Private Plunge Pool Flats"
+      },
+      {
+        "slug": "sinhagad-road-nri-premium-homes",
+        "keyword": "Sinhagad Road NRI Premium Homes"
+      },
+      {
+        "slug": "sinhagad-road-properties",
+        "keyword": "Sinhagad Road Properties"
+      },
+      {
+        "slug": "sinhagad-road-flats",
+        "keyword": "Sinhagad Road Flats"
+      },
+      {
+        "slug": "sinhagad-road-villas",
+        "keyword": "Sinhagad Road Villas"
+      },
+      {
+        "slug": "sinhagad-road-row-houses",
+        "keyword": "Sinhagad Road Row Houses"
+      },
+      {
+        "slug": "sinhagad-road-commercial-real-estate",
+        "keyword": "Sinhagad Road Commercial Real Estate"
+      },
+      {
+        "slug": "sinhagad-road-retail-spaces",
+        "keyword": "Sinhagad Road Retail Spaces"
+      },
+      {
+        "slug": "sinhagad-road-office-spaces",
+        "keyword": "Sinhagad Road Office Spaces"
+      },
+      {
+        "slug": "sinhagad-road-ready-possession",
+        "keyword": "Sinhagad Road Ready Possession"
+      },
+      {
+        "slug": "sinhagad-road-under-construction",
+        "keyword": "Sinhagad Road Under Construction"
+      },
+      {
+        "slug": "sinhagad-road-it-park-homes",
+        "keyword": "Sinhagad Road IT Park Homes"
+      },
+      {
+        "slug": "sinhagad-road-mla-homes",
+        "keyword": "Sinhagad Road MLA Homes"
+      },
+      {
+        "slug": "sinhagad-road-vtp-projects",
+        "keyword": "Sinhagad Road VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-dhayari",
+    "title": "Dhayari Real Estate & Properties",
+    "description": "Dhayari offers affordable yet premium living spaces in South-West Pune.",
+    "slugs": [
+      {
+        "slug": "luxury-apartments-in-dhayari",
+        "keyword": "Luxury Apartments in Dhayari"
+      },
+      {
+        "slug": "premium-flats-in-dhayari",
+        "keyword": "Premium Flats in Dhayari"
+      },
+      {
+        "slug": "new-launch-projects-in-dhayari",
+        "keyword": "New Launch Projects in Dhayari"
+      },
+      {
+        "slug": "township-projects-in-dhayari",
+        "keyword": "Township Projects in Dhayari"
+      },
+      {
+        "slug": "real-estate-investment-in-dhayari",
+        "keyword": "Real Estate Investment in Dhayari"
+      },
+      {
+        "slug": "1bhk-in-dhayari",
+        "keyword": "1BHK in Dhayari"
+      },
+      {
+        "slug": "2bhk-in-dhayari",
+        "keyword": "2BHK in Dhayari"
+      },
+      {
+        "slug": "3bhk-in-dhayari",
+        "keyword": "3BHK in Dhayari"
+      },
+      {
+        "slug": "4bhk-in-dhayari",
+        "keyword": "4BHK in Dhayari"
+      },
+      {
+        "slug": "5bhk-in-dhayari",
+        "keyword": "5BHK in Dhayari"
+      },
+      {
+        "slug": "1-bhk-flats-in-dhayari",
+        "keyword": "1 BHK Flats in Dhayari"
+      },
+      {
+        "slug": "2-bhk-flats-in-dhayari",
+        "keyword": "2 BHK Flats in Dhayari"
+      },
+      {
+        "slug": "3-bhk-flats-in-dhayari",
+        "keyword": "3 BHK Flats in Dhayari"
+      },
+      {
+        "slug": "4-bhk-flats-in-dhayari",
+        "keyword": "4 BHK Flats in Dhayari"
+      },
+      {
+        "slug": "studio-apartments-in-dhayari",
+        "keyword": "Studio Apartments in Dhayari"
+      },
+      {
+        "slug": "luxury-duplex-in-dhayari",
+        "keyword": "Luxury Duplex in Dhayari"
+      },
+      {
+        "slug": "sky-duplex-in-dhayari",
+        "keyword": "Sky Duplex in Dhayari"
+      },
+      {
+        "slug": "simplex-flats-in-dhayari",
+        "keyword": "Simplex Flats in Dhayari"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-dhayari",
+        "keyword": "Ultra-Luxury Penthouse in Dhayari"
+      },
+      {
+        "slug": "double-height-living-in-dhayari",
+        "keyword": "Double-Height Living in Dhayari"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-dhayari",
+        "keyword": "Apartments with Private Pool in Dhayari"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-dhayari",
+        "keyword": "NRI Real Estate Investment in Dhayari"
+      },
+      {
+        "slug": "properties-in-dhayari",
+        "keyword": "Properties in Dhayari"
+      },
+      {
+        "slug": "flats-in-dhayari",
+        "keyword": "Flats in Dhayari"
+      },
+      {
+        "slug": "villas-in-dhayari",
+        "keyword": "Villas in Dhayari"
+      },
+      {
+        "slug": "row-houses-in-dhayari",
+        "keyword": "Row Houses in Dhayari"
+      },
+      {
+        "slug": "commercial-properties-in-dhayari",
+        "keyword": "Commercial Properties in Dhayari"
+      },
+      {
+        "slug": "retail-shops-in-dhayari",
+        "keyword": "Retail Shops in Dhayari"
+      },
+      {
+        "slug": "office-spaces-in-dhayari",
+        "keyword": "Office Spaces in Dhayari"
+      },
+      {
+        "slug": "ready-possession-flats-in-dhayari",
+        "keyword": "Ready Possession Flats in Dhayari"
+      },
+      {
+        "slug": "under-construction-projects-in-dhayari",
+        "keyword": "Under Construction Projects in Dhayari"
+      },
+      {
+        "slug": "homes-near-it-park-in-dhayari",
+        "keyword": "Homes near IT Park in Dhayari"
+      },
+      {
+        "slug": "maximum-livable-area-homes-in-dhayari",
+        "keyword": "Maximum Livable Area Homes in Dhayari"
+      },
+      {
+        "slug": "vtp-projects-in-dhayari",
+        "keyword": "VTP Projects in Dhayari"
+      },
+      {
+        "slug": "dhayari-luxury-apartments",
+        "keyword": "Dhayari Luxury Apartments"
+      },
+      {
+        "slug": "dhayari-premium-flats",
+        "keyword": "Dhayari Premium Flats"
+      },
+      {
+        "slug": "dhayari-new-launch-projects",
+        "keyword": "Dhayari New Launch Projects"
+      },
+      {
+        "slug": "dhayari-township-projects",
+        "keyword": "Dhayari Township Projects"
+      },
+      {
+        "slug": "dhayari-real-estate-investment",
+        "keyword": "Dhayari Real Estate Investment"
+      },
+      {
+        "slug": "dhayari-1bhk-flats",
+        "keyword": "Dhayari 1BHK Flats"
+      },
+      {
+        "slug": "dhayari-2bhk-flats",
+        "keyword": "Dhayari 2BHK Flats"
+      },
+      {
+        "slug": "dhayari-3bhk-luxury-homes",
+        "keyword": "Dhayari 3BHK Luxury Homes"
+      },
+      {
+        "slug": "dhayari-4bhk-premium-apartments",
+        "keyword": "Dhayari 4BHK Premium Apartments"
+      },
+      {
+        "slug": "dhayari-5bhk-villas",
+        "keyword": "Dhayari 5BHK Villas"
+      },
+      {
+        "slug": "dhayari-1-bhk",
+        "keyword": "Dhayari 1 BHK"
+      },
+      {
+        "slug": "dhayari-2-bhk",
+        "keyword": "Dhayari 2 BHK"
+      },
+      {
+        "slug": "dhayari-3-bhk",
+        "keyword": "Dhayari 3 BHK"
+      },
+      {
+        "slug": "dhayari-4-bhk",
+        "keyword": "Dhayari 4 BHK"
+      },
+      {
+        "slug": "dhayari-studio-apartments",
+        "keyword": "Dhayari Studio Apartments"
+      },
+      {
+        "slug": "dhayari-duplex-apartments",
+        "keyword": "Dhayari Duplex Apartments"
+      },
+      {
+        "slug": "dhayari-sky-duplex",
+        "keyword": "Dhayari Sky Duplex"
+      },
+      {
+        "slug": "dhayari-simplex-apartments",
+        "keyword": "Dhayari Simplex Apartments"
+      },
+      {
+        "slug": "dhayari-penthouses",
+        "keyword": "Dhayari Penthouses"
+      },
+      {
+        "slug": "dhayari-double-height-homes",
+        "keyword": "Dhayari Double-Height Homes"
+      },
+      {
+        "slug": "dhayari-private-plunge-pool-flats",
+        "keyword": "Dhayari Private Plunge Pool Flats"
+      },
+      {
+        "slug": "dhayari-nri-premium-homes",
+        "keyword": "Dhayari NRI Premium Homes"
+      },
+      {
+        "slug": "dhayari-properties",
+        "keyword": "Dhayari Properties"
+      },
+      {
+        "slug": "dhayari-flats",
+        "keyword": "Dhayari Flats"
+      },
+      {
+        "slug": "dhayari-villas",
+        "keyword": "Dhayari Villas"
+      },
+      {
+        "slug": "dhayari-row-houses",
+        "keyword": "Dhayari Row Houses"
+      },
+      {
+        "slug": "dhayari-commercial-real-estate",
+        "keyword": "Dhayari Commercial Real Estate"
+      },
+      {
+        "slug": "dhayari-retail-spaces",
+        "keyword": "Dhayari Retail Spaces"
+      },
+      {
+        "slug": "dhayari-office-spaces",
+        "keyword": "Dhayari Office Spaces"
+      },
+      {
+        "slug": "dhayari-ready-possession",
+        "keyword": "Dhayari Ready Possession"
+      },
+      {
+        "slug": "dhayari-under-construction",
+        "keyword": "Dhayari Under Construction"
+      },
+      {
+        "slug": "dhayari-it-park-homes",
+        "keyword": "Dhayari IT Park Homes"
+      },
+      {
+        "slug": "dhayari-mla-homes",
+        "keyword": "Dhayari MLA Homes"
+      },
+      {
+        "slug": "dhayari-vtp-projects",
+        "keyword": "Dhayari VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-nanded-city",
+    "title": "Nanded City Real Estate & Properties",
+    "description": "Nanded City is a massive, well-established integrated township ecosystem.",
+    "slugs": [
+      {
+        "slug": "luxury-apartments-in-nanded-city",
+        "keyword": "Luxury Apartments in Nanded City"
+      },
+      {
+        "slug": "premium-flats-in-nanded-city",
+        "keyword": "Premium Flats in Nanded City"
+      },
+      {
+        "slug": "new-launch-projects-in-nanded-city",
+        "keyword": "New Launch Projects in Nanded City"
+      },
+      {
+        "slug": "township-projects-in-nanded-city",
+        "keyword": "Township Projects in Nanded City"
+      },
+      {
+        "slug": "real-estate-investment-in-nanded-city",
+        "keyword": "Real Estate Investment in Nanded City"
+      },
+      {
+        "slug": "1bhk-in-nanded-city",
+        "keyword": "1BHK in Nanded City"
+      },
+      {
+        "slug": "2bhk-in-nanded-city",
+        "keyword": "2BHK in Nanded City"
+      },
+      {
+        "slug": "3bhk-in-nanded-city",
+        "keyword": "3BHK in Nanded City"
+      },
+      {
+        "slug": "4bhk-in-nanded-city",
+        "keyword": "4BHK in Nanded City"
+      },
+      {
+        "slug": "5bhk-in-nanded-city",
+        "keyword": "5BHK in Nanded City"
+      },
+      {
+        "slug": "1-bhk-flats-in-nanded-city",
+        "keyword": "1 BHK Flats in Nanded City"
+      },
+      {
+        "slug": "2-bhk-flats-in-nanded-city",
+        "keyword": "2 BHK Flats in Nanded City"
+      },
+      {
+        "slug": "3-bhk-flats-in-nanded-city",
+        "keyword": "3 BHK Flats in Nanded City"
+      },
+      {
+        "slug": "4-bhk-flats-in-nanded-city",
+        "keyword": "4 BHK Flats in Nanded City"
+      },
+      {
+        "slug": "studio-apartments-in-nanded-city",
+        "keyword": "Studio Apartments in Nanded City"
+      },
+      {
+        "slug": "luxury-duplex-in-nanded-city",
+        "keyword": "Luxury Duplex in Nanded City"
+      },
+      {
+        "slug": "sky-duplex-in-nanded-city",
+        "keyword": "Sky Duplex in Nanded City"
+      },
+      {
+        "slug": "simplex-flats-in-nanded-city",
+        "keyword": "Simplex Flats in Nanded City"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-nanded-city",
+        "keyword": "Ultra-Luxury Penthouse in Nanded City"
+      },
+      {
+        "slug": "double-height-living-in-nanded-city",
+        "keyword": "Double-Height Living in Nanded City"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-nanded-city",
+        "keyword": "Apartments with Private Pool in Nanded City"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-nanded-city",
+        "keyword": "NRI Real Estate Investment in Nanded City"
+      },
+      {
+        "slug": "properties-in-nanded-city",
+        "keyword": "Properties in Nanded City"
+      },
+      {
+        "slug": "flats-in-nanded-city",
+        "keyword": "Flats in Nanded City"
+      },
+      {
+        "slug": "villas-in-nanded-city",
+        "keyword": "Villas in Nanded City"
+      },
+      {
+        "slug": "row-houses-in-nanded-city",
+        "keyword": "Row Houses in Nanded City"
+      },
+      {
+        "slug": "commercial-properties-in-nanded-city",
+        "keyword": "Commercial Properties in Nanded City"
+      },
+      {
+        "slug": "retail-shops-in-nanded-city",
+        "keyword": "Retail Shops in Nanded City"
+      },
+      {
+        "slug": "office-spaces-in-nanded-city",
+        "keyword": "Office Spaces in Nanded City"
+      },
+      {
+        "slug": "ready-possession-flats-in-nanded-city",
+        "keyword": "Ready Possession Flats in Nanded City"
+      },
+      {
+        "slug": "under-construction-projects-in-nanded-city",
+        "keyword": "Under Construction Projects in Nanded City"
+      },
+      {
+        "slug": "homes-near-it-park-in-nanded-city",
+        "keyword": "Homes near IT Park in Nanded City"
+      },
+      {
+        "slug": "maximum-livable-area-homes-in-nanded-city",
+        "keyword": "Maximum Livable Area Homes in Nanded City"
+      },
+      {
+        "slug": "vtp-projects-in-nanded-city",
+        "keyword": "VTP Projects in Nanded City"
+      },
+      {
+        "slug": "nanded-city-luxury-apartments",
+        "keyword": "Nanded City Luxury Apartments"
+      },
+      {
+        "slug": "nanded-city-premium-flats",
+        "keyword": "Nanded City Premium Flats"
+      },
+      {
+        "slug": "nanded-city-new-launch-projects",
+        "keyword": "Nanded City New Launch Projects"
+      },
+      {
+        "slug": "nanded-city-township-projects",
+        "keyword": "Nanded City Township Projects"
+      },
+      {
+        "slug": "nanded-city-real-estate-investment",
+        "keyword": "Nanded City Real Estate Investment"
+      },
+      {
+        "slug": "nanded-city-1bhk-flats",
+        "keyword": "Nanded City 1BHK Flats"
+      },
+      {
+        "slug": "nanded-city-2bhk-flats",
+        "keyword": "Nanded City 2BHK Flats"
+      },
+      {
+        "slug": "nanded-city-3bhk-luxury-homes",
+        "keyword": "Nanded City 3BHK Luxury Homes"
+      },
+      {
+        "slug": "nanded-city-4bhk-premium-apartments",
+        "keyword": "Nanded City 4BHK Premium Apartments"
+      },
+      {
+        "slug": "nanded-city-5bhk-villas",
+        "keyword": "Nanded City 5BHK Villas"
+      },
+      {
+        "slug": "nanded-city-1-bhk",
+        "keyword": "Nanded City 1 BHK"
+      },
+      {
+        "slug": "nanded-city-2-bhk",
+        "keyword": "Nanded City 2 BHK"
+      },
+      {
+        "slug": "nanded-city-3-bhk",
+        "keyword": "Nanded City 3 BHK"
+      },
+      {
+        "slug": "nanded-city-4-bhk",
+        "keyword": "Nanded City 4 BHK"
+      },
+      {
+        "slug": "nanded-city-studio-apartments",
+        "keyword": "Nanded City Studio Apartments"
+      },
+      {
+        "slug": "nanded-city-duplex-apartments",
+        "keyword": "Nanded City Duplex Apartments"
+      },
+      {
+        "slug": "nanded-city-sky-duplex",
+        "keyword": "Nanded City Sky Duplex"
+      },
+      {
+        "slug": "nanded-city-simplex-apartments",
+        "keyword": "Nanded City Simplex Apartments"
+      },
+      {
+        "slug": "nanded-city-penthouses",
+        "keyword": "Nanded City Penthouses"
+      },
+      {
+        "slug": "nanded-city-double-height-homes",
+        "keyword": "Nanded City Double-Height Homes"
+      },
+      {
+        "slug": "nanded-city-private-plunge-pool-flats",
+        "keyword": "Nanded City Private Plunge Pool Flats"
+      },
+      {
+        "slug": "nanded-city-nri-premium-homes",
+        "keyword": "Nanded City NRI Premium Homes"
+      },
+      {
+        "slug": "nanded-city-properties",
+        "keyword": "Nanded City Properties"
+      },
+      {
+        "slug": "nanded-city-flats",
+        "keyword": "Nanded City Flats"
+      },
+      {
+        "slug": "nanded-city-villas",
+        "keyword": "Nanded City Villas"
+      },
+      {
+        "slug": "nanded-city-row-houses",
+        "keyword": "Nanded City Row Houses"
+      },
+      {
+        "slug": "nanded-city-commercial-real-estate",
+        "keyword": "Nanded City Commercial Real Estate"
+      },
+      {
+        "slug": "nanded-city-retail-spaces",
+        "keyword": "Nanded City Retail Spaces"
+      },
+      {
+        "slug": "nanded-city-office-spaces",
+        "keyword": "Nanded City Office Spaces"
+      },
+      {
+        "slug": "nanded-city-ready-possession",
+        "keyword": "Nanded City Ready Possession"
+      },
+      {
+        "slug": "nanded-city-under-construction",
+        "keyword": "Nanded City Under Construction"
+      },
+      {
+        "slug": "nanded-city-it-park-homes",
+        "keyword": "Nanded City IT Park Homes"
+      },
+      {
+        "slug": "nanded-city-mla-homes",
+        "keyword": "Nanded City MLA Homes"
+      },
+      {
+        "slug": "nanded-city-vtp-projects",
+        "keyword": "Nanded City VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-pimple-saudagar",
+    "title": "Pimple Saudagar Real Estate & Properties",
+    "description": "Pimple Saudagar is a highly cosmopolitan hub preferred by PCMC IT professionals.",
+    "slugs": [
+      {
+        "slug": "luxury-apartments-in-pimple-saudagar",
+        "keyword": "Luxury Apartments in Pimple Saudagar"
+      },
+      {
+        "slug": "premium-flats-in-pimple-saudagar",
+        "keyword": "Premium Flats in Pimple Saudagar"
+      },
+      {
+        "slug": "new-launch-projects-in-pimple-saudagar",
+        "keyword": "New Launch Projects in Pimple Saudagar"
+      },
+      {
+        "slug": "township-projects-in-pimple-saudagar",
+        "keyword": "Township Projects in Pimple Saudagar"
+      },
+      {
+        "slug": "real-estate-investment-in-pimple-saudagar",
+        "keyword": "Real Estate Investment in Pimple Saudagar"
+      },
+      {
+        "slug": "1bhk-in-pimple-saudagar",
+        "keyword": "1BHK in Pimple Saudagar"
+      },
+      {
+        "slug": "2bhk-in-pimple-saudagar",
+        "keyword": "2BHK in Pimple Saudagar"
+      },
+      {
+        "slug": "3bhk-in-pimple-saudagar",
+        "keyword": "3BHK in Pimple Saudagar"
+      },
+      {
+        "slug": "4bhk-in-pimple-saudagar",
+        "keyword": "4BHK in Pimple Saudagar"
+      },
+      {
+        "slug": "5bhk-in-pimple-saudagar",
+        "keyword": "5BHK in Pimple Saudagar"
+      },
+      {
+        "slug": "1-bhk-flats-in-pimple-saudagar",
+        "keyword": "1 BHK Flats in Pimple Saudagar"
+      },
+      {
+        "slug": "2-bhk-flats-in-pimple-saudagar",
+        "keyword": "2 BHK Flats in Pimple Saudagar"
+      },
+      {
+        "slug": "3-bhk-flats-in-pimple-saudagar",
+        "keyword": "3 BHK Flats in Pimple Saudagar"
+      },
+      {
+        "slug": "4-bhk-flats-in-pimple-saudagar",
+        "keyword": "4 BHK Flats in Pimple Saudagar"
+      },
+      {
+        "slug": "studio-apartments-in-pimple-saudagar",
+        "keyword": "Studio Apartments in Pimple Saudagar"
+      },
+      {
+        "slug": "luxury-duplex-in-pimple-saudagar",
+        "keyword": "Luxury Duplex in Pimple Saudagar"
+      },
+      {
+        "slug": "sky-duplex-in-pimple-saudagar",
+        "keyword": "Sky Duplex in Pimple Saudagar"
+      },
+      {
+        "slug": "simplex-flats-in-pimple-saudagar",
+        "keyword": "Simplex Flats in Pimple Saudagar"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-pimple-saudagar",
+        "keyword": "Ultra-Luxury Penthouse in Pimple Saudagar"
+      },
+      {
+        "slug": "double-height-living-in-pimple-saudagar",
+        "keyword": "Double-Height Living in Pimple Saudagar"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-pimple-saudagar",
+        "keyword": "Apartments with Private Pool in Pimple Saudagar"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-pimple-saudagar",
+        "keyword": "NRI Real Estate Investment in Pimple Saudagar"
+      },
+      {
+        "slug": "properties-in-pimple-saudagar",
+        "keyword": "Properties in Pimple Saudagar"
+      },
+      {
+        "slug": "flats-in-pimple-saudagar",
+        "keyword": "Flats in Pimple Saudagar"
+      },
+      {
+        "slug": "villas-in-pimple-saudagar",
+        "keyword": "Villas in Pimple Saudagar"
+      },
+      {
+        "slug": "row-houses-in-pimple-saudagar",
+        "keyword": "Row Houses in Pimple Saudagar"
+      },
+      {
+        "slug": "commercial-properties-in-pimple-saudagar",
+        "keyword": "Commercial Properties in Pimple Saudagar"
+      },
+      {
+        "slug": "retail-shops-in-pimple-saudagar",
+        "keyword": "Retail Shops in Pimple Saudagar"
+      },
+      {
+        "slug": "office-spaces-in-pimple-saudagar",
+        "keyword": "Office Spaces in Pimple Saudagar"
+      },
+      {
+        "slug": "ready-possession-flats-in-pimple-saudagar",
+        "keyword": "Ready Possession Flats in Pimple Saudagar"
+      },
+      {
+        "slug": "under-construction-projects-in-pimple-saudagar",
+        "keyword": "Under Construction Projects in Pimple Saudagar"
+      },
+      {
+        "slug": "homes-near-it-park-in-pimple-saudagar",
+        "keyword": "Homes near IT Park in Pimple Saudagar"
+      },
+      {
+        "slug": "maximum-livable-area-homes-in-pimple-saudagar",
+        "keyword": "Maximum Livable Area Homes in Pimple Saudagar"
+      },
+      {
+        "slug": "vtp-projects-in-pimple-saudagar",
+        "keyword": "VTP Projects in Pimple Saudagar"
+      },
+      {
+        "slug": "pimple-saudagar-luxury-apartments",
+        "keyword": "Pimple Saudagar Luxury Apartments"
+      },
+      {
+        "slug": "pimple-saudagar-premium-flats",
+        "keyword": "Pimple Saudagar Premium Flats"
+      },
+      {
+        "slug": "pimple-saudagar-new-launch-projects",
+        "keyword": "Pimple Saudagar New Launch Projects"
+      },
+      {
+        "slug": "pimple-saudagar-township-projects",
+        "keyword": "Pimple Saudagar Township Projects"
+      },
+      {
+        "slug": "pimple-saudagar-real-estate-investment",
+        "keyword": "Pimple Saudagar Real Estate Investment"
+      },
+      {
+        "slug": "pimple-saudagar-1bhk-flats",
+        "keyword": "Pimple Saudagar 1BHK Flats"
+      },
+      {
+        "slug": "pimple-saudagar-2bhk-flats",
+        "keyword": "Pimple Saudagar 2BHK Flats"
+      },
+      {
+        "slug": "pimple-saudagar-3bhk-luxury-homes",
+        "keyword": "Pimple Saudagar 3BHK Luxury Homes"
+      },
+      {
+        "slug": "pimple-saudagar-4bhk-premium-apartments",
+        "keyword": "Pimple Saudagar 4BHK Premium Apartments"
+      },
+      {
+        "slug": "pimple-saudagar-5bhk-villas",
+        "keyword": "Pimple Saudagar 5BHK Villas"
+      },
+      {
+        "slug": "pimple-saudagar-1-bhk",
+        "keyword": "Pimple Saudagar 1 BHK"
+      },
+      {
+        "slug": "pimple-saudagar-2-bhk",
+        "keyword": "Pimple Saudagar 2 BHK"
+      },
+      {
+        "slug": "pimple-saudagar-3-bhk",
+        "keyword": "Pimple Saudagar 3 BHK"
+      },
+      {
+        "slug": "pimple-saudagar-4-bhk",
+        "keyword": "Pimple Saudagar 4 BHK"
+      },
+      {
+        "slug": "pimple-saudagar-studio-apartments",
+        "keyword": "Pimple Saudagar Studio Apartments"
+      },
+      {
+        "slug": "pimple-saudagar-duplex-apartments",
+        "keyword": "Pimple Saudagar Duplex Apartments"
+      },
+      {
+        "slug": "pimple-saudagar-sky-duplex",
+        "keyword": "Pimple Saudagar Sky Duplex"
+      },
+      {
+        "slug": "pimple-saudagar-simplex-apartments",
+        "keyword": "Pimple Saudagar Simplex Apartments"
+      },
+      {
+        "slug": "pimple-saudagar-penthouses",
+        "keyword": "Pimple Saudagar Penthouses"
+      },
+      {
+        "slug": "pimple-saudagar-double-height-homes",
+        "keyword": "Pimple Saudagar Double-Height Homes"
+      },
+      {
+        "slug": "pimple-saudagar-private-plunge-pool-flats",
+        "keyword": "Pimple Saudagar Private Plunge Pool Flats"
+      },
+      {
+        "slug": "pimple-saudagar-nri-premium-homes",
+        "keyword": "Pimple Saudagar NRI Premium Homes"
+      },
+      {
+        "slug": "pimple-saudagar-properties",
+        "keyword": "Pimple Saudagar Properties"
+      },
+      {
+        "slug": "pimple-saudagar-flats",
+        "keyword": "Pimple Saudagar Flats"
+      },
+      {
+        "slug": "pimple-saudagar-villas",
+        "keyword": "Pimple Saudagar Villas"
+      },
+      {
+        "slug": "pimple-saudagar-row-houses",
+        "keyword": "Pimple Saudagar Row Houses"
+      },
+      {
+        "slug": "pimple-saudagar-commercial-real-estate",
+        "keyword": "Pimple Saudagar Commercial Real Estate"
+      },
+      {
+        "slug": "pimple-saudagar-retail-spaces",
+        "keyword": "Pimple Saudagar Retail Spaces"
+      },
+      {
+        "slug": "pimple-saudagar-office-spaces",
+        "keyword": "Pimple Saudagar Office Spaces"
+      },
+      {
+        "slug": "pimple-saudagar-ready-possession",
+        "keyword": "Pimple Saudagar Ready Possession"
+      },
+      {
+        "slug": "pimple-saudagar-under-construction",
+        "keyword": "Pimple Saudagar Under Construction"
+      },
+      {
+        "slug": "pimple-saudagar-it-park-homes",
+        "keyword": "Pimple Saudagar IT Park Homes"
+      },
+      {
+        "slug": "pimple-saudagar-mla-homes",
+        "keyword": "Pimple Saudagar MLA Homes"
+      },
+      {
+        "slug": "pimple-saudagar-vtp-projects",
+        "keyword": "Pimple Saudagar VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-pimple-nilakh",
+    "title": "Pimple Nilakh Real Estate & Properties",
+    "description": "Pimple Nilakh offers excellent connectivity to Baner and Wakad IT hubs.",
+    "slugs": [
+      {
+        "slug": "luxury-apartments-in-pimple-nilakh",
+        "keyword": "Luxury Apartments in Pimple Nilakh"
+      },
+      {
+        "slug": "premium-flats-in-pimple-nilakh",
+        "keyword": "Premium Flats in Pimple Nilakh"
+      },
+      {
+        "slug": "new-launch-projects-in-pimple-nilakh",
+        "keyword": "New Launch Projects in Pimple Nilakh"
+      },
+      {
+        "slug": "township-projects-in-pimple-nilakh",
+        "keyword": "Township Projects in Pimple Nilakh"
+      },
+      {
+        "slug": "real-estate-investment-in-pimple-nilakh",
+        "keyword": "Real Estate Investment in Pimple Nilakh"
+      },
+      {
+        "slug": "1bhk-in-pimple-nilakh",
+        "keyword": "1BHK in Pimple Nilakh"
+      },
+      {
+        "slug": "2bhk-in-pimple-nilakh",
+        "keyword": "2BHK in Pimple Nilakh"
+      },
+      {
+        "slug": "3bhk-in-pimple-nilakh",
+        "keyword": "3BHK in Pimple Nilakh"
+      },
+      {
+        "slug": "4bhk-in-pimple-nilakh",
+        "keyword": "4BHK in Pimple Nilakh"
+      },
+      {
+        "slug": "5bhk-in-pimple-nilakh",
+        "keyword": "5BHK in Pimple Nilakh"
+      },
+      {
+        "slug": "1-bhk-flats-in-pimple-nilakh",
+        "keyword": "1 BHK Flats in Pimple Nilakh"
+      },
+      {
+        "slug": "2-bhk-flats-in-pimple-nilakh",
+        "keyword": "2 BHK Flats in Pimple Nilakh"
+      },
+      {
+        "slug": "3-bhk-flats-in-pimple-nilakh",
+        "keyword": "3 BHK Flats in Pimple Nilakh"
+      },
+      {
+        "slug": "4-bhk-flats-in-pimple-nilakh",
+        "keyword": "4 BHK Flats in Pimple Nilakh"
+      },
+      {
+        "slug": "studio-apartments-in-pimple-nilakh",
+        "keyword": "Studio Apartments in Pimple Nilakh"
+      },
+      {
+        "slug": "luxury-duplex-in-pimple-nilakh",
+        "keyword": "Luxury Duplex in Pimple Nilakh"
+      },
+      {
+        "slug": "sky-duplex-in-pimple-nilakh",
+        "keyword": "Sky Duplex in Pimple Nilakh"
+      },
+      {
+        "slug": "simplex-flats-in-pimple-nilakh",
+        "keyword": "Simplex Flats in Pimple Nilakh"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-pimple-nilakh",
+        "keyword": "Ultra-Luxury Penthouse in Pimple Nilakh"
+      },
+      {
+        "slug": "double-height-living-in-pimple-nilakh",
+        "keyword": "Double-Height Living in Pimple Nilakh"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-pimple-nilakh",
+        "keyword": "Apartments with Private Pool in Pimple Nilakh"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-pimple-nilakh",
+        "keyword": "NRI Real Estate Investment in Pimple Nilakh"
+      },
+      {
+        "slug": "properties-in-pimple-nilakh",
+        "keyword": "Properties in Pimple Nilakh"
+      },
+      {
+        "slug": "flats-in-pimple-nilakh",
+        "keyword": "Flats in Pimple Nilakh"
+      },
+      {
+        "slug": "villas-in-pimple-nilakh",
+        "keyword": "Villas in Pimple Nilakh"
+      },
+      {
+        "slug": "row-houses-in-pimple-nilakh",
+        "keyword": "Row Houses in Pimple Nilakh"
+      },
+      {
+        "slug": "commercial-properties-in-pimple-nilakh",
+        "keyword": "Commercial Properties in Pimple Nilakh"
+      },
+      {
+        "slug": "retail-shops-in-pimple-nilakh",
+        "keyword": "Retail Shops in Pimple Nilakh"
+      },
+      {
+        "slug": "office-spaces-in-pimple-nilakh",
+        "keyword": "Office Spaces in Pimple Nilakh"
+      },
+      {
+        "slug": "ready-possession-flats-in-pimple-nilakh",
+        "keyword": "Ready Possession Flats in Pimple Nilakh"
+      },
+      {
+        "slug": "under-construction-projects-in-pimple-nilakh",
+        "keyword": "Under Construction Projects in Pimple Nilakh"
+      },
+      {
+        "slug": "homes-near-it-park-in-pimple-nilakh",
+        "keyword": "Homes near IT Park in Pimple Nilakh"
+      },
+      {
+        "slug": "maximum-livable-area-homes-in-pimple-nilakh",
+        "keyword": "Maximum Livable Area Homes in Pimple Nilakh"
+      },
+      {
+        "slug": "vtp-projects-in-pimple-nilakh",
+        "keyword": "VTP Projects in Pimple Nilakh"
+      },
+      {
+        "slug": "pimple-nilakh-luxury-apartments",
+        "keyword": "Pimple Nilakh Luxury Apartments"
+      },
+      {
+        "slug": "pimple-nilakh-premium-flats",
+        "keyword": "Pimple Nilakh Premium Flats"
+      },
+      {
+        "slug": "pimple-nilakh-new-launch-projects",
+        "keyword": "Pimple Nilakh New Launch Projects"
+      },
+      {
+        "slug": "pimple-nilakh-township-projects",
+        "keyword": "Pimple Nilakh Township Projects"
+      },
+      {
+        "slug": "pimple-nilakh-real-estate-investment",
+        "keyword": "Pimple Nilakh Real Estate Investment"
+      },
+      {
+        "slug": "pimple-nilakh-1bhk-flats",
+        "keyword": "Pimple Nilakh 1BHK Flats"
+      },
+      {
+        "slug": "pimple-nilakh-2bhk-flats",
+        "keyword": "Pimple Nilakh 2BHK Flats"
+      },
+      {
+        "slug": "pimple-nilakh-3bhk-luxury-homes",
+        "keyword": "Pimple Nilakh 3BHK Luxury Homes"
+      },
+      {
+        "slug": "pimple-nilakh-4bhk-premium-apartments",
+        "keyword": "Pimple Nilakh 4BHK Premium Apartments"
+      },
+      {
+        "slug": "pimple-nilakh-5bhk-villas",
+        "keyword": "Pimple Nilakh 5BHK Villas"
+      },
+      {
+        "slug": "pimple-nilakh-1-bhk",
+        "keyword": "Pimple Nilakh 1 BHK"
+      },
+      {
+        "slug": "pimple-nilakh-2-bhk",
+        "keyword": "Pimple Nilakh 2 BHK"
+      },
+      {
+        "slug": "pimple-nilakh-3-bhk",
+        "keyword": "Pimple Nilakh 3 BHK"
+      },
+      {
+        "slug": "pimple-nilakh-4-bhk",
+        "keyword": "Pimple Nilakh 4 BHK"
+      },
+      {
+        "slug": "pimple-nilakh-studio-apartments",
+        "keyword": "Pimple Nilakh Studio Apartments"
+      },
+      {
+        "slug": "pimple-nilakh-duplex-apartments",
+        "keyword": "Pimple Nilakh Duplex Apartments"
+      },
+      {
+        "slug": "pimple-nilakh-sky-duplex",
+        "keyword": "Pimple Nilakh Sky Duplex"
+      },
+      {
+        "slug": "pimple-nilakh-simplex-apartments",
+        "keyword": "Pimple Nilakh Simplex Apartments"
+      },
+      {
+        "slug": "pimple-nilakh-penthouses",
+        "keyword": "Pimple Nilakh Penthouses"
+      },
+      {
+        "slug": "pimple-nilakh-double-height-homes",
+        "keyword": "Pimple Nilakh Double-Height Homes"
+      },
+      {
+        "slug": "pimple-nilakh-private-plunge-pool-flats",
+        "keyword": "Pimple Nilakh Private Plunge Pool Flats"
+      },
+      {
+        "slug": "pimple-nilakh-nri-premium-homes",
+        "keyword": "Pimple Nilakh NRI Premium Homes"
+      },
+      {
+        "slug": "pimple-nilakh-properties",
+        "keyword": "Pimple Nilakh Properties"
+      },
+      {
+        "slug": "pimple-nilakh-flats",
+        "keyword": "Pimple Nilakh Flats"
+      },
+      {
+        "slug": "pimple-nilakh-villas",
+        "keyword": "Pimple Nilakh Villas"
+      },
+      {
+        "slug": "pimple-nilakh-row-houses",
+        "keyword": "Pimple Nilakh Row Houses"
+      },
+      {
+        "slug": "pimple-nilakh-commercial-real-estate",
+        "keyword": "Pimple Nilakh Commercial Real Estate"
+      },
+      {
+        "slug": "pimple-nilakh-retail-spaces",
+        "keyword": "Pimple Nilakh Retail Spaces"
+      },
+      {
+        "slug": "pimple-nilakh-office-spaces",
+        "keyword": "Pimple Nilakh Office Spaces"
+      },
+      {
+        "slug": "pimple-nilakh-ready-possession",
+        "keyword": "Pimple Nilakh Ready Possession"
+      },
+      {
+        "slug": "pimple-nilakh-under-construction",
+        "keyword": "Pimple Nilakh Under Construction"
+      },
+      {
+        "slug": "pimple-nilakh-it-park-homes",
+        "keyword": "Pimple Nilakh IT Park Homes"
+      },
+      {
+        "slug": "pimple-nilakh-mla-homes",
+        "keyword": "Pimple Nilakh MLA Homes"
+      },
+      {
+        "slug": "pimple-nilakh-vtp-projects",
+        "keyword": "Pimple Nilakh VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-chikhali",
+    "title": "Chikhali Real Estate & Properties",
+    "description": "Chikhali is witnessing rapid industrial and residential growth in the PCMC belt.",
+    "slugs": [
+      {
+        "slug": "luxury-apartments-in-chikhali",
+        "keyword": "Luxury Apartments in Chikhali"
+      },
+      {
+        "slug": "premium-flats-in-chikhali",
+        "keyword": "Premium Flats in Chikhali"
+      },
+      {
+        "slug": "new-launch-projects-in-chikhali",
+        "keyword": "New Launch Projects in Chikhali"
+      },
+      {
+        "slug": "township-projects-in-chikhali",
+        "keyword": "Township Projects in Chikhali"
+      },
+      {
+        "slug": "real-estate-investment-in-chikhali",
+        "keyword": "Real Estate Investment in Chikhali"
+      },
+      {
+        "slug": "1bhk-in-chikhali",
+        "keyword": "1BHK in Chikhali"
+      },
+      {
+        "slug": "2bhk-in-chikhali",
+        "keyword": "2BHK in Chikhali"
+      },
+      {
+        "slug": "3bhk-in-chikhali",
+        "keyword": "3BHK in Chikhali"
+      },
+      {
+        "slug": "4bhk-in-chikhali",
+        "keyword": "4BHK in Chikhali"
+      },
+      {
+        "slug": "5bhk-in-chikhali",
+        "keyword": "5BHK in Chikhali"
+      },
+      {
+        "slug": "1-bhk-flats-in-chikhali",
+        "keyword": "1 BHK Flats in Chikhali"
+      },
+      {
+        "slug": "2-bhk-flats-in-chikhali",
+        "keyword": "2 BHK Flats in Chikhali"
+      },
+      {
+        "slug": "3-bhk-flats-in-chikhali",
+        "keyword": "3 BHK Flats in Chikhali"
+      },
+      {
+        "slug": "4-bhk-flats-in-chikhali",
+        "keyword": "4 BHK Flats in Chikhali"
+      },
+      {
+        "slug": "studio-apartments-in-chikhali",
+        "keyword": "Studio Apartments in Chikhali"
+      },
+      {
+        "slug": "luxury-duplex-in-chikhali",
+        "keyword": "Luxury Duplex in Chikhali"
+      },
+      {
+        "slug": "sky-duplex-in-chikhali",
+        "keyword": "Sky Duplex in Chikhali"
+      },
+      {
+        "slug": "simplex-flats-in-chikhali",
+        "keyword": "Simplex Flats in Chikhali"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-chikhali",
+        "keyword": "Ultra-Luxury Penthouse in Chikhali"
+      },
+      {
+        "slug": "double-height-living-in-chikhali",
+        "keyword": "Double-Height Living in Chikhali"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-chikhali",
+        "keyword": "Apartments with Private Pool in Chikhali"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-chikhali",
+        "keyword": "NRI Real Estate Investment in Chikhali"
+      },
+      {
+        "slug": "properties-in-chikhali",
+        "keyword": "Properties in Chikhali"
+      },
+      {
+        "slug": "flats-in-chikhali",
+        "keyword": "Flats in Chikhali"
+      },
+      {
+        "slug": "villas-in-chikhali",
+        "keyword": "Villas in Chikhali"
+      },
+      {
+        "slug": "row-houses-in-chikhali",
+        "keyword": "Row Houses in Chikhali"
+      },
+      {
+        "slug": "commercial-properties-in-chikhali",
+        "keyword": "Commercial Properties in Chikhali"
+      },
+      {
+        "slug": "retail-shops-in-chikhali",
+        "keyword": "Retail Shops in Chikhali"
+      },
+      {
+        "slug": "office-spaces-in-chikhali",
+        "keyword": "Office Spaces in Chikhali"
+      },
+      {
+        "slug": "ready-possession-flats-in-chikhali",
+        "keyword": "Ready Possession Flats in Chikhali"
+      },
+      {
+        "slug": "under-construction-projects-in-chikhali",
+        "keyword": "Under Construction Projects in Chikhali"
+      },
+      {
+        "slug": "homes-near-it-park-in-chikhali",
+        "keyword": "Homes near IT Park in Chikhali"
+      },
+      {
+        "slug": "maximum-livable-area-homes-in-chikhali",
+        "keyword": "Maximum Livable Area Homes in Chikhali"
+      },
+      {
+        "slug": "vtp-projects-in-chikhali",
+        "keyword": "VTP Projects in Chikhali"
+      },
+      {
+        "slug": "chikhali-luxury-apartments",
+        "keyword": "Chikhali Luxury Apartments"
+      },
+      {
+        "slug": "chikhali-premium-flats",
+        "keyword": "Chikhali Premium Flats"
+      },
+      {
+        "slug": "chikhali-new-launch-projects",
+        "keyword": "Chikhali New Launch Projects"
+      },
+      {
+        "slug": "chikhali-township-projects",
+        "keyword": "Chikhali Township Projects"
+      },
+      {
+        "slug": "chikhali-real-estate-investment",
+        "keyword": "Chikhali Real Estate Investment"
+      },
+      {
+        "slug": "chikhali-1bhk-flats",
+        "keyword": "Chikhali 1BHK Flats"
+      },
+      {
+        "slug": "chikhali-2bhk-flats",
+        "keyword": "Chikhali 2BHK Flats"
+      },
+      {
+        "slug": "chikhali-3bhk-luxury-homes",
+        "keyword": "Chikhali 3BHK Luxury Homes"
+      },
+      {
+        "slug": "chikhali-4bhk-premium-apartments",
+        "keyword": "Chikhali 4BHK Premium Apartments"
+      },
+      {
+        "slug": "chikhali-5bhk-villas",
+        "keyword": "Chikhali 5BHK Villas"
+      },
+      {
+        "slug": "chikhali-1-bhk",
+        "keyword": "Chikhali 1 BHK"
+      },
+      {
+        "slug": "chikhali-2-bhk",
+        "keyword": "Chikhali 2 BHK"
+      },
+      {
+        "slug": "chikhali-3-bhk",
+        "keyword": "Chikhali 3 BHK"
+      },
+      {
+        "slug": "chikhali-4-bhk",
+        "keyword": "Chikhali 4 BHK"
+      },
+      {
+        "slug": "chikhali-studio-apartments",
+        "keyword": "Chikhali Studio Apartments"
+      },
+      {
+        "slug": "chikhali-duplex-apartments",
+        "keyword": "Chikhali Duplex Apartments"
+      },
+      {
+        "slug": "chikhali-sky-duplex",
+        "keyword": "Chikhali Sky Duplex"
+      },
+      {
+        "slug": "chikhali-simplex-apartments",
+        "keyword": "Chikhali Simplex Apartments"
+      },
+      {
+        "slug": "chikhali-penthouses",
+        "keyword": "Chikhali Penthouses"
+      },
+      {
+        "slug": "chikhali-double-height-homes",
+        "keyword": "Chikhali Double-Height Homes"
+      },
+      {
+        "slug": "chikhali-private-plunge-pool-flats",
+        "keyword": "Chikhali Private Plunge Pool Flats"
+      },
+      {
+        "slug": "chikhali-nri-premium-homes",
+        "keyword": "Chikhali NRI Premium Homes"
+      },
+      {
+        "slug": "chikhali-properties",
+        "keyword": "Chikhali Properties"
+      },
+      {
+        "slug": "chikhali-flats",
+        "keyword": "Chikhali Flats"
+      },
+      {
+        "slug": "chikhali-villas",
+        "keyword": "Chikhali Villas"
+      },
+      {
+        "slug": "chikhali-row-houses",
+        "keyword": "Chikhali Row Houses"
+      },
+      {
+        "slug": "chikhali-commercial-real-estate",
+        "keyword": "Chikhali Commercial Real Estate"
+      },
+      {
+        "slug": "chikhali-retail-spaces",
+        "keyword": "Chikhali Retail Spaces"
+      },
+      {
+        "slug": "chikhali-office-spaces",
+        "keyword": "Chikhali Office Spaces"
+      },
+      {
+        "slug": "chikhali-ready-possession",
+        "keyword": "Chikhali Ready Possession"
+      },
+      {
+        "slug": "chikhali-under-construction",
+        "keyword": "Chikhali Under Construction"
+      },
+      {
+        "slug": "chikhali-it-park-homes",
+        "keyword": "Chikhali IT Park Homes"
+      },
+      {
+        "slug": "chikhali-mla-homes",
+        "keyword": "Chikhali MLA Homes"
+      },
+      {
+        "slug": "chikhali-vtp-projects",
+        "keyword": "Chikhali VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-charholi",
+    "title": "Charholi Real Estate & Properties",
+    "description": "Charholi is emerging as a well-planned luxury destination near the airport.",
+    "slugs": [
+      {
+        "slug": "luxury-apartments-in-charholi",
+        "keyword": "Luxury Apartments in Charholi"
+      },
+      {
+        "slug": "premium-flats-in-charholi",
+        "keyword": "Premium Flats in Charholi"
+      },
+      {
+        "slug": "new-launch-projects-in-charholi",
+        "keyword": "New Launch Projects in Charholi"
+      },
+      {
+        "slug": "township-projects-in-charholi",
+        "keyword": "Township Projects in Charholi"
+      },
+      {
+        "slug": "real-estate-investment-in-charholi",
+        "keyword": "Real Estate Investment in Charholi"
+      },
+      {
+        "slug": "1bhk-in-charholi",
+        "keyword": "1BHK in Charholi"
+      },
+      {
+        "slug": "2bhk-in-charholi",
+        "keyword": "2BHK in Charholi"
+      },
+      {
+        "slug": "3bhk-in-charholi",
+        "keyword": "3BHK in Charholi"
+      },
+      {
+        "slug": "4bhk-in-charholi",
+        "keyword": "4BHK in Charholi"
+      },
+      {
+        "slug": "5bhk-in-charholi",
+        "keyword": "5BHK in Charholi"
+      },
+      {
+        "slug": "1-bhk-flats-in-charholi",
+        "keyword": "1 BHK Flats in Charholi"
+      },
+      {
+        "slug": "2-bhk-flats-in-charholi",
+        "keyword": "2 BHK Flats in Charholi"
+      },
+      {
+        "slug": "3-bhk-flats-in-charholi",
+        "keyword": "3 BHK Flats in Charholi"
+      },
+      {
+        "slug": "4-bhk-flats-in-charholi",
+        "keyword": "4 BHK Flats in Charholi"
+      },
+      {
+        "slug": "studio-apartments-in-charholi",
+        "keyword": "Studio Apartments in Charholi"
+      },
+      {
+        "slug": "luxury-duplex-in-charholi",
+        "keyword": "Luxury Duplex in Charholi"
+      },
+      {
+        "slug": "sky-duplex-in-charholi",
+        "keyword": "Sky Duplex in Charholi"
+      },
+      {
+        "slug": "simplex-flats-in-charholi",
+        "keyword": "Simplex Flats in Charholi"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-charholi",
+        "keyword": "Ultra-Luxury Penthouse in Charholi"
+      },
+      {
+        "slug": "double-height-living-in-charholi",
+        "keyword": "Double-Height Living in Charholi"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-charholi",
+        "keyword": "Apartments with Private Pool in Charholi"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-charholi",
+        "keyword": "NRI Real Estate Investment in Charholi"
+      },
+      {
+        "slug": "properties-in-charholi",
+        "keyword": "Properties in Charholi"
+      },
+      {
+        "slug": "flats-in-charholi",
+        "keyword": "Flats in Charholi"
+      },
+      {
+        "slug": "villas-in-charholi",
+        "keyword": "Villas in Charholi"
+      },
+      {
+        "slug": "row-houses-in-charholi",
+        "keyword": "Row Houses in Charholi"
+      },
+      {
+        "slug": "commercial-properties-in-charholi",
+        "keyword": "Commercial Properties in Charholi"
+      },
+      {
+        "slug": "retail-shops-in-charholi",
+        "keyword": "Retail Shops in Charholi"
+      },
+      {
+        "slug": "office-spaces-in-charholi",
+        "keyword": "Office Spaces in Charholi"
+      },
+      {
+        "slug": "ready-possession-flats-in-charholi",
+        "keyword": "Ready Possession Flats in Charholi"
+      },
+      {
+        "slug": "under-construction-projects-in-charholi",
+        "keyword": "Under Construction Projects in Charholi"
+      },
+      {
+        "slug": "homes-near-it-park-in-charholi",
+        "keyword": "Homes near IT Park in Charholi"
+      },
+      {
+        "slug": "maximum-livable-area-homes-in-charholi",
+        "keyword": "Maximum Livable Area Homes in Charholi"
+      },
+      {
+        "slug": "vtp-projects-in-charholi",
+        "keyword": "VTP Projects in Charholi"
+      },
+      {
+        "slug": "charholi-luxury-apartments",
+        "keyword": "Charholi Luxury Apartments"
+      },
+      {
+        "slug": "charholi-premium-flats",
+        "keyword": "Charholi Premium Flats"
+      },
+      {
+        "slug": "charholi-new-launch-projects",
+        "keyword": "Charholi New Launch Projects"
+      },
+      {
+        "slug": "charholi-township-projects",
+        "keyword": "Charholi Township Projects"
+      },
+      {
+        "slug": "charholi-real-estate-investment",
+        "keyword": "Charholi Real Estate Investment"
+      },
+      {
+        "slug": "charholi-1bhk-flats",
+        "keyword": "Charholi 1BHK Flats"
+      },
+      {
+        "slug": "charholi-2bhk-flats",
+        "keyword": "Charholi 2BHK Flats"
+      },
+      {
+        "slug": "charholi-3bhk-luxury-homes",
+        "keyword": "Charholi 3BHK Luxury Homes"
+      },
+      {
+        "slug": "charholi-4bhk-premium-apartments",
+        "keyword": "Charholi 4BHK Premium Apartments"
+      },
+      {
+        "slug": "charholi-5bhk-villas",
+        "keyword": "Charholi 5BHK Villas"
+      },
+      {
+        "slug": "charholi-1-bhk",
+        "keyword": "Charholi 1 BHK"
+      },
+      {
+        "slug": "charholi-2-bhk",
+        "keyword": "Charholi 2 BHK"
+      },
+      {
+        "slug": "charholi-3-bhk",
+        "keyword": "Charholi 3 BHK"
+      },
+      {
+        "slug": "charholi-4-bhk",
+        "keyword": "Charholi 4 BHK"
+      },
+      {
+        "slug": "charholi-studio-apartments",
+        "keyword": "Charholi Studio Apartments"
+      },
+      {
+        "slug": "charholi-duplex-apartments",
+        "keyword": "Charholi Duplex Apartments"
+      },
+      {
+        "slug": "charholi-sky-duplex",
+        "keyword": "Charholi Sky Duplex"
+      },
+      {
+        "slug": "charholi-simplex-apartments",
+        "keyword": "Charholi Simplex Apartments"
+      },
+      {
+        "slug": "charholi-penthouses",
+        "keyword": "Charholi Penthouses"
+      },
+      {
+        "slug": "charholi-double-height-homes",
+        "keyword": "Charholi Double-Height Homes"
+      },
+      {
+        "slug": "charholi-private-plunge-pool-flats",
+        "keyword": "Charholi Private Plunge Pool Flats"
+      },
+      {
+        "slug": "charholi-nri-premium-homes",
+        "keyword": "Charholi NRI Premium Homes"
+      },
+      {
+        "slug": "charholi-properties",
+        "keyword": "Charholi Properties"
+      },
+      {
+        "slug": "charholi-flats",
+        "keyword": "Charholi Flats"
+      },
+      {
+        "slug": "charholi-villas",
+        "keyword": "Charholi Villas"
+      },
+      {
+        "slug": "charholi-row-houses",
+        "keyword": "Charholi Row Houses"
+      },
+      {
+        "slug": "charholi-commercial-real-estate",
+        "keyword": "Charholi Commercial Real Estate"
+      },
+      {
+        "slug": "charholi-retail-spaces",
+        "keyword": "Charholi Retail Spaces"
+      },
+      {
+        "slug": "charholi-office-spaces",
+        "keyword": "Charholi Office Spaces"
+      },
+      {
+        "slug": "charholi-ready-possession",
+        "keyword": "Charholi Ready Possession"
+      },
+      {
+        "slug": "charholi-under-construction",
+        "keyword": "Charholi Under Construction"
+      },
+      {
+        "slug": "charholi-it-park-homes",
+        "keyword": "Charholi IT Park Homes"
+      },
+      {
+        "slug": "charholi-mla-homes",
+        "keyword": "Charholi MLA Homes"
+      },
+      {
+        "slug": "charholi-vtp-projects",
+        "keyword": "Charholi VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-lohegaon",
+    "title": "Lohegaon Real Estate & Properties",
+    "description": "Lohegaon is the prime residential market driven by its proximity to the airport and IT parks.",
+    "slugs": [
+      {
+        "slug": "luxury-apartments-in-lohegaon",
+        "keyword": "Luxury Apartments in Lohegaon"
+      },
+      {
+        "slug": "premium-flats-in-lohegaon",
+        "keyword": "Premium Flats in Lohegaon"
+      },
+      {
+        "slug": "new-launch-projects-in-lohegaon",
+        "keyword": "New Launch Projects in Lohegaon"
+      },
+      {
+        "slug": "township-projects-in-lohegaon",
+        "keyword": "Township Projects in Lohegaon"
+      },
+      {
+        "slug": "real-estate-investment-in-lohegaon",
+        "keyword": "Real Estate Investment in Lohegaon"
+      },
+      {
+        "slug": "1bhk-in-lohegaon",
+        "keyword": "1BHK in Lohegaon"
+      },
+      {
+        "slug": "2bhk-in-lohegaon",
+        "keyword": "2BHK in Lohegaon"
+      },
+      {
+        "slug": "3bhk-in-lohegaon",
+        "keyword": "3BHK in Lohegaon"
+      },
+      {
+        "slug": "4bhk-in-lohegaon",
+        "keyword": "4BHK in Lohegaon"
+      },
+      {
+        "slug": "5bhk-in-lohegaon",
+        "keyword": "5BHK in Lohegaon"
+      },
+      {
+        "slug": "1-bhk-flats-in-lohegaon",
+        "keyword": "1 BHK Flats in Lohegaon"
+      },
+      {
+        "slug": "2-bhk-flats-in-lohegaon",
+        "keyword": "2 BHK Flats in Lohegaon"
+      },
+      {
+        "slug": "3-bhk-flats-in-lohegaon",
+        "keyword": "3 BHK Flats in Lohegaon"
+      },
+      {
+        "slug": "4-bhk-flats-in-lohegaon",
+        "keyword": "4 BHK Flats in Lohegaon"
+      },
+      {
+        "slug": "studio-apartments-in-lohegaon",
+        "keyword": "Studio Apartments in Lohegaon"
+      },
+      {
+        "slug": "luxury-duplex-in-lohegaon",
+        "keyword": "Luxury Duplex in Lohegaon"
+      },
+      {
+        "slug": "sky-duplex-in-lohegaon",
+        "keyword": "Sky Duplex in Lohegaon"
+      },
+      {
+        "slug": "simplex-flats-in-lohegaon",
+        "keyword": "Simplex Flats in Lohegaon"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-lohegaon",
+        "keyword": "Ultra-Luxury Penthouse in Lohegaon"
+      },
+      {
+        "slug": "double-height-living-in-lohegaon",
+        "keyword": "Double-Height Living in Lohegaon"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-lohegaon",
+        "keyword": "Apartments with Private Pool in Lohegaon"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-lohegaon",
+        "keyword": "NRI Real Estate Investment in Lohegaon"
+      },
+      {
+        "slug": "properties-in-lohegaon",
+        "keyword": "Properties in Lohegaon"
+      },
+      {
+        "slug": "flats-in-lohegaon",
+        "keyword": "Flats in Lohegaon"
+      },
+      {
+        "slug": "villas-in-lohegaon",
+        "keyword": "Villas in Lohegaon"
+      },
+      {
+        "slug": "row-houses-in-lohegaon",
+        "keyword": "Row Houses in Lohegaon"
+      },
+      {
+        "slug": "commercial-properties-in-lohegaon",
+        "keyword": "Commercial Properties in Lohegaon"
+      },
+      {
+        "slug": "retail-shops-in-lohegaon",
+        "keyword": "Retail Shops in Lohegaon"
+      },
+      {
+        "slug": "office-spaces-in-lohegaon",
+        "keyword": "Office Spaces in Lohegaon"
+      },
+      {
+        "slug": "ready-possession-flats-in-lohegaon",
+        "keyword": "Ready Possession Flats in Lohegaon"
+      },
+      {
+        "slug": "under-construction-projects-in-lohegaon",
+        "keyword": "Under Construction Projects in Lohegaon"
+      },
+      {
+        "slug": "homes-near-it-park-in-lohegaon",
+        "keyword": "Homes near IT Park in Lohegaon"
+      },
+      {
+        "slug": "maximum-livable-area-homes-in-lohegaon",
+        "keyword": "Maximum Livable Area Homes in Lohegaon"
+      },
+      {
+        "slug": "vtp-projects-in-lohegaon",
+        "keyword": "VTP Projects in Lohegaon"
+      },
+      {
+        "slug": "lohegaon-luxury-apartments",
+        "keyword": "Lohegaon Luxury Apartments"
+      },
+      {
+        "slug": "lohegaon-premium-flats",
+        "keyword": "Lohegaon Premium Flats"
+      },
+      {
+        "slug": "lohegaon-new-launch-projects",
+        "keyword": "Lohegaon New Launch Projects"
+      },
+      {
+        "slug": "lohegaon-township-projects",
+        "keyword": "Lohegaon Township Projects"
+      },
+      {
+        "slug": "lohegaon-real-estate-investment",
+        "keyword": "Lohegaon Real Estate Investment"
+      },
+      {
+        "slug": "lohegaon-1bhk-flats",
+        "keyword": "Lohegaon 1BHK Flats"
+      },
+      {
+        "slug": "lohegaon-2bhk-flats",
+        "keyword": "Lohegaon 2BHK Flats"
+      },
+      {
+        "slug": "lohegaon-3bhk-luxury-homes",
+        "keyword": "Lohegaon 3BHK Luxury Homes"
+      },
+      {
+        "slug": "lohegaon-4bhk-premium-apartments",
+        "keyword": "Lohegaon 4BHK Premium Apartments"
+      },
+      {
+        "slug": "lohegaon-5bhk-villas",
+        "keyword": "Lohegaon 5BHK Villas"
+      },
+      {
+        "slug": "lohegaon-1-bhk",
+        "keyword": "Lohegaon 1 BHK"
+      },
+      {
+        "slug": "lohegaon-2-bhk",
+        "keyword": "Lohegaon 2 BHK"
+      },
+      {
+        "slug": "lohegaon-3-bhk",
+        "keyword": "Lohegaon 3 BHK"
+      },
+      {
+        "slug": "lohegaon-4-bhk",
+        "keyword": "Lohegaon 4 BHK"
+      },
+      {
+        "slug": "lohegaon-studio-apartments",
+        "keyword": "Lohegaon Studio Apartments"
+      },
+      {
+        "slug": "lohegaon-duplex-apartments",
+        "keyword": "Lohegaon Duplex Apartments"
+      },
+      {
+        "slug": "lohegaon-sky-duplex",
+        "keyword": "Lohegaon Sky Duplex"
+      },
+      {
+        "slug": "lohegaon-simplex-apartments",
+        "keyword": "Lohegaon Simplex Apartments"
+      },
+      {
+        "slug": "lohegaon-penthouses",
+        "keyword": "Lohegaon Penthouses"
+      },
+      {
+        "slug": "lohegaon-double-height-homes",
+        "keyword": "Lohegaon Double-Height Homes"
+      },
+      {
+        "slug": "lohegaon-private-plunge-pool-flats",
+        "keyword": "Lohegaon Private Plunge Pool Flats"
+      },
+      {
+        "slug": "lohegaon-nri-premium-homes",
+        "keyword": "Lohegaon NRI Premium Homes"
+      },
+      {
+        "slug": "lohegaon-properties",
+        "keyword": "Lohegaon Properties"
+      },
+      {
+        "slug": "lohegaon-flats",
+        "keyword": "Lohegaon Flats"
+      },
+      {
+        "slug": "lohegaon-villas",
+        "keyword": "Lohegaon Villas"
+      },
+      {
+        "slug": "lohegaon-row-houses",
+        "keyword": "Lohegaon Row Houses"
+      },
+      {
+        "slug": "lohegaon-commercial-real-estate",
+        "keyword": "Lohegaon Commercial Real Estate"
+      },
+      {
+        "slug": "lohegaon-retail-spaces",
+        "keyword": "Lohegaon Retail Spaces"
+      },
+      {
+        "slug": "lohegaon-office-spaces",
+        "keyword": "Lohegaon Office Spaces"
+      },
+      {
+        "slug": "lohegaon-ready-possession",
+        "keyword": "Lohegaon Ready Possession"
+      },
+      {
+        "slug": "lohegaon-under-construction",
+        "keyword": "Lohegaon Under Construction"
+      },
+      {
+        "slug": "lohegaon-it-park-homes",
+        "keyword": "Lohegaon IT Park Homes"
+      },
+      {
+        "slug": "lohegaon-mla-homes",
+        "keyword": "Lohegaon MLA Homes"
+      },
+      {
+        "slug": "lohegaon-vtp-projects",
+        "keyword": "Lohegaon VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-dhanori",
+    "title": "Dhanori Real Estate & Properties",
+    "description": "Dhanori is East Pune's fast-emerging destination for premium housing.",
+    "slugs": [
+      {
+        "slug": "luxury-apartments-in-dhanori",
+        "keyword": "Luxury Apartments in Dhanori"
+      },
+      {
+        "slug": "premium-flats-in-dhanori",
+        "keyword": "Premium Flats in Dhanori"
+      },
+      {
+        "slug": "new-launch-projects-in-dhanori",
+        "keyword": "New Launch Projects in Dhanori"
+      },
+      {
+        "slug": "township-projects-in-dhanori",
+        "keyword": "Township Projects in Dhanori"
+      },
+      {
+        "slug": "real-estate-investment-in-dhanori",
+        "keyword": "Real Estate Investment in Dhanori"
+      },
+      {
+        "slug": "1bhk-in-dhanori",
+        "keyword": "1BHK in Dhanori"
+      },
+      {
+        "slug": "2bhk-in-dhanori",
+        "keyword": "2BHK in Dhanori"
+      },
+      {
+        "slug": "3bhk-in-dhanori",
+        "keyword": "3BHK in Dhanori"
+      },
+      {
+        "slug": "4bhk-in-dhanori",
+        "keyword": "4BHK in Dhanori"
+      },
+      {
+        "slug": "5bhk-in-dhanori",
+        "keyword": "5BHK in Dhanori"
+      },
+      {
+        "slug": "1-bhk-flats-in-dhanori",
+        "keyword": "1 BHK Flats in Dhanori"
+      },
+      {
+        "slug": "2-bhk-flats-in-dhanori",
+        "keyword": "2 BHK Flats in Dhanori"
+      },
+      {
+        "slug": "3-bhk-flats-in-dhanori",
+        "keyword": "3 BHK Flats in Dhanori"
+      },
+      {
+        "slug": "4-bhk-flats-in-dhanori",
+        "keyword": "4 BHK Flats in Dhanori"
+      },
+      {
+        "slug": "studio-apartments-in-dhanori",
+        "keyword": "Studio Apartments in Dhanori"
+      },
+      {
+        "slug": "luxury-duplex-in-dhanori",
+        "keyword": "Luxury Duplex in Dhanori"
+      },
+      {
+        "slug": "sky-duplex-in-dhanori",
+        "keyword": "Sky Duplex in Dhanori"
+      },
+      {
+        "slug": "simplex-flats-in-dhanori",
+        "keyword": "Simplex Flats in Dhanori"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-dhanori",
+        "keyword": "Ultra-Luxury Penthouse in Dhanori"
+      },
+      {
+        "slug": "double-height-living-in-dhanori",
+        "keyword": "Double-Height Living in Dhanori"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-dhanori",
+        "keyword": "Apartments with Private Pool in Dhanori"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-dhanori",
+        "keyword": "NRI Real Estate Investment in Dhanori"
+      },
+      {
+        "slug": "properties-in-dhanori",
+        "keyword": "Properties in Dhanori"
+      },
+      {
+        "slug": "flats-in-dhanori",
+        "keyword": "Flats in Dhanori"
+      },
+      {
+        "slug": "villas-in-dhanori",
+        "keyword": "Villas in Dhanori"
+      },
+      {
+        "slug": "row-houses-in-dhanori",
+        "keyword": "Row Houses in Dhanori"
+      },
+      {
+        "slug": "commercial-properties-in-dhanori",
+        "keyword": "Commercial Properties in Dhanori"
+      },
+      {
+        "slug": "retail-shops-in-dhanori",
+        "keyword": "Retail Shops in Dhanori"
+      },
+      {
+        "slug": "office-spaces-in-dhanori",
+        "keyword": "Office Spaces in Dhanori"
+      },
+      {
+        "slug": "ready-possession-flats-in-dhanori",
+        "keyword": "Ready Possession Flats in Dhanori"
+      },
+      {
+        "slug": "under-construction-projects-in-dhanori",
+        "keyword": "Under Construction Projects in Dhanori"
+      },
+      {
+        "slug": "homes-near-it-park-in-dhanori",
+        "keyword": "Homes near IT Park in Dhanori"
+      },
+      {
+        "slug": "maximum-livable-area-homes-in-dhanori",
+        "keyword": "Maximum Livable Area Homes in Dhanori"
+      },
+      {
+        "slug": "vtp-projects-in-dhanori",
+        "keyword": "VTP Projects in Dhanori"
+      },
+      {
+        "slug": "dhanori-luxury-apartments",
+        "keyword": "Dhanori Luxury Apartments"
+      },
+      {
+        "slug": "dhanori-premium-flats",
+        "keyword": "Dhanori Premium Flats"
+      },
+      {
+        "slug": "dhanori-new-launch-projects",
+        "keyword": "Dhanori New Launch Projects"
+      },
+      {
+        "slug": "dhanori-township-projects",
+        "keyword": "Dhanori Township Projects"
+      },
+      {
+        "slug": "dhanori-real-estate-investment",
+        "keyword": "Dhanori Real Estate Investment"
+      },
+      {
+        "slug": "dhanori-1bhk-flats",
+        "keyword": "Dhanori 1BHK Flats"
+      },
+      {
+        "slug": "dhanori-2bhk-flats",
+        "keyword": "Dhanori 2BHK Flats"
+      },
+      {
+        "slug": "dhanori-3bhk-luxury-homes",
+        "keyword": "Dhanori 3BHK Luxury Homes"
+      },
+      {
+        "slug": "dhanori-4bhk-premium-apartments",
+        "keyword": "Dhanori 4BHK Premium Apartments"
+      },
+      {
+        "slug": "dhanori-5bhk-villas",
+        "keyword": "Dhanori 5BHK Villas"
+      },
+      {
+        "slug": "dhanori-1-bhk",
+        "keyword": "Dhanori 1 BHK"
+      },
+      {
+        "slug": "dhanori-2-bhk",
+        "keyword": "Dhanori 2 BHK"
+      },
+      {
+        "slug": "dhanori-3-bhk",
+        "keyword": "Dhanori 3 BHK"
+      },
+      {
+        "slug": "dhanori-4-bhk",
+        "keyword": "Dhanori 4 BHK"
+      },
+      {
+        "slug": "dhanori-studio-apartments",
+        "keyword": "Dhanori Studio Apartments"
+      },
+      {
+        "slug": "dhanori-duplex-apartments",
+        "keyword": "Dhanori Duplex Apartments"
+      },
+      {
+        "slug": "dhanori-sky-duplex",
+        "keyword": "Dhanori Sky Duplex"
+      },
+      {
+        "slug": "dhanori-simplex-apartments",
+        "keyword": "Dhanori Simplex Apartments"
+      },
+      {
+        "slug": "dhanori-penthouses",
+        "keyword": "Dhanori Penthouses"
+      },
+      {
+        "slug": "dhanori-double-height-homes",
+        "keyword": "Dhanori Double-Height Homes"
+      },
+      {
+        "slug": "dhanori-private-plunge-pool-flats",
+        "keyword": "Dhanori Private Plunge Pool Flats"
+      },
+      {
+        "slug": "dhanori-nri-premium-homes",
+        "keyword": "Dhanori NRI Premium Homes"
+      },
+      {
+        "slug": "dhanori-properties",
+        "keyword": "Dhanori Properties"
+      },
+      {
+        "slug": "dhanori-flats",
+        "keyword": "Dhanori Flats"
+      },
+      {
+        "slug": "dhanori-villas",
+        "keyword": "Dhanori Villas"
+      },
+      {
+        "slug": "dhanori-row-houses",
+        "keyword": "Dhanori Row Houses"
+      },
+      {
+        "slug": "dhanori-commercial-real-estate",
+        "keyword": "Dhanori Commercial Real Estate"
+      },
+      {
+        "slug": "dhanori-retail-spaces",
+        "keyword": "Dhanori Retail Spaces"
+      },
+      {
+        "slug": "dhanori-office-spaces",
+        "keyword": "Dhanori Office Spaces"
+      },
+      {
+        "slug": "dhanori-ready-possession",
+        "keyword": "Dhanori Ready Possession"
+      },
+      {
+        "slug": "dhanori-under-construction",
+        "keyword": "Dhanori Under Construction"
+      },
+      {
+        "slug": "dhanori-it-park-homes",
+        "keyword": "Dhanori IT Park Homes"
+      },
+      {
+        "slug": "dhanori-mla-homes",
+        "keyword": "Dhanori MLA Homes"
+      },
+      {
+        "slug": "dhanori-vtp-projects",
+        "keyword": "Dhanori VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-vishrantwadi",
+    "title": "Vishrantwadi Real Estate & Properties",
+    "description": "Vishrantwadi connects central Pune to the eastern IT corridors.",
+    "slugs": [
+      {
+        "slug": "luxury-apartments-in-vishrantwadi",
+        "keyword": "Luxury Apartments in Vishrantwadi"
+      },
+      {
+        "slug": "premium-flats-in-vishrantwadi",
+        "keyword": "Premium Flats in Vishrantwadi"
+      },
+      {
+        "slug": "new-launch-projects-in-vishrantwadi",
+        "keyword": "New Launch Projects in Vishrantwadi"
+      },
+      {
+        "slug": "township-projects-in-vishrantwadi",
+        "keyword": "Township Projects in Vishrantwadi"
+      },
+      {
+        "slug": "real-estate-investment-in-vishrantwadi",
+        "keyword": "Real Estate Investment in Vishrantwadi"
+      },
+      {
+        "slug": "1bhk-in-vishrantwadi",
+        "keyword": "1BHK in Vishrantwadi"
+      },
+      {
+        "slug": "2bhk-in-vishrantwadi",
+        "keyword": "2BHK in Vishrantwadi"
+      },
+      {
+        "slug": "3bhk-in-vishrantwadi",
+        "keyword": "3BHK in Vishrantwadi"
+      },
+      {
+        "slug": "4bhk-in-vishrantwadi",
+        "keyword": "4BHK in Vishrantwadi"
+      },
+      {
+        "slug": "5bhk-in-vishrantwadi",
+        "keyword": "5BHK in Vishrantwadi"
+      },
+      {
+        "slug": "1-bhk-flats-in-vishrantwadi",
+        "keyword": "1 BHK Flats in Vishrantwadi"
+      },
+      {
+        "slug": "2-bhk-flats-in-vishrantwadi",
+        "keyword": "2 BHK Flats in Vishrantwadi"
+      },
+      {
+        "slug": "3-bhk-flats-in-vishrantwadi",
+        "keyword": "3 BHK Flats in Vishrantwadi"
+      },
+      {
+        "slug": "4-bhk-flats-in-vishrantwadi",
+        "keyword": "4 BHK Flats in Vishrantwadi"
+      },
+      {
+        "slug": "studio-apartments-in-vishrantwadi",
+        "keyword": "Studio Apartments in Vishrantwadi"
+      },
+      {
+        "slug": "luxury-duplex-in-vishrantwadi",
+        "keyword": "Luxury Duplex in Vishrantwadi"
+      },
+      {
+        "slug": "sky-duplex-in-vishrantwadi",
+        "keyword": "Sky Duplex in Vishrantwadi"
+      },
+      {
+        "slug": "simplex-flats-in-vishrantwadi",
+        "keyword": "Simplex Flats in Vishrantwadi"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-vishrantwadi",
+        "keyword": "Ultra-Luxury Penthouse in Vishrantwadi"
+      },
+      {
+        "slug": "double-height-living-in-vishrantwadi",
+        "keyword": "Double-Height Living in Vishrantwadi"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-vishrantwadi",
+        "keyword": "Apartments with Private Pool in Vishrantwadi"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-vishrantwadi",
+        "keyword": "NRI Real Estate Investment in Vishrantwadi"
+      },
+      {
+        "slug": "properties-in-vishrantwadi",
+        "keyword": "Properties in Vishrantwadi"
+      },
+      {
+        "slug": "flats-in-vishrantwadi",
+        "keyword": "Flats in Vishrantwadi"
+      },
+      {
+        "slug": "villas-in-vishrantwadi",
+        "keyword": "Villas in Vishrantwadi"
+      },
+      {
+        "slug": "row-houses-in-vishrantwadi",
+        "keyword": "Row Houses in Vishrantwadi"
+      },
+      {
+        "slug": "commercial-properties-in-vishrantwadi",
+        "keyword": "Commercial Properties in Vishrantwadi"
+      },
+      {
+        "slug": "retail-shops-in-vishrantwadi",
+        "keyword": "Retail Shops in Vishrantwadi"
+      },
+      {
+        "slug": "office-spaces-in-vishrantwadi",
+        "keyword": "Office Spaces in Vishrantwadi"
+      },
+      {
+        "slug": "ready-possession-flats-in-vishrantwadi",
+        "keyword": "Ready Possession Flats in Vishrantwadi"
+      },
+      {
+        "slug": "under-construction-projects-in-vishrantwadi",
+        "keyword": "Under Construction Projects in Vishrantwadi"
+      },
+      {
+        "slug": "homes-near-it-park-in-vishrantwadi",
+        "keyword": "Homes near IT Park in Vishrantwadi"
+      },
+      {
+        "slug": "maximum-livable-area-homes-in-vishrantwadi",
+        "keyword": "Maximum Livable Area Homes in Vishrantwadi"
+      },
+      {
+        "slug": "vtp-projects-in-vishrantwadi",
+        "keyword": "VTP Projects in Vishrantwadi"
+      },
+      {
+        "slug": "vishrantwadi-luxury-apartments",
+        "keyword": "Vishrantwadi Luxury Apartments"
+      },
+      {
+        "slug": "vishrantwadi-premium-flats",
+        "keyword": "Vishrantwadi Premium Flats"
+      },
+      {
+        "slug": "vishrantwadi-new-launch-projects",
+        "keyword": "Vishrantwadi New Launch Projects"
+      },
+      {
+        "slug": "vishrantwadi-township-projects",
+        "keyword": "Vishrantwadi Township Projects"
+      },
+      {
+        "slug": "vishrantwadi-real-estate-investment",
+        "keyword": "Vishrantwadi Real Estate Investment"
+      },
+      {
+        "slug": "vishrantwadi-1bhk-flats",
+        "keyword": "Vishrantwadi 1BHK Flats"
+      },
+      {
+        "slug": "vishrantwadi-2bhk-flats",
+        "keyword": "Vishrantwadi 2BHK Flats"
+      },
+      {
+        "slug": "vishrantwadi-3bhk-luxury-homes",
+        "keyword": "Vishrantwadi 3BHK Luxury Homes"
+      },
+      {
+        "slug": "vishrantwadi-4bhk-premium-apartments",
+        "keyword": "Vishrantwadi 4BHK Premium Apartments"
+      },
+      {
+        "slug": "vishrantwadi-5bhk-villas",
+        "keyword": "Vishrantwadi 5BHK Villas"
+      },
+      {
+        "slug": "vishrantwadi-1-bhk",
+        "keyword": "Vishrantwadi 1 BHK"
+      },
+      {
+        "slug": "vishrantwadi-2-bhk",
+        "keyword": "Vishrantwadi 2 BHK"
+      },
+      {
+        "slug": "vishrantwadi-3-bhk",
+        "keyword": "Vishrantwadi 3 BHK"
+      },
+      {
+        "slug": "vishrantwadi-4-bhk",
+        "keyword": "Vishrantwadi 4 BHK"
+      },
+      {
+        "slug": "vishrantwadi-studio-apartments",
+        "keyword": "Vishrantwadi Studio Apartments"
+      },
+      {
+        "slug": "vishrantwadi-duplex-apartments",
+        "keyword": "Vishrantwadi Duplex Apartments"
+      },
+      {
+        "slug": "vishrantwadi-sky-duplex",
+        "keyword": "Vishrantwadi Sky Duplex"
+      },
+      {
+        "slug": "vishrantwadi-simplex-apartments",
+        "keyword": "Vishrantwadi Simplex Apartments"
+      },
+      {
+        "slug": "vishrantwadi-penthouses",
+        "keyword": "Vishrantwadi Penthouses"
+      },
+      {
+        "slug": "vishrantwadi-double-height-homes",
+        "keyword": "Vishrantwadi Double-Height Homes"
+      },
+      {
+        "slug": "vishrantwadi-private-plunge-pool-flats",
+        "keyword": "Vishrantwadi Private Plunge Pool Flats"
+      },
+      {
+        "slug": "vishrantwadi-nri-premium-homes",
+        "keyword": "Vishrantwadi NRI Premium Homes"
+      },
+      {
+        "slug": "vishrantwadi-properties",
+        "keyword": "Vishrantwadi Properties"
+      },
+      {
+        "slug": "vishrantwadi-flats",
+        "keyword": "Vishrantwadi Flats"
+      },
+      {
+        "slug": "vishrantwadi-villas",
+        "keyword": "Vishrantwadi Villas"
+      },
+      {
+        "slug": "vishrantwadi-row-houses",
+        "keyword": "Vishrantwadi Row Houses"
+      },
+      {
+        "slug": "vishrantwadi-commercial-real-estate",
+        "keyword": "Vishrantwadi Commercial Real Estate"
+      },
+      {
+        "slug": "vishrantwadi-retail-spaces",
+        "keyword": "Vishrantwadi Retail Spaces"
+      },
+      {
+        "slug": "vishrantwadi-office-spaces",
+        "keyword": "Vishrantwadi Office Spaces"
+      },
+      {
+        "slug": "vishrantwadi-ready-possession",
+        "keyword": "Vishrantwadi Ready Possession"
+      },
+      {
+        "slug": "vishrantwadi-under-construction",
+        "keyword": "Vishrantwadi Under Construction"
+      },
+      {
+        "slug": "vishrantwadi-it-park-homes",
+        "keyword": "Vishrantwadi IT Park Homes"
+      },
+      {
+        "slug": "vishrantwadi-mla-homes",
+        "keyword": "Vishrantwadi MLA Homes"
+      },
+      {
+        "slug": "vishrantwadi-vtp-projects",
+        "keyword": "Vishrantwadi VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-karve-nagar",
+    "title": "Karve Nagar Real Estate & Properties",
+    "description": "Karve Nagar offers a blend of traditional Pune culture and premium new developments.",
+    "slugs": [
+      {
+        "slug": "luxury-apartments-in-karve-nagar",
+        "keyword": "Luxury Apartments in Karve Nagar"
+      },
+      {
+        "slug": "premium-flats-in-karve-nagar",
+        "keyword": "Premium Flats in Karve Nagar"
+      },
+      {
+        "slug": "new-launch-projects-in-karve-nagar",
+        "keyword": "New Launch Projects in Karve Nagar"
+      },
+      {
+        "slug": "township-projects-in-karve-nagar",
+        "keyword": "Township Projects in Karve Nagar"
+      },
+      {
+        "slug": "real-estate-investment-in-karve-nagar",
+        "keyword": "Real Estate Investment in Karve Nagar"
+      },
+      {
+        "slug": "1bhk-in-karve-nagar",
+        "keyword": "1BHK in Karve Nagar"
+      },
+      {
+        "slug": "2bhk-in-karve-nagar",
+        "keyword": "2BHK in Karve Nagar"
+      },
+      {
+        "slug": "3bhk-in-karve-nagar",
+        "keyword": "3BHK in Karve Nagar"
+      },
+      {
+        "slug": "4bhk-in-karve-nagar",
+        "keyword": "4BHK in Karve Nagar"
+      },
+      {
+        "slug": "5bhk-in-karve-nagar",
+        "keyword": "5BHK in Karve Nagar"
+      },
+      {
+        "slug": "1-bhk-flats-in-karve-nagar",
+        "keyword": "1 BHK Flats in Karve Nagar"
+      },
+      {
+        "slug": "2-bhk-flats-in-karve-nagar",
+        "keyword": "2 BHK Flats in Karve Nagar"
+      },
+      {
+        "slug": "3-bhk-flats-in-karve-nagar",
+        "keyword": "3 BHK Flats in Karve Nagar"
+      },
+      {
+        "slug": "4-bhk-flats-in-karve-nagar",
+        "keyword": "4 BHK Flats in Karve Nagar"
+      },
+      {
+        "slug": "studio-apartments-in-karve-nagar",
+        "keyword": "Studio Apartments in Karve Nagar"
+      },
+      {
+        "slug": "luxury-duplex-in-karve-nagar",
+        "keyword": "Luxury Duplex in Karve Nagar"
+      },
+      {
+        "slug": "sky-duplex-in-karve-nagar",
+        "keyword": "Sky Duplex in Karve Nagar"
+      },
+      {
+        "slug": "simplex-flats-in-karve-nagar",
+        "keyword": "Simplex Flats in Karve Nagar"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-karve-nagar",
+        "keyword": "Ultra-Luxury Penthouse in Karve Nagar"
+      },
+      {
+        "slug": "double-height-living-in-karve-nagar",
+        "keyword": "Double-Height Living in Karve Nagar"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-karve-nagar",
+        "keyword": "Apartments with Private Pool in Karve Nagar"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-karve-nagar",
+        "keyword": "NRI Real Estate Investment in Karve Nagar"
+      },
+      {
+        "slug": "properties-in-karve-nagar",
+        "keyword": "Properties in Karve Nagar"
+      },
+      {
+        "slug": "flats-in-karve-nagar",
+        "keyword": "Flats in Karve Nagar"
+      },
+      {
+        "slug": "villas-in-karve-nagar",
+        "keyword": "Villas in Karve Nagar"
+      },
+      {
+        "slug": "row-houses-in-karve-nagar",
+        "keyword": "Row Houses in Karve Nagar"
+      },
+      {
+        "slug": "commercial-properties-in-karve-nagar",
+        "keyword": "Commercial Properties in Karve Nagar"
+      },
+      {
+        "slug": "retail-shops-in-karve-nagar",
+        "keyword": "Retail Shops in Karve Nagar"
+      },
+      {
+        "slug": "office-spaces-in-karve-nagar",
+        "keyword": "Office Spaces in Karve Nagar"
+      },
+      {
+        "slug": "ready-possession-flats-in-karve-nagar",
+        "keyword": "Ready Possession Flats in Karve Nagar"
+      },
+      {
+        "slug": "under-construction-projects-in-karve-nagar",
+        "keyword": "Under Construction Projects in Karve Nagar"
+      },
+      {
+        "slug": "homes-near-it-park-in-karve-nagar",
+        "keyword": "Homes near IT Park in Karve Nagar"
+      },
+      {
+        "slug": "maximum-livable-area-homes-in-karve-nagar",
+        "keyword": "Maximum Livable Area Homes in Karve Nagar"
+      },
+      {
+        "slug": "vtp-projects-in-karve-nagar",
+        "keyword": "VTP Projects in Karve Nagar"
+      },
+      {
+        "slug": "karve-nagar-luxury-apartments",
+        "keyword": "Karve Nagar Luxury Apartments"
+      },
+      {
+        "slug": "karve-nagar-premium-flats",
+        "keyword": "Karve Nagar Premium Flats"
+      },
+      {
+        "slug": "karve-nagar-new-launch-projects",
+        "keyword": "Karve Nagar New Launch Projects"
+      },
+      {
+        "slug": "karve-nagar-township-projects",
+        "keyword": "Karve Nagar Township Projects"
+      },
+      {
+        "slug": "karve-nagar-real-estate-investment",
+        "keyword": "Karve Nagar Real Estate Investment"
+      },
+      {
+        "slug": "karve-nagar-1bhk-flats",
+        "keyword": "Karve Nagar 1BHK Flats"
+      },
+      {
+        "slug": "karve-nagar-2bhk-flats",
+        "keyword": "Karve Nagar 2BHK Flats"
+      },
+      {
+        "slug": "karve-nagar-3bhk-luxury-homes",
+        "keyword": "Karve Nagar 3BHK Luxury Homes"
+      },
+      {
+        "slug": "karve-nagar-4bhk-premium-apartments",
+        "keyword": "Karve Nagar 4BHK Premium Apartments"
+      },
+      {
+        "slug": "karve-nagar-5bhk-villas",
+        "keyword": "Karve Nagar 5BHK Villas"
+      },
+      {
+        "slug": "karve-nagar-1-bhk",
+        "keyword": "Karve Nagar 1 BHK"
+      },
+      {
+        "slug": "karve-nagar-2-bhk",
+        "keyword": "Karve Nagar 2 BHK"
+      },
+      {
+        "slug": "karve-nagar-3-bhk",
+        "keyword": "Karve Nagar 3 BHK"
+      },
+      {
+        "slug": "karve-nagar-4-bhk",
+        "keyword": "Karve Nagar 4 BHK"
+      },
+      {
+        "slug": "karve-nagar-studio-apartments",
+        "keyword": "Karve Nagar Studio Apartments"
+      },
+      {
+        "slug": "karve-nagar-duplex-apartments",
+        "keyword": "Karve Nagar Duplex Apartments"
+      },
+      {
+        "slug": "karve-nagar-sky-duplex",
+        "keyword": "Karve Nagar Sky Duplex"
+      },
+      {
+        "slug": "karve-nagar-simplex-apartments",
+        "keyword": "Karve Nagar Simplex Apartments"
+      },
+      {
+        "slug": "karve-nagar-penthouses",
+        "keyword": "Karve Nagar Penthouses"
+      },
+      {
+        "slug": "karve-nagar-double-height-homes",
+        "keyword": "Karve Nagar Double-Height Homes"
+      },
+      {
+        "slug": "karve-nagar-private-plunge-pool-flats",
+        "keyword": "Karve Nagar Private Plunge Pool Flats"
+      },
+      {
+        "slug": "karve-nagar-nri-premium-homes",
+        "keyword": "Karve Nagar NRI Premium Homes"
+      },
+      {
+        "slug": "karve-nagar-properties",
+        "keyword": "Karve Nagar Properties"
+      },
+      {
+        "slug": "karve-nagar-flats",
+        "keyword": "Karve Nagar Flats"
+      },
+      {
+        "slug": "karve-nagar-villas",
+        "keyword": "Karve Nagar Villas"
+      },
+      {
+        "slug": "karve-nagar-row-houses",
+        "keyword": "Karve Nagar Row Houses"
+      },
+      {
+        "slug": "karve-nagar-commercial-real-estate",
+        "keyword": "Karve Nagar Commercial Real Estate"
+      },
+      {
+        "slug": "karve-nagar-retail-spaces",
+        "keyword": "Karve Nagar Retail Spaces"
+      },
+      {
+        "slug": "karve-nagar-office-spaces",
+        "keyword": "Karve Nagar Office Spaces"
+      },
+      {
+        "slug": "karve-nagar-ready-possession",
+        "keyword": "Karve Nagar Ready Possession"
+      },
+      {
+        "slug": "karve-nagar-under-construction",
+        "keyword": "Karve Nagar Under Construction"
+      },
+      {
+        "slug": "karve-nagar-it-park-homes",
+        "keyword": "Karve Nagar IT Park Homes"
+      },
+      {
+        "slug": "karve-nagar-mla-homes",
+        "keyword": "Karve Nagar MLA Homes"
+      },
+      {
+        "slug": "karve-nagar-vtp-projects",
+        "keyword": "Karve Nagar VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-warje",
+    "title": "Warje Real Estate & Properties",
+    "description": "Warje acts as a critical gateway connecting South and West Pune.",
+    "slugs": [
+      {
+        "slug": "luxury-apartments-in-warje",
+        "keyword": "Luxury Apartments in Warje"
+      },
+      {
+        "slug": "premium-flats-in-warje",
+        "keyword": "Premium Flats in Warje"
+      },
+      {
+        "slug": "new-launch-projects-in-warje",
+        "keyword": "New Launch Projects in Warje"
+      },
+      {
+        "slug": "township-projects-in-warje",
+        "keyword": "Township Projects in Warje"
+      },
+      {
+        "slug": "real-estate-investment-in-warje",
+        "keyword": "Real Estate Investment in Warje"
+      },
+      {
+        "slug": "1bhk-in-warje",
+        "keyword": "1BHK in Warje"
+      },
+      {
+        "slug": "2bhk-in-warje",
+        "keyword": "2BHK in Warje"
+      },
+      {
+        "slug": "3bhk-in-warje",
+        "keyword": "3BHK in Warje"
+      },
+      {
+        "slug": "4bhk-in-warje",
+        "keyword": "4BHK in Warje"
+      },
+      {
+        "slug": "5bhk-in-warje",
+        "keyword": "5BHK in Warje"
+      },
+      {
+        "slug": "1-bhk-flats-in-warje",
+        "keyword": "1 BHK Flats in Warje"
+      },
+      {
+        "slug": "2-bhk-flats-in-warje",
+        "keyword": "2 BHK Flats in Warje"
+      },
+      {
+        "slug": "3-bhk-flats-in-warje",
+        "keyword": "3 BHK Flats in Warje"
+      },
+      {
+        "slug": "4-bhk-flats-in-warje",
+        "keyword": "4 BHK Flats in Warje"
+      },
+      {
+        "slug": "studio-apartments-in-warje",
+        "keyword": "Studio Apartments in Warje"
+      },
+      {
+        "slug": "luxury-duplex-in-warje",
+        "keyword": "Luxury Duplex in Warje"
+      },
+      {
+        "slug": "sky-duplex-in-warje",
+        "keyword": "Sky Duplex in Warje"
+      },
+      {
+        "slug": "simplex-flats-in-warje",
+        "keyword": "Simplex Flats in Warje"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-warje",
+        "keyword": "Ultra-Luxury Penthouse in Warje"
+      },
+      {
+        "slug": "double-height-living-in-warje",
+        "keyword": "Double-Height Living in Warje"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-warje",
+        "keyword": "Apartments with Private Pool in Warje"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-warje",
+        "keyword": "NRI Real Estate Investment in Warje"
+      },
+      {
+        "slug": "properties-in-warje",
+        "keyword": "Properties in Warje"
+      },
+      {
+        "slug": "flats-in-warje",
+        "keyword": "Flats in Warje"
+      },
+      {
+        "slug": "villas-in-warje",
+        "keyword": "Villas in Warje"
+      },
+      {
+        "slug": "row-houses-in-warje",
+        "keyword": "Row Houses in Warje"
+      },
+      {
+        "slug": "commercial-properties-in-warje",
+        "keyword": "Commercial Properties in Warje"
+      },
+      {
+        "slug": "retail-shops-in-warje",
+        "keyword": "Retail Shops in Warje"
+      },
+      {
+        "slug": "office-spaces-in-warje",
+        "keyword": "Office Spaces in Warje"
+      },
+      {
+        "slug": "ready-possession-flats-in-warje",
+        "keyword": "Ready Possession Flats in Warje"
+      },
+      {
+        "slug": "under-construction-projects-in-warje",
+        "keyword": "Under Construction Projects in Warje"
+      },
+      {
+        "slug": "homes-near-it-park-in-warje",
+        "keyword": "Homes near IT Park in Warje"
+      },
+      {
+        "slug": "maximum-livable-area-homes-in-warje",
+        "keyword": "Maximum Livable Area Homes in Warje"
+      },
+      {
+        "slug": "vtp-projects-in-warje",
+        "keyword": "VTP Projects in Warje"
+      },
+      {
+        "slug": "warje-luxury-apartments",
+        "keyword": "Warje Luxury Apartments"
+      },
+      {
+        "slug": "warje-premium-flats",
+        "keyword": "Warje Premium Flats"
+      },
+      {
+        "slug": "warje-new-launch-projects",
+        "keyword": "Warje New Launch Projects"
+      },
+      {
+        "slug": "warje-township-projects",
+        "keyword": "Warje Township Projects"
+      },
+      {
+        "slug": "warje-real-estate-investment",
+        "keyword": "Warje Real Estate Investment"
+      },
+      {
+        "slug": "warje-1bhk-flats",
+        "keyword": "Warje 1BHK Flats"
+      },
+      {
+        "slug": "warje-2bhk-flats",
+        "keyword": "Warje 2BHK Flats"
+      },
+      {
+        "slug": "warje-3bhk-luxury-homes",
+        "keyword": "Warje 3BHK Luxury Homes"
+      },
+      {
+        "slug": "warje-4bhk-premium-apartments",
+        "keyword": "Warje 4BHK Premium Apartments"
+      },
+      {
+        "slug": "warje-5bhk-villas",
+        "keyword": "Warje 5BHK Villas"
+      },
+      {
+        "slug": "warje-1-bhk",
+        "keyword": "Warje 1 BHK"
+      },
+      {
+        "slug": "warje-2-bhk",
+        "keyword": "Warje 2 BHK"
+      },
+      {
+        "slug": "warje-3-bhk",
+        "keyword": "Warje 3 BHK"
+      },
+      {
+        "slug": "warje-4-bhk",
+        "keyword": "Warje 4 BHK"
+      },
+      {
+        "slug": "warje-studio-apartments",
+        "keyword": "Warje Studio Apartments"
+      },
+      {
+        "slug": "warje-duplex-apartments",
+        "keyword": "Warje Duplex Apartments"
+      },
+      {
+        "slug": "warje-sky-duplex",
+        "keyword": "Warje Sky Duplex"
+      },
+      {
+        "slug": "warje-simplex-apartments",
+        "keyword": "Warje Simplex Apartments"
+      },
+      {
+        "slug": "warje-penthouses",
+        "keyword": "Warje Penthouses"
+      },
+      {
+        "slug": "warje-double-height-homes",
+        "keyword": "Warje Double-Height Homes"
+      },
+      {
+        "slug": "warje-private-plunge-pool-flats",
+        "keyword": "Warje Private Plunge Pool Flats"
+      },
+      {
+        "slug": "warje-nri-premium-homes",
+        "keyword": "Warje NRI Premium Homes"
+      },
+      {
+        "slug": "warje-properties",
+        "keyword": "Warje Properties"
+      },
+      {
+        "slug": "warje-flats",
+        "keyword": "Warje Flats"
+      },
+      {
+        "slug": "warje-villas",
+        "keyword": "Warje Villas"
+      },
+      {
+        "slug": "warje-row-houses",
+        "keyword": "Warje Row Houses"
+      },
+      {
+        "slug": "warje-commercial-real-estate",
+        "keyword": "Warje Commercial Real Estate"
+      },
+      {
+        "slug": "warje-retail-spaces",
+        "keyword": "Warje Retail Spaces"
+      },
+      {
+        "slug": "warje-office-spaces",
+        "keyword": "Warje Office Spaces"
+      },
+      {
+        "slug": "warje-ready-possession",
+        "keyword": "Warje Ready Possession"
+      },
+      {
+        "slug": "warje-under-construction",
+        "keyword": "Warje Under Construction"
+      },
+      {
+        "slug": "warje-it-park-homes",
+        "keyword": "Warje IT Park Homes"
+      },
+      {
+        "slug": "warje-mla-homes",
+        "keyword": "Warje MLA Homes"
+      },
+      {
+        "slug": "warje-vtp-projects",
+        "keyword": "Warje VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-talegaon",
+    "title": "Talegaon Real Estate & Properties",
+    "description": "Talegaon is a massive industrial hub and a prime location for second homes.",
+    "slugs": [
+      {
+        "slug": "luxury-apartments-in-talegaon",
+        "keyword": "Luxury Apartments in Talegaon"
+      },
+      {
+        "slug": "premium-flats-in-talegaon",
+        "keyword": "Premium Flats in Talegaon"
+      },
+      {
+        "slug": "new-launch-projects-in-talegaon",
+        "keyword": "New Launch Projects in Talegaon"
+      },
+      {
+        "slug": "township-projects-in-talegaon",
+        "keyword": "Township Projects in Talegaon"
+      },
+      {
+        "slug": "real-estate-investment-in-talegaon",
+        "keyword": "Real Estate Investment in Talegaon"
+      },
+      {
+        "slug": "1bhk-in-talegaon",
+        "keyword": "1BHK in Talegaon"
+      },
+      {
+        "slug": "2bhk-in-talegaon",
+        "keyword": "2BHK in Talegaon"
+      },
+      {
+        "slug": "3bhk-in-talegaon",
+        "keyword": "3BHK in Talegaon"
+      },
+      {
+        "slug": "4bhk-in-talegaon",
+        "keyword": "4BHK in Talegaon"
+      },
+      {
+        "slug": "5bhk-in-talegaon",
+        "keyword": "5BHK in Talegaon"
+      },
+      {
+        "slug": "1-bhk-flats-in-talegaon",
+        "keyword": "1 BHK Flats in Talegaon"
+      },
+      {
+        "slug": "2-bhk-flats-in-talegaon",
+        "keyword": "2 BHK Flats in Talegaon"
+      },
+      {
+        "slug": "3-bhk-flats-in-talegaon",
+        "keyword": "3 BHK Flats in Talegaon"
+      },
+      {
+        "slug": "4-bhk-flats-in-talegaon",
+        "keyword": "4 BHK Flats in Talegaon"
+      },
+      {
+        "slug": "studio-apartments-in-talegaon",
+        "keyword": "Studio Apartments in Talegaon"
+      },
+      {
+        "slug": "luxury-duplex-in-talegaon",
+        "keyword": "Luxury Duplex in Talegaon"
+      },
+      {
+        "slug": "sky-duplex-in-talegaon",
+        "keyword": "Sky Duplex in Talegaon"
+      },
+      {
+        "slug": "simplex-flats-in-talegaon",
+        "keyword": "Simplex Flats in Talegaon"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-talegaon",
+        "keyword": "Ultra-Luxury Penthouse in Talegaon"
+      },
+      {
+        "slug": "double-height-living-in-talegaon",
+        "keyword": "Double-Height Living in Talegaon"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-talegaon",
+        "keyword": "Apartments with Private Pool in Talegaon"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-talegaon",
+        "keyword": "NRI Real Estate Investment in Talegaon"
+      },
+      {
+        "slug": "properties-in-talegaon",
+        "keyword": "Properties in Talegaon"
+      },
+      {
+        "slug": "flats-in-talegaon",
+        "keyword": "Flats in Talegaon"
+      },
+      {
+        "slug": "villas-in-talegaon",
+        "keyword": "Villas in Talegaon"
+      },
+      {
+        "slug": "row-houses-in-talegaon",
+        "keyword": "Row Houses in Talegaon"
+      },
+      {
+        "slug": "commercial-properties-in-talegaon",
+        "keyword": "Commercial Properties in Talegaon"
+      },
+      {
+        "slug": "retail-shops-in-talegaon",
+        "keyword": "Retail Shops in Talegaon"
+      },
+      {
+        "slug": "office-spaces-in-talegaon",
+        "keyword": "Office Spaces in Talegaon"
+      },
+      {
+        "slug": "ready-possession-flats-in-talegaon",
+        "keyword": "Ready Possession Flats in Talegaon"
+      },
+      {
+        "slug": "under-construction-projects-in-talegaon",
+        "keyword": "Under Construction Projects in Talegaon"
+      },
+      {
+        "slug": "homes-near-it-park-in-talegaon",
+        "keyword": "Homes near IT Park in Talegaon"
+      },
+      {
+        "slug": "maximum-livable-area-homes-in-talegaon",
+        "keyword": "Maximum Livable Area Homes in Talegaon"
+      },
+      {
+        "slug": "vtp-projects-in-talegaon",
+        "keyword": "VTP Projects in Talegaon"
+      },
+      {
+        "slug": "talegaon-luxury-apartments",
+        "keyword": "Talegaon Luxury Apartments"
+      },
+      {
+        "slug": "talegaon-premium-flats",
+        "keyword": "Talegaon Premium Flats"
+      },
+      {
+        "slug": "talegaon-new-launch-projects",
+        "keyword": "Talegaon New Launch Projects"
+      },
+      {
+        "slug": "talegaon-township-projects",
+        "keyword": "Talegaon Township Projects"
+      },
+      {
+        "slug": "talegaon-real-estate-investment",
+        "keyword": "Talegaon Real Estate Investment"
+      },
+      {
+        "slug": "talegaon-1bhk-flats",
+        "keyword": "Talegaon 1BHK Flats"
+      },
+      {
+        "slug": "talegaon-2bhk-flats",
+        "keyword": "Talegaon 2BHK Flats"
+      },
+      {
+        "slug": "talegaon-3bhk-luxury-homes",
+        "keyword": "Talegaon 3BHK Luxury Homes"
+      },
+      {
+        "slug": "talegaon-4bhk-premium-apartments",
+        "keyword": "Talegaon 4BHK Premium Apartments"
+      },
+      {
+        "slug": "talegaon-5bhk-villas",
+        "keyword": "Talegaon 5BHK Villas"
+      },
+      {
+        "slug": "talegaon-1-bhk",
+        "keyword": "Talegaon 1 BHK"
+      },
+      {
+        "slug": "talegaon-2-bhk",
+        "keyword": "Talegaon 2 BHK"
+      },
+      {
+        "slug": "talegaon-3-bhk",
+        "keyword": "Talegaon 3 BHK"
+      },
+      {
+        "slug": "talegaon-4-bhk",
+        "keyword": "Talegaon 4 BHK"
+      },
+      {
+        "slug": "talegaon-studio-apartments",
+        "keyword": "Talegaon Studio Apartments"
+      },
+      {
+        "slug": "talegaon-duplex-apartments",
+        "keyword": "Talegaon Duplex Apartments"
+      },
+      {
+        "slug": "talegaon-sky-duplex",
+        "keyword": "Talegaon Sky Duplex"
+      },
+      {
+        "slug": "talegaon-simplex-apartments",
+        "keyword": "Talegaon Simplex Apartments"
+      },
+      {
+        "slug": "talegaon-penthouses",
+        "keyword": "Talegaon Penthouses"
+      },
+      {
+        "slug": "talegaon-double-height-homes",
+        "keyword": "Talegaon Double-Height Homes"
+      },
+      {
+        "slug": "talegaon-private-plunge-pool-flats",
+        "keyword": "Talegaon Private Plunge Pool Flats"
+      },
+      {
+        "slug": "talegaon-nri-premium-homes",
+        "keyword": "Talegaon NRI Premium Homes"
+      },
+      {
+        "slug": "talegaon-properties",
+        "keyword": "Talegaon Properties"
+      },
+      {
+        "slug": "talegaon-flats",
+        "keyword": "Talegaon Flats"
+      },
+      {
+        "slug": "talegaon-villas",
+        "keyword": "Talegaon Villas"
+      },
+      {
+        "slug": "talegaon-row-houses",
+        "keyword": "Talegaon Row Houses"
+      },
+      {
+        "slug": "talegaon-commercial-real-estate",
+        "keyword": "Talegaon Commercial Real Estate"
+      },
+      {
+        "slug": "talegaon-retail-spaces",
+        "keyword": "Talegaon Retail Spaces"
+      },
+      {
+        "slug": "talegaon-office-spaces",
+        "keyword": "Talegaon Office Spaces"
+      },
+      {
+        "slug": "talegaon-ready-possession",
+        "keyword": "Talegaon Ready Possession"
+      },
+      {
+        "slug": "talegaon-under-construction",
+        "keyword": "Talegaon Under Construction"
+      },
+      {
+        "slug": "talegaon-it-park-homes",
+        "keyword": "Talegaon IT Park Homes"
+      },
+      {
+        "slug": "talegaon-mla-homes",
+        "keyword": "Talegaon MLA Homes"
+      },
+      {
+        "slug": "talegaon-vtp-projects",
+        "keyword": "Talegaon VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-lonavala",
+    "title": "Lonavala Real Estate & Properties",
+    "description": "Lonavala is the ultimate luxury destination for private villas and holiday homes.",
+    "slugs": [
+      {
+        "slug": "luxury-apartments-in-lonavala",
+        "keyword": "Luxury Apartments in Lonavala"
+      },
+      {
+        "slug": "premium-flats-in-lonavala",
+        "keyword": "Premium Flats in Lonavala"
+      },
+      {
+        "slug": "new-launch-projects-in-lonavala",
+        "keyword": "New Launch Projects in Lonavala"
+      },
+      {
+        "slug": "township-projects-in-lonavala",
+        "keyword": "Township Projects in Lonavala"
+      },
+      {
+        "slug": "real-estate-investment-in-lonavala",
+        "keyword": "Real Estate Investment in Lonavala"
+      },
+      {
+        "slug": "1bhk-in-lonavala",
+        "keyword": "1BHK in Lonavala"
+      },
+      {
+        "slug": "2bhk-in-lonavala",
+        "keyword": "2BHK in Lonavala"
+      },
+      {
+        "slug": "3bhk-in-lonavala",
+        "keyword": "3BHK in Lonavala"
+      },
+      {
+        "slug": "4bhk-in-lonavala",
+        "keyword": "4BHK in Lonavala"
+      },
+      {
+        "slug": "5bhk-in-lonavala",
+        "keyword": "5BHK in Lonavala"
+      },
+      {
+        "slug": "1-bhk-flats-in-lonavala",
+        "keyword": "1 BHK Flats in Lonavala"
+      },
+      {
+        "slug": "2-bhk-flats-in-lonavala",
+        "keyword": "2 BHK Flats in Lonavala"
+      },
+      {
+        "slug": "3-bhk-flats-in-lonavala",
+        "keyword": "3 BHK Flats in Lonavala"
+      },
+      {
+        "slug": "4-bhk-flats-in-lonavala",
+        "keyword": "4 BHK Flats in Lonavala"
+      },
+      {
+        "slug": "studio-apartments-in-lonavala",
+        "keyword": "Studio Apartments in Lonavala"
+      },
+      {
+        "slug": "luxury-duplex-in-lonavala",
+        "keyword": "Luxury Duplex in Lonavala"
+      },
+      {
+        "slug": "sky-duplex-in-lonavala",
+        "keyword": "Sky Duplex in Lonavala"
+      },
+      {
+        "slug": "simplex-flats-in-lonavala",
+        "keyword": "Simplex Flats in Lonavala"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-lonavala",
+        "keyword": "Ultra-Luxury Penthouse in Lonavala"
+      },
+      {
+        "slug": "double-height-living-in-lonavala",
+        "keyword": "Double-Height Living in Lonavala"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-lonavala",
+        "keyword": "Apartments with Private Pool in Lonavala"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-lonavala",
+        "keyword": "NRI Real Estate Investment in Lonavala"
+      },
+      {
+        "slug": "properties-in-lonavala",
+        "keyword": "Properties in Lonavala"
+      },
+      {
+        "slug": "flats-in-lonavala",
+        "keyword": "Flats in Lonavala"
+      },
+      {
+        "slug": "villas-in-lonavala",
+        "keyword": "Villas in Lonavala"
+      },
+      {
+        "slug": "row-houses-in-lonavala",
+        "keyword": "Row Houses in Lonavala"
+      },
+      {
+        "slug": "commercial-properties-in-lonavala",
+        "keyword": "Commercial Properties in Lonavala"
+      },
+      {
+        "slug": "retail-shops-in-lonavala",
+        "keyword": "Retail Shops in Lonavala"
+      },
+      {
+        "slug": "office-spaces-in-lonavala",
+        "keyword": "Office Spaces in Lonavala"
+      },
+      {
+        "slug": "ready-possession-flats-in-lonavala",
+        "keyword": "Ready Possession Flats in Lonavala"
+      },
+      {
+        "slug": "under-construction-projects-in-lonavala",
+        "keyword": "Under Construction Projects in Lonavala"
+      },
+      {
+        "slug": "homes-near-it-park-in-lonavala",
+        "keyword": "Homes near IT Park in Lonavala"
+      },
+      {
+        "slug": "maximum-livable-area-homes-in-lonavala",
+        "keyword": "Maximum Livable Area Homes in Lonavala"
+      },
+      {
+        "slug": "vtp-projects-in-lonavala",
+        "keyword": "VTP Projects in Lonavala"
+      },
+      {
+        "slug": "lonavala-luxury-apartments",
+        "keyword": "Lonavala Luxury Apartments"
+      },
+      {
+        "slug": "lonavala-premium-flats",
+        "keyword": "Lonavala Premium Flats"
+      },
+      {
+        "slug": "lonavala-new-launch-projects",
+        "keyword": "Lonavala New Launch Projects"
+      },
+      {
+        "slug": "lonavala-township-projects",
+        "keyword": "Lonavala Township Projects"
+      },
+      {
+        "slug": "lonavala-real-estate-investment",
+        "keyword": "Lonavala Real Estate Investment"
+      },
+      {
+        "slug": "lonavala-1bhk-flats",
+        "keyword": "Lonavala 1BHK Flats"
+      },
+      {
+        "slug": "lonavala-2bhk-flats",
+        "keyword": "Lonavala 2BHK Flats"
+      },
+      {
+        "slug": "lonavala-3bhk-luxury-homes",
+        "keyword": "Lonavala 3BHK Luxury Homes"
+      },
+      {
+        "slug": "lonavala-4bhk-premium-apartments",
+        "keyword": "Lonavala 4BHK Premium Apartments"
+      },
+      {
+        "slug": "lonavala-5bhk-villas",
+        "keyword": "Lonavala 5BHK Villas"
+      },
+      {
+        "slug": "lonavala-1-bhk",
+        "keyword": "Lonavala 1 BHK"
+      },
+      {
+        "slug": "lonavala-2-bhk",
+        "keyword": "Lonavala 2 BHK"
+      },
+      {
+        "slug": "lonavala-3-bhk",
+        "keyword": "Lonavala 3 BHK"
+      },
+      {
+        "slug": "lonavala-4-bhk",
+        "keyword": "Lonavala 4 BHK"
+      },
+      {
+        "slug": "lonavala-studio-apartments",
+        "keyword": "Lonavala Studio Apartments"
+      },
+      {
+        "slug": "lonavala-duplex-apartments",
+        "keyword": "Lonavala Duplex Apartments"
+      },
+      {
+        "slug": "lonavala-sky-duplex",
+        "keyword": "Lonavala Sky Duplex"
+      },
+      {
+        "slug": "lonavala-simplex-apartments",
+        "keyword": "Lonavala Simplex Apartments"
+      },
+      {
+        "slug": "lonavala-penthouses",
+        "keyword": "Lonavala Penthouses"
+      },
+      {
+        "slug": "lonavala-double-height-homes",
+        "keyword": "Lonavala Double-Height Homes"
+      },
+      {
+        "slug": "lonavala-private-plunge-pool-flats",
+        "keyword": "Lonavala Private Plunge Pool Flats"
+      },
+      {
+        "slug": "lonavala-nri-premium-homes",
+        "keyword": "Lonavala NRI Premium Homes"
+      },
+      {
+        "slug": "lonavala-properties",
+        "keyword": "Lonavala Properties"
+      },
+      {
+        "slug": "lonavala-flats",
+        "keyword": "Lonavala Flats"
+      },
+      {
+        "slug": "lonavala-villas",
+        "keyword": "Lonavala Villas"
+      },
+      {
+        "slug": "lonavala-row-houses",
+        "keyword": "Lonavala Row Houses"
+      },
+      {
+        "slug": "lonavala-commercial-real-estate",
+        "keyword": "Lonavala Commercial Real Estate"
+      },
+      {
+        "slug": "lonavala-retail-spaces",
+        "keyword": "Lonavala Retail Spaces"
+      },
+      {
+        "slug": "lonavala-office-spaces",
+        "keyword": "Lonavala Office Spaces"
+      },
+      {
+        "slug": "lonavala-ready-possession",
+        "keyword": "Lonavala Ready Possession"
+      },
+      {
+        "slug": "lonavala-under-construction",
+        "keyword": "Lonavala Under Construction"
+      },
+      {
+        "slug": "lonavala-it-park-homes",
+        "keyword": "Lonavala IT Park Homes"
+      },
+      {
+        "slug": "lonavala-mla-homes",
+        "keyword": "Lonavala MLA Homes"
+      },
+      {
+        "slug": "lonavala-vtp-projects",
+        "keyword": "Lonavala VTP Projects"
       }
     ]
   },
@@ -5190,6 +10632,10 @@ export const seoSilos = [
         "keyword": "Real Estate Investment in West Pune"
       },
       {
+        "slug": "1bhk-in-west-pune",
+        "keyword": "1BHK in West Pune"
+      },
+      {
         "slug": "2bhk-in-west-pune",
         "keyword": "2BHK in West Pune"
       },
@@ -5206,6 +10652,10 @@ export const seoSilos = [
         "keyword": "5BHK in West Pune"
       },
       {
+        "slug": "1-bhk-flats-in-west-pune",
+        "keyword": "1 BHK Flats in West Pune"
+      },
+      {
         "slug": "2-bhk-flats-in-west-pune",
         "keyword": "2 BHK Flats in West Pune"
       },
@@ -5216,6 +10666,10 @@ export const seoSilos = [
       {
         "slug": "4-bhk-flats-in-west-pune",
         "keyword": "4 BHK Flats in West Pune"
+      },
+      {
+        "slug": "studio-apartments-in-west-pune",
+        "keyword": "Studio Apartments in West Pune"
       },
       {
         "slug": "luxury-duplex-in-west-pune",
@@ -5252,6 +10706,26 @@ export const seoSilos = [
       {
         "slug": "flats-in-west-pune",
         "keyword": "Flats in West Pune"
+      },
+      {
+        "slug": "villas-in-west-pune",
+        "keyword": "Villas in West Pune"
+      },
+      {
+        "slug": "row-houses-in-west-pune",
+        "keyword": "Row Houses in West Pune"
+      },
+      {
+        "slug": "commercial-properties-in-west-pune",
+        "keyword": "Commercial Properties in West Pune"
+      },
+      {
+        "slug": "retail-shops-in-west-pune",
+        "keyword": "Retail Shops in West Pune"
+      },
+      {
+        "slug": "office-spaces-in-west-pune",
+        "keyword": "Office Spaces in West Pune"
       },
       {
         "slug": "ready-possession-flats-in-west-pune",
@@ -5294,6 +10768,10 @@ export const seoSilos = [
         "keyword": "West Pune Real Estate Investment"
       },
       {
+        "slug": "west-pune-1bhk-flats",
+        "keyword": "West Pune 1BHK Flats"
+      },
+      {
         "slug": "west-pune-2bhk-flats",
         "keyword": "West Pune 2BHK Flats"
       },
@@ -5310,6 +10788,10 @@ export const seoSilos = [
         "keyword": "West Pune 5BHK Villas"
       },
       {
+        "slug": "west-pune-1-bhk",
+        "keyword": "West Pune 1 BHK"
+      },
+      {
         "slug": "west-pune-2-bhk",
         "keyword": "West Pune 2 BHK"
       },
@@ -5320,6 +10802,10 @@ export const seoSilos = [
       {
         "slug": "west-pune-4-bhk",
         "keyword": "West Pune 4 BHK"
+      },
+      {
+        "slug": "west-pune-studio-apartments",
+        "keyword": "West Pune Studio Apartments"
       },
       {
         "slug": "west-pune-duplex-apartments",
@@ -5356,6 +10842,26 @@ export const seoSilos = [
       {
         "slug": "west-pune-flats",
         "keyword": "West Pune Flats"
+      },
+      {
+        "slug": "west-pune-villas",
+        "keyword": "West Pune Villas"
+      },
+      {
+        "slug": "west-pune-row-houses",
+        "keyword": "West Pune Row Houses"
+      },
+      {
+        "slug": "west-pune-commercial-real-estate",
+        "keyword": "West Pune Commercial Real Estate"
+      },
+      {
+        "slug": "west-pune-retail-spaces",
+        "keyword": "West Pune Retail Spaces"
+      },
+      {
+        "slug": "west-pune-office-spaces",
+        "keyword": "West Pune Office Spaces"
       },
       {
         "slug": "west-pune-ready-possession",
@@ -5405,6 +10911,10 @@ export const seoSilos = [
         "keyword": "Real Estate Investment in East Pune"
       },
       {
+        "slug": "1bhk-in-east-pune",
+        "keyword": "1BHK in East Pune"
+      },
+      {
         "slug": "2bhk-in-east-pune",
         "keyword": "2BHK in East Pune"
       },
@@ -5421,6 +10931,10 @@ export const seoSilos = [
         "keyword": "5BHK in East Pune"
       },
       {
+        "slug": "1-bhk-flats-in-east-pune",
+        "keyword": "1 BHK Flats in East Pune"
+      },
+      {
         "slug": "2-bhk-flats-in-east-pune",
         "keyword": "2 BHK Flats in East Pune"
       },
@@ -5431,6 +10945,10 @@ export const seoSilos = [
       {
         "slug": "4-bhk-flats-in-east-pune",
         "keyword": "4 BHK Flats in East Pune"
+      },
+      {
+        "slug": "studio-apartments-in-east-pune",
+        "keyword": "Studio Apartments in East Pune"
       },
       {
         "slug": "luxury-duplex-in-east-pune",
@@ -5467,6 +10985,26 @@ export const seoSilos = [
       {
         "slug": "flats-in-east-pune",
         "keyword": "Flats in East Pune"
+      },
+      {
+        "slug": "villas-in-east-pune",
+        "keyword": "Villas in East Pune"
+      },
+      {
+        "slug": "row-houses-in-east-pune",
+        "keyword": "Row Houses in East Pune"
+      },
+      {
+        "slug": "commercial-properties-in-east-pune",
+        "keyword": "Commercial Properties in East Pune"
+      },
+      {
+        "slug": "retail-shops-in-east-pune",
+        "keyword": "Retail Shops in East Pune"
+      },
+      {
+        "slug": "office-spaces-in-east-pune",
+        "keyword": "Office Spaces in East Pune"
       },
       {
         "slug": "ready-possession-flats-in-east-pune",
@@ -5509,6 +11047,10 @@ export const seoSilos = [
         "keyword": "East Pune Real Estate Investment"
       },
       {
+        "slug": "east-pune-1bhk-flats",
+        "keyword": "East Pune 1BHK Flats"
+      },
+      {
         "slug": "east-pune-2bhk-flats",
         "keyword": "East Pune 2BHK Flats"
       },
@@ -5525,6 +11067,10 @@ export const seoSilos = [
         "keyword": "East Pune 5BHK Villas"
       },
       {
+        "slug": "east-pune-1-bhk",
+        "keyword": "East Pune 1 BHK"
+      },
+      {
         "slug": "east-pune-2-bhk",
         "keyword": "East Pune 2 BHK"
       },
@@ -5535,6 +11081,10 @@ export const seoSilos = [
       {
         "slug": "east-pune-4-bhk",
         "keyword": "East Pune 4 BHK"
+      },
+      {
+        "slug": "east-pune-studio-apartments",
+        "keyword": "East Pune Studio Apartments"
       },
       {
         "slug": "east-pune-duplex-apartments",
@@ -5571,6 +11121,26 @@ export const seoSilos = [
       {
         "slug": "east-pune-flats",
         "keyword": "East Pune Flats"
+      },
+      {
+        "slug": "east-pune-villas",
+        "keyword": "East Pune Villas"
+      },
+      {
+        "slug": "east-pune-row-houses",
+        "keyword": "East Pune Row Houses"
+      },
+      {
+        "slug": "east-pune-commercial-real-estate",
+        "keyword": "East Pune Commercial Real Estate"
+      },
+      {
+        "slug": "east-pune-retail-spaces",
+        "keyword": "East Pune Retail Spaces"
+      },
+      {
+        "slug": "east-pune-office-spaces",
+        "keyword": "East Pune Office Spaces"
       },
       {
         "slug": "east-pune-ready-possession",
@@ -5620,6 +11190,10 @@ export const seoSilos = [
         "keyword": "Real Estate Investment in Pune City"
       },
       {
+        "slug": "1bhk-in-pune-city",
+        "keyword": "1BHK in Pune City"
+      },
+      {
         "slug": "2bhk-in-pune-city",
         "keyword": "2BHK in Pune City"
       },
@@ -5636,6 +11210,10 @@ export const seoSilos = [
         "keyword": "5BHK in Pune City"
       },
       {
+        "slug": "1-bhk-flats-in-pune-city",
+        "keyword": "1 BHK Flats in Pune City"
+      },
+      {
         "slug": "2-bhk-flats-in-pune-city",
         "keyword": "2 BHK Flats in Pune City"
       },
@@ -5646,6 +11224,10 @@ export const seoSilos = [
       {
         "slug": "4-bhk-flats-in-pune-city",
         "keyword": "4 BHK Flats in Pune City"
+      },
+      {
+        "slug": "studio-apartments-in-pune-city",
+        "keyword": "Studio Apartments in Pune City"
       },
       {
         "slug": "luxury-duplex-in-pune-city",
@@ -5682,6 +11264,26 @@ export const seoSilos = [
       {
         "slug": "flats-in-pune-city",
         "keyword": "Flats in Pune City"
+      },
+      {
+        "slug": "villas-in-pune-city",
+        "keyword": "Villas in Pune City"
+      },
+      {
+        "slug": "row-houses-in-pune-city",
+        "keyword": "Row Houses in Pune City"
+      },
+      {
+        "slug": "commercial-properties-in-pune-city",
+        "keyword": "Commercial Properties in Pune City"
+      },
+      {
+        "slug": "retail-shops-in-pune-city",
+        "keyword": "Retail Shops in Pune City"
+      },
+      {
+        "slug": "office-spaces-in-pune-city",
+        "keyword": "Office Spaces in Pune City"
       },
       {
         "slug": "ready-possession-flats-in-pune-city",
@@ -5724,6 +11326,10 @@ export const seoSilos = [
         "keyword": "Pune City Real Estate Investment"
       },
       {
+        "slug": "pune-city-1bhk-flats",
+        "keyword": "Pune City 1BHK Flats"
+      },
+      {
         "slug": "pune-city-2bhk-flats",
         "keyword": "Pune City 2BHK Flats"
       },
@@ -5740,6 +11346,10 @@ export const seoSilos = [
         "keyword": "Pune City 5BHK Villas"
       },
       {
+        "slug": "pune-city-1-bhk",
+        "keyword": "Pune City 1 BHK"
+      },
+      {
         "slug": "pune-city-2-bhk",
         "keyword": "Pune City 2 BHK"
       },
@@ -5750,6 +11360,10 @@ export const seoSilos = [
       {
         "slug": "pune-city-4-bhk",
         "keyword": "Pune City 4 BHK"
+      },
+      {
+        "slug": "pune-city-studio-apartments",
+        "keyword": "Pune City Studio Apartments"
       },
       {
         "slug": "pune-city-duplex-apartments",
@@ -5788,6 +11402,26 @@ export const seoSilos = [
         "keyword": "Pune City Flats"
       },
       {
+        "slug": "pune-city-villas",
+        "keyword": "Pune City Villas"
+      },
+      {
+        "slug": "pune-city-row-houses",
+        "keyword": "Pune City Row Houses"
+      },
+      {
+        "slug": "pune-city-commercial-real-estate",
+        "keyword": "Pune City Commercial Real Estate"
+      },
+      {
+        "slug": "pune-city-retail-spaces",
+        "keyword": "Pune City Retail Spaces"
+      },
+      {
+        "slug": "pune-city-office-spaces",
+        "keyword": "Pune City Office Spaces"
+      },
+      {
         "slug": "pune-city-ready-possession",
         "keyword": "Pune City Ready Possession"
       },
@@ -5806,6 +11440,285 @@ export const seoSilos = [
       {
         "slug": "pune-city-vtp-projects",
         "keyword": "Pune City VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-pcmc-region",
+    "title": "PCMC Region Real Estate & Properties",
+    "description": "Pimpri-Chinchwad is the industrial powerhouse driving massive real estate demand.",
+    "slugs": [
+      {
+        "slug": "luxury-apartments-in-pcmc-region",
+        "keyword": "Luxury Apartments in PCMC Region"
+      },
+      {
+        "slug": "premium-flats-in-pcmc-region",
+        "keyword": "Premium Flats in PCMC Region"
+      },
+      {
+        "slug": "new-launch-projects-in-pcmc-region",
+        "keyword": "New Launch Projects in PCMC Region"
+      },
+      {
+        "slug": "township-projects-in-pcmc-region",
+        "keyword": "Township Projects in PCMC Region"
+      },
+      {
+        "slug": "real-estate-investment-in-pcmc-region",
+        "keyword": "Real Estate Investment in PCMC Region"
+      },
+      {
+        "slug": "1bhk-in-pcmc-region",
+        "keyword": "1BHK in PCMC Region"
+      },
+      {
+        "slug": "2bhk-in-pcmc-region",
+        "keyword": "2BHK in PCMC Region"
+      },
+      {
+        "slug": "3bhk-in-pcmc-region",
+        "keyword": "3BHK in PCMC Region"
+      },
+      {
+        "slug": "4bhk-in-pcmc-region",
+        "keyword": "4BHK in PCMC Region"
+      },
+      {
+        "slug": "5bhk-in-pcmc-region",
+        "keyword": "5BHK in PCMC Region"
+      },
+      {
+        "slug": "1-bhk-flats-in-pcmc-region",
+        "keyword": "1 BHK Flats in PCMC Region"
+      },
+      {
+        "slug": "2-bhk-flats-in-pcmc-region",
+        "keyword": "2 BHK Flats in PCMC Region"
+      },
+      {
+        "slug": "3-bhk-flats-in-pcmc-region",
+        "keyword": "3 BHK Flats in PCMC Region"
+      },
+      {
+        "slug": "4-bhk-flats-in-pcmc-region",
+        "keyword": "4 BHK Flats in PCMC Region"
+      },
+      {
+        "slug": "studio-apartments-in-pcmc-region",
+        "keyword": "Studio Apartments in PCMC Region"
+      },
+      {
+        "slug": "luxury-duplex-in-pcmc-region",
+        "keyword": "Luxury Duplex in PCMC Region"
+      },
+      {
+        "slug": "sky-duplex-in-pcmc-region",
+        "keyword": "Sky Duplex in PCMC Region"
+      },
+      {
+        "slug": "simplex-flats-in-pcmc-region",
+        "keyword": "Simplex Flats in PCMC Region"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-pcmc-region",
+        "keyword": "Ultra-Luxury Penthouse in PCMC Region"
+      },
+      {
+        "slug": "double-height-living-in-pcmc-region",
+        "keyword": "Double-Height Living in PCMC Region"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-pcmc-region",
+        "keyword": "Apartments with Private Pool in PCMC Region"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-pcmc-region",
+        "keyword": "NRI Real Estate Investment in PCMC Region"
+      },
+      {
+        "slug": "properties-in-pcmc-region",
+        "keyword": "Properties in PCMC Region"
+      },
+      {
+        "slug": "flats-in-pcmc-region",
+        "keyword": "Flats in PCMC Region"
+      },
+      {
+        "slug": "villas-in-pcmc-region",
+        "keyword": "Villas in PCMC Region"
+      },
+      {
+        "slug": "row-houses-in-pcmc-region",
+        "keyword": "Row Houses in PCMC Region"
+      },
+      {
+        "slug": "commercial-properties-in-pcmc-region",
+        "keyword": "Commercial Properties in PCMC Region"
+      },
+      {
+        "slug": "retail-shops-in-pcmc-region",
+        "keyword": "Retail Shops in PCMC Region"
+      },
+      {
+        "slug": "office-spaces-in-pcmc-region",
+        "keyword": "Office Spaces in PCMC Region"
+      },
+      {
+        "slug": "ready-possession-flats-in-pcmc-region",
+        "keyword": "Ready Possession Flats in PCMC Region"
+      },
+      {
+        "slug": "under-construction-projects-in-pcmc-region",
+        "keyword": "Under Construction Projects in PCMC Region"
+      },
+      {
+        "slug": "homes-near-it-park-in-pcmc-region",
+        "keyword": "Homes near IT Park in PCMC Region"
+      },
+      {
+        "slug": "maximum-livable-area-homes-in-pcmc-region",
+        "keyword": "Maximum Livable Area Homes in PCMC Region"
+      },
+      {
+        "slug": "vtp-projects-in-pcmc-region",
+        "keyword": "VTP Projects in PCMC Region"
+      },
+      {
+        "slug": "pcmc-region-luxury-apartments",
+        "keyword": "PCMC Region Luxury Apartments"
+      },
+      {
+        "slug": "pcmc-region-premium-flats",
+        "keyword": "PCMC Region Premium Flats"
+      },
+      {
+        "slug": "pcmc-region-new-launch-projects",
+        "keyword": "PCMC Region New Launch Projects"
+      },
+      {
+        "slug": "pcmc-region-township-projects",
+        "keyword": "PCMC Region Township Projects"
+      },
+      {
+        "slug": "pcmc-region-real-estate-investment",
+        "keyword": "PCMC Region Real Estate Investment"
+      },
+      {
+        "slug": "pcmc-region-1bhk-flats",
+        "keyword": "PCMC Region 1BHK Flats"
+      },
+      {
+        "slug": "pcmc-region-2bhk-flats",
+        "keyword": "PCMC Region 2BHK Flats"
+      },
+      {
+        "slug": "pcmc-region-3bhk-luxury-homes",
+        "keyword": "PCMC Region 3BHK Luxury Homes"
+      },
+      {
+        "slug": "pcmc-region-4bhk-premium-apartments",
+        "keyword": "PCMC Region 4BHK Premium Apartments"
+      },
+      {
+        "slug": "pcmc-region-5bhk-villas",
+        "keyword": "PCMC Region 5BHK Villas"
+      },
+      {
+        "slug": "pcmc-region-1-bhk",
+        "keyword": "PCMC Region 1 BHK"
+      },
+      {
+        "slug": "pcmc-region-2-bhk",
+        "keyword": "PCMC Region 2 BHK"
+      },
+      {
+        "slug": "pcmc-region-3-bhk",
+        "keyword": "PCMC Region 3 BHK"
+      },
+      {
+        "slug": "pcmc-region-4-bhk",
+        "keyword": "PCMC Region 4 BHK"
+      },
+      {
+        "slug": "pcmc-region-studio-apartments",
+        "keyword": "PCMC Region Studio Apartments"
+      },
+      {
+        "slug": "pcmc-region-duplex-apartments",
+        "keyword": "PCMC Region Duplex Apartments"
+      },
+      {
+        "slug": "pcmc-region-sky-duplex",
+        "keyword": "PCMC Region Sky Duplex"
+      },
+      {
+        "slug": "pcmc-region-simplex-apartments",
+        "keyword": "PCMC Region Simplex Apartments"
+      },
+      {
+        "slug": "pcmc-region-penthouses",
+        "keyword": "PCMC Region Penthouses"
+      },
+      {
+        "slug": "pcmc-region-double-height-homes",
+        "keyword": "PCMC Region Double-Height Homes"
+      },
+      {
+        "slug": "pcmc-region-private-plunge-pool-flats",
+        "keyword": "PCMC Region Private Plunge Pool Flats"
+      },
+      {
+        "slug": "pcmc-region-nri-premium-homes",
+        "keyword": "PCMC Region NRI Premium Homes"
+      },
+      {
+        "slug": "pcmc-region-properties",
+        "keyword": "PCMC Region Properties"
+      },
+      {
+        "slug": "pcmc-region-flats",
+        "keyword": "PCMC Region Flats"
+      },
+      {
+        "slug": "pcmc-region-villas",
+        "keyword": "PCMC Region Villas"
+      },
+      {
+        "slug": "pcmc-region-row-houses",
+        "keyword": "PCMC Region Row Houses"
+      },
+      {
+        "slug": "pcmc-region-commercial-real-estate",
+        "keyword": "PCMC Region Commercial Real Estate"
+      },
+      {
+        "slug": "pcmc-region-retail-spaces",
+        "keyword": "PCMC Region Retail Spaces"
+      },
+      {
+        "slug": "pcmc-region-office-spaces",
+        "keyword": "PCMC Region Office Spaces"
+      },
+      {
+        "slug": "pcmc-region-ready-possession",
+        "keyword": "PCMC Region Ready Possession"
+      },
+      {
+        "slug": "pcmc-region-under-construction",
+        "keyword": "PCMC Region Under Construction"
+      },
+      {
+        "slug": "pcmc-region-it-park-homes",
+        "keyword": "PCMC Region IT Park Homes"
+      },
+      {
+        "slug": "pcmc-region-mla-homes",
+        "keyword": "PCMC Region MLA Homes"
+      },
+      {
+        "slug": "pcmc-region-vtp-projects",
+        "keyword": "PCMC Region VTP Projects"
       }
     ]
   },
@@ -6027,6 +11940,62 @@ export const seoSilos = [
         "keyword": "VTP Bluewaters for buyers in Kondhwa"
       },
       {
+        "slug": "vtp-bluewaters-for-buyers-in-sinhagad-road",
+        "keyword": "VTP Bluewaters for buyers in Sinhagad Road"
+      },
+      {
+        "slug": "vtp-bluewaters-for-buyers-in-dhayari",
+        "keyword": "VTP Bluewaters for buyers in Dhayari"
+      },
+      {
+        "slug": "vtp-bluewaters-for-buyers-in-nanded-city",
+        "keyword": "VTP Bluewaters for buyers in Nanded City"
+      },
+      {
+        "slug": "vtp-bluewaters-for-buyers-in-pimple-saudagar",
+        "keyword": "VTP Bluewaters for buyers in Pimple Saudagar"
+      },
+      {
+        "slug": "vtp-bluewaters-for-buyers-in-pimple-nilakh",
+        "keyword": "VTP Bluewaters for buyers in Pimple Nilakh"
+      },
+      {
+        "slug": "vtp-bluewaters-for-buyers-in-chikhali",
+        "keyword": "VTP Bluewaters for buyers in Chikhali"
+      },
+      {
+        "slug": "vtp-bluewaters-for-buyers-in-charholi",
+        "keyword": "VTP Bluewaters for buyers in Charholi"
+      },
+      {
+        "slug": "vtp-bluewaters-for-buyers-in-lohegaon",
+        "keyword": "VTP Bluewaters for buyers in Lohegaon"
+      },
+      {
+        "slug": "vtp-bluewaters-for-buyers-in-dhanori",
+        "keyword": "VTP Bluewaters for buyers in Dhanori"
+      },
+      {
+        "slug": "vtp-bluewaters-for-buyers-in-vishrantwadi",
+        "keyword": "VTP Bluewaters for buyers in Vishrantwadi"
+      },
+      {
+        "slug": "vtp-bluewaters-for-buyers-in-karve-nagar",
+        "keyword": "VTP Bluewaters for buyers in Karve Nagar"
+      },
+      {
+        "slug": "vtp-bluewaters-for-buyers-in-warje",
+        "keyword": "VTP Bluewaters for buyers in Warje"
+      },
+      {
+        "slug": "vtp-bluewaters-for-buyers-in-talegaon",
+        "keyword": "VTP Bluewaters for buyers in Talegaon"
+      },
+      {
+        "slug": "vtp-bluewaters-for-buyers-in-lonavala",
+        "keyword": "VTP Bluewaters for buyers in Lonavala"
+      },
+      {
         "slug": "vtp-bluewaters-for-buyers-in-west-pune",
         "keyword": "VTP Bluewaters for buyers in West Pune"
       },
@@ -6037,6 +12006,10 @@ export const seoSilos = [
       {
         "slug": "vtp-bluewaters-for-buyers-in-pune-city",
         "keyword": "VTP Bluewaters for buyers in Pune City"
+      },
+      {
+        "slug": "vtp-bluewaters-for-buyers-in-pcmc-region",
+        "keyword": "VTP Bluewaters for buyers in PCMC Region"
       }
     ]
   },
@@ -6258,6 +12231,62 @@ export const seoSilos = [
         "keyword": "VTP Earth One for buyers in Kondhwa"
       },
       {
+        "slug": "vtp-earth-one-for-buyers-in-sinhagad-road",
+        "keyword": "VTP Earth One for buyers in Sinhagad Road"
+      },
+      {
+        "slug": "vtp-earth-one-for-buyers-in-dhayari",
+        "keyword": "VTP Earth One for buyers in Dhayari"
+      },
+      {
+        "slug": "vtp-earth-one-for-buyers-in-nanded-city",
+        "keyword": "VTP Earth One for buyers in Nanded City"
+      },
+      {
+        "slug": "vtp-earth-one-for-buyers-in-pimple-saudagar",
+        "keyword": "VTP Earth One for buyers in Pimple Saudagar"
+      },
+      {
+        "slug": "vtp-earth-one-for-buyers-in-pimple-nilakh",
+        "keyword": "VTP Earth One for buyers in Pimple Nilakh"
+      },
+      {
+        "slug": "vtp-earth-one-for-buyers-in-chikhali",
+        "keyword": "VTP Earth One for buyers in Chikhali"
+      },
+      {
+        "slug": "vtp-earth-one-for-buyers-in-charholi",
+        "keyword": "VTP Earth One for buyers in Charholi"
+      },
+      {
+        "slug": "vtp-earth-one-for-buyers-in-lohegaon",
+        "keyword": "VTP Earth One for buyers in Lohegaon"
+      },
+      {
+        "slug": "vtp-earth-one-for-buyers-in-dhanori",
+        "keyword": "VTP Earth One for buyers in Dhanori"
+      },
+      {
+        "slug": "vtp-earth-one-for-buyers-in-vishrantwadi",
+        "keyword": "VTP Earth One for buyers in Vishrantwadi"
+      },
+      {
+        "slug": "vtp-earth-one-for-buyers-in-karve-nagar",
+        "keyword": "VTP Earth One for buyers in Karve Nagar"
+      },
+      {
+        "slug": "vtp-earth-one-for-buyers-in-warje",
+        "keyword": "VTP Earth One for buyers in Warje"
+      },
+      {
+        "slug": "vtp-earth-one-for-buyers-in-talegaon",
+        "keyword": "VTP Earth One for buyers in Talegaon"
+      },
+      {
+        "slug": "vtp-earth-one-for-buyers-in-lonavala",
+        "keyword": "VTP Earth One for buyers in Lonavala"
+      },
+      {
         "slug": "vtp-earth-one-for-buyers-in-west-pune",
         "keyword": "VTP Earth One for buyers in West Pune"
       },
@@ -6268,6 +12297,10 @@ export const seoSilos = [
       {
         "slug": "vtp-earth-one-for-buyers-in-pune-city",
         "keyword": "VTP Earth One for buyers in Pune City"
+      },
+      {
+        "slug": "vtp-earth-one-for-buyers-in-pcmc-region",
+        "keyword": "VTP Earth One for buyers in PCMC Region"
       }
     ]
   },
@@ -6489,6 +12522,62 @@ export const seoSilos = [
         "keyword": "VTP Leonara for buyers in Kondhwa"
       },
       {
+        "slug": "vtp-leonara-for-buyers-in-sinhagad-road",
+        "keyword": "VTP Leonara for buyers in Sinhagad Road"
+      },
+      {
+        "slug": "vtp-leonara-for-buyers-in-dhayari",
+        "keyword": "VTP Leonara for buyers in Dhayari"
+      },
+      {
+        "slug": "vtp-leonara-for-buyers-in-nanded-city",
+        "keyword": "VTP Leonara for buyers in Nanded City"
+      },
+      {
+        "slug": "vtp-leonara-for-buyers-in-pimple-saudagar",
+        "keyword": "VTP Leonara for buyers in Pimple Saudagar"
+      },
+      {
+        "slug": "vtp-leonara-for-buyers-in-pimple-nilakh",
+        "keyword": "VTP Leonara for buyers in Pimple Nilakh"
+      },
+      {
+        "slug": "vtp-leonara-for-buyers-in-chikhali",
+        "keyword": "VTP Leonara for buyers in Chikhali"
+      },
+      {
+        "slug": "vtp-leonara-for-buyers-in-charholi",
+        "keyword": "VTP Leonara for buyers in Charholi"
+      },
+      {
+        "slug": "vtp-leonara-for-buyers-in-lohegaon",
+        "keyword": "VTP Leonara for buyers in Lohegaon"
+      },
+      {
+        "slug": "vtp-leonara-for-buyers-in-dhanori",
+        "keyword": "VTP Leonara for buyers in Dhanori"
+      },
+      {
+        "slug": "vtp-leonara-for-buyers-in-vishrantwadi",
+        "keyword": "VTP Leonara for buyers in Vishrantwadi"
+      },
+      {
+        "slug": "vtp-leonara-for-buyers-in-karve-nagar",
+        "keyword": "VTP Leonara for buyers in Karve Nagar"
+      },
+      {
+        "slug": "vtp-leonara-for-buyers-in-warje",
+        "keyword": "VTP Leonara for buyers in Warje"
+      },
+      {
+        "slug": "vtp-leonara-for-buyers-in-talegaon",
+        "keyword": "VTP Leonara for buyers in Talegaon"
+      },
+      {
+        "slug": "vtp-leonara-for-buyers-in-lonavala",
+        "keyword": "VTP Leonara for buyers in Lonavala"
+      },
+      {
         "slug": "vtp-leonara-for-buyers-in-west-pune",
         "keyword": "VTP Leonara for buyers in West Pune"
       },
@@ -6499,6 +12588,10 @@ export const seoSilos = [
       {
         "slug": "vtp-leonara-for-buyers-in-pune-city",
         "keyword": "VTP Leonara for buyers in Pune City"
+      },
+      {
+        "slug": "vtp-leonara-for-buyers-in-pcmc-region",
+        "keyword": "VTP Leonara for buyers in PCMC Region"
       }
     ]
   },
@@ -6720,6 +12813,62 @@ export const seoSilos = [
         "keyword": "VTP Bel Air for buyers in Kondhwa"
       },
       {
+        "slug": "vtp-bel-air-for-buyers-in-sinhagad-road",
+        "keyword": "VTP Bel Air for buyers in Sinhagad Road"
+      },
+      {
+        "slug": "vtp-bel-air-for-buyers-in-dhayari",
+        "keyword": "VTP Bel Air for buyers in Dhayari"
+      },
+      {
+        "slug": "vtp-bel-air-for-buyers-in-nanded-city",
+        "keyword": "VTP Bel Air for buyers in Nanded City"
+      },
+      {
+        "slug": "vtp-bel-air-for-buyers-in-pimple-saudagar",
+        "keyword": "VTP Bel Air for buyers in Pimple Saudagar"
+      },
+      {
+        "slug": "vtp-bel-air-for-buyers-in-pimple-nilakh",
+        "keyword": "VTP Bel Air for buyers in Pimple Nilakh"
+      },
+      {
+        "slug": "vtp-bel-air-for-buyers-in-chikhali",
+        "keyword": "VTP Bel Air for buyers in Chikhali"
+      },
+      {
+        "slug": "vtp-bel-air-for-buyers-in-charholi",
+        "keyword": "VTP Bel Air for buyers in Charholi"
+      },
+      {
+        "slug": "vtp-bel-air-for-buyers-in-lohegaon",
+        "keyword": "VTP Bel Air for buyers in Lohegaon"
+      },
+      {
+        "slug": "vtp-bel-air-for-buyers-in-dhanori",
+        "keyword": "VTP Bel Air for buyers in Dhanori"
+      },
+      {
+        "slug": "vtp-bel-air-for-buyers-in-vishrantwadi",
+        "keyword": "VTP Bel Air for buyers in Vishrantwadi"
+      },
+      {
+        "slug": "vtp-bel-air-for-buyers-in-karve-nagar",
+        "keyword": "VTP Bel Air for buyers in Karve Nagar"
+      },
+      {
+        "slug": "vtp-bel-air-for-buyers-in-warje",
+        "keyword": "VTP Bel Air for buyers in Warje"
+      },
+      {
+        "slug": "vtp-bel-air-for-buyers-in-talegaon",
+        "keyword": "VTP Bel Air for buyers in Talegaon"
+      },
+      {
+        "slug": "vtp-bel-air-for-buyers-in-lonavala",
+        "keyword": "VTP Bel Air for buyers in Lonavala"
+      },
+      {
         "slug": "vtp-bel-air-for-buyers-in-west-pune",
         "keyword": "VTP Bel Air for buyers in West Pune"
       },
@@ -6730,6 +12879,10 @@ export const seoSilos = [
       {
         "slug": "vtp-bel-air-for-buyers-in-pune-city",
         "keyword": "VTP Bel Air for buyers in Pune City"
+      },
+      {
+        "slug": "vtp-bel-air-for-buyers-in-pcmc-region",
+        "keyword": "VTP Bel Air for buyers in PCMC Region"
       }
     ]
   },
@@ -6951,6 +13104,62 @@ export const seoSilos = [
         "keyword": "VTP Alpine for buyers in Kondhwa"
       },
       {
+        "slug": "vtp-alpine-for-buyers-in-sinhagad-road",
+        "keyword": "VTP Alpine for buyers in Sinhagad Road"
+      },
+      {
+        "slug": "vtp-alpine-for-buyers-in-dhayari",
+        "keyword": "VTP Alpine for buyers in Dhayari"
+      },
+      {
+        "slug": "vtp-alpine-for-buyers-in-nanded-city",
+        "keyword": "VTP Alpine for buyers in Nanded City"
+      },
+      {
+        "slug": "vtp-alpine-for-buyers-in-pimple-saudagar",
+        "keyword": "VTP Alpine for buyers in Pimple Saudagar"
+      },
+      {
+        "slug": "vtp-alpine-for-buyers-in-pimple-nilakh",
+        "keyword": "VTP Alpine for buyers in Pimple Nilakh"
+      },
+      {
+        "slug": "vtp-alpine-for-buyers-in-chikhali",
+        "keyword": "VTP Alpine for buyers in Chikhali"
+      },
+      {
+        "slug": "vtp-alpine-for-buyers-in-charholi",
+        "keyword": "VTP Alpine for buyers in Charholi"
+      },
+      {
+        "slug": "vtp-alpine-for-buyers-in-lohegaon",
+        "keyword": "VTP Alpine for buyers in Lohegaon"
+      },
+      {
+        "slug": "vtp-alpine-for-buyers-in-dhanori",
+        "keyword": "VTP Alpine for buyers in Dhanori"
+      },
+      {
+        "slug": "vtp-alpine-for-buyers-in-vishrantwadi",
+        "keyword": "VTP Alpine for buyers in Vishrantwadi"
+      },
+      {
+        "slug": "vtp-alpine-for-buyers-in-karve-nagar",
+        "keyword": "VTP Alpine for buyers in Karve Nagar"
+      },
+      {
+        "slug": "vtp-alpine-for-buyers-in-warje",
+        "keyword": "VTP Alpine for buyers in Warje"
+      },
+      {
+        "slug": "vtp-alpine-for-buyers-in-talegaon",
+        "keyword": "VTP Alpine for buyers in Talegaon"
+      },
+      {
+        "slug": "vtp-alpine-for-buyers-in-lonavala",
+        "keyword": "VTP Alpine for buyers in Lonavala"
+      },
+      {
         "slug": "vtp-alpine-for-buyers-in-west-pune",
         "keyword": "VTP Alpine for buyers in West Pune"
       },
@@ -6961,6 +13170,10 @@ export const seoSilos = [
       {
         "slug": "vtp-alpine-for-buyers-in-pune-city",
         "keyword": "VTP Alpine for buyers in Pune City"
+      },
+      {
+        "slug": "vtp-alpine-for-buyers-in-pcmc-region",
+        "keyword": "VTP Alpine for buyers in PCMC Region"
       }
     ]
   },
@@ -7182,6 +13395,62 @@ export const seoSilos = [
         "keyword": "VTP Aethereus for buyers in Kondhwa"
       },
       {
+        "slug": "vtp-aethereus-for-buyers-in-sinhagad-road",
+        "keyword": "VTP Aethereus for buyers in Sinhagad Road"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-dhayari",
+        "keyword": "VTP Aethereus for buyers in Dhayari"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-nanded-city",
+        "keyword": "VTP Aethereus for buyers in Nanded City"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-pimple-saudagar",
+        "keyword": "VTP Aethereus for buyers in Pimple Saudagar"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-pimple-nilakh",
+        "keyword": "VTP Aethereus for buyers in Pimple Nilakh"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-chikhali",
+        "keyword": "VTP Aethereus for buyers in Chikhali"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-charholi",
+        "keyword": "VTP Aethereus for buyers in Charholi"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-lohegaon",
+        "keyword": "VTP Aethereus for buyers in Lohegaon"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-dhanori",
+        "keyword": "VTP Aethereus for buyers in Dhanori"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-vishrantwadi",
+        "keyword": "VTP Aethereus for buyers in Vishrantwadi"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-karve-nagar",
+        "keyword": "VTP Aethereus for buyers in Karve Nagar"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-warje",
+        "keyword": "VTP Aethereus for buyers in Warje"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-talegaon",
+        "keyword": "VTP Aethereus for buyers in Talegaon"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-lonavala",
+        "keyword": "VTP Aethereus for buyers in Lonavala"
+      },
+      {
         "slug": "vtp-aethereus-for-buyers-in-west-pune",
         "keyword": "VTP Aethereus for buyers in West Pune"
       },
@@ -7192,6 +13461,10 @@ export const seoSilos = [
       {
         "slug": "vtp-aethereus-for-buyers-in-pune-city",
         "keyword": "VTP Aethereus for buyers in Pune City"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-pcmc-region",
+        "keyword": "VTP Aethereus for buyers in PCMC Region"
       }
     ]
   },
@@ -7413,6 +13686,62 @@ export const seoSilos = [
         "keyword": "VTP Town Square for buyers in Kondhwa"
       },
       {
+        "slug": "vtp-town-square-for-buyers-in-sinhagad-road",
+        "keyword": "VTP Town Square for buyers in Sinhagad Road"
+      },
+      {
+        "slug": "vtp-town-square-for-buyers-in-dhayari",
+        "keyword": "VTP Town Square for buyers in Dhayari"
+      },
+      {
+        "slug": "vtp-town-square-for-buyers-in-nanded-city",
+        "keyword": "VTP Town Square for buyers in Nanded City"
+      },
+      {
+        "slug": "vtp-town-square-for-buyers-in-pimple-saudagar",
+        "keyword": "VTP Town Square for buyers in Pimple Saudagar"
+      },
+      {
+        "slug": "vtp-town-square-for-buyers-in-pimple-nilakh",
+        "keyword": "VTP Town Square for buyers in Pimple Nilakh"
+      },
+      {
+        "slug": "vtp-town-square-for-buyers-in-chikhali",
+        "keyword": "VTP Town Square for buyers in Chikhali"
+      },
+      {
+        "slug": "vtp-town-square-for-buyers-in-charholi",
+        "keyword": "VTP Town Square for buyers in Charholi"
+      },
+      {
+        "slug": "vtp-town-square-for-buyers-in-lohegaon",
+        "keyword": "VTP Town Square for buyers in Lohegaon"
+      },
+      {
+        "slug": "vtp-town-square-for-buyers-in-dhanori",
+        "keyword": "VTP Town Square for buyers in Dhanori"
+      },
+      {
+        "slug": "vtp-town-square-for-buyers-in-vishrantwadi",
+        "keyword": "VTP Town Square for buyers in Vishrantwadi"
+      },
+      {
+        "slug": "vtp-town-square-for-buyers-in-karve-nagar",
+        "keyword": "VTP Town Square for buyers in Karve Nagar"
+      },
+      {
+        "slug": "vtp-town-square-for-buyers-in-warje",
+        "keyword": "VTP Town Square for buyers in Warje"
+      },
+      {
+        "slug": "vtp-town-square-for-buyers-in-talegaon",
+        "keyword": "VTP Town Square for buyers in Talegaon"
+      },
+      {
+        "slug": "vtp-town-square-for-buyers-in-lonavala",
+        "keyword": "VTP Town Square for buyers in Lonavala"
+      },
+      {
         "slug": "vtp-town-square-for-buyers-in-west-pune",
         "keyword": "VTP Town Square for buyers in West Pune"
       },
@@ -7423,6 +13752,10 @@ export const seoSilos = [
       {
         "slug": "vtp-town-square-for-buyers-in-pune-city",
         "keyword": "VTP Town Square for buyers in Pune City"
+      },
+      {
+        "slug": "vtp-town-square-for-buyers-in-pcmc-region",
+        "keyword": "VTP Town Square for buyers in PCMC Region"
       }
     ]
   },
@@ -7644,6 +13977,62 @@ export const seoSilos = [
         "keyword": "VTP Sierra for buyers in Kondhwa"
       },
       {
+        "slug": "vtp-sierra-for-buyers-in-sinhagad-road",
+        "keyword": "VTP Sierra for buyers in Sinhagad Road"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-dhayari",
+        "keyword": "VTP Sierra for buyers in Dhayari"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-nanded-city",
+        "keyword": "VTP Sierra for buyers in Nanded City"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-pimple-saudagar",
+        "keyword": "VTP Sierra for buyers in Pimple Saudagar"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-pimple-nilakh",
+        "keyword": "VTP Sierra for buyers in Pimple Nilakh"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-chikhali",
+        "keyword": "VTP Sierra for buyers in Chikhali"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-charholi",
+        "keyword": "VTP Sierra for buyers in Charholi"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-lohegaon",
+        "keyword": "VTP Sierra for buyers in Lohegaon"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-dhanori",
+        "keyword": "VTP Sierra for buyers in Dhanori"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-vishrantwadi",
+        "keyword": "VTP Sierra for buyers in Vishrantwadi"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-karve-nagar",
+        "keyword": "VTP Sierra for buyers in Karve Nagar"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-warje",
+        "keyword": "VTP Sierra for buyers in Warje"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-talegaon",
+        "keyword": "VTP Sierra for buyers in Talegaon"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-lonavala",
+        "keyword": "VTP Sierra for buyers in Lonavala"
+      },
+      {
         "slug": "vtp-sierra-for-buyers-in-west-pune",
         "keyword": "VTP Sierra for buyers in West Pune"
       },
@@ -7654,6 +14043,10 @@ export const seoSilos = [
       {
         "slug": "vtp-sierra-for-buyers-in-pune-city",
         "keyword": "VTP Sierra for buyers in Pune City"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-pcmc-region",
+        "keyword": "VTP Sierra for buyers in PCMC Region"
       }
     ]
   },
@@ -7875,6 +14268,62 @@ export const seoSilos = [
         "keyword": "VTP Verve for buyers in Kondhwa"
       },
       {
+        "slug": "vtp-verve-for-buyers-in-sinhagad-road",
+        "keyword": "VTP Verve for buyers in Sinhagad Road"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-dhayari",
+        "keyword": "VTP Verve for buyers in Dhayari"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-nanded-city",
+        "keyword": "VTP Verve for buyers in Nanded City"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-pimple-saudagar",
+        "keyword": "VTP Verve for buyers in Pimple Saudagar"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-pimple-nilakh",
+        "keyword": "VTP Verve for buyers in Pimple Nilakh"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-chikhali",
+        "keyword": "VTP Verve for buyers in Chikhali"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-charholi",
+        "keyword": "VTP Verve for buyers in Charholi"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-lohegaon",
+        "keyword": "VTP Verve for buyers in Lohegaon"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-dhanori",
+        "keyword": "VTP Verve for buyers in Dhanori"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-vishrantwadi",
+        "keyword": "VTP Verve for buyers in Vishrantwadi"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-karve-nagar",
+        "keyword": "VTP Verve for buyers in Karve Nagar"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-warje",
+        "keyword": "VTP Verve for buyers in Warje"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-talegaon",
+        "keyword": "VTP Verve for buyers in Talegaon"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-lonavala",
+        "keyword": "VTP Verve for buyers in Lonavala"
+      },
+      {
         "slug": "vtp-verve-for-buyers-in-west-pune",
         "keyword": "VTP Verve for buyers in West Pune"
       },
@@ -7885,6 +14334,10 @@ export const seoSilos = [
       {
         "slug": "vtp-verve-for-buyers-in-pune-city",
         "keyword": "VTP Verve for buyers in Pune City"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-pcmc-region",
+        "keyword": "VTP Verve for buyers in PCMC Region"
       }
     ]
   },
@@ -8106,6 +14559,62 @@ export const seoSilos = [
         "keyword": "VTP Solitaire for buyers in Kondhwa"
       },
       {
+        "slug": "vtp-solitaire-for-buyers-in-sinhagad-road",
+        "keyword": "VTP Solitaire for buyers in Sinhagad Road"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-dhayari",
+        "keyword": "VTP Solitaire for buyers in Dhayari"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-nanded-city",
+        "keyword": "VTP Solitaire for buyers in Nanded City"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-pimple-saudagar",
+        "keyword": "VTP Solitaire for buyers in Pimple Saudagar"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-pimple-nilakh",
+        "keyword": "VTP Solitaire for buyers in Pimple Nilakh"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-chikhali",
+        "keyword": "VTP Solitaire for buyers in Chikhali"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-charholi",
+        "keyword": "VTP Solitaire for buyers in Charholi"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-lohegaon",
+        "keyword": "VTP Solitaire for buyers in Lohegaon"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-dhanori",
+        "keyword": "VTP Solitaire for buyers in Dhanori"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-vishrantwadi",
+        "keyword": "VTP Solitaire for buyers in Vishrantwadi"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-karve-nagar",
+        "keyword": "VTP Solitaire for buyers in Karve Nagar"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-warje",
+        "keyword": "VTP Solitaire for buyers in Warje"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-talegaon",
+        "keyword": "VTP Solitaire for buyers in Talegaon"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-lonavala",
+        "keyword": "VTP Solitaire for buyers in Lonavala"
+      },
+      {
         "slug": "vtp-solitaire-for-buyers-in-west-pune",
         "keyword": "VTP Solitaire for buyers in West Pune"
       },
@@ -8116,6 +14625,10 @@ export const seoSilos = [
       {
         "slug": "vtp-solitaire-for-buyers-in-pune-city",
         "keyword": "VTP Solitaire for buyers in Pune City"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-pcmc-region",
+        "keyword": "VTP Solitaire for buyers in PCMC Region"
       }
     ]
   },
@@ -8337,6 +14850,62 @@ export const seoSilos = [
         "keyword": "VTP Bellissimo for buyers in Kondhwa"
       },
       {
+        "slug": "vtp-bellissimo-for-buyers-in-sinhagad-road",
+        "keyword": "VTP Bellissimo for buyers in Sinhagad Road"
+      },
+      {
+        "slug": "vtp-bellissimo-for-buyers-in-dhayari",
+        "keyword": "VTP Bellissimo for buyers in Dhayari"
+      },
+      {
+        "slug": "vtp-bellissimo-for-buyers-in-nanded-city",
+        "keyword": "VTP Bellissimo for buyers in Nanded City"
+      },
+      {
+        "slug": "vtp-bellissimo-for-buyers-in-pimple-saudagar",
+        "keyword": "VTP Bellissimo for buyers in Pimple Saudagar"
+      },
+      {
+        "slug": "vtp-bellissimo-for-buyers-in-pimple-nilakh",
+        "keyword": "VTP Bellissimo for buyers in Pimple Nilakh"
+      },
+      {
+        "slug": "vtp-bellissimo-for-buyers-in-chikhali",
+        "keyword": "VTP Bellissimo for buyers in Chikhali"
+      },
+      {
+        "slug": "vtp-bellissimo-for-buyers-in-charholi",
+        "keyword": "VTP Bellissimo for buyers in Charholi"
+      },
+      {
+        "slug": "vtp-bellissimo-for-buyers-in-lohegaon",
+        "keyword": "VTP Bellissimo for buyers in Lohegaon"
+      },
+      {
+        "slug": "vtp-bellissimo-for-buyers-in-dhanori",
+        "keyword": "VTP Bellissimo for buyers in Dhanori"
+      },
+      {
+        "slug": "vtp-bellissimo-for-buyers-in-vishrantwadi",
+        "keyword": "VTP Bellissimo for buyers in Vishrantwadi"
+      },
+      {
+        "slug": "vtp-bellissimo-for-buyers-in-karve-nagar",
+        "keyword": "VTP Bellissimo for buyers in Karve Nagar"
+      },
+      {
+        "slug": "vtp-bellissimo-for-buyers-in-warje",
+        "keyword": "VTP Bellissimo for buyers in Warje"
+      },
+      {
+        "slug": "vtp-bellissimo-for-buyers-in-talegaon",
+        "keyword": "VTP Bellissimo for buyers in Talegaon"
+      },
+      {
+        "slug": "vtp-bellissimo-for-buyers-in-lonavala",
+        "keyword": "VTP Bellissimo for buyers in Lonavala"
+      },
+      {
         "slug": "vtp-bellissimo-for-buyers-in-west-pune",
         "keyword": "VTP Bellissimo for buyers in West Pune"
       },
@@ -8347,6 +14916,10 @@ export const seoSilos = [
       {
         "slug": "vtp-bellissimo-for-buyers-in-pune-city",
         "keyword": "VTP Bellissimo for buyers in Pune City"
+      },
+      {
+        "slug": "vtp-bellissimo-for-buyers-in-pcmc-region",
+        "keyword": "VTP Bellissimo for buyers in PCMC Region"
       }
     ]
   },
@@ -8568,6 +15141,62 @@ export const seoSilos = [
         "keyword": "VTP Monarque for buyers in Kondhwa"
       },
       {
+        "slug": "vtp-monarque-for-buyers-in-sinhagad-road",
+        "keyword": "VTP Monarque for buyers in Sinhagad Road"
+      },
+      {
+        "slug": "vtp-monarque-for-buyers-in-dhayari",
+        "keyword": "VTP Monarque for buyers in Dhayari"
+      },
+      {
+        "slug": "vtp-monarque-for-buyers-in-nanded-city",
+        "keyword": "VTP Monarque for buyers in Nanded City"
+      },
+      {
+        "slug": "vtp-monarque-for-buyers-in-pimple-saudagar",
+        "keyword": "VTP Monarque for buyers in Pimple Saudagar"
+      },
+      {
+        "slug": "vtp-monarque-for-buyers-in-pimple-nilakh",
+        "keyword": "VTP Monarque for buyers in Pimple Nilakh"
+      },
+      {
+        "slug": "vtp-monarque-for-buyers-in-chikhali",
+        "keyword": "VTP Monarque for buyers in Chikhali"
+      },
+      {
+        "slug": "vtp-monarque-for-buyers-in-charholi",
+        "keyword": "VTP Monarque for buyers in Charholi"
+      },
+      {
+        "slug": "vtp-monarque-for-buyers-in-lohegaon",
+        "keyword": "VTP Monarque for buyers in Lohegaon"
+      },
+      {
+        "slug": "vtp-monarque-for-buyers-in-dhanori",
+        "keyword": "VTP Monarque for buyers in Dhanori"
+      },
+      {
+        "slug": "vtp-monarque-for-buyers-in-vishrantwadi",
+        "keyword": "VTP Monarque for buyers in Vishrantwadi"
+      },
+      {
+        "slug": "vtp-monarque-for-buyers-in-karve-nagar",
+        "keyword": "VTP Monarque for buyers in Karve Nagar"
+      },
+      {
+        "slug": "vtp-monarque-for-buyers-in-warje",
+        "keyword": "VTP Monarque for buyers in Warje"
+      },
+      {
+        "slug": "vtp-monarque-for-buyers-in-talegaon",
+        "keyword": "VTP Monarque for buyers in Talegaon"
+      },
+      {
+        "slug": "vtp-monarque-for-buyers-in-lonavala",
+        "keyword": "VTP Monarque for buyers in Lonavala"
+      },
+      {
         "slug": "vtp-monarque-for-buyers-in-west-pune",
         "keyword": "VTP Monarque for buyers in West Pune"
       },
@@ -8578,6 +15207,10 @@ export const seoSilos = [
       {
         "slug": "vtp-monarque-for-buyers-in-pune-city",
         "keyword": "VTP Monarque for buyers in Pune City"
+      },
+      {
+        "slug": "vtp-monarque-for-buyers-in-pcmc-region",
+        "keyword": "VTP Monarque for buyers in PCMC Region"
       }
     ]
   },
@@ -8799,6 +15432,62 @@ export const seoSilos = [
         "keyword": "VTP Pegasus for buyers in Kondhwa"
       },
       {
+        "slug": "vtp-pegasus-for-buyers-in-sinhagad-road",
+        "keyword": "VTP Pegasus for buyers in Sinhagad Road"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-dhayari",
+        "keyword": "VTP Pegasus for buyers in Dhayari"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-nanded-city",
+        "keyword": "VTP Pegasus for buyers in Nanded City"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-pimple-saudagar",
+        "keyword": "VTP Pegasus for buyers in Pimple Saudagar"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-pimple-nilakh",
+        "keyword": "VTP Pegasus for buyers in Pimple Nilakh"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-chikhali",
+        "keyword": "VTP Pegasus for buyers in Chikhali"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-charholi",
+        "keyword": "VTP Pegasus for buyers in Charholi"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-lohegaon",
+        "keyword": "VTP Pegasus for buyers in Lohegaon"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-dhanori",
+        "keyword": "VTP Pegasus for buyers in Dhanori"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-vishrantwadi",
+        "keyword": "VTP Pegasus for buyers in Vishrantwadi"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-karve-nagar",
+        "keyword": "VTP Pegasus for buyers in Karve Nagar"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-warje",
+        "keyword": "VTP Pegasus for buyers in Warje"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-talegaon",
+        "keyword": "VTP Pegasus for buyers in Talegaon"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-lonavala",
+        "keyword": "VTP Pegasus for buyers in Lonavala"
+      },
+      {
         "slug": "vtp-pegasus-for-buyers-in-west-pune",
         "keyword": "VTP Pegasus for buyers in West Pune"
       },
@@ -8809,6 +15498,10 @@ export const seoSilos = [
       {
         "slug": "vtp-pegasus-for-buyers-in-pune-city",
         "keyword": "VTP Pegasus for buyers in Pune City"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-pcmc-region",
+        "keyword": "VTP Pegasus for buyers in PCMC Region"
       }
     ]
   },
@@ -9030,6 +15723,62 @@ export const seoSilos = [
         "keyword": "VTP Altamira for buyers in Kondhwa"
       },
       {
+        "slug": "vtp-altamira-for-buyers-in-sinhagad-road",
+        "keyword": "VTP Altamira for buyers in Sinhagad Road"
+      },
+      {
+        "slug": "vtp-altamira-for-buyers-in-dhayari",
+        "keyword": "VTP Altamira for buyers in Dhayari"
+      },
+      {
+        "slug": "vtp-altamira-for-buyers-in-nanded-city",
+        "keyword": "VTP Altamira for buyers in Nanded City"
+      },
+      {
+        "slug": "vtp-altamira-for-buyers-in-pimple-saudagar",
+        "keyword": "VTP Altamira for buyers in Pimple Saudagar"
+      },
+      {
+        "slug": "vtp-altamira-for-buyers-in-pimple-nilakh",
+        "keyword": "VTP Altamira for buyers in Pimple Nilakh"
+      },
+      {
+        "slug": "vtp-altamira-for-buyers-in-chikhali",
+        "keyword": "VTP Altamira for buyers in Chikhali"
+      },
+      {
+        "slug": "vtp-altamira-for-buyers-in-charholi",
+        "keyword": "VTP Altamira for buyers in Charholi"
+      },
+      {
+        "slug": "vtp-altamira-for-buyers-in-lohegaon",
+        "keyword": "VTP Altamira for buyers in Lohegaon"
+      },
+      {
+        "slug": "vtp-altamira-for-buyers-in-dhanori",
+        "keyword": "VTP Altamira for buyers in Dhanori"
+      },
+      {
+        "slug": "vtp-altamira-for-buyers-in-vishrantwadi",
+        "keyword": "VTP Altamira for buyers in Vishrantwadi"
+      },
+      {
+        "slug": "vtp-altamira-for-buyers-in-karve-nagar",
+        "keyword": "VTP Altamira for buyers in Karve Nagar"
+      },
+      {
+        "slug": "vtp-altamira-for-buyers-in-warje",
+        "keyword": "VTP Altamira for buyers in Warje"
+      },
+      {
+        "slug": "vtp-altamira-for-buyers-in-talegaon",
+        "keyword": "VTP Altamira for buyers in Talegaon"
+      },
+      {
+        "slug": "vtp-altamira-for-buyers-in-lonavala",
+        "keyword": "VTP Altamira for buyers in Lonavala"
+      },
+      {
         "slug": "vtp-altamira-for-buyers-in-west-pune",
         "keyword": "VTP Altamira for buyers in West Pune"
       },
@@ -9040,6 +15789,10 @@ export const seoSilos = [
       {
         "slug": "vtp-altamira-for-buyers-in-pune-city",
         "keyword": "VTP Altamira for buyers in Pune City"
+      },
+      {
+        "slug": "vtp-altamira-for-buyers-in-pcmc-region",
+        "keyword": "VTP Altamira for buyers in PCMC Region"
       }
     ]
   },
@@ -9261,6 +16014,62 @@ export const seoSilos = [
         "keyword": "VTP Flamante for buyers in Kondhwa"
       },
       {
+        "slug": "vtp-flamante-for-buyers-in-sinhagad-road",
+        "keyword": "VTP Flamante for buyers in Sinhagad Road"
+      },
+      {
+        "slug": "vtp-flamante-for-buyers-in-dhayari",
+        "keyword": "VTP Flamante for buyers in Dhayari"
+      },
+      {
+        "slug": "vtp-flamante-for-buyers-in-nanded-city",
+        "keyword": "VTP Flamante for buyers in Nanded City"
+      },
+      {
+        "slug": "vtp-flamante-for-buyers-in-pimple-saudagar",
+        "keyword": "VTP Flamante for buyers in Pimple Saudagar"
+      },
+      {
+        "slug": "vtp-flamante-for-buyers-in-pimple-nilakh",
+        "keyword": "VTP Flamante for buyers in Pimple Nilakh"
+      },
+      {
+        "slug": "vtp-flamante-for-buyers-in-chikhali",
+        "keyword": "VTP Flamante for buyers in Chikhali"
+      },
+      {
+        "slug": "vtp-flamante-for-buyers-in-charholi",
+        "keyword": "VTP Flamante for buyers in Charholi"
+      },
+      {
+        "slug": "vtp-flamante-for-buyers-in-lohegaon",
+        "keyword": "VTP Flamante for buyers in Lohegaon"
+      },
+      {
+        "slug": "vtp-flamante-for-buyers-in-dhanori",
+        "keyword": "VTP Flamante for buyers in Dhanori"
+      },
+      {
+        "slug": "vtp-flamante-for-buyers-in-vishrantwadi",
+        "keyword": "VTP Flamante for buyers in Vishrantwadi"
+      },
+      {
+        "slug": "vtp-flamante-for-buyers-in-karve-nagar",
+        "keyword": "VTP Flamante for buyers in Karve Nagar"
+      },
+      {
+        "slug": "vtp-flamante-for-buyers-in-warje",
+        "keyword": "VTP Flamante for buyers in Warje"
+      },
+      {
+        "slug": "vtp-flamante-for-buyers-in-talegaon",
+        "keyword": "VTP Flamante for buyers in Talegaon"
+      },
+      {
+        "slug": "vtp-flamante-for-buyers-in-lonavala",
+        "keyword": "VTP Flamante for buyers in Lonavala"
+      },
+      {
         "slug": "vtp-flamante-for-buyers-in-west-pune",
         "keyword": "VTP Flamante for buyers in West Pune"
       },
@@ -9271,6 +16080,10 @@ export const seoSilos = [
       {
         "slug": "vtp-flamante-for-buyers-in-pune-city",
         "keyword": "VTP Flamante for buyers in Pune City"
+      },
+      {
+        "slug": "vtp-flamante-for-buyers-in-pcmc-region",
+        "keyword": "VTP Flamante for buyers in PCMC Region"
       }
     ]
   },
@@ -9492,6 +16305,62 @@ export const seoSilos = [
         "keyword": "VTP Velvet Villas for buyers in Kondhwa"
       },
       {
+        "slug": "vtp-velvet-villas-for-buyers-in-sinhagad-road",
+        "keyword": "VTP Velvet Villas for buyers in Sinhagad Road"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-dhayari",
+        "keyword": "VTP Velvet Villas for buyers in Dhayari"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-nanded-city",
+        "keyword": "VTP Velvet Villas for buyers in Nanded City"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-pimple-saudagar",
+        "keyword": "VTP Velvet Villas for buyers in Pimple Saudagar"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-pimple-nilakh",
+        "keyword": "VTP Velvet Villas for buyers in Pimple Nilakh"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-chikhali",
+        "keyword": "VTP Velvet Villas for buyers in Chikhali"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-charholi",
+        "keyword": "VTP Velvet Villas for buyers in Charholi"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-lohegaon",
+        "keyword": "VTP Velvet Villas for buyers in Lohegaon"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-dhanori",
+        "keyword": "VTP Velvet Villas for buyers in Dhanori"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-vishrantwadi",
+        "keyword": "VTP Velvet Villas for buyers in Vishrantwadi"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-karve-nagar",
+        "keyword": "VTP Velvet Villas for buyers in Karve Nagar"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-warje",
+        "keyword": "VTP Velvet Villas for buyers in Warje"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-talegaon",
+        "keyword": "VTP Velvet Villas for buyers in Talegaon"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-lonavala",
+        "keyword": "VTP Velvet Villas for buyers in Lonavala"
+      },
+      {
         "slug": "vtp-velvet-villas-for-buyers-in-west-pune",
         "keyword": "VTP Velvet Villas for buyers in West Pune"
       },
@@ -9502,6 +16371,10 @@ export const seoSilos = [
       {
         "slug": "vtp-velvet-villas-for-buyers-in-pune-city",
         "keyword": "VTP Velvet Villas for buyers in Pune City"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-pcmc-region",
+        "keyword": "VTP Velvet Villas for buyers in PCMC Region"
       }
     ]
   },
@@ -9723,6 +16596,62 @@ export const seoSilos = [
         "keyword": "VTP Altair for buyers in Kondhwa"
       },
       {
+        "slug": "vtp-altair-for-buyers-in-sinhagad-road",
+        "keyword": "VTP Altair for buyers in Sinhagad Road"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-dhayari",
+        "keyword": "VTP Altair for buyers in Dhayari"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-nanded-city",
+        "keyword": "VTP Altair for buyers in Nanded City"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-pimple-saudagar",
+        "keyword": "VTP Altair for buyers in Pimple Saudagar"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-pimple-nilakh",
+        "keyword": "VTP Altair for buyers in Pimple Nilakh"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-chikhali",
+        "keyword": "VTP Altair for buyers in Chikhali"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-charholi",
+        "keyword": "VTP Altair for buyers in Charholi"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-lohegaon",
+        "keyword": "VTP Altair for buyers in Lohegaon"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-dhanori",
+        "keyword": "VTP Altair for buyers in Dhanori"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-vishrantwadi",
+        "keyword": "VTP Altair for buyers in Vishrantwadi"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-karve-nagar",
+        "keyword": "VTP Altair for buyers in Karve Nagar"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-warje",
+        "keyword": "VTP Altair for buyers in Warje"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-talegaon",
+        "keyword": "VTP Altair for buyers in Talegaon"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-lonavala",
+        "keyword": "VTP Altair for buyers in Lonavala"
+      },
+      {
         "slug": "vtp-altair-for-buyers-in-west-pune",
         "keyword": "VTP Altair for buyers in West Pune"
       },
@@ -9733,6 +16662,10 @@ export const seoSilos = [
       {
         "slug": "vtp-altair-for-buyers-in-pune-city",
         "keyword": "VTP Altair for buyers in Pune City"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-pcmc-region",
+        "keyword": "VTP Altair for buyers in PCMC Region"
       }
     ]
   },
@@ -9954,6 +16887,62 @@ export const seoSilos = [
         "keyword": "VTP Cygnus for buyers in Kondhwa"
       },
       {
+        "slug": "vtp-cygnus-for-buyers-in-sinhagad-road",
+        "keyword": "VTP Cygnus for buyers in Sinhagad Road"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-dhayari",
+        "keyword": "VTP Cygnus for buyers in Dhayari"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-nanded-city",
+        "keyword": "VTP Cygnus for buyers in Nanded City"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-pimple-saudagar",
+        "keyword": "VTP Cygnus for buyers in Pimple Saudagar"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-pimple-nilakh",
+        "keyword": "VTP Cygnus for buyers in Pimple Nilakh"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-chikhali",
+        "keyword": "VTP Cygnus for buyers in Chikhali"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-charholi",
+        "keyword": "VTP Cygnus for buyers in Charholi"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-lohegaon",
+        "keyword": "VTP Cygnus for buyers in Lohegaon"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-dhanori",
+        "keyword": "VTP Cygnus for buyers in Dhanori"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-vishrantwadi",
+        "keyword": "VTP Cygnus for buyers in Vishrantwadi"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-karve-nagar",
+        "keyword": "VTP Cygnus for buyers in Karve Nagar"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-warje",
+        "keyword": "VTP Cygnus for buyers in Warje"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-talegaon",
+        "keyword": "VTP Cygnus for buyers in Talegaon"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-lonavala",
+        "keyword": "VTP Cygnus for buyers in Lonavala"
+      },
+      {
         "slug": "vtp-cygnus-for-buyers-in-west-pune",
         "keyword": "VTP Cygnus for buyers in West Pune"
       },
@@ -9964,6 +16953,10 @@ export const seoSilos = [
       {
         "slug": "vtp-cygnus-for-buyers-in-pune-city",
         "keyword": "VTP Cygnus for buyers in Pune City"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-pcmc-region",
+        "keyword": "VTP Cygnus for buyers in PCMC Region"
       }
     ]
   },
@@ -10185,6 +17178,62 @@ export const seoSilos = [
         "keyword": "VTP Beaumonde for buyers in Kondhwa"
       },
       {
+        "slug": "vtp-beaumonde-for-buyers-in-sinhagad-road",
+        "keyword": "VTP Beaumonde for buyers in Sinhagad Road"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-dhayari",
+        "keyword": "VTP Beaumonde for buyers in Dhayari"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-nanded-city",
+        "keyword": "VTP Beaumonde for buyers in Nanded City"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-pimple-saudagar",
+        "keyword": "VTP Beaumonde for buyers in Pimple Saudagar"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-pimple-nilakh",
+        "keyword": "VTP Beaumonde for buyers in Pimple Nilakh"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-chikhali",
+        "keyword": "VTP Beaumonde for buyers in Chikhali"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-charholi",
+        "keyword": "VTP Beaumonde for buyers in Charholi"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-lohegaon",
+        "keyword": "VTP Beaumonde for buyers in Lohegaon"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-dhanori",
+        "keyword": "VTP Beaumonde for buyers in Dhanori"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-vishrantwadi",
+        "keyword": "VTP Beaumonde for buyers in Vishrantwadi"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-karve-nagar",
+        "keyword": "VTP Beaumonde for buyers in Karve Nagar"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-warje",
+        "keyword": "VTP Beaumonde for buyers in Warje"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-talegaon",
+        "keyword": "VTP Beaumonde for buyers in Talegaon"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-lonavala",
+        "keyword": "VTP Beaumonde for buyers in Lonavala"
+      },
+      {
         "slug": "vtp-beaumonde-for-buyers-in-west-pune",
         "keyword": "VTP Beaumonde for buyers in West Pune"
       },
@@ -10195,6 +17244,10 @@ export const seoSilos = [
       {
         "slug": "vtp-beaumonde-for-buyers-in-pune-city",
         "keyword": "VTP Beaumonde for buyers in Pune City"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-pcmc-region",
+        "keyword": "VTP Beaumonde for buyers in PCMC Region"
       }
     ]
   },
@@ -10416,6 +17469,62 @@ export const seoSilos = [
         "keyword": "VTP Purvanchal for buyers in Kondhwa"
       },
       {
+        "slug": "vtp-purvanchal-for-buyers-in-sinhagad-road",
+        "keyword": "VTP Purvanchal for buyers in Sinhagad Road"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-dhayari",
+        "keyword": "VTP Purvanchal for buyers in Dhayari"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-nanded-city",
+        "keyword": "VTP Purvanchal for buyers in Nanded City"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-pimple-saudagar",
+        "keyword": "VTP Purvanchal for buyers in Pimple Saudagar"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-pimple-nilakh",
+        "keyword": "VTP Purvanchal for buyers in Pimple Nilakh"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-chikhali",
+        "keyword": "VTP Purvanchal for buyers in Chikhali"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-charholi",
+        "keyword": "VTP Purvanchal for buyers in Charholi"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-lohegaon",
+        "keyword": "VTP Purvanchal for buyers in Lohegaon"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-dhanori",
+        "keyword": "VTP Purvanchal for buyers in Dhanori"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-vishrantwadi",
+        "keyword": "VTP Purvanchal for buyers in Vishrantwadi"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-karve-nagar",
+        "keyword": "VTP Purvanchal for buyers in Karve Nagar"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-warje",
+        "keyword": "VTP Purvanchal for buyers in Warje"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-talegaon",
+        "keyword": "VTP Purvanchal for buyers in Talegaon"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-lonavala",
+        "keyword": "VTP Purvanchal for buyers in Lonavala"
+      },
+      {
         "slug": "vtp-purvanchal-for-buyers-in-west-pune",
         "keyword": "VTP Purvanchal for buyers in West Pune"
       },
@@ -10426,6 +17535,10 @@ export const seoSilos = [
       {
         "slug": "vtp-purvanchal-for-buyers-in-pune-city",
         "keyword": "VTP Purvanchal for buyers in Pune City"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-pcmc-region",
+        "keyword": "VTP Purvanchal for buyers in PCMC Region"
       }
     ]
   },
@@ -10647,6 +17760,62 @@ export const seoSilos = [
         "keyword": "VTP Celesta for buyers in Kondhwa"
       },
       {
+        "slug": "vtp-celesta-for-buyers-in-sinhagad-road",
+        "keyword": "VTP Celesta for buyers in Sinhagad Road"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-dhayari",
+        "keyword": "VTP Celesta for buyers in Dhayari"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-nanded-city",
+        "keyword": "VTP Celesta for buyers in Nanded City"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-pimple-saudagar",
+        "keyword": "VTP Celesta for buyers in Pimple Saudagar"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-pimple-nilakh",
+        "keyword": "VTP Celesta for buyers in Pimple Nilakh"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-chikhali",
+        "keyword": "VTP Celesta for buyers in Chikhali"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-charholi",
+        "keyword": "VTP Celesta for buyers in Charholi"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-lohegaon",
+        "keyword": "VTP Celesta for buyers in Lohegaon"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-dhanori",
+        "keyword": "VTP Celesta for buyers in Dhanori"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-vishrantwadi",
+        "keyword": "VTP Celesta for buyers in Vishrantwadi"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-karve-nagar",
+        "keyword": "VTP Celesta for buyers in Karve Nagar"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-warje",
+        "keyword": "VTP Celesta for buyers in Warje"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-talegaon",
+        "keyword": "VTP Celesta for buyers in Talegaon"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-lonavala",
+        "keyword": "VTP Celesta for buyers in Lonavala"
+      },
+      {
         "slug": "vtp-celesta-for-buyers-in-west-pune",
         "keyword": "VTP Celesta for buyers in West Pune"
       },
@@ -10657,6 +17826,10 @@ export const seoSilos = [
       {
         "slug": "vtp-celesta-for-buyers-in-pune-city",
         "keyword": "VTP Celesta for buyers in Pune City"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-pcmc-region",
+        "keyword": "VTP Celesta for buyers in PCMC Region"
       }
     ]
   },
@@ -10878,6 +18051,62 @@ export const seoSilos = [
         "keyword": "VTP Urban Nest for buyers in Kondhwa"
       },
       {
+        "slug": "vtp-urban-nest-for-buyers-in-sinhagad-road",
+        "keyword": "VTP Urban Nest for buyers in Sinhagad Road"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-dhayari",
+        "keyword": "VTP Urban Nest for buyers in Dhayari"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-nanded-city",
+        "keyword": "VTP Urban Nest for buyers in Nanded City"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-pimple-saudagar",
+        "keyword": "VTP Urban Nest for buyers in Pimple Saudagar"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-pimple-nilakh",
+        "keyword": "VTP Urban Nest for buyers in Pimple Nilakh"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-chikhali",
+        "keyword": "VTP Urban Nest for buyers in Chikhali"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-charholi",
+        "keyword": "VTP Urban Nest for buyers in Charholi"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-lohegaon",
+        "keyword": "VTP Urban Nest for buyers in Lohegaon"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-dhanori",
+        "keyword": "VTP Urban Nest for buyers in Dhanori"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-vishrantwadi",
+        "keyword": "VTP Urban Nest for buyers in Vishrantwadi"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-karve-nagar",
+        "keyword": "VTP Urban Nest for buyers in Karve Nagar"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-warje",
+        "keyword": "VTP Urban Nest for buyers in Warje"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-talegaon",
+        "keyword": "VTP Urban Nest for buyers in Talegaon"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-lonavala",
+        "keyword": "VTP Urban Nest for buyers in Lonavala"
+      },
+      {
         "slug": "vtp-urban-nest-for-buyers-in-west-pune",
         "keyword": "VTP Urban Nest for buyers in West Pune"
       },
@@ -10888,6 +18117,10 @@ export const seoSilos = [
       {
         "slug": "vtp-urban-nest-for-buyers-in-pune-city",
         "keyword": "VTP Urban Nest for buyers in Pune City"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-pcmc-region",
+        "keyword": "VTP Urban Nest for buyers in PCMC Region"
       }
     ]
   },
@@ -11109,6 +18342,62 @@ export const seoSilos = [
         "keyword": "VTP Skylights for buyers in Kondhwa"
       },
       {
+        "slug": "vtp-skylights-for-buyers-in-sinhagad-road",
+        "keyword": "VTP Skylights for buyers in Sinhagad Road"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-dhayari",
+        "keyword": "VTP Skylights for buyers in Dhayari"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-nanded-city",
+        "keyword": "VTP Skylights for buyers in Nanded City"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-pimple-saudagar",
+        "keyword": "VTP Skylights for buyers in Pimple Saudagar"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-pimple-nilakh",
+        "keyword": "VTP Skylights for buyers in Pimple Nilakh"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-chikhali",
+        "keyword": "VTP Skylights for buyers in Chikhali"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-charholi",
+        "keyword": "VTP Skylights for buyers in Charholi"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-lohegaon",
+        "keyword": "VTP Skylights for buyers in Lohegaon"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-dhanori",
+        "keyword": "VTP Skylights for buyers in Dhanori"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-vishrantwadi",
+        "keyword": "VTP Skylights for buyers in Vishrantwadi"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-karve-nagar",
+        "keyword": "VTP Skylights for buyers in Karve Nagar"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-warje",
+        "keyword": "VTP Skylights for buyers in Warje"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-talegaon",
+        "keyword": "VTP Skylights for buyers in Talegaon"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-lonavala",
+        "keyword": "VTP Skylights for buyers in Lonavala"
+      },
+      {
         "slug": "vtp-skylights-for-buyers-in-west-pune",
         "keyword": "VTP Skylights for buyers in West Pune"
       },
@@ -11119,6 +18408,10 @@ export const seoSilos = [
       {
         "slug": "vtp-skylights-for-buyers-in-pune-city",
         "keyword": "VTP Skylights for buyers in Pune City"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-pcmc-region",
+        "keyword": "VTP Skylights for buyers in PCMC Region"
       }
     ]
   },
@@ -11146,6 +18439,154 @@ export const seoSilos = [
       {
         "slug": "pune-smart-city-projects-in-wakad",
         "keyword": "Pune Smart City Projects in Wakad"
+      },
+      {
+        "slug": "pune-smart-city-projects-in-balewadi",
+        "keyword": "Pune Smart City Projects in Balewadi"
+      },
+      {
+        "slug": "pune-smart-city-projects-in-tathawade",
+        "keyword": "Pune Smart City Projects in Tathawade"
+      },
+      {
+        "slug": "pune-smart-city-projects-in-bavdhan",
+        "keyword": "Pune Smart City Projects in Bavdhan"
+      },
+      {
+        "slug": "pune-smart-city-projects-in-aundh",
+        "keyword": "Pune Smart City Projects in Aundh"
+      },
+      {
+        "slug": "pune-smart-city-projects-in-pashan",
+        "keyword": "Pune Smart City Projects in Pashan"
+      },
+      {
+        "slug": "pune-smart-city-projects-in-sus",
+        "keyword": "Pune Smart City Projects in Sus"
+      },
+      {
+        "slug": "pune-smart-city-projects-in-kothrud",
+        "keyword": "Pune Smart City Projects in Kothrud"
+      },
+      {
+        "slug": "pune-smart-city-projects-in-kalyani-nagar",
+        "keyword": "Pune Smart City Projects in Kalyani Nagar"
+      },
+      {
+        "slug": "pune-smart-city-projects-in-koregaon-park",
+        "keyword": "Pune Smart City Projects in Koregaon Park"
+      },
+      {
+        "slug": "pune-smart-city-projects-in-viman-nagar",
+        "keyword": "Pune Smart City Projects in Viman Nagar"
+      },
+      {
+        "slug": "pune-smart-city-projects-in-magarpatta",
+        "keyword": "Pune Smart City Projects in Magarpatta"
+      },
+      {
+        "slug": "pune-smart-city-projects-in-hadapsar",
+        "keyword": "Pune Smart City Projects in Hadapsar"
+      },
+      {
+        "slug": "pune-smart-city-projects-in-wagholi",
+        "keyword": "Pune Smart City Projects in Wagholi"
+      },
+      {
+        "slug": "pune-smart-city-projects-in-pcmc",
+        "keyword": "Pune Smart City Projects in PCMC"
+      },
+      {
+        "slug": "pune-smart-city-projects-in-ravet",
+        "keyword": "Pune Smart City Projects in Ravet"
+      },
+      {
+        "slug": "pune-smart-city-projects-in-punawale",
+        "keyword": "Pune Smart City Projects in Punawale"
+      },
+      {
+        "slug": "pune-smart-city-projects-in-moshi",
+        "keyword": "Pune Smart City Projects in Moshi"
+      },
+      {
+        "slug": "pune-smart-city-projects-in-undri",
+        "keyword": "Pune Smart City Projects in Undri"
+      },
+      {
+        "slug": "pune-smart-city-projects-in-kondhwa",
+        "keyword": "Pune Smart City Projects in Kondhwa"
+      },
+      {
+        "slug": "pune-smart-city-projects-in-sinhagad-road",
+        "keyword": "Pune Smart City Projects in Sinhagad Road"
+      },
+      {
+        "slug": "pune-smart-city-projects-in-dhayari",
+        "keyword": "Pune Smart City Projects in Dhayari"
+      },
+      {
+        "slug": "pune-smart-city-projects-in-nanded-city",
+        "keyword": "Pune Smart City Projects in Nanded City"
+      },
+      {
+        "slug": "pune-smart-city-projects-in-pimple-saudagar",
+        "keyword": "Pune Smart City Projects in Pimple Saudagar"
+      },
+      {
+        "slug": "pune-smart-city-projects-in-pimple-nilakh",
+        "keyword": "Pune Smart City Projects in Pimple Nilakh"
+      },
+      {
+        "slug": "pune-smart-city-projects-in-chikhali",
+        "keyword": "Pune Smart City Projects in Chikhali"
+      },
+      {
+        "slug": "pune-smart-city-projects-in-charholi",
+        "keyword": "Pune Smart City Projects in Charholi"
+      },
+      {
+        "slug": "pune-smart-city-projects-in-lohegaon",
+        "keyword": "Pune Smart City Projects in Lohegaon"
+      },
+      {
+        "slug": "pune-smart-city-projects-in-dhanori",
+        "keyword": "Pune Smart City Projects in Dhanori"
+      },
+      {
+        "slug": "pune-smart-city-projects-in-vishrantwadi",
+        "keyword": "Pune Smart City Projects in Vishrantwadi"
+      },
+      {
+        "slug": "pune-smart-city-projects-in-karve-nagar",
+        "keyword": "Pune Smart City Projects in Karve Nagar"
+      },
+      {
+        "slug": "pune-smart-city-projects-in-warje",
+        "keyword": "Pune Smart City Projects in Warje"
+      },
+      {
+        "slug": "pune-smart-city-projects-in-talegaon",
+        "keyword": "Pune Smart City Projects in Talegaon"
+      },
+      {
+        "slug": "pune-smart-city-projects-in-lonavala",
+        "keyword": "Pune Smart City Projects in Lonavala"
+      },
+      {
+        "slug": "pune-smart-city-projects-in-west-pune",
+        "keyword": "Pune Smart City Projects in West Pune"
+      },
+      {
+        "slug": "pune-smart-city-projects-in-east-pune",
+        "keyword": "Pune Smart City Projects in East Pune"
+      },
+      {
+        "slug": "pune-smart-city-projects-in-pune-city",
+        "keyword": "Pune Smart City Projects in Pune City"
+      },
+      {
+        "slug": "pune-smart-city-projects-in-pcmc-region",
+        "keyword": "Pune Smart City Projects in PCMC Region"
       }
     ]
   },
@@ -11173,6 +18614,154 @@ export const seoSilos = [
       {
         "slug": "riverfront-living-pune-in-wakad",
         "keyword": "Riverfront Living Pune in Wakad"
+      },
+      {
+        "slug": "riverfront-living-pune-in-balewadi",
+        "keyword": "Riverfront Living Pune in Balewadi"
+      },
+      {
+        "slug": "riverfront-living-pune-in-tathawade",
+        "keyword": "Riverfront Living Pune in Tathawade"
+      },
+      {
+        "slug": "riverfront-living-pune-in-bavdhan",
+        "keyword": "Riverfront Living Pune in Bavdhan"
+      },
+      {
+        "slug": "riverfront-living-pune-in-aundh",
+        "keyword": "Riverfront Living Pune in Aundh"
+      },
+      {
+        "slug": "riverfront-living-pune-in-pashan",
+        "keyword": "Riverfront Living Pune in Pashan"
+      },
+      {
+        "slug": "riverfront-living-pune-in-sus",
+        "keyword": "Riverfront Living Pune in Sus"
+      },
+      {
+        "slug": "riverfront-living-pune-in-kothrud",
+        "keyword": "Riverfront Living Pune in Kothrud"
+      },
+      {
+        "slug": "riverfront-living-pune-in-kalyani-nagar",
+        "keyword": "Riverfront Living Pune in Kalyani Nagar"
+      },
+      {
+        "slug": "riverfront-living-pune-in-koregaon-park",
+        "keyword": "Riverfront Living Pune in Koregaon Park"
+      },
+      {
+        "slug": "riverfront-living-pune-in-viman-nagar",
+        "keyword": "Riverfront Living Pune in Viman Nagar"
+      },
+      {
+        "slug": "riverfront-living-pune-in-magarpatta",
+        "keyword": "Riverfront Living Pune in Magarpatta"
+      },
+      {
+        "slug": "riverfront-living-pune-in-hadapsar",
+        "keyword": "Riverfront Living Pune in Hadapsar"
+      },
+      {
+        "slug": "riverfront-living-pune-in-wagholi",
+        "keyword": "Riverfront Living Pune in Wagholi"
+      },
+      {
+        "slug": "riverfront-living-pune-in-pcmc",
+        "keyword": "Riverfront Living Pune in PCMC"
+      },
+      {
+        "slug": "riverfront-living-pune-in-ravet",
+        "keyword": "Riverfront Living Pune in Ravet"
+      },
+      {
+        "slug": "riverfront-living-pune-in-punawale",
+        "keyword": "Riverfront Living Pune in Punawale"
+      },
+      {
+        "slug": "riverfront-living-pune-in-moshi",
+        "keyword": "Riverfront Living Pune in Moshi"
+      },
+      {
+        "slug": "riverfront-living-pune-in-undri",
+        "keyword": "Riverfront Living Pune in Undri"
+      },
+      {
+        "slug": "riverfront-living-pune-in-kondhwa",
+        "keyword": "Riverfront Living Pune in Kondhwa"
+      },
+      {
+        "slug": "riverfront-living-pune-in-sinhagad-road",
+        "keyword": "Riverfront Living Pune in Sinhagad Road"
+      },
+      {
+        "slug": "riverfront-living-pune-in-dhayari",
+        "keyword": "Riverfront Living Pune in Dhayari"
+      },
+      {
+        "slug": "riverfront-living-pune-in-nanded-city",
+        "keyword": "Riverfront Living Pune in Nanded City"
+      },
+      {
+        "slug": "riverfront-living-pune-in-pimple-saudagar",
+        "keyword": "Riverfront Living Pune in Pimple Saudagar"
+      },
+      {
+        "slug": "riverfront-living-pune-in-pimple-nilakh",
+        "keyword": "Riverfront Living Pune in Pimple Nilakh"
+      },
+      {
+        "slug": "riverfront-living-pune-in-chikhali",
+        "keyword": "Riverfront Living Pune in Chikhali"
+      },
+      {
+        "slug": "riverfront-living-pune-in-charholi",
+        "keyword": "Riverfront Living Pune in Charholi"
+      },
+      {
+        "slug": "riverfront-living-pune-in-lohegaon",
+        "keyword": "Riverfront Living Pune in Lohegaon"
+      },
+      {
+        "slug": "riverfront-living-pune-in-dhanori",
+        "keyword": "Riverfront Living Pune in Dhanori"
+      },
+      {
+        "slug": "riverfront-living-pune-in-vishrantwadi",
+        "keyword": "Riverfront Living Pune in Vishrantwadi"
+      },
+      {
+        "slug": "riverfront-living-pune-in-karve-nagar",
+        "keyword": "Riverfront Living Pune in Karve Nagar"
+      },
+      {
+        "slug": "riverfront-living-pune-in-warje",
+        "keyword": "Riverfront Living Pune in Warje"
+      },
+      {
+        "slug": "riverfront-living-pune-in-talegaon",
+        "keyword": "Riverfront Living Pune in Talegaon"
+      },
+      {
+        "slug": "riverfront-living-pune-in-lonavala",
+        "keyword": "Riverfront Living Pune in Lonavala"
+      },
+      {
+        "slug": "riverfront-living-pune-in-west-pune",
+        "keyword": "Riverfront Living Pune in West Pune"
+      },
+      {
+        "slug": "riverfront-living-pune-in-east-pune",
+        "keyword": "Riverfront Living Pune in East Pune"
+      },
+      {
+        "slug": "riverfront-living-pune-in-pune-city",
+        "keyword": "Riverfront Living Pune in Pune City"
+      },
+      {
+        "slug": "riverfront-living-pune-in-pcmc-region",
+        "keyword": "Riverfront Living Pune in PCMC Region"
       }
     ]
   },
@@ -11200,6 +18789,154 @@ export const seoSilos = [
       {
         "slug": "high-roi-investment-pune-in-wakad",
         "keyword": "High ROI Investment Pune in Wakad"
+      },
+      {
+        "slug": "high-roi-investment-pune-in-balewadi",
+        "keyword": "High ROI Investment Pune in Balewadi"
+      },
+      {
+        "slug": "high-roi-investment-pune-in-tathawade",
+        "keyword": "High ROI Investment Pune in Tathawade"
+      },
+      {
+        "slug": "high-roi-investment-pune-in-bavdhan",
+        "keyword": "High ROI Investment Pune in Bavdhan"
+      },
+      {
+        "slug": "high-roi-investment-pune-in-aundh",
+        "keyword": "High ROI Investment Pune in Aundh"
+      },
+      {
+        "slug": "high-roi-investment-pune-in-pashan",
+        "keyword": "High ROI Investment Pune in Pashan"
+      },
+      {
+        "slug": "high-roi-investment-pune-in-sus",
+        "keyword": "High ROI Investment Pune in Sus"
+      },
+      {
+        "slug": "high-roi-investment-pune-in-kothrud",
+        "keyword": "High ROI Investment Pune in Kothrud"
+      },
+      {
+        "slug": "high-roi-investment-pune-in-kalyani-nagar",
+        "keyword": "High ROI Investment Pune in Kalyani Nagar"
+      },
+      {
+        "slug": "high-roi-investment-pune-in-koregaon-park",
+        "keyword": "High ROI Investment Pune in Koregaon Park"
+      },
+      {
+        "slug": "high-roi-investment-pune-in-viman-nagar",
+        "keyword": "High ROI Investment Pune in Viman Nagar"
+      },
+      {
+        "slug": "high-roi-investment-pune-in-magarpatta",
+        "keyword": "High ROI Investment Pune in Magarpatta"
+      },
+      {
+        "slug": "high-roi-investment-pune-in-hadapsar",
+        "keyword": "High ROI Investment Pune in Hadapsar"
+      },
+      {
+        "slug": "high-roi-investment-pune-in-wagholi",
+        "keyword": "High ROI Investment Pune in Wagholi"
+      },
+      {
+        "slug": "high-roi-investment-pune-in-pcmc",
+        "keyword": "High ROI Investment Pune in PCMC"
+      },
+      {
+        "slug": "high-roi-investment-pune-in-ravet",
+        "keyword": "High ROI Investment Pune in Ravet"
+      },
+      {
+        "slug": "high-roi-investment-pune-in-punawale",
+        "keyword": "High ROI Investment Pune in Punawale"
+      },
+      {
+        "slug": "high-roi-investment-pune-in-moshi",
+        "keyword": "High ROI Investment Pune in Moshi"
+      },
+      {
+        "slug": "high-roi-investment-pune-in-undri",
+        "keyword": "High ROI Investment Pune in Undri"
+      },
+      {
+        "slug": "high-roi-investment-pune-in-kondhwa",
+        "keyword": "High ROI Investment Pune in Kondhwa"
+      },
+      {
+        "slug": "high-roi-investment-pune-in-sinhagad-road",
+        "keyword": "High ROI Investment Pune in Sinhagad Road"
+      },
+      {
+        "slug": "high-roi-investment-pune-in-dhayari",
+        "keyword": "High ROI Investment Pune in Dhayari"
+      },
+      {
+        "slug": "high-roi-investment-pune-in-nanded-city",
+        "keyword": "High ROI Investment Pune in Nanded City"
+      },
+      {
+        "slug": "high-roi-investment-pune-in-pimple-saudagar",
+        "keyword": "High ROI Investment Pune in Pimple Saudagar"
+      },
+      {
+        "slug": "high-roi-investment-pune-in-pimple-nilakh",
+        "keyword": "High ROI Investment Pune in Pimple Nilakh"
+      },
+      {
+        "slug": "high-roi-investment-pune-in-chikhali",
+        "keyword": "High ROI Investment Pune in Chikhali"
+      },
+      {
+        "slug": "high-roi-investment-pune-in-charholi",
+        "keyword": "High ROI Investment Pune in Charholi"
+      },
+      {
+        "slug": "high-roi-investment-pune-in-lohegaon",
+        "keyword": "High ROI Investment Pune in Lohegaon"
+      },
+      {
+        "slug": "high-roi-investment-pune-in-dhanori",
+        "keyword": "High ROI Investment Pune in Dhanori"
+      },
+      {
+        "slug": "high-roi-investment-pune-in-vishrantwadi",
+        "keyword": "High ROI Investment Pune in Vishrantwadi"
+      },
+      {
+        "slug": "high-roi-investment-pune-in-karve-nagar",
+        "keyword": "High ROI Investment Pune in Karve Nagar"
+      },
+      {
+        "slug": "high-roi-investment-pune-in-warje",
+        "keyword": "High ROI Investment Pune in Warje"
+      },
+      {
+        "slug": "high-roi-investment-pune-in-talegaon",
+        "keyword": "High ROI Investment Pune in Talegaon"
+      },
+      {
+        "slug": "high-roi-investment-pune-in-lonavala",
+        "keyword": "High ROI Investment Pune in Lonavala"
+      },
+      {
+        "slug": "high-roi-investment-pune-in-west-pune",
+        "keyword": "High ROI Investment Pune in West Pune"
+      },
+      {
+        "slug": "high-roi-investment-pune-in-east-pune",
+        "keyword": "High ROI Investment Pune in East Pune"
+      },
+      {
+        "slug": "high-roi-investment-pune-in-pune-city",
+        "keyword": "High ROI Investment Pune in Pune City"
+      },
+      {
+        "slug": "high-roi-investment-pune-in-pcmc-region",
+        "keyword": "High ROI Investment Pune in PCMC Region"
       }
     ]
   },
@@ -11227,6 +18964,154 @@ export const seoSilos = [
       {
         "slug": "zero-brokerage-flats-pune-in-wakad",
         "keyword": "Zero Brokerage Flats Pune in Wakad"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-in-balewadi",
+        "keyword": "Zero Brokerage Flats Pune in Balewadi"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-in-tathawade",
+        "keyword": "Zero Brokerage Flats Pune in Tathawade"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-in-bavdhan",
+        "keyword": "Zero Brokerage Flats Pune in Bavdhan"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-in-aundh",
+        "keyword": "Zero Brokerage Flats Pune in Aundh"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-in-pashan",
+        "keyword": "Zero Brokerage Flats Pune in Pashan"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-in-sus",
+        "keyword": "Zero Brokerage Flats Pune in Sus"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-in-kothrud",
+        "keyword": "Zero Brokerage Flats Pune in Kothrud"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-in-kalyani-nagar",
+        "keyword": "Zero Brokerage Flats Pune in Kalyani Nagar"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-in-koregaon-park",
+        "keyword": "Zero Brokerage Flats Pune in Koregaon Park"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-in-viman-nagar",
+        "keyword": "Zero Brokerage Flats Pune in Viman Nagar"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-in-magarpatta",
+        "keyword": "Zero Brokerage Flats Pune in Magarpatta"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-in-hadapsar",
+        "keyword": "Zero Brokerage Flats Pune in Hadapsar"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-in-wagholi",
+        "keyword": "Zero Brokerage Flats Pune in Wagholi"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-in-pcmc",
+        "keyword": "Zero Brokerage Flats Pune in PCMC"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-in-ravet",
+        "keyword": "Zero Brokerage Flats Pune in Ravet"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-in-punawale",
+        "keyword": "Zero Brokerage Flats Pune in Punawale"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-in-moshi",
+        "keyword": "Zero Brokerage Flats Pune in Moshi"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-in-undri",
+        "keyword": "Zero Brokerage Flats Pune in Undri"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-in-kondhwa",
+        "keyword": "Zero Brokerage Flats Pune in Kondhwa"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-in-sinhagad-road",
+        "keyword": "Zero Brokerage Flats Pune in Sinhagad Road"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-in-dhayari",
+        "keyword": "Zero Brokerage Flats Pune in Dhayari"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-in-nanded-city",
+        "keyword": "Zero Brokerage Flats Pune in Nanded City"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-in-pimple-saudagar",
+        "keyword": "Zero Brokerage Flats Pune in Pimple Saudagar"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-in-pimple-nilakh",
+        "keyword": "Zero Brokerage Flats Pune in Pimple Nilakh"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-in-chikhali",
+        "keyword": "Zero Brokerage Flats Pune in Chikhali"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-in-charholi",
+        "keyword": "Zero Brokerage Flats Pune in Charholi"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-in-lohegaon",
+        "keyword": "Zero Brokerage Flats Pune in Lohegaon"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-in-dhanori",
+        "keyword": "Zero Brokerage Flats Pune in Dhanori"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-in-vishrantwadi",
+        "keyword": "Zero Brokerage Flats Pune in Vishrantwadi"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-in-karve-nagar",
+        "keyword": "Zero Brokerage Flats Pune in Karve Nagar"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-in-warje",
+        "keyword": "Zero Brokerage Flats Pune in Warje"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-in-talegaon",
+        "keyword": "Zero Brokerage Flats Pune in Talegaon"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-in-lonavala",
+        "keyword": "Zero Brokerage Flats Pune in Lonavala"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-in-west-pune",
+        "keyword": "Zero Brokerage Flats Pune in West Pune"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-in-east-pune",
+        "keyword": "Zero Brokerage Flats Pune in East Pune"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-in-pune-city",
+        "keyword": "Zero Brokerage Flats Pune in Pune City"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-in-pcmc-region",
+        "keyword": "Zero Brokerage Flats Pune in PCMC Region"
       }
     ]
   },
@@ -11254,6 +19139,154 @@ export const seoSilos = [
       {
         "slug": "rera-registered-projects-pune-in-wakad",
         "keyword": "RERA Registered Projects Pune in Wakad"
+      },
+      {
+        "slug": "rera-registered-projects-pune-in-balewadi",
+        "keyword": "RERA Registered Projects Pune in Balewadi"
+      },
+      {
+        "slug": "rera-registered-projects-pune-in-tathawade",
+        "keyword": "RERA Registered Projects Pune in Tathawade"
+      },
+      {
+        "slug": "rera-registered-projects-pune-in-bavdhan",
+        "keyword": "RERA Registered Projects Pune in Bavdhan"
+      },
+      {
+        "slug": "rera-registered-projects-pune-in-aundh",
+        "keyword": "RERA Registered Projects Pune in Aundh"
+      },
+      {
+        "slug": "rera-registered-projects-pune-in-pashan",
+        "keyword": "RERA Registered Projects Pune in Pashan"
+      },
+      {
+        "slug": "rera-registered-projects-pune-in-sus",
+        "keyword": "RERA Registered Projects Pune in Sus"
+      },
+      {
+        "slug": "rera-registered-projects-pune-in-kothrud",
+        "keyword": "RERA Registered Projects Pune in Kothrud"
+      },
+      {
+        "slug": "rera-registered-projects-pune-in-kalyani-nagar",
+        "keyword": "RERA Registered Projects Pune in Kalyani Nagar"
+      },
+      {
+        "slug": "rera-registered-projects-pune-in-koregaon-park",
+        "keyword": "RERA Registered Projects Pune in Koregaon Park"
+      },
+      {
+        "slug": "rera-registered-projects-pune-in-viman-nagar",
+        "keyword": "RERA Registered Projects Pune in Viman Nagar"
+      },
+      {
+        "slug": "rera-registered-projects-pune-in-magarpatta",
+        "keyword": "RERA Registered Projects Pune in Magarpatta"
+      },
+      {
+        "slug": "rera-registered-projects-pune-in-hadapsar",
+        "keyword": "RERA Registered Projects Pune in Hadapsar"
+      },
+      {
+        "slug": "rera-registered-projects-pune-in-wagholi",
+        "keyword": "RERA Registered Projects Pune in Wagholi"
+      },
+      {
+        "slug": "rera-registered-projects-pune-in-pcmc",
+        "keyword": "RERA Registered Projects Pune in PCMC"
+      },
+      {
+        "slug": "rera-registered-projects-pune-in-ravet",
+        "keyword": "RERA Registered Projects Pune in Ravet"
+      },
+      {
+        "slug": "rera-registered-projects-pune-in-punawale",
+        "keyword": "RERA Registered Projects Pune in Punawale"
+      },
+      {
+        "slug": "rera-registered-projects-pune-in-moshi",
+        "keyword": "RERA Registered Projects Pune in Moshi"
+      },
+      {
+        "slug": "rera-registered-projects-pune-in-undri",
+        "keyword": "RERA Registered Projects Pune in Undri"
+      },
+      {
+        "slug": "rera-registered-projects-pune-in-kondhwa",
+        "keyword": "RERA Registered Projects Pune in Kondhwa"
+      },
+      {
+        "slug": "rera-registered-projects-pune-in-sinhagad-road",
+        "keyword": "RERA Registered Projects Pune in Sinhagad Road"
+      },
+      {
+        "slug": "rera-registered-projects-pune-in-dhayari",
+        "keyword": "RERA Registered Projects Pune in Dhayari"
+      },
+      {
+        "slug": "rera-registered-projects-pune-in-nanded-city",
+        "keyword": "RERA Registered Projects Pune in Nanded City"
+      },
+      {
+        "slug": "rera-registered-projects-pune-in-pimple-saudagar",
+        "keyword": "RERA Registered Projects Pune in Pimple Saudagar"
+      },
+      {
+        "slug": "rera-registered-projects-pune-in-pimple-nilakh",
+        "keyword": "RERA Registered Projects Pune in Pimple Nilakh"
+      },
+      {
+        "slug": "rera-registered-projects-pune-in-chikhali",
+        "keyword": "RERA Registered Projects Pune in Chikhali"
+      },
+      {
+        "slug": "rera-registered-projects-pune-in-charholi",
+        "keyword": "RERA Registered Projects Pune in Charholi"
+      },
+      {
+        "slug": "rera-registered-projects-pune-in-lohegaon",
+        "keyword": "RERA Registered Projects Pune in Lohegaon"
+      },
+      {
+        "slug": "rera-registered-projects-pune-in-dhanori",
+        "keyword": "RERA Registered Projects Pune in Dhanori"
+      },
+      {
+        "slug": "rera-registered-projects-pune-in-vishrantwadi",
+        "keyword": "RERA Registered Projects Pune in Vishrantwadi"
+      },
+      {
+        "slug": "rera-registered-projects-pune-in-karve-nagar",
+        "keyword": "RERA Registered Projects Pune in Karve Nagar"
+      },
+      {
+        "slug": "rera-registered-projects-pune-in-warje",
+        "keyword": "RERA Registered Projects Pune in Warje"
+      },
+      {
+        "slug": "rera-registered-projects-pune-in-talegaon",
+        "keyword": "RERA Registered Projects Pune in Talegaon"
+      },
+      {
+        "slug": "rera-registered-projects-pune-in-lonavala",
+        "keyword": "RERA Registered Projects Pune in Lonavala"
+      },
+      {
+        "slug": "rera-registered-projects-pune-in-west-pune",
+        "keyword": "RERA Registered Projects Pune in West Pune"
+      },
+      {
+        "slug": "rera-registered-projects-pune-in-east-pune",
+        "keyword": "RERA Registered Projects Pune in East Pune"
+      },
+      {
+        "slug": "rera-registered-projects-pune-in-pune-city",
+        "keyword": "RERA Registered Projects Pune in Pune City"
+      },
+      {
+        "slug": "rera-registered-projects-pune-in-pcmc-region",
+        "keyword": "RERA Registered Projects Pune in PCMC Region"
       }
     ]
   },
@@ -11281,6 +19314,154 @@ export const seoSilos = [
       {
         "slug": "best-areas-to-invest-in-pune-2026-in-wakad",
         "keyword": "Best Areas to Invest in Pune 2026 in Wakad"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-balewadi",
+        "keyword": "Best Areas to Invest in Pune 2026 in Balewadi"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-tathawade",
+        "keyword": "Best Areas to Invest in Pune 2026 in Tathawade"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-bavdhan",
+        "keyword": "Best Areas to Invest in Pune 2026 in Bavdhan"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-aundh",
+        "keyword": "Best Areas to Invest in Pune 2026 in Aundh"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-pashan",
+        "keyword": "Best Areas to Invest in Pune 2026 in Pashan"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-sus",
+        "keyword": "Best Areas to Invest in Pune 2026 in Sus"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-kothrud",
+        "keyword": "Best Areas to Invest in Pune 2026 in Kothrud"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-kalyani-nagar",
+        "keyword": "Best Areas to Invest in Pune 2026 in Kalyani Nagar"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-koregaon-park",
+        "keyword": "Best Areas to Invest in Pune 2026 in Koregaon Park"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-viman-nagar",
+        "keyword": "Best Areas to Invest in Pune 2026 in Viman Nagar"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-magarpatta",
+        "keyword": "Best Areas to Invest in Pune 2026 in Magarpatta"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-hadapsar",
+        "keyword": "Best Areas to Invest in Pune 2026 in Hadapsar"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-wagholi",
+        "keyword": "Best Areas to Invest in Pune 2026 in Wagholi"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-pcmc",
+        "keyword": "Best Areas to Invest in Pune 2026 in PCMC"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-ravet",
+        "keyword": "Best Areas to Invest in Pune 2026 in Ravet"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-punawale",
+        "keyword": "Best Areas to Invest in Pune 2026 in Punawale"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-moshi",
+        "keyword": "Best Areas to Invest in Pune 2026 in Moshi"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-undri",
+        "keyword": "Best Areas to Invest in Pune 2026 in Undri"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-kondhwa",
+        "keyword": "Best Areas to Invest in Pune 2026 in Kondhwa"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-sinhagad-road",
+        "keyword": "Best Areas to Invest in Pune 2026 in Sinhagad Road"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-dhayari",
+        "keyword": "Best Areas to Invest in Pune 2026 in Dhayari"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-nanded-city",
+        "keyword": "Best Areas to Invest in Pune 2026 in Nanded City"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-pimple-saudagar",
+        "keyword": "Best Areas to Invest in Pune 2026 in Pimple Saudagar"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-pimple-nilakh",
+        "keyword": "Best Areas to Invest in Pune 2026 in Pimple Nilakh"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-chikhali",
+        "keyword": "Best Areas to Invest in Pune 2026 in Chikhali"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-charholi",
+        "keyword": "Best Areas to Invest in Pune 2026 in Charholi"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-lohegaon",
+        "keyword": "Best Areas to Invest in Pune 2026 in Lohegaon"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-dhanori",
+        "keyword": "Best Areas to Invest in Pune 2026 in Dhanori"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-vishrantwadi",
+        "keyword": "Best Areas to Invest in Pune 2026 in Vishrantwadi"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-karve-nagar",
+        "keyword": "Best Areas to Invest in Pune 2026 in Karve Nagar"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-warje",
+        "keyword": "Best Areas to Invest in Pune 2026 in Warje"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-talegaon",
+        "keyword": "Best Areas to Invest in Pune 2026 in Talegaon"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-lonavala",
+        "keyword": "Best Areas to Invest in Pune 2026 in Lonavala"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-west-pune",
+        "keyword": "Best Areas to Invest in Pune 2026 in West Pune"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-east-pune",
+        "keyword": "Best Areas to Invest in Pune 2026 in East Pune"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-pune-city",
+        "keyword": "Best Areas to Invest in Pune 2026 in Pune City"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-in-pcmc-region",
+        "keyword": "Best Areas to Invest in Pune 2026 in PCMC Region"
       }
     ]
   },
@@ -11308,6 +19489,154 @@ export const seoSilos = [
       {
         "slug": "pune-real-estate-market-trends-in-wakad",
         "keyword": "Pune Real Estate Market Trends in Wakad"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-balewadi",
+        "keyword": "Pune Real Estate Market Trends in Balewadi"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-tathawade",
+        "keyword": "Pune Real Estate Market Trends in Tathawade"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-bavdhan",
+        "keyword": "Pune Real Estate Market Trends in Bavdhan"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-aundh",
+        "keyword": "Pune Real Estate Market Trends in Aundh"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-pashan",
+        "keyword": "Pune Real Estate Market Trends in Pashan"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-sus",
+        "keyword": "Pune Real Estate Market Trends in Sus"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-kothrud",
+        "keyword": "Pune Real Estate Market Trends in Kothrud"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-kalyani-nagar",
+        "keyword": "Pune Real Estate Market Trends in Kalyani Nagar"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-koregaon-park",
+        "keyword": "Pune Real Estate Market Trends in Koregaon Park"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-viman-nagar",
+        "keyword": "Pune Real Estate Market Trends in Viman Nagar"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-magarpatta",
+        "keyword": "Pune Real Estate Market Trends in Magarpatta"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-hadapsar",
+        "keyword": "Pune Real Estate Market Trends in Hadapsar"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-wagholi",
+        "keyword": "Pune Real Estate Market Trends in Wagholi"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-pcmc",
+        "keyword": "Pune Real Estate Market Trends in PCMC"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-ravet",
+        "keyword": "Pune Real Estate Market Trends in Ravet"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-punawale",
+        "keyword": "Pune Real Estate Market Trends in Punawale"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-moshi",
+        "keyword": "Pune Real Estate Market Trends in Moshi"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-undri",
+        "keyword": "Pune Real Estate Market Trends in Undri"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-kondhwa",
+        "keyword": "Pune Real Estate Market Trends in Kondhwa"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-sinhagad-road",
+        "keyword": "Pune Real Estate Market Trends in Sinhagad Road"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-dhayari",
+        "keyword": "Pune Real Estate Market Trends in Dhayari"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-nanded-city",
+        "keyword": "Pune Real Estate Market Trends in Nanded City"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-pimple-saudagar",
+        "keyword": "Pune Real Estate Market Trends in Pimple Saudagar"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-pimple-nilakh",
+        "keyword": "Pune Real Estate Market Trends in Pimple Nilakh"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-chikhali",
+        "keyword": "Pune Real Estate Market Trends in Chikhali"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-charholi",
+        "keyword": "Pune Real Estate Market Trends in Charholi"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-lohegaon",
+        "keyword": "Pune Real Estate Market Trends in Lohegaon"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-dhanori",
+        "keyword": "Pune Real Estate Market Trends in Dhanori"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-vishrantwadi",
+        "keyword": "Pune Real Estate Market Trends in Vishrantwadi"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-karve-nagar",
+        "keyword": "Pune Real Estate Market Trends in Karve Nagar"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-warje",
+        "keyword": "Pune Real Estate Market Trends in Warje"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-talegaon",
+        "keyword": "Pune Real Estate Market Trends in Talegaon"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-lonavala",
+        "keyword": "Pune Real Estate Market Trends in Lonavala"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-west-pune",
+        "keyword": "Pune Real Estate Market Trends in West Pune"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-east-pune",
+        "keyword": "Pune Real Estate Market Trends in East Pune"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-pune-city",
+        "keyword": "Pune Real Estate Market Trends in Pune City"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-in-pcmc-region",
+        "keyword": "Pune Real Estate Market Trends in PCMC Region"
       }
     ]
   },
@@ -11335,6 +19664,154 @@ export const seoSilos = [
       {
         "slug": "walk-to-work-homes-pune-in-wakad",
         "keyword": "Walk-to-Work Homes Pune in Wakad"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-balewadi",
+        "keyword": "Walk-to-Work Homes Pune in Balewadi"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-tathawade",
+        "keyword": "Walk-to-Work Homes Pune in Tathawade"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-bavdhan",
+        "keyword": "Walk-to-Work Homes Pune in Bavdhan"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-aundh",
+        "keyword": "Walk-to-Work Homes Pune in Aundh"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-pashan",
+        "keyword": "Walk-to-Work Homes Pune in Pashan"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-sus",
+        "keyword": "Walk-to-Work Homes Pune in Sus"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-kothrud",
+        "keyword": "Walk-to-Work Homes Pune in Kothrud"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-kalyani-nagar",
+        "keyword": "Walk-to-Work Homes Pune in Kalyani Nagar"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-koregaon-park",
+        "keyword": "Walk-to-Work Homes Pune in Koregaon Park"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-viman-nagar",
+        "keyword": "Walk-to-Work Homes Pune in Viman Nagar"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-magarpatta",
+        "keyword": "Walk-to-Work Homes Pune in Magarpatta"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-hadapsar",
+        "keyword": "Walk-to-Work Homes Pune in Hadapsar"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-wagholi",
+        "keyword": "Walk-to-Work Homes Pune in Wagholi"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-pcmc",
+        "keyword": "Walk-to-Work Homes Pune in PCMC"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-ravet",
+        "keyword": "Walk-to-Work Homes Pune in Ravet"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-punawale",
+        "keyword": "Walk-to-Work Homes Pune in Punawale"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-moshi",
+        "keyword": "Walk-to-Work Homes Pune in Moshi"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-undri",
+        "keyword": "Walk-to-Work Homes Pune in Undri"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-kondhwa",
+        "keyword": "Walk-to-Work Homes Pune in Kondhwa"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-sinhagad-road",
+        "keyword": "Walk-to-Work Homes Pune in Sinhagad Road"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-dhayari",
+        "keyword": "Walk-to-Work Homes Pune in Dhayari"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-nanded-city",
+        "keyword": "Walk-to-Work Homes Pune in Nanded City"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-pimple-saudagar",
+        "keyword": "Walk-to-Work Homes Pune in Pimple Saudagar"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-pimple-nilakh",
+        "keyword": "Walk-to-Work Homes Pune in Pimple Nilakh"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-chikhali",
+        "keyword": "Walk-to-Work Homes Pune in Chikhali"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-charholi",
+        "keyword": "Walk-to-Work Homes Pune in Charholi"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-lohegaon",
+        "keyword": "Walk-to-Work Homes Pune in Lohegaon"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-dhanori",
+        "keyword": "Walk-to-Work Homes Pune in Dhanori"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-vishrantwadi",
+        "keyword": "Walk-to-Work Homes Pune in Vishrantwadi"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-karve-nagar",
+        "keyword": "Walk-to-Work Homes Pune in Karve Nagar"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-warje",
+        "keyword": "Walk-to-Work Homes Pune in Warje"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-talegaon",
+        "keyword": "Walk-to-Work Homes Pune in Talegaon"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-lonavala",
+        "keyword": "Walk-to-Work Homes Pune in Lonavala"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-west-pune",
+        "keyword": "Walk-to-Work Homes Pune in West Pune"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-east-pune",
+        "keyword": "Walk-to-Work Homes Pune in East Pune"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-pune-city",
+        "keyword": "Walk-to-Work Homes Pune in Pune City"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-in-pcmc-region",
+        "keyword": "Walk-to-Work Homes Pune in PCMC Region"
       }
     ]
   },
@@ -11362,6 +19839,1554 @@ export const seoSilos = [
       {
         "slug": "properties-near-pune-metro-in-wakad",
         "keyword": "Properties near Pune Metro in Wakad"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-balewadi",
+        "keyword": "Properties near Pune Metro in Balewadi"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-tathawade",
+        "keyword": "Properties near Pune Metro in Tathawade"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-bavdhan",
+        "keyword": "Properties near Pune Metro in Bavdhan"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-aundh",
+        "keyword": "Properties near Pune Metro in Aundh"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-pashan",
+        "keyword": "Properties near Pune Metro in Pashan"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-sus",
+        "keyword": "Properties near Pune Metro in Sus"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-kothrud",
+        "keyword": "Properties near Pune Metro in Kothrud"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-kalyani-nagar",
+        "keyword": "Properties near Pune Metro in Kalyani Nagar"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-koregaon-park",
+        "keyword": "Properties near Pune Metro in Koregaon Park"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-viman-nagar",
+        "keyword": "Properties near Pune Metro in Viman Nagar"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-magarpatta",
+        "keyword": "Properties near Pune Metro in Magarpatta"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-hadapsar",
+        "keyword": "Properties near Pune Metro in Hadapsar"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-wagholi",
+        "keyword": "Properties near Pune Metro in Wagholi"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-pcmc",
+        "keyword": "Properties near Pune Metro in PCMC"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-ravet",
+        "keyword": "Properties near Pune Metro in Ravet"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-punawale",
+        "keyword": "Properties near Pune Metro in Punawale"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-moshi",
+        "keyword": "Properties near Pune Metro in Moshi"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-undri",
+        "keyword": "Properties near Pune Metro in Undri"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-kondhwa",
+        "keyword": "Properties near Pune Metro in Kondhwa"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-sinhagad-road",
+        "keyword": "Properties near Pune Metro in Sinhagad Road"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-dhayari",
+        "keyword": "Properties near Pune Metro in Dhayari"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-nanded-city",
+        "keyword": "Properties near Pune Metro in Nanded City"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-pimple-saudagar",
+        "keyword": "Properties near Pune Metro in Pimple Saudagar"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-pimple-nilakh",
+        "keyword": "Properties near Pune Metro in Pimple Nilakh"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-chikhali",
+        "keyword": "Properties near Pune Metro in Chikhali"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-charholi",
+        "keyword": "Properties near Pune Metro in Charholi"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-lohegaon",
+        "keyword": "Properties near Pune Metro in Lohegaon"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-dhanori",
+        "keyword": "Properties near Pune Metro in Dhanori"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-vishrantwadi",
+        "keyword": "Properties near Pune Metro in Vishrantwadi"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-karve-nagar",
+        "keyword": "Properties near Pune Metro in Karve Nagar"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-warje",
+        "keyword": "Properties near Pune Metro in Warje"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-talegaon",
+        "keyword": "Properties near Pune Metro in Talegaon"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-lonavala",
+        "keyword": "Properties near Pune Metro in Lonavala"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-west-pune",
+        "keyword": "Properties near Pune Metro in West Pune"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-east-pune",
+        "keyword": "Properties near Pune Metro in East Pune"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-pune-city",
+        "keyword": "Properties near Pune Metro in Pune City"
+      },
+      {
+        "slug": "properties-near-pune-metro-in-pcmc-region",
+        "keyword": "Properties near Pune Metro in PCMC Region"
+      }
+    ]
+  },
+  {
+    "id": "theme-top-10-builders",
+    "title": "Top 10 Builders in Pune",
+    "description": "Discover the best top 10 builders in pune for exceptional lifestyle and returns.",
+    "slugs": [
+      {
+        "slug": "top-10-builders-in-pune-in-mahalunge",
+        "keyword": "Top 10 Builders in Pune in Mahalunge"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-hinjawadi",
+        "keyword": "Top 10 Builders in Pune in Hinjawadi"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-baner",
+        "keyword": "Top 10 Builders in Pune in Baner"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-kharadi",
+        "keyword": "Top 10 Builders in Pune in Kharadi"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-wakad",
+        "keyword": "Top 10 Builders in Pune in Wakad"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-balewadi",
+        "keyword": "Top 10 Builders in Pune in Balewadi"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-tathawade",
+        "keyword": "Top 10 Builders in Pune in Tathawade"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-bavdhan",
+        "keyword": "Top 10 Builders in Pune in Bavdhan"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-aundh",
+        "keyword": "Top 10 Builders in Pune in Aundh"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-pashan",
+        "keyword": "Top 10 Builders in Pune in Pashan"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-sus",
+        "keyword": "Top 10 Builders in Pune in Sus"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-kothrud",
+        "keyword": "Top 10 Builders in Pune in Kothrud"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-kalyani-nagar",
+        "keyword": "Top 10 Builders in Pune in Kalyani Nagar"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-koregaon-park",
+        "keyword": "Top 10 Builders in Pune in Koregaon Park"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-viman-nagar",
+        "keyword": "Top 10 Builders in Pune in Viman Nagar"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-magarpatta",
+        "keyword": "Top 10 Builders in Pune in Magarpatta"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-hadapsar",
+        "keyword": "Top 10 Builders in Pune in Hadapsar"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-wagholi",
+        "keyword": "Top 10 Builders in Pune in Wagholi"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-pcmc",
+        "keyword": "Top 10 Builders in Pune in PCMC"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-ravet",
+        "keyword": "Top 10 Builders in Pune in Ravet"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-punawale",
+        "keyword": "Top 10 Builders in Pune in Punawale"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-moshi",
+        "keyword": "Top 10 Builders in Pune in Moshi"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-undri",
+        "keyword": "Top 10 Builders in Pune in Undri"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-kondhwa",
+        "keyword": "Top 10 Builders in Pune in Kondhwa"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-sinhagad-road",
+        "keyword": "Top 10 Builders in Pune in Sinhagad Road"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-dhayari",
+        "keyword": "Top 10 Builders in Pune in Dhayari"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-nanded-city",
+        "keyword": "Top 10 Builders in Pune in Nanded City"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-pimple-saudagar",
+        "keyword": "Top 10 Builders in Pune in Pimple Saudagar"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-pimple-nilakh",
+        "keyword": "Top 10 Builders in Pune in Pimple Nilakh"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-chikhali",
+        "keyword": "Top 10 Builders in Pune in Chikhali"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-charholi",
+        "keyword": "Top 10 Builders in Pune in Charholi"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-lohegaon",
+        "keyword": "Top 10 Builders in Pune in Lohegaon"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-dhanori",
+        "keyword": "Top 10 Builders in Pune in Dhanori"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-vishrantwadi",
+        "keyword": "Top 10 Builders in Pune in Vishrantwadi"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-karve-nagar",
+        "keyword": "Top 10 Builders in Pune in Karve Nagar"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-warje",
+        "keyword": "Top 10 Builders in Pune in Warje"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-talegaon",
+        "keyword": "Top 10 Builders in Pune in Talegaon"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-lonavala",
+        "keyword": "Top 10 Builders in Pune in Lonavala"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-west-pune",
+        "keyword": "Top 10 Builders in Pune in West Pune"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-east-pune",
+        "keyword": "Top 10 Builders in Pune in East Pune"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-pune-city",
+        "keyword": "Top 10 Builders in Pune in Pune City"
+      },
+      {
+        "slug": "top-10-builders-in-pune-in-pcmc-region",
+        "keyword": "Top 10 Builders in Pune in PCMC Region"
+      }
+    ]
+  },
+  {
+    "id": "theme-stamp-duty-registration",
+    "title": "Stamp Duty and Registration in Pune",
+    "description": "Discover the best stamp duty and registration in pune for exceptional lifestyle and returns.",
+    "slugs": [
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-mahalunge",
+        "keyword": "Stamp Duty and Registration in Pune in Mahalunge"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-hinjawadi",
+        "keyword": "Stamp Duty and Registration in Pune in Hinjawadi"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-baner",
+        "keyword": "Stamp Duty and Registration in Pune in Baner"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-kharadi",
+        "keyword": "Stamp Duty and Registration in Pune in Kharadi"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-wakad",
+        "keyword": "Stamp Duty and Registration in Pune in Wakad"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-balewadi",
+        "keyword": "Stamp Duty and Registration in Pune in Balewadi"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-tathawade",
+        "keyword": "Stamp Duty and Registration in Pune in Tathawade"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-bavdhan",
+        "keyword": "Stamp Duty and Registration in Pune in Bavdhan"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-aundh",
+        "keyword": "Stamp Duty and Registration in Pune in Aundh"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-pashan",
+        "keyword": "Stamp Duty and Registration in Pune in Pashan"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-sus",
+        "keyword": "Stamp Duty and Registration in Pune in Sus"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-kothrud",
+        "keyword": "Stamp Duty and Registration in Pune in Kothrud"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-kalyani-nagar",
+        "keyword": "Stamp Duty and Registration in Pune in Kalyani Nagar"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-koregaon-park",
+        "keyword": "Stamp Duty and Registration in Pune in Koregaon Park"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-viman-nagar",
+        "keyword": "Stamp Duty and Registration in Pune in Viman Nagar"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-magarpatta",
+        "keyword": "Stamp Duty and Registration in Pune in Magarpatta"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-hadapsar",
+        "keyword": "Stamp Duty and Registration in Pune in Hadapsar"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-wagholi",
+        "keyword": "Stamp Duty and Registration in Pune in Wagholi"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-pcmc",
+        "keyword": "Stamp Duty and Registration in Pune in PCMC"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-ravet",
+        "keyword": "Stamp Duty and Registration in Pune in Ravet"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-punawale",
+        "keyword": "Stamp Duty and Registration in Pune in Punawale"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-moshi",
+        "keyword": "Stamp Duty and Registration in Pune in Moshi"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-undri",
+        "keyword": "Stamp Duty and Registration in Pune in Undri"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-kondhwa",
+        "keyword": "Stamp Duty and Registration in Pune in Kondhwa"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-sinhagad-road",
+        "keyword": "Stamp Duty and Registration in Pune in Sinhagad Road"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-dhayari",
+        "keyword": "Stamp Duty and Registration in Pune in Dhayari"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-nanded-city",
+        "keyword": "Stamp Duty and Registration in Pune in Nanded City"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-pimple-saudagar",
+        "keyword": "Stamp Duty and Registration in Pune in Pimple Saudagar"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-pimple-nilakh",
+        "keyword": "Stamp Duty and Registration in Pune in Pimple Nilakh"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-chikhali",
+        "keyword": "Stamp Duty and Registration in Pune in Chikhali"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-charholi",
+        "keyword": "Stamp Duty and Registration in Pune in Charholi"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-lohegaon",
+        "keyword": "Stamp Duty and Registration in Pune in Lohegaon"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-dhanori",
+        "keyword": "Stamp Duty and Registration in Pune in Dhanori"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-vishrantwadi",
+        "keyword": "Stamp Duty and Registration in Pune in Vishrantwadi"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-karve-nagar",
+        "keyword": "Stamp Duty and Registration in Pune in Karve Nagar"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-warje",
+        "keyword": "Stamp Duty and Registration in Pune in Warje"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-talegaon",
+        "keyword": "Stamp Duty and Registration in Pune in Talegaon"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-lonavala",
+        "keyword": "Stamp Duty and Registration in Pune in Lonavala"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-west-pune",
+        "keyword": "Stamp Duty and Registration in Pune in West Pune"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-east-pune",
+        "keyword": "Stamp Duty and Registration in Pune in East Pune"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-pune-city",
+        "keyword": "Stamp Duty and Registration in Pune in Pune City"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-in-pcmc-region",
+        "keyword": "Stamp Duty and Registration in Pune in PCMC Region"
+      }
+    ]
+  },
+  {
+    "id": "theme-pune-real-estate-bubble",
+    "title": "Is Pune Real Estate a Bubble",
+    "description": "Discover the best is pune real estate a bubble for exceptional lifestyle and returns.",
+    "slugs": [
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-mahalunge",
+        "keyword": "Is Pune Real Estate a Bubble in Mahalunge"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-hinjawadi",
+        "keyword": "Is Pune Real Estate a Bubble in Hinjawadi"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-baner",
+        "keyword": "Is Pune Real Estate a Bubble in Baner"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-kharadi",
+        "keyword": "Is Pune Real Estate a Bubble in Kharadi"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-wakad",
+        "keyword": "Is Pune Real Estate a Bubble in Wakad"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-balewadi",
+        "keyword": "Is Pune Real Estate a Bubble in Balewadi"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-tathawade",
+        "keyword": "Is Pune Real Estate a Bubble in Tathawade"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-bavdhan",
+        "keyword": "Is Pune Real Estate a Bubble in Bavdhan"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-aundh",
+        "keyword": "Is Pune Real Estate a Bubble in Aundh"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-pashan",
+        "keyword": "Is Pune Real Estate a Bubble in Pashan"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-sus",
+        "keyword": "Is Pune Real Estate a Bubble in Sus"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-kothrud",
+        "keyword": "Is Pune Real Estate a Bubble in Kothrud"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-kalyani-nagar",
+        "keyword": "Is Pune Real Estate a Bubble in Kalyani Nagar"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-koregaon-park",
+        "keyword": "Is Pune Real Estate a Bubble in Koregaon Park"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-viman-nagar",
+        "keyword": "Is Pune Real Estate a Bubble in Viman Nagar"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-magarpatta",
+        "keyword": "Is Pune Real Estate a Bubble in Magarpatta"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-hadapsar",
+        "keyword": "Is Pune Real Estate a Bubble in Hadapsar"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-wagholi",
+        "keyword": "Is Pune Real Estate a Bubble in Wagholi"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-pcmc",
+        "keyword": "Is Pune Real Estate a Bubble in PCMC"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-ravet",
+        "keyword": "Is Pune Real Estate a Bubble in Ravet"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-punawale",
+        "keyword": "Is Pune Real Estate a Bubble in Punawale"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-moshi",
+        "keyword": "Is Pune Real Estate a Bubble in Moshi"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-undri",
+        "keyword": "Is Pune Real Estate a Bubble in Undri"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-kondhwa",
+        "keyword": "Is Pune Real Estate a Bubble in Kondhwa"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-sinhagad-road",
+        "keyword": "Is Pune Real Estate a Bubble in Sinhagad Road"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-dhayari",
+        "keyword": "Is Pune Real Estate a Bubble in Dhayari"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-nanded-city",
+        "keyword": "Is Pune Real Estate a Bubble in Nanded City"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-pimple-saudagar",
+        "keyword": "Is Pune Real Estate a Bubble in Pimple Saudagar"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-pimple-nilakh",
+        "keyword": "Is Pune Real Estate a Bubble in Pimple Nilakh"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-chikhali",
+        "keyword": "Is Pune Real Estate a Bubble in Chikhali"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-charholi",
+        "keyword": "Is Pune Real Estate a Bubble in Charholi"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-lohegaon",
+        "keyword": "Is Pune Real Estate a Bubble in Lohegaon"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-dhanori",
+        "keyword": "Is Pune Real Estate a Bubble in Dhanori"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-vishrantwadi",
+        "keyword": "Is Pune Real Estate a Bubble in Vishrantwadi"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-karve-nagar",
+        "keyword": "Is Pune Real Estate a Bubble in Karve Nagar"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-warje",
+        "keyword": "Is Pune Real Estate a Bubble in Warje"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-talegaon",
+        "keyword": "Is Pune Real Estate a Bubble in Talegaon"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-lonavala",
+        "keyword": "Is Pune Real Estate a Bubble in Lonavala"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-west-pune",
+        "keyword": "Is Pune Real Estate a Bubble in West Pune"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-east-pune",
+        "keyword": "Is Pune Real Estate a Bubble in East Pune"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-pune-city",
+        "keyword": "Is Pune Real Estate a Bubble in Pune City"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-in-pcmc-region",
+        "keyword": "Is Pune Real Estate a Bubble in PCMC Region"
+      }
+    ]
+  },
+  {
+    "id": "theme-pune-vs-bangalore",
+    "title": "Pune vs Bangalore Real Estate",
+    "description": "Discover the best pune vs bangalore real estate for exceptional lifestyle and returns.",
+    "slugs": [
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-mahalunge",
+        "keyword": "Pune vs Bangalore Real Estate in Mahalunge"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-hinjawadi",
+        "keyword": "Pune vs Bangalore Real Estate in Hinjawadi"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-baner",
+        "keyword": "Pune vs Bangalore Real Estate in Baner"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-kharadi",
+        "keyword": "Pune vs Bangalore Real Estate in Kharadi"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-wakad",
+        "keyword": "Pune vs Bangalore Real Estate in Wakad"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-balewadi",
+        "keyword": "Pune vs Bangalore Real Estate in Balewadi"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-tathawade",
+        "keyword": "Pune vs Bangalore Real Estate in Tathawade"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-bavdhan",
+        "keyword": "Pune vs Bangalore Real Estate in Bavdhan"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-aundh",
+        "keyword": "Pune vs Bangalore Real Estate in Aundh"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-pashan",
+        "keyword": "Pune vs Bangalore Real Estate in Pashan"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-sus",
+        "keyword": "Pune vs Bangalore Real Estate in Sus"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-kothrud",
+        "keyword": "Pune vs Bangalore Real Estate in Kothrud"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-kalyani-nagar",
+        "keyword": "Pune vs Bangalore Real Estate in Kalyani Nagar"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-koregaon-park",
+        "keyword": "Pune vs Bangalore Real Estate in Koregaon Park"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-viman-nagar",
+        "keyword": "Pune vs Bangalore Real Estate in Viman Nagar"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-magarpatta",
+        "keyword": "Pune vs Bangalore Real Estate in Magarpatta"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-hadapsar",
+        "keyword": "Pune vs Bangalore Real Estate in Hadapsar"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-wagholi",
+        "keyword": "Pune vs Bangalore Real Estate in Wagholi"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-pcmc",
+        "keyword": "Pune vs Bangalore Real Estate in PCMC"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-ravet",
+        "keyword": "Pune vs Bangalore Real Estate in Ravet"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-punawale",
+        "keyword": "Pune vs Bangalore Real Estate in Punawale"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-moshi",
+        "keyword": "Pune vs Bangalore Real Estate in Moshi"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-undri",
+        "keyword": "Pune vs Bangalore Real Estate in Undri"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-kondhwa",
+        "keyword": "Pune vs Bangalore Real Estate in Kondhwa"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-sinhagad-road",
+        "keyword": "Pune vs Bangalore Real Estate in Sinhagad Road"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-dhayari",
+        "keyword": "Pune vs Bangalore Real Estate in Dhayari"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-nanded-city",
+        "keyword": "Pune vs Bangalore Real Estate in Nanded City"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-pimple-saudagar",
+        "keyword": "Pune vs Bangalore Real Estate in Pimple Saudagar"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-pimple-nilakh",
+        "keyword": "Pune vs Bangalore Real Estate in Pimple Nilakh"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-chikhali",
+        "keyword": "Pune vs Bangalore Real Estate in Chikhali"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-charholi",
+        "keyword": "Pune vs Bangalore Real Estate in Charholi"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-lohegaon",
+        "keyword": "Pune vs Bangalore Real Estate in Lohegaon"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-dhanori",
+        "keyword": "Pune vs Bangalore Real Estate in Dhanori"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-vishrantwadi",
+        "keyword": "Pune vs Bangalore Real Estate in Vishrantwadi"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-karve-nagar",
+        "keyword": "Pune vs Bangalore Real Estate in Karve Nagar"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-warje",
+        "keyword": "Pune vs Bangalore Real Estate in Warje"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-talegaon",
+        "keyword": "Pune vs Bangalore Real Estate in Talegaon"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-lonavala",
+        "keyword": "Pune vs Bangalore Real Estate in Lonavala"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-west-pune",
+        "keyword": "Pune vs Bangalore Real Estate in West Pune"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-east-pune",
+        "keyword": "Pune vs Bangalore Real Estate in East Pune"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-pune-city",
+        "keyword": "Pune vs Bangalore Real Estate in Pune City"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-in-pcmc-region",
+        "keyword": "Pune vs Bangalore Real Estate in PCMC Region"
+      }
+    ]
+  },
+  {
+    "id": "theme-pet-friendly-apartments",
+    "title": "Pet Friendly Apartments in Pune",
+    "description": "Discover the best pet friendly apartments in pune for exceptional lifestyle and returns.",
+    "slugs": [
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-mahalunge",
+        "keyword": "Pet Friendly Apartments in Pune in Mahalunge"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-hinjawadi",
+        "keyword": "Pet Friendly Apartments in Pune in Hinjawadi"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-baner",
+        "keyword": "Pet Friendly Apartments in Pune in Baner"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-kharadi",
+        "keyword": "Pet Friendly Apartments in Pune in Kharadi"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-wakad",
+        "keyword": "Pet Friendly Apartments in Pune in Wakad"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-balewadi",
+        "keyword": "Pet Friendly Apartments in Pune in Balewadi"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-tathawade",
+        "keyword": "Pet Friendly Apartments in Pune in Tathawade"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-bavdhan",
+        "keyword": "Pet Friendly Apartments in Pune in Bavdhan"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-aundh",
+        "keyword": "Pet Friendly Apartments in Pune in Aundh"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-pashan",
+        "keyword": "Pet Friendly Apartments in Pune in Pashan"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-sus",
+        "keyword": "Pet Friendly Apartments in Pune in Sus"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-kothrud",
+        "keyword": "Pet Friendly Apartments in Pune in Kothrud"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-kalyani-nagar",
+        "keyword": "Pet Friendly Apartments in Pune in Kalyani Nagar"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-koregaon-park",
+        "keyword": "Pet Friendly Apartments in Pune in Koregaon Park"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-viman-nagar",
+        "keyword": "Pet Friendly Apartments in Pune in Viman Nagar"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-magarpatta",
+        "keyword": "Pet Friendly Apartments in Pune in Magarpatta"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-hadapsar",
+        "keyword": "Pet Friendly Apartments in Pune in Hadapsar"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-wagholi",
+        "keyword": "Pet Friendly Apartments in Pune in Wagholi"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-pcmc",
+        "keyword": "Pet Friendly Apartments in Pune in PCMC"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-ravet",
+        "keyword": "Pet Friendly Apartments in Pune in Ravet"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-punawale",
+        "keyword": "Pet Friendly Apartments in Pune in Punawale"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-moshi",
+        "keyword": "Pet Friendly Apartments in Pune in Moshi"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-undri",
+        "keyword": "Pet Friendly Apartments in Pune in Undri"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-kondhwa",
+        "keyword": "Pet Friendly Apartments in Pune in Kondhwa"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-sinhagad-road",
+        "keyword": "Pet Friendly Apartments in Pune in Sinhagad Road"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-dhayari",
+        "keyword": "Pet Friendly Apartments in Pune in Dhayari"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-nanded-city",
+        "keyword": "Pet Friendly Apartments in Pune in Nanded City"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-pimple-saudagar",
+        "keyword": "Pet Friendly Apartments in Pune in Pimple Saudagar"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-pimple-nilakh",
+        "keyword": "Pet Friendly Apartments in Pune in Pimple Nilakh"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-chikhali",
+        "keyword": "Pet Friendly Apartments in Pune in Chikhali"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-charholi",
+        "keyword": "Pet Friendly Apartments in Pune in Charholi"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-lohegaon",
+        "keyword": "Pet Friendly Apartments in Pune in Lohegaon"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-dhanori",
+        "keyword": "Pet Friendly Apartments in Pune in Dhanori"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-vishrantwadi",
+        "keyword": "Pet Friendly Apartments in Pune in Vishrantwadi"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-karve-nagar",
+        "keyword": "Pet Friendly Apartments in Pune in Karve Nagar"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-warje",
+        "keyword": "Pet Friendly Apartments in Pune in Warje"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-talegaon",
+        "keyword": "Pet Friendly Apartments in Pune in Talegaon"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-lonavala",
+        "keyword": "Pet Friendly Apartments in Pune in Lonavala"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-west-pune",
+        "keyword": "Pet Friendly Apartments in Pune in West Pune"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-east-pune",
+        "keyword": "Pet Friendly Apartments in Pune in East Pune"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-pune-city",
+        "keyword": "Pet Friendly Apartments in Pune in Pune City"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-in-pcmc-region",
+        "keyword": "Pet Friendly Apartments in Pune in PCMC Region"
+      }
+    ]
+  },
+  {
+    "id": "theme-smart-home-automation",
+    "title": "Smart Home Automation in Pune",
+    "description": "Discover the best smart home automation in pune for exceptional lifestyle and returns.",
+    "slugs": [
+      {
+        "slug": "smart-home-automation-in-pune-in-mahalunge",
+        "keyword": "Smart Home Automation in Pune in Mahalunge"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-hinjawadi",
+        "keyword": "Smart Home Automation in Pune in Hinjawadi"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-baner",
+        "keyword": "Smart Home Automation in Pune in Baner"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-kharadi",
+        "keyword": "Smart Home Automation in Pune in Kharadi"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-wakad",
+        "keyword": "Smart Home Automation in Pune in Wakad"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-balewadi",
+        "keyword": "Smart Home Automation in Pune in Balewadi"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-tathawade",
+        "keyword": "Smart Home Automation in Pune in Tathawade"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-bavdhan",
+        "keyword": "Smart Home Automation in Pune in Bavdhan"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-aundh",
+        "keyword": "Smart Home Automation in Pune in Aundh"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-pashan",
+        "keyword": "Smart Home Automation in Pune in Pashan"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-sus",
+        "keyword": "Smart Home Automation in Pune in Sus"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-kothrud",
+        "keyword": "Smart Home Automation in Pune in Kothrud"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-kalyani-nagar",
+        "keyword": "Smart Home Automation in Pune in Kalyani Nagar"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-koregaon-park",
+        "keyword": "Smart Home Automation in Pune in Koregaon Park"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-viman-nagar",
+        "keyword": "Smart Home Automation in Pune in Viman Nagar"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-magarpatta",
+        "keyword": "Smart Home Automation in Pune in Magarpatta"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-hadapsar",
+        "keyword": "Smart Home Automation in Pune in Hadapsar"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-wagholi",
+        "keyword": "Smart Home Automation in Pune in Wagholi"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-pcmc",
+        "keyword": "Smart Home Automation in Pune in PCMC"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-ravet",
+        "keyword": "Smart Home Automation in Pune in Ravet"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-punawale",
+        "keyword": "Smart Home Automation in Pune in Punawale"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-moshi",
+        "keyword": "Smart Home Automation in Pune in Moshi"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-undri",
+        "keyword": "Smart Home Automation in Pune in Undri"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-kondhwa",
+        "keyword": "Smart Home Automation in Pune in Kondhwa"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-sinhagad-road",
+        "keyword": "Smart Home Automation in Pune in Sinhagad Road"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-dhayari",
+        "keyword": "Smart Home Automation in Pune in Dhayari"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-nanded-city",
+        "keyword": "Smart Home Automation in Pune in Nanded City"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-pimple-saudagar",
+        "keyword": "Smart Home Automation in Pune in Pimple Saudagar"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-pimple-nilakh",
+        "keyword": "Smart Home Automation in Pune in Pimple Nilakh"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-chikhali",
+        "keyword": "Smart Home Automation in Pune in Chikhali"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-charholi",
+        "keyword": "Smart Home Automation in Pune in Charholi"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-lohegaon",
+        "keyword": "Smart Home Automation in Pune in Lohegaon"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-dhanori",
+        "keyword": "Smart Home Automation in Pune in Dhanori"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-vishrantwadi",
+        "keyword": "Smart Home Automation in Pune in Vishrantwadi"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-karve-nagar",
+        "keyword": "Smart Home Automation in Pune in Karve Nagar"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-warje",
+        "keyword": "Smart Home Automation in Pune in Warje"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-talegaon",
+        "keyword": "Smart Home Automation in Pune in Talegaon"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-lonavala",
+        "keyword": "Smart Home Automation in Pune in Lonavala"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-west-pune",
+        "keyword": "Smart Home Automation in Pune in West Pune"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-east-pune",
+        "keyword": "Smart Home Automation in Pune in East Pune"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-pune-city",
+        "keyword": "Smart Home Automation in Pune in Pune City"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-in-pcmc-region",
+        "keyword": "Smart Home Automation in Pune in PCMC Region"
+      }
+    ]
+  },
+  {
+    "id": "theme-co-living-spaces",
+    "title": "Co-Living Spaces in Pune",
+    "description": "Discover the best co-living spaces in pune for exceptional lifestyle and returns.",
+    "slugs": [
+      {
+        "slug": "co-living-spaces-in-pune-in-mahalunge",
+        "keyword": "Co-Living Spaces in Pune in Mahalunge"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-hinjawadi",
+        "keyword": "Co-Living Spaces in Pune in Hinjawadi"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-baner",
+        "keyword": "Co-Living Spaces in Pune in Baner"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-kharadi",
+        "keyword": "Co-Living Spaces in Pune in Kharadi"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-wakad",
+        "keyword": "Co-Living Spaces in Pune in Wakad"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-balewadi",
+        "keyword": "Co-Living Spaces in Pune in Balewadi"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-tathawade",
+        "keyword": "Co-Living Spaces in Pune in Tathawade"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-bavdhan",
+        "keyword": "Co-Living Spaces in Pune in Bavdhan"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-aundh",
+        "keyword": "Co-Living Spaces in Pune in Aundh"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-pashan",
+        "keyword": "Co-Living Spaces in Pune in Pashan"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-sus",
+        "keyword": "Co-Living Spaces in Pune in Sus"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-kothrud",
+        "keyword": "Co-Living Spaces in Pune in Kothrud"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-kalyani-nagar",
+        "keyword": "Co-Living Spaces in Pune in Kalyani Nagar"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-koregaon-park",
+        "keyword": "Co-Living Spaces in Pune in Koregaon Park"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-viman-nagar",
+        "keyword": "Co-Living Spaces in Pune in Viman Nagar"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-magarpatta",
+        "keyword": "Co-Living Spaces in Pune in Magarpatta"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-hadapsar",
+        "keyword": "Co-Living Spaces in Pune in Hadapsar"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-wagholi",
+        "keyword": "Co-Living Spaces in Pune in Wagholi"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-pcmc",
+        "keyword": "Co-Living Spaces in Pune in PCMC"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-ravet",
+        "keyword": "Co-Living Spaces in Pune in Ravet"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-punawale",
+        "keyword": "Co-Living Spaces in Pune in Punawale"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-moshi",
+        "keyword": "Co-Living Spaces in Pune in Moshi"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-undri",
+        "keyword": "Co-Living Spaces in Pune in Undri"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-kondhwa",
+        "keyword": "Co-Living Spaces in Pune in Kondhwa"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-sinhagad-road",
+        "keyword": "Co-Living Spaces in Pune in Sinhagad Road"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-dhayari",
+        "keyword": "Co-Living Spaces in Pune in Dhayari"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-nanded-city",
+        "keyword": "Co-Living Spaces in Pune in Nanded City"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-pimple-saudagar",
+        "keyword": "Co-Living Spaces in Pune in Pimple Saudagar"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-pimple-nilakh",
+        "keyword": "Co-Living Spaces in Pune in Pimple Nilakh"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-chikhali",
+        "keyword": "Co-Living Spaces in Pune in Chikhali"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-charholi",
+        "keyword": "Co-Living Spaces in Pune in Charholi"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-lohegaon",
+        "keyword": "Co-Living Spaces in Pune in Lohegaon"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-dhanori",
+        "keyword": "Co-Living Spaces in Pune in Dhanori"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-vishrantwadi",
+        "keyword": "Co-Living Spaces in Pune in Vishrantwadi"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-karve-nagar",
+        "keyword": "Co-Living Spaces in Pune in Karve Nagar"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-warje",
+        "keyword": "Co-Living Spaces in Pune in Warje"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-talegaon",
+        "keyword": "Co-Living Spaces in Pune in Talegaon"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-lonavala",
+        "keyword": "Co-Living Spaces in Pune in Lonavala"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-west-pune",
+        "keyword": "Co-Living Spaces in Pune in West Pune"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-east-pune",
+        "keyword": "Co-Living Spaces in Pune in East Pune"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-pune-city",
+        "keyword": "Co-Living Spaces in Pune in Pune City"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-in-pcmc-region",
+        "keyword": "Co-Living Spaces in Pune in PCMC Region"
+      }
+    ]
+  },
+  {
+    "id": "theme-senior-living-communities",
+    "title": "Senior Living Communities in Pune",
+    "description": "Discover the best senior living communities in pune for exceptional lifestyle and returns.",
+    "slugs": [
+      {
+        "slug": "senior-living-communities-in-pune-in-mahalunge",
+        "keyword": "Senior Living Communities in Pune in Mahalunge"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-hinjawadi",
+        "keyword": "Senior Living Communities in Pune in Hinjawadi"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-baner",
+        "keyword": "Senior Living Communities in Pune in Baner"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-kharadi",
+        "keyword": "Senior Living Communities in Pune in Kharadi"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-wakad",
+        "keyword": "Senior Living Communities in Pune in Wakad"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-balewadi",
+        "keyword": "Senior Living Communities in Pune in Balewadi"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-tathawade",
+        "keyword": "Senior Living Communities in Pune in Tathawade"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-bavdhan",
+        "keyword": "Senior Living Communities in Pune in Bavdhan"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-aundh",
+        "keyword": "Senior Living Communities in Pune in Aundh"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-pashan",
+        "keyword": "Senior Living Communities in Pune in Pashan"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-sus",
+        "keyword": "Senior Living Communities in Pune in Sus"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-kothrud",
+        "keyword": "Senior Living Communities in Pune in Kothrud"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-kalyani-nagar",
+        "keyword": "Senior Living Communities in Pune in Kalyani Nagar"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-koregaon-park",
+        "keyword": "Senior Living Communities in Pune in Koregaon Park"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-viman-nagar",
+        "keyword": "Senior Living Communities in Pune in Viman Nagar"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-magarpatta",
+        "keyword": "Senior Living Communities in Pune in Magarpatta"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-hadapsar",
+        "keyword": "Senior Living Communities in Pune in Hadapsar"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-wagholi",
+        "keyword": "Senior Living Communities in Pune in Wagholi"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-pcmc",
+        "keyword": "Senior Living Communities in Pune in PCMC"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-ravet",
+        "keyword": "Senior Living Communities in Pune in Ravet"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-punawale",
+        "keyword": "Senior Living Communities in Pune in Punawale"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-moshi",
+        "keyword": "Senior Living Communities in Pune in Moshi"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-undri",
+        "keyword": "Senior Living Communities in Pune in Undri"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-kondhwa",
+        "keyword": "Senior Living Communities in Pune in Kondhwa"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-sinhagad-road",
+        "keyword": "Senior Living Communities in Pune in Sinhagad Road"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-dhayari",
+        "keyword": "Senior Living Communities in Pune in Dhayari"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-nanded-city",
+        "keyword": "Senior Living Communities in Pune in Nanded City"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-pimple-saudagar",
+        "keyword": "Senior Living Communities in Pune in Pimple Saudagar"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-pimple-nilakh",
+        "keyword": "Senior Living Communities in Pune in Pimple Nilakh"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-chikhali",
+        "keyword": "Senior Living Communities in Pune in Chikhali"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-charholi",
+        "keyword": "Senior Living Communities in Pune in Charholi"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-lohegaon",
+        "keyword": "Senior Living Communities in Pune in Lohegaon"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-dhanori",
+        "keyword": "Senior Living Communities in Pune in Dhanori"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-vishrantwadi",
+        "keyword": "Senior Living Communities in Pune in Vishrantwadi"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-karve-nagar",
+        "keyword": "Senior Living Communities in Pune in Karve Nagar"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-warje",
+        "keyword": "Senior Living Communities in Pune in Warje"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-talegaon",
+        "keyword": "Senior Living Communities in Pune in Talegaon"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-lonavala",
+        "keyword": "Senior Living Communities in Pune in Lonavala"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-west-pune",
+        "keyword": "Senior Living Communities in Pune in West Pune"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-east-pune",
+        "keyword": "Senior Living Communities in Pune in East Pune"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-pune-city",
+        "keyword": "Senior Living Communities in Pune in Pune City"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-in-pcmc-region",
+        "keyword": "Senior Living Communities in Pune in PCMC Region"
       }
     ]
   }

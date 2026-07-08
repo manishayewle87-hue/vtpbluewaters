@@ -35,11 +35,28 @@ const locations = [
   // South Pune
   { id: 'undri', name: 'Undri', desc: 'Undri offers serene, large-format living away from the city chaos but with excellent connectivity.' },
   { id: 'kondhwa', name: 'Kondhwa', desc: 'Kondhwa represents the established South Pune market with diverse residential options.' },
+  { id: 'sinhagad-road', name: 'Sinhagad Road', desc: 'Sinhagad Road is a massive residential corridor favored by traditional Pune families.' },
+  { id: 'dhayari', name: 'Dhayari', desc: 'Dhayari offers affordable yet premium living spaces in South-West Pune.' },
+  { id: 'nanded-city', name: 'Nanded City', desc: 'Nanded City is a massive, well-established integrated township ecosystem.' },
+
+  // Emerging & Tier-2 Areas
+  { id: 'pimple-saudagar', name: 'Pimple Saudagar', desc: 'Pimple Saudagar is a highly cosmopolitan hub preferred by PCMC IT professionals.' },
+  { id: 'pimple-nilakh', name: 'Pimple Nilakh', desc: 'Pimple Nilakh offers excellent connectivity to Baner and Wakad IT hubs.' },
+  { id: 'chikhali', name: 'Chikhali', desc: 'Chikhali is witnessing rapid industrial and residential growth in the PCMC belt.' },
+  { id: 'charholi', name: 'Charholi', desc: 'Charholi is emerging as a well-planned luxury destination near the airport.' },
+  { id: 'lohegaon', name: 'Lohegaon', desc: 'Lohegaon is the prime residential market driven by its proximity to the airport and IT parks.' },
+  { id: 'dhanori', name: 'Dhanori', desc: 'Dhanori is East Pune\'s fast-emerging destination for premium housing.' },
+  { id: 'vishrantwadi', name: 'Vishrantwadi', desc: 'Vishrantwadi connects central Pune to the eastern IT corridors.' },
+  { id: 'karve-nagar', name: 'Karve Nagar', desc: 'Karve Nagar offers a blend of traditional Pune culture and premium new developments.' },
+  { id: 'warje', name: 'Warje', desc: 'Warje acts as a critical gateway connecting South and West Pune.' },
+  { id: 'talegaon', name: 'Talegaon', desc: 'Talegaon is a massive industrial hub and a prime location for second homes.' },
+  { id: 'lonavala', name: 'Lonavala', desc: 'Lonavala is the ultimate luxury destination for private villas and holiday homes.' },
 
   // Macro Zones
   { id: 'pune-west', name: 'West Pune', desc: 'West Pune is the ultimate destination for luxury real estate, IT parks, and high ROI investments.' },
   { id: 'pune-east', name: 'East Pune', desc: 'East Pune features rapidly growing IT hubs and premium residential townships.' },
-  { id: 'pune-city', name: 'Pune City', desc: 'Explore the finest real estate opportunities across Pune, from luxury apartments to premium townships.' }
+  { id: 'pune-city', name: 'Pune City', desc: 'Explore the finest real estate opportunities across Pune, from luxury apartments to premium townships.' },
+  { id: 'pcmc-region', name: 'PCMC Region', desc: 'Pimpri-Chinchwad is the industrial powerhouse driving massive real estate demand.' }
 ];
 
 const projects = [
@@ -83,13 +100,16 @@ const categories = [
   { id: 'real-estate-investment', prefix: 'Real Estate Investment in', suffix: 'Real Estate Investment' },
   
   // Exact Match Configs
+  { id: '1bhk', prefix: '1BHK in', suffix: '1BHK Flats' },
   { id: '2bhk', prefix: '2BHK in', suffix: '2BHK Flats' },
   { id: '3bhk', prefix: '3BHK in', suffix: '3BHK Luxury Homes' },
   { id: '4bhk', prefix: '4BHK in', suffix: '4BHK Premium Apartments' },
   { id: '5bhk', prefix: '5BHK in', suffix: '5BHK Villas' },
+  { id: '1-bhk-flats', prefix: '1 BHK Flats in', suffix: '1 BHK' },
   { id: '2-bhk-flats', prefix: '2 BHK Flats in', suffix: '2 BHK' },
   { id: '3-bhk-flats', prefix: '3 BHK Flats in', suffix: '3 BHK' },
   { id: '4-bhk-flats', prefix: '4 BHK Flats in', suffix: '4 BHK' },
+  { id: 'studio', prefix: 'Studio Apartments in', suffix: 'Studio Apartments' },
   
   // Ultra-Luxury & Architectural (HNWI Targeting)
   { id: 'duplex', prefix: 'Luxury Duplex in', suffix: 'Duplex Apartments' },
@@ -103,6 +123,11 @@ const categories = [
   // Broad Intents
   { id: 'properties', prefix: 'Properties in', suffix: 'Properties' },
   { id: 'flats', prefix: 'Flats in', suffix: 'Flats' },
+  { id: 'villas', prefix: 'Villas in', suffix: 'Villas' },
+  { id: 'row-houses', prefix: 'Row Houses in', suffix: 'Row Houses' },
+  { id: 'commercial', prefix: 'Commercial Properties in', suffix: 'Commercial Real Estate' },
+  { id: 'retail', prefix: 'Retail Shops in', suffix: 'Retail Spaces' },
+  { id: 'office', prefix: 'Office Spaces in', suffix: 'Office Spaces' },
   { id: 'ready-possession', prefix: 'Ready Possession Flats in', suffix: 'Ready Possession' },
   { id: 'under-construction', prefix: 'Under Construction Projects in', suffix: 'Under Construction' },
   { id: 'it-park-homes', prefix: 'Homes near IT Park in', suffix: 'IT Park Homes' },
@@ -178,11 +203,19 @@ const themes = [
   { id: 'best-areas-invest-2026', name: 'Best Areas to Invest in Pune 2026' },
   { id: 'pune-real-estate-market', name: 'Pune Real Estate Market Trends' },
   { id: 'walk-to-work-homes', name: 'Walk-to-Work Homes Pune' },
-  { id: 'metro-connected-properties', name: 'Properties near Pune Metro' }
+  { id: 'metro-connected-properties', name: 'Properties near Pune Metro' },
+  { id: 'top-10-builders', name: 'Top 10 Builders in Pune' },
+  { id: 'stamp-duty-registration', name: 'Stamp Duty and Registration in Pune' },
+  { id: 'pune-real-estate-bubble', name: 'Is Pune Real Estate a Bubble' },
+  { id: 'pune-vs-bangalore', name: 'Pune vs Bangalore Real Estate' },
+  { id: 'pet-friendly-apartments', name: 'Pet Friendly Apartments in Pune' },
+  { id: 'smart-home-automation', name: 'Smart Home Automation in Pune' },
+  { id: 'co-living-spaces', name: 'Co-Living Spaces in Pune' },
+  { id: 'senior-living-communities', name: 'Senior Living Communities in Pune' }
 ];
 
 themes.forEach(theme => {
-  const slugs = locations.slice(0, 5).map(loc => {
+  const slugs = locations.map(loc => {
     const keyword = `${theme.name} in ${loc.name}`;
     return { slug: generateSlug(keyword), keyword };
   });
