@@ -1,7 +1,7 @@
 // AUTO-GENERATED SEO SILOS DATABASE
 // Generated via programmatic SEO engine for massive keyword injection.
-// Total Silos: 82
-// Total Keywords: 5203
+// Total Silos: 93
+// Total Keywords: 6391
 
 export const seoSilos = [
   {
@@ -11723,6 +11723,3075 @@ export const seoSilos = [
     ]
   },
   {
+    "id": "location-dubai",
+    "title": "Pune Real Estate for NRI in Dubai",
+    "description": "Premium Pune real estate investment opportunities for NRI investors in Dubai, UAE.",
+    "slugs": [
+      {
+        "slug": "pune-luxury-apartments-for-nri-in-dubai",
+        "keyword": "Pune Luxury Apartments for NRI in Dubai"
+      },
+      {
+        "slug": "pune-premium-flats-for-nri-in-dubai",
+        "keyword": "Pune Premium Flats for NRI in Dubai"
+      },
+      {
+        "slug": "pune-new-launch-projects-for-nri-in-dubai",
+        "keyword": "Pune New Launch Projects for NRI in Dubai"
+      },
+      {
+        "slug": "pune-township-projects-for-nri-in-dubai",
+        "keyword": "Pune Township Projects for NRI in Dubai"
+      },
+      {
+        "slug": "pune-real-estate-investment-for-nri-in-dubai",
+        "keyword": "Pune Real Estate Investment for NRI in Dubai"
+      },
+      {
+        "slug": "pune-1bhk-flats-for-nri-in-dubai",
+        "keyword": "Pune 1BHK Flats for NRI in Dubai"
+      },
+      {
+        "slug": "pune-2bhk-flats-for-nri-in-dubai",
+        "keyword": "Pune 2BHK Flats for NRI in Dubai"
+      },
+      {
+        "slug": "pune-3bhk-luxury-homes-for-nri-in-dubai",
+        "keyword": "Pune 3BHK Luxury Homes for NRI in Dubai"
+      },
+      {
+        "slug": "pune-4bhk-premium-apartments-for-nri-in-dubai",
+        "keyword": "Pune 4BHK Premium Apartments for NRI in Dubai"
+      },
+      {
+        "slug": "pune-5bhk-villas-for-nri-in-dubai",
+        "keyword": "Pune 5BHK Villas for NRI in Dubai"
+      },
+      {
+        "slug": "pune-1-bhk-for-nri-in-dubai",
+        "keyword": "Pune 1 BHK for NRI in Dubai"
+      },
+      {
+        "slug": "pune-2-bhk-for-nri-in-dubai",
+        "keyword": "Pune 2 BHK for NRI in Dubai"
+      },
+      {
+        "slug": "pune-3-bhk-for-nri-in-dubai",
+        "keyword": "Pune 3 BHK for NRI in Dubai"
+      },
+      {
+        "slug": "pune-4-bhk-for-nri-in-dubai",
+        "keyword": "Pune 4 BHK for NRI in Dubai"
+      },
+      {
+        "slug": "pune-studio-apartments-for-nri-in-dubai",
+        "keyword": "Pune Studio Apartments for NRI in Dubai"
+      },
+      {
+        "slug": "pune-duplex-apartments-for-nri-in-dubai",
+        "keyword": "Pune Duplex Apartments for NRI in Dubai"
+      },
+      {
+        "slug": "pune-sky-duplex-for-nri-in-dubai",
+        "keyword": "Pune Sky Duplex for NRI in Dubai"
+      },
+      {
+        "slug": "pune-simplex-apartments-for-nri-in-dubai",
+        "keyword": "Pune Simplex Apartments for NRI in Dubai"
+      },
+      {
+        "slug": "pune-penthouses-for-nri-in-dubai",
+        "keyword": "Pune Penthouses for NRI in Dubai"
+      },
+      {
+        "slug": "pune-double-height-homes-for-nri-in-dubai",
+        "keyword": "Pune Double-Height Homes for NRI in Dubai"
+      },
+      {
+        "slug": "pune-private-plunge-pool-flats-for-nri-in-dubai",
+        "keyword": "Pune Private Plunge Pool Flats for NRI in Dubai"
+      },
+      {
+        "slug": "pune-nri-premium-homes-for-nri-in-dubai",
+        "keyword": "Pune NRI Premium Homes for NRI in Dubai"
+      },
+      {
+        "slug": "pune-properties-for-nri-in-dubai",
+        "keyword": "Pune Properties for NRI in Dubai"
+      },
+      {
+        "slug": "pune-flats-for-nri-in-dubai",
+        "keyword": "Pune Flats for NRI in Dubai"
+      },
+      {
+        "slug": "pune-villas-for-nri-in-dubai",
+        "keyword": "Pune Villas for NRI in Dubai"
+      },
+      {
+        "slug": "pune-row-houses-for-nri-in-dubai",
+        "keyword": "Pune Row Houses for NRI in Dubai"
+      },
+      {
+        "slug": "pune-commercial-real-estate-for-nri-in-dubai",
+        "keyword": "Pune Commercial Real Estate for NRI in Dubai"
+      },
+      {
+        "slug": "pune-retail-spaces-for-nri-in-dubai",
+        "keyword": "Pune Retail Spaces for NRI in Dubai"
+      },
+      {
+        "slug": "pune-office-spaces-for-nri-in-dubai",
+        "keyword": "Pune Office Spaces for NRI in Dubai"
+      },
+      {
+        "slug": "pune-ready-possession-for-nri-in-dubai",
+        "keyword": "Pune Ready Possession for NRI in Dubai"
+      },
+      {
+        "slug": "pune-under-construction-for-nri-in-dubai",
+        "keyword": "Pune Under Construction for NRI in Dubai"
+      },
+      {
+        "slug": "pune-it-park-homes-for-nri-in-dubai",
+        "keyword": "Pune IT Park Homes for NRI in Dubai"
+      },
+      {
+        "slug": "pune-mla-homes-for-nri-in-dubai",
+        "keyword": "Pune MLA Homes for NRI in Dubai"
+      },
+      {
+        "slug": "pune-vtp-projects-for-nri-in-dubai",
+        "keyword": "Pune VTP Projects for NRI in Dubai"
+      },
+      {
+        "slug": "dubai-nri-investors-for-pune-luxury-apartments",
+        "keyword": "Dubai NRI Investors for Pune Luxury Apartments"
+      },
+      {
+        "slug": "dubai-nri-investors-for-pune-premium-flats",
+        "keyword": "Dubai NRI Investors for Pune Premium Flats"
+      },
+      {
+        "slug": "dubai-nri-investors-for-pune-new-launch-projects",
+        "keyword": "Dubai NRI Investors for Pune New Launch Projects"
+      },
+      {
+        "slug": "dubai-nri-investors-for-pune-township-projects",
+        "keyword": "Dubai NRI Investors for Pune Township Projects"
+      },
+      {
+        "slug": "dubai-nri-investors-for-pune-real-estate-investment",
+        "keyword": "Dubai NRI Investors for Pune Real Estate Investment"
+      },
+      {
+        "slug": "dubai-nri-investors-for-pune-1bhk-flats",
+        "keyword": "Dubai NRI Investors for Pune 1BHK Flats"
+      },
+      {
+        "slug": "dubai-nri-investors-for-pune-2bhk-flats",
+        "keyword": "Dubai NRI Investors for Pune 2BHK Flats"
+      },
+      {
+        "slug": "dubai-nri-investors-for-pune-3bhk-luxury-homes",
+        "keyword": "Dubai NRI Investors for Pune 3BHK Luxury Homes"
+      },
+      {
+        "slug": "dubai-nri-investors-for-pune-4bhk-premium-apartments",
+        "keyword": "Dubai NRI Investors for Pune 4BHK Premium Apartments"
+      },
+      {
+        "slug": "dubai-nri-investors-for-pune-5bhk-villas",
+        "keyword": "Dubai NRI Investors for Pune 5BHK Villas"
+      },
+      {
+        "slug": "dubai-nri-investors-for-pune-1-bhk",
+        "keyword": "Dubai NRI Investors for Pune 1 BHK"
+      },
+      {
+        "slug": "dubai-nri-investors-for-pune-2-bhk",
+        "keyword": "Dubai NRI Investors for Pune 2 BHK"
+      },
+      {
+        "slug": "dubai-nri-investors-for-pune-3-bhk",
+        "keyword": "Dubai NRI Investors for Pune 3 BHK"
+      },
+      {
+        "slug": "dubai-nri-investors-for-pune-4-bhk",
+        "keyword": "Dubai NRI Investors for Pune 4 BHK"
+      },
+      {
+        "slug": "dubai-nri-investors-for-pune-studio-apartments",
+        "keyword": "Dubai NRI Investors for Pune Studio Apartments"
+      },
+      {
+        "slug": "dubai-nri-investors-for-pune-duplex-apartments",
+        "keyword": "Dubai NRI Investors for Pune Duplex Apartments"
+      },
+      {
+        "slug": "dubai-nri-investors-for-pune-sky-duplex",
+        "keyword": "Dubai NRI Investors for Pune Sky Duplex"
+      },
+      {
+        "slug": "dubai-nri-investors-for-pune-simplex-apartments",
+        "keyword": "Dubai NRI Investors for Pune Simplex Apartments"
+      },
+      {
+        "slug": "dubai-nri-investors-for-pune-penthouses",
+        "keyword": "Dubai NRI Investors for Pune Penthouses"
+      },
+      {
+        "slug": "dubai-nri-investors-for-pune-double-height-homes",
+        "keyword": "Dubai NRI Investors for Pune Double-Height Homes"
+      },
+      {
+        "slug": "dubai-nri-investors-for-pune-private-plunge-pool-flats",
+        "keyword": "Dubai NRI Investors for Pune Private Plunge Pool Flats"
+      },
+      {
+        "slug": "dubai-nri-investors-for-pune-nri-premium-homes",
+        "keyword": "Dubai NRI Investors for Pune NRI Premium Homes"
+      },
+      {
+        "slug": "dubai-nri-investors-for-pune-properties",
+        "keyword": "Dubai NRI Investors for Pune Properties"
+      },
+      {
+        "slug": "dubai-nri-investors-for-pune-flats",
+        "keyword": "Dubai NRI Investors for Pune Flats"
+      },
+      {
+        "slug": "dubai-nri-investors-for-pune-villas",
+        "keyword": "Dubai NRI Investors for Pune Villas"
+      },
+      {
+        "slug": "dubai-nri-investors-for-pune-row-houses",
+        "keyword": "Dubai NRI Investors for Pune Row Houses"
+      },
+      {
+        "slug": "dubai-nri-investors-for-pune-commercial-real-estate",
+        "keyword": "Dubai NRI Investors for Pune Commercial Real Estate"
+      },
+      {
+        "slug": "dubai-nri-investors-for-pune-retail-spaces",
+        "keyword": "Dubai NRI Investors for Pune Retail Spaces"
+      },
+      {
+        "slug": "dubai-nri-investors-for-pune-office-spaces",
+        "keyword": "Dubai NRI Investors for Pune Office Spaces"
+      },
+      {
+        "slug": "dubai-nri-investors-for-pune-ready-possession",
+        "keyword": "Dubai NRI Investors for Pune Ready Possession"
+      },
+      {
+        "slug": "dubai-nri-investors-for-pune-under-construction",
+        "keyword": "Dubai NRI Investors for Pune Under Construction"
+      },
+      {
+        "slug": "dubai-nri-investors-for-pune-it-park-homes",
+        "keyword": "Dubai NRI Investors for Pune IT Park Homes"
+      },
+      {
+        "slug": "dubai-nri-investors-for-pune-mla-homes",
+        "keyword": "Dubai NRI Investors for Pune MLA Homes"
+      },
+      {
+        "slug": "dubai-nri-investors-for-pune-vtp-projects",
+        "keyword": "Dubai NRI Investors for Pune VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-singapore",
+    "title": "Pune Real Estate for NRI in Singapore",
+    "description": "High ROI Pune luxury apartments and townships for NRI investors based in Singapore.",
+    "slugs": [
+      {
+        "slug": "pune-luxury-apartments-for-nri-in-singapore",
+        "keyword": "Pune Luxury Apartments for NRI in Singapore"
+      },
+      {
+        "slug": "pune-premium-flats-for-nri-in-singapore",
+        "keyword": "Pune Premium Flats for NRI in Singapore"
+      },
+      {
+        "slug": "pune-new-launch-projects-for-nri-in-singapore",
+        "keyword": "Pune New Launch Projects for NRI in Singapore"
+      },
+      {
+        "slug": "pune-township-projects-for-nri-in-singapore",
+        "keyword": "Pune Township Projects for NRI in Singapore"
+      },
+      {
+        "slug": "pune-real-estate-investment-for-nri-in-singapore",
+        "keyword": "Pune Real Estate Investment for NRI in Singapore"
+      },
+      {
+        "slug": "pune-1bhk-flats-for-nri-in-singapore",
+        "keyword": "Pune 1BHK Flats for NRI in Singapore"
+      },
+      {
+        "slug": "pune-2bhk-flats-for-nri-in-singapore",
+        "keyword": "Pune 2BHK Flats for NRI in Singapore"
+      },
+      {
+        "slug": "pune-3bhk-luxury-homes-for-nri-in-singapore",
+        "keyword": "Pune 3BHK Luxury Homes for NRI in Singapore"
+      },
+      {
+        "slug": "pune-4bhk-premium-apartments-for-nri-in-singapore",
+        "keyword": "Pune 4BHK Premium Apartments for NRI in Singapore"
+      },
+      {
+        "slug": "pune-5bhk-villas-for-nri-in-singapore",
+        "keyword": "Pune 5BHK Villas for NRI in Singapore"
+      },
+      {
+        "slug": "pune-1-bhk-for-nri-in-singapore",
+        "keyword": "Pune 1 BHK for NRI in Singapore"
+      },
+      {
+        "slug": "pune-2-bhk-for-nri-in-singapore",
+        "keyword": "Pune 2 BHK for NRI in Singapore"
+      },
+      {
+        "slug": "pune-3-bhk-for-nri-in-singapore",
+        "keyword": "Pune 3 BHK for NRI in Singapore"
+      },
+      {
+        "slug": "pune-4-bhk-for-nri-in-singapore",
+        "keyword": "Pune 4 BHK for NRI in Singapore"
+      },
+      {
+        "slug": "pune-studio-apartments-for-nri-in-singapore",
+        "keyword": "Pune Studio Apartments for NRI in Singapore"
+      },
+      {
+        "slug": "pune-duplex-apartments-for-nri-in-singapore",
+        "keyword": "Pune Duplex Apartments for NRI in Singapore"
+      },
+      {
+        "slug": "pune-sky-duplex-for-nri-in-singapore",
+        "keyword": "Pune Sky Duplex for NRI in Singapore"
+      },
+      {
+        "slug": "pune-simplex-apartments-for-nri-in-singapore",
+        "keyword": "Pune Simplex Apartments for NRI in Singapore"
+      },
+      {
+        "slug": "pune-penthouses-for-nri-in-singapore",
+        "keyword": "Pune Penthouses for NRI in Singapore"
+      },
+      {
+        "slug": "pune-double-height-homes-for-nri-in-singapore",
+        "keyword": "Pune Double-Height Homes for NRI in Singapore"
+      },
+      {
+        "slug": "pune-private-plunge-pool-flats-for-nri-in-singapore",
+        "keyword": "Pune Private Plunge Pool Flats for NRI in Singapore"
+      },
+      {
+        "slug": "pune-nri-premium-homes-for-nri-in-singapore",
+        "keyword": "Pune NRI Premium Homes for NRI in Singapore"
+      },
+      {
+        "slug": "pune-properties-for-nri-in-singapore",
+        "keyword": "Pune Properties for NRI in Singapore"
+      },
+      {
+        "slug": "pune-flats-for-nri-in-singapore",
+        "keyword": "Pune Flats for NRI in Singapore"
+      },
+      {
+        "slug": "pune-villas-for-nri-in-singapore",
+        "keyword": "Pune Villas for NRI in Singapore"
+      },
+      {
+        "slug": "pune-row-houses-for-nri-in-singapore",
+        "keyword": "Pune Row Houses for NRI in Singapore"
+      },
+      {
+        "slug": "pune-commercial-real-estate-for-nri-in-singapore",
+        "keyword": "Pune Commercial Real Estate for NRI in Singapore"
+      },
+      {
+        "slug": "pune-retail-spaces-for-nri-in-singapore",
+        "keyword": "Pune Retail Spaces for NRI in Singapore"
+      },
+      {
+        "slug": "pune-office-spaces-for-nri-in-singapore",
+        "keyword": "Pune Office Spaces for NRI in Singapore"
+      },
+      {
+        "slug": "pune-ready-possession-for-nri-in-singapore",
+        "keyword": "Pune Ready Possession for NRI in Singapore"
+      },
+      {
+        "slug": "pune-under-construction-for-nri-in-singapore",
+        "keyword": "Pune Under Construction for NRI in Singapore"
+      },
+      {
+        "slug": "pune-it-park-homes-for-nri-in-singapore",
+        "keyword": "Pune IT Park Homes for NRI in Singapore"
+      },
+      {
+        "slug": "pune-mla-homes-for-nri-in-singapore",
+        "keyword": "Pune MLA Homes for NRI in Singapore"
+      },
+      {
+        "slug": "pune-vtp-projects-for-nri-in-singapore",
+        "keyword": "Pune VTP Projects for NRI in Singapore"
+      },
+      {
+        "slug": "singapore-nri-investors-for-pune-luxury-apartments",
+        "keyword": "Singapore NRI Investors for Pune Luxury Apartments"
+      },
+      {
+        "slug": "singapore-nri-investors-for-pune-premium-flats",
+        "keyword": "Singapore NRI Investors for Pune Premium Flats"
+      },
+      {
+        "slug": "singapore-nri-investors-for-pune-new-launch-projects",
+        "keyword": "Singapore NRI Investors for Pune New Launch Projects"
+      },
+      {
+        "slug": "singapore-nri-investors-for-pune-township-projects",
+        "keyword": "Singapore NRI Investors for Pune Township Projects"
+      },
+      {
+        "slug": "singapore-nri-investors-for-pune-real-estate-investment",
+        "keyword": "Singapore NRI Investors for Pune Real Estate Investment"
+      },
+      {
+        "slug": "singapore-nri-investors-for-pune-1bhk-flats",
+        "keyword": "Singapore NRI Investors for Pune 1BHK Flats"
+      },
+      {
+        "slug": "singapore-nri-investors-for-pune-2bhk-flats",
+        "keyword": "Singapore NRI Investors for Pune 2BHK Flats"
+      },
+      {
+        "slug": "singapore-nri-investors-for-pune-3bhk-luxury-homes",
+        "keyword": "Singapore NRI Investors for Pune 3BHK Luxury Homes"
+      },
+      {
+        "slug": "singapore-nri-investors-for-pune-4bhk-premium-apartments",
+        "keyword": "Singapore NRI Investors for Pune 4BHK Premium Apartments"
+      },
+      {
+        "slug": "singapore-nri-investors-for-pune-5bhk-villas",
+        "keyword": "Singapore NRI Investors for Pune 5BHK Villas"
+      },
+      {
+        "slug": "singapore-nri-investors-for-pune-1-bhk",
+        "keyword": "Singapore NRI Investors for Pune 1 BHK"
+      },
+      {
+        "slug": "singapore-nri-investors-for-pune-2-bhk",
+        "keyword": "Singapore NRI Investors for Pune 2 BHK"
+      },
+      {
+        "slug": "singapore-nri-investors-for-pune-3-bhk",
+        "keyword": "Singapore NRI Investors for Pune 3 BHK"
+      },
+      {
+        "slug": "singapore-nri-investors-for-pune-4-bhk",
+        "keyword": "Singapore NRI Investors for Pune 4 BHK"
+      },
+      {
+        "slug": "singapore-nri-investors-for-pune-studio-apartments",
+        "keyword": "Singapore NRI Investors for Pune Studio Apartments"
+      },
+      {
+        "slug": "singapore-nri-investors-for-pune-duplex-apartments",
+        "keyword": "Singapore NRI Investors for Pune Duplex Apartments"
+      },
+      {
+        "slug": "singapore-nri-investors-for-pune-sky-duplex",
+        "keyword": "Singapore NRI Investors for Pune Sky Duplex"
+      },
+      {
+        "slug": "singapore-nri-investors-for-pune-simplex-apartments",
+        "keyword": "Singapore NRI Investors for Pune Simplex Apartments"
+      },
+      {
+        "slug": "singapore-nri-investors-for-pune-penthouses",
+        "keyword": "Singapore NRI Investors for Pune Penthouses"
+      },
+      {
+        "slug": "singapore-nri-investors-for-pune-double-height-homes",
+        "keyword": "Singapore NRI Investors for Pune Double-Height Homes"
+      },
+      {
+        "slug": "singapore-nri-investors-for-pune-private-plunge-pool-flats",
+        "keyword": "Singapore NRI Investors for Pune Private Plunge Pool Flats"
+      },
+      {
+        "slug": "singapore-nri-investors-for-pune-nri-premium-homes",
+        "keyword": "Singapore NRI Investors for Pune NRI Premium Homes"
+      },
+      {
+        "slug": "singapore-nri-investors-for-pune-properties",
+        "keyword": "Singapore NRI Investors for Pune Properties"
+      },
+      {
+        "slug": "singapore-nri-investors-for-pune-flats",
+        "keyword": "Singapore NRI Investors for Pune Flats"
+      },
+      {
+        "slug": "singapore-nri-investors-for-pune-villas",
+        "keyword": "Singapore NRI Investors for Pune Villas"
+      },
+      {
+        "slug": "singapore-nri-investors-for-pune-row-houses",
+        "keyword": "Singapore NRI Investors for Pune Row Houses"
+      },
+      {
+        "slug": "singapore-nri-investors-for-pune-commercial-real-estate",
+        "keyword": "Singapore NRI Investors for Pune Commercial Real Estate"
+      },
+      {
+        "slug": "singapore-nri-investors-for-pune-retail-spaces",
+        "keyword": "Singapore NRI Investors for Pune Retail Spaces"
+      },
+      {
+        "slug": "singapore-nri-investors-for-pune-office-spaces",
+        "keyword": "Singapore NRI Investors for Pune Office Spaces"
+      },
+      {
+        "slug": "singapore-nri-investors-for-pune-ready-possession",
+        "keyword": "Singapore NRI Investors for Pune Ready Possession"
+      },
+      {
+        "slug": "singapore-nri-investors-for-pune-under-construction",
+        "keyword": "Singapore NRI Investors for Pune Under Construction"
+      },
+      {
+        "slug": "singapore-nri-investors-for-pune-it-park-homes",
+        "keyword": "Singapore NRI Investors for Pune IT Park Homes"
+      },
+      {
+        "slug": "singapore-nri-investors-for-pune-mla-homes",
+        "keyword": "Singapore NRI Investors for Pune MLA Homes"
+      },
+      {
+        "slug": "singapore-nri-investors-for-pune-vtp-projects",
+        "keyword": "Singapore NRI Investors for Pune VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-london",
+    "title": "Pune Real Estate for NRI in London",
+    "description": "Secure high-yield real estate investments in Pune from London, UK.",
+    "slugs": [
+      {
+        "slug": "pune-luxury-apartments-for-nri-in-london",
+        "keyword": "Pune Luxury Apartments for NRI in London"
+      },
+      {
+        "slug": "pune-premium-flats-for-nri-in-london",
+        "keyword": "Pune Premium Flats for NRI in London"
+      },
+      {
+        "slug": "pune-new-launch-projects-for-nri-in-london",
+        "keyword": "Pune New Launch Projects for NRI in London"
+      },
+      {
+        "slug": "pune-township-projects-for-nri-in-london",
+        "keyword": "Pune Township Projects for NRI in London"
+      },
+      {
+        "slug": "pune-real-estate-investment-for-nri-in-london",
+        "keyword": "Pune Real Estate Investment for NRI in London"
+      },
+      {
+        "slug": "pune-1bhk-flats-for-nri-in-london",
+        "keyword": "Pune 1BHK Flats for NRI in London"
+      },
+      {
+        "slug": "pune-2bhk-flats-for-nri-in-london",
+        "keyword": "Pune 2BHK Flats for NRI in London"
+      },
+      {
+        "slug": "pune-3bhk-luxury-homes-for-nri-in-london",
+        "keyword": "Pune 3BHK Luxury Homes for NRI in London"
+      },
+      {
+        "slug": "pune-4bhk-premium-apartments-for-nri-in-london",
+        "keyword": "Pune 4BHK Premium Apartments for NRI in London"
+      },
+      {
+        "slug": "pune-5bhk-villas-for-nri-in-london",
+        "keyword": "Pune 5BHK Villas for NRI in London"
+      },
+      {
+        "slug": "pune-1-bhk-for-nri-in-london",
+        "keyword": "Pune 1 BHK for NRI in London"
+      },
+      {
+        "slug": "pune-2-bhk-for-nri-in-london",
+        "keyword": "Pune 2 BHK for NRI in London"
+      },
+      {
+        "slug": "pune-3-bhk-for-nri-in-london",
+        "keyword": "Pune 3 BHK for NRI in London"
+      },
+      {
+        "slug": "pune-4-bhk-for-nri-in-london",
+        "keyword": "Pune 4 BHK for NRI in London"
+      },
+      {
+        "slug": "pune-studio-apartments-for-nri-in-london",
+        "keyword": "Pune Studio Apartments for NRI in London"
+      },
+      {
+        "slug": "pune-duplex-apartments-for-nri-in-london",
+        "keyword": "Pune Duplex Apartments for NRI in London"
+      },
+      {
+        "slug": "pune-sky-duplex-for-nri-in-london",
+        "keyword": "Pune Sky Duplex for NRI in London"
+      },
+      {
+        "slug": "pune-simplex-apartments-for-nri-in-london",
+        "keyword": "Pune Simplex Apartments for NRI in London"
+      },
+      {
+        "slug": "pune-penthouses-for-nri-in-london",
+        "keyword": "Pune Penthouses for NRI in London"
+      },
+      {
+        "slug": "pune-double-height-homes-for-nri-in-london",
+        "keyword": "Pune Double-Height Homes for NRI in London"
+      },
+      {
+        "slug": "pune-private-plunge-pool-flats-for-nri-in-london",
+        "keyword": "Pune Private Plunge Pool Flats for NRI in London"
+      },
+      {
+        "slug": "pune-nri-premium-homes-for-nri-in-london",
+        "keyword": "Pune NRI Premium Homes for NRI in London"
+      },
+      {
+        "slug": "pune-properties-for-nri-in-london",
+        "keyword": "Pune Properties for NRI in London"
+      },
+      {
+        "slug": "pune-flats-for-nri-in-london",
+        "keyword": "Pune Flats for NRI in London"
+      },
+      {
+        "slug": "pune-villas-for-nri-in-london",
+        "keyword": "Pune Villas for NRI in London"
+      },
+      {
+        "slug": "pune-row-houses-for-nri-in-london",
+        "keyword": "Pune Row Houses for NRI in London"
+      },
+      {
+        "slug": "pune-commercial-real-estate-for-nri-in-london",
+        "keyword": "Pune Commercial Real Estate for NRI in London"
+      },
+      {
+        "slug": "pune-retail-spaces-for-nri-in-london",
+        "keyword": "Pune Retail Spaces for NRI in London"
+      },
+      {
+        "slug": "pune-office-spaces-for-nri-in-london",
+        "keyword": "Pune Office Spaces for NRI in London"
+      },
+      {
+        "slug": "pune-ready-possession-for-nri-in-london",
+        "keyword": "Pune Ready Possession for NRI in London"
+      },
+      {
+        "slug": "pune-under-construction-for-nri-in-london",
+        "keyword": "Pune Under Construction for NRI in London"
+      },
+      {
+        "slug": "pune-it-park-homes-for-nri-in-london",
+        "keyword": "Pune IT Park Homes for NRI in London"
+      },
+      {
+        "slug": "pune-mla-homes-for-nri-in-london",
+        "keyword": "Pune MLA Homes for NRI in London"
+      },
+      {
+        "slug": "pune-vtp-projects-for-nri-in-london",
+        "keyword": "Pune VTP Projects for NRI in London"
+      },
+      {
+        "slug": "london-nri-investors-for-pune-luxury-apartments",
+        "keyword": "London NRI Investors for Pune Luxury Apartments"
+      },
+      {
+        "slug": "london-nri-investors-for-pune-premium-flats",
+        "keyword": "London NRI Investors for Pune Premium Flats"
+      },
+      {
+        "slug": "london-nri-investors-for-pune-new-launch-projects",
+        "keyword": "London NRI Investors for Pune New Launch Projects"
+      },
+      {
+        "slug": "london-nri-investors-for-pune-township-projects",
+        "keyword": "London NRI Investors for Pune Township Projects"
+      },
+      {
+        "slug": "london-nri-investors-for-pune-real-estate-investment",
+        "keyword": "London NRI Investors for Pune Real Estate Investment"
+      },
+      {
+        "slug": "london-nri-investors-for-pune-1bhk-flats",
+        "keyword": "London NRI Investors for Pune 1BHK Flats"
+      },
+      {
+        "slug": "london-nri-investors-for-pune-2bhk-flats",
+        "keyword": "London NRI Investors for Pune 2BHK Flats"
+      },
+      {
+        "slug": "london-nri-investors-for-pune-3bhk-luxury-homes",
+        "keyword": "London NRI Investors for Pune 3BHK Luxury Homes"
+      },
+      {
+        "slug": "london-nri-investors-for-pune-4bhk-premium-apartments",
+        "keyword": "London NRI Investors for Pune 4BHK Premium Apartments"
+      },
+      {
+        "slug": "london-nri-investors-for-pune-5bhk-villas",
+        "keyword": "London NRI Investors for Pune 5BHK Villas"
+      },
+      {
+        "slug": "london-nri-investors-for-pune-1-bhk",
+        "keyword": "London NRI Investors for Pune 1 BHK"
+      },
+      {
+        "slug": "london-nri-investors-for-pune-2-bhk",
+        "keyword": "London NRI Investors for Pune 2 BHK"
+      },
+      {
+        "slug": "london-nri-investors-for-pune-3-bhk",
+        "keyword": "London NRI Investors for Pune 3 BHK"
+      },
+      {
+        "slug": "london-nri-investors-for-pune-4-bhk",
+        "keyword": "London NRI Investors for Pune 4 BHK"
+      },
+      {
+        "slug": "london-nri-investors-for-pune-studio-apartments",
+        "keyword": "London NRI Investors for Pune Studio Apartments"
+      },
+      {
+        "slug": "london-nri-investors-for-pune-duplex-apartments",
+        "keyword": "London NRI Investors for Pune Duplex Apartments"
+      },
+      {
+        "slug": "london-nri-investors-for-pune-sky-duplex",
+        "keyword": "London NRI Investors for Pune Sky Duplex"
+      },
+      {
+        "slug": "london-nri-investors-for-pune-simplex-apartments",
+        "keyword": "London NRI Investors for Pune Simplex Apartments"
+      },
+      {
+        "slug": "london-nri-investors-for-pune-penthouses",
+        "keyword": "London NRI Investors for Pune Penthouses"
+      },
+      {
+        "slug": "london-nri-investors-for-pune-double-height-homes",
+        "keyword": "London NRI Investors for Pune Double-Height Homes"
+      },
+      {
+        "slug": "london-nri-investors-for-pune-private-plunge-pool-flats",
+        "keyword": "London NRI Investors for Pune Private Plunge Pool Flats"
+      },
+      {
+        "slug": "london-nri-investors-for-pune-nri-premium-homes",
+        "keyword": "London NRI Investors for Pune NRI Premium Homes"
+      },
+      {
+        "slug": "london-nri-investors-for-pune-properties",
+        "keyword": "London NRI Investors for Pune Properties"
+      },
+      {
+        "slug": "london-nri-investors-for-pune-flats",
+        "keyword": "London NRI Investors for Pune Flats"
+      },
+      {
+        "slug": "london-nri-investors-for-pune-villas",
+        "keyword": "London NRI Investors for Pune Villas"
+      },
+      {
+        "slug": "london-nri-investors-for-pune-row-houses",
+        "keyword": "London NRI Investors for Pune Row Houses"
+      },
+      {
+        "slug": "london-nri-investors-for-pune-commercial-real-estate",
+        "keyword": "London NRI Investors for Pune Commercial Real Estate"
+      },
+      {
+        "slug": "london-nri-investors-for-pune-retail-spaces",
+        "keyword": "London NRI Investors for Pune Retail Spaces"
+      },
+      {
+        "slug": "london-nri-investors-for-pune-office-spaces",
+        "keyword": "London NRI Investors for Pune Office Spaces"
+      },
+      {
+        "slug": "london-nri-investors-for-pune-ready-possession",
+        "keyword": "London NRI Investors for Pune Ready Possession"
+      },
+      {
+        "slug": "london-nri-investors-for-pune-under-construction",
+        "keyword": "London NRI Investors for Pune Under Construction"
+      },
+      {
+        "slug": "london-nri-investors-for-pune-it-park-homes",
+        "keyword": "London NRI Investors for Pune IT Park Homes"
+      },
+      {
+        "slug": "london-nri-investors-for-pune-mla-homes",
+        "keyword": "London NRI Investors for Pune MLA Homes"
+      },
+      {
+        "slug": "london-nri-investors-for-pune-vtp-projects",
+        "keyword": "London NRI Investors for Pune VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-new-york",
+    "title": "Pune Real Estate for NRI in New York",
+    "description": "Exclusive Pune property investment portfolios for NRI buyers in New York, USA.",
+    "slugs": [
+      {
+        "slug": "pune-luxury-apartments-for-nri-in-new-york",
+        "keyword": "Pune Luxury Apartments for NRI in New York"
+      },
+      {
+        "slug": "pune-premium-flats-for-nri-in-new-york",
+        "keyword": "Pune Premium Flats for NRI in New York"
+      },
+      {
+        "slug": "pune-new-launch-projects-for-nri-in-new-york",
+        "keyword": "Pune New Launch Projects for NRI in New York"
+      },
+      {
+        "slug": "pune-township-projects-for-nri-in-new-york",
+        "keyword": "Pune Township Projects for NRI in New York"
+      },
+      {
+        "slug": "pune-real-estate-investment-for-nri-in-new-york",
+        "keyword": "Pune Real Estate Investment for NRI in New York"
+      },
+      {
+        "slug": "pune-1bhk-flats-for-nri-in-new-york",
+        "keyword": "Pune 1BHK Flats for NRI in New York"
+      },
+      {
+        "slug": "pune-2bhk-flats-for-nri-in-new-york",
+        "keyword": "Pune 2BHK Flats for NRI in New York"
+      },
+      {
+        "slug": "pune-3bhk-luxury-homes-for-nri-in-new-york",
+        "keyword": "Pune 3BHK Luxury Homes for NRI in New York"
+      },
+      {
+        "slug": "pune-4bhk-premium-apartments-for-nri-in-new-york",
+        "keyword": "Pune 4BHK Premium Apartments for NRI in New York"
+      },
+      {
+        "slug": "pune-5bhk-villas-for-nri-in-new-york",
+        "keyword": "Pune 5BHK Villas for NRI in New York"
+      },
+      {
+        "slug": "pune-1-bhk-for-nri-in-new-york",
+        "keyword": "Pune 1 BHK for NRI in New York"
+      },
+      {
+        "slug": "pune-2-bhk-for-nri-in-new-york",
+        "keyword": "Pune 2 BHK for NRI in New York"
+      },
+      {
+        "slug": "pune-3-bhk-for-nri-in-new-york",
+        "keyword": "Pune 3 BHK for NRI in New York"
+      },
+      {
+        "slug": "pune-4-bhk-for-nri-in-new-york",
+        "keyword": "Pune 4 BHK for NRI in New York"
+      },
+      {
+        "slug": "pune-studio-apartments-for-nri-in-new-york",
+        "keyword": "Pune Studio Apartments for NRI in New York"
+      },
+      {
+        "slug": "pune-duplex-apartments-for-nri-in-new-york",
+        "keyword": "Pune Duplex Apartments for NRI in New York"
+      },
+      {
+        "slug": "pune-sky-duplex-for-nri-in-new-york",
+        "keyword": "Pune Sky Duplex for NRI in New York"
+      },
+      {
+        "slug": "pune-simplex-apartments-for-nri-in-new-york",
+        "keyword": "Pune Simplex Apartments for NRI in New York"
+      },
+      {
+        "slug": "pune-penthouses-for-nri-in-new-york",
+        "keyword": "Pune Penthouses for NRI in New York"
+      },
+      {
+        "slug": "pune-double-height-homes-for-nri-in-new-york",
+        "keyword": "Pune Double-Height Homes for NRI in New York"
+      },
+      {
+        "slug": "pune-private-plunge-pool-flats-for-nri-in-new-york",
+        "keyword": "Pune Private Plunge Pool Flats for NRI in New York"
+      },
+      {
+        "slug": "pune-nri-premium-homes-for-nri-in-new-york",
+        "keyword": "Pune NRI Premium Homes for NRI in New York"
+      },
+      {
+        "slug": "pune-properties-for-nri-in-new-york",
+        "keyword": "Pune Properties for NRI in New York"
+      },
+      {
+        "slug": "pune-flats-for-nri-in-new-york",
+        "keyword": "Pune Flats for NRI in New York"
+      },
+      {
+        "slug": "pune-villas-for-nri-in-new-york",
+        "keyword": "Pune Villas for NRI in New York"
+      },
+      {
+        "slug": "pune-row-houses-for-nri-in-new-york",
+        "keyword": "Pune Row Houses for NRI in New York"
+      },
+      {
+        "slug": "pune-commercial-real-estate-for-nri-in-new-york",
+        "keyword": "Pune Commercial Real Estate for NRI in New York"
+      },
+      {
+        "slug": "pune-retail-spaces-for-nri-in-new-york",
+        "keyword": "Pune Retail Spaces for NRI in New York"
+      },
+      {
+        "slug": "pune-office-spaces-for-nri-in-new-york",
+        "keyword": "Pune Office Spaces for NRI in New York"
+      },
+      {
+        "slug": "pune-ready-possession-for-nri-in-new-york",
+        "keyword": "Pune Ready Possession for NRI in New York"
+      },
+      {
+        "slug": "pune-under-construction-for-nri-in-new-york",
+        "keyword": "Pune Under Construction for NRI in New York"
+      },
+      {
+        "slug": "pune-it-park-homes-for-nri-in-new-york",
+        "keyword": "Pune IT Park Homes for NRI in New York"
+      },
+      {
+        "slug": "pune-mla-homes-for-nri-in-new-york",
+        "keyword": "Pune MLA Homes for NRI in New York"
+      },
+      {
+        "slug": "pune-vtp-projects-for-nri-in-new-york",
+        "keyword": "Pune VTP Projects for NRI in New York"
+      },
+      {
+        "slug": "new-york-nri-investors-for-pune-luxury-apartments",
+        "keyword": "New York NRI Investors for Pune Luxury Apartments"
+      },
+      {
+        "slug": "new-york-nri-investors-for-pune-premium-flats",
+        "keyword": "New York NRI Investors for Pune Premium Flats"
+      },
+      {
+        "slug": "new-york-nri-investors-for-pune-new-launch-projects",
+        "keyword": "New York NRI Investors for Pune New Launch Projects"
+      },
+      {
+        "slug": "new-york-nri-investors-for-pune-township-projects",
+        "keyword": "New York NRI Investors for Pune Township Projects"
+      },
+      {
+        "slug": "new-york-nri-investors-for-pune-real-estate-investment",
+        "keyword": "New York NRI Investors for Pune Real Estate Investment"
+      },
+      {
+        "slug": "new-york-nri-investors-for-pune-1bhk-flats",
+        "keyword": "New York NRI Investors for Pune 1BHK Flats"
+      },
+      {
+        "slug": "new-york-nri-investors-for-pune-2bhk-flats",
+        "keyword": "New York NRI Investors for Pune 2BHK Flats"
+      },
+      {
+        "slug": "new-york-nri-investors-for-pune-3bhk-luxury-homes",
+        "keyword": "New York NRI Investors for Pune 3BHK Luxury Homes"
+      },
+      {
+        "slug": "new-york-nri-investors-for-pune-4bhk-premium-apartments",
+        "keyword": "New York NRI Investors for Pune 4BHK Premium Apartments"
+      },
+      {
+        "slug": "new-york-nri-investors-for-pune-5bhk-villas",
+        "keyword": "New York NRI Investors for Pune 5BHK Villas"
+      },
+      {
+        "slug": "new-york-nri-investors-for-pune-1-bhk",
+        "keyword": "New York NRI Investors for Pune 1 BHK"
+      },
+      {
+        "slug": "new-york-nri-investors-for-pune-2-bhk",
+        "keyword": "New York NRI Investors for Pune 2 BHK"
+      },
+      {
+        "slug": "new-york-nri-investors-for-pune-3-bhk",
+        "keyword": "New York NRI Investors for Pune 3 BHK"
+      },
+      {
+        "slug": "new-york-nri-investors-for-pune-4-bhk",
+        "keyword": "New York NRI Investors for Pune 4 BHK"
+      },
+      {
+        "slug": "new-york-nri-investors-for-pune-studio-apartments",
+        "keyword": "New York NRI Investors for Pune Studio Apartments"
+      },
+      {
+        "slug": "new-york-nri-investors-for-pune-duplex-apartments",
+        "keyword": "New York NRI Investors for Pune Duplex Apartments"
+      },
+      {
+        "slug": "new-york-nri-investors-for-pune-sky-duplex",
+        "keyword": "New York NRI Investors for Pune Sky Duplex"
+      },
+      {
+        "slug": "new-york-nri-investors-for-pune-simplex-apartments",
+        "keyword": "New York NRI Investors for Pune Simplex Apartments"
+      },
+      {
+        "slug": "new-york-nri-investors-for-pune-penthouses",
+        "keyword": "New York NRI Investors for Pune Penthouses"
+      },
+      {
+        "slug": "new-york-nri-investors-for-pune-double-height-homes",
+        "keyword": "New York NRI Investors for Pune Double-Height Homes"
+      },
+      {
+        "slug": "new-york-nri-investors-for-pune-private-plunge-pool-flats",
+        "keyword": "New York NRI Investors for Pune Private Plunge Pool Flats"
+      },
+      {
+        "slug": "new-york-nri-investors-for-pune-nri-premium-homes",
+        "keyword": "New York NRI Investors for Pune NRI Premium Homes"
+      },
+      {
+        "slug": "new-york-nri-investors-for-pune-properties",
+        "keyword": "New York NRI Investors for Pune Properties"
+      },
+      {
+        "slug": "new-york-nri-investors-for-pune-flats",
+        "keyword": "New York NRI Investors for Pune Flats"
+      },
+      {
+        "slug": "new-york-nri-investors-for-pune-villas",
+        "keyword": "New York NRI Investors for Pune Villas"
+      },
+      {
+        "slug": "new-york-nri-investors-for-pune-row-houses",
+        "keyword": "New York NRI Investors for Pune Row Houses"
+      },
+      {
+        "slug": "new-york-nri-investors-for-pune-commercial-real-estate",
+        "keyword": "New York NRI Investors for Pune Commercial Real Estate"
+      },
+      {
+        "slug": "new-york-nri-investors-for-pune-retail-spaces",
+        "keyword": "New York NRI Investors for Pune Retail Spaces"
+      },
+      {
+        "slug": "new-york-nri-investors-for-pune-office-spaces",
+        "keyword": "New York NRI Investors for Pune Office Spaces"
+      },
+      {
+        "slug": "new-york-nri-investors-for-pune-ready-possession",
+        "keyword": "New York NRI Investors for Pune Ready Possession"
+      },
+      {
+        "slug": "new-york-nri-investors-for-pune-under-construction",
+        "keyword": "New York NRI Investors for Pune Under Construction"
+      },
+      {
+        "slug": "new-york-nri-investors-for-pune-it-park-homes",
+        "keyword": "New York NRI Investors for Pune IT Park Homes"
+      },
+      {
+        "slug": "new-york-nri-investors-for-pune-mla-homes",
+        "keyword": "New York NRI Investors for Pune MLA Homes"
+      },
+      {
+        "slug": "new-york-nri-investors-for-pune-vtp-projects",
+        "keyword": "New York NRI Investors for Pune VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-san-francisco",
+    "title": "Pune Real Estate for NRI in San Francisco",
+    "description": "Premium IT-hub adjacent Pune real estate for tech professionals in San Francisco Bay Area.",
+    "slugs": [
+      {
+        "slug": "pune-luxury-apartments-for-nri-in-san-francisco",
+        "keyword": "Pune Luxury Apartments for NRI in San Francisco"
+      },
+      {
+        "slug": "pune-premium-flats-for-nri-in-san-francisco",
+        "keyword": "Pune Premium Flats for NRI in San Francisco"
+      },
+      {
+        "slug": "pune-new-launch-projects-for-nri-in-san-francisco",
+        "keyword": "Pune New Launch Projects for NRI in San Francisco"
+      },
+      {
+        "slug": "pune-township-projects-for-nri-in-san-francisco",
+        "keyword": "Pune Township Projects for NRI in San Francisco"
+      },
+      {
+        "slug": "pune-real-estate-investment-for-nri-in-san-francisco",
+        "keyword": "Pune Real Estate Investment for NRI in San Francisco"
+      },
+      {
+        "slug": "pune-1bhk-flats-for-nri-in-san-francisco",
+        "keyword": "Pune 1BHK Flats for NRI in San Francisco"
+      },
+      {
+        "slug": "pune-2bhk-flats-for-nri-in-san-francisco",
+        "keyword": "Pune 2BHK Flats for NRI in San Francisco"
+      },
+      {
+        "slug": "pune-3bhk-luxury-homes-for-nri-in-san-francisco",
+        "keyword": "Pune 3BHK Luxury Homes for NRI in San Francisco"
+      },
+      {
+        "slug": "pune-4bhk-premium-apartments-for-nri-in-san-francisco",
+        "keyword": "Pune 4BHK Premium Apartments for NRI in San Francisco"
+      },
+      {
+        "slug": "pune-5bhk-villas-for-nri-in-san-francisco",
+        "keyword": "Pune 5BHK Villas for NRI in San Francisco"
+      },
+      {
+        "slug": "pune-1-bhk-for-nri-in-san-francisco",
+        "keyword": "Pune 1 BHK for NRI in San Francisco"
+      },
+      {
+        "slug": "pune-2-bhk-for-nri-in-san-francisco",
+        "keyword": "Pune 2 BHK for NRI in San Francisco"
+      },
+      {
+        "slug": "pune-3-bhk-for-nri-in-san-francisco",
+        "keyword": "Pune 3 BHK for NRI in San Francisco"
+      },
+      {
+        "slug": "pune-4-bhk-for-nri-in-san-francisco",
+        "keyword": "Pune 4 BHK for NRI in San Francisco"
+      },
+      {
+        "slug": "pune-studio-apartments-for-nri-in-san-francisco",
+        "keyword": "Pune Studio Apartments for NRI in San Francisco"
+      },
+      {
+        "slug": "pune-duplex-apartments-for-nri-in-san-francisco",
+        "keyword": "Pune Duplex Apartments for NRI in San Francisco"
+      },
+      {
+        "slug": "pune-sky-duplex-for-nri-in-san-francisco",
+        "keyword": "Pune Sky Duplex for NRI in San Francisco"
+      },
+      {
+        "slug": "pune-simplex-apartments-for-nri-in-san-francisco",
+        "keyword": "Pune Simplex Apartments for NRI in San Francisco"
+      },
+      {
+        "slug": "pune-penthouses-for-nri-in-san-francisco",
+        "keyword": "Pune Penthouses for NRI in San Francisco"
+      },
+      {
+        "slug": "pune-double-height-homes-for-nri-in-san-francisco",
+        "keyword": "Pune Double-Height Homes for NRI in San Francisco"
+      },
+      {
+        "slug": "pune-private-plunge-pool-flats-for-nri-in-san-francisco",
+        "keyword": "Pune Private Plunge Pool Flats for NRI in San Francisco"
+      },
+      {
+        "slug": "pune-nri-premium-homes-for-nri-in-san-francisco",
+        "keyword": "Pune NRI Premium Homes for NRI in San Francisco"
+      },
+      {
+        "slug": "pune-properties-for-nri-in-san-francisco",
+        "keyword": "Pune Properties for NRI in San Francisco"
+      },
+      {
+        "slug": "pune-flats-for-nri-in-san-francisco",
+        "keyword": "Pune Flats for NRI in San Francisco"
+      },
+      {
+        "slug": "pune-villas-for-nri-in-san-francisco",
+        "keyword": "Pune Villas for NRI in San Francisco"
+      },
+      {
+        "slug": "pune-row-houses-for-nri-in-san-francisco",
+        "keyword": "Pune Row Houses for NRI in San Francisco"
+      },
+      {
+        "slug": "pune-commercial-real-estate-for-nri-in-san-francisco",
+        "keyword": "Pune Commercial Real Estate for NRI in San Francisco"
+      },
+      {
+        "slug": "pune-retail-spaces-for-nri-in-san-francisco",
+        "keyword": "Pune Retail Spaces for NRI in San Francisco"
+      },
+      {
+        "slug": "pune-office-spaces-for-nri-in-san-francisco",
+        "keyword": "Pune Office Spaces for NRI in San Francisco"
+      },
+      {
+        "slug": "pune-ready-possession-for-nri-in-san-francisco",
+        "keyword": "Pune Ready Possession for NRI in San Francisco"
+      },
+      {
+        "slug": "pune-under-construction-for-nri-in-san-francisco",
+        "keyword": "Pune Under Construction for NRI in San Francisco"
+      },
+      {
+        "slug": "pune-it-park-homes-for-nri-in-san-francisco",
+        "keyword": "Pune IT Park Homes for NRI in San Francisco"
+      },
+      {
+        "slug": "pune-mla-homes-for-nri-in-san-francisco",
+        "keyword": "Pune MLA Homes for NRI in San Francisco"
+      },
+      {
+        "slug": "pune-vtp-projects-for-nri-in-san-francisco",
+        "keyword": "Pune VTP Projects for NRI in San Francisco"
+      },
+      {
+        "slug": "san-francisco-nri-investors-for-pune-luxury-apartments",
+        "keyword": "San Francisco NRI Investors for Pune Luxury Apartments"
+      },
+      {
+        "slug": "san-francisco-nri-investors-for-pune-premium-flats",
+        "keyword": "San Francisco NRI Investors for Pune Premium Flats"
+      },
+      {
+        "slug": "san-francisco-nri-investors-for-pune-new-launch-projects",
+        "keyword": "San Francisco NRI Investors for Pune New Launch Projects"
+      },
+      {
+        "slug": "san-francisco-nri-investors-for-pune-township-projects",
+        "keyword": "San Francisco NRI Investors for Pune Township Projects"
+      },
+      {
+        "slug": "san-francisco-nri-investors-for-pune-real-estate-investment",
+        "keyword": "San Francisco NRI Investors for Pune Real Estate Investment"
+      },
+      {
+        "slug": "san-francisco-nri-investors-for-pune-1bhk-flats",
+        "keyword": "San Francisco NRI Investors for Pune 1BHK Flats"
+      },
+      {
+        "slug": "san-francisco-nri-investors-for-pune-2bhk-flats",
+        "keyword": "San Francisco NRI Investors for Pune 2BHK Flats"
+      },
+      {
+        "slug": "san-francisco-nri-investors-for-pune-3bhk-luxury-homes",
+        "keyword": "San Francisco NRI Investors for Pune 3BHK Luxury Homes"
+      },
+      {
+        "slug": "san-francisco-nri-investors-for-pune-4bhk-premium-apartments",
+        "keyword": "San Francisco NRI Investors for Pune 4BHK Premium Apartments"
+      },
+      {
+        "slug": "san-francisco-nri-investors-for-pune-5bhk-villas",
+        "keyword": "San Francisco NRI Investors for Pune 5BHK Villas"
+      },
+      {
+        "slug": "san-francisco-nri-investors-for-pune-1-bhk",
+        "keyword": "San Francisco NRI Investors for Pune 1 BHK"
+      },
+      {
+        "slug": "san-francisco-nri-investors-for-pune-2-bhk",
+        "keyword": "San Francisco NRI Investors for Pune 2 BHK"
+      },
+      {
+        "slug": "san-francisco-nri-investors-for-pune-3-bhk",
+        "keyword": "San Francisco NRI Investors for Pune 3 BHK"
+      },
+      {
+        "slug": "san-francisco-nri-investors-for-pune-4-bhk",
+        "keyword": "San Francisco NRI Investors for Pune 4 BHK"
+      },
+      {
+        "slug": "san-francisco-nri-investors-for-pune-studio-apartments",
+        "keyword": "San Francisco NRI Investors for Pune Studio Apartments"
+      },
+      {
+        "slug": "san-francisco-nri-investors-for-pune-duplex-apartments",
+        "keyword": "San Francisco NRI Investors for Pune Duplex Apartments"
+      },
+      {
+        "slug": "san-francisco-nri-investors-for-pune-sky-duplex",
+        "keyword": "San Francisco NRI Investors for Pune Sky Duplex"
+      },
+      {
+        "slug": "san-francisco-nri-investors-for-pune-simplex-apartments",
+        "keyword": "San Francisco NRI Investors for Pune Simplex Apartments"
+      },
+      {
+        "slug": "san-francisco-nri-investors-for-pune-penthouses",
+        "keyword": "San Francisco NRI Investors for Pune Penthouses"
+      },
+      {
+        "slug": "san-francisco-nri-investors-for-pune-double-height-homes",
+        "keyword": "San Francisco NRI Investors for Pune Double-Height Homes"
+      },
+      {
+        "slug": "san-francisco-nri-investors-for-pune-private-plunge-pool-flats",
+        "keyword": "San Francisco NRI Investors for Pune Private Plunge Pool Flats"
+      },
+      {
+        "slug": "san-francisco-nri-investors-for-pune-nri-premium-homes",
+        "keyword": "San Francisco NRI Investors for Pune NRI Premium Homes"
+      },
+      {
+        "slug": "san-francisco-nri-investors-for-pune-properties",
+        "keyword": "San Francisco NRI Investors for Pune Properties"
+      },
+      {
+        "slug": "san-francisco-nri-investors-for-pune-flats",
+        "keyword": "San Francisco NRI Investors for Pune Flats"
+      },
+      {
+        "slug": "san-francisco-nri-investors-for-pune-villas",
+        "keyword": "San Francisco NRI Investors for Pune Villas"
+      },
+      {
+        "slug": "san-francisco-nri-investors-for-pune-row-houses",
+        "keyword": "San Francisco NRI Investors for Pune Row Houses"
+      },
+      {
+        "slug": "san-francisco-nri-investors-for-pune-commercial-real-estate",
+        "keyword": "San Francisco NRI Investors for Pune Commercial Real Estate"
+      },
+      {
+        "slug": "san-francisco-nri-investors-for-pune-retail-spaces",
+        "keyword": "San Francisco NRI Investors for Pune Retail Spaces"
+      },
+      {
+        "slug": "san-francisco-nri-investors-for-pune-office-spaces",
+        "keyword": "San Francisco NRI Investors for Pune Office Spaces"
+      },
+      {
+        "slug": "san-francisco-nri-investors-for-pune-ready-possession",
+        "keyword": "San Francisco NRI Investors for Pune Ready Possession"
+      },
+      {
+        "slug": "san-francisco-nri-investors-for-pune-under-construction",
+        "keyword": "San Francisco NRI Investors for Pune Under Construction"
+      },
+      {
+        "slug": "san-francisco-nri-investors-for-pune-it-park-homes",
+        "keyword": "San Francisco NRI Investors for Pune IT Park Homes"
+      },
+      {
+        "slug": "san-francisco-nri-investors-for-pune-mla-homes",
+        "keyword": "San Francisco NRI Investors for Pune MLA Homes"
+      },
+      {
+        "slug": "san-francisco-nri-investors-for-pune-vtp-projects",
+        "keyword": "San Francisco NRI Investors for Pune VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-sydney",
+    "title": "Pune Real Estate for NRI in Sydney",
+    "description": "Top-tier Pune residential townships for NRI investors in Sydney, Australia.",
+    "slugs": [
+      {
+        "slug": "pune-luxury-apartments-for-nri-in-sydney",
+        "keyword": "Pune Luxury Apartments for NRI in Sydney"
+      },
+      {
+        "slug": "pune-premium-flats-for-nri-in-sydney",
+        "keyword": "Pune Premium Flats for NRI in Sydney"
+      },
+      {
+        "slug": "pune-new-launch-projects-for-nri-in-sydney",
+        "keyword": "Pune New Launch Projects for NRI in Sydney"
+      },
+      {
+        "slug": "pune-township-projects-for-nri-in-sydney",
+        "keyword": "Pune Township Projects for NRI in Sydney"
+      },
+      {
+        "slug": "pune-real-estate-investment-for-nri-in-sydney",
+        "keyword": "Pune Real Estate Investment for NRI in Sydney"
+      },
+      {
+        "slug": "pune-1bhk-flats-for-nri-in-sydney",
+        "keyword": "Pune 1BHK Flats for NRI in Sydney"
+      },
+      {
+        "slug": "pune-2bhk-flats-for-nri-in-sydney",
+        "keyword": "Pune 2BHK Flats for NRI in Sydney"
+      },
+      {
+        "slug": "pune-3bhk-luxury-homes-for-nri-in-sydney",
+        "keyword": "Pune 3BHK Luxury Homes for NRI in Sydney"
+      },
+      {
+        "slug": "pune-4bhk-premium-apartments-for-nri-in-sydney",
+        "keyword": "Pune 4BHK Premium Apartments for NRI in Sydney"
+      },
+      {
+        "slug": "pune-5bhk-villas-for-nri-in-sydney",
+        "keyword": "Pune 5BHK Villas for NRI in Sydney"
+      },
+      {
+        "slug": "pune-1-bhk-for-nri-in-sydney",
+        "keyword": "Pune 1 BHK for NRI in Sydney"
+      },
+      {
+        "slug": "pune-2-bhk-for-nri-in-sydney",
+        "keyword": "Pune 2 BHK for NRI in Sydney"
+      },
+      {
+        "slug": "pune-3-bhk-for-nri-in-sydney",
+        "keyword": "Pune 3 BHK for NRI in Sydney"
+      },
+      {
+        "slug": "pune-4-bhk-for-nri-in-sydney",
+        "keyword": "Pune 4 BHK for NRI in Sydney"
+      },
+      {
+        "slug": "pune-studio-apartments-for-nri-in-sydney",
+        "keyword": "Pune Studio Apartments for NRI in Sydney"
+      },
+      {
+        "slug": "pune-duplex-apartments-for-nri-in-sydney",
+        "keyword": "Pune Duplex Apartments for NRI in Sydney"
+      },
+      {
+        "slug": "pune-sky-duplex-for-nri-in-sydney",
+        "keyword": "Pune Sky Duplex for NRI in Sydney"
+      },
+      {
+        "slug": "pune-simplex-apartments-for-nri-in-sydney",
+        "keyword": "Pune Simplex Apartments for NRI in Sydney"
+      },
+      {
+        "slug": "pune-penthouses-for-nri-in-sydney",
+        "keyword": "Pune Penthouses for NRI in Sydney"
+      },
+      {
+        "slug": "pune-double-height-homes-for-nri-in-sydney",
+        "keyword": "Pune Double-Height Homes for NRI in Sydney"
+      },
+      {
+        "slug": "pune-private-plunge-pool-flats-for-nri-in-sydney",
+        "keyword": "Pune Private Plunge Pool Flats for NRI in Sydney"
+      },
+      {
+        "slug": "pune-nri-premium-homes-for-nri-in-sydney",
+        "keyword": "Pune NRI Premium Homes for NRI in Sydney"
+      },
+      {
+        "slug": "pune-properties-for-nri-in-sydney",
+        "keyword": "Pune Properties for NRI in Sydney"
+      },
+      {
+        "slug": "pune-flats-for-nri-in-sydney",
+        "keyword": "Pune Flats for NRI in Sydney"
+      },
+      {
+        "slug": "pune-villas-for-nri-in-sydney",
+        "keyword": "Pune Villas for NRI in Sydney"
+      },
+      {
+        "slug": "pune-row-houses-for-nri-in-sydney",
+        "keyword": "Pune Row Houses for NRI in Sydney"
+      },
+      {
+        "slug": "pune-commercial-real-estate-for-nri-in-sydney",
+        "keyword": "Pune Commercial Real Estate for NRI in Sydney"
+      },
+      {
+        "slug": "pune-retail-spaces-for-nri-in-sydney",
+        "keyword": "Pune Retail Spaces for NRI in Sydney"
+      },
+      {
+        "slug": "pune-office-spaces-for-nri-in-sydney",
+        "keyword": "Pune Office Spaces for NRI in Sydney"
+      },
+      {
+        "slug": "pune-ready-possession-for-nri-in-sydney",
+        "keyword": "Pune Ready Possession for NRI in Sydney"
+      },
+      {
+        "slug": "pune-under-construction-for-nri-in-sydney",
+        "keyword": "Pune Under Construction for NRI in Sydney"
+      },
+      {
+        "slug": "pune-it-park-homes-for-nri-in-sydney",
+        "keyword": "Pune IT Park Homes for NRI in Sydney"
+      },
+      {
+        "slug": "pune-mla-homes-for-nri-in-sydney",
+        "keyword": "Pune MLA Homes for NRI in Sydney"
+      },
+      {
+        "slug": "pune-vtp-projects-for-nri-in-sydney",
+        "keyword": "Pune VTP Projects for NRI in Sydney"
+      },
+      {
+        "slug": "sydney-nri-investors-for-pune-luxury-apartments",
+        "keyword": "Sydney NRI Investors for Pune Luxury Apartments"
+      },
+      {
+        "slug": "sydney-nri-investors-for-pune-premium-flats",
+        "keyword": "Sydney NRI Investors for Pune Premium Flats"
+      },
+      {
+        "slug": "sydney-nri-investors-for-pune-new-launch-projects",
+        "keyword": "Sydney NRI Investors for Pune New Launch Projects"
+      },
+      {
+        "slug": "sydney-nri-investors-for-pune-township-projects",
+        "keyword": "Sydney NRI Investors for Pune Township Projects"
+      },
+      {
+        "slug": "sydney-nri-investors-for-pune-real-estate-investment",
+        "keyword": "Sydney NRI Investors for Pune Real Estate Investment"
+      },
+      {
+        "slug": "sydney-nri-investors-for-pune-1bhk-flats",
+        "keyword": "Sydney NRI Investors for Pune 1BHK Flats"
+      },
+      {
+        "slug": "sydney-nri-investors-for-pune-2bhk-flats",
+        "keyword": "Sydney NRI Investors for Pune 2BHK Flats"
+      },
+      {
+        "slug": "sydney-nri-investors-for-pune-3bhk-luxury-homes",
+        "keyword": "Sydney NRI Investors for Pune 3BHK Luxury Homes"
+      },
+      {
+        "slug": "sydney-nri-investors-for-pune-4bhk-premium-apartments",
+        "keyword": "Sydney NRI Investors for Pune 4BHK Premium Apartments"
+      },
+      {
+        "slug": "sydney-nri-investors-for-pune-5bhk-villas",
+        "keyword": "Sydney NRI Investors for Pune 5BHK Villas"
+      },
+      {
+        "slug": "sydney-nri-investors-for-pune-1-bhk",
+        "keyword": "Sydney NRI Investors for Pune 1 BHK"
+      },
+      {
+        "slug": "sydney-nri-investors-for-pune-2-bhk",
+        "keyword": "Sydney NRI Investors for Pune 2 BHK"
+      },
+      {
+        "slug": "sydney-nri-investors-for-pune-3-bhk",
+        "keyword": "Sydney NRI Investors for Pune 3 BHK"
+      },
+      {
+        "slug": "sydney-nri-investors-for-pune-4-bhk",
+        "keyword": "Sydney NRI Investors for Pune 4 BHK"
+      },
+      {
+        "slug": "sydney-nri-investors-for-pune-studio-apartments",
+        "keyword": "Sydney NRI Investors for Pune Studio Apartments"
+      },
+      {
+        "slug": "sydney-nri-investors-for-pune-duplex-apartments",
+        "keyword": "Sydney NRI Investors for Pune Duplex Apartments"
+      },
+      {
+        "slug": "sydney-nri-investors-for-pune-sky-duplex",
+        "keyword": "Sydney NRI Investors for Pune Sky Duplex"
+      },
+      {
+        "slug": "sydney-nri-investors-for-pune-simplex-apartments",
+        "keyword": "Sydney NRI Investors for Pune Simplex Apartments"
+      },
+      {
+        "slug": "sydney-nri-investors-for-pune-penthouses",
+        "keyword": "Sydney NRI Investors for Pune Penthouses"
+      },
+      {
+        "slug": "sydney-nri-investors-for-pune-double-height-homes",
+        "keyword": "Sydney NRI Investors for Pune Double-Height Homes"
+      },
+      {
+        "slug": "sydney-nri-investors-for-pune-private-plunge-pool-flats",
+        "keyword": "Sydney NRI Investors for Pune Private Plunge Pool Flats"
+      },
+      {
+        "slug": "sydney-nri-investors-for-pune-nri-premium-homes",
+        "keyword": "Sydney NRI Investors for Pune NRI Premium Homes"
+      },
+      {
+        "slug": "sydney-nri-investors-for-pune-properties",
+        "keyword": "Sydney NRI Investors for Pune Properties"
+      },
+      {
+        "slug": "sydney-nri-investors-for-pune-flats",
+        "keyword": "Sydney NRI Investors for Pune Flats"
+      },
+      {
+        "slug": "sydney-nri-investors-for-pune-villas",
+        "keyword": "Sydney NRI Investors for Pune Villas"
+      },
+      {
+        "slug": "sydney-nri-investors-for-pune-row-houses",
+        "keyword": "Sydney NRI Investors for Pune Row Houses"
+      },
+      {
+        "slug": "sydney-nri-investors-for-pune-commercial-real-estate",
+        "keyword": "Sydney NRI Investors for Pune Commercial Real Estate"
+      },
+      {
+        "slug": "sydney-nri-investors-for-pune-retail-spaces",
+        "keyword": "Sydney NRI Investors for Pune Retail Spaces"
+      },
+      {
+        "slug": "sydney-nri-investors-for-pune-office-spaces",
+        "keyword": "Sydney NRI Investors for Pune Office Spaces"
+      },
+      {
+        "slug": "sydney-nri-investors-for-pune-ready-possession",
+        "keyword": "Sydney NRI Investors for Pune Ready Possession"
+      },
+      {
+        "slug": "sydney-nri-investors-for-pune-under-construction",
+        "keyword": "Sydney NRI Investors for Pune Under Construction"
+      },
+      {
+        "slug": "sydney-nri-investors-for-pune-it-park-homes",
+        "keyword": "Sydney NRI Investors for Pune IT Park Homes"
+      },
+      {
+        "slug": "sydney-nri-investors-for-pune-mla-homes",
+        "keyword": "Sydney NRI Investors for Pune MLA Homes"
+      },
+      {
+        "slug": "sydney-nri-investors-for-pune-vtp-projects",
+        "keyword": "Sydney NRI Investors for Pune VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-melbourne",
+    "title": "Pune Real Estate for NRI in Melbourne",
+    "description": "Invest in Pune's rapidly appreciating real estate market from Melbourne, Australia.",
+    "slugs": [
+      {
+        "slug": "pune-luxury-apartments-for-nri-in-melbourne",
+        "keyword": "Pune Luxury Apartments for NRI in Melbourne"
+      },
+      {
+        "slug": "pune-premium-flats-for-nri-in-melbourne",
+        "keyword": "Pune Premium Flats for NRI in Melbourne"
+      },
+      {
+        "slug": "pune-new-launch-projects-for-nri-in-melbourne",
+        "keyword": "Pune New Launch Projects for NRI in Melbourne"
+      },
+      {
+        "slug": "pune-township-projects-for-nri-in-melbourne",
+        "keyword": "Pune Township Projects for NRI in Melbourne"
+      },
+      {
+        "slug": "pune-real-estate-investment-for-nri-in-melbourne",
+        "keyword": "Pune Real Estate Investment for NRI in Melbourne"
+      },
+      {
+        "slug": "pune-1bhk-flats-for-nri-in-melbourne",
+        "keyword": "Pune 1BHK Flats for NRI in Melbourne"
+      },
+      {
+        "slug": "pune-2bhk-flats-for-nri-in-melbourne",
+        "keyword": "Pune 2BHK Flats for NRI in Melbourne"
+      },
+      {
+        "slug": "pune-3bhk-luxury-homes-for-nri-in-melbourne",
+        "keyword": "Pune 3BHK Luxury Homes for NRI in Melbourne"
+      },
+      {
+        "slug": "pune-4bhk-premium-apartments-for-nri-in-melbourne",
+        "keyword": "Pune 4BHK Premium Apartments for NRI in Melbourne"
+      },
+      {
+        "slug": "pune-5bhk-villas-for-nri-in-melbourne",
+        "keyword": "Pune 5BHK Villas for NRI in Melbourne"
+      },
+      {
+        "slug": "pune-1-bhk-for-nri-in-melbourne",
+        "keyword": "Pune 1 BHK for NRI in Melbourne"
+      },
+      {
+        "slug": "pune-2-bhk-for-nri-in-melbourne",
+        "keyword": "Pune 2 BHK for NRI in Melbourne"
+      },
+      {
+        "slug": "pune-3-bhk-for-nri-in-melbourne",
+        "keyword": "Pune 3 BHK for NRI in Melbourne"
+      },
+      {
+        "slug": "pune-4-bhk-for-nri-in-melbourne",
+        "keyword": "Pune 4 BHK for NRI in Melbourne"
+      },
+      {
+        "slug": "pune-studio-apartments-for-nri-in-melbourne",
+        "keyword": "Pune Studio Apartments for NRI in Melbourne"
+      },
+      {
+        "slug": "pune-duplex-apartments-for-nri-in-melbourne",
+        "keyword": "Pune Duplex Apartments for NRI in Melbourne"
+      },
+      {
+        "slug": "pune-sky-duplex-for-nri-in-melbourne",
+        "keyword": "Pune Sky Duplex for NRI in Melbourne"
+      },
+      {
+        "slug": "pune-simplex-apartments-for-nri-in-melbourne",
+        "keyword": "Pune Simplex Apartments for NRI in Melbourne"
+      },
+      {
+        "slug": "pune-penthouses-for-nri-in-melbourne",
+        "keyword": "Pune Penthouses for NRI in Melbourne"
+      },
+      {
+        "slug": "pune-double-height-homes-for-nri-in-melbourne",
+        "keyword": "Pune Double-Height Homes for NRI in Melbourne"
+      },
+      {
+        "slug": "pune-private-plunge-pool-flats-for-nri-in-melbourne",
+        "keyword": "Pune Private Plunge Pool Flats for NRI in Melbourne"
+      },
+      {
+        "slug": "pune-nri-premium-homes-for-nri-in-melbourne",
+        "keyword": "Pune NRI Premium Homes for NRI in Melbourne"
+      },
+      {
+        "slug": "pune-properties-for-nri-in-melbourne",
+        "keyword": "Pune Properties for NRI in Melbourne"
+      },
+      {
+        "slug": "pune-flats-for-nri-in-melbourne",
+        "keyword": "Pune Flats for NRI in Melbourne"
+      },
+      {
+        "slug": "pune-villas-for-nri-in-melbourne",
+        "keyword": "Pune Villas for NRI in Melbourne"
+      },
+      {
+        "slug": "pune-row-houses-for-nri-in-melbourne",
+        "keyword": "Pune Row Houses for NRI in Melbourne"
+      },
+      {
+        "slug": "pune-commercial-real-estate-for-nri-in-melbourne",
+        "keyword": "Pune Commercial Real Estate for NRI in Melbourne"
+      },
+      {
+        "slug": "pune-retail-spaces-for-nri-in-melbourne",
+        "keyword": "Pune Retail Spaces for NRI in Melbourne"
+      },
+      {
+        "slug": "pune-office-spaces-for-nri-in-melbourne",
+        "keyword": "Pune Office Spaces for NRI in Melbourne"
+      },
+      {
+        "slug": "pune-ready-possession-for-nri-in-melbourne",
+        "keyword": "Pune Ready Possession for NRI in Melbourne"
+      },
+      {
+        "slug": "pune-under-construction-for-nri-in-melbourne",
+        "keyword": "Pune Under Construction for NRI in Melbourne"
+      },
+      {
+        "slug": "pune-it-park-homes-for-nri-in-melbourne",
+        "keyword": "Pune IT Park Homes for NRI in Melbourne"
+      },
+      {
+        "slug": "pune-mla-homes-for-nri-in-melbourne",
+        "keyword": "Pune MLA Homes for NRI in Melbourne"
+      },
+      {
+        "slug": "pune-vtp-projects-for-nri-in-melbourne",
+        "keyword": "Pune VTP Projects for NRI in Melbourne"
+      },
+      {
+        "slug": "melbourne-nri-investors-for-pune-luxury-apartments",
+        "keyword": "Melbourne NRI Investors for Pune Luxury Apartments"
+      },
+      {
+        "slug": "melbourne-nri-investors-for-pune-premium-flats",
+        "keyword": "Melbourne NRI Investors for Pune Premium Flats"
+      },
+      {
+        "slug": "melbourne-nri-investors-for-pune-new-launch-projects",
+        "keyword": "Melbourne NRI Investors for Pune New Launch Projects"
+      },
+      {
+        "slug": "melbourne-nri-investors-for-pune-township-projects",
+        "keyword": "Melbourne NRI Investors for Pune Township Projects"
+      },
+      {
+        "slug": "melbourne-nri-investors-for-pune-real-estate-investment",
+        "keyword": "Melbourne NRI Investors for Pune Real Estate Investment"
+      },
+      {
+        "slug": "melbourne-nri-investors-for-pune-1bhk-flats",
+        "keyword": "Melbourne NRI Investors for Pune 1BHK Flats"
+      },
+      {
+        "slug": "melbourne-nri-investors-for-pune-2bhk-flats",
+        "keyword": "Melbourne NRI Investors for Pune 2BHK Flats"
+      },
+      {
+        "slug": "melbourne-nri-investors-for-pune-3bhk-luxury-homes",
+        "keyword": "Melbourne NRI Investors for Pune 3BHK Luxury Homes"
+      },
+      {
+        "slug": "melbourne-nri-investors-for-pune-4bhk-premium-apartments",
+        "keyword": "Melbourne NRI Investors for Pune 4BHK Premium Apartments"
+      },
+      {
+        "slug": "melbourne-nri-investors-for-pune-5bhk-villas",
+        "keyword": "Melbourne NRI Investors for Pune 5BHK Villas"
+      },
+      {
+        "slug": "melbourne-nri-investors-for-pune-1-bhk",
+        "keyword": "Melbourne NRI Investors for Pune 1 BHK"
+      },
+      {
+        "slug": "melbourne-nri-investors-for-pune-2-bhk",
+        "keyword": "Melbourne NRI Investors for Pune 2 BHK"
+      },
+      {
+        "slug": "melbourne-nri-investors-for-pune-3-bhk",
+        "keyword": "Melbourne NRI Investors for Pune 3 BHK"
+      },
+      {
+        "slug": "melbourne-nri-investors-for-pune-4-bhk",
+        "keyword": "Melbourne NRI Investors for Pune 4 BHK"
+      },
+      {
+        "slug": "melbourne-nri-investors-for-pune-studio-apartments",
+        "keyword": "Melbourne NRI Investors for Pune Studio Apartments"
+      },
+      {
+        "slug": "melbourne-nri-investors-for-pune-duplex-apartments",
+        "keyword": "Melbourne NRI Investors for Pune Duplex Apartments"
+      },
+      {
+        "slug": "melbourne-nri-investors-for-pune-sky-duplex",
+        "keyword": "Melbourne NRI Investors for Pune Sky Duplex"
+      },
+      {
+        "slug": "melbourne-nri-investors-for-pune-simplex-apartments",
+        "keyword": "Melbourne NRI Investors for Pune Simplex Apartments"
+      },
+      {
+        "slug": "melbourne-nri-investors-for-pune-penthouses",
+        "keyword": "Melbourne NRI Investors for Pune Penthouses"
+      },
+      {
+        "slug": "melbourne-nri-investors-for-pune-double-height-homes",
+        "keyword": "Melbourne NRI Investors for Pune Double-Height Homes"
+      },
+      {
+        "slug": "melbourne-nri-investors-for-pune-private-plunge-pool-flats",
+        "keyword": "Melbourne NRI Investors for Pune Private Plunge Pool Flats"
+      },
+      {
+        "slug": "melbourne-nri-investors-for-pune-nri-premium-homes",
+        "keyword": "Melbourne NRI Investors for Pune NRI Premium Homes"
+      },
+      {
+        "slug": "melbourne-nri-investors-for-pune-properties",
+        "keyword": "Melbourne NRI Investors for Pune Properties"
+      },
+      {
+        "slug": "melbourne-nri-investors-for-pune-flats",
+        "keyword": "Melbourne NRI Investors for Pune Flats"
+      },
+      {
+        "slug": "melbourne-nri-investors-for-pune-villas",
+        "keyword": "Melbourne NRI Investors for Pune Villas"
+      },
+      {
+        "slug": "melbourne-nri-investors-for-pune-row-houses",
+        "keyword": "Melbourne NRI Investors for Pune Row Houses"
+      },
+      {
+        "slug": "melbourne-nri-investors-for-pune-commercial-real-estate",
+        "keyword": "Melbourne NRI Investors for Pune Commercial Real Estate"
+      },
+      {
+        "slug": "melbourne-nri-investors-for-pune-retail-spaces",
+        "keyword": "Melbourne NRI Investors for Pune Retail Spaces"
+      },
+      {
+        "slug": "melbourne-nri-investors-for-pune-office-spaces",
+        "keyword": "Melbourne NRI Investors for Pune Office Spaces"
+      },
+      {
+        "slug": "melbourne-nri-investors-for-pune-ready-possession",
+        "keyword": "Melbourne NRI Investors for Pune Ready Possession"
+      },
+      {
+        "slug": "melbourne-nri-investors-for-pune-under-construction",
+        "keyword": "Melbourne NRI Investors for Pune Under Construction"
+      },
+      {
+        "slug": "melbourne-nri-investors-for-pune-it-park-homes",
+        "keyword": "Melbourne NRI Investors for Pune IT Park Homes"
+      },
+      {
+        "slug": "melbourne-nri-investors-for-pune-mla-homes",
+        "keyword": "Melbourne NRI Investors for Pune MLA Homes"
+      },
+      {
+        "slug": "melbourne-nri-investors-for-pune-vtp-projects",
+        "keyword": "Melbourne NRI Investors for Pune VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-toronto",
+    "title": "Pune Real Estate for NRI in Toronto",
+    "description": "Lucrative Pune real estate opportunities for NRI investors based in Toronto, Canada.",
+    "slugs": [
+      {
+        "slug": "pune-luxury-apartments-for-nri-in-toronto",
+        "keyword": "Pune Luxury Apartments for NRI in Toronto"
+      },
+      {
+        "slug": "pune-premium-flats-for-nri-in-toronto",
+        "keyword": "Pune Premium Flats for NRI in Toronto"
+      },
+      {
+        "slug": "pune-new-launch-projects-for-nri-in-toronto",
+        "keyword": "Pune New Launch Projects for NRI in Toronto"
+      },
+      {
+        "slug": "pune-township-projects-for-nri-in-toronto",
+        "keyword": "Pune Township Projects for NRI in Toronto"
+      },
+      {
+        "slug": "pune-real-estate-investment-for-nri-in-toronto",
+        "keyword": "Pune Real Estate Investment for NRI in Toronto"
+      },
+      {
+        "slug": "pune-1bhk-flats-for-nri-in-toronto",
+        "keyword": "Pune 1BHK Flats for NRI in Toronto"
+      },
+      {
+        "slug": "pune-2bhk-flats-for-nri-in-toronto",
+        "keyword": "Pune 2BHK Flats for NRI in Toronto"
+      },
+      {
+        "slug": "pune-3bhk-luxury-homes-for-nri-in-toronto",
+        "keyword": "Pune 3BHK Luxury Homes for NRI in Toronto"
+      },
+      {
+        "slug": "pune-4bhk-premium-apartments-for-nri-in-toronto",
+        "keyword": "Pune 4BHK Premium Apartments for NRI in Toronto"
+      },
+      {
+        "slug": "pune-5bhk-villas-for-nri-in-toronto",
+        "keyword": "Pune 5BHK Villas for NRI in Toronto"
+      },
+      {
+        "slug": "pune-1-bhk-for-nri-in-toronto",
+        "keyword": "Pune 1 BHK for NRI in Toronto"
+      },
+      {
+        "slug": "pune-2-bhk-for-nri-in-toronto",
+        "keyword": "Pune 2 BHK for NRI in Toronto"
+      },
+      {
+        "slug": "pune-3-bhk-for-nri-in-toronto",
+        "keyword": "Pune 3 BHK for NRI in Toronto"
+      },
+      {
+        "slug": "pune-4-bhk-for-nri-in-toronto",
+        "keyword": "Pune 4 BHK for NRI in Toronto"
+      },
+      {
+        "slug": "pune-studio-apartments-for-nri-in-toronto",
+        "keyword": "Pune Studio Apartments for NRI in Toronto"
+      },
+      {
+        "slug": "pune-duplex-apartments-for-nri-in-toronto",
+        "keyword": "Pune Duplex Apartments for NRI in Toronto"
+      },
+      {
+        "slug": "pune-sky-duplex-for-nri-in-toronto",
+        "keyword": "Pune Sky Duplex for NRI in Toronto"
+      },
+      {
+        "slug": "pune-simplex-apartments-for-nri-in-toronto",
+        "keyword": "Pune Simplex Apartments for NRI in Toronto"
+      },
+      {
+        "slug": "pune-penthouses-for-nri-in-toronto",
+        "keyword": "Pune Penthouses for NRI in Toronto"
+      },
+      {
+        "slug": "pune-double-height-homes-for-nri-in-toronto",
+        "keyword": "Pune Double-Height Homes for NRI in Toronto"
+      },
+      {
+        "slug": "pune-private-plunge-pool-flats-for-nri-in-toronto",
+        "keyword": "Pune Private Plunge Pool Flats for NRI in Toronto"
+      },
+      {
+        "slug": "pune-nri-premium-homes-for-nri-in-toronto",
+        "keyword": "Pune NRI Premium Homes for NRI in Toronto"
+      },
+      {
+        "slug": "pune-properties-for-nri-in-toronto",
+        "keyword": "Pune Properties for NRI in Toronto"
+      },
+      {
+        "slug": "pune-flats-for-nri-in-toronto",
+        "keyword": "Pune Flats for NRI in Toronto"
+      },
+      {
+        "slug": "pune-villas-for-nri-in-toronto",
+        "keyword": "Pune Villas for NRI in Toronto"
+      },
+      {
+        "slug": "pune-row-houses-for-nri-in-toronto",
+        "keyword": "Pune Row Houses for NRI in Toronto"
+      },
+      {
+        "slug": "pune-commercial-real-estate-for-nri-in-toronto",
+        "keyword": "Pune Commercial Real Estate for NRI in Toronto"
+      },
+      {
+        "slug": "pune-retail-spaces-for-nri-in-toronto",
+        "keyword": "Pune Retail Spaces for NRI in Toronto"
+      },
+      {
+        "slug": "pune-office-spaces-for-nri-in-toronto",
+        "keyword": "Pune Office Spaces for NRI in Toronto"
+      },
+      {
+        "slug": "pune-ready-possession-for-nri-in-toronto",
+        "keyword": "Pune Ready Possession for NRI in Toronto"
+      },
+      {
+        "slug": "pune-under-construction-for-nri-in-toronto",
+        "keyword": "Pune Under Construction for NRI in Toronto"
+      },
+      {
+        "slug": "pune-it-park-homes-for-nri-in-toronto",
+        "keyword": "Pune IT Park Homes for NRI in Toronto"
+      },
+      {
+        "slug": "pune-mla-homes-for-nri-in-toronto",
+        "keyword": "Pune MLA Homes for NRI in Toronto"
+      },
+      {
+        "slug": "pune-vtp-projects-for-nri-in-toronto",
+        "keyword": "Pune VTP Projects for NRI in Toronto"
+      },
+      {
+        "slug": "toronto-nri-investors-for-pune-luxury-apartments",
+        "keyword": "Toronto NRI Investors for Pune Luxury Apartments"
+      },
+      {
+        "slug": "toronto-nri-investors-for-pune-premium-flats",
+        "keyword": "Toronto NRI Investors for Pune Premium Flats"
+      },
+      {
+        "slug": "toronto-nri-investors-for-pune-new-launch-projects",
+        "keyword": "Toronto NRI Investors for Pune New Launch Projects"
+      },
+      {
+        "slug": "toronto-nri-investors-for-pune-township-projects",
+        "keyword": "Toronto NRI Investors for Pune Township Projects"
+      },
+      {
+        "slug": "toronto-nri-investors-for-pune-real-estate-investment",
+        "keyword": "Toronto NRI Investors for Pune Real Estate Investment"
+      },
+      {
+        "slug": "toronto-nri-investors-for-pune-1bhk-flats",
+        "keyword": "Toronto NRI Investors for Pune 1BHK Flats"
+      },
+      {
+        "slug": "toronto-nri-investors-for-pune-2bhk-flats",
+        "keyword": "Toronto NRI Investors for Pune 2BHK Flats"
+      },
+      {
+        "slug": "toronto-nri-investors-for-pune-3bhk-luxury-homes",
+        "keyword": "Toronto NRI Investors for Pune 3BHK Luxury Homes"
+      },
+      {
+        "slug": "toronto-nri-investors-for-pune-4bhk-premium-apartments",
+        "keyword": "Toronto NRI Investors for Pune 4BHK Premium Apartments"
+      },
+      {
+        "slug": "toronto-nri-investors-for-pune-5bhk-villas",
+        "keyword": "Toronto NRI Investors for Pune 5BHK Villas"
+      },
+      {
+        "slug": "toronto-nri-investors-for-pune-1-bhk",
+        "keyword": "Toronto NRI Investors for Pune 1 BHK"
+      },
+      {
+        "slug": "toronto-nri-investors-for-pune-2-bhk",
+        "keyword": "Toronto NRI Investors for Pune 2 BHK"
+      },
+      {
+        "slug": "toronto-nri-investors-for-pune-3-bhk",
+        "keyword": "Toronto NRI Investors for Pune 3 BHK"
+      },
+      {
+        "slug": "toronto-nri-investors-for-pune-4-bhk",
+        "keyword": "Toronto NRI Investors for Pune 4 BHK"
+      },
+      {
+        "slug": "toronto-nri-investors-for-pune-studio-apartments",
+        "keyword": "Toronto NRI Investors for Pune Studio Apartments"
+      },
+      {
+        "slug": "toronto-nri-investors-for-pune-duplex-apartments",
+        "keyword": "Toronto NRI Investors for Pune Duplex Apartments"
+      },
+      {
+        "slug": "toronto-nri-investors-for-pune-sky-duplex",
+        "keyword": "Toronto NRI Investors for Pune Sky Duplex"
+      },
+      {
+        "slug": "toronto-nri-investors-for-pune-simplex-apartments",
+        "keyword": "Toronto NRI Investors for Pune Simplex Apartments"
+      },
+      {
+        "slug": "toronto-nri-investors-for-pune-penthouses",
+        "keyword": "Toronto NRI Investors for Pune Penthouses"
+      },
+      {
+        "slug": "toronto-nri-investors-for-pune-double-height-homes",
+        "keyword": "Toronto NRI Investors for Pune Double-Height Homes"
+      },
+      {
+        "slug": "toronto-nri-investors-for-pune-private-plunge-pool-flats",
+        "keyword": "Toronto NRI Investors for Pune Private Plunge Pool Flats"
+      },
+      {
+        "slug": "toronto-nri-investors-for-pune-nri-premium-homes",
+        "keyword": "Toronto NRI Investors for Pune NRI Premium Homes"
+      },
+      {
+        "slug": "toronto-nri-investors-for-pune-properties",
+        "keyword": "Toronto NRI Investors for Pune Properties"
+      },
+      {
+        "slug": "toronto-nri-investors-for-pune-flats",
+        "keyword": "Toronto NRI Investors for Pune Flats"
+      },
+      {
+        "slug": "toronto-nri-investors-for-pune-villas",
+        "keyword": "Toronto NRI Investors for Pune Villas"
+      },
+      {
+        "slug": "toronto-nri-investors-for-pune-row-houses",
+        "keyword": "Toronto NRI Investors for Pune Row Houses"
+      },
+      {
+        "slug": "toronto-nri-investors-for-pune-commercial-real-estate",
+        "keyword": "Toronto NRI Investors for Pune Commercial Real Estate"
+      },
+      {
+        "slug": "toronto-nri-investors-for-pune-retail-spaces",
+        "keyword": "Toronto NRI Investors for Pune Retail Spaces"
+      },
+      {
+        "slug": "toronto-nri-investors-for-pune-office-spaces",
+        "keyword": "Toronto NRI Investors for Pune Office Spaces"
+      },
+      {
+        "slug": "toronto-nri-investors-for-pune-ready-possession",
+        "keyword": "Toronto NRI Investors for Pune Ready Possession"
+      },
+      {
+        "slug": "toronto-nri-investors-for-pune-under-construction",
+        "keyword": "Toronto NRI Investors for Pune Under Construction"
+      },
+      {
+        "slug": "toronto-nri-investors-for-pune-it-park-homes",
+        "keyword": "Toronto NRI Investors for Pune IT Park Homes"
+      },
+      {
+        "slug": "toronto-nri-investors-for-pune-mla-homes",
+        "keyword": "Toronto NRI Investors for Pune MLA Homes"
+      },
+      {
+        "slug": "toronto-nri-investors-for-pune-vtp-projects",
+        "keyword": "Toronto NRI Investors for Pune VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-qatar",
+    "title": "Pune Real Estate for NRI in Qatar",
+    "description": "Premium Pune luxury properties and townships for NRI investors in Qatar.",
+    "slugs": [
+      {
+        "slug": "pune-luxury-apartments-for-nri-in-qatar",
+        "keyword": "Pune Luxury Apartments for NRI in Qatar"
+      },
+      {
+        "slug": "pune-premium-flats-for-nri-in-qatar",
+        "keyword": "Pune Premium Flats for NRI in Qatar"
+      },
+      {
+        "slug": "pune-new-launch-projects-for-nri-in-qatar",
+        "keyword": "Pune New Launch Projects for NRI in Qatar"
+      },
+      {
+        "slug": "pune-township-projects-for-nri-in-qatar",
+        "keyword": "Pune Township Projects for NRI in Qatar"
+      },
+      {
+        "slug": "pune-real-estate-investment-for-nri-in-qatar",
+        "keyword": "Pune Real Estate Investment for NRI in Qatar"
+      },
+      {
+        "slug": "pune-1bhk-flats-for-nri-in-qatar",
+        "keyword": "Pune 1BHK Flats for NRI in Qatar"
+      },
+      {
+        "slug": "pune-2bhk-flats-for-nri-in-qatar",
+        "keyword": "Pune 2BHK Flats for NRI in Qatar"
+      },
+      {
+        "slug": "pune-3bhk-luxury-homes-for-nri-in-qatar",
+        "keyword": "Pune 3BHK Luxury Homes for NRI in Qatar"
+      },
+      {
+        "slug": "pune-4bhk-premium-apartments-for-nri-in-qatar",
+        "keyword": "Pune 4BHK Premium Apartments for NRI in Qatar"
+      },
+      {
+        "slug": "pune-5bhk-villas-for-nri-in-qatar",
+        "keyword": "Pune 5BHK Villas for NRI in Qatar"
+      },
+      {
+        "slug": "pune-1-bhk-for-nri-in-qatar",
+        "keyword": "Pune 1 BHK for NRI in Qatar"
+      },
+      {
+        "slug": "pune-2-bhk-for-nri-in-qatar",
+        "keyword": "Pune 2 BHK for NRI in Qatar"
+      },
+      {
+        "slug": "pune-3-bhk-for-nri-in-qatar",
+        "keyword": "Pune 3 BHK for NRI in Qatar"
+      },
+      {
+        "slug": "pune-4-bhk-for-nri-in-qatar",
+        "keyword": "Pune 4 BHK for NRI in Qatar"
+      },
+      {
+        "slug": "pune-studio-apartments-for-nri-in-qatar",
+        "keyword": "Pune Studio Apartments for NRI in Qatar"
+      },
+      {
+        "slug": "pune-duplex-apartments-for-nri-in-qatar",
+        "keyword": "Pune Duplex Apartments for NRI in Qatar"
+      },
+      {
+        "slug": "pune-sky-duplex-for-nri-in-qatar",
+        "keyword": "Pune Sky Duplex for NRI in Qatar"
+      },
+      {
+        "slug": "pune-simplex-apartments-for-nri-in-qatar",
+        "keyword": "Pune Simplex Apartments for NRI in Qatar"
+      },
+      {
+        "slug": "pune-penthouses-for-nri-in-qatar",
+        "keyword": "Pune Penthouses for NRI in Qatar"
+      },
+      {
+        "slug": "pune-double-height-homes-for-nri-in-qatar",
+        "keyword": "Pune Double-Height Homes for NRI in Qatar"
+      },
+      {
+        "slug": "pune-private-plunge-pool-flats-for-nri-in-qatar",
+        "keyword": "Pune Private Plunge Pool Flats for NRI in Qatar"
+      },
+      {
+        "slug": "pune-nri-premium-homes-for-nri-in-qatar",
+        "keyword": "Pune NRI Premium Homes for NRI in Qatar"
+      },
+      {
+        "slug": "pune-properties-for-nri-in-qatar",
+        "keyword": "Pune Properties for NRI in Qatar"
+      },
+      {
+        "slug": "pune-flats-for-nri-in-qatar",
+        "keyword": "Pune Flats for NRI in Qatar"
+      },
+      {
+        "slug": "pune-villas-for-nri-in-qatar",
+        "keyword": "Pune Villas for NRI in Qatar"
+      },
+      {
+        "slug": "pune-row-houses-for-nri-in-qatar",
+        "keyword": "Pune Row Houses for NRI in Qatar"
+      },
+      {
+        "slug": "pune-commercial-real-estate-for-nri-in-qatar",
+        "keyword": "Pune Commercial Real Estate for NRI in Qatar"
+      },
+      {
+        "slug": "pune-retail-spaces-for-nri-in-qatar",
+        "keyword": "Pune Retail Spaces for NRI in Qatar"
+      },
+      {
+        "slug": "pune-office-spaces-for-nri-in-qatar",
+        "keyword": "Pune Office Spaces for NRI in Qatar"
+      },
+      {
+        "slug": "pune-ready-possession-for-nri-in-qatar",
+        "keyword": "Pune Ready Possession for NRI in Qatar"
+      },
+      {
+        "slug": "pune-under-construction-for-nri-in-qatar",
+        "keyword": "Pune Under Construction for NRI in Qatar"
+      },
+      {
+        "slug": "pune-it-park-homes-for-nri-in-qatar",
+        "keyword": "Pune IT Park Homes for NRI in Qatar"
+      },
+      {
+        "slug": "pune-mla-homes-for-nri-in-qatar",
+        "keyword": "Pune MLA Homes for NRI in Qatar"
+      },
+      {
+        "slug": "pune-vtp-projects-for-nri-in-qatar",
+        "keyword": "Pune VTP Projects for NRI in Qatar"
+      },
+      {
+        "slug": "qatar-nri-investors-for-pune-luxury-apartments",
+        "keyword": "Qatar NRI Investors for Pune Luxury Apartments"
+      },
+      {
+        "slug": "qatar-nri-investors-for-pune-premium-flats",
+        "keyword": "Qatar NRI Investors for Pune Premium Flats"
+      },
+      {
+        "slug": "qatar-nri-investors-for-pune-new-launch-projects",
+        "keyword": "Qatar NRI Investors for Pune New Launch Projects"
+      },
+      {
+        "slug": "qatar-nri-investors-for-pune-township-projects",
+        "keyword": "Qatar NRI Investors for Pune Township Projects"
+      },
+      {
+        "slug": "qatar-nri-investors-for-pune-real-estate-investment",
+        "keyword": "Qatar NRI Investors for Pune Real Estate Investment"
+      },
+      {
+        "slug": "qatar-nri-investors-for-pune-1bhk-flats",
+        "keyword": "Qatar NRI Investors for Pune 1BHK Flats"
+      },
+      {
+        "slug": "qatar-nri-investors-for-pune-2bhk-flats",
+        "keyword": "Qatar NRI Investors for Pune 2BHK Flats"
+      },
+      {
+        "slug": "qatar-nri-investors-for-pune-3bhk-luxury-homes",
+        "keyword": "Qatar NRI Investors for Pune 3BHK Luxury Homes"
+      },
+      {
+        "slug": "qatar-nri-investors-for-pune-4bhk-premium-apartments",
+        "keyword": "Qatar NRI Investors for Pune 4BHK Premium Apartments"
+      },
+      {
+        "slug": "qatar-nri-investors-for-pune-5bhk-villas",
+        "keyword": "Qatar NRI Investors for Pune 5BHK Villas"
+      },
+      {
+        "slug": "qatar-nri-investors-for-pune-1-bhk",
+        "keyword": "Qatar NRI Investors for Pune 1 BHK"
+      },
+      {
+        "slug": "qatar-nri-investors-for-pune-2-bhk",
+        "keyword": "Qatar NRI Investors for Pune 2 BHK"
+      },
+      {
+        "slug": "qatar-nri-investors-for-pune-3-bhk",
+        "keyword": "Qatar NRI Investors for Pune 3 BHK"
+      },
+      {
+        "slug": "qatar-nri-investors-for-pune-4-bhk",
+        "keyword": "Qatar NRI Investors for Pune 4 BHK"
+      },
+      {
+        "slug": "qatar-nri-investors-for-pune-studio-apartments",
+        "keyword": "Qatar NRI Investors for Pune Studio Apartments"
+      },
+      {
+        "slug": "qatar-nri-investors-for-pune-duplex-apartments",
+        "keyword": "Qatar NRI Investors for Pune Duplex Apartments"
+      },
+      {
+        "slug": "qatar-nri-investors-for-pune-sky-duplex",
+        "keyword": "Qatar NRI Investors for Pune Sky Duplex"
+      },
+      {
+        "slug": "qatar-nri-investors-for-pune-simplex-apartments",
+        "keyword": "Qatar NRI Investors for Pune Simplex Apartments"
+      },
+      {
+        "slug": "qatar-nri-investors-for-pune-penthouses",
+        "keyword": "Qatar NRI Investors for Pune Penthouses"
+      },
+      {
+        "slug": "qatar-nri-investors-for-pune-double-height-homes",
+        "keyword": "Qatar NRI Investors for Pune Double-Height Homes"
+      },
+      {
+        "slug": "qatar-nri-investors-for-pune-private-plunge-pool-flats",
+        "keyword": "Qatar NRI Investors for Pune Private Plunge Pool Flats"
+      },
+      {
+        "slug": "qatar-nri-investors-for-pune-nri-premium-homes",
+        "keyword": "Qatar NRI Investors for Pune NRI Premium Homes"
+      },
+      {
+        "slug": "qatar-nri-investors-for-pune-properties",
+        "keyword": "Qatar NRI Investors for Pune Properties"
+      },
+      {
+        "slug": "qatar-nri-investors-for-pune-flats",
+        "keyword": "Qatar NRI Investors for Pune Flats"
+      },
+      {
+        "slug": "qatar-nri-investors-for-pune-villas",
+        "keyword": "Qatar NRI Investors for Pune Villas"
+      },
+      {
+        "slug": "qatar-nri-investors-for-pune-row-houses",
+        "keyword": "Qatar NRI Investors for Pune Row Houses"
+      },
+      {
+        "slug": "qatar-nri-investors-for-pune-commercial-real-estate",
+        "keyword": "Qatar NRI Investors for Pune Commercial Real Estate"
+      },
+      {
+        "slug": "qatar-nri-investors-for-pune-retail-spaces",
+        "keyword": "Qatar NRI Investors for Pune Retail Spaces"
+      },
+      {
+        "slug": "qatar-nri-investors-for-pune-office-spaces",
+        "keyword": "Qatar NRI Investors for Pune Office Spaces"
+      },
+      {
+        "slug": "qatar-nri-investors-for-pune-ready-possession",
+        "keyword": "Qatar NRI Investors for Pune Ready Possession"
+      },
+      {
+        "slug": "qatar-nri-investors-for-pune-under-construction",
+        "keyword": "Qatar NRI Investors for Pune Under Construction"
+      },
+      {
+        "slug": "qatar-nri-investors-for-pune-it-park-homes",
+        "keyword": "Qatar NRI Investors for Pune IT Park Homes"
+      },
+      {
+        "slug": "qatar-nri-investors-for-pune-mla-homes",
+        "keyword": "Qatar NRI Investors for Pune MLA Homes"
+      },
+      {
+        "slug": "qatar-nri-investors-for-pune-vtp-projects",
+        "keyword": "Qatar NRI Investors for Pune VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-kuwait",
+    "title": "Pune Real Estate for NRI in Kuwait",
+    "description": "High-return Pune real estate investments designed for NRI buyers in Kuwait.",
+    "slugs": [
+      {
+        "slug": "pune-luxury-apartments-for-nri-in-kuwait",
+        "keyword": "Pune Luxury Apartments for NRI in Kuwait"
+      },
+      {
+        "slug": "pune-premium-flats-for-nri-in-kuwait",
+        "keyword": "Pune Premium Flats for NRI in Kuwait"
+      },
+      {
+        "slug": "pune-new-launch-projects-for-nri-in-kuwait",
+        "keyword": "Pune New Launch Projects for NRI in Kuwait"
+      },
+      {
+        "slug": "pune-township-projects-for-nri-in-kuwait",
+        "keyword": "Pune Township Projects for NRI in Kuwait"
+      },
+      {
+        "slug": "pune-real-estate-investment-for-nri-in-kuwait",
+        "keyword": "Pune Real Estate Investment for NRI in Kuwait"
+      },
+      {
+        "slug": "pune-1bhk-flats-for-nri-in-kuwait",
+        "keyword": "Pune 1BHK Flats for NRI in Kuwait"
+      },
+      {
+        "slug": "pune-2bhk-flats-for-nri-in-kuwait",
+        "keyword": "Pune 2BHK Flats for NRI in Kuwait"
+      },
+      {
+        "slug": "pune-3bhk-luxury-homes-for-nri-in-kuwait",
+        "keyword": "Pune 3BHK Luxury Homes for NRI in Kuwait"
+      },
+      {
+        "slug": "pune-4bhk-premium-apartments-for-nri-in-kuwait",
+        "keyword": "Pune 4BHK Premium Apartments for NRI in Kuwait"
+      },
+      {
+        "slug": "pune-5bhk-villas-for-nri-in-kuwait",
+        "keyword": "Pune 5BHK Villas for NRI in Kuwait"
+      },
+      {
+        "slug": "pune-1-bhk-for-nri-in-kuwait",
+        "keyword": "Pune 1 BHK for NRI in Kuwait"
+      },
+      {
+        "slug": "pune-2-bhk-for-nri-in-kuwait",
+        "keyword": "Pune 2 BHK for NRI in Kuwait"
+      },
+      {
+        "slug": "pune-3-bhk-for-nri-in-kuwait",
+        "keyword": "Pune 3 BHK for NRI in Kuwait"
+      },
+      {
+        "slug": "pune-4-bhk-for-nri-in-kuwait",
+        "keyword": "Pune 4 BHK for NRI in Kuwait"
+      },
+      {
+        "slug": "pune-studio-apartments-for-nri-in-kuwait",
+        "keyword": "Pune Studio Apartments for NRI in Kuwait"
+      },
+      {
+        "slug": "pune-duplex-apartments-for-nri-in-kuwait",
+        "keyword": "Pune Duplex Apartments for NRI in Kuwait"
+      },
+      {
+        "slug": "pune-sky-duplex-for-nri-in-kuwait",
+        "keyword": "Pune Sky Duplex for NRI in Kuwait"
+      },
+      {
+        "slug": "pune-simplex-apartments-for-nri-in-kuwait",
+        "keyword": "Pune Simplex Apartments for NRI in Kuwait"
+      },
+      {
+        "slug": "pune-penthouses-for-nri-in-kuwait",
+        "keyword": "Pune Penthouses for NRI in Kuwait"
+      },
+      {
+        "slug": "pune-double-height-homes-for-nri-in-kuwait",
+        "keyword": "Pune Double-Height Homes for NRI in Kuwait"
+      },
+      {
+        "slug": "pune-private-plunge-pool-flats-for-nri-in-kuwait",
+        "keyword": "Pune Private Plunge Pool Flats for NRI in Kuwait"
+      },
+      {
+        "slug": "pune-nri-premium-homes-for-nri-in-kuwait",
+        "keyword": "Pune NRI Premium Homes for NRI in Kuwait"
+      },
+      {
+        "slug": "pune-properties-for-nri-in-kuwait",
+        "keyword": "Pune Properties for NRI in Kuwait"
+      },
+      {
+        "slug": "pune-flats-for-nri-in-kuwait",
+        "keyword": "Pune Flats for NRI in Kuwait"
+      },
+      {
+        "slug": "pune-villas-for-nri-in-kuwait",
+        "keyword": "Pune Villas for NRI in Kuwait"
+      },
+      {
+        "slug": "pune-row-houses-for-nri-in-kuwait",
+        "keyword": "Pune Row Houses for NRI in Kuwait"
+      },
+      {
+        "slug": "pune-commercial-real-estate-for-nri-in-kuwait",
+        "keyword": "Pune Commercial Real Estate for NRI in Kuwait"
+      },
+      {
+        "slug": "pune-retail-spaces-for-nri-in-kuwait",
+        "keyword": "Pune Retail Spaces for NRI in Kuwait"
+      },
+      {
+        "slug": "pune-office-spaces-for-nri-in-kuwait",
+        "keyword": "Pune Office Spaces for NRI in Kuwait"
+      },
+      {
+        "slug": "pune-ready-possession-for-nri-in-kuwait",
+        "keyword": "Pune Ready Possession for NRI in Kuwait"
+      },
+      {
+        "slug": "pune-under-construction-for-nri-in-kuwait",
+        "keyword": "Pune Under Construction for NRI in Kuwait"
+      },
+      {
+        "slug": "pune-it-park-homes-for-nri-in-kuwait",
+        "keyword": "Pune IT Park Homes for NRI in Kuwait"
+      },
+      {
+        "slug": "pune-mla-homes-for-nri-in-kuwait",
+        "keyword": "Pune MLA Homes for NRI in Kuwait"
+      },
+      {
+        "slug": "pune-vtp-projects-for-nri-in-kuwait",
+        "keyword": "Pune VTP Projects for NRI in Kuwait"
+      },
+      {
+        "slug": "kuwait-nri-investors-for-pune-luxury-apartments",
+        "keyword": "Kuwait NRI Investors for Pune Luxury Apartments"
+      },
+      {
+        "slug": "kuwait-nri-investors-for-pune-premium-flats",
+        "keyword": "Kuwait NRI Investors for Pune Premium Flats"
+      },
+      {
+        "slug": "kuwait-nri-investors-for-pune-new-launch-projects",
+        "keyword": "Kuwait NRI Investors for Pune New Launch Projects"
+      },
+      {
+        "slug": "kuwait-nri-investors-for-pune-township-projects",
+        "keyword": "Kuwait NRI Investors for Pune Township Projects"
+      },
+      {
+        "slug": "kuwait-nri-investors-for-pune-real-estate-investment",
+        "keyword": "Kuwait NRI Investors for Pune Real Estate Investment"
+      },
+      {
+        "slug": "kuwait-nri-investors-for-pune-1bhk-flats",
+        "keyword": "Kuwait NRI Investors for Pune 1BHK Flats"
+      },
+      {
+        "slug": "kuwait-nri-investors-for-pune-2bhk-flats",
+        "keyword": "Kuwait NRI Investors for Pune 2BHK Flats"
+      },
+      {
+        "slug": "kuwait-nri-investors-for-pune-3bhk-luxury-homes",
+        "keyword": "Kuwait NRI Investors for Pune 3BHK Luxury Homes"
+      },
+      {
+        "slug": "kuwait-nri-investors-for-pune-4bhk-premium-apartments",
+        "keyword": "Kuwait NRI Investors for Pune 4BHK Premium Apartments"
+      },
+      {
+        "slug": "kuwait-nri-investors-for-pune-5bhk-villas",
+        "keyword": "Kuwait NRI Investors for Pune 5BHK Villas"
+      },
+      {
+        "slug": "kuwait-nri-investors-for-pune-1-bhk",
+        "keyword": "Kuwait NRI Investors for Pune 1 BHK"
+      },
+      {
+        "slug": "kuwait-nri-investors-for-pune-2-bhk",
+        "keyword": "Kuwait NRI Investors for Pune 2 BHK"
+      },
+      {
+        "slug": "kuwait-nri-investors-for-pune-3-bhk",
+        "keyword": "Kuwait NRI Investors for Pune 3 BHK"
+      },
+      {
+        "slug": "kuwait-nri-investors-for-pune-4-bhk",
+        "keyword": "Kuwait NRI Investors for Pune 4 BHK"
+      },
+      {
+        "slug": "kuwait-nri-investors-for-pune-studio-apartments",
+        "keyword": "Kuwait NRI Investors for Pune Studio Apartments"
+      },
+      {
+        "slug": "kuwait-nri-investors-for-pune-duplex-apartments",
+        "keyword": "Kuwait NRI Investors for Pune Duplex Apartments"
+      },
+      {
+        "slug": "kuwait-nri-investors-for-pune-sky-duplex",
+        "keyword": "Kuwait NRI Investors for Pune Sky Duplex"
+      },
+      {
+        "slug": "kuwait-nri-investors-for-pune-simplex-apartments",
+        "keyword": "Kuwait NRI Investors for Pune Simplex Apartments"
+      },
+      {
+        "slug": "kuwait-nri-investors-for-pune-penthouses",
+        "keyword": "Kuwait NRI Investors for Pune Penthouses"
+      },
+      {
+        "slug": "kuwait-nri-investors-for-pune-double-height-homes",
+        "keyword": "Kuwait NRI Investors for Pune Double-Height Homes"
+      },
+      {
+        "slug": "kuwait-nri-investors-for-pune-private-plunge-pool-flats",
+        "keyword": "Kuwait NRI Investors for Pune Private Plunge Pool Flats"
+      },
+      {
+        "slug": "kuwait-nri-investors-for-pune-nri-premium-homes",
+        "keyword": "Kuwait NRI Investors for Pune NRI Premium Homes"
+      },
+      {
+        "slug": "kuwait-nri-investors-for-pune-properties",
+        "keyword": "Kuwait NRI Investors for Pune Properties"
+      },
+      {
+        "slug": "kuwait-nri-investors-for-pune-flats",
+        "keyword": "Kuwait NRI Investors for Pune Flats"
+      },
+      {
+        "slug": "kuwait-nri-investors-for-pune-villas",
+        "keyword": "Kuwait NRI Investors for Pune Villas"
+      },
+      {
+        "slug": "kuwait-nri-investors-for-pune-row-houses",
+        "keyword": "Kuwait NRI Investors for Pune Row Houses"
+      },
+      {
+        "slug": "kuwait-nri-investors-for-pune-commercial-real-estate",
+        "keyword": "Kuwait NRI Investors for Pune Commercial Real Estate"
+      },
+      {
+        "slug": "kuwait-nri-investors-for-pune-retail-spaces",
+        "keyword": "Kuwait NRI Investors for Pune Retail Spaces"
+      },
+      {
+        "slug": "kuwait-nri-investors-for-pune-office-spaces",
+        "keyword": "Kuwait NRI Investors for Pune Office Spaces"
+      },
+      {
+        "slug": "kuwait-nri-investors-for-pune-ready-possession",
+        "keyword": "Kuwait NRI Investors for Pune Ready Possession"
+      },
+      {
+        "slug": "kuwait-nri-investors-for-pune-under-construction",
+        "keyword": "Kuwait NRI Investors for Pune Under Construction"
+      },
+      {
+        "slug": "kuwait-nri-investors-for-pune-it-park-homes",
+        "keyword": "Kuwait NRI Investors for Pune IT Park Homes"
+      },
+      {
+        "slug": "kuwait-nri-investors-for-pune-mla-homes",
+        "keyword": "Kuwait NRI Investors for Pune MLA Homes"
+      },
+      {
+        "slug": "kuwait-nri-investors-for-pune-vtp-projects",
+        "keyword": "Kuwait NRI Investors for Pune VTP Projects"
+      }
+    ]
+  },
+  {
+    "id": "location-bahrain",
+    "title": "Pune Real Estate for NRI in Bahrain",
+    "description": "Exclusive Pune property investments for NRI buyers located in Bahrain.",
+    "slugs": [
+      {
+        "slug": "pune-luxury-apartments-for-nri-in-bahrain",
+        "keyword": "Pune Luxury Apartments for NRI in Bahrain"
+      },
+      {
+        "slug": "pune-premium-flats-for-nri-in-bahrain",
+        "keyword": "Pune Premium Flats for NRI in Bahrain"
+      },
+      {
+        "slug": "pune-new-launch-projects-for-nri-in-bahrain",
+        "keyword": "Pune New Launch Projects for NRI in Bahrain"
+      },
+      {
+        "slug": "pune-township-projects-for-nri-in-bahrain",
+        "keyword": "Pune Township Projects for NRI in Bahrain"
+      },
+      {
+        "slug": "pune-real-estate-investment-for-nri-in-bahrain",
+        "keyword": "Pune Real Estate Investment for NRI in Bahrain"
+      },
+      {
+        "slug": "pune-1bhk-flats-for-nri-in-bahrain",
+        "keyword": "Pune 1BHK Flats for NRI in Bahrain"
+      },
+      {
+        "slug": "pune-2bhk-flats-for-nri-in-bahrain",
+        "keyword": "Pune 2BHK Flats for NRI in Bahrain"
+      },
+      {
+        "slug": "pune-3bhk-luxury-homes-for-nri-in-bahrain",
+        "keyword": "Pune 3BHK Luxury Homes for NRI in Bahrain"
+      },
+      {
+        "slug": "pune-4bhk-premium-apartments-for-nri-in-bahrain",
+        "keyword": "Pune 4BHK Premium Apartments for NRI in Bahrain"
+      },
+      {
+        "slug": "pune-5bhk-villas-for-nri-in-bahrain",
+        "keyword": "Pune 5BHK Villas for NRI in Bahrain"
+      },
+      {
+        "slug": "pune-1-bhk-for-nri-in-bahrain",
+        "keyword": "Pune 1 BHK for NRI in Bahrain"
+      },
+      {
+        "slug": "pune-2-bhk-for-nri-in-bahrain",
+        "keyword": "Pune 2 BHK for NRI in Bahrain"
+      },
+      {
+        "slug": "pune-3-bhk-for-nri-in-bahrain",
+        "keyword": "Pune 3 BHK for NRI in Bahrain"
+      },
+      {
+        "slug": "pune-4-bhk-for-nri-in-bahrain",
+        "keyword": "Pune 4 BHK for NRI in Bahrain"
+      },
+      {
+        "slug": "pune-studio-apartments-for-nri-in-bahrain",
+        "keyword": "Pune Studio Apartments for NRI in Bahrain"
+      },
+      {
+        "slug": "pune-duplex-apartments-for-nri-in-bahrain",
+        "keyword": "Pune Duplex Apartments for NRI in Bahrain"
+      },
+      {
+        "slug": "pune-sky-duplex-for-nri-in-bahrain",
+        "keyword": "Pune Sky Duplex for NRI in Bahrain"
+      },
+      {
+        "slug": "pune-simplex-apartments-for-nri-in-bahrain",
+        "keyword": "Pune Simplex Apartments for NRI in Bahrain"
+      },
+      {
+        "slug": "pune-penthouses-for-nri-in-bahrain",
+        "keyword": "Pune Penthouses for NRI in Bahrain"
+      },
+      {
+        "slug": "pune-double-height-homes-for-nri-in-bahrain",
+        "keyword": "Pune Double-Height Homes for NRI in Bahrain"
+      },
+      {
+        "slug": "pune-private-plunge-pool-flats-for-nri-in-bahrain",
+        "keyword": "Pune Private Plunge Pool Flats for NRI in Bahrain"
+      },
+      {
+        "slug": "pune-nri-premium-homes-for-nri-in-bahrain",
+        "keyword": "Pune NRI Premium Homes for NRI in Bahrain"
+      },
+      {
+        "slug": "pune-properties-for-nri-in-bahrain",
+        "keyword": "Pune Properties for NRI in Bahrain"
+      },
+      {
+        "slug": "pune-flats-for-nri-in-bahrain",
+        "keyword": "Pune Flats for NRI in Bahrain"
+      },
+      {
+        "slug": "pune-villas-for-nri-in-bahrain",
+        "keyword": "Pune Villas for NRI in Bahrain"
+      },
+      {
+        "slug": "pune-row-houses-for-nri-in-bahrain",
+        "keyword": "Pune Row Houses for NRI in Bahrain"
+      },
+      {
+        "slug": "pune-commercial-real-estate-for-nri-in-bahrain",
+        "keyword": "Pune Commercial Real Estate for NRI in Bahrain"
+      },
+      {
+        "slug": "pune-retail-spaces-for-nri-in-bahrain",
+        "keyword": "Pune Retail Spaces for NRI in Bahrain"
+      },
+      {
+        "slug": "pune-office-spaces-for-nri-in-bahrain",
+        "keyword": "Pune Office Spaces for NRI in Bahrain"
+      },
+      {
+        "slug": "pune-ready-possession-for-nri-in-bahrain",
+        "keyword": "Pune Ready Possession for NRI in Bahrain"
+      },
+      {
+        "slug": "pune-under-construction-for-nri-in-bahrain",
+        "keyword": "Pune Under Construction for NRI in Bahrain"
+      },
+      {
+        "slug": "pune-it-park-homes-for-nri-in-bahrain",
+        "keyword": "Pune IT Park Homes for NRI in Bahrain"
+      },
+      {
+        "slug": "pune-mla-homes-for-nri-in-bahrain",
+        "keyword": "Pune MLA Homes for NRI in Bahrain"
+      },
+      {
+        "slug": "pune-vtp-projects-for-nri-in-bahrain",
+        "keyword": "Pune VTP Projects for NRI in Bahrain"
+      },
+      {
+        "slug": "bahrain-nri-investors-for-pune-luxury-apartments",
+        "keyword": "Bahrain NRI Investors for Pune Luxury Apartments"
+      },
+      {
+        "slug": "bahrain-nri-investors-for-pune-premium-flats",
+        "keyword": "Bahrain NRI Investors for Pune Premium Flats"
+      },
+      {
+        "slug": "bahrain-nri-investors-for-pune-new-launch-projects",
+        "keyword": "Bahrain NRI Investors for Pune New Launch Projects"
+      },
+      {
+        "slug": "bahrain-nri-investors-for-pune-township-projects",
+        "keyword": "Bahrain NRI Investors for Pune Township Projects"
+      },
+      {
+        "slug": "bahrain-nri-investors-for-pune-real-estate-investment",
+        "keyword": "Bahrain NRI Investors for Pune Real Estate Investment"
+      },
+      {
+        "slug": "bahrain-nri-investors-for-pune-1bhk-flats",
+        "keyword": "Bahrain NRI Investors for Pune 1BHK Flats"
+      },
+      {
+        "slug": "bahrain-nri-investors-for-pune-2bhk-flats",
+        "keyword": "Bahrain NRI Investors for Pune 2BHK Flats"
+      },
+      {
+        "slug": "bahrain-nri-investors-for-pune-3bhk-luxury-homes",
+        "keyword": "Bahrain NRI Investors for Pune 3BHK Luxury Homes"
+      },
+      {
+        "slug": "bahrain-nri-investors-for-pune-4bhk-premium-apartments",
+        "keyword": "Bahrain NRI Investors for Pune 4BHK Premium Apartments"
+      },
+      {
+        "slug": "bahrain-nri-investors-for-pune-5bhk-villas",
+        "keyword": "Bahrain NRI Investors for Pune 5BHK Villas"
+      },
+      {
+        "slug": "bahrain-nri-investors-for-pune-1-bhk",
+        "keyword": "Bahrain NRI Investors for Pune 1 BHK"
+      },
+      {
+        "slug": "bahrain-nri-investors-for-pune-2-bhk",
+        "keyword": "Bahrain NRI Investors for Pune 2 BHK"
+      },
+      {
+        "slug": "bahrain-nri-investors-for-pune-3-bhk",
+        "keyword": "Bahrain NRI Investors for Pune 3 BHK"
+      },
+      {
+        "slug": "bahrain-nri-investors-for-pune-4-bhk",
+        "keyword": "Bahrain NRI Investors for Pune 4 BHK"
+      },
+      {
+        "slug": "bahrain-nri-investors-for-pune-studio-apartments",
+        "keyword": "Bahrain NRI Investors for Pune Studio Apartments"
+      },
+      {
+        "slug": "bahrain-nri-investors-for-pune-duplex-apartments",
+        "keyword": "Bahrain NRI Investors for Pune Duplex Apartments"
+      },
+      {
+        "slug": "bahrain-nri-investors-for-pune-sky-duplex",
+        "keyword": "Bahrain NRI Investors for Pune Sky Duplex"
+      },
+      {
+        "slug": "bahrain-nri-investors-for-pune-simplex-apartments",
+        "keyword": "Bahrain NRI Investors for Pune Simplex Apartments"
+      },
+      {
+        "slug": "bahrain-nri-investors-for-pune-penthouses",
+        "keyword": "Bahrain NRI Investors for Pune Penthouses"
+      },
+      {
+        "slug": "bahrain-nri-investors-for-pune-double-height-homes",
+        "keyword": "Bahrain NRI Investors for Pune Double-Height Homes"
+      },
+      {
+        "slug": "bahrain-nri-investors-for-pune-private-plunge-pool-flats",
+        "keyword": "Bahrain NRI Investors for Pune Private Plunge Pool Flats"
+      },
+      {
+        "slug": "bahrain-nri-investors-for-pune-nri-premium-homes",
+        "keyword": "Bahrain NRI Investors for Pune NRI Premium Homes"
+      },
+      {
+        "slug": "bahrain-nri-investors-for-pune-properties",
+        "keyword": "Bahrain NRI Investors for Pune Properties"
+      },
+      {
+        "slug": "bahrain-nri-investors-for-pune-flats",
+        "keyword": "Bahrain NRI Investors for Pune Flats"
+      },
+      {
+        "slug": "bahrain-nri-investors-for-pune-villas",
+        "keyword": "Bahrain NRI Investors for Pune Villas"
+      },
+      {
+        "slug": "bahrain-nri-investors-for-pune-row-houses",
+        "keyword": "Bahrain NRI Investors for Pune Row Houses"
+      },
+      {
+        "slug": "bahrain-nri-investors-for-pune-commercial-real-estate",
+        "keyword": "Bahrain NRI Investors for Pune Commercial Real Estate"
+      },
+      {
+        "slug": "bahrain-nri-investors-for-pune-retail-spaces",
+        "keyword": "Bahrain NRI Investors for Pune Retail Spaces"
+      },
+      {
+        "slug": "bahrain-nri-investors-for-pune-office-spaces",
+        "keyword": "Bahrain NRI Investors for Pune Office Spaces"
+      },
+      {
+        "slug": "bahrain-nri-investors-for-pune-ready-possession",
+        "keyword": "Bahrain NRI Investors for Pune Ready Possession"
+      },
+      {
+        "slug": "bahrain-nri-investors-for-pune-under-construction",
+        "keyword": "Bahrain NRI Investors for Pune Under Construction"
+      },
+      {
+        "slug": "bahrain-nri-investors-for-pune-it-park-homes",
+        "keyword": "Bahrain NRI Investors for Pune IT Park Homes"
+      },
+      {
+        "slug": "bahrain-nri-investors-for-pune-mla-homes",
+        "keyword": "Bahrain NRI Investors for Pune MLA Homes"
+      },
+      {
+        "slug": "bahrain-nri-investors-for-pune-vtp-projects",
+        "keyword": "Bahrain NRI Investors for Pune VTP Projects"
+      }
+    ]
+  },
+  {
     "id": "project-vtp-bluewaters",
     "title": "VTP Bluewaters Project Details",
     "description": "VTP Bluewaters is a 200+ acre mega township in Mahalunge featuring premium 1, 2, 3 & 4 BHK residences.",
@@ -12010,6 +15079,50 @@ export const seoSilos = [
       {
         "slug": "vtp-bluewaters-for-buyers-in-pcmc-region",
         "keyword": "VTP Bluewaters for buyers in PCMC Region"
+      },
+      {
+        "slug": "vtp-bluewaters-for-buyers-in-dubai",
+        "keyword": "VTP Bluewaters for buyers in Dubai"
+      },
+      {
+        "slug": "vtp-bluewaters-for-buyers-in-singapore",
+        "keyword": "VTP Bluewaters for buyers in Singapore"
+      },
+      {
+        "slug": "vtp-bluewaters-for-buyers-in-london",
+        "keyword": "VTP Bluewaters for buyers in London"
+      },
+      {
+        "slug": "vtp-bluewaters-for-buyers-in-new-york",
+        "keyword": "VTP Bluewaters for buyers in New York"
+      },
+      {
+        "slug": "vtp-bluewaters-for-buyers-in-san-francisco",
+        "keyword": "VTP Bluewaters for buyers in San Francisco"
+      },
+      {
+        "slug": "vtp-bluewaters-for-buyers-in-sydney",
+        "keyword": "VTP Bluewaters for buyers in Sydney"
+      },
+      {
+        "slug": "vtp-bluewaters-for-buyers-in-melbourne",
+        "keyword": "VTP Bluewaters for buyers in Melbourne"
+      },
+      {
+        "slug": "vtp-bluewaters-for-buyers-in-toronto",
+        "keyword": "VTP Bluewaters for buyers in Toronto"
+      },
+      {
+        "slug": "vtp-bluewaters-for-buyers-in-qatar",
+        "keyword": "VTP Bluewaters for buyers in Qatar"
+      },
+      {
+        "slug": "vtp-bluewaters-for-buyers-in-kuwait",
+        "keyword": "VTP Bluewaters for buyers in Kuwait"
+      },
+      {
+        "slug": "vtp-bluewaters-for-buyers-in-bahrain",
+        "keyword": "VTP Bluewaters for buyers in Bahrain"
       }
     ]
   },
@@ -12301,6 +15414,50 @@ export const seoSilos = [
       {
         "slug": "vtp-earth-one-for-buyers-in-pcmc-region",
         "keyword": "VTP Earth One for buyers in PCMC Region"
+      },
+      {
+        "slug": "vtp-earth-one-for-buyers-in-dubai",
+        "keyword": "VTP Earth One for buyers in Dubai"
+      },
+      {
+        "slug": "vtp-earth-one-for-buyers-in-singapore",
+        "keyword": "VTP Earth One for buyers in Singapore"
+      },
+      {
+        "slug": "vtp-earth-one-for-buyers-in-london",
+        "keyword": "VTP Earth One for buyers in London"
+      },
+      {
+        "slug": "vtp-earth-one-for-buyers-in-new-york",
+        "keyword": "VTP Earth One for buyers in New York"
+      },
+      {
+        "slug": "vtp-earth-one-for-buyers-in-san-francisco",
+        "keyword": "VTP Earth One for buyers in San Francisco"
+      },
+      {
+        "slug": "vtp-earth-one-for-buyers-in-sydney",
+        "keyword": "VTP Earth One for buyers in Sydney"
+      },
+      {
+        "slug": "vtp-earth-one-for-buyers-in-melbourne",
+        "keyword": "VTP Earth One for buyers in Melbourne"
+      },
+      {
+        "slug": "vtp-earth-one-for-buyers-in-toronto",
+        "keyword": "VTP Earth One for buyers in Toronto"
+      },
+      {
+        "slug": "vtp-earth-one-for-buyers-in-qatar",
+        "keyword": "VTP Earth One for buyers in Qatar"
+      },
+      {
+        "slug": "vtp-earth-one-for-buyers-in-kuwait",
+        "keyword": "VTP Earth One for buyers in Kuwait"
+      },
+      {
+        "slug": "vtp-earth-one-for-buyers-in-bahrain",
+        "keyword": "VTP Earth One for buyers in Bahrain"
       }
     ]
   },
@@ -12592,6 +15749,50 @@ export const seoSilos = [
       {
         "slug": "vtp-leonara-for-buyers-in-pcmc-region",
         "keyword": "VTP Leonara for buyers in PCMC Region"
+      },
+      {
+        "slug": "vtp-leonara-for-buyers-in-dubai",
+        "keyword": "VTP Leonara for buyers in Dubai"
+      },
+      {
+        "slug": "vtp-leonara-for-buyers-in-singapore",
+        "keyword": "VTP Leonara for buyers in Singapore"
+      },
+      {
+        "slug": "vtp-leonara-for-buyers-in-london",
+        "keyword": "VTP Leonara for buyers in London"
+      },
+      {
+        "slug": "vtp-leonara-for-buyers-in-new-york",
+        "keyword": "VTP Leonara for buyers in New York"
+      },
+      {
+        "slug": "vtp-leonara-for-buyers-in-san-francisco",
+        "keyword": "VTP Leonara for buyers in San Francisco"
+      },
+      {
+        "slug": "vtp-leonara-for-buyers-in-sydney",
+        "keyword": "VTP Leonara for buyers in Sydney"
+      },
+      {
+        "slug": "vtp-leonara-for-buyers-in-melbourne",
+        "keyword": "VTP Leonara for buyers in Melbourne"
+      },
+      {
+        "slug": "vtp-leonara-for-buyers-in-toronto",
+        "keyword": "VTP Leonara for buyers in Toronto"
+      },
+      {
+        "slug": "vtp-leonara-for-buyers-in-qatar",
+        "keyword": "VTP Leonara for buyers in Qatar"
+      },
+      {
+        "slug": "vtp-leonara-for-buyers-in-kuwait",
+        "keyword": "VTP Leonara for buyers in Kuwait"
+      },
+      {
+        "slug": "vtp-leonara-for-buyers-in-bahrain",
+        "keyword": "VTP Leonara for buyers in Bahrain"
       }
     ]
   },
@@ -12883,6 +16084,50 @@ export const seoSilos = [
       {
         "slug": "vtp-bel-air-for-buyers-in-pcmc-region",
         "keyword": "VTP Bel Air for buyers in PCMC Region"
+      },
+      {
+        "slug": "vtp-bel-air-for-buyers-in-dubai",
+        "keyword": "VTP Bel Air for buyers in Dubai"
+      },
+      {
+        "slug": "vtp-bel-air-for-buyers-in-singapore",
+        "keyword": "VTP Bel Air for buyers in Singapore"
+      },
+      {
+        "slug": "vtp-bel-air-for-buyers-in-london",
+        "keyword": "VTP Bel Air for buyers in London"
+      },
+      {
+        "slug": "vtp-bel-air-for-buyers-in-new-york",
+        "keyword": "VTP Bel Air for buyers in New York"
+      },
+      {
+        "slug": "vtp-bel-air-for-buyers-in-san-francisco",
+        "keyword": "VTP Bel Air for buyers in San Francisco"
+      },
+      {
+        "slug": "vtp-bel-air-for-buyers-in-sydney",
+        "keyword": "VTP Bel Air for buyers in Sydney"
+      },
+      {
+        "slug": "vtp-bel-air-for-buyers-in-melbourne",
+        "keyword": "VTP Bel Air for buyers in Melbourne"
+      },
+      {
+        "slug": "vtp-bel-air-for-buyers-in-toronto",
+        "keyword": "VTP Bel Air for buyers in Toronto"
+      },
+      {
+        "slug": "vtp-bel-air-for-buyers-in-qatar",
+        "keyword": "VTP Bel Air for buyers in Qatar"
+      },
+      {
+        "slug": "vtp-bel-air-for-buyers-in-kuwait",
+        "keyword": "VTP Bel Air for buyers in Kuwait"
+      },
+      {
+        "slug": "vtp-bel-air-for-buyers-in-bahrain",
+        "keyword": "VTP Bel Air for buyers in Bahrain"
       }
     ]
   },
@@ -13174,6 +16419,50 @@ export const seoSilos = [
       {
         "slug": "vtp-alpine-for-buyers-in-pcmc-region",
         "keyword": "VTP Alpine for buyers in PCMC Region"
+      },
+      {
+        "slug": "vtp-alpine-for-buyers-in-dubai",
+        "keyword": "VTP Alpine for buyers in Dubai"
+      },
+      {
+        "slug": "vtp-alpine-for-buyers-in-singapore",
+        "keyword": "VTP Alpine for buyers in Singapore"
+      },
+      {
+        "slug": "vtp-alpine-for-buyers-in-london",
+        "keyword": "VTP Alpine for buyers in London"
+      },
+      {
+        "slug": "vtp-alpine-for-buyers-in-new-york",
+        "keyword": "VTP Alpine for buyers in New York"
+      },
+      {
+        "slug": "vtp-alpine-for-buyers-in-san-francisco",
+        "keyword": "VTP Alpine for buyers in San Francisco"
+      },
+      {
+        "slug": "vtp-alpine-for-buyers-in-sydney",
+        "keyword": "VTP Alpine for buyers in Sydney"
+      },
+      {
+        "slug": "vtp-alpine-for-buyers-in-melbourne",
+        "keyword": "VTP Alpine for buyers in Melbourne"
+      },
+      {
+        "slug": "vtp-alpine-for-buyers-in-toronto",
+        "keyword": "VTP Alpine for buyers in Toronto"
+      },
+      {
+        "slug": "vtp-alpine-for-buyers-in-qatar",
+        "keyword": "VTP Alpine for buyers in Qatar"
+      },
+      {
+        "slug": "vtp-alpine-for-buyers-in-kuwait",
+        "keyword": "VTP Alpine for buyers in Kuwait"
+      },
+      {
+        "slug": "vtp-alpine-for-buyers-in-bahrain",
+        "keyword": "VTP Alpine for buyers in Bahrain"
       }
     ]
   },
@@ -13465,6 +16754,50 @@ export const seoSilos = [
       {
         "slug": "vtp-aethereus-for-buyers-in-pcmc-region",
         "keyword": "VTP Aethereus for buyers in PCMC Region"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-dubai",
+        "keyword": "VTP Aethereus for buyers in Dubai"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-singapore",
+        "keyword": "VTP Aethereus for buyers in Singapore"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-london",
+        "keyword": "VTP Aethereus for buyers in London"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-new-york",
+        "keyword": "VTP Aethereus for buyers in New York"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-san-francisco",
+        "keyword": "VTP Aethereus for buyers in San Francisco"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-sydney",
+        "keyword": "VTP Aethereus for buyers in Sydney"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-melbourne",
+        "keyword": "VTP Aethereus for buyers in Melbourne"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-toronto",
+        "keyword": "VTP Aethereus for buyers in Toronto"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-qatar",
+        "keyword": "VTP Aethereus for buyers in Qatar"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-kuwait",
+        "keyword": "VTP Aethereus for buyers in Kuwait"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-bahrain",
+        "keyword": "VTP Aethereus for buyers in Bahrain"
       }
     ]
   },
@@ -13756,6 +17089,50 @@ export const seoSilos = [
       {
         "slug": "vtp-town-square-for-buyers-in-pcmc-region",
         "keyword": "VTP Town Square for buyers in PCMC Region"
+      },
+      {
+        "slug": "vtp-town-square-for-buyers-in-dubai",
+        "keyword": "VTP Town Square for buyers in Dubai"
+      },
+      {
+        "slug": "vtp-town-square-for-buyers-in-singapore",
+        "keyword": "VTP Town Square for buyers in Singapore"
+      },
+      {
+        "slug": "vtp-town-square-for-buyers-in-london",
+        "keyword": "VTP Town Square for buyers in London"
+      },
+      {
+        "slug": "vtp-town-square-for-buyers-in-new-york",
+        "keyword": "VTP Town Square for buyers in New York"
+      },
+      {
+        "slug": "vtp-town-square-for-buyers-in-san-francisco",
+        "keyword": "VTP Town Square for buyers in San Francisco"
+      },
+      {
+        "slug": "vtp-town-square-for-buyers-in-sydney",
+        "keyword": "VTP Town Square for buyers in Sydney"
+      },
+      {
+        "slug": "vtp-town-square-for-buyers-in-melbourne",
+        "keyword": "VTP Town Square for buyers in Melbourne"
+      },
+      {
+        "slug": "vtp-town-square-for-buyers-in-toronto",
+        "keyword": "VTP Town Square for buyers in Toronto"
+      },
+      {
+        "slug": "vtp-town-square-for-buyers-in-qatar",
+        "keyword": "VTP Town Square for buyers in Qatar"
+      },
+      {
+        "slug": "vtp-town-square-for-buyers-in-kuwait",
+        "keyword": "VTP Town Square for buyers in Kuwait"
+      },
+      {
+        "slug": "vtp-town-square-for-buyers-in-bahrain",
+        "keyword": "VTP Town Square for buyers in Bahrain"
       }
     ]
   },
@@ -14047,6 +17424,50 @@ export const seoSilos = [
       {
         "slug": "vtp-sierra-for-buyers-in-pcmc-region",
         "keyword": "VTP Sierra for buyers in PCMC Region"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-dubai",
+        "keyword": "VTP Sierra for buyers in Dubai"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-singapore",
+        "keyword": "VTP Sierra for buyers in Singapore"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-london",
+        "keyword": "VTP Sierra for buyers in London"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-new-york",
+        "keyword": "VTP Sierra for buyers in New York"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-san-francisco",
+        "keyword": "VTP Sierra for buyers in San Francisco"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-sydney",
+        "keyword": "VTP Sierra for buyers in Sydney"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-melbourne",
+        "keyword": "VTP Sierra for buyers in Melbourne"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-toronto",
+        "keyword": "VTP Sierra for buyers in Toronto"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-qatar",
+        "keyword": "VTP Sierra for buyers in Qatar"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-kuwait",
+        "keyword": "VTP Sierra for buyers in Kuwait"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-bahrain",
+        "keyword": "VTP Sierra for buyers in Bahrain"
       }
     ]
   },
@@ -14338,6 +17759,50 @@ export const seoSilos = [
       {
         "slug": "vtp-verve-for-buyers-in-pcmc-region",
         "keyword": "VTP Verve for buyers in PCMC Region"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-dubai",
+        "keyword": "VTP Verve for buyers in Dubai"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-singapore",
+        "keyword": "VTP Verve for buyers in Singapore"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-london",
+        "keyword": "VTP Verve for buyers in London"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-new-york",
+        "keyword": "VTP Verve for buyers in New York"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-san-francisco",
+        "keyword": "VTP Verve for buyers in San Francisco"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-sydney",
+        "keyword": "VTP Verve for buyers in Sydney"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-melbourne",
+        "keyword": "VTP Verve for buyers in Melbourne"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-toronto",
+        "keyword": "VTP Verve for buyers in Toronto"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-qatar",
+        "keyword": "VTP Verve for buyers in Qatar"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-kuwait",
+        "keyword": "VTP Verve for buyers in Kuwait"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-bahrain",
+        "keyword": "VTP Verve for buyers in Bahrain"
       }
     ]
   },
@@ -14629,6 +18094,50 @@ export const seoSilos = [
       {
         "slug": "vtp-solitaire-for-buyers-in-pcmc-region",
         "keyword": "VTP Solitaire for buyers in PCMC Region"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-dubai",
+        "keyword": "VTP Solitaire for buyers in Dubai"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-singapore",
+        "keyword": "VTP Solitaire for buyers in Singapore"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-london",
+        "keyword": "VTP Solitaire for buyers in London"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-new-york",
+        "keyword": "VTP Solitaire for buyers in New York"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-san-francisco",
+        "keyword": "VTP Solitaire for buyers in San Francisco"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-sydney",
+        "keyword": "VTP Solitaire for buyers in Sydney"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-melbourne",
+        "keyword": "VTP Solitaire for buyers in Melbourne"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-toronto",
+        "keyword": "VTP Solitaire for buyers in Toronto"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-qatar",
+        "keyword": "VTP Solitaire for buyers in Qatar"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-kuwait",
+        "keyword": "VTP Solitaire for buyers in Kuwait"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-bahrain",
+        "keyword": "VTP Solitaire for buyers in Bahrain"
       }
     ]
   },
@@ -14920,6 +18429,50 @@ export const seoSilos = [
       {
         "slug": "vtp-bellissimo-for-buyers-in-pcmc-region",
         "keyword": "VTP Bellissimo for buyers in PCMC Region"
+      },
+      {
+        "slug": "vtp-bellissimo-for-buyers-in-dubai",
+        "keyword": "VTP Bellissimo for buyers in Dubai"
+      },
+      {
+        "slug": "vtp-bellissimo-for-buyers-in-singapore",
+        "keyword": "VTP Bellissimo for buyers in Singapore"
+      },
+      {
+        "slug": "vtp-bellissimo-for-buyers-in-london",
+        "keyword": "VTP Bellissimo for buyers in London"
+      },
+      {
+        "slug": "vtp-bellissimo-for-buyers-in-new-york",
+        "keyword": "VTP Bellissimo for buyers in New York"
+      },
+      {
+        "slug": "vtp-bellissimo-for-buyers-in-san-francisco",
+        "keyword": "VTP Bellissimo for buyers in San Francisco"
+      },
+      {
+        "slug": "vtp-bellissimo-for-buyers-in-sydney",
+        "keyword": "VTP Bellissimo for buyers in Sydney"
+      },
+      {
+        "slug": "vtp-bellissimo-for-buyers-in-melbourne",
+        "keyword": "VTP Bellissimo for buyers in Melbourne"
+      },
+      {
+        "slug": "vtp-bellissimo-for-buyers-in-toronto",
+        "keyword": "VTP Bellissimo for buyers in Toronto"
+      },
+      {
+        "slug": "vtp-bellissimo-for-buyers-in-qatar",
+        "keyword": "VTP Bellissimo for buyers in Qatar"
+      },
+      {
+        "slug": "vtp-bellissimo-for-buyers-in-kuwait",
+        "keyword": "VTP Bellissimo for buyers in Kuwait"
+      },
+      {
+        "slug": "vtp-bellissimo-for-buyers-in-bahrain",
+        "keyword": "VTP Bellissimo for buyers in Bahrain"
       }
     ]
   },
@@ -15211,6 +18764,50 @@ export const seoSilos = [
       {
         "slug": "vtp-monarque-for-buyers-in-pcmc-region",
         "keyword": "VTP Monarque for buyers in PCMC Region"
+      },
+      {
+        "slug": "vtp-monarque-for-buyers-in-dubai",
+        "keyword": "VTP Monarque for buyers in Dubai"
+      },
+      {
+        "slug": "vtp-monarque-for-buyers-in-singapore",
+        "keyword": "VTP Monarque for buyers in Singapore"
+      },
+      {
+        "slug": "vtp-monarque-for-buyers-in-london",
+        "keyword": "VTP Monarque for buyers in London"
+      },
+      {
+        "slug": "vtp-monarque-for-buyers-in-new-york",
+        "keyword": "VTP Monarque for buyers in New York"
+      },
+      {
+        "slug": "vtp-monarque-for-buyers-in-san-francisco",
+        "keyword": "VTP Monarque for buyers in San Francisco"
+      },
+      {
+        "slug": "vtp-monarque-for-buyers-in-sydney",
+        "keyword": "VTP Monarque for buyers in Sydney"
+      },
+      {
+        "slug": "vtp-monarque-for-buyers-in-melbourne",
+        "keyword": "VTP Monarque for buyers in Melbourne"
+      },
+      {
+        "slug": "vtp-monarque-for-buyers-in-toronto",
+        "keyword": "VTP Monarque for buyers in Toronto"
+      },
+      {
+        "slug": "vtp-monarque-for-buyers-in-qatar",
+        "keyword": "VTP Monarque for buyers in Qatar"
+      },
+      {
+        "slug": "vtp-monarque-for-buyers-in-kuwait",
+        "keyword": "VTP Monarque for buyers in Kuwait"
+      },
+      {
+        "slug": "vtp-monarque-for-buyers-in-bahrain",
+        "keyword": "VTP Monarque for buyers in Bahrain"
       }
     ]
   },
@@ -15502,6 +19099,50 @@ export const seoSilos = [
       {
         "slug": "vtp-pegasus-for-buyers-in-pcmc-region",
         "keyword": "VTP Pegasus for buyers in PCMC Region"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-dubai",
+        "keyword": "VTP Pegasus for buyers in Dubai"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-singapore",
+        "keyword": "VTP Pegasus for buyers in Singapore"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-london",
+        "keyword": "VTP Pegasus for buyers in London"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-new-york",
+        "keyword": "VTP Pegasus for buyers in New York"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-san-francisco",
+        "keyword": "VTP Pegasus for buyers in San Francisco"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-sydney",
+        "keyword": "VTP Pegasus for buyers in Sydney"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-melbourne",
+        "keyword": "VTP Pegasus for buyers in Melbourne"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-toronto",
+        "keyword": "VTP Pegasus for buyers in Toronto"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-qatar",
+        "keyword": "VTP Pegasus for buyers in Qatar"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-kuwait",
+        "keyword": "VTP Pegasus for buyers in Kuwait"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-bahrain",
+        "keyword": "VTP Pegasus for buyers in Bahrain"
       }
     ]
   },
@@ -15793,6 +19434,50 @@ export const seoSilos = [
       {
         "slug": "vtp-altamira-for-buyers-in-pcmc-region",
         "keyword": "VTP Altamira for buyers in PCMC Region"
+      },
+      {
+        "slug": "vtp-altamira-for-buyers-in-dubai",
+        "keyword": "VTP Altamira for buyers in Dubai"
+      },
+      {
+        "slug": "vtp-altamira-for-buyers-in-singapore",
+        "keyword": "VTP Altamira for buyers in Singapore"
+      },
+      {
+        "slug": "vtp-altamira-for-buyers-in-london",
+        "keyword": "VTP Altamira for buyers in London"
+      },
+      {
+        "slug": "vtp-altamira-for-buyers-in-new-york",
+        "keyword": "VTP Altamira for buyers in New York"
+      },
+      {
+        "slug": "vtp-altamira-for-buyers-in-san-francisco",
+        "keyword": "VTP Altamira for buyers in San Francisco"
+      },
+      {
+        "slug": "vtp-altamira-for-buyers-in-sydney",
+        "keyword": "VTP Altamira for buyers in Sydney"
+      },
+      {
+        "slug": "vtp-altamira-for-buyers-in-melbourne",
+        "keyword": "VTP Altamira for buyers in Melbourne"
+      },
+      {
+        "slug": "vtp-altamira-for-buyers-in-toronto",
+        "keyword": "VTP Altamira for buyers in Toronto"
+      },
+      {
+        "slug": "vtp-altamira-for-buyers-in-qatar",
+        "keyword": "VTP Altamira for buyers in Qatar"
+      },
+      {
+        "slug": "vtp-altamira-for-buyers-in-kuwait",
+        "keyword": "VTP Altamira for buyers in Kuwait"
+      },
+      {
+        "slug": "vtp-altamira-for-buyers-in-bahrain",
+        "keyword": "VTP Altamira for buyers in Bahrain"
       }
     ]
   },
@@ -16084,6 +19769,50 @@ export const seoSilos = [
       {
         "slug": "vtp-flamante-for-buyers-in-pcmc-region",
         "keyword": "VTP Flamante for buyers in PCMC Region"
+      },
+      {
+        "slug": "vtp-flamante-for-buyers-in-dubai",
+        "keyword": "VTP Flamante for buyers in Dubai"
+      },
+      {
+        "slug": "vtp-flamante-for-buyers-in-singapore",
+        "keyword": "VTP Flamante for buyers in Singapore"
+      },
+      {
+        "slug": "vtp-flamante-for-buyers-in-london",
+        "keyword": "VTP Flamante for buyers in London"
+      },
+      {
+        "slug": "vtp-flamante-for-buyers-in-new-york",
+        "keyword": "VTP Flamante for buyers in New York"
+      },
+      {
+        "slug": "vtp-flamante-for-buyers-in-san-francisco",
+        "keyword": "VTP Flamante for buyers in San Francisco"
+      },
+      {
+        "slug": "vtp-flamante-for-buyers-in-sydney",
+        "keyword": "VTP Flamante for buyers in Sydney"
+      },
+      {
+        "slug": "vtp-flamante-for-buyers-in-melbourne",
+        "keyword": "VTP Flamante for buyers in Melbourne"
+      },
+      {
+        "slug": "vtp-flamante-for-buyers-in-toronto",
+        "keyword": "VTP Flamante for buyers in Toronto"
+      },
+      {
+        "slug": "vtp-flamante-for-buyers-in-qatar",
+        "keyword": "VTP Flamante for buyers in Qatar"
+      },
+      {
+        "slug": "vtp-flamante-for-buyers-in-kuwait",
+        "keyword": "VTP Flamante for buyers in Kuwait"
+      },
+      {
+        "slug": "vtp-flamante-for-buyers-in-bahrain",
+        "keyword": "VTP Flamante for buyers in Bahrain"
       }
     ]
   },
@@ -16375,6 +20104,50 @@ export const seoSilos = [
       {
         "slug": "vtp-velvet-villas-for-buyers-in-pcmc-region",
         "keyword": "VTP Velvet Villas for buyers in PCMC Region"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-dubai",
+        "keyword": "VTP Velvet Villas for buyers in Dubai"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-singapore",
+        "keyword": "VTP Velvet Villas for buyers in Singapore"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-london",
+        "keyword": "VTP Velvet Villas for buyers in London"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-new-york",
+        "keyword": "VTP Velvet Villas for buyers in New York"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-san-francisco",
+        "keyword": "VTP Velvet Villas for buyers in San Francisco"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-sydney",
+        "keyword": "VTP Velvet Villas for buyers in Sydney"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-melbourne",
+        "keyword": "VTP Velvet Villas for buyers in Melbourne"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-toronto",
+        "keyword": "VTP Velvet Villas for buyers in Toronto"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-qatar",
+        "keyword": "VTP Velvet Villas for buyers in Qatar"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-kuwait",
+        "keyword": "VTP Velvet Villas for buyers in Kuwait"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-bahrain",
+        "keyword": "VTP Velvet Villas for buyers in Bahrain"
       }
     ]
   },
@@ -16666,6 +20439,50 @@ export const seoSilos = [
       {
         "slug": "vtp-altair-for-buyers-in-pcmc-region",
         "keyword": "VTP Altair for buyers in PCMC Region"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-dubai",
+        "keyword": "VTP Altair for buyers in Dubai"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-singapore",
+        "keyword": "VTP Altair for buyers in Singapore"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-london",
+        "keyword": "VTP Altair for buyers in London"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-new-york",
+        "keyword": "VTP Altair for buyers in New York"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-san-francisco",
+        "keyword": "VTP Altair for buyers in San Francisco"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-sydney",
+        "keyword": "VTP Altair for buyers in Sydney"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-melbourne",
+        "keyword": "VTP Altair for buyers in Melbourne"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-toronto",
+        "keyword": "VTP Altair for buyers in Toronto"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-qatar",
+        "keyword": "VTP Altair for buyers in Qatar"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-kuwait",
+        "keyword": "VTP Altair for buyers in Kuwait"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-bahrain",
+        "keyword": "VTP Altair for buyers in Bahrain"
       }
     ]
   },
@@ -16957,6 +20774,50 @@ export const seoSilos = [
       {
         "slug": "vtp-cygnus-for-buyers-in-pcmc-region",
         "keyword": "VTP Cygnus for buyers in PCMC Region"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-dubai",
+        "keyword": "VTP Cygnus for buyers in Dubai"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-singapore",
+        "keyword": "VTP Cygnus for buyers in Singapore"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-london",
+        "keyword": "VTP Cygnus for buyers in London"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-new-york",
+        "keyword": "VTP Cygnus for buyers in New York"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-san-francisco",
+        "keyword": "VTP Cygnus for buyers in San Francisco"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-sydney",
+        "keyword": "VTP Cygnus for buyers in Sydney"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-melbourne",
+        "keyword": "VTP Cygnus for buyers in Melbourne"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-toronto",
+        "keyword": "VTP Cygnus for buyers in Toronto"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-qatar",
+        "keyword": "VTP Cygnus for buyers in Qatar"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-kuwait",
+        "keyword": "VTP Cygnus for buyers in Kuwait"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-bahrain",
+        "keyword": "VTP Cygnus for buyers in Bahrain"
       }
     ]
   },
@@ -17248,6 +21109,50 @@ export const seoSilos = [
       {
         "slug": "vtp-beaumonde-for-buyers-in-pcmc-region",
         "keyword": "VTP Beaumonde for buyers in PCMC Region"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-dubai",
+        "keyword": "VTP Beaumonde for buyers in Dubai"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-singapore",
+        "keyword": "VTP Beaumonde for buyers in Singapore"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-london",
+        "keyword": "VTP Beaumonde for buyers in London"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-new-york",
+        "keyword": "VTP Beaumonde for buyers in New York"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-san-francisco",
+        "keyword": "VTP Beaumonde for buyers in San Francisco"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-sydney",
+        "keyword": "VTP Beaumonde for buyers in Sydney"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-melbourne",
+        "keyword": "VTP Beaumonde for buyers in Melbourne"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-toronto",
+        "keyword": "VTP Beaumonde for buyers in Toronto"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-qatar",
+        "keyword": "VTP Beaumonde for buyers in Qatar"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-kuwait",
+        "keyword": "VTP Beaumonde for buyers in Kuwait"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-bahrain",
+        "keyword": "VTP Beaumonde for buyers in Bahrain"
       }
     ]
   },
@@ -17539,6 +21444,50 @@ export const seoSilos = [
       {
         "slug": "vtp-purvanchal-for-buyers-in-pcmc-region",
         "keyword": "VTP Purvanchal for buyers in PCMC Region"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-dubai",
+        "keyword": "VTP Purvanchal for buyers in Dubai"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-singapore",
+        "keyword": "VTP Purvanchal for buyers in Singapore"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-london",
+        "keyword": "VTP Purvanchal for buyers in London"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-new-york",
+        "keyword": "VTP Purvanchal for buyers in New York"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-san-francisco",
+        "keyword": "VTP Purvanchal for buyers in San Francisco"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-sydney",
+        "keyword": "VTP Purvanchal for buyers in Sydney"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-melbourne",
+        "keyword": "VTP Purvanchal for buyers in Melbourne"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-toronto",
+        "keyword": "VTP Purvanchal for buyers in Toronto"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-qatar",
+        "keyword": "VTP Purvanchal for buyers in Qatar"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-kuwait",
+        "keyword": "VTP Purvanchal for buyers in Kuwait"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-bahrain",
+        "keyword": "VTP Purvanchal for buyers in Bahrain"
       }
     ]
   },
@@ -17830,6 +21779,50 @@ export const seoSilos = [
       {
         "slug": "vtp-celesta-for-buyers-in-pcmc-region",
         "keyword": "VTP Celesta for buyers in PCMC Region"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-dubai",
+        "keyword": "VTP Celesta for buyers in Dubai"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-singapore",
+        "keyword": "VTP Celesta for buyers in Singapore"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-london",
+        "keyword": "VTP Celesta for buyers in London"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-new-york",
+        "keyword": "VTP Celesta for buyers in New York"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-san-francisco",
+        "keyword": "VTP Celesta for buyers in San Francisco"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-sydney",
+        "keyword": "VTP Celesta for buyers in Sydney"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-melbourne",
+        "keyword": "VTP Celesta for buyers in Melbourne"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-toronto",
+        "keyword": "VTP Celesta for buyers in Toronto"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-qatar",
+        "keyword": "VTP Celesta for buyers in Qatar"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-kuwait",
+        "keyword": "VTP Celesta for buyers in Kuwait"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-bahrain",
+        "keyword": "VTP Celesta for buyers in Bahrain"
       }
     ]
   },
@@ -18121,6 +22114,50 @@ export const seoSilos = [
       {
         "slug": "vtp-urban-nest-for-buyers-in-pcmc-region",
         "keyword": "VTP Urban Nest for buyers in PCMC Region"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-dubai",
+        "keyword": "VTP Urban Nest for buyers in Dubai"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-singapore",
+        "keyword": "VTP Urban Nest for buyers in Singapore"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-london",
+        "keyword": "VTP Urban Nest for buyers in London"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-new-york",
+        "keyword": "VTP Urban Nest for buyers in New York"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-san-francisco",
+        "keyword": "VTP Urban Nest for buyers in San Francisco"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-sydney",
+        "keyword": "VTP Urban Nest for buyers in Sydney"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-melbourne",
+        "keyword": "VTP Urban Nest for buyers in Melbourne"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-toronto",
+        "keyword": "VTP Urban Nest for buyers in Toronto"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-qatar",
+        "keyword": "VTP Urban Nest for buyers in Qatar"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-kuwait",
+        "keyword": "VTP Urban Nest for buyers in Kuwait"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-bahrain",
+        "keyword": "VTP Urban Nest for buyers in Bahrain"
       }
     ]
   },
@@ -18412,6 +22449,50 @@ export const seoSilos = [
       {
         "slug": "vtp-skylights-for-buyers-in-pcmc-region",
         "keyword": "VTP Skylights for buyers in PCMC Region"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-dubai",
+        "keyword": "VTP Skylights for buyers in Dubai"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-singapore",
+        "keyword": "VTP Skylights for buyers in Singapore"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-london",
+        "keyword": "VTP Skylights for buyers in London"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-new-york",
+        "keyword": "VTP Skylights for buyers in New York"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-san-francisco",
+        "keyword": "VTP Skylights for buyers in San Francisco"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-sydney",
+        "keyword": "VTP Skylights for buyers in Sydney"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-melbourne",
+        "keyword": "VTP Skylights for buyers in Melbourne"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-toronto",
+        "keyword": "VTP Skylights for buyers in Toronto"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-qatar",
+        "keyword": "VTP Skylights for buyers in Qatar"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-kuwait",
+        "keyword": "VTP Skylights for buyers in Kuwait"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-bahrain",
+        "keyword": "VTP Skylights for buyers in Bahrain"
       }
     ]
   },
@@ -18587,6 +22668,50 @@ export const seoSilos = [
       {
         "slug": "pune-smart-city-projects-in-pcmc-region",
         "keyword": "Pune Smart City Projects in PCMC Region"
+      },
+      {
+        "slug": "pune-smart-city-projects-for-nri-in-dubai",
+        "keyword": "Pune Smart City Projects for NRI in Dubai"
+      },
+      {
+        "slug": "pune-smart-city-projects-for-nri-in-singapore",
+        "keyword": "Pune Smart City Projects for NRI in Singapore"
+      },
+      {
+        "slug": "pune-smart-city-projects-for-nri-in-london",
+        "keyword": "Pune Smart City Projects for NRI in London"
+      },
+      {
+        "slug": "pune-smart-city-projects-for-nri-in-new-york",
+        "keyword": "Pune Smart City Projects for NRI in New York"
+      },
+      {
+        "slug": "pune-smart-city-projects-for-nri-in-san-francisco",
+        "keyword": "Pune Smart City Projects for NRI in San Francisco"
+      },
+      {
+        "slug": "pune-smart-city-projects-for-nri-in-sydney",
+        "keyword": "Pune Smart City Projects for NRI in Sydney"
+      },
+      {
+        "slug": "pune-smart-city-projects-for-nri-in-melbourne",
+        "keyword": "Pune Smart City Projects for NRI in Melbourne"
+      },
+      {
+        "slug": "pune-smart-city-projects-for-nri-in-toronto",
+        "keyword": "Pune Smart City Projects for NRI in Toronto"
+      },
+      {
+        "slug": "pune-smart-city-projects-for-nri-in-qatar",
+        "keyword": "Pune Smart City Projects for NRI in Qatar"
+      },
+      {
+        "slug": "pune-smart-city-projects-for-nri-in-kuwait",
+        "keyword": "Pune Smart City Projects for NRI in Kuwait"
+      },
+      {
+        "slug": "pune-smart-city-projects-for-nri-in-bahrain",
+        "keyword": "Pune Smart City Projects for NRI in Bahrain"
       }
     ]
   },
@@ -18762,6 +22887,50 @@ export const seoSilos = [
       {
         "slug": "riverfront-living-pune-in-pcmc-region",
         "keyword": "Riverfront Living Pune in PCMC Region"
+      },
+      {
+        "slug": "riverfront-living-pune-for-nri-in-dubai",
+        "keyword": "Riverfront Living Pune for NRI in Dubai"
+      },
+      {
+        "slug": "riverfront-living-pune-for-nri-in-singapore",
+        "keyword": "Riverfront Living Pune for NRI in Singapore"
+      },
+      {
+        "slug": "riverfront-living-pune-for-nri-in-london",
+        "keyword": "Riverfront Living Pune for NRI in London"
+      },
+      {
+        "slug": "riverfront-living-pune-for-nri-in-new-york",
+        "keyword": "Riverfront Living Pune for NRI in New York"
+      },
+      {
+        "slug": "riverfront-living-pune-for-nri-in-san-francisco",
+        "keyword": "Riverfront Living Pune for NRI in San Francisco"
+      },
+      {
+        "slug": "riverfront-living-pune-for-nri-in-sydney",
+        "keyword": "Riverfront Living Pune for NRI in Sydney"
+      },
+      {
+        "slug": "riverfront-living-pune-for-nri-in-melbourne",
+        "keyword": "Riverfront Living Pune for NRI in Melbourne"
+      },
+      {
+        "slug": "riverfront-living-pune-for-nri-in-toronto",
+        "keyword": "Riverfront Living Pune for NRI in Toronto"
+      },
+      {
+        "slug": "riverfront-living-pune-for-nri-in-qatar",
+        "keyword": "Riverfront Living Pune for NRI in Qatar"
+      },
+      {
+        "slug": "riverfront-living-pune-for-nri-in-kuwait",
+        "keyword": "Riverfront Living Pune for NRI in Kuwait"
+      },
+      {
+        "slug": "riverfront-living-pune-for-nri-in-bahrain",
+        "keyword": "Riverfront Living Pune for NRI in Bahrain"
       }
     ]
   },
@@ -18937,6 +23106,50 @@ export const seoSilos = [
       {
         "slug": "high-roi-investment-pune-in-pcmc-region",
         "keyword": "High ROI Investment Pune in PCMC Region"
+      },
+      {
+        "slug": "high-roi-investment-pune-for-nri-in-dubai",
+        "keyword": "High ROI Investment Pune for NRI in Dubai"
+      },
+      {
+        "slug": "high-roi-investment-pune-for-nri-in-singapore",
+        "keyword": "High ROI Investment Pune for NRI in Singapore"
+      },
+      {
+        "slug": "high-roi-investment-pune-for-nri-in-london",
+        "keyword": "High ROI Investment Pune for NRI in London"
+      },
+      {
+        "slug": "high-roi-investment-pune-for-nri-in-new-york",
+        "keyword": "High ROI Investment Pune for NRI in New York"
+      },
+      {
+        "slug": "high-roi-investment-pune-for-nri-in-san-francisco",
+        "keyword": "High ROI Investment Pune for NRI in San Francisco"
+      },
+      {
+        "slug": "high-roi-investment-pune-for-nri-in-sydney",
+        "keyword": "High ROI Investment Pune for NRI in Sydney"
+      },
+      {
+        "slug": "high-roi-investment-pune-for-nri-in-melbourne",
+        "keyword": "High ROI Investment Pune for NRI in Melbourne"
+      },
+      {
+        "slug": "high-roi-investment-pune-for-nri-in-toronto",
+        "keyword": "High ROI Investment Pune for NRI in Toronto"
+      },
+      {
+        "slug": "high-roi-investment-pune-for-nri-in-qatar",
+        "keyword": "High ROI Investment Pune for NRI in Qatar"
+      },
+      {
+        "slug": "high-roi-investment-pune-for-nri-in-kuwait",
+        "keyword": "High ROI Investment Pune for NRI in Kuwait"
+      },
+      {
+        "slug": "high-roi-investment-pune-for-nri-in-bahrain",
+        "keyword": "High ROI Investment Pune for NRI in Bahrain"
       }
     ]
   },
@@ -19112,6 +23325,50 @@ export const seoSilos = [
       {
         "slug": "zero-brokerage-flats-pune-in-pcmc-region",
         "keyword": "Zero Brokerage Flats Pune in PCMC Region"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-for-nri-in-dubai",
+        "keyword": "Zero Brokerage Flats Pune for NRI in Dubai"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-for-nri-in-singapore",
+        "keyword": "Zero Brokerage Flats Pune for NRI in Singapore"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-for-nri-in-london",
+        "keyword": "Zero Brokerage Flats Pune for NRI in London"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-for-nri-in-new-york",
+        "keyword": "Zero Brokerage Flats Pune for NRI in New York"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-for-nri-in-san-francisco",
+        "keyword": "Zero Brokerage Flats Pune for NRI in San Francisco"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-for-nri-in-sydney",
+        "keyword": "Zero Brokerage Flats Pune for NRI in Sydney"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-for-nri-in-melbourne",
+        "keyword": "Zero Brokerage Flats Pune for NRI in Melbourne"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-for-nri-in-toronto",
+        "keyword": "Zero Brokerage Flats Pune for NRI in Toronto"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-for-nri-in-qatar",
+        "keyword": "Zero Brokerage Flats Pune for NRI in Qatar"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-for-nri-in-kuwait",
+        "keyword": "Zero Brokerage Flats Pune for NRI in Kuwait"
+      },
+      {
+        "slug": "zero-brokerage-flats-pune-for-nri-in-bahrain",
+        "keyword": "Zero Brokerage Flats Pune for NRI in Bahrain"
       }
     ]
   },
@@ -19287,6 +23544,50 @@ export const seoSilos = [
       {
         "slug": "rera-registered-projects-pune-in-pcmc-region",
         "keyword": "RERA Registered Projects Pune in PCMC Region"
+      },
+      {
+        "slug": "rera-registered-projects-pune-for-nri-in-dubai",
+        "keyword": "RERA Registered Projects Pune for NRI in Dubai"
+      },
+      {
+        "slug": "rera-registered-projects-pune-for-nri-in-singapore",
+        "keyword": "RERA Registered Projects Pune for NRI in Singapore"
+      },
+      {
+        "slug": "rera-registered-projects-pune-for-nri-in-london",
+        "keyword": "RERA Registered Projects Pune for NRI in London"
+      },
+      {
+        "slug": "rera-registered-projects-pune-for-nri-in-new-york",
+        "keyword": "RERA Registered Projects Pune for NRI in New York"
+      },
+      {
+        "slug": "rera-registered-projects-pune-for-nri-in-san-francisco",
+        "keyword": "RERA Registered Projects Pune for NRI in San Francisco"
+      },
+      {
+        "slug": "rera-registered-projects-pune-for-nri-in-sydney",
+        "keyword": "RERA Registered Projects Pune for NRI in Sydney"
+      },
+      {
+        "slug": "rera-registered-projects-pune-for-nri-in-melbourne",
+        "keyword": "RERA Registered Projects Pune for NRI in Melbourne"
+      },
+      {
+        "slug": "rera-registered-projects-pune-for-nri-in-toronto",
+        "keyword": "RERA Registered Projects Pune for NRI in Toronto"
+      },
+      {
+        "slug": "rera-registered-projects-pune-for-nri-in-qatar",
+        "keyword": "RERA Registered Projects Pune for NRI in Qatar"
+      },
+      {
+        "slug": "rera-registered-projects-pune-for-nri-in-kuwait",
+        "keyword": "RERA Registered Projects Pune for NRI in Kuwait"
+      },
+      {
+        "slug": "rera-registered-projects-pune-for-nri-in-bahrain",
+        "keyword": "RERA Registered Projects Pune for NRI in Bahrain"
       }
     ]
   },
@@ -19462,6 +23763,50 @@ export const seoSilos = [
       {
         "slug": "best-areas-to-invest-in-pune-2026-in-pcmc-region",
         "keyword": "Best Areas to Invest in Pune 2026 in PCMC Region"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-for-nri-in-dubai",
+        "keyword": "Best Areas to Invest in Pune 2026 for NRI in Dubai"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-for-nri-in-singapore",
+        "keyword": "Best Areas to Invest in Pune 2026 for NRI in Singapore"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-for-nri-in-london",
+        "keyword": "Best Areas to Invest in Pune 2026 for NRI in London"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-for-nri-in-new-york",
+        "keyword": "Best Areas to Invest in Pune 2026 for NRI in New York"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-for-nri-in-san-francisco",
+        "keyword": "Best Areas to Invest in Pune 2026 for NRI in San Francisco"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-for-nri-in-sydney",
+        "keyword": "Best Areas to Invest in Pune 2026 for NRI in Sydney"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-for-nri-in-melbourne",
+        "keyword": "Best Areas to Invest in Pune 2026 for NRI in Melbourne"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-for-nri-in-toronto",
+        "keyword": "Best Areas to Invest in Pune 2026 for NRI in Toronto"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-for-nri-in-qatar",
+        "keyword": "Best Areas to Invest in Pune 2026 for NRI in Qatar"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-for-nri-in-kuwait",
+        "keyword": "Best Areas to Invest in Pune 2026 for NRI in Kuwait"
+      },
+      {
+        "slug": "best-areas-to-invest-in-pune-2026-for-nri-in-bahrain",
+        "keyword": "Best Areas to Invest in Pune 2026 for NRI in Bahrain"
       }
     ]
   },
@@ -19637,6 +23982,50 @@ export const seoSilos = [
       {
         "slug": "pune-real-estate-market-trends-in-pcmc-region",
         "keyword": "Pune Real Estate Market Trends in PCMC Region"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-for-nri-in-dubai",
+        "keyword": "Pune Real Estate Market Trends for NRI in Dubai"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-for-nri-in-singapore",
+        "keyword": "Pune Real Estate Market Trends for NRI in Singapore"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-for-nri-in-london",
+        "keyword": "Pune Real Estate Market Trends for NRI in London"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-for-nri-in-new-york",
+        "keyword": "Pune Real Estate Market Trends for NRI in New York"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-for-nri-in-san-francisco",
+        "keyword": "Pune Real Estate Market Trends for NRI in San Francisco"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-for-nri-in-sydney",
+        "keyword": "Pune Real Estate Market Trends for NRI in Sydney"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-for-nri-in-melbourne",
+        "keyword": "Pune Real Estate Market Trends for NRI in Melbourne"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-for-nri-in-toronto",
+        "keyword": "Pune Real Estate Market Trends for NRI in Toronto"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-for-nri-in-qatar",
+        "keyword": "Pune Real Estate Market Trends for NRI in Qatar"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-for-nri-in-kuwait",
+        "keyword": "Pune Real Estate Market Trends for NRI in Kuwait"
+      },
+      {
+        "slug": "pune-real-estate-market-trends-for-nri-in-bahrain",
+        "keyword": "Pune Real Estate Market Trends for NRI in Bahrain"
       }
     ]
   },
@@ -19812,6 +24201,50 @@ export const seoSilos = [
       {
         "slug": "walk-to-work-homes-pune-in-pcmc-region",
         "keyword": "Walk-to-Work Homes Pune in PCMC Region"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-for-nri-in-dubai",
+        "keyword": "Walk-to-Work Homes Pune for NRI in Dubai"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-for-nri-in-singapore",
+        "keyword": "Walk-to-Work Homes Pune for NRI in Singapore"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-for-nri-in-london",
+        "keyword": "Walk-to-Work Homes Pune for NRI in London"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-for-nri-in-new-york",
+        "keyword": "Walk-to-Work Homes Pune for NRI in New York"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-for-nri-in-san-francisco",
+        "keyword": "Walk-to-Work Homes Pune for NRI in San Francisco"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-for-nri-in-sydney",
+        "keyword": "Walk-to-Work Homes Pune for NRI in Sydney"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-for-nri-in-melbourne",
+        "keyword": "Walk-to-Work Homes Pune for NRI in Melbourne"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-for-nri-in-toronto",
+        "keyword": "Walk-to-Work Homes Pune for NRI in Toronto"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-for-nri-in-qatar",
+        "keyword": "Walk-to-Work Homes Pune for NRI in Qatar"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-for-nri-in-kuwait",
+        "keyword": "Walk-to-Work Homes Pune for NRI in Kuwait"
+      },
+      {
+        "slug": "walk-to-work-homes-pune-for-nri-in-bahrain",
+        "keyword": "Walk-to-Work Homes Pune for NRI in Bahrain"
       }
     ]
   },
@@ -19987,6 +24420,50 @@ export const seoSilos = [
       {
         "slug": "properties-near-pune-metro-in-pcmc-region",
         "keyword": "Properties near Pune Metro in PCMC Region"
+      },
+      {
+        "slug": "properties-near-pune-metro-for-nri-in-dubai",
+        "keyword": "Properties near Pune Metro for NRI in Dubai"
+      },
+      {
+        "slug": "properties-near-pune-metro-for-nri-in-singapore",
+        "keyword": "Properties near Pune Metro for NRI in Singapore"
+      },
+      {
+        "slug": "properties-near-pune-metro-for-nri-in-london",
+        "keyword": "Properties near Pune Metro for NRI in London"
+      },
+      {
+        "slug": "properties-near-pune-metro-for-nri-in-new-york",
+        "keyword": "Properties near Pune Metro for NRI in New York"
+      },
+      {
+        "slug": "properties-near-pune-metro-for-nri-in-san-francisco",
+        "keyword": "Properties near Pune Metro for NRI in San Francisco"
+      },
+      {
+        "slug": "properties-near-pune-metro-for-nri-in-sydney",
+        "keyword": "Properties near Pune Metro for NRI in Sydney"
+      },
+      {
+        "slug": "properties-near-pune-metro-for-nri-in-melbourne",
+        "keyword": "Properties near Pune Metro for NRI in Melbourne"
+      },
+      {
+        "slug": "properties-near-pune-metro-for-nri-in-toronto",
+        "keyword": "Properties near Pune Metro for NRI in Toronto"
+      },
+      {
+        "slug": "properties-near-pune-metro-for-nri-in-qatar",
+        "keyword": "Properties near Pune Metro for NRI in Qatar"
+      },
+      {
+        "slug": "properties-near-pune-metro-for-nri-in-kuwait",
+        "keyword": "Properties near Pune Metro for NRI in Kuwait"
+      },
+      {
+        "slug": "properties-near-pune-metro-for-nri-in-bahrain",
+        "keyword": "Properties near Pune Metro for NRI in Bahrain"
       }
     ]
   },
@@ -20162,6 +24639,50 @@ export const seoSilos = [
       {
         "slug": "top-10-builders-in-pune-in-pcmc-region",
         "keyword": "Top 10 Builders in Pune in PCMC Region"
+      },
+      {
+        "slug": "top-10-builders-in-pune-for-nri-in-dubai",
+        "keyword": "Top 10 Builders in Pune for NRI in Dubai"
+      },
+      {
+        "slug": "top-10-builders-in-pune-for-nri-in-singapore",
+        "keyword": "Top 10 Builders in Pune for NRI in Singapore"
+      },
+      {
+        "slug": "top-10-builders-in-pune-for-nri-in-london",
+        "keyword": "Top 10 Builders in Pune for NRI in London"
+      },
+      {
+        "slug": "top-10-builders-in-pune-for-nri-in-new-york",
+        "keyword": "Top 10 Builders in Pune for NRI in New York"
+      },
+      {
+        "slug": "top-10-builders-in-pune-for-nri-in-san-francisco",
+        "keyword": "Top 10 Builders in Pune for NRI in San Francisco"
+      },
+      {
+        "slug": "top-10-builders-in-pune-for-nri-in-sydney",
+        "keyword": "Top 10 Builders in Pune for NRI in Sydney"
+      },
+      {
+        "slug": "top-10-builders-in-pune-for-nri-in-melbourne",
+        "keyword": "Top 10 Builders in Pune for NRI in Melbourne"
+      },
+      {
+        "slug": "top-10-builders-in-pune-for-nri-in-toronto",
+        "keyword": "Top 10 Builders in Pune for NRI in Toronto"
+      },
+      {
+        "slug": "top-10-builders-in-pune-for-nri-in-qatar",
+        "keyword": "Top 10 Builders in Pune for NRI in Qatar"
+      },
+      {
+        "slug": "top-10-builders-in-pune-for-nri-in-kuwait",
+        "keyword": "Top 10 Builders in Pune for NRI in Kuwait"
+      },
+      {
+        "slug": "top-10-builders-in-pune-for-nri-in-bahrain",
+        "keyword": "Top 10 Builders in Pune for NRI in Bahrain"
       }
     ]
   },
@@ -20337,6 +24858,50 @@ export const seoSilos = [
       {
         "slug": "stamp-duty-and-registration-in-pune-in-pcmc-region",
         "keyword": "Stamp Duty and Registration in Pune in PCMC Region"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-for-nri-in-dubai",
+        "keyword": "Stamp Duty and Registration in Pune for NRI in Dubai"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-for-nri-in-singapore",
+        "keyword": "Stamp Duty and Registration in Pune for NRI in Singapore"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-for-nri-in-london",
+        "keyword": "Stamp Duty and Registration in Pune for NRI in London"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-for-nri-in-new-york",
+        "keyword": "Stamp Duty and Registration in Pune for NRI in New York"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-for-nri-in-san-francisco",
+        "keyword": "Stamp Duty and Registration in Pune for NRI in San Francisco"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-for-nri-in-sydney",
+        "keyword": "Stamp Duty and Registration in Pune for NRI in Sydney"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-for-nri-in-melbourne",
+        "keyword": "Stamp Duty and Registration in Pune for NRI in Melbourne"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-for-nri-in-toronto",
+        "keyword": "Stamp Duty and Registration in Pune for NRI in Toronto"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-for-nri-in-qatar",
+        "keyword": "Stamp Duty and Registration in Pune for NRI in Qatar"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-for-nri-in-kuwait",
+        "keyword": "Stamp Duty and Registration in Pune for NRI in Kuwait"
+      },
+      {
+        "slug": "stamp-duty-and-registration-in-pune-for-nri-in-bahrain",
+        "keyword": "Stamp Duty and Registration in Pune for NRI in Bahrain"
       }
     ]
   },
@@ -20512,6 +25077,50 @@ export const seoSilos = [
       {
         "slug": "is-pune-real-estate-a-bubble-in-pcmc-region",
         "keyword": "Is Pune Real Estate a Bubble in PCMC Region"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-for-nri-in-dubai",
+        "keyword": "Is Pune Real Estate a Bubble for NRI in Dubai"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-for-nri-in-singapore",
+        "keyword": "Is Pune Real Estate a Bubble for NRI in Singapore"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-for-nri-in-london",
+        "keyword": "Is Pune Real Estate a Bubble for NRI in London"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-for-nri-in-new-york",
+        "keyword": "Is Pune Real Estate a Bubble for NRI in New York"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-for-nri-in-san-francisco",
+        "keyword": "Is Pune Real Estate a Bubble for NRI in San Francisco"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-for-nri-in-sydney",
+        "keyword": "Is Pune Real Estate a Bubble for NRI in Sydney"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-for-nri-in-melbourne",
+        "keyword": "Is Pune Real Estate a Bubble for NRI in Melbourne"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-for-nri-in-toronto",
+        "keyword": "Is Pune Real Estate a Bubble for NRI in Toronto"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-for-nri-in-qatar",
+        "keyword": "Is Pune Real Estate a Bubble for NRI in Qatar"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-for-nri-in-kuwait",
+        "keyword": "Is Pune Real Estate a Bubble for NRI in Kuwait"
+      },
+      {
+        "slug": "is-pune-real-estate-a-bubble-for-nri-in-bahrain",
+        "keyword": "Is Pune Real Estate a Bubble for NRI in Bahrain"
       }
     ]
   },
@@ -20687,6 +25296,50 @@ export const seoSilos = [
       {
         "slug": "pune-vs-bangalore-real-estate-in-pcmc-region",
         "keyword": "Pune vs Bangalore Real Estate in PCMC Region"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-for-nri-in-dubai",
+        "keyword": "Pune vs Bangalore Real Estate for NRI in Dubai"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-for-nri-in-singapore",
+        "keyword": "Pune vs Bangalore Real Estate for NRI in Singapore"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-for-nri-in-london",
+        "keyword": "Pune vs Bangalore Real Estate for NRI in London"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-for-nri-in-new-york",
+        "keyword": "Pune vs Bangalore Real Estate for NRI in New York"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-for-nri-in-san-francisco",
+        "keyword": "Pune vs Bangalore Real Estate for NRI in San Francisco"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-for-nri-in-sydney",
+        "keyword": "Pune vs Bangalore Real Estate for NRI in Sydney"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-for-nri-in-melbourne",
+        "keyword": "Pune vs Bangalore Real Estate for NRI in Melbourne"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-for-nri-in-toronto",
+        "keyword": "Pune vs Bangalore Real Estate for NRI in Toronto"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-for-nri-in-qatar",
+        "keyword": "Pune vs Bangalore Real Estate for NRI in Qatar"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-for-nri-in-kuwait",
+        "keyword": "Pune vs Bangalore Real Estate for NRI in Kuwait"
+      },
+      {
+        "slug": "pune-vs-bangalore-real-estate-for-nri-in-bahrain",
+        "keyword": "Pune vs Bangalore Real Estate for NRI in Bahrain"
       }
     ]
   },
@@ -20862,6 +25515,50 @@ export const seoSilos = [
       {
         "slug": "pet-friendly-apartments-in-pune-in-pcmc-region",
         "keyword": "Pet Friendly Apartments in Pune in PCMC Region"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-for-nri-in-dubai",
+        "keyword": "Pet Friendly Apartments in Pune for NRI in Dubai"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-for-nri-in-singapore",
+        "keyword": "Pet Friendly Apartments in Pune for NRI in Singapore"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-for-nri-in-london",
+        "keyword": "Pet Friendly Apartments in Pune for NRI in London"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-for-nri-in-new-york",
+        "keyword": "Pet Friendly Apartments in Pune for NRI in New York"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-for-nri-in-san-francisco",
+        "keyword": "Pet Friendly Apartments in Pune for NRI in San Francisco"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-for-nri-in-sydney",
+        "keyword": "Pet Friendly Apartments in Pune for NRI in Sydney"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-for-nri-in-melbourne",
+        "keyword": "Pet Friendly Apartments in Pune for NRI in Melbourne"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-for-nri-in-toronto",
+        "keyword": "Pet Friendly Apartments in Pune for NRI in Toronto"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-for-nri-in-qatar",
+        "keyword": "Pet Friendly Apartments in Pune for NRI in Qatar"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-for-nri-in-kuwait",
+        "keyword": "Pet Friendly Apartments in Pune for NRI in Kuwait"
+      },
+      {
+        "slug": "pet-friendly-apartments-in-pune-for-nri-in-bahrain",
+        "keyword": "Pet Friendly Apartments in Pune for NRI in Bahrain"
       }
     ]
   },
@@ -21037,6 +25734,50 @@ export const seoSilos = [
       {
         "slug": "smart-home-automation-in-pune-in-pcmc-region",
         "keyword": "Smart Home Automation in Pune in PCMC Region"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-for-nri-in-dubai",
+        "keyword": "Smart Home Automation in Pune for NRI in Dubai"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-for-nri-in-singapore",
+        "keyword": "Smart Home Automation in Pune for NRI in Singapore"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-for-nri-in-london",
+        "keyword": "Smart Home Automation in Pune for NRI in London"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-for-nri-in-new-york",
+        "keyword": "Smart Home Automation in Pune for NRI in New York"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-for-nri-in-san-francisco",
+        "keyword": "Smart Home Automation in Pune for NRI in San Francisco"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-for-nri-in-sydney",
+        "keyword": "Smart Home Automation in Pune for NRI in Sydney"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-for-nri-in-melbourne",
+        "keyword": "Smart Home Automation in Pune for NRI in Melbourne"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-for-nri-in-toronto",
+        "keyword": "Smart Home Automation in Pune for NRI in Toronto"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-for-nri-in-qatar",
+        "keyword": "Smart Home Automation in Pune for NRI in Qatar"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-for-nri-in-kuwait",
+        "keyword": "Smart Home Automation in Pune for NRI in Kuwait"
+      },
+      {
+        "slug": "smart-home-automation-in-pune-for-nri-in-bahrain",
+        "keyword": "Smart Home Automation in Pune for NRI in Bahrain"
       }
     ]
   },
@@ -21212,6 +25953,50 @@ export const seoSilos = [
       {
         "slug": "co-living-spaces-in-pune-in-pcmc-region",
         "keyword": "Co-Living Spaces in Pune in PCMC Region"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-for-nri-in-dubai",
+        "keyword": "Co-Living Spaces in Pune for NRI in Dubai"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-for-nri-in-singapore",
+        "keyword": "Co-Living Spaces in Pune for NRI in Singapore"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-for-nri-in-london",
+        "keyword": "Co-Living Spaces in Pune for NRI in London"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-for-nri-in-new-york",
+        "keyword": "Co-Living Spaces in Pune for NRI in New York"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-for-nri-in-san-francisco",
+        "keyword": "Co-Living Spaces in Pune for NRI in San Francisco"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-for-nri-in-sydney",
+        "keyword": "Co-Living Spaces in Pune for NRI in Sydney"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-for-nri-in-melbourne",
+        "keyword": "Co-Living Spaces in Pune for NRI in Melbourne"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-for-nri-in-toronto",
+        "keyword": "Co-Living Spaces in Pune for NRI in Toronto"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-for-nri-in-qatar",
+        "keyword": "Co-Living Spaces in Pune for NRI in Qatar"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-for-nri-in-kuwait",
+        "keyword": "Co-Living Spaces in Pune for NRI in Kuwait"
+      },
+      {
+        "slug": "co-living-spaces-in-pune-for-nri-in-bahrain",
+        "keyword": "Co-Living Spaces in Pune for NRI in Bahrain"
       }
     ]
   },
@@ -21387,6 +26172,50 @@ export const seoSilos = [
       {
         "slug": "senior-living-communities-in-pune-in-pcmc-region",
         "keyword": "Senior Living Communities in Pune in PCMC Region"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-for-nri-in-dubai",
+        "keyword": "Senior Living Communities in Pune for NRI in Dubai"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-for-nri-in-singapore",
+        "keyword": "Senior Living Communities in Pune for NRI in Singapore"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-for-nri-in-london",
+        "keyword": "Senior Living Communities in Pune for NRI in London"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-for-nri-in-new-york",
+        "keyword": "Senior Living Communities in Pune for NRI in New York"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-for-nri-in-san-francisco",
+        "keyword": "Senior Living Communities in Pune for NRI in San Francisco"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-for-nri-in-sydney",
+        "keyword": "Senior Living Communities in Pune for NRI in Sydney"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-for-nri-in-melbourne",
+        "keyword": "Senior Living Communities in Pune for NRI in Melbourne"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-for-nri-in-toronto",
+        "keyword": "Senior Living Communities in Pune for NRI in Toronto"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-for-nri-in-qatar",
+        "keyword": "Senior Living Communities in Pune for NRI in Qatar"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-for-nri-in-kuwait",
+        "keyword": "Senior Living Communities in Pune for NRI in Kuwait"
+      },
+      {
+        "slug": "senior-living-communities-in-pune-for-nri-in-bahrain",
+        "keyword": "Senior Living Communities in Pune for NRI in Bahrain"
       }
     ]
   }

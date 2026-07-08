@@ -56,7 +56,20 @@ const locations = [
   { id: 'pune-west', name: 'West Pune', desc: 'West Pune is the ultimate destination for luxury real estate, IT parks, and high ROI investments.' },
   { id: 'pune-east', name: 'East Pune', desc: 'East Pune features rapidly growing IT hubs and premium residential townships.' },
   { id: 'pune-city', name: 'Pune City', desc: 'Explore the finest real estate opportunities across Pune, from luxury apartments to premium townships.' },
-  { id: 'pcmc-region', name: 'PCMC Region', desc: 'Pimpri-Chinchwad is the industrial powerhouse driving massive real estate demand.' }
+  { id: 'pcmc-region', name: 'PCMC Region', desc: 'Pimpri-Chinchwad is the industrial powerhouse driving massive real estate demand.' },
+
+  // Global NRI Hubs (Targeting "across the globe")
+  { id: 'dubai', name: 'Dubai', desc: 'Premium Pune real estate investment opportunities for NRI investors in Dubai, UAE.' },
+  { id: 'singapore', name: 'Singapore', desc: 'High ROI Pune luxury apartments and townships for NRI investors based in Singapore.' },
+  { id: 'london', name: 'London', desc: 'Secure high-yield real estate investments in Pune from London, UK.' },
+  { id: 'new-york', name: 'New York', desc: 'Exclusive Pune property investment portfolios for NRI buyers in New York, USA.' },
+  { id: 'san-francisco', name: 'San Francisco', desc: 'Premium IT-hub adjacent Pune real estate for tech professionals in San Francisco Bay Area.' },
+  { id: 'sydney', name: 'Sydney', desc: 'Top-tier Pune residential townships for NRI investors in Sydney, Australia.' },
+  { id: 'melbourne', name: 'Melbourne', desc: 'Invest in Pune\'s rapidly appreciating real estate market from Melbourne, Australia.' },
+  { id: 'toronto', name: 'Toronto', desc: 'Lucrative Pune real estate opportunities for NRI investors based in Toronto, Canada.' },
+  { id: 'qatar', name: 'Qatar', desc: 'Premium Pune luxury properties and townships for NRI investors in Qatar.' },
+  { id: 'kuwait', name: 'Kuwait', desc: 'High-return Pune real estate investments designed for NRI buyers in Kuwait.' },
+  { id: 'bahrain', name: 'Bahrain', desc: 'Exclusive Pune property investments for NRI buyers located in Bahrain.' }
 ];
 
 const projects = [
@@ -141,22 +154,30 @@ const generateSlug = (str) => {
 
 const silos = [];
 
+const globalHubs = ['dubai', 'singapore', 'london', 'new-york', 'san-francisco', 'sydney', 'melbourne', 'toronto', 'qatar', 'kuwait', 'bahrain'];
+
 // 1. Generate Location-Based Silos (e.g., "Luxury Apartments in Mahalunge")
 locations.forEach(loc => {
+  const isGlobal = globalHubs.includes(loc.id);
+  
   const slugs = categories.map(cat => {
-    const keyword = `${cat.prefix} ${loc.name}`;
+    const keyword = isGlobal 
+      ? `Pune ${cat.suffix} for NRI in ${loc.name}` 
+      : `${cat.prefix} ${loc.name}`;
     return { slug: generateSlug(keyword), keyword };
   });
   
   // Add reverse combinations (e.g., "Mahalunge Luxury Apartments")
   categories.forEach(cat => {
-    const keyword = `${loc.name} ${cat.suffix}`;
+    const keyword = isGlobal
+      ? `${loc.name} NRI Investors for Pune ${cat.suffix}`
+      : `${loc.name} ${cat.suffix}`;
     slugs.push({ slug: generateSlug(keyword), keyword });
   });
 
   silos.push({
     id: `location-${loc.id}`,
-    title: `${loc.name} Real Estate & Properties`,
+    title: isGlobal ? `Pune Real Estate for NRI in ${loc.name}` : `${loc.name} Real Estate & Properties`,
     description: loc.desc,
     slugs: slugs
   });
@@ -216,7 +237,10 @@ const themes = [
 
 themes.forEach(theme => {
   const slugs = locations.map(loc => {
-    const keyword = `${theme.name} in ${loc.name}`;
+    const isGlobal = globalHubs.includes(loc.id);
+    const keyword = isGlobal 
+      ? `${theme.name} for NRI in ${loc.name}` 
+      : `${theme.name} in ${loc.name}`;
     return { slug: generateSlug(keyword), keyword };
   });
   
