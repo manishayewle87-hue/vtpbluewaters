@@ -106,10 +106,9 @@ export default function StickyEnquiryWidget() {
                 };
                 
                 try {
-                  await fetch('https://script.google.com/macros/s/AKfycbwp_ZU6sB-N8cqRgcb2rdb5y7oYFlkEHs8raExrNvGBgPC4t_aEwRlnlS4scX-r4iPrqA/exec', {
+                  const res = await fetch('/api/contact', {
                     method: 'POST',
-                    mode: 'no-cors',
-                    headers: { 'Content-Type': 'text/plain;charset=utf-8' },
+                    headers: { 'Content-Type': 'application/json' },
                     body: JSON.stringify({
                       subject: `🚨 Sticky Widget Lead: ${data.name || 'Visitor'}`,
                       from_name: 'VTP Bluewaters Leads',
@@ -118,14 +117,17 @@ export default function StickyEnquiryWidget() {
                     }),
                   });
                   
-                  if (typeof window !== 'undefined' && window.gtag) {
-                    window.gtag('event', 'generate_lead', {
-                      currency: 'INR',
-                      value: 10000000,
-                      form_source: 'Sticky Widget'
-                    });
+                  const responseData = await res.json();
+                  if (responseData.success) {
+                    if (typeof window !== 'undefined' && window.gtag) {
+                      window.gtag('event', 'generate_lead', {
+                        currency: 'INR',
+                        value: 10000000,
+                        form_source: 'Sticky Widget'
+                      });
+                    }
+                    setIsOpen(false);
                   }
-                  setIsOpen(false);
                 } catch (err) {
                   console.error(err);
                 }

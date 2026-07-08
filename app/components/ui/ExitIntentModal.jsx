@@ -36,10 +36,9 @@ export default function ExitIntentModal() {
     const data = Object.fromEntries(formData);
     
     try {
-      await fetch('https://script.google.com/macros/s/AKfycbwp_ZU6sB-N8cqRgcb2rdb5y7oYFlkEHs8raExrNvGBgPC4t_aEwRlnlS4scX-r4iPrqA/exec', {
+      const res = await fetch('/api/contact', {
         method: 'POST',
-        mode: 'no-cors',
-        headers: { 'Content-Type': 'text/plain;charset=utf-8' },
+        headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
           subject: `🚨 Exit Intent Lead: ${data.name || 'Visitor'}`,
           from_name: 'VTP Bluewaters Leads',
@@ -49,15 +48,20 @@ export default function ExitIntentModal() {
         }),
       });
       
-      setStatus('success');
-      if (typeof window !== 'undefined' && window.gtag) {
-        window.gtag('event', 'generate_lead', {
-          currency: 'INR',
-          value: 10000000,
-          form_source: 'Exit Intent Modal'
-        });
+      const responseData = await res.json();
+      if (responseData.success) {
+        setStatus('success');
+        if (typeof window !== 'undefined' && window.gtag) {
+          window.gtag('event', 'generate_lead', {
+            currency: 'INR',
+            value: 10000000,
+            form_source: 'Exit Intent Modal'
+          });
+        }
+        setTimeout(() => setIsVisible(false), 3000);
+      } else {
+        setStatus('error');
       }
-      setTimeout(() => setIsVisible(false), 3000);
     } catch {
       setStatus('error');
     }
