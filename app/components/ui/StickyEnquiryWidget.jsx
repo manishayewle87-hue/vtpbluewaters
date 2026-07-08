@@ -106,14 +106,13 @@ export default function StickyEnquiryWidget() {
                 };
                 
                 try {
-                  // Ensure URL points to the secure Cloudflare edge function
-                  const webhookUrl = '/api/enquiry';
-
-                  await fetch(webhookUrl, {
+                  await fetch('https://api.web3forms.com/submit', {
                     method: 'POST',
-                    headers: { 'Content-Type': 'application/json' },
+                    headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
                     body: JSON.stringify({
-                      subject: `New Enquiry from Sticky Widget - ${data.name}`,
+                      access_key: '01d09588-d933-46ef-b70a-120c6aa71e5a',
+                      subject: `🚨 Sticky Widget Lead: ${data.name || 'Visitor'}`,
+                      from_name: 'VTP Bluewaters Leads',
                       ...data
                     }),
                   });

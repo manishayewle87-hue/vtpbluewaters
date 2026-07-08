@@ -42,16 +42,15 @@ export default function EnquiryForm({ projectName, customTitle, inline = false }
       // Get reCAPTCHA token
       const token = await executeRecaptcha('enquiry_form');
 
-      // Ensure URL points to the secure Cloudflare edge function
-      const webhookUrl = '/api/enquiry';
-
-      const res = await fetch(webhookUrl, {
+      const res = await fetch('https://api.web3forms.com/submit', {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
         body: JSON.stringify({ 
+          access_key: '01d09588-d933-46ef-b70a-120c6aa71e5a',
+          subject: `🚨 New Lead: ${formData.name} — ${projectName || 'VTP Bluewaters'}`,
+          from_name: 'VTP Bluewaters Leads',
           ...formData,
-          project: projectName || 'VTP Bluewaters',
-          recaptchaToken: token
+          project: projectName || 'VTP Bluewaters'
         })
       });
       const data = await res.json();
