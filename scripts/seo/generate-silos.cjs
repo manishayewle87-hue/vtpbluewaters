@@ -113,7 +113,21 @@ const projects = [
   // South & Central Projects
   { id: 'vtp-celesta', name: 'VTP Celesta', desc: 'VTP Celesta in NIBM brings premium luxury living to South Pune.' },
   { id: 'vtp-urban-nest', name: 'VTP Urban Nest', desc: 'VTP Urban Nest provides modern, family-centric homes in Undri.' },
-  { id: 'vtp-skylights', name: 'VTP Skylights', desc: 'VTP Skylights offers a massive, integrated township experience with premium lifestyle amenities.' }
+  { id: 'vtp-skylights', name: 'VTP Skylights', desc: 'VTP Skylights offers a massive, integrated township experience with premium lifestyle amenities.' },
+
+  // Commercial Projects
+  { id: 'vtp-kp-square', name: 'VTP KP Square', desc: 'VTP KP Square is the premier commercial and retail destination in Chinchwad.' },
+  { id: 'vtp-navu-square', name: 'VTP Navu Square', desc: 'VTP Navu Square offers prime commercial office spaces and retail shops.' },
+  { id: 'vtp-high-street', name: 'VTP High Street', desc: 'VTP High Street is the ultimate destination for premium retail and commercial investments.' },
+  { id: 'vtp-marketplace', name: 'VTP Marketplace', desc: 'VTP Marketplace offers high-footfall retail spaces for businesses.' },
+  { id: 'vtp-trade-park', name: 'VTP Trade Park', desc: 'VTP Trade Park is designed for modern businesses looking for world-class office spaces.' },
+
+  // Legacy & Completed Residential Projects
+  { id: 'vtp-urban-space', name: 'VTP Urban Space', desc: 'VTP Urban Space offers beautifully designed completed homes.' },
+  { id: 'vtp-urban-balance', name: 'VTP Urban Balance', desc: 'VTP Urban Balance provides a perfect blend of luxury and tranquility.' },
+  { id: 'vtp-one', name: 'VTP One', desc: 'VTP One is a signature residential development known for its premium quality.' },
+  { id: 'vtp-bhagyasthan', name: 'VTP Bhagyasthan', desc: 'VTP Bhagyasthan offers excellent community living and modern amenities.' },
+  { id: 'vtp-hilife', name: 'VTP Hilife', desc: 'VTP Hilife in Dange Chowk brings vibrant and premium living to West Pune.' }
 ];
 
 const categories = [
