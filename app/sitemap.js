@@ -2,7 +2,6 @@ import { cms } from '@/app/services/cms';
 import { PUNE_MICRO_MARKETS } from './services/locationEngine';
 import { seoSilos } from '@/app/data/seo-silos';
 
-export const runtime = 'edge';
 
 const CHUNK_SIZE = 4000;
 const baseUrl = 'https://vtpbluewaters.com';

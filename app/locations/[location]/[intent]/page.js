@@ -181,5 +181,3 @@ export default async function LocationIntentDetail({   params }) {
   );
 }
 
-
-export const runtime = 'edge';

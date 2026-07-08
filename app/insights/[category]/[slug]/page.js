@@ -68,5 +68,3 @@ export default async function InsightPage({   params }) {
   );
 }
 
-
-export const runtime = 'edge';
