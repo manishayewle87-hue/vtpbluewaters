@@ -68,6 +68,3 @@ export default async function InsightPage({   params }) {
   );
 }
 
-    }
-  return params;
-}

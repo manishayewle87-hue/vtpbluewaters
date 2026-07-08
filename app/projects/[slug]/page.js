@@ -224,5 +224,3 @@ export default async function ProjectDetail({   params }) {
   );
 }
 
-  return params;
-}

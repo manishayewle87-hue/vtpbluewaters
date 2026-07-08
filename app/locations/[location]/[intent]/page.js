@@ -181,6 +181,3 @@ export default async function LocationIntentDetail({   params }) {
   );
 }
 
-    }
-  return params;
-}

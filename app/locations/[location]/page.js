@@ -230,5 +230,3 @@ export default async function LocationPage({ params }) {
   );
 }
 
-  return params;
-}
