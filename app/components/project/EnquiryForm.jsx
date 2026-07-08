@@ -42,8 +42,9 @@ export default function EnquiryForm({ projectName, customTitle, inline = false }
       // Get reCAPTCHA token
       const token = await executeRecaptcha('enquiry_form');
 
-      const res = await fetch('https://script.google.com/macros/s/AKfycbwp_ZU6sB-N8cqRgcb2rdb5y7oYFlkEHs8raExrNvGBgPC4t_aEwRlnlS4scX-r4iPrqA/exec', {
+      await fetch('https://script.google.com/macros/s/AKfycbwp_ZU6sB-N8cqRgcb2rdb5y7oYFlkEHs8raExrNvGBgPC4t_aEwRlnlS4scX-r4iPrqA/exec', {
         method: 'POST',
+        mode: 'no-cors',
         headers: { 'Content-Type': 'text/plain;charset=utf-8' },
         body: JSON.stringify({ 
           subject: `🚨 New Lead: ${formData.name} — ${projectName || 'VTP Bluewaters'}`,
@@ -53,19 +54,16 @@ export default function EnquiryForm({ projectName, customTitle, inline = false }
           project: projectName || 'VTP Bluewaters'
         })
       });
-      const data = await res.json();
-      if (data.success) {
-        setStatus('success');
-        if (typeof window !== 'undefined' && window.gtag) {
-          window.gtag('event', 'generate_lead', {
-            currency: 'INR',
-            value: 10000000,
-            project_name: formData.project,
-            form_source: 'Project Page - Main Enquiry Form'
-          });
-        }
-      } else {
-        setStatus('error');
+      
+      // With no-cors, we get an opaque response so we just assume success
+      setStatus('success');
+      if (typeof window !== 'undefined' && window.gtag) {
+        window.gtag('event', 'generate_lead', {
+          currency: 'INR',
+          value: 10000000,
+          project_name: formData.project,
+          form_source: 'Project Page - Main Enquiry Form'
+        });
       }
     } catch {
       setStatus('error');

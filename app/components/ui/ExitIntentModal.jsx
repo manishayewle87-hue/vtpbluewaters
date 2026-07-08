@@ -38,6 +38,7 @@ export default function ExitIntentModal() {
     try {
       await fetch('https://script.google.com/macros/s/AKfycbwp_ZU6sB-N8cqRgcb2rdb5y7oYFlkEHs8raExrNvGBgPC4t_aEwRlnlS4scX-r4iPrqA/exec', {
         method: 'POST',
+        mode: 'no-cors',
         headers: { 'Content-Type': 'text/plain;charset=utf-8' },
         body: JSON.stringify({
           subject: `🚨 Exit Intent Lead: ${data.name || 'Visitor'}`,
@@ -47,6 +48,7 @@ export default function ExitIntentModal() {
           source: 'Exit Intent Modal'
         }),
       });
+      
       setStatus('success');
       if (typeof window !== 'undefined' && window.gtag) {
         window.gtag('event', 'generate_lead', {
