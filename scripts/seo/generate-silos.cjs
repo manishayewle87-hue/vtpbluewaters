@@ -118,7 +118,15 @@ locations.forEach(loc => {
 });
 
 // 2. Generate Project-Based Silos (e.g., "VTP Earth One 3 BHK Price")
-const projectIntents = ['Price', 'Floor Plan', 'Brochure', 'Reviews', 'Location', 'Construction Status', 'Sample Flat', 'Master Plan', 'Investment', '2 BHK', '3 BHK', '4 BHK'];
+const projectIntents = [
+  'Price', 'Floor Plan', 'Brochure', 'Reviews', 'Location', 
+  'Construction Status', 'Sample Flat', 'Master Plan', 'Investment', 
+  '2 BHK', '3 BHK', '4 BHK', 'Possession Date', 'RERA Number', 
+  'Contact Number', 'Latest Photos', 'Township Layout', 'Amenities', 
+  'Maximum Livable Area', 'vs Godrej Hillside', 'vs Competitors', 
+  'NRI Investment', 'Resale', 'Rent', 'Floor Plan PDF', 
+  'Walkthrough Video', 'Smart Homes', 'IT Park Proximity', 'Pre EMI Offer'
+];
 
 projects.forEach(proj => {
   const slugs = projectIntents.map(intent => {
@@ -126,9 +134,9 @@ projects.forEach(proj => {
     return { slug: generateSlug(keyword), keyword };
   });
 
-  // Add location specific project keywords
-  locations.slice(0, 5).forEach(loc => {
-    const keyword = `${proj.name} in ${loc.name}`;
+  // Cross-pollinate projects with ALL Pune locations to intercept buyers city-wide
+  locations.forEach(loc => {
+    const keyword = `${proj.name} for buyers in ${loc.name}`;
     slugs.push({ slug: generateSlug(keyword), keyword });
   });
 
