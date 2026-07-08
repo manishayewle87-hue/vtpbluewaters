@@ -36,11 +36,10 @@ export default function ExitIntentModal() {
     const data = Object.fromEntries(formData);
     
     try {
-      await fetch('https://api.web3forms.com/submit', {
+      await fetch(process.env.NEXT_PUBLIC_GAS_MAILER_URL, {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+        headers: { 'Content-Type': 'text/plain;charset=utf-8' },
         body: JSON.stringify({
-          access_key: '01d09588-d933-46ef-b70a-120c6aa71e5a',
           subject: `🚨 Exit Intent Lead: ${data.name || 'Visitor'}`,
           from_name: 'VTP Bluewaters Leads',
           replyto: data.email,

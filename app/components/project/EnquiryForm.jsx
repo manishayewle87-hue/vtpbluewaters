@@ -42,11 +42,10 @@ export default function EnquiryForm({ projectName, customTitle, inline = false }
       // Get reCAPTCHA token
       const token = await executeRecaptcha('enquiry_form');
 
-      const res = await fetch('https://api.web3forms.com/submit', {
+      const res = await fetch(process.env.NEXT_PUBLIC_GAS_MAILER_URL, {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+        headers: { 'Content-Type': 'text/plain;charset=utf-8' },
         body: JSON.stringify({ 
-          access_key: '01d09588-d933-46ef-b70a-120c6aa71e5a',
           subject: `🚨 New Lead: ${formData.name} — ${projectName || 'VTP Bluewaters'}`,
           from_name: 'VTP Bluewaters Leads',
           replyto: formData.email,
