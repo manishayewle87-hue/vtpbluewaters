@@ -1,8 +1,10 @@
 'use client';
 import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
+import { useGoogleReCaptcha } from 'react-google-recaptcha-v3';
 
 export default function StickyEnquiryWidget() {
+  const { executeRecaptcha } = useGoogleReCaptcha();
   const [isOpen, setIsOpen] = useState(false);
   const [isHovered, setIsHovered] = useState(false);
 
@@ -97,6 +99,12 @@ export default function StickyEnquiryWidget() {
 
               <form className="space-y-5" onSubmit={async (e) => {
                 e.preventDefault();
+                if (!executeRecaptcha) {
+                  console.warn('Recaptcha not ready');
+                  return;
+                }
+                const recaptchaToken = await executeRecaptcha('sticky_enquiry');
+
                 const formData = new FormData(e.target);
                 const data = {
                   name: formData.get('name'),
@@ -113,6 +121,7 @@ export default function StickyEnquiryWidget() {
                       subject: `🚨 Sticky Widget Lead: ${data.name || 'Visitor'}`,
                       from_name: 'VTP Bluewaters Leads',
                       replyto: data.email,
+                      recaptchaToken,
                       ...data
                     }),
                   });

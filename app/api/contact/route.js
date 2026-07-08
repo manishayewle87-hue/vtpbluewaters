@@ -6,8 +6,26 @@ export async function POST(request) {
     const data = await request.json();
     
     // Validate required environment variables
-    if (!process.env.EMAIL_PASS) {
-      console.error("EMAIL_PASS environment variable is missing.");
+    if (!process.env.EMAIL_PASS || !process.env.RECAPTCHA_SECRET_KEY) {
+      console.error("Critical environment variables missing (EMAIL_PASS or RECAPTCHA_SECRET_KEY).");
+      return NextResponse.json({ success: false, error: "Server configuration error." }, { status: 500 });
+    }
+
+    // Server-Side reCAPTCHA Validation
+    if (!data.recaptchaToken) {
+      return NextResponse.json({ success: false, error: "Missing reCAPTCHA token." }, { status: 400 });
+    }
+
+    const verifyRes = await fetch('https://www.google.com/recaptcha/api/siteverify', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+      body: `secret=${process.env.RECAPTCHA_SECRET_KEY}&response=${data.recaptchaToken}`,
+    });
+
+    const verifyData = await verifyRes.json();
+    if (!verifyData.success || verifyData.score < 0.5) {
+      console.error("reCAPTCHA validation failed:", verifyData);
+      return NextResponse.json({ success: false, error: "Bot activity detected." }, { status: 403 });
     }
 
     const transporter = nodemailer.createTransport({

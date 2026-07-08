@@ -50,7 +50,8 @@ export default function EnquiryForm({ projectName, customTitle, inline = false }
           from_name: 'VTP Bluewaters Leads',
           replyto: formData.email,
           ...formData,
-          project: projectName || 'VTP Bluewaters'
+          project: projectName || 'VTP Bluewaters',
+          recaptchaToken: token
         })
       });
       

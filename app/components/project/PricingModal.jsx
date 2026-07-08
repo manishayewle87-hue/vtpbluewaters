@@ -1,15 +1,25 @@
 'use client';
 import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
+import { useGoogleReCaptcha } from 'react-google-recaptcha-v3';
 
 export default function PricingModal({ isOpen, onClose, planType, projectName }) {
+  const { executeRecaptcha } = useGoogleReCaptcha();
   const [formState, setFormState] = useState({ name: '', phone: '' });
   const [status, setStatus] = useState('idle'); // idle | loading | success | error
 
   const handleSubmit = async (e) => {
     e.preventDefault();
     setStatus('loading');
+    
+    if (!executeRecaptcha) {
+      console.warn('Recaptcha not available');
+      setStatus('error');
+      return;
+    }
+    
     try {
+      const recaptchaToken = await executeRecaptcha('pricing_modal');
       const res = await fetch('/api/contact', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
@@ -19,6 +29,7 @@ export default function PricingModal({ isOpen, onClose, planType, projectName })
           project: projectName,
           configuration: planType,
           message: `Pricing request for ${planType}`,
+          recaptchaToken,
         }),
       });
       const data = await res.json();

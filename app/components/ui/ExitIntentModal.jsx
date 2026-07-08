@@ -1,8 +1,10 @@
 'use client';
 import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
+import { useGoogleReCaptcha } from 'react-google-recaptcha-v3';
 
 export default function ExitIntentModal() {
+  const { executeRecaptcha } = useGoogleReCaptcha();
   const [isVisible, setIsVisible] = useState(false);
   const [hasTriggered, setHasTriggered] = useState(false);
   const [status, setStatus] = useState('idle');
@@ -32,10 +34,17 @@ export default function ExitIntentModal() {
     e.preventDefault();
     setStatus('loading');
     
+    if (!executeRecaptcha) {
+      console.warn('Recaptcha not ready');
+      setStatus('error');
+      return;
+    }
+
     const formData = new FormData(e.target);
     const data = Object.fromEntries(formData);
     
     try {
+      const recaptchaToken = await executeRecaptcha('exit_intent');
       const res = await fetch('/api/contact', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
@@ -44,7 +53,8 @@ export default function ExitIntentModal() {
           from_name: 'VTP Bluewaters Leads',
           replyto: data.email,
           ...data,
-          source: 'Exit Intent Modal'
+          source: 'Exit Intent Modal',
+          recaptchaToken,
         }),
       });
       
