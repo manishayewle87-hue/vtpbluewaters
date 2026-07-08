@@ -110,10 +110,19 @@ export default async function SeoLandingPage({   params }) {
 }
 
 export async function generateStaticParams() {
+  const { seoSilos } = require('@/app/data/seo-silos');
   const slugs = ['virtual-tour', 'gallery', 'masterplan'];
+  
+  // Inject massive programmatic SEO silos
+  seoSilos.forEach(silo => {
+    silo.slugs.forEach(s => {
+      slugs.push(s.slug);
+    });
+  });
+
   const params = [];
   for (const slug of slugs) {
       params.push({ slug });
-    }
+  }
   return params;
 }

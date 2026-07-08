@@ -32,15 +32,17 @@ export const cms = {
    * Fetch all blogs
    */
   async getAllBlogs() {
-    // Return all articles from articles.json, sorted by date (if applicable)
-    return articlesData.sort((a, b) => new Date(b.createdAt || 0) - new Date(a.createdAt || 0));
+    // Merge manually written articles with programmatic articles
+    const allBlogs = [...articlesData, ...contentHubData.blogs];
+    return allBlogs.sort((a, b) => new Date(b.createdAt || 0) - new Date(a.createdAt || 0));
   },
 
   /**
    * Fetch a single blog by slug
    */
   async getBlogBySlug(slug) {
-    const blog = articlesData.find(b => b.slug === slug);
+    const allBlogs = [...articlesData, ...contentHubData.blogs];
+    const blog = allBlogs.find(b => b.slug === slug);
     return blog || null;
   },
 

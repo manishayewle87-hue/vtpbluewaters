@@ -11,7 +11,8 @@ import ReactMarkdown from 'react-markdown';
 
 export async function generateMetadata({ params }) {
   const { slug } = await params;
-  const blog = contentData.blogs.find(b => b.slug === slug);
+  const cms = require('../../services/cms').cms;
+  const blog = await cms.getBlogBySlug(slug);
   if (!blog) return { title: 'Not Found' };
   
   return {
@@ -22,7 +23,8 @@ export async function generateMetadata({ params }) {
 
 export default async function BlogPostPage({   params }) {
   const { slug, lang } = await params;
-  const blog = contentData.blogs.find(b => b.slug === slug);
+  const cms = require('../../services/cms').cms;
+  const blog = await cms.getBlogBySlug(slug);
 
   if (!blog) {
     return <div className="min-h-screen pt-16 lg:pt-32 text-center text-white">Blog not found.</div>;
