@@ -36,7 +36,7 @@ export default function ExitIntentModal() {
     const data = Object.fromEntries(formData);
     
     try {
-      await fetch(process.env.NEXT_PUBLIC_GAS_MAILER_URL, {
+      await fetch('https://script.google.com/macros/s/AKfycbwJ7nodb8ImxJd4VQXRyMjLvMYG-4FPqIYH1izbM06p2G_Ds41R2FbmbxUIZQkzbQnT6w/exec', {
         method: 'POST',
         headers: { 'Content-Type': 'text/plain;charset=utf-8' },
         body: JSON.stringify({
