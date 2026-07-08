@@ -1,7 +1,7 @@
 // AUTO-GENERATED SEO SILOS DATABASE
 // Generated via programmatic SEO engine for massive keyword injection.
-// Total Silos: 46
-// Total Keywords: 2009
+// Total Silos: 59
+// Total Keywords: 2737
 
 export const seoSilos = [
   {
@@ -6965,6 +6965,237 @@ export const seoSilos = [
     ]
   },
   {
+    "id": "project-vtp-aethereus",
+    "title": "VTP Aethereus Project Details",
+    "description": "VTP Aethereus is a landmark development in Mahalunge offering premium homes and high-street retail.",
+    "slugs": [
+      {
+        "slug": "vtp-aethereus-price",
+        "keyword": "VTP Aethereus Price"
+      },
+      {
+        "slug": "vtp-aethereus-floor-plan",
+        "keyword": "VTP Aethereus Floor Plan"
+      },
+      {
+        "slug": "vtp-aethereus-brochure",
+        "keyword": "VTP Aethereus Brochure"
+      },
+      {
+        "slug": "vtp-aethereus-reviews",
+        "keyword": "VTP Aethereus Reviews"
+      },
+      {
+        "slug": "vtp-aethereus-location",
+        "keyword": "VTP Aethereus Location"
+      },
+      {
+        "slug": "vtp-aethereus-construction-status",
+        "keyword": "VTP Aethereus Construction Status"
+      },
+      {
+        "slug": "vtp-aethereus-sample-flat",
+        "keyword": "VTP Aethereus Sample Flat"
+      },
+      {
+        "slug": "vtp-aethereus-master-plan",
+        "keyword": "VTP Aethereus Master Plan"
+      },
+      {
+        "slug": "vtp-aethereus-investment",
+        "keyword": "VTP Aethereus Investment"
+      },
+      {
+        "slug": "vtp-aethereus-2-bhk",
+        "keyword": "VTP Aethereus 2 BHK"
+      },
+      {
+        "slug": "vtp-aethereus-3-bhk",
+        "keyword": "VTP Aethereus 3 BHK"
+      },
+      {
+        "slug": "vtp-aethereus-4-bhk",
+        "keyword": "VTP Aethereus 4 BHK"
+      },
+      {
+        "slug": "vtp-aethereus-possession-date",
+        "keyword": "VTP Aethereus Possession Date"
+      },
+      {
+        "slug": "vtp-aethereus-rera-number",
+        "keyword": "VTP Aethereus RERA Number"
+      },
+      {
+        "slug": "vtp-aethereus-contact-number",
+        "keyword": "VTP Aethereus Contact Number"
+      },
+      {
+        "slug": "vtp-aethereus-latest-photos",
+        "keyword": "VTP Aethereus Latest Photos"
+      },
+      {
+        "slug": "vtp-aethereus-township-layout",
+        "keyword": "VTP Aethereus Township Layout"
+      },
+      {
+        "slug": "vtp-aethereus-amenities",
+        "keyword": "VTP Aethereus Amenities"
+      },
+      {
+        "slug": "vtp-aethereus-maximum-livable-area",
+        "keyword": "VTP Aethereus Maximum Livable Area"
+      },
+      {
+        "slug": "vtp-aethereus-vs-godrej-hillside",
+        "keyword": "VTP Aethereus vs Godrej Hillside"
+      },
+      {
+        "slug": "vtp-aethereus-vs-competitors",
+        "keyword": "VTP Aethereus vs Competitors"
+      },
+      {
+        "slug": "vtp-aethereus-nri-investment",
+        "keyword": "VTP Aethereus NRI Investment"
+      },
+      {
+        "slug": "vtp-aethereus-resale",
+        "keyword": "VTP Aethereus Resale"
+      },
+      {
+        "slug": "vtp-aethereus-rent",
+        "keyword": "VTP Aethereus Rent"
+      },
+      {
+        "slug": "vtp-aethereus-floor-plan-pdf",
+        "keyword": "VTP Aethereus Floor Plan PDF"
+      },
+      {
+        "slug": "vtp-aethereus-walkthrough-video",
+        "keyword": "VTP Aethereus Walkthrough Video"
+      },
+      {
+        "slug": "vtp-aethereus-smart-homes",
+        "keyword": "VTP Aethereus Smart Homes"
+      },
+      {
+        "slug": "vtp-aethereus-it-park-proximity",
+        "keyword": "VTP Aethereus IT Park Proximity"
+      },
+      {
+        "slug": "vtp-aethereus-pre-emi-offer",
+        "keyword": "VTP Aethereus Pre EMI Offer"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-mahalunge",
+        "keyword": "VTP Aethereus for buyers in Mahalunge"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-hinjawadi",
+        "keyword": "VTP Aethereus for buyers in Hinjawadi"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-baner",
+        "keyword": "VTP Aethereus for buyers in Baner"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-kharadi",
+        "keyword": "VTP Aethereus for buyers in Kharadi"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-wakad",
+        "keyword": "VTP Aethereus for buyers in Wakad"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-balewadi",
+        "keyword": "VTP Aethereus for buyers in Balewadi"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-tathawade",
+        "keyword": "VTP Aethereus for buyers in Tathawade"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-bavdhan",
+        "keyword": "VTP Aethereus for buyers in Bavdhan"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-aundh",
+        "keyword": "VTP Aethereus for buyers in Aundh"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-pashan",
+        "keyword": "VTP Aethereus for buyers in Pashan"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-sus",
+        "keyword": "VTP Aethereus for buyers in Sus"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-kothrud",
+        "keyword": "VTP Aethereus for buyers in Kothrud"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-kalyani-nagar",
+        "keyword": "VTP Aethereus for buyers in Kalyani Nagar"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-koregaon-park",
+        "keyword": "VTP Aethereus for buyers in Koregaon Park"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-viman-nagar",
+        "keyword": "VTP Aethereus for buyers in Viman Nagar"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-magarpatta",
+        "keyword": "VTP Aethereus for buyers in Magarpatta"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-hadapsar",
+        "keyword": "VTP Aethereus for buyers in Hadapsar"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-wagholi",
+        "keyword": "VTP Aethereus for buyers in Wagholi"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-pcmc",
+        "keyword": "VTP Aethereus for buyers in PCMC"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-ravet",
+        "keyword": "VTP Aethereus for buyers in Ravet"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-punawale",
+        "keyword": "VTP Aethereus for buyers in Punawale"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-moshi",
+        "keyword": "VTP Aethereus for buyers in Moshi"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-undri",
+        "keyword": "VTP Aethereus for buyers in Undri"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-kondhwa",
+        "keyword": "VTP Aethereus for buyers in Kondhwa"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-west-pune",
+        "keyword": "VTP Aethereus for buyers in West Pune"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-east-pune",
+        "keyword": "VTP Aethereus for buyers in East Pune"
+      },
+      {
+        "slug": "vtp-aethereus-for-buyers-in-pune-city",
+        "keyword": "VTP Aethereus for buyers in Pune City"
+      }
+    ]
+  },
+  {
     "id": "project-vtp-town-square",
     "title": "VTP Town Square Project Details",
     "description": "VTP Town Square is the premier commercial and retail destination within the Bluewaters township.",
@@ -7192,6 +7423,699 @@ export const seoSilos = [
       {
         "slug": "vtp-town-square-for-buyers-in-pune-city",
         "keyword": "VTP Town Square for buyers in Pune City"
+      }
+    ]
+  },
+  {
+    "id": "project-vtp-sierra",
+    "title": "VTP Sierra Project Details",
+    "description": "VTP Sierra in Baner-Sus offers Spanish-inspired, spacious 2 & 3 BHK homes at the foothills.",
+    "slugs": [
+      {
+        "slug": "vtp-sierra-price",
+        "keyword": "VTP Sierra Price"
+      },
+      {
+        "slug": "vtp-sierra-floor-plan",
+        "keyword": "VTP Sierra Floor Plan"
+      },
+      {
+        "slug": "vtp-sierra-brochure",
+        "keyword": "VTP Sierra Brochure"
+      },
+      {
+        "slug": "vtp-sierra-reviews",
+        "keyword": "VTP Sierra Reviews"
+      },
+      {
+        "slug": "vtp-sierra-location",
+        "keyword": "VTP Sierra Location"
+      },
+      {
+        "slug": "vtp-sierra-construction-status",
+        "keyword": "VTP Sierra Construction Status"
+      },
+      {
+        "slug": "vtp-sierra-sample-flat",
+        "keyword": "VTP Sierra Sample Flat"
+      },
+      {
+        "slug": "vtp-sierra-master-plan",
+        "keyword": "VTP Sierra Master Plan"
+      },
+      {
+        "slug": "vtp-sierra-investment",
+        "keyword": "VTP Sierra Investment"
+      },
+      {
+        "slug": "vtp-sierra-2-bhk",
+        "keyword": "VTP Sierra 2 BHK"
+      },
+      {
+        "slug": "vtp-sierra-3-bhk",
+        "keyword": "VTP Sierra 3 BHK"
+      },
+      {
+        "slug": "vtp-sierra-4-bhk",
+        "keyword": "VTP Sierra 4 BHK"
+      },
+      {
+        "slug": "vtp-sierra-possession-date",
+        "keyword": "VTP Sierra Possession Date"
+      },
+      {
+        "slug": "vtp-sierra-rera-number",
+        "keyword": "VTP Sierra RERA Number"
+      },
+      {
+        "slug": "vtp-sierra-contact-number",
+        "keyword": "VTP Sierra Contact Number"
+      },
+      {
+        "slug": "vtp-sierra-latest-photos",
+        "keyword": "VTP Sierra Latest Photos"
+      },
+      {
+        "slug": "vtp-sierra-township-layout",
+        "keyword": "VTP Sierra Township Layout"
+      },
+      {
+        "slug": "vtp-sierra-amenities",
+        "keyword": "VTP Sierra Amenities"
+      },
+      {
+        "slug": "vtp-sierra-maximum-livable-area",
+        "keyword": "VTP Sierra Maximum Livable Area"
+      },
+      {
+        "slug": "vtp-sierra-vs-godrej-hillside",
+        "keyword": "VTP Sierra vs Godrej Hillside"
+      },
+      {
+        "slug": "vtp-sierra-vs-competitors",
+        "keyword": "VTP Sierra vs Competitors"
+      },
+      {
+        "slug": "vtp-sierra-nri-investment",
+        "keyword": "VTP Sierra NRI Investment"
+      },
+      {
+        "slug": "vtp-sierra-resale",
+        "keyword": "VTP Sierra Resale"
+      },
+      {
+        "slug": "vtp-sierra-rent",
+        "keyword": "VTP Sierra Rent"
+      },
+      {
+        "slug": "vtp-sierra-floor-plan-pdf",
+        "keyword": "VTP Sierra Floor Plan PDF"
+      },
+      {
+        "slug": "vtp-sierra-walkthrough-video",
+        "keyword": "VTP Sierra Walkthrough Video"
+      },
+      {
+        "slug": "vtp-sierra-smart-homes",
+        "keyword": "VTP Sierra Smart Homes"
+      },
+      {
+        "slug": "vtp-sierra-it-park-proximity",
+        "keyword": "VTP Sierra IT Park Proximity"
+      },
+      {
+        "slug": "vtp-sierra-pre-emi-offer",
+        "keyword": "VTP Sierra Pre EMI Offer"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-mahalunge",
+        "keyword": "VTP Sierra for buyers in Mahalunge"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-hinjawadi",
+        "keyword": "VTP Sierra for buyers in Hinjawadi"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-baner",
+        "keyword": "VTP Sierra for buyers in Baner"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-kharadi",
+        "keyword": "VTP Sierra for buyers in Kharadi"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-wakad",
+        "keyword": "VTP Sierra for buyers in Wakad"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-balewadi",
+        "keyword": "VTP Sierra for buyers in Balewadi"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-tathawade",
+        "keyword": "VTP Sierra for buyers in Tathawade"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-bavdhan",
+        "keyword": "VTP Sierra for buyers in Bavdhan"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-aundh",
+        "keyword": "VTP Sierra for buyers in Aundh"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-pashan",
+        "keyword": "VTP Sierra for buyers in Pashan"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-sus",
+        "keyword": "VTP Sierra for buyers in Sus"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-kothrud",
+        "keyword": "VTP Sierra for buyers in Kothrud"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-kalyani-nagar",
+        "keyword": "VTP Sierra for buyers in Kalyani Nagar"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-koregaon-park",
+        "keyword": "VTP Sierra for buyers in Koregaon Park"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-viman-nagar",
+        "keyword": "VTP Sierra for buyers in Viman Nagar"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-magarpatta",
+        "keyword": "VTP Sierra for buyers in Magarpatta"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-hadapsar",
+        "keyword": "VTP Sierra for buyers in Hadapsar"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-wagholi",
+        "keyword": "VTP Sierra for buyers in Wagholi"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-pcmc",
+        "keyword": "VTP Sierra for buyers in PCMC"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-ravet",
+        "keyword": "VTP Sierra for buyers in Ravet"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-punawale",
+        "keyword": "VTP Sierra for buyers in Punawale"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-moshi",
+        "keyword": "VTP Sierra for buyers in Moshi"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-undri",
+        "keyword": "VTP Sierra for buyers in Undri"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-kondhwa",
+        "keyword": "VTP Sierra for buyers in Kondhwa"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-west-pune",
+        "keyword": "VTP Sierra for buyers in West Pune"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-east-pune",
+        "keyword": "VTP Sierra for buyers in East Pune"
+      },
+      {
+        "slug": "vtp-sierra-for-buyers-in-pune-city",
+        "keyword": "VTP Sierra for buyers in Pune City"
+      }
+    ]
+  },
+  {
+    "id": "project-vtp-verve",
+    "title": "VTP Verve Project Details",
+    "description": "VTP Verve presents contemporary urban living in the highly sought-after Baner-Sus corridor.",
+    "slugs": [
+      {
+        "slug": "vtp-verve-price",
+        "keyword": "VTP Verve Price"
+      },
+      {
+        "slug": "vtp-verve-floor-plan",
+        "keyword": "VTP Verve Floor Plan"
+      },
+      {
+        "slug": "vtp-verve-brochure",
+        "keyword": "VTP Verve Brochure"
+      },
+      {
+        "slug": "vtp-verve-reviews",
+        "keyword": "VTP Verve Reviews"
+      },
+      {
+        "slug": "vtp-verve-location",
+        "keyword": "VTP Verve Location"
+      },
+      {
+        "slug": "vtp-verve-construction-status",
+        "keyword": "VTP Verve Construction Status"
+      },
+      {
+        "slug": "vtp-verve-sample-flat",
+        "keyword": "VTP Verve Sample Flat"
+      },
+      {
+        "slug": "vtp-verve-master-plan",
+        "keyword": "VTP Verve Master Plan"
+      },
+      {
+        "slug": "vtp-verve-investment",
+        "keyword": "VTP Verve Investment"
+      },
+      {
+        "slug": "vtp-verve-2-bhk",
+        "keyword": "VTP Verve 2 BHK"
+      },
+      {
+        "slug": "vtp-verve-3-bhk",
+        "keyword": "VTP Verve 3 BHK"
+      },
+      {
+        "slug": "vtp-verve-4-bhk",
+        "keyword": "VTP Verve 4 BHK"
+      },
+      {
+        "slug": "vtp-verve-possession-date",
+        "keyword": "VTP Verve Possession Date"
+      },
+      {
+        "slug": "vtp-verve-rera-number",
+        "keyword": "VTP Verve RERA Number"
+      },
+      {
+        "slug": "vtp-verve-contact-number",
+        "keyword": "VTP Verve Contact Number"
+      },
+      {
+        "slug": "vtp-verve-latest-photos",
+        "keyword": "VTP Verve Latest Photos"
+      },
+      {
+        "slug": "vtp-verve-township-layout",
+        "keyword": "VTP Verve Township Layout"
+      },
+      {
+        "slug": "vtp-verve-amenities",
+        "keyword": "VTP Verve Amenities"
+      },
+      {
+        "slug": "vtp-verve-maximum-livable-area",
+        "keyword": "VTP Verve Maximum Livable Area"
+      },
+      {
+        "slug": "vtp-verve-vs-godrej-hillside",
+        "keyword": "VTP Verve vs Godrej Hillside"
+      },
+      {
+        "slug": "vtp-verve-vs-competitors",
+        "keyword": "VTP Verve vs Competitors"
+      },
+      {
+        "slug": "vtp-verve-nri-investment",
+        "keyword": "VTP Verve NRI Investment"
+      },
+      {
+        "slug": "vtp-verve-resale",
+        "keyword": "VTP Verve Resale"
+      },
+      {
+        "slug": "vtp-verve-rent",
+        "keyword": "VTP Verve Rent"
+      },
+      {
+        "slug": "vtp-verve-floor-plan-pdf",
+        "keyword": "VTP Verve Floor Plan PDF"
+      },
+      {
+        "slug": "vtp-verve-walkthrough-video",
+        "keyword": "VTP Verve Walkthrough Video"
+      },
+      {
+        "slug": "vtp-verve-smart-homes",
+        "keyword": "VTP Verve Smart Homes"
+      },
+      {
+        "slug": "vtp-verve-it-park-proximity",
+        "keyword": "VTP Verve IT Park Proximity"
+      },
+      {
+        "slug": "vtp-verve-pre-emi-offer",
+        "keyword": "VTP Verve Pre EMI Offer"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-mahalunge",
+        "keyword": "VTP Verve for buyers in Mahalunge"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-hinjawadi",
+        "keyword": "VTP Verve for buyers in Hinjawadi"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-baner",
+        "keyword": "VTP Verve for buyers in Baner"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-kharadi",
+        "keyword": "VTP Verve for buyers in Kharadi"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-wakad",
+        "keyword": "VTP Verve for buyers in Wakad"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-balewadi",
+        "keyword": "VTP Verve for buyers in Balewadi"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-tathawade",
+        "keyword": "VTP Verve for buyers in Tathawade"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-bavdhan",
+        "keyword": "VTP Verve for buyers in Bavdhan"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-aundh",
+        "keyword": "VTP Verve for buyers in Aundh"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-pashan",
+        "keyword": "VTP Verve for buyers in Pashan"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-sus",
+        "keyword": "VTP Verve for buyers in Sus"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-kothrud",
+        "keyword": "VTP Verve for buyers in Kothrud"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-kalyani-nagar",
+        "keyword": "VTP Verve for buyers in Kalyani Nagar"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-koregaon-park",
+        "keyword": "VTP Verve for buyers in Koregaon Park"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-viman-nagar",
+        "keyword": "VTP Verve for buyers in Viman Nagar"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-magarpatta",
+        "keyword": "VTP Verve for buyers in Magarpatta"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-hadapsar",
+        "keyword": "VTP Verve for buyers in Hadapsar"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-wagholi",
+        "keyword": "VTP Verve for buyers in Wagholi"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-pcmc",
+        "keyword": "VTP Verve for buyers in PCMC"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-ravet",
+        "keyword": "VTP Verve for buyers in Ravet"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-punawale",
+        "keyword": "VTP Verve for buyers in Punawale"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-moshi",
+        "keyword": "VTP Verve for buyers in Moshi"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-undri",
+        "keyword": "VTP Verve for buyers in Undri"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-kondhwa",
+        "keyword": "VTP Verve for buyers in Kondhwa"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-west-pune",
+        "keyword": "VTP Verve for buyers in West Pune"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-east-pune",
+        "keyword": "VTP Verve for buyers in East Pune"
+      },
+      {
+        "slug": "vtp-verve-for-buyers-in-pune-city",
+        "keyword": "VTP Verve for buyers in Pune City"
+      }
+    ]
+  },
+  {
+    "id": "project-vtp-solitaire",
+    "title": "VTP Solitaire Project Details",
+    "description": "VTP Solitaire brings exclusive, premium living to Pashan.",
+    "slugs": [
+      {
+        "slug": "vtp-solitaire-price",
+        "keyword": "VTP Solitaire Price"
+      },
+      {
+        "slug": "vtp-solitaire-floor-plan",
+        "keyword": "VTP Solitaire Floor Plan"
+      },
+      {
+        "slug": "vtp-solitaire-brochure",
+        "keyword": "VTP Solitaire Brochure"
+      },
+      {
+        "slug": "vtp-solitaire-reviews",
+        "keyword": "VTP Solitaire Reviews"
+      },
+      {
+        "slug": "vtp-solitaire-location",
+        "keyword": "VTP Solitaire Location"
+      },
+      {
+        "slug": "vtp-solitaire-construction-status",
+        "keyword": "VTP Solitaire Construction Status"
+      },
+      {
+        "slug": "vtp-solitaire-sample-flat",
+        "keyword": "VTP Solitaire Sample Flat"
+      },
+      {
+        "slug": "vtp-solitaire-master-plan",
+        "keyword": "VTP Solitaire Master Plan"
+      },
+      {
+        "slug": "vtp-solitaire-investment",
+        "keyword": "VTP Solitaire Investment"
+      },
+      {
+        "slug": "vtp-solitaire-2-bhk",
+        "keyword": "VTP Solitaire 2 BHK"
+      },
+      {
+        "slug": "vtp-solitaire-3-bhk",
+        "keyword": "VTP Solitaire 3 BHK"
+      },
+      {
+        "slug": "vtp-solitaire-4-bhk",
+        "keyword": "VTP Solitaire 4 BHK"
+      },
+      {
+        "slug": "vtp-solitaire-possession-date",
+        "keyword": "VTP Solitaire Possession Date"
+      },
+      {
+        "slug": "vtp-solitaire-rera-number",
+        "keyword": "VTP Solitaire RERA Number"
+      },
+      {
+        "slug": "vtp-solitaire-contact-number",
+        "keyword": "VTP Solitaire Contact Number"
+      },
+      {
+        "slug": "vtp-solitaire-latest-photos",
+        "keyword": "VTP Solitaire Latest Photos"
+      },
+      {
+        "slug": "vtp-solitaire-township-layout",
+        "keyword": "VTP Solitaire Township Layout"
+      },
+      {
+        "slug": "vtp-solitaire-amenities",
+        "keyword": "VTP Solitaire Amenities"
+      },
+      {
+        "slug": "vtp-solitaire-maximum-livable-area",
+        "keyword": "VTP Solitaire Maximum Livable Area"
+      },
+      {
+        "slug": "vtp-solitaire-vs-godrej-hillside",
+        "keyword": "VTP Solitaire vs Godrej Hillside"
+      },
+      {
+        "slug": "vtp-solitaire-vs-competitors",
+        "keyword": "VTP Solitaire vs Competitors"
+      },
+      {
+        "slug": "vtp-solitaire-nri-investment",
+        "keyword": "VTP Solitaire NRI Investment"
+      },
+      {
+        "slug": "vtp-solitaire-resale",
+        "keyword": "VTP Solitaire Resale"
+      },
+      {
+        "slug": "vtp-solitaire-rent",
+        "keyword": "VTP Solitaire Rent"
+      },
+      {
+        "slug": "vtp-solitaire-floor-plan-pdf",
+        "keyword": "VTP Solitaire Floor Plan PDF"
+      },
+      {
+        "slug": "vtp-solitaire-walkthrough-video",
+        "keyword": "VTP Solitaire Walkthrough Video"
+      },
+      {
+        "slug": "vtp-solitaire-smart-homes",
+        "keyword": "VTP Solitaire Smart Homes"
+      },
+      {
+        "slug": "vtp-solitaire-it-park-proximity",
+        "keyword": "VTP Solitaire IT Park Proximity"
+      },
+      {
+        "slug": "vtp-solitaire-pre-emi-offer",
+        "keyword": "VTP Solitaire Pre EMI Offer"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-mahalunge",
+        "keyword": "VTP Solitaire for buyers in Mahalunge"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-hinjawadi",
+        "keyword": "VTP Solitaire for buyers in Hinjawadi"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-baner",
+        "keyword": "VTP Solitaire for buyers in Baner"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-kharadi",
+        "keyword": "VTP Solitaire for buyers in Kharadi"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-wakad",
+        "keyword": "VTP Solitaire for buyers in Wakad"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-balewadi",
+        "keyword": "VTP Solitaire for buyers in Balewadi"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-tathawade",
+        "keyword": "VTP Solitaire for buyers in Tathawade"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-bavdhan",
+        "keyword": "VTP Solitaire for buyers in Bavdhan"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-aundh",
+        "keyword": "VTP Solitaire for buyers in Aundh"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-pashan",
+        "keyword": "VTP Solitaire for buyers in Pashan"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-sus",
+        "keyword": "VTP Solitaire for buyers in Sus"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-kothrud",
+        "keyword": "VTP Solitaire for buyers in Kothrud"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-kalyani-nagar",
+        "keyword": "VTP Solitaire for buyers in Kalyani Nagar"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-koregaon-park",
+        "keyword": "VTP Solitaire for buyers in Koregaon Park"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-viman-nagar",
+        "keyword": "VTP Solitaire for buyers in Viman Nagar"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-magarpatta",
+        "keyword": "VTP Solitaire for buyers in Magarpatta"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-hadapsar",
+        "keyword": "VTP Solitaire for buyers in Hadapsar"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-wagholi",
+        "keyword": "VTP Solitaire for buyers in Wagholi"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-pcmc",
+        "keyword": "VTP Solitaire for buyers in PCMC"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-ravet",
+        "keyword": "VTP Solitaire for buyers in Ravet"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-punawale",
+        "keyword": "VTP Solitaire for buyers in Punawale"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-moshi",
+        "keyword": "VTP Solitaire for buyers in Moshi"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-undri",
+        "keyword": "VTP Solitaire for buyers in Undri"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-kondhwa",
+        "keyword": "VTP Solitaire for buyers in Kondhwa"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-west-pune",
+        "keyword": "VTP Solitaire for buyers in West Pune"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-east-pune",
+        "keyword": "VTP Solitaire for buyers in East Pune"
+      },
+      {
+        "slug": "vtp-solitaire-for-buyers-in-pune-city",
+        "keyword": "VTP Solitaire for buyers in Pune City"
       }
     ]
   },
@@ -7429,7 +8353,7 @@ export const seoSilos = [
   {
     "id": "project-vtp-monarque",
     "title": "VTP Monarque Project Details",
-    "description": "VTP Monarque offers unparalleled luxury and exclusivity in Hinjawadi.",
+    "description": "VTP Monarque offers unparalleled luxury, infinity pools, and exclusivity in Hinjawadi Phase 1.",
     "slugs": [
       {
         "slug": "vtp-monarque-price",
@@ -7654,6 +8578,237 @@ export const seoSilos = [
       {
         "slug": "vtp-monarque-for-buyers-in-pune-city",
         "keyword": "VTP Monarque for buyers in Pune City"
+      }
+    ]
+  },
+  {
+    "id": "project-vtp-pegasus",
+    "title": "VTP Pegasus Project Details",
+    "description": "VTP Pegasus is the mega-township in New Kharadi offering an elite lifestyle ecosystem.",
+    "slugs": [
+      {
+        "slug": "vtp-pegasus-price",
+        "keyword": "VTP Pegasus Price"
+      },
+      {
+        "slug": "vtp-pegasus-floor-plan",
+        "keyword": "VTP Pegasus Floor Plan"
+      },
+      {
+        "slug": "vtp-pegasus-brochure",
+        "keyword": "VTP Pegasus Brochure"
+      },
+      {
+        "slug": "vtp-pegasus-reviews",
+        "keyword": "VTP Pegasus Reviews"
+      },
+      {
+        "slug": "vtp-pegasus-location",
+        "keyword": "VTP Pegasus Location"
+      },
+      {
+        "slug": "vtp-pegasus-construction-status",
+        "keyword": "VTP Pegasus Construction Status"
+      },
+      {
+        "slug": "vtp-pegasus-sample-flat",
+        "keyword": "VTP Pegasus Sample Flat"
+      },
+      {
+        "slug": "vtp-pegasus-master-plan",
+        "keyword": "VTP Pegasus Master Plan"
+      },
+      {
+        "slug": "vtp-pegasus-investment",
+        "keyword": "VTP Pegasus Investment"
+      },
+      {
+        "slug": "vtp-pegasus-2-bhk",
+        "keyword": "VTP Pegasus 2 BHK"
+      },
+      {
+        "slug": "vtp-pegasus-3-bhk",
+        "keyword": "VTP Pegasus 3 BHK"
+      },
+      {
+        "slug": "vtp-pegasus-4-bhk",
+        "keyword": "VTP Pegasus 4 BHK"
+      },
+      {
+        "slug": "vtp-pegasus-possession-date",
+        "keyword": "VTP Pegasus Possession Date"
+      },
+      {
+        "slug": "vtp-pegasus-rera-number",
+        "keyword": "VTP Pegasus RERA Number"
+      },
+      {
+        "slug": "vtp-pegasus-contact-number",
+        "keyword": "VTP Pegasus Contact Number"
+      },
+      {
+        "slug": "vtp-pegasus-latest-photos",
+        "keyword": "VTP Pegasus Latest Photos"
+      },
+      {
+        "slug": "vtp-pegasus-township-layout",
+        "keyword": "VTP Pegasus Township Layout"
+      },
+      {
+        "slug": "vtp-pegasus-amenities",
+        "keyword": "VTP Pegasus Amenities"
+      },
+      {
+        "slug": "vtp-pegasus-maximum-livable-area",
+        "keyword": "VTP Pegasus Maximum Livable Area"
+      },
+      {
+        "slug": "vtp-pegasus-vs-godrej-hillside",
+        "keyword": "VTP Pegasus vs Godrej Hillside"
+      },
+      {
+        "slug": "vtp-pegasus-vs-competitors",
+        "keyword": "VTP Pegasus vs Competitors"
+      },
+      {
+        "slug": "vtp-pegasus-nri-investment",
+        "keyword": "VTP Pegasus NRI Investment"
+      },
+      {
+        "slug": "vtp-pegasus-resale",
+        "keyword": "VTP Pegasus Resale"
+      },
+      {
+        "slug": "vtp-pegasus-rent",
+        "keyword": "VTP Pegasus Rent"
+      },
+      {
+        "slug": "vtp-pegasus-floor-plan-pdf",
+        "keyword": "VTP Pegasus Floor Plan PDF"
+      },
+      {
+        "slug": "vtp-pegasus-walkthrough-video",
+        "keyword": "VTP Pegasus Walkthrough Video"
+      },
+      {
+        "slug": "vtp-pegasus-smart-homes",
+        "keyword": "VTP Pegasus Smart Homes"
+      },
+      {
+        "slug": "vtp-pegasus-it-park-proximity",
+        "keyword": "VTP Pegasus IT Park Proximity"
+      },
+      {
+        "slug": "vtp-pegasus-pre-emi-offer",
+        "keyword": "VTP Pegasus Pre EMI Offer"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-mahalunge",
+        "keyword": "VTP Pegasus for buyers in Mahalunge"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-hinjawadi",
+        "keyword": "VTP Pegasus for buyers in Hinjawadi"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-baner",
+        "keyword": "VTP Pegasus for buyers in Baner"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-kharadi",
+        "keyword": "VTP Pegasus for buyers in Kharadi"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-wakad",
+        "keyword": "VTP Pegasus for buyers in Wakad"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-balewadi",
+        "keyword": "VTP Pegasus for buyers in Balewadi"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-tathawade",
+        "keyword": "VTP Pegasus for buyers in Tathawade"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-bavdhan",
+        "keyword": "VTP Pegasus for buyers in Bavdhan"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-aundh",
+        "keyword": "VTP Pegasus for buyers in Aundh"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-pashan",
+        "keyword": "VTP Pegasus for buyers in Pashan"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-sus",
+        "keyword": "VTP Pegasus for buyers in Sus"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-kothrud",
+        "keyword": "VTP Pegasus for buyers in Kothrud"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-kalyani-nagar",
+        "keyword": "VTP Pegasus for buyers in Kalyani Nagar"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-koregaon-park",
+        "keyword": "VTP Pegasus for buyers in Koregaon Park"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-viman-nagar",
+        "keyword": "VTP Pegasus for buyers in Viman Nagar"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-magarpatta",
+        "keyword": "VTP Pegasus for buyers in Magarpatta"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-hadapsar",
+        "keyword": "VTP Pegasus for buyers in Hadapsar"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-wagholi",
+        "keyword": "VTP Pegasus for buyers in Wagholi"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-pcmc",
+        "keyword": "VTP Pegasus for buyers in PCMC"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-ravet",
+        "keyword": "VTP Pegasus for buyers in Ravet"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-punawale",
+        "keyword": "VTP Pegasus for buyers in Punawale"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-moshi",
+        "keyword": "VTP Pegasus for buyers in Moshi"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-undri",
+        "keyword": "VTP Pegasus for buyers in Undri"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-kondhwa",
+        "keyword": "VTP Pegasus for buyers in Kondhwa"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-west-pune",
+        "keyword": "VTP Pegasus for buyers in West Pune"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-east-pune",
+        "keyword": "VTP Pegasus for buyers in East Pune"
+      },
+      {
+        "slug": "vtp-pegasus-for-buyers-in-pune-city",
+        "keyword": "VTP Pegasus for buyers in Pune City"
       }
     ]
   },
@@ -7891,7 +9046,7 @@ export const seoSilos = [
   {
     "id": "project-vtp-flamante",
     "title": "VTP Flamante Project Details",
-    "description": "VTP Flamante in Kharadi offers premium residences with state-of-the-art amenities.",
+    "description": "VTP Flamante by VTP Luxe in Kharadi offers premium high-rise residences with state-of-the-art wellness amenities.",
     "slugs": [
       {
         "slug": "vtp-flamante-price",
@@ -8116,6 +9271,1854 @@ export const seoSilos = [
       {
         "slug": "vtp-flamante-for-buyers-in-pune-city",
         "keyword": "VTP Flamante for buyers in Pune City"
+      }
+    ]
+  },
+  {
+    "id": "project-vtp-velvet-villas",
+    "title": "VTP Velvet Villas Project Details",
+    "description": "VTP Velvet Villas offers 43 bespoke, ultra-luxury villas in New Kharadi.",
+    "slugs": [
+      {
+        "slug": "vtp-velvet-villas-price",
+        "keyword": "VTP Velvet Villas Price"
+      },
+      {
+        "slug": "vtp-velvet-villas-floor-plan",
+        "keyword": "VTP Velvet Villas Floor Plan"
+      },
+      {
+        "slug": "vtp-velvet-villas-brochure",
+        "keyword": "VTP Velvet Villas Brochure"
+      },
+      {
+        "slug": "vtp-velvet-villas-reviews",
+        "keyword": "VTP Velvet Villas Reviews"
+      },
+      {
+        "slug": "vtp-velvet-villas-location",
+        "keyword": "VTP Velvet Villas Location"
+      },
+      {
+        "slug": "vtp-velvet-villas-construction-status",
+        "keyword": "VTP Velvet Villas Construction Status"
+      },
+      {
+        "slug": "vtp-velvet-villas-sample-flat",
+        "keyword": "VTP Velvet Villas Sample Flat"
+      },
+      {
+        "slug": "vtp-velvet-villas-master-plan",
+        "keyword": "VTP Velvet Villas Master Plan"
+      },
+      {
+        "slug": "vtp-velvet-villas-investment",
+        "keyword": "VTP Velvet Villas Investment"
+      },
+      {
+        "slug": "vtp-velvet-villas-2-bhk",
+        "keyword": "VTP Velvet Villas 2 BHK"
+      },
+      {
+        "slug": "vtp-velvet-villas-3-bhk",
+        "keyword": "VTP Velvet Villas 3 BHK"
+      },
+      {
+        "slug": "vtp-velvet-villas-4-bhk",
+        "keyword": "VTP Velvet Villas 4 BHK"
+      },
+      {
+        "slug": "vtp-velvet-villas-possession-date",
+        "keyword": "VTP Velvet Villas Possession Date"
+      },
+      {
+        "slug": "vtp-velvet-villas-rera-number",
+        "keyword": "VTP Velvet Villas RERA Number"
+      },
+      {
+        "slug": "vtp-velvet-villas-contact-number",
+        "keyword": "VTP Velvet Villas Contact Number"
+      },
+      {
+        "slug": "vtp-velvet-villas-latest-photos",
+        "keyword": "VTP Velvet Villas Latest Photos"
+      },
+      {
+        "slug": "vtp-velvet-villas-township-layout",
+        "keyword": "VTP Velvet Villas Township Layout"
+      },
+      {
+        "slug": "vtp-velvet-villas-amenities",
+        "keyword": "VTP Velvet Villas Amenities"
+      },
+      {
+        "slug": "vtp-velvet-villas-maximum-livable-area",
+        "keyword": "VTP Velvet Villas Maximum Livable Area"
+      },
+      {
+        "slug": "vtp-velvet-villas-vs-godrej-hillside",
+        "keyword": "VTP Velvet Villas vs Godrej Hillside"
+      },
+      {
+        "slug": "vtp-velvet-villas-vs-competitors",
+        "keyword": "VTP Velvet Villas vs Competitors"
+      },
+      {
+        "slug": "vtp-velvet-villas-nri-investment",
+        "keyword": "VTP Velvet Villas NRI Investment"
+      },
+      {
+        "slug": "vtp-velvet-villas-resale",
+        "keyword": "VTP Velvet Villas Resale"
+      },
+      {
+        "slug": "vtp-velvet-villas-rent",
+        "keyword": "VTP Velvet Villas Rent"
+      },
+      {
+        "slug": "vtp-velvet-villas-floor-plan-pdf",
+        "keyword": "VTP Velvet Villas Floor Plan PDF"
+      },
+      {
+        "slug": "vtp-velvet-villas-walkthrough-video",
+        "keyword": "VTP Velvet Villas Walkthrough Video"
+      },
+      {
+        "slug": "vtp-velvet-villas-smart-homes",
+        "keyword": "VTP Velvet Villas Smart Homes"
+      },
+      {
+        "slug": "vtp-velvet-villas-it-park-proximity",
+        "keyword": "VTP Velvet Villas IT Park Proximity"
+      },
+      {
+        "slug": "vtp-velvet-villas-pre-emi-offer",
+        "keyword": "VTP Velvet Villas Pre EMI Offer"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-mahalunge",
+        "keyword": "VTP Velvet Villas for buyers in Mahalunge"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-hinjawadi",
+        "keyword": "VTP Velvet Villas for buyers in Hinjawadi"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-baner",
+        "keyword": "VTP Velvet Villas for buyers in Baner"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-kharadi",
+        "keyword": "VTP Velvet Villas for buyers in Kharadi"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-wakad",
+        "keyword": "VTP Velvet Villas for buyers in Wakad"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-balewadi",
+        "keyword": "VTP Velvet Villas for buyers in Balewadi"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-tathawade",
+        "keyword": "VTP Velvet Villas for buyers in Tathawade"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-bavdhan",
+        "keyword": "VTP Velvet Villas for buyers in Bavdhan"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-aundh",
+        "keyword": "VTP Velvet Villas for buyers in Aundh"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-pashan",
+        "keyword": "VTP Velvet Villas for buyers in Pashan"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-sus",
+        "keyword": "VTP Velvet Villas for buyers in Sus"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-kothrud",
+        "keyword": "VTP Velvet Villas for buyers in Kothrud"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-kalyani-nagar",
+        "keyword": "VTP Velvet Villas for buyers in Kalyani Nagar"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-koregaon-park",
+        "keyword": "VTP Velvet Villas for buyers in Koregaon Park"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-viman-nagar",
+        "keyword": "VTP Velvet Villas for buyers in Viman Nagar"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-magarpatta",
+        "keyword": "VTP Velvet Villas for buyers in Magarpatta"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-hadapsar",
+        "keyword": "VTP Velvet Villas for buyers in Hadapsar"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-wagholi",
+        "keyword": "VTP Velvet Villas for buyers in Wagholi"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-pcmc",
+        "keyword": "VTP Velvet Villas for buyers in PCMC"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-ravet",
+        "keyword": "VTP Velvet Villas for buyers in Ravet"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-punawale",
+        "keyword": "VTP Velvet Villas for buyers in Punawale"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-moshi",
+        "keyword": "VTP Velvet Villas for buyers in Moshi"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-undri",
+        "keyword": "VTP Velvet Villas for buyers in Undri"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-kondhwa",
+        "keyword": "VTP Velvet Villas for buyers in Kondhwa"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-west-pune",
+        "keyword": "VTP Velvet Villas for buyers in West Pune"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-east-pune",
+        "keyword": "VTP Velvet Villas for buyers in East Pune"
+      },
+      {
+        "slug": "vtp-velvet-villas-for-buyers-in-pune-city",
+        "keyword": "VTP Velvet Villas for buyers in Pune City"
+      }
+    ]
+  },
+  {
+    "id": "project-vtp-altair",
+    "title": "VTP Altair Project Details",
+    "description": "VTP Altair is a significant luxury high-rise development in the heart of Kharadi.",
+    "slugs": [
+      {
+        "slug": "vtp-altair-price",
+        "keyword": "VTP Altair Price"
+      },
+      {
+        "slug": "vtp-altair-floor-plan",
+        "keyword": "VTP Altair Floor Plan"
+      },
+      {
+        "slug": "vtp-altair-brochure",
+        "keyword": "VTP Altair Brochure"
+      },
+      {
+        "slug": "vtp-altair-reviews",
+        "keyword": "VTP Altair Reviews"
+      },
+      {
+        "slug": "vtp-altair-location",
+        "keyword": "VTP Altair Location"
+      },
+      {
+        "slug": "vtp-altair-construction-status",
+        "keyword": "VTP Altair Construction Status"
+      },
+      {
+        "slug": "vtp-altair-sample-flat",
+        "keyword": "VTP Altair Sample Flat"
+      },
+      {
+        "slug": "vtp-altair-master-plan",
+        "keyword": "VTP Altair Master Plan"
+      },
+      {
+        "slug": "vtp-altair-investment",
+        "keyword": "VTP Altair Investment"
+      },
+      {
+        "slug": "vtp-altair-2-bhk",
+        "keyword": "VTP Altair 2 BHK"
+      },
+      {
+        "slug": "vtp-altair-3-bhk",
+        "keyword": "VTP Altair 3 BHK"
+      },
+      {
+        "slug": "vtp-altair-4-bhk",
+        "keyword": "VTP Altair 4 BHK"
+      },
+      {
+        "slug": "vtp-altair-possession-date",
+        "keyword": "VTP Altair Possession Date"
+      },
+      {
+        "slug": "vtp-altair-rera-number",
+        "keyword": "VTP Altair RERA Number"
+      },
+      {
+        "slug": "vtp-altair-contact-number",
+        "keyword": "VTP Altair Contact Number"
+      },
+      {
+        "slug": "vtp-altair-latest-photos",
+        "keyword": "VTP Altair Latest Photos"
+      },
+      {
+        "slug": "vtp-altair-township-layout",
+        "keyword": "VTP Altair Township Layout"
+      },
+      {
+        "slug": "vtp-altair-amenities",
+        "keyword": "VTP Altair Amenities"
+      },
+      {
+        "slug": "vtp-altair-maximum-livable-area",
+        "keyword": "VTP Altair Maximum Livable Area"
+      },
+      {
+        "slug": "vtp-altair-vs-godrej-hillside",
+        "keyword": "VTP Altair vs Godrej Hillside"
+      },
+      {
+        "slug": "vtp-altair-vs-competitors",
+        "keyword": "VTP Altair vs Competitors"
+      },
+      {
+        "slug": "vtp-altair-nri-investment",
+        "keyword": "VTP Altair NRI Investment"
+      },
+      {
+        "slug": "vtp-altair-resale",
+        "keyword": "VTP Altair Resale"
+      },
+      {
+        "slug": "vtp-altair-rent",
+        "keyword": "VTP Altair Rent"
+      },
+      {
+        "slug": "vtp-altair-floor-plan-pdf",
+        "keyword": "VTP Altair Floor Plan PDF"
+      },
+      {
+        "slug": "vtp-altair-walkthrough-video",
+        "keyword": "VTP Altair Walkthrough Video"
+      },
+      {
+        "slug": "vtp-altair-smart-homes",
+        "keyword": "VTP Altair Smart Homes"
+      },
+      {
+        "slug": "vtp-altair-it-park-proximity",
+        "keyword": "VTP Altair IT Park Proximity"
+      },
+      {
+        "slug": "vtp-altair-pre-emi-offer",
+        "keyword": "VTP Altair Pre EMI Offer"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-mahalunge",
+        "keyword": "VTP Altair for buyers in Mahalunge"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-hinjawadi",
+        "keyword": "VTP Altair for buyers in Hinjawadi"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-baner",
+        "keyword": "VTP Altair for buyers in Baner"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-kharadi",
+        "keyword": "VTP Altair for buyers in Kharadi"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-wakad",
+        "keyword": "VTP Altair for buyers in Wakad"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-balewadi",
+        "keyword": "VTP Altair for buyers in Balewadi"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-tathawade",
+        "keyword": "VTP Altair for buyers in Tathawade"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-bavdhan",
+        "keyword": "VTP Altair for buyers in Bavdhan"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-aundh",
+        "keyword": "VTP Altair for buyers in Aundh"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-pashan",
+        "keyword": "VTP Altair for buyers in Pashan"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-sus",
+        "keyword": "VTP Altair for buyers in Sus"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-kothrud",
+        "keyword": "VTP Altair for buyers in Kothrud"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-kalyani-nagar",
+        "keyword": "VTP Altair for buyers in Kalyani Nagar"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-koregaon-park",
+        "keyword": "VTP Altair for buyers in Koregaon Park"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-viman-nagar",
+        "keyword": "VTP Altair for buyers in Viman Nagar"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-magarpatta",
+        "keyword": "VTP Altair for buyers in Magarpatta"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-hadapsar",
+        "keyword": "VTP Altair for buyers in Hadapsar"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-wagholi",
+        "keyword": "VTP Altair for buyers in Wagholi"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-pcmc",
+        "keyword": "VTP Altair for buyers in PCMC"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-ravet",
+        "keyword": "VTP Altair for buyers in Ravet"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-punawale",
+        "keyword": "VTP Altair for buyers in Punawale"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-moshi",
+        "keyword": "VTP Altair for buyers in Moshi"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-undri",
+        "keyword": "VTP Altair for buyers in Undri"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-kondhwa",
+        "keyword": "VTP Altair for buyers in Kondhwa"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-west-pune",
+        "keyword": "VTP Altair for buyers in West Pune"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-east-pune",
+        "keyword": "VTP Altair for buyers in East Pune"
+      },
+      {
+        "slug": "vtp-altair-for-buyers-in-pune-city",
+        "keyword": "VTP Altair for buyers in Pune City"
+      }
+    ]
+  },
+  {
+    "id": "project-vtp-cygnus",
+    "title": "VTP Cygnus Project Details",
+    "description": "VTP Cygnus provides premium, highly sought-after residences in East Pune.",
+    "slugs": [
+      {
+        "slug": "vtp-cygnus-price",
+        "keyword": "VTP Cygnus Price"
+      },
+      {
+        "slug": "vtp-cygnus-floor-plan",
+        "keyword": "VTP Cygnus Floor Plan"
+      },
+      {
+        "slug": "vtp-cygnus-brochure",
+        "keyword": "VTP Cygnus Brochure"
+      },
+      {
+        "slug": "vtp-cygnus-reviews",
+        "keyword": "VTP Cygnus Reviews"
+      },
+      {
+        "slug": "vtp-cygnus-location",
+        "keyword": "VTP Cygnus Location"
+      },
+      {
+        "slug": "vtp-cygnus-construction-status",
+        "keyword": "VTP Cygnus Construction Status"
+      },
+      {
+        "slug": "vtp-cygnus-sample-flat",
+        "keyword": "VTP Cygnus Sample Flat"
+      },
+      {
+        "slug": "vtp-cygnus-master-plan",
+        "keyword": "VTP Cygnus Master Plan"
+      },
+      {
+        "slug": "vtp-cygnus-investment",
+        "keyword": "VTP Cygnus Investment"
+      },
+      {
+        "slug": "vtp-cygnus-2-bhk",
+        "keyword": "VTP Cygnus 2 BHK"
+      },
+      {
+        "slug": "vtp-cygnus-3-bhk",
+        "keyword": "VTP Cygnus 3 BHK"
+      },
+      {
+        "slug": "vtp-cygnus-4-bhk",
+        "keyword": "VTP Cygnus 4 BHK"
+      },
+      {
+        "slug": "vtp-cygnus-possession-date",
+        "keyword": "VTP Cygnus Possession Date"
+      },
+      {
+        "slug": "vtp-cygnus-rera-number",
+        "keyword": "VTP Cygnus RERA Number"
+      },
+      {
+        "slug": "vtp-cygnus-contact-number",
+        "keyword": "VTP Cygnus Contact Number"
+      },
+      {
+        "slug": "vtp-cygnus-latest-photos",
+        "keyword": "VTP Cygnus Latest Photos"
+      },
+      {
+        "slug": "vtp-cygnus-township-layout",
+        "keyword": "VTP Cygnus Township Layout"
+      },
+      {
+        "slug": "vtp-cygnus-amenities",
+        "keyword": "VTP Cygnus Amenities"
+      },
+      {
+        "slug": "vtp-cygnus-maximum-livable-area",
+        "keyword": "VTP Cygnus Maximum Livable Area"
+      },
+      {
+        "slug": "vtp-cygnus-vs-godrej-hillside",
+        "keyword": "VTP Cygnus vs Godrej Hillside"
+      },
+      {
+        "slug": "vtp-cygnus-vs-competitors",
+        "keyword": "VTP Cygnus vs Competitors"
+      },
+      {
+        "slug": "vtp-cygnus-nri-investment",
+        "keyword": "VTP Cygnus NRI Investment"
+      },
+      {
+        "slug": "vtp-cygnus-resale",
+        "keyword": "VTP Cygnus Resale"
+      },
+      {
+        "slug": "vtp-cygnus-rent",
+        "keyword": "VTP Cygnus Rent"
+      },
+      {
+        "slug": "vtp-cygnus-floor-plan-pdf",
+        "keyword": "VTP Cygnus Floor Plan PDF"
+      },
+      {
+        "slug": "vtp-cygnus-walkthrough-video",
+        "keyword": "VTP Cygnus Walkthrough Video"
+      },
+      {
+        "slug": "vtp-cygnus-smart-homes",
+        "keyword": "VTP Cygnus Smart Homes"
+      },
+      {
+        "slug": "vtp-cygnus-it-park-proximity",
+        "keyword": "VTP Cygnus IT Park Proximity"
+      },
+      {
+        "slug": "vtp-cygnus-pre-emi-offer",
+        "keyword": "VTP Cygnus Pre EMI Offer"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-mahalunge",
+        "keyword": "VTP Cygnus for buyers in Mahalunge"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-hinjawadi",
+        "keyword": "VTP Cygnus for buyers in Hinjawadi"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-baner",
+        "keyword": "VTP Cygnus for buyers in Baner"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-kharadi",
+        "keyword": "VTP Cygnus for buyers in Kharadi"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-wakad",
+        "keyword": "VTP Cygnus for buyers in Wakad"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-balewadi",
+        "keyword": "VTP Cygnus for buyers in Balewadi"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-tathawade",
+        "keyword": "VTP Cygnus for buyers in Tathawade"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-bavdhan",
+        "keyword": "VTP Cygnus for buyers in Bavdhan"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-aundh",
+        "keyword": "VTP Cygnus for buyers in Aundh"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-pashan",
+        "keyword": "VTP Cygnus for buyers in Pashan"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-sus",
+        "keyword": "VTP Cygnus for buyers in Sus"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-kothrud",
+        "keyword": "VTP Cygnus for buyers in Kothrud"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-kalyani-nagar",
+        "keyword": "VTP Cygnus for buyers in Kalyani Nagar"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-koregaon-park",
+        "keyword": "VTP Cygnus for buyers in Koregaon Park"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-viman-nagar",
+        "keyword": "VTP Cygnus for buyers in Viman Nagar"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-magarpatta",
+        "keyword": "VTP Cygnus for buyers in Magarpatta"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-hadapsar",
+        "keyword": "VTP Cygnus for buyers in Hadapsar"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-wagholi",
+        "keyword": "VTP Cygnus for buyers in Wagholi"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-pcmc",
+        "keyword": "VTP Cygnus for buyers in PCMC"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-ravet",
+        "keyword": "VTP Cygnus for buyers in Ravet"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-punawale",
+        "keyword": "VTP Cygnus for buyers in Punawale"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-moshi",
+        "keyword": "VTP Cygnus for buyers in Moshi"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-undri",
+        "keyword": "VTP Cygnus for buyers in Undri"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-kondhwa",
+        "keyword": "VTP Cygnus for buyers in Kondhwa"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-west-pune",
+        "keyword": "VTP Cygnus for buyers in West Pune"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-east-pune",
+        "keyword": "VTP Cygnus for buyers in East Pune"
+      },
+      {
+        "slug": "vtp-cygnus-for-buyers-in-pune-city",
+        "keyword": "VTP Cygnus for buyers in Pune City"
+      }
+    ]
+  },
+  {
+    "id": "project-vtp-beaumonde",
+    "title": "VTP Beaumonde Project Details",
+    "description": "VTP Beaumonde offers exquisite living spaces for those who demand the finest in Kharadi.",
+    "slugs": [
+      {
+        "slug": "vtp-beaumonde-price",
+        "keyword": "VTP Beaumonde Price"
+      },
+      {
+        "slug": "vtp-beaumonde-floor-plan",
+        "keyword": "VTP Beaumonde Floor Plan"
+      },
+      {
+        "slug": "vtp-beaumonde-brochure",
+        "keyword": "VTP Beaumonde Brochure"
+      },
+      {
+        "slug": "vtp-beaumonde-reviews",
+        "keyword": "VTP Beaumonde Reviews"
+      },
+      {
+        "slug": "vtp-beaumonde-location",
+        "keyword": "VTP Beaumonde Location"
+      },
+      {
+        "slug": "vtp-beaumonde-construction-status",
+        "keyword": "VTP Beaumonde Construction Status"
+      },
+      {
+        "slug": "vtp-beaumonde-sample-flat",
+        "keyword": "VTP Beaumonde Sample Flat"
+      },
+      {
+        "slug": "vtp-beaumonde-master-plan",
+        "keyword": "VTP Beaumonde Master Plan"
+      },
+      {
+        "slug": "vtp-beaumonde-investment",
+        "keyword": "VTP Beaumonde Investment"
+      },
+      {
+        "slug": "vtp-beaumonde-2-bhk",
+        "keyword": "VTP Beaumonde 2 BHK"
+      },
+      {
+        "slug": "vtp-beaumonde-3-bhk",
+        "keyword": "VTP Beaumonde 3 BHK"
+      },
+      {
+        "slug": "vtp-beaumonde-4-bhk",
+        "keyword": "VTP Beaumonde 4 BHK"
+      },
+      {
+        "slug": "vtp-beaumonde-possession-date",
+        "keyword": "VTP Beaumonde Possession Date"
+      },
+      {
+        "slug": "vtp-beaumonde-rera-number",
+        "keyword": "VTP Beaumonde RERA Number"
+      },
+      {
+        "slug": "vtp-beaumonde-contact-number",
+        "keyword": "VTP Beaumonde Contact Number"
+      },
+      {
+        "slug": "vtp-beaumonde-latest-photos",
+        "keyword": "VTP Beaumonde Latest Photos"
+      },
+      {
+        "slug": "vtp-beaumonde-township-layout",
+        "keyword": "VTP Beaumonde Township Layout"
+      },
+      {
+        "slug": "vtp-beaumonde-amenities",
+        "keyword": "VTP Beaumonde Amenities"
+      },
+      {
+        "slug": "vtp-beaumonde-maximum-livable-area",
+        "keyword": "VTP Beaumonde Maximum Livable Area"
+      },
+      {
+        "slug": "vtp-beaumonde-vs-godrej-hillside",
+        "keyword": "VTP Beaumonde vs Godrej Hillside"
+      },
+      {
+        "slug": "vtp-beaumonde-vs-competitors",
+        "keyword": "VTP Beaumonde vs Competitors"
+      },
+      {
+        "slug": "vtp-beaumonde-nri-investment",
+        "keyword": "VTP Beaumonde NRI Investment"
+      },
+      {
+        "slug": "vtp-beaumonde-resale",
+        "keyword": "VTP Beaumonde Resale"
+      },
+      {
+        "slug": "vtp-beaumonde-rent",
+        "keyword": "VTP Beaumonde Rent"
+      },
+      {
+        "slug": "vtp-beaumonde-floor-plan-pdf",
+        "keyword": "VTP Beaumonde Floor Plan PDF"
+      },
+      {
+        "slug": "vtp-beaumonde-walkthrough-video",
+        "keyword": "VTP Beaumonde Walkthrough Video"
+      },
+      {
+        "slug": "vtp-beaumonde-smart-homes",
+        "keyword": "VTP Beaumonde Smart Homes"
+      },
+      {
+        "slug": "vtp-beaumonde-it-park-proximity",
+        "keyword": "VTP Beaumonde IT Park Proximity"
+      },
+      {
+        "slug": "vtp-beaumonde-pre-emi-offer",
+        "keyword": "VTP Beaumonde Pre EMI Offer"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-mahalunge",
+        "keyword": "VTP Beaumonde for buyers in Mahalunge"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-hinjawadi",
+        "keyword": "VTP Beaumonde for buyers in Hinjawadi"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-baner",
+        "keyword": "VTP Beaumonde for buyers in Baner"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-kharadi",
+        "keyword": "VTP Beaumonde for buyers in Kharadi"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-wakad",
+        "keyword": "VTP Beaumonde for buyers in Wakad"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-balewadi",
+        "keyword": "VTP Beaumonde for buyers in Balewadi"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-tathawade",
+        "keyword": "VTP Beaumonde for buyers in Tathawade"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-bavdhan",
+        "keyword": "VTP Beaumonde for buyers in Bavdhan"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-aundh",
+        "keyword": "VTP Beaumonde for buyers in Aundh"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-pashan",
+        "keyword": "VTP Beaumonde for buyers in Pashan"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-sus",
+        "keyword": "VTP Beaumonde for buyers in Sus"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-kothrud",
+        "keyword": "VTP Beaumonde for buyers in Kothrud"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-kalyani-nagar",
+        "keyword": "VTP Beaumonde for buyers in Kalyani Nagar"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-koregaon-park",
+        "keyword": "VTP Beaumonde for buyers in Koregaon Park"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-viman-nagar",
+        "keyword": "VTP Beaumonde for buyers in Viman Nagar"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-magarpatta",
+        "keyword": "VTP Beaumonde for buyers in Magarpatta"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-hadapsar",
+        "keyword": "VTP Beaumonde for buyers in Hadapsar"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-wagholi",
+        "keyword": "VTP Beaumonde for buyers in Wagholi"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-pcmc",
+        "keyword": "VTP Beaumonde for buyers in PCMC"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-ravet",
+        "keyword": "VTP Beaumonde for buyers in Ravet"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-punawale",
+        "keyword": "VTP Beaumonde for buyers in Punawale"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-moshi",
+        "keyword": "VTP Beaumonde for buyers in Moshi"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-undri",
+        "keyword": "VTP Beaumonde for buyers in Undri"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-kondhwa",
+        "keyword": "VTP Beaumonde for buyers in Kondhwa"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-west-pune",
+        "keyword": "VTP Beaumonde for buyers in West Pune"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-east-pune",
+        "keyword": "VTP Beaumonde for buyers in East Pune"
+      },
+      {
+        "slug": "vtp-beaumonde-for-buyers-in-pune-city",
+        "keyword": "VTP Beaumonde for buyers in Pune City"
+      }
+    ]
+  },
+  {
+    "id": "project-vtp-purvanchal",
+    "title": "VTP Purvanchal Project Details",
+    "description": "VTP Purvanchal offers a perfect blend of space and community living in Wagholi.",
+    "slugs": [
+      {
+        "slug": "vtp-purvanchal-price",
+        "keyword": "VTP Purvanchal Price"
+      },
+      {
+        "slug": "vtp-purvanchal-floor-plan",
+        "keyword": "VTP Purvanchal Floor Plan"
+      },
+      {
+        "slug": "vtp-purvanchal-brochure",
+        "keyword": "VTP Purvanchal Brochure"
+      },
+      {
+        "slug": "vtp-purvanchal-reviews",
+        "keyword": "VTP Purvanchal Reviews"
+      },
+      {
+        "slug": "vtp-purvanchal-location",
+        "keyword": "VTP Purvanchal Location"
+      },
+      {
+        "slug": "vtp-purvanchal-construction-status",
+        "keyword": "VTP Purvanchal Construction Status"
+      },
+      {
+        "slug": "vtp-purvanchal-sample-flat",
+        "keyword": "VTP Purvanchal Sample Flat"
+      },
+      {
+        "slug": "vtp-purvanchal-master-plan",
+        "keyword": "VTP Purvanchal Master Plan"
+      },
+      {
+        "slug": "vtp-purvanchal-investment",
+        "keyword": "VTP Purvanchal Investment"
+      },
+      {
+        "slug": "vtp-purvanchal-2-bhk",
+        "keyword": "VTP Purvanchal 2 BHK"
+      },
+      {
+        "slug": "vtp-purvanchal-3-bhk",
+        "keyword": "VTP Purvanchal 3 BHK"
+      },
+      {
+        "slug": "vtp-purvanchal-4-bhk",
+        "keyword": "VTP Purvanchal 4 BHK"
+      },
+      {
+        "slug": "vtp-purvanchal-possession-date",
+        "keyword": "VTP Purvanchal Possession Date"
+      },
+      {
+        "slug": "vtp-purvanchal-rera-number",
+        "keyword": "VTP Purvanchal RERA Number"
+      },
+      {
+        "slug": "vtp-purvanchal-contact-number",
+        "keyword": "VTP Purvanchal Contact Number"
+      },
+      {
+        "slug": "vtp-purvanchal-latest-photos",
+        "keyword": "VTP Purvanchal Latest Photos"
+      },
+      {
+        "slug": "vtp-purvanchal-township-layout",
+        "keyword": "VTP Purvanchal Township Layout"
+      },
+      {
+        "slug": "vtp-purvanchal-amenities",
+        "keyword": "VTP Purvanchal Amenities"
+      },
+      {
+        "slug": "vtp-purvanchal-maximum-livable-area",
+        "keyword": "VTP Purvanchal Maximum Livable Area"
+      },
+      {
+        "slug": "vtp-purvanchal-vs-godrej-hillside",
+        "keyword": "VTP Purvanchal vs Godrej Hillside"
+      },
+      {
+        "slug": "vtp-purvanchal-vs-competitors",
+        "keyword": "VTP Purvanchal vs Competitors"
+      },
+      {
+        "slug": "vtp-purvanchal-nri-investment",
+        "keyword": "VTP Purvanchal NRI Investment"
+      },
+      {
+        "slug": "vtp-purvanchal-resale",
+        "keyword": "VTP Purvanchal Resale"
+      },
+      {
+        "slug": "vtp-purvanchal-rent",
+        "keyword": "VTP Purvanchal Rent"
+      },
+      {
+        "slug": "vtp-purvanchal-floor-plan-pdf",
+        "keyword": "VTP Purvanchal Floor Plan PDF"
+      },
+      {
+        "slug": "vtp-purvanchal-walkthrough-video",
+        "keyword": "VTP Purvanchal Walkthrough Video"
+      },
+      {
+        "slug": "vtp-purvanchal-smart-homes",
+        "keyword": "VTP Purvanchal Smart Homes"
+      },
+      {
+        "slug": "vtp-purvanchal-it-park-proximity",
+        "keyword": "VTP Purvanchal IT Park Proximity"
+      },
+      {
+        "slug": "vtp-purvanchal-pre-emi-offer",
+        "keyword": "VTP Purvanchal Pre EMI Offer"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-mahalunge",
+        "keyword": "VTP Purvanchal for buyers in Mahalunge"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-hinjawadi",
+        "keyword": "VTP Purvanchal for buyers in Hinjawadi"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-baner",
+        "keyword": "VTP Purvanchal for buyers in Baner"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-kharadi",
+        "keyword": "VTP Purvanchal for buyers in Kharadi"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-wakad",
+        "keyword": "VTP Purvanchal for buyers in Wakad"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-balewadi",
+        "keyword": "VTP Purvanchal for buyers in Balewadi"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-tathawade",
+        "keyword": "VTP Purvanchal for buyers in Tathawade"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-bavdhan",
+        "keyword": "VTP Purvanchal for buyers in Bavdhan"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-aundh",
+        "keyword": "VTP Purvanchal for buyers in Aundh"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-pashan",
+        "keyword": "VTP Purvanchal for buyers in Pashan"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-sus",
+        "keyword": "VTP Purvanchal for buyers in Sus"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-kothrud",
+        "keyword": "VTP Purvanchal for buyers in Kothrud"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-kalyani-nagar",
+        "keyword": "VTP Purvanchal for buyers in Kalyani Nagar"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-koregaon-park",
+        "keyword": "VTP Purvanchal for buyers in Koregaon Park"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-viman-nagar",
+        "keyword": "VTP Purvanchal for buyers in Viman Nagar"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-magarpatta",
+        "keyword": "VTP Purvanchal for buyers in Magarpatta"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-hadapsar",
+        "keyword": "VTP Purvanchal for buyers in Hadapsar"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-wagholi",
+        "keyword": "VTP Purvanchal for buyers in Wagholi"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-pcmc",
+        "keyword": "VTP Purvanchal for buyers in PCMC"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-ravet",
+        "keyword": "VTP Purvanchal for buyers in Ravet"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-punawale",
+        "keyword": "VTP Purvanchal for buyers in Punawale"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-moshi",
+        "keyword": "VTP Purvanchal for buyers in Moshi"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-undri",
+        "keyword": "VTP Purvanchal for buyers in Undri"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-kondhwa",
+        "keyword": "VTP Purvanchal for buyers in Kondhwa"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-west-pune",
+        "keyword": "VTP Purvanchal for buyers in West Pune"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-east-pune",
+        "keyword": "VTP Purvanchal for buyers in East Pune"
+      },
+      {
+        "slug": "vtp-purvanchal-for-buyers-in-pune-city",
+        "keyword": "VTP Purvanchal for buyers in Pune City"
+      }
+    ]
+  },
+  {
+    "id": "project-vtp-celesta",
+    "title": "VTP Celesta Project Details",
+    "description": "VTP Celesta in NIBM brings premium luxury living to South Pune.",
+    "slugs": [
+      {
+        "slug": "vtp-celesta-price",
+        "keyword": "VTP Celesta Price"
+      },
+      {
+        "slug": "vtp-celesta-floor-plan",
+        "keyword": "VTP Celesta Floor Plan"
+      },
+      {
+        "slug": "vtp-celesta-brochure",
+        "keyword": "VTP Celesta Brochure"
+      },
+      {
+        "slug": "vtp-celesta-reviews",
+        "keyword": "VTP Celesta Reviews"
+      },
+      {
+        "slug": "vtp-celesta-location",
+        "keyword": "VTP Celesta Location"
+      },
+      {
+        "slug": "vtp-celesta-construction-status",
+        "keyword": "VTP Celesta Construction Status"
+      },
+      {
+        "slug": "vtp-celesta-sample-flat",
+        "keyword": "VTP Celesta Sample Flat"
+      },
+      {
+        "slug": "vtp-celesta-master-plan",
+        "keyword": "VTP Celesta Master Plan"
+      },
+      {
+        "slug": "vtp-celesta-investment",
+        "keyword": "VTP Celesta Investment"
+      },
+      {
+        "slug": "vtp-celesta-2-bhk",
+        "keyword": "VTP Celesta 2 BHK"
+      },
+      {
+        "slug": "vtp-celesta-3-bhk",
+        "keyword": "VTP Celesta 3 BHK"
+      },
+      {
+        "slug": "vtp-celesta-4-bhk",
+        "keyword": "VTP Celesta 4 BHK"
+      },
+      {
+        "slug": "vtp-celesta-possession-date",
+        "keyword": "VTP Celesta Possession Date"
+      },
+      {
+        "slug": "vtp-celesta-rera-number",
+        "keyword": "VTP Celesta RERA Number"
+      },
+      {
+        "slug": "vtp-celesta-contact-number",
+        "keyword": "VTP Celesta Contact Number"
+      },
+      {
+        "slug": "vtp-celesta-latest-photos",
+        "keyword": "VTP Celesta Latest Photos"
+      },
+      {
+        "slug": "vtp-celesta-township-layout",
+        "keyword": "VTP Celesta Township Layout"
+      },
+      {
+        "slug": "vtp-celesta-amenities",
+        "keyword": "VTP Celesta Amenities"
+      },
+      {
+        "slug": "vtp-celesta-maximum-livable-area",
+        "keyword": "VTP Celesta Maximum Livable Area"
+      },
+      {
+        "slug": "vtp-celesta-vs-godrej-hillside",
+        "keyword": "VTP Celesta vs Godrej Hillside"
+      },
+      {
+        "slug": "vtp-celesta-vs-competitors",
+        "keyword": "VTP Celesta vs Competitors"
+      },
+      {
+        "slug": "vtp-celesta-nri-investment",
+        "keyword": "VTP Celesta NRI Investment"
+      },
+      {
+        "slug": "vtp-celesta-resale",
+        "keyword": "VTP Celesta Resale"
+      },
+      {
+        "slug": "vtp-celesta-rent",
+        "keyword": "VTP Celesta Rent"
+      },
+      {
+        "slug": "vtp-celesta-floor-plan-pdf",
+        "keyword": "VTP Celesta Floor Plan PDF"
+      },
+      {
+        "slug": "vtp-celesta-walkthrough-video",
+        "keyword": "VTP Celesta Walkthrough Video"
+      },
+      {
+        "slug": "vtp-celesta-smart-homes",
+        "keyword": "VTP Celesta Smart Homes"
+      },
+      {
+        "slug": "vtp-celesta-it-park-proximity",
+        "keyword": "VTP Celesta IT Park Proximity"
+      },
+      {
+        "slug": "vtp-celesta-pre-emi-offer",
+        "keyword": "VTP Celesta Pre EMI Offer"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-mahalunge",
+        "keyword": "VTP Celesta for buyers in Mahalunge"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-hinjawadi",
+        "keyword": "VTP Celesta for buyers in Hinjawadi"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-baner",
+        "keyword": "VTP Celesta for buyers in Baner"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-kharadi",
+        "keyword": "VTP Celesta for buyers in Kharadi"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-wakad",
+        "keyword": "VTP Celesta for buyers in Wakad"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-balewadi",
+        "keyword": "VTP Celesta for buyers in Balewadi"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-tathawade",
+        "keyword": "VTP Celesta for buyers in Tathawade"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-bavdhan",
+        "keyword": "VTP Celesta for buyers in Bavdhan"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-aundh",
+        "keyword": "VTP Celesta for buyers in Aundh"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-pashan",
+        "keyword": "VTP Celesta for buyers in Pashan"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-sus",
+        "keyword": "VTP Celesta for buyers in Sus"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-kothrud",
+        "keyword": "VTP Celesta for buyers in Kothrud"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-kalyani-nagar",
+        "keyword": "VTP Celesta for buyers in Kalyani Nagar"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-koregaon-park",
+        "keyword": "VTP Celesta for buyers in Koregaon Park"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-viman-nagar",
+        "keyword": "VTP Celesta for buyers in Viman Nagar"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-magarpatta",
+        "keyword": "VTP Celesta for buyers in Magarpatta"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-hadapsar",
+        "keyword": "VTP Celesta for buyers in Hadapsar"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-wagholi",
+        "keyword": "VTP Celesta for buyers in Wagholi"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-pcmc",
+        "keyword": "VTP Celesta for buyers in PCMC"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-ravet",
+        "keyword": "VTP Celesta for buyers in Ravet"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-punawale",
+        "keyword": "VTP Celesta for buyers in Punawale"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-moshi",
+        "keyword": "VTP Celesta for buyers in Moshi"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-undri",
+        "keyword": "VTP Celesta for buyers in Undri"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-kondhwa",
+        "keyword": "VTP Celesta for buyers in Kondhwa"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-west-pune",
+        "keyword": "VTP Celesta for buyers in West Pune"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-east-pune",
+        "keyword": "VTP Celesta for buyers in East Pune"
+      },
+      {
+        "slug": "vtp-celesta-for-buyers-in-pune-city",
+        "keyword": "VTP Celesta for buyers in Pune City"
+      }
+    ]
+  },
+  {
+    "id": "project-vtp-urban-nest",
+    "title": "VTP Urban Nest Project Details",
+    "description": "VTP Urban Nest provides modern, family-centric homes in Undri.",
+    "slugs": [
+      {
+        "slug": "vtp-urban-nest-price",
+        "keyword": "VTP Urban Nest Price"
+      },
+      {
+        "slug": "vtp-urban-nest-floor-plan",
+        "keyword": "VTP Urban Nest Floor Plan"
+      },
+      {
+        "slug": "vtp-urban-nest-brochure",
+        "keyword": "VTP Urban Nest Brochure"
+      },
+      {
+        "slug": "vtp-urban-nest-reviews",
+        "keyword": "VTP Urban Nest Reviews"
+      },
+      {
+        "slug": "vtp-urban-nest-location",
+        "keyword": "VTP Urban Nest Location"
+      },
+      {
+        "slug": "vtp-urban-nest-construction-status",
+        "keyword": "VTP Urban Nest Construction Status"
+      },
+      {
+        "slug": "vtp-urban-nest-sample-flat",
+        "keyword": "VTP Urban Nest Sample Flat"
+      },
+      {
+        "slug": "vtp-urban-nest-master-plan",
+        "keyword": "VTP Urban Nest Master Plan"
+      },
+      {
+        "slug": "vtp-urban-nest-investment",
+        "keyword": "VTP Urban Nest Investment"
+      },
+      {
+        "slug": "vtp-urban-nest-2-bhk",
+        "keyword": "VTP Urban Nest 2 BHK"
+      },
+      {
+        "slug": "vtp-urban-nest-3-bhk",
+        "keyword": "VTP Urban Nest 3 BHK"
+      },
+      {
+        "slug": "vtp-urban-nest-4-bhk",
+        "keyword": "VTP Urban Nest 4 BHK"
+      },
+      {
+        "slug": "vtp-urban-nest-possession-date",
+        "keyword": "VTP Urban Nest Possession Date"
+      },
+      {
+        "slug": "vtp-urban-nest-rera-number",
+        "keyword": "VTP Urban Nest RERA Number"
+      },
+      {
+        "slug": "vtp-urban-nest-contact-number",
+        "keyword": "VTP Urban Nest Contact Number"
+      },
+      {
+        "slug": "vtp-urban-nest-latest-photos",
+        "keyword": "VTP Urban Nest Latest Photos"
+      },
+      {
+        "slug": "vtp-urban-nest-township-layout",
+        "keyword": "VTP Urban Nest Township Layout"
+      },
+      {
+        "slug": "vtp-urban-nest-amenities",
+        "keyword": "VTP Urban Nest Amenities"
+      },
+      {
+        "slug": "vtp-urban-nest-maximum-livable-area",
+        "keyword": "VTP Urban Nest Maximum Livable Area"
+      },
+      {
+        "slug": "vtp-urban-nest-vs-godrej-hillside",
+        "keyword": "VTP Urban Nest vs Godrej Hillside"
+      },
+      {
+        "slug": "vtp-urban-nest-vs-competitors",
+        "keyword": "VTP Urban Nest vs Competitors"
+      },
+      {
+        "slug": "vtp-urban-nest-nri-investment",
+        "keyword": "VTP Urban Nest NRI Investment"
+      },
+      {
+        "slug": "vtp-urban-nest-resale",
+        "keyword": "VTP Urban Nest Resale"
+      },
+      {
+        "slug": "vtp-urban-nest-rent",
+        "keyword": "VTP Urban Nest Rent"
+      },
+      {
+        "slug": "vtp-urban-nest-floor-plan-pdf",
+        "keyword": "VTP Urban Nest Floor Plan PDF"
+      },
+      {
+        "slug": "vtp-urban-nest-walkthrough-video",
+        "keyword": "VTP Urban Nest Walkthrough Video"
+      },
+      {
+        "slug": "vtp-urban-nest-smart-homes",
+        "keyword": "VTP Urban Nest Smart Homes"
+      },
+      {
+        "slug": "vtp-urban-nest-it-park-proximity",
+        "keyword": "VTP Urban Nest IT Park Proximity"
+      },
+      {
+        "slug": "vtp-urban-nest-pre-emi-offer",
+        "keyword": "VTP Urban Nest Pre EMI Offer"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-mahalunge",
+        "keyword": "VTP Urban Nest for buyers in Mahalunge"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-hinjawadi",
+        "keyword": "VTP Urban Nest for buyers in Hinjawadi"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-baner",
+        "keyword": "VTP Urban Nest for buyers in Baner"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-kharadi",
+        "keyword": "VTP Urban Nest for buyers in Kharadi"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-wakad",
+        "keyword": "VTP Urban Nest for buyers in Wakad"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-balewadi",
+        "keyword": "VTP Urban Nest for buyers in Balewadi"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-tathawade",
+        "keyword": "VTP Urban Nest for buyers in Tathawade"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-bavdhan",
+        "keyword": "VTP Urban Nest for buyers in Bavdhan"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-aundh",
+        "keyword": "VTP Urban Nest for buyers in Aundh"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-pashan",
+        "keyword": "VTP Urban Nest for buyers in Pashan"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-sus",
+        "keyword": "VTP Urban Nest for buyers in Sus"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-kothrud",
+        "keyword": "VTP Urban Nest for buyers in Kothrud"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-kalyani-nagar",
+        "keyword": "VTP Urban Nest for buyers in Kalyani Nagar"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-koregaon-park",
+        "keyword": "VTP Urban Nest for buyers in Koregaon Park"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-viman-nagar",
+        "keyword": "VTP Urban Nest for buyers in Viman Nagar"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-magarpatta",
+        "keyword": "VTP Urban Nest for buyers in Magarpatta"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-hadapsar",
+        "keyword": "VTP Urban Nest for buyers in Hadapsar"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-wagholi",
+        "keyword": "VTP Urban Nest for buyers in Wagholi"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-pcmc",
+        "keyword": "VTP Urban Nest for buyers in PCMC"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-ravet",
+        "keyword": "VTP Urban Nest for buyers in Ravet"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-punawale",
+        "keyword": "VTP Urban Nest for buyers in Punawale"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-moshi",
+        "keyword": "VTP Urban Nest for buyers in Moshi"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-undri",
+        "keyword": "VTP Urban Nest for buyers in Undri"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-kondhwa",
+        "keyword": "VTP Urban Nest for buyers in Kondhwa"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-west-pune",
+        "keyword": "VTP Urban Nest for buyers in West Pune"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-east-pune",
+        "keyword": "VTP Urban Nest for buyers in East Pune"
+      },
+      {
+        "slug": "vtp-urban-nest-for-buyers-in-pune-city",
+        "keyword": "VTP Urban Nest for buyers in Pune City"
+      }
+    ]
+  },
+  {
+    "id": "project-vtp-skylights",
+    "title": "VTP Skylights Project Details",
+    "description": "VTP Skylights offers a massive, integrated township experience with premium lifestyle amenities.",
+    "slugs": [
+      {
+        "slug": "vtp-skylights-price",
+        "keyword": "VTP Skylights Price"
+      },
+      {
+        "slug": "vtp-skylights-floor-plan",
+        "keyword": "VTP Skylights Floor Plan"
+      },
+      {
+        "slug": "vtp-skylights-brochure",
+        "keyword": "VTP Skylights Brochure"
+      },
+      {
+        "slug": "vtp-skylights-reviews",
+        "keyword": "VTP Skylights Reviews"
+      },
+      {
+        "slug": "vtp-skylights-location",
+        "keyword": "VTP Skylights Location"
+      },
+      {
+        "slug": "vtp-skylights-construction-status",
+        "keyword": "VTP Skylights Construction Status"
+      },
+      {
+        "slug": "vtp-skylights-sample-flat",
+        "keyword": "VTP Skylights Sample Flat"
+      },
+      {
+        "slug": "vtp-skylights-master-plan",
+        "keyword": "VTP Skylights Master Plan"
+      },
+      {
+        "slug": "vtp-skylights-investment",
+        "keyword": "VTP Skylights Investment"
+      },
+      {
+        "slug": "vtp-skylights-2-bhk",
+        "keyword": "VTP Skylights 2 BHK"
+      },
+      {
+        "slug": "vtp-skylights-3-bhk",
+        "keyword": "VTP Skylights 3 BHK"
+      },
+      {
+        "slug": "vtp-skylights-4-bhk",
+        "keyword": "VTP Skylights 4 BHK"
+      },
+      {
+        "slug": "vtp-skylights-possession-date",
+        "keyword": "VTP Skylights Possession Date"
+      },
+      {
+        "slug": "vtp-skylights-rera-number",
+        "keyword": "VTP Skylights RERA Number"
+      },
+      {
+        "slug": "vtp-skylights-contact-number",
+        "keyword": "VTP Skylights Contact Number"
+      },
+      {
+        "slug": "vtp-skylights-latest-photos",
+        "keyword": "VTP Skylights Latest Photos"
+      },
+      {
+        "slug": "vtp-skylights-township-layout",
+        "keyword": "VTP Skylights Township Layout"
+      },
+      {
+        "slug": "vtp-skylights-amenities",
+        "keyword": "VTP Skylights Amenities"
+      },
+      {
+        "slug": "vtp-skylights-maximum-livable-area",
+        "keyword": "VTP Skylights Maximum Livable Area"
+      },
+      {
+        "slug": "vtp-skylights-vs-godrej-hillside",
+        "keyword": "VTP Skylights vs Godrej Hillside"
+      },
+      {
+        "slug": "vtp-skylights-vs-competitors",
+        "keyword": "VTP Skylights vs Competitors"
+      },
+      {
+        "slug": "vtp-skylights-nri-investment",
+        "keyword": "VTP Skylights NRI Investment"
+      },
+      {
+        "slug": "vtp-skylights-resale",
+        "keyword": "VTP Skylights Resale"
+      },
+      {
+        "slug": "vtp-skylights-rent",
+        "keyword": "VTP Skylights Rent"
+      },
+      {
+        "slug": "vtp-skylights-floor-plan-pdf",
+        "keyword": "VTP Skylights Floor Plan PDF"
+      },
+      {
+        "slug": "vtp-skylights-walkthrough-video",
+        "keyword": "VTP Skylights Walkthrough Video"
+      },
+      {
+        "slug": "vtp-skylights-smart-homes",
+        "keyword": "VTP Skylights Smart Homes"
+      },
+      {
+        "slug": "vtp-skylights-it-park-proximity",
+        "keyword": "VTP Skylights IT Park Proximity"
+      },
+      {
+        "slug": "vtp-skylights-pre-emi-offer",
+        "keyword": "VTP Skylights Pre EMI Offer"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-mahalunge",
+        "keyword": "VTP Skylights for buyers in Mahalunge"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-hinjawadi",
+        "keyword": "VTP Skylights for buyers in Hinjawadi"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-baner",
+        "keyword": "VTP Skylights for buyers in Baner"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-kharadi",
+        "keyword": "VTP Skylights for buyers in Kharadi"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-wakad",
+        "keyword": "VTP Skylights for buyers in Wakad"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-balewadi",
+        "keyword": "VTP Skylights for buyers in Balewadi"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-tathawade",
+        "keyword": "VTP Skylights for buyers in Tathawade"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-bavdhan",
+        "keyword": "VTP Skylights for buyers in Bavdhan"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-aundh",
+        "keyword": "VTP Skylights for buyers in Aundh"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-pashan",
+        "keyword": "VTP Skylights for buyers in Pashan"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-sus",
+        "keyword": "VTP Skylights for buyers in Sus"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-kothrud",
+        "keyword": "VTP Skylights for buyers in Kothrud"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-kalyani-nagar",
+        "keyword": "VTP Skylights for buyers in Kalyani Nagar"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-koregaon-park",
+        "keyword": "VTP Skylights for buyers in Koregaon Park"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-viman-nagar",
+        "keyword": "VTP Skylights for buyers in Viman Nagar"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-magarpatta",
+        "keyword": "VTP Skylights for buyers in Magarpatta"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-hadapsar",
+        "keyword": "VTP Skylights for buyers in Hadapsar"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-wagholi",
+        "keyword": "VTP Skylights for buyers in Wagholi"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-pcmc",
+        "keyword": "VTP Skylights for buyers in PCMC"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-ravet",
+        "keyword": "VTP Skylights for buyers in Ravet"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-punawale",
+        "keyword": "VTP Skylights for buyers in Punawale"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-moshi",
+        "keyword": "VTP Skylights for buyers in Moshi"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-undri",
+        "keyword": "VTP Skylights for buyers in Undri"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-kondhwa",
+        "keyword": "VTP Skylights for buyers in Kondhwa"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-west-pune",
+        "keyword": "VTP Skylights for buyers in West Pune"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-east-pune",
+        "keyword": "VTP Skylights for buyers in East Pune"
+      },
+      {
+        "slug": "vtp-skylights-for-buyers-in-pune-city",
+        "keyword": "VTP Skylights for buyers in Pune City"
       }
     ]
   },

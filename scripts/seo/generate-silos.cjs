@@ -43,16 +43,36 @@ const locations = [
 ];
 
 const projects = [
+  // West Pune Projects (Bluewaters & Baner)
   { id: 'vtp-bluewaters', name: 'VTP Bluewaters', desc: 'VTP Bluewaters is a 200+ acre mega township in Mahalunge featuring premium 1, 2, 3 & 4 BHK residences.' },
   { id: 'vtp-earth-one', name: 'VTP Earth One', desc: 'VTP Earth One offers signature 2, 3, and 4 BHK luxury residences in Mahalunge, Baner Annexe.' },
   { id: 'vtp-leonara', name: 'VTP Leonara', desc: 'VTP Leonara in Mahalunge offers smartly designed homes with perfect space utilization.' },
   { id: 'vtp-bel-air', name: 'VTP Bel Air', desc: 'Experience premium riverfront living at VTP Bel Air in Mahalunge.' },
   { id: 'vtp-alpine', name: 'VTP Alpine', desc: 'VTP Alpine presents exquisite high-rise living with sweeping views of Pune.' },
+  { id: 'vtp-aethereus', name: 'VTP Aethereus', desc: 'VTP Aethereus is a landmark development in Mahalunge offering premium homes and high-street retail.' },
   { id: 'vtp-town-square', name: 'VTP Town Square', desc: 'VTP Town Square is the premier commercial and retail destination within the Bluewaters township.' },
+  { id: 'vtp-sierra', name: 'VTP Sierra', desc: 'VTP Sierra in Baner-Sus offers Spanish-inspired, spacious 2 & 3 BHK homes at the foothills.' },
+  { id: 'vtp-verve', name: 'VTP Verve', desc: 'VTP Verve presents contemporary urban living in the highly sought-after Baner-Sus corridor.' },
+  { id: 'vtp-solitaire', name: 'VTP Solitaire', desc: 'VTP Solitaire brings exclusive, premium living to Pashan.' },
+  
+  // Hinjawadi Projects
   { id: 'vtp-bellissimo', name: 'VTP Bellissimo', desc: 'VTP Bellissimo in Hinjawadi Phase 1 brings ultra-luxury smart homes to IT professionals.' },
-  { id: 'vtp-monarque', name: 'VTP Monarque', desc: 'VTP Monarque offers unparalleled luxury and exclusivity in Hinjawadi.' },
+  { id: 'vtp-monarque', name: 'VTP Monarque', desc: 'VTP Monarque offers unparalleled luxury, infinity pools, and exclusivity in Hinjawadi Phase 1.' },
+  
+  // East Pune Projects (Kharadi & Wagholi)
+  { id: 'vtp-pegasus', name: 'VTP Pegasus', desc: 'VTP Pegasus is the mega-township in New Kharadi offering an elite lifestyle ecosystem.' },
   { id: 'vtp-altamira', name: 'VTP Altamira', desc: 'VTP Altamira brings the pinnacle of luxury living to Kharadi.' },
-  { id: 'vtp-flamante', name: 'VTP Flamante', desc: 'VTP Flamante in Kharadi offers premium residences with state-of-the-art amenities.' }
+  { id: 'vtp-flamante', name: 'VTP Flamante', desc: 'VTP Flamante by VTP Luxe in Kharadi offers premium high-rise residences with state-of-the-art wellness amenities.' },
+  { id: 'vtp-velvet-villas', name: 'VTP Velvet Villas', desc: 'VTP Velvet Villas offers 43 bespoke, ultra-luxury villas in New Kharadi.' },
+  { id: 'vtp-altair', name: 'VTP Altair', desc: 'VTP Altair is a significant luxury high-rise development in the heart of Kharadi.' },
+  { id: 'vtp-cygnus', name: 'VTP Cygnus', desc: 'VTP Cygnus provides premium, highly sought-after residences in East Pune.' },
+  { id: 'vtp-beaumonde', name: 'VTP Beaumonde', desc: 'VTP Beaumonde offers exquisite living spaces for those who demand the finest in Kharadi.' },
+  { id: 'vtp-purvanchal', name: 'VTP Purvanchal', desc: 'VTP Purvanchal offers a perfect blend of space and community living in Wagholi.' },
+  
+  // South & Central Projects
+  { id: 'vtp-celesta', name: 'VTP Celesta', desc: 'VTP Celesta in NIBM brings premium luxury living to South Pune.' },
+  { id: 'vtp-urban-nest', name: 'VTP Urban Nest', desc: 'VTP Urban Nest provides modern, family-centric homes in Undri.' },
+  { id: 'vtp-skylights', name: 'VTP Skylights', desc: 'VTP Skylights offers a massive, integrated township experience with premium lifestyle amenities.' }
 ];
 
 const categories = [
