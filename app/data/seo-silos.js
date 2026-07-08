@@ -1,7 +1,7 @@
 // AUTO-GENERATED SEO SILOS DATABASE
 // Generated via programmatic SEO engine for massive keyword injection.
 // Total Silos: 112
-// Total Keywords: 8273
+// Total Keywords: 10286
 
 export const seoSilos = [
   {
@@ -17424,6 +17424,46 @@ export const seoSilos = [
         "keyword": "VTP Bluewaters Pre EMI Offer"
       },
       {
+        "slug": "what-is-the-price-of-vtp-bluewaters",
+        "keyword": "What is the price of VTP Bluewaters"
+      },
+      {
+        "slug": "is-it-good-to-invest-in-vtp-bluewaters",
+        "keyword": "Is it good to invest in VTP Bluewaters"
+      },
+      {
+        "slug": "honest-reviews-of-vtp-bluewaters",
+        "keyword": "Honest reviews of VTP Bluewaters"
+      },
+      {
+        "slug": "exact-location-of-vtp-bluewaters",
+        "keyword": "Exact location of VTP Bluewaters"
+      },
+      {
+        "slug": "when-is-the-possession-date-for-vtp-bluewaters",
+        "keyword": "When is the possession date for VTP Bluewaters"
+      },
+      {
+        "slug": "how-to-book-a-flat-in-vtp-bluewaters",
+        "keyword": "How to book a flat in VTP Bluewaters"
+      },
+      {
+        "slug": "distance-from-it-park-to-vtp-bluewaters",
+        "keyword": "Distance from IT Park to VTP Bluewaters"
+      },
+      {
+        "slug": "latest-construction-update-of-vtp-bluewaters",
+        "keyword": "Latest construction update of VTP Bluewaters"
+      },
+      {
+        "slug": "rera-registration-details-for-vtp-bluewaters",
+        "keyword": "RERA registration details for VTP Bluewaters"
+      },
+      {
+        "slug": "download-brochure-pdf-for-vtp-bluewaters",
+        "keyword": "Download brochure PDF for VTP Bluewaters"
+      },
+      {
         "slug": "vtp-bluewaters-for-buyers-in-mahalunge",
         "keyword": "VTP Bluewaters for buyers in Mahalunge"
       },
@@ -17670,6 +17710,210 @@ export const seoSilos = [
       {
         "slug": "vtp-bluewaters-for-buyers-in-bahrain",
         "keyword": "VTP Bluewaters for buyers in Bahrain"
+      },
+      {
+        "slug": "vtp-bluewaters-pune-smart-city-projects",
+        "keyword": "VTP Bluewaters - Pune Smart City Projects"
+      },
+      {
+        "slug": "vtp-bluewaters-riverfront-living-pune",
+        "keyword": "VTP Bluewaters - Riverfront Living Pune"
+      },
+      {
+        "slug": "vtp-bluewaters-high-roi-investment-pune",
+        "keyword": "VTP Bluewaters - High ROI Investment Pune"
+      },
+      {
+        "slug": "vtp-bluewaters-zero-brokerage-flats-pune",
+        "keyword": "VTP Bluewaters - Zero Brokerage Flats Pune"
+      },
+      {
+        "slug": "vtp-bluewaters-rera-registered-projects-pune",
+        "keyword": "VTP Bluewaters - RERA Registered Projects Pune"
+      },
+      {
+        "slug": "vtp-bluewaters-best-areas-to-invest-in-pune-2026",
+        "keyword": "VTP Bluewaters - Best Areas to Invest in Pune 2026"
+      },
+      {
+        "slug": "vtp-bluewaters-pune-real-estate-market-trends",
+        "keyword": "VTP Bluewaters - Pune Real Estate Market Trends"
+      },
+      {
+        "slug": "vtp-bluewaters-walk-to-work-homes-pune",
+        "keyword": "VTP Bluewaters - Walk-to-Work Homes Pune"
+      },
+      {
+        "slug": "vtp-bluewaters-properties-near-pune-metro",
+        "keyword": "VTP Bluewaters - Properties near Pune Metro"
+      },
+      {
+        "slug": "vtp-bluewaters-top-10-builders-in-pune",
+        "keyword": "VTP Bluewaters - Top 10 Builders in Pune"
+      },
+      {
+        "slug": "vtp-bluewaters-stamp-duty-and-registration-in-pune",
+        "keyword": "VTP Bluewaters - Stamp Duty and Registration in Pune"
+      },
+      {
+        "slug": "vtp-bluewaters-is-pune-real-estate-a-bubble",
+        "keyword": "VTP Bluewaters - Is Pune Real Estate a Bubble"
+      },
+      {
+        "slug": "vtp-bluewaters-pune-vs-bangalore-real-estate",
+        "keyword": "VTP Bluewaters - Pune vs Bangalore Real Estate"
+      },
+      {
+        "slug": "vtp-bluewaters-pet-friendly-apartments-in-pune",
+        "keyword": "VTP Bluewaters - Pet Friendly Apartments in Pune"
+      },
+      {
+        "slug": "vtp-bluewaters-smart-home-automation-in-pune",
+        "keyword": "VTP Bluewaters - Smart Home Automation in Pune"
+      },
+      {
+        "slug": "vtp-bluewaters-co-living-spaces-in-pune",
+        "keyword": "VTP Bluewaters - Co-Living Spaces in Pune"
+      },
+      {
+        "slug": "vtp-bluewaters-senior-living-communities-in-pune",
+        "keyword": "VTP Bluewaters - Senior Living Communities in Pune"
+      },
+      {
+        "slug": "vtp-bluewaters-luxury-apartments",
+        "keyword": "VTP Bluewaters Luxury Apartments"
+      },
+      {
+        "slug": "vtp-bluewaters-premium-flats",
+        "keyword": "VTP Bluewaters Premium Flats"
+      },
+      {
+        "slug": "vtp-bluewaters-new-launch-projects",
+        "keyword": "VTP Bluewaters New Launch Projects"
+      },
+      {
+        "slug": "vtp-bluewaters-township-projects",
+        "keyword": "VTP Bluewaters Township Projects"
+      },
+      {
+        "slug": "vtp-bluewaters-real-estate-investment",
+        "keyword": "VTP Bluewaters Real Estate Investment"
+      },
+      {
+        "slug": "vtp-bluewaters-1bhk-flats",
+        "keyword": "VTP Bluewaters 1BHK Flats"
+      },
+      {
+        "slug": "vtp-bluewaters-2bhk-flats",
+        "keyword": "VTP Bluewaters 2BHK Flats"
+      },
+      {
+        "slug": "vtp-bluewaters-3bhk-luxury-homes",
+        "keyword": "VTP Bluewaters 3BHK Luxury Homes"
+      },
+      {
+        "slug": "vtp-bluewaters-4bhk-premium-apartments",
+        "keyword": "VTP Bluewaters 4BHK Premium Apartments"
+      },
+      {
+        "slug": "vtp-bluewaters-5bhk-villas",
+        "keyword": "VTP Bluewaters 5BHK Villas"
+      },
+      {
+        "slug": "vtp-bluewaters-1-bhk",
+        "keyword": "VTP Bluewaters 1 BHK"
+      },
+      {
+        "slug": "vtp-bluewaters-2-bhk",
+        "keyword": "VTP Bluewaters 2 BHK"
+      },
+      {
+        "slug": "vtp-bluewaters-3-bhk",
+        "keyword": "VTP Bluewaters 3 BHK"
+      },
+      {
+        "slug": "vtp-bluewaters-4-bhk",
+        "keyword": "VTP Bluewaters 4 BHK"
+      },
+      {
+        "slug": "vtp-bluewaters-studio-apartments",
+        "keyword": "VTP Bluewaters Studio Apartments"
+      },
+      {
+        "slug": "vtp-bluewaters-duplex-apartments",
+        "keyword": "VTP Bluewaters Duplex Apartments"
+      },
+      {
+        "slug": "vtp-bluewaters-sky-duplex",
+        "keyword": "VTP Bluewaters Sky Duplex"
+      },
+      {
+        "slug": "vtp-bluewaters-simplex-apartments",
+        "keyword": "VTP Bluewaters Simplex Apartments"
+      },
+      {
+        "slug": "vtp-bluewaters-penthouses",
+        "keyword": "VTP Bluewaters Penthouses"
+      },
+      {
+        "slug": "vtp-bluewaters-double-height-homes",
+        "keyword": "VTP Bluewaters Double-Height Homes"
+      },
+      {
+        "slug": "vtp-bluewaters-private-plunge-pool-flats",
+        "keyword": "VTP Bluewaters Private Plunge Pool Flats"
+      },
+      {
+        "slug": "vtp-bluewaters-nri-premium-homes",
+        "keyword": "VTP Bluewaters NRI Premium Homes"
+      },
+      {
+        "slug": "vtp-bluewaters-properties",
+        "keyword": "VTP Bluewaters Properties"
+      },
+      {
+        "slug": "vtp-bluewaters-flats",
+        "keyword": "VTP Bluewaters Flats"
+      },
+      {
+        "slug": "vtp-bluewaters-villas",
+        "keyword": "VTP Bluewaters Villas"
+      },
+      {
+        "slug": "vtp-bluewaters-row-houses",
+        "keyword": "VTP Bluewaters Row Houses"
+      },
+      {
+        "slug": "vtp-bluewaters-commercial-real-estate",
+        "keyword": "VTP Bluewaters Commercial Real Estate"
+      },
+      {
+        "slug": "vtp-bluewaters-retail-spaces",
+        "keyword": "VTP Bluewaters Retail Spaces"
+      },
+      {
+        "slug": "vtp-bluewaters-office-spaces",
+        "keyword": "VTP Bluewaters Office Spaces"
+      },
+      {
+        "slug": "vtp-bluewaters-ready-possession",
+        "keyword": "VTP Bluewaters Ready Possession"
+      },
+      {
+        "slug": "vtp-bluewaters-under-construction",
+        "keyword": "VTP Bluewaters Under Construction"
+      },
+      {
+        "slug": "vtp-bluewaters-it-park-homes",
+        "keyword": "VTP Bluewaters IT Park Homes"
+      },
+      {
+        "slug": "vtp-bluewaters-mla-homes",
+        "keyword": "VTP Bluewaters MLA Homes"
+      },
+      {
+        "slug": "vtp-bluewaters-vtp-projects",
+        "keyword": "VTP Bluewaters VTP Projects"
       }
     ]
   },
@@ -17793,6 +18037,46 @@ export const seoSilos = [
       {
         "slug": "vtp-earth-one-pre-emi-offer",
         "keyword": "VTP Earth One Pre EMI Offer"
+      },
+      {
+        "slug": "what-is-the-price-of-vtp-earth-one",
+        "keyword": "What is the price of VTP Earth One"
+      },
+      {
+        "slug": "is-it-good-to-invest-in-vtp-earth-one",
+        "keyword": "Is it good to invest in VTP Earth One"
+      },
+      {
+        "slug": "honest-reviews-of-vtp-earth-one",
+        "keyword": "Honest reviews of VTP Earth One"
+      },
+      {
+        "slug": "exact-location-of-vtp-earth-one",
+        "keyword": "Exact location of VTP Earth One"
+      },
+      {
+        "slug": "when-is-the-possession-date-for-vtp-earth-one",
+        "keyword": "When is the possession date for VTP Earth One"
+      },
+      {
+        "slug": "how-to-book-a-flat-in-vtp-earth-one",
+        "keyword": "How to book a flat in VTP Earth One"
+      },
+      {
+        "slug": "distance-from-it-park-to-vtp-earth-one",
+        "keyword": "Distance from IT Park to VTP Earth One"
+      },
+      {
+        "slug": "latest-construction-update-of-vtp-earth-one",
+        "keyword": "Latest construction update of VTP Earth One"
+      },
+      {
+        "slug": "rera-registration-details-for-vtp-earth-one",
+        "keyword": "RERA registration details for VTP Earth One"
+      },
+      {
+        "slug": "download-brochure-pdf-for-vtp-earth-one",
+        "keyword": "Download brochure PDF for VTP Earth One"
       },
       {
         "slug": "vtp-earth-one-for-buyers-in-mahalunge",
@@ -18041,6 +18325,210 @@ export const seoSilos = [
       {
         "slug": "vtp-earth-one-for-buyers-in-bahrain",
         "keyword": "VTP Earth One for buyers in Bahrain"
+      },
+      {
+        "slug": "vtp-earth-one-pune-smart-city-projects",
+        "keyword": "VTP Earth One - Pune Smart City Projects"
+      },
+      {
+        "slug": "vtp-earth-one-riverfront-living-pune",
+        "keyword": "VTP Earth One - Riverfront Living Pune"
+      },
+      {
+        "slug": "vtp-earth-one-high-roi-investment-pune",
+        "keyword": "VTP Earth One - High ROI Investment Pune"
+      },
+      {
+        "slug": "vtp-earth-one-zero-brokerage-flats-pune",
+        "keyword": "VTP Earth One - Zero Brokerage Flats Pune"
+      },
+      {
+        "slug": "vtp-earth-one-rera-registered-projects-pune",
+        "keyword": "VTP Earth One - RERA Registered Projects Pune"
+      },
+      {
+        "slug": "vtp-earth-one-best-areas-to-invest-in-pune-2026",
+        "keyword": "VTP Earth One - Best Areas to Invest in Pune 2026"
+      },
+      {
+        "slug": "vtp-earth-one-pune-real-estate-market-trends",
+        "keyword": "VTP Earth One - Pune Real Estate Market Trends"
+      },
+      {
+        "slug": "vtp-earth-one-walk-to-work-homes-pune",
+        "keyword": "VTP Earth One - Walk-to-Work Homes Pune"
+      },
+      {
+        "slug": "vtp-earth-one-properties-near-pune-metro",
+        "keyword": "VTP Earth One - Properties near Pune Metro"
+      },
+      {
+        "slug": "vtp-earth-one-top-10-builders-in-pune",
+        "keyword": "VTP Earth One - Top 10 Builders in Pune"
+      },
+      {
+        "slug": "vtp-earth-one-stamp-duty-and-registration-in-pune",
+        "keyword": "VTP Earth One - Stamp Duty and Registration in Pune"
+      },
+      {
+        "slug": "vtp-earth-one-is-pune-real-estate-a-bubble",
+        "keyword": "VTP Earth One - Is Pune Real Estate a Bubble"
+      },
+      {
+        "slug": "vtp-earth-one-pune-vs-bangalore-real-estate",
+        "keyword": "VTP Earth One - Pune vs Bangalore Real Estate"
+      },
+      {
+        "slug": "vtp-earth-one-pet-friendly-apartments-in-pune",
+        "keyword": "VTP Earth One - Pet Friendly Apartments in Pune"
+      },
+      {
+        "slug": "vtp-earth-one-smart-home-automation-in-pune",
+        "keyword": "VTP Earth One - Smart Home Automation in Pune"
+      },
+      {
+        "slug": "vtp-earth-one-co-living-spaces-in-pune",
+        "keyword": "VTP Earth One - Co-Living Spaces in Pune"
+      },
+      {
+        "slug": "vtp-earth-one-senior-living-communities-in-pune",
+        "keyword": "VTP Earth One - Senior Living Communities in Pune"
+      },
+      {
+        "slug": "vtp-earth-one-luxury-apartments",
+        "keyword": "VTP Earth One Luxury Apartments"
+      },
+      {
+        "slug": "vtp-earth-one-premium-flats",
+        "keyword": "VTP Earth One Premium Flats"
+      },
+      {
+        "slug": "vtp-earth-one-new-launch-projects",
+        "keyword": "VTP Earth One New Launch Projects"
+      },
+      {
+        "slug": "vtp-earth-one-township-projects",
+        "keyword": "VTP Earth One Township Projects"
+      },
+      {
+        "slug": "vtp-earth-one-real-estate-investment",
+        "keyword": "VTP Earth One Real Estate Investment"
+      },
+      {
+        "slug": "vtp-earth-one-1bhk-flats",
+        "keyword": "VTP Earth One 1BHK Flats"
+      },
+      {
+        "slug": "vtp-earth-one-2bhk-flats",
+        "keyword": "VTP Earth One 2BHK Flats"
+      },
+      {
+        "slug": "vtp-earth-one-3bhk-luxury-homes",
+        "keyword": "VTP Earth One 3BHK Luxury Homes"
+      },
+      {
+        "slug": "vtp-earth-one-4bhk-premium-apartments",
+        "keyword": "VTP Earth One 4BHK Premium Apartments"
+      },
+      {
+        "slug": "vtp-earth-one-5bhk-villas",
+        "keyword": "VTP Earth One 5BHK Villas"
+      },
+      {
+        "slug": "vtp-earth-one-1-bhk",
+        "keyword": "VTP Earth One 1 BHK"
+      },
+      {
+        "slug": "vtp-earth-one-2-bhk",
+        "keyword": "VTP Earth One 2 BHK"
+      },
+      {
+        "slug": "vtp-earth-one-3-bhk",
+        "keyword": "VTP Earth One 3 BHK"
+      },
+      {
+        "slug": "vtp-earth-one-4-bhk",
+        "keyword": "VTP Earth One 4 BHK"
+      },
+      {
+        "slug": "vtp-earth-one-studio-apartments",
+        "keyword": "VTP Earth One Studio Apartments"
+      },
+      {
+        "slug": "vtp-earth-one-duplex-apartments",
+        "keyword": "VTP Earth One Duplex Apartments"
+      },
+      {
+        "slug": "vtp-earth-one-sky-duplex",
+        "keyword": "VTP Earth One Sky Duplex"
+      },
+      {
+        "slug": "vtp-earth-one-simplex-apartments",
+        "keyword": "VTP Earth One Simplex Apartments"
+      },
+      {
+        "slug": "vtp-earth-one-penthouses",
+        "keyword": "VTP Earth One Penthouses"
+      },
+      {
+        "slug": "vtp-earth-one-double-height-homes",
+        "keyword": "VTP Earth One Double-Height Homes"
+      },
+      {
+        "slug": "vtp-earth-one-private-plunge-pool-flats",
+        "keyword": "VTP Earth One Private Plunge Pool Flats"
+      },
+      {
+        "slug": "vtp-earth-one-nri-premium-homes",
+        "keyword": "VTP Earth One NRI Premium Homes"
+      },
+      {
+        "slug": "vtp-earth-one-properties",
+        "keyword": "VTP Earth One Properties"
+      },
+      {
+        "slug": "vtp-earth-one-flats",
+        "keyword": "VTP Earth One Flats"
+      },
+      {
+        "slug": "vtp-earth-one-villas",
+        "keyword": "VTP Earth One Villas"
+      },
+      {
+        "slug": "vtp-earth-one-row-houses",
+        "keyword": "VTP Earth One Row Houses"
+      },
+      {
+        "slug": "vtp-earth-one-commercial-real-estate",
+        "keyword": "VTP Earth One Commercial Real Estate"
+      },
+      {
+        "slug": "vtp-earth-one-retail-spaces",
+        "keyword": "VTP Earth One Retail Spaces"
+      },
+      {
+        "slug": "vtp-earth-one-office-spaces",
+        "keyword": "VTP Earth One Office Spaces"
+      },
+      {
+        "slug": "vtp-earth-one-ready-possession",
+        "keyword": "VTP Earth One Ready Possession"
+      },
+      {
+        "slug": "vtp-earth-one-under-construction",
+        "keyword": "VTP Earth One Under Construction"
+      },
+      {
+        "slug": "vtp-earth-one-it-park-homes",
+        "keyword": "VTP Earth One IT Park Homes"
+      },
+      {
+        "slug": "vtp-earth-one-mla-homes",
+        "keyword": "VTP Earth One MLA Homes"
+      },
+      {
+        "slug": "vtp-earth-one-vtp-projects",
+        "keyword": "VTP Earth One VTP Projects"
       }
     ]
   },
@@ -18164,6 +18652,46 @@ export const seoSilos = [
       {
         "slug": "vtp-leonara-pre-emi-offer",
         "keyword": "VTP Leonara Pre EMI Offer"
+      },
+      {
+        "slug": "what-is-the-price-of-vtp-leonara",
+        "keyword": "What is the price of VTP Leonara"
+      },
+      {
+        "slug": "is-it-good-to-invest-in-vtp-leonara",
+        "keyword": "Is it good to invest in VTP Leonara"
+      },
+      {
+        "slug": "honest-reviews-of-vtp-leonara",
+        "keyword": "Honest reviews of VTP Leonara"
+      },
+      {
+        "slug": "exact-location-of-vtp-leonara",
+        "keyword": "Exact location of VTP Leonara"
+      },
+      {
+        "slug": "when-is-the-possession-date-for-vtp-leonara",
+        "keyword": "When is the possession date for VTP Leonara"
+      },
+      {
+        "slug": "how-to-book-a-flat-in-vtp-leonara",
+        "keyword": "How to book a flat in VTP Leonara"
+      },
+      {
+        "slug": "distance-from-it-park-to-vtp-leonara",
+        "keyword": "Distance from IT Park to VTP Leonara"
+      },
+      {
+        "slug": "latest-construction-update-of-vtp-leonara",
+        "keyword": "Latest construction update of VTP Leonara"
+      },
+      {
+        "slug": "rera-registration-details-for-vtp-leonara",
+        "keyword": "RERA registration details for VTP Leonara"
+      },
+      {
+        "slug": "download-brochure-pdf-for-vtp-leonara",
+        "keyword": "Download brochure PDF for VTP Leonara"
       },
       {
         "slug": "vtp-leonara-for-buyers-in-mahalunge",
@@ -18412,6 +18940,210 @@ export const seoSilos = [
       {
         "slug": "vtp-leonara-for-buyers-in-bahrain",
         "keyword": "VTP Leonara for buyers in Bahrain"
+      },
+      {
+        "slug": "vtp-leonara-pune-smart-city-projects",
+        "keyword": "VTP Leonara - Pune Smart City Projects"
+      },
+      {
+        "slug": "vtp-leonara-riverfront-living-pune",
+        "keyword": "VTP Leonara - Riverfront Living Pune"
+      },
+      {
+        "slug": "vtp-leonara-high-roi-investment-pune",
+        "keyword": "VTP Leonara - High ROI Investment Pune"
+      },
+      {
+        "slug": "vtp-leonara-zero-brokerage-flats-pune",
+        "keyword": "VTP Leonara - Zero Brokerage Flats Pune"
+      },
+      {
+        "slug": "vtp-leonara-rera-registered-projects-pune",
+        "keyword": "VTP Leonara - RERA Registered Projects Pune"
+      },
+      {
+        "slug": "vtp-leonara-best-areas-to-invest-in-pune-2026",
+        "keyword": "VTP Leonara - Best Areas to Invest in Pune 2026"
+      },
+      {
+        "slug": "vtp-leonara-pune-real-estate-market-trends",
+        "keyword": "VTP Leonara - Pune Real Estate Market Trends"
+      },
+      {
+        "slug": "vtp-leonara-walk-to-work-homes-pune",
+        "keyword": "VTP Leonara - Walk-to-Work Homes Pune"
+      },
+      {
+        "slug": "vtp-leonara-properties-near-pune-metro",
+        "keyword": "VTP Leonara - Properties near Pune Metro"
+      },
+      {
+        "slug": "vtp-leonara-top-10-builders-in-pune",
+        "keyword": "VTP Leonara - Top 10 Builders in Pune"
+      },
+      {
+        "slug": "vtp-leonara-stamp-duty-and-registration-in-pune",
+        "keyword": "VTP Leonara - Stamp Duty and Registration in Pune"
+      },
+      {
+        "slug": "vtp-leonara-is-pune-real-estate-a-bubble",
+        "keyword": "VTP Leonara - Is Pune Real Estate a Bubble"
+      },
+      {
+        "slug": "vtp-leonara-pune-vs-bangalore-real-estate",
+        "keyword": "VTP Leonara - Pune vs Bangalore Real Estate"
+      },
+      {
+        "slug": "vtp-leonara-pet-friendly-apartments-in-pune",
+        "keyword": "VTP Leonara - Pet Friendly Apartments in Pune"
+      },
+      {
+        "slug": "vtp-leonara-smart-home-automation-in-pune",
+        "keyword": "VTP Leonara - Smart Home Automation in Pune"
+      },
+      {
+        "slug": "vtp-leonara-co-living-spaces-in-pune",
+        "keyword": "VTP Leonara - Co-Living Spaces in Pune"
+      },
+      {
+        "slug": "vtp-leonara-senior-living-communities-in-pune",
+        "keyword": "VTP Leonara - Senior Living Communities in Pune"
+      },
+      {
+        "slug": "vtp-leonara-luxury-apartments",
+        "keyword": "VTP Leonara Luxury Apartments"
+      },
+      {
+        "slug": "vtp-leonara-premium-flats",
+        "keyword": "VTP Leonara Premium Flats"
+      },
+      {
+        "slug": "vtp-leonara-new-launch-projects",
+        "keyword": "VTP Leonara New Launch Projects"
+      },
+      {
+        "slug": "vtp-leonara-township-projects",
+        "keyword": "VTP Leonara Township Projects"
+      },
+      {
+        "slug": "vtp-leonara-real-estate-investment",
+        "keyword": "VTP Leonara Real Estate Investment"
+      },
+      {
+        "slug": "vtp-leonara-1bhk-flats",
+        "keyword": "VTP Leonara 1BHK Flats"
+      },
+      {
+        "slug": "vtp-leonara-2bhk-flats",
+        "keyword": "VTP Leonara 2BHK Flats"
+      },
+      {
+        "slug": "vtp-leonara-3bhk-luxury-homes",
+        "keyword": "VTP Leonara 3BHK Luxury Homes"
+      },
+      {
+        "slug": "vtp-leonara-4bhk-premium-apartments",
+        "keyword": "VTP Leonara 4BHK Premium Apartments"
+      },
+      {
+        "slug": "vtp-leonara-5bhk-villas",
+        "keyword": "VTP Leonara 5BHK Villas"
+      },
+      {
+        "slug": "vtp-leonara-1-bhk",
+        "keyword": "VTP Leonara 1 BHK"
+      },
+      {
+        "slug": "vtp-leonara-2-bhk",
+        "keyword": "VTP Leonara 2 BHK"
+      },
+      {
+        "slug": "vtp-leonara-3-bhk",
+        "keyword": "VTP Leonara 3 BHK"
+      },
+      {
+        "slug": "vtp-leonara-4-bhk",
+        "keyword": "VTP Leonara 4 BHK"
+      },
+      {
+        "slug": "vtp-leonara-studio-apartments",
+        "keyword": "VTP Leonara Studio Apartments"
+      },
+      {
+        "slug": "vtp-leonara-duplex-apartments",
+        "keyword": "VTP Leonara Duplex Apartments"
+      },
+      {
+        "slug": "vtp-leonara-sky-duplex",
+        "keyword": "VTP Leonara Sky Duplex"
+      },
+      {
+        "slug": "vtp-leonara-simplex-apartments",
+        "keyword": "VTP Leonara Simplex Apartments"
+      },
+      {
+        "slug": "vtp-leonara-penthouses",
+        "keyword": "VTP Leonara Penthouses"
+      },
+      {
+        "slug": "vtp-leonara-double-height-homes",
+        "keyword": "VTP Leonara Double-Height Homes"
+      },
+      {
+        "slug": "vtp-leonara-private-plunge-pool-flats",
+        "keyword": "VTP Leonara Private Plunge Pool Flats"
+      },
+      {
+        "slug": "vtp-leonara-nri-premium-homes",
+        "keyword": "VTP Leonara NRI Premium Homes"
+      },
+      {
+        "slug": "vtp-leonara-properties",
+        "keyword": "VTP Leonara Properties"
+      },
+      {
+        "slug": "vtp-leonara-flats",
+        "keyword": "VTP Leonara Flats"
+      },
+      {
+        "slug": "vtp-leonara-villas",
+        "keyword": "VTP Leonara Villas"
+      },
+      {
+        "slug": "vtp-leonara-row-houses",
+        "keyword": "VTP Leonara Row Houses"
+      },
+      {
+        "slug": "vtp-leonara-commercial-real-estate",
+        "keyword": "VTP Leonara Commercial Real Estate"
+      },
+      {
+        "slug": "vtp-leonara-retail-spaces",
+        "keyword": "VTP Leonara Retail Spaces"
+      },
+      {
+        "slug": "vtp-leonara-office-spaces",
+        "keyword": "VTP Leonara Office Spaces"
+      },
+      {
+        "slug": "vtp-leonara-ready-possession",
+        "keyword": "VTP Leonara Ready Possession"
+      },
+      {
+        "slug": "vtp-leonara-under-construction",
+        "keyword": "VTP Leonara Under Construction"
+      },
+      {
+        "slug": "vtp-leonara-it-park-homes",
+        "keyword": "VTP Leonara IT Park Homes"
+      },
+      {
+        "slug": "vtp-leonara-mla-homes",
+        "keyword": "VTP Leonara MLA Homes"
+      },
+      {
+        "slug": "vtp-leonara-vtp-projects",
+        "keyword": "VTP Leonara VTP Projects"
       }
     ]
   },
@@ -18535,6 +19267,46 @@ export const seoSilos = [
       {
         "slug": "vtp-bel-air-pre-emi-offer",
         "keyword": "VTP Bel Air Pre EMI Offer"
+      },
+      {
+        "slug": "what-is-the-price-of-vtp-bel-air",
+        "keyword": "What is the price of VTP Bel Air"
+      },
+      {
+        "slug": "is-it-good-to-invest-in-vtp-bel-air",
+        "keyword": "Is it good to invest in VTP Bel Air"
+      },
+      {
+        "slug": "honest-reviews-of-vtp-bel-air",
+        "keyword": "Honest reviews of VTP Bel Air"
+      },
+      {
+        "slug": "exact-location-of-vtp-bel-air",
+        "keyword": "Exact location of VTP Bel Air"
+      },
+      {
+        "slug": "when-is-the-possession-date-for-vtp-bel-air",
+        "keyword": "When is the possession date for VTP Bel Air"
+      },
+      {
+        "slug": "how-to-book-a-flat-in-vtp-bel-air",
+        "keyword": "How to book a flat in VTP Bel Air"
+      },
+      {
+        "slug": "distance-from-it-park-to-vtp-bel-air",
+        "keyword": "Distance from IT Park to VTP Bel Air"
+      },
+      {
+        "slug": "latest-construction-update-of-vtp-bel-air",
+        "keyword": "Latest construction update of VTP Bel Air"
+      },
+      {
+        "slug": "rera-registration-details-for-vtp-bel-air",
+        "keyword": "RERA registration details for VTP Bel Air"
+      },
+      {
+        "slug": "download-brochure-pdf-for-vtp-bel-air",
+        "keyword": "Download brochure PDF for VTP Bel Air"
       },
       {
         "slug": "vtp-bel-air-for-buyers-in-mahalunge",
@@ -18783,6 +19555,210 @@ export const seoSilos = [
       {
         "slug": "vtp-bel-air-for-buyers-in-bahrain",
         "keyword": "VTP Bel Air for buyers in Bahrain"
+      },
+      {
+        "slug": "vtp-bel-air-pune-smart-city-projects",
+        "keyword": "VTP Bel Air - Pune Smart City Projects"
+      },
+      {
+        "slug": "vtp-bel-air-riverfront-living-pune",
+        "keyword": "VTP Bel Air - Riverfront Living Pune"
+      },
+      {
+        "slug": "vtp-bel-air-high-roi-investment-pune",
+        "keyword": "VTP Bel Air - High ROI Investment Pune"
+      },
+      {
+        "slug": "vtp-bel-air-zero-brokerage-flats-pune",
+        "keyword": "VTP Bel Air - Zero Brokerage Flats Pune"
+      },
+      {
+        "slug": "vtp-bel-air-rera-registered-projects-pune",
+        "keyword": "VTP Bel Air - RERA Registered Projects Pune"
+      },
+      {
+        "slug": "vtp-bel-air-best-areas-to-invest-in-pune-2026",
+        "keyword": "VTP Bel Air - Best Areas to Invest in Pune 2026"
+      },
+      {
+        "slug": "vtp-bel-air-pune-real-estate-market-trends",
+        "keyword": "VTP Bel Air - Pune Real Estate Market Trends"
+      },
+      {
+        "slug": "vtp-bel-air-walk-to-work-homes-pune",
+        "keyword": "VTP Bel Air - Walk-to-Work Homes Pune"
+      },
+      {
+        "slug": "vtp-bel-air-properties-near-pune-metro",
+        "keyword": "VTP Bel Air - Properties near Pune Metro"
+      },
+      {
+        "slug": "vtp-bel-air-top-10-builders-in-pune",
+        "keyword": "VTP Bel Air - Top 10 Builders in Pune"
+      },
+      {
+        "slug": "vtp-bel-air-stamp-duty-and-registration-in-pune",
+        "keyword": "VTP Bel Air - Stamp Duty and Registration in Pune"
+      },
+      {
+        "slug": "vtp-bel-air-is-pune-real-estate-a-bubble",
+        "keyword": "VTP Bel Air - Is Pune Real Estate a Bubble"
+      },
+      {
+        "slug": "vtp-bel-air-pune-vs-bangalore-real-estate",
+        "keyword": "VTP Bel Air - Pune vs Bangalore Real Estate"
+      },
+      {
+        "slug": "vtp-bel-air-pet-friendly-apartments-in-pune",
+        "keyword": "VTP Bel Air - Pet Friendly Apartments in Pune"
+      },
+      {
+        "slug": "vtp-bel-air-smart-home-automation-in-pune",
+        "keyword": "VTP Bel Air - Smart Home Automation in Pune"
+      },
+      {
+        "slug": "vtp-bel-air-co-living-spaces-in-pune",
+        "keyword": "VTP Bel Air - Co-Living Spaces in Pune"
+      },
+      {
+        "slug": "vtp-bel-air-senior-living-communities-in-pune",
+        "keyword": "VTP Bel Air - Senior Living Communities in Pune"
+      },
+      {
+        "slug": "vtp-bel-air-luxury-apartments",
+        "keyword": "VTP Bel Air Luxury Apartments"
+      },
+      {
+        "slug": "vtp-bel-air-premium-flats",
+        "keyword": "VTP Bel Air Premium Flats"
+      },
+      {
+        "slug": "vtp-bel-air-new-launch-projects",
+        "keyword": "VTP Bel Air New Launch Projects"
+      },
+      {
+        "slug": "vtp-bel-air-township-projects",
+        "keyword": "VTP Bel Air Township Projects"
+      },
+      {
+        "slug": "vtp-bel-air-real-estate-investment",
+        "keyword": "VTP Bel Air Real Estate Investment"
+      },
+      {
+        "slug": "vtp-bel-air-1bhk-flats",
+        "keyword": "VTP Bel Air 1BHK Flats"
+      },
+      {
+        "slug": "vtp-bel-air-2bhk-flats",
+        "keyword": "VTP Bel Air 2BHK Flats"
+      },
+      {
+        "slug": "vtp-bel-air-3bhk-luxury-homes",
+        "keyword": "VTP Bel Air 3BHK Luxury Homes"
+      },
+      {
+        "slug": "vtp-bel-air-4bhk-premium-apartments",
+        "keyword": "VTP Bel Air 4BHK Premium Apartments"
+      },
+      {
+        "slug": "vtp-bel-air-5bhk-villas",
+        "keyword": "VTP Bel Air 5BHK Villas"
+      },
+      {
+        "slug": "vtp-bel-air-1-bhk",
+        "keyword": "VTP Bel Air 1 BHK"
+      },
+      {
+        "slug": "vtp-bel-air-2-bhk",
+        "keyword": "VTP Bel Air 2 BHK"
+      },
+      {
+        "slug": "vtp-bel-air-3-bhk",
+        "keyword": "VTP Bel Air 3 BHK"
+      },
+      {
+        "slug": "vtp-bel-air-4-bhk",
+        "keyword": "VTP Bel Air 4 BHK"
+      },
+      {
+        "slug": "vtp-bel-air-studio-apartments",
+        "keyword": "VTP Bel Air Studio Apartments"
+      },
+      {
+        "slug": "vtp-bel-air-duplex-apartments",
+        "keyword": "VTP Bel Air Duplex Apartments"
+      },
+      {
+        "slug": "vtp-bel-air-sky-duplex",
+        "keyword": "VTP Bel Air Sky Duplex"
+      },
+      {
+        "slug": "vtp-bel-air-simplex-apartments",
+        "keyword": "VTP Bel Air Simplex Apartments"
+      },
+      {
+        "slug": "vtp-bel-air-penthouses",
+        "keyword": "VTP Bel Air Penthouses"
+      },
+      {
+        "slug": "vtp-bel-air-double-height-homes",
+        "keyword": "VTP Bel Air Double-Height Homes"
+      },
+      {
+        "slug": "vtp-bel-air-private-plunge-pool-flats",
+        "keyword": "VTP Bel Air Private Plunge Pool Flats"
+      },
+      {
+        "slug": "vtp-bel-air-nri-premium-homes",
+        "keyword": "VTP Bel Air NRI Premium Homes"
+      },
+      {
+        "slug": "vtp-bel-air-properties",
+        "keyword": "VTP Bel Air Properties"
+      },
+      {
+        "slug": "vtp-bel-air-flats",
+        "keyword": "VTP Bel Air Flats"
+      },
+      {
+        "slug": "vtp-bel-air-villas",
+        "keyword": "VTP Bel Air Villas"
+      },
+      {
+        "slug": "vtp-bel-air-row-houses",
+        "keyword": "VTP Bel Air Row Houses"
+      },
+      {
+        "slug": "vtp-bel-air-commercial-real-estate",
+        "keyword": "VTP Bel Air Commercial Real Estate"
+      },
+      {
+        "slug": "vtp-bel-air-retail-spaces",
+        "keyword": "VTP Bel Air Retail Spaces"
+      },
+      {
+        "slug": "vtp-bel-air-office-spaces",
+        "keyword": "VTP Bel Air Office Spaces"
+      },
+      {
+        "slug": "vtp-bel-air-ready-possession",
+        "keyword": "VTP Bel Air Ready Possession"
+      },
+      {
+        "slug": "vtp-bel-air-under-construction",
+        "keyword": "VTP Bel Air Under Construction"
+      },
+      {
+        "slug": "vtp-bel-air-it-park-homes",
+        "keyword": "VTP Bel Air IT Park Homes"
+      },
+      {
+        "slug": "vtp-bel-air-mla-homes",
+        "keyword": "VTP Bel Air MLA Homes"
+      },
+      {
+        "slug": "vtp-bel-air-vtp-projects",
+        "keyword": "VTP Bel Air VTP Projects"
       }
     ]
   },
@@ -18906,6 +19882,46 @@ export const seoSilos = [
       {
         "slug": "vtp-alpine-pre-emi-offer",
         "keyword": "VTP Alpine Pre EMI Offer"
+      },
+      {
+        "slug": "what-is-the-price-of-vtp-alpine",
+        "keyword": "What is the price of VTP Alpine"
+      },
+      {
+        "slug": "is-it-good-to-invest-in-vtp-alpine",
+        "keyword": "Is it good to invest in VTP Alpine"
+      },
+      {
+        "slug": "honest-reviews-of-vtp-alpine",
+        "keyword": "Honest reviews of VTP Alpine"
+      },
+      {
+        "slug": "exact-location-of-vtp-alpine",
+        "keyword": "Exact location of VTP Alpine"
+      },
+      {
+        "slug": "when-is-the-possession-date-for-vtp-alpine",
+        "keyword": "When is the possession date for VTP Alpine"
+      },
+      {
+        "slug": "how-to-book-a-flat-in-vtp-alpine",
+        "keyword": "How to book a flat in VTP Alpine"
+      },
+      {
+        "slug": "distance-from-it-park-to-vtp-alpine",
+        "keyword": "Distance from IT Park to VTP Alpine"
+      },
+      {
+        "slug": "latest-construction-update-of-vtp-alpine",
+        "keyword": "Latest construction update of VTP Alpine"
+      },
+      {
+        "slug": "rera-registration-details-for-vtp-alpine",
+        "keyword": "RERA registration details for VTP Alpine"
+      },
+      {
+        "slug": "download-brochure-pdf-for-vtp-alpine",
+        "keyword": "Download brochure PDF for VTP Alpine"
       },
       {
         "slug": "vtp-alpine-for-buyers-in-mahalunge",
@@ -19154,6 +20170,210 @@ export const seoSilos = [
       {
         "slug": "vtp-alpine-for-buyers-in-bahrain",
         "keyword": "VTP Alpine for buyers in Bahrain"
+      },
+      {
+        "slug": "vtp-alpine-pune-smart-city-projects",
+        "keyword": "VTP Alpine - Pune Smart City Projects"
+      },
+      {
+        "slug": "vtp-alpine-riverfront-living-pune",
+        "keyword": "VTP Alpine - Riverfront Living Pune"
+      },
+      {
+        "slug": "vtp-alpine-high-roi-investment-pune",
+        "keyword": "VTP Alpine - High ROI Investment Pune"
+      },
+      {
+        "slug": "vtp-alpine-zero-brokerage-flats-pune",
+        "keyword": "VTP Alpine - Zero Brokerage Flats Pune"
+      },
+      {
+        "slug": "vtp-alpine-rera-registered-projects-pune",
+        "keyword": "VTP Alpine - RERA Registered Projects Pune"
+      },
+      {
+        "slug": "vtp-alpine-best-areas-to-invest-in-pune-2026",
+        "keyword": "VTP Alpine - Best Areas to Invest in Pune 2026"
+      },
+      {
+        "slug": "vtp-alpine-pune-real-estate-market-trends",
+        "keyword": "VTP Alpine - Pune Real Estate Market Trends"
+      },
+      {
+        "slug": "vtp-alpine-walk-to-work-homes-pune",
+        "keyword": "VTP Alpine - Walk-to-Work Homes Pune"
+      },
+      {
+        "slug": "vtp-alpine-properties-near-pune-metro",
+        "keyword": "VTP Alpine - Properties near Pune Metro"
+      },
+      {
+        "slug": "vtp-alpine-top-10-builders-in-pune",
+        "keyword": "VTP Alpine - Top 10 Builders in Pune"
+      },
+      {
+        "slug": "vtp-alpine-stamp-duty-and-registration-in-pune",
+        "keyword": "VTP Alpine - Stamp Duty and Registration in Pune"
+      },
+      {
+        "slug": "vtp-alpine-is-pune-real-estate-a-bubble",
+        "keyword": "VTP Alpine - Is Pune Real Estate a Bubble"
+      },
+      {
+        "slug": "vtp-alpine-pune-vs-bangalore-real-estate",
+        "keyword": "VTP Alpine - Pune vs Bangalore Real Estate"
+      },
+      {
+        "slug": "vtp-alpine-pet-friendly-apartments-in-pune",
+        "keyword": "VTP Alpine - Pet Friendly Apartments in Pune"
+      },
+      {
+        "slug": "vtp-alpine-smart-home-automation-in-pune",
+        "keyword": "VTP Alpine - Smart Home Automation in Pune"
+      },
+      {
+        "slug": "vtp-alpine-co-living-spaces-in-pune",
+        "keyword": "VTP Alpine - Co-Living Spaces in Pune"
+      },
+      {
+        "slug": "vtp-alpine-senior-living-communities-in-pune",
+        "keyword": "VTP Alpine - Senior Living Communities in Pune"
+      },
+      {
+        "slug": "vtp-alpine-luxury-apartments",
+        "keyword": "VTP Alpine Luxury Apartments"
+      },
+      {
+        "slug": "vtp-alpine-premium-flats",
+        "keyword": "VTP Alpine Premium Flats"
+      },
+      {
+        "slug": "vtp-alpine-new-launch-projects",
+        "keyword": "VTP Alpine New Launch Projects"
+      },
+      {
+        "slug": "vtp-alpine-township-projects",
+        "keyword": "VTP Alpine Township Projects"
+      },
+      {
+        "slug": "vtp-alpine-real-estate-investment",
+        "keyword": "VTP Alpine Real Estate Investment"
+      },
+      {
+        "slug": "vtp-alpine-1bhk-flats",
+        "keyword": "VTP Alpine 1BHK Flats"
+      },
+      {
+        "slug": "vtp-alpine-2bhk-flats",
+        "keyword": "VTP Alpine 2BHK Flats"
+      },
+      {
+        "slug": "vtp-alpine-3bhk-luxury-homes",
+        "keyword": "VTP Alpine 3BHK Luxury Homes"
+      },
+      {
+        "slug": "vtp-alpine-4bhk-premium-apartments",
+        "keyword": "VTP Alpine 4BHK Premium Apartments"
+      },
+      {
+        "slug": "vtp-alpine-5bhk-villas",
+        "keyword": "VTP Alpine 5BHK Villas"
+      },
+      {
+        "slug": "vtp-alpine-1-bhk",
+        "keyword": "VTP Alpine 1 BHK"
+      },
+      {
+        "slug": "vtp-alpine-2-bhk",
+        "keyword": "VTP Alpine 2 BHK"
+      },
+      {
+        "slug": "vtp-alpine-3-bhk",
+        "keyword": "VTP Alpine 3 BHK"
+      },
+      {
+        "slug": "vtp-alpine-4-bhk",
+        "keyword": "VTP Alpine 4 BHK"
+      },
+      {
+        "slug": "vtp-alpine-studio-apartments",
+        "keyword": "VTP Alpine Studio Apartments"
+      },
+      {
+        "slug": "vtp-alpine-duplex-apartments",
+        "keyword": "VTP Alpine Duplex Apartments"
+      },
+      {
+        "slug": "vtp-alpine-sky-duplex",
+        "keyword": "VTP Alpine Sky Duplex"
+      },
+      {
+        "slug": "vtp-alpine-simplex-apartments",
+        "keyword": "VTP Alpine Simplex Apartments"
+      },
+      {
+        "slug": "vtp-alpine-penthouses",
+        "keyword": "VTP Alpine Penthouses"
+      },
+      {
+        "slug": "vtp-alpine-double-height-homes",
+        "keyword": "VTP Alpine Double-Height Homes"
+      },
+      {
+        "slug": "vtp-alpine-private-plunge-pool-flats",
+        "keyword": "VTP Alpine Private Plunge Pool Flats"
+      },
+      {
+        "slug": "vtp-alpine-nri-premium-homes",
+        "keyword": "VTP Alpine NRI Premium Homes"
+      },
+      {
+        "slug": "vtp-alpine-properties",
+        "keyword": "VTP Alpine Properties"
+      },
+      {
+        "slug": "vtp-alpine-flats",
+        "keyword": "VTP Alpine Flats"
+      },
+      {
+        "slug": "vtp-alpine-villas",
+        "keyword": "VTP Alpine Villas"
+      },
+      {
+        "slug": "vtp-alpine-row-houses",
+        "keyword": "VTP Alpine Row Houses"
+      },
+      {
+        "slug": "vtp-alpine-commercial-real-estate",
+        "keyword": "VTP Alpine Commercial Real Estate"
+      },
+      {
+        "slug": "vtp-alpine-retail-spaces",
+        "keyword": "VTP Alpine Retail Spaces"
+      },
+      {
+        "slug": "vtp-alpine-office-spaces",
+        "keyword": "VTP Alpine Office Spaces"
+      },
+      {
+        "slug": "vtp-alpine-ready-possession",
+        "keyword": "VTP Alpine Ready Possession"
+      },
+      {
+        "slug": "vtp-alpine-under-construction",
+        "keyword": "VTP Alpine Under Construction"
+      },
+      {
+        "slug": "vtp-alpine-it-park-homes",
+        "keyword": "VTP Alpine IT Park Homes"
+      },
+      {
+        "slug": "vtp-alpine-mla-homes",
+        "keyword": "VTP Alpine MLA Homes"
+      },
+      {
+        "slug": "vtp-alpine-vtp-projects",
+        "keyword": "VTP Alpine VTP Projects"
       }
     ]
   },
@@ -19277,6 +20497,46 @@ export const seoSilos = [
       {
         "slug": "vtp-aethereus-pre-emi-offer",
         "keyword": "VTP Aethereus Pre EMI Offer"
+      },
+      {
+        "slug": "what-is-the-price-of-vtp-aethereus",
+        "keyword": "What is the price of VTP Aethereus"
+      },
+      {
+        "slug": "is-it-good-to-invest-in-vtp-aethereus",
+        "keyword": "Is it good to invest in VTP Aethereus"
+      },
+      {
+        "slug": "honest-reviews-of-vtp-aethereus",
+        "keyword": "Honest reviews of VTP Aethereus"
+      },
+      {
+        "slug": "exact-location-of-vtp-aethereus",
+        "keyword": "Exact location of VTP Aethereus"
+      },
+      {
+        "slug": "when-is-the-possession-date-for-vtp-aethereus",
+        "keyword": "When is the possession date for VTP Aethereus"
+      },
+      {
+        "slug": "how-to-book-a-flat-in-vtp-aethereus",
+        "keyword": "How to book a flat in VTP Aethereus"
+      },
+      {
+        "slug": "distance-from-it-park-to-vtp-aethereus",
+        "keyword": "Distance from IT Park to VTP Aethereus"
+      },
+      {
+        "slug": "latest-construction-update-of-vtp-aethereus",
+        "keyword": "Latest construction update of VTP Aethereus"
+      },
+      {
+        "slug": "rera-registration-details-for-vtp-aethereus",
+        "keyword": "RERA registration details for VTP Aethereus"
+      },
+      {
+        "slug": "download-brochure-pdf-for-vtp-aethereus",
+        "keyword": "Download brochure PDF for VTP Aethereus"
       },
       {
         "slug": "vtp-aethereus-for-buyers-in-mahalunge",
@@ -19525,6 +20785,210 @@ export const seoSilos = [
       {
         "slug": "vtp-aethereus-for-buyers-in-bahrain",
         "keyword": "VTP Aethereus for buyers in Bahrain"
+      },
+      {
+        "slug": "vtp-aethereus-pune-smart-city-projects",
+        "keyword": "VTP Aethereus - Pune Smart City Projects"
+      },
+      {
+        "slug": "vtp-aethereus-riverfront-living-pune",
+        "keyword": "VTP Aethereus - Riverfront Living Pune"
+      },
+      {
+        "slug": "vtp-aethereus-high-roi-investment-pune",
+        "keyword": "VTP Aethereus - High ROI Investment Pune"
+      },
+      {
+        "slug": "vtp-aethereus-zero-brokerage-flats-pune",
+        "keyword": "VTP Aethereus - Zero Brokerage Flats Pune"
+      },
+      {
+        "slug": "vtp-aethereus-rera-registered-projects-pune",
+        "keyword": "VTP Aethereus - RERA Registered Projects Pune"
+      },
+      {
+        "slug": "vtp-aethereus-best-areas-to-invest-in-pune-2026",
+        "keyword": "VTP Aethereus - Best Areas to Invest in Pune 2026"
+      },
+      {
+        "slug": "vtp-aethereus-pune-real-estate-market-trends",
+        "keyword": "VTP Aethereus - Pune Real Estate Market Trends"
+      },
+      {
+        "slug": "vtp-aethereus-walk-to-work-homes-pune",
+        "keyword": "VTP Aethereus - Walk-to-Work Homes Pune"
+      },
+      {
+        "slug": "vtp-aethereus-properties-near-pune-metro",
+        "keyword": "VTP Aethereus - Properties near Pune Metro"
+      },
+      {
+        "slug": "vtp-aethereus-top-10-builders-in-pune",
+        "keyword": "VTP Aethereus - Top 10 Builders in Pune"
+      },
+      {
+        "slug": "vtp-aethereus-stamp-duty-and-registration-in-pune",
+        "keyword": "VTP Aethereus - Stamp Duty and Registration in Pune"
+      },
+      {
+        "slug": "vtp-aethereus-is-pune-real-estate-a-bubble",
+        "keyword": "VTP Aethereus - Is Pune Real Estate a Bubble"
+      },
+      {
+        "slug": "vtp-aethereus-pune-vs-bangalore-real-estate",
+        "keyword": "VTP Aethereus - Pune vs Bangalore Real Estate"
+      },
+      {
+        "slug": "vtp-aethereus-pet-friendly-apartments-in-pune",
+        "keyword": "VTP Aethereus - Pet Friendly Apartments in Pune"
+      },
+      {
+        "slug": "vtp-aethereus-smart-home-automation-in-pune",
+        "keyword": "VTP Aethereus - Smart Home Automation in Pune"
+      },
+      {
+        "slug": "vtp-aethereus-co-living-spaces-in-pune",
+        "keyword": "VTP Aethereus - Co-Living Spaces in Pune"
+      },
+      {
+        "slug": "vtp-aethereus-senior-living-communities-in-pune",
+        "keyword": "VTP Aethereus - Senior Living Communities in Pune"
+      },
+      {
+        "slug": "vtp-aethereus-luxury-apartments",
+        "keyword": "VTP Aethereus Luxury Apartments"
+      },
+      {
+        "slug": "vtp-aethereus-premium-flats",
+        "keyword": "VTP Aethereus Premium Flats"
+      },
+      {
+        "slug": "vtp-aethereus-new-launch-projects",
+        "keyword": "VTP Aethereus New Launch Projects"
+      },
+      {
+        "slug": "vtp-aethereus-township-projects",
+        "keyword": "VTP Aethereus Township Projects"
+      },
+      {
+        "slug": "vtp-aethereus-real-estate-investment",
+        "keyword": "VTP Aethereus Real Estate Investment"
+      },
+      {
+        "slug": "vtp-aethereus-1bhk-flats",
+        "keyword": "VTP Aethereus 1BHK Flats"
+      },
+      {
+        "slug": "vtp-aethereus-2bhk-flats",
+        "keyword": "VTP Aethereus 2BHK Flats"
+      },
+      {
+        "slug": "vtp-aethereus-3bhk-luxury-homes",
+        "keyword": "VTP Aethereus 3BHK Luxury Homes"
+      },
+      {
+        "slug": "vtp-aethereus-4bhk-premium-apartments",
+        "keyword": "VTP Aethereus 4BHK Premium Apartments"
+      },
+      {
+        "slug": "vtp-aethereus-5bhk-villas",
+        "keyword": "VTP Aethereus 5BHK Villas"
+      },
+      {
+        "slug": "vtp-aethereus-1-bhk",
+        "keyword": "VTP Aethereus 1 BHK"
+      },
+      {
+        "slug": "vtp-aethereus-2-bhk",
+        "keyword": "VTP Aethereus 2 BHK"
+      },
+      {
+        "slug": "vtp-aethereus-3-bhk",
+        "keyword": "VTP Aethereus 3 BHK"
+      },
+      {
+        "slug": "vtp-aethereus-4-bhk",
+        "keyword": "VTP Aethereus 4 BHK"
+      },
+      {
+        "slug": "vtp-aethereus-studio-apartments",
+        "keyword": "VTP Aethereus Studio Apartments"
+      },
+      {
+        "slug": "vtp-aethereus-duplex-apartments",
+        "keyword": "VTP Aethereus Duplex Apartments"
+      },
+      {
+        "slug": "vtp-aethereus-sky-duplex",
+        "keyword": "VTP Aethereus Sky Duplex"
+      },
+      {
+        "slug": "vtp-aethereus-simplex-apartments",
+        "keyword": "VTP Aethereus Simplex Apartments"
+      },
+      {
+        "slug": "vtp-aethereus-penthouses",
+        "keyword": "VTP Aethereus Penthouses"
+      },
+      {
+        "slug": "vtp-aethereus-double-height-homes",
+        "keyword": "VTP Aethereus Double-Height Homes"
+      },
+      {
+        "slug": "vtp-aethereus-private-plunge-pool-flats",
+        "keyword": "VTP Aethereus Private Plunge Pool Flats"
+      },
+      {
+        "slug": "vtp-aethereus-nri-premium-homes",
+        "keyword": "VTP Aethereus NRI Premium Homes"
+      },
+      {
+        "slug": "vtp-aethereus-properties",
+        "keyword": "VTP Aethereus Properties"
+      },
+      {
+        "slug": "vtp-aethereus-flats",
+        "keyword": "VTP Aethereus Flats"
+      },
+      {
+        "slug": "vtp-aethereus-villas",
+        "keyword": "VTP Aethereus Villas"
+      },
+      {
+        "slug": "vtp-aethereus-row-houses",
+        "keyword": "VTP Aethereus Row Houses"
+      },
+      {
+        "slug": "vtp-aethereus-commercial-real-estate",
+        "keyword": "VTP Aethereus Commercial Real Estate"
+      },
+      {
+        "slug": "vtp-aethereus-retail-spaces",
+        "keyword": "VTP Aethereus Retail Spaces"
+      },
+      {
+        "slug": "vtp-aethereus-office-spaces",
+        "keyword": "VTP Aethereus Office Spaces"
+      },
+      {
+        "slug": "vtp-aethereus-ready-possession",
+        "keyword": "VTP Aethereus Ready Possession"
+      },
+      {
+        "slug": "vtp-aethereus-under-construction",
+        "keyword": "VTP Aethereus Under Construction"
+      },
+      {
+        "slug": "vtp-aethereus-it-park-homes",
+        "keyword": "VTP Aethereus IT Park Homes"
+      },
+      {
+        "slug": "vtp-aethereus-mla-homes",
+        "keyword": "VTP Aethereus MLA Homes"
+      },
+      {
+        "slug": "vtp-aethereus-vtp-projects",
+        "keyword": "VTP Aethereus VTP Projects"
       }
     ]
   },
@@ -19648,6 +21112,46 @@ export const seoSilos = [
       {
         "slug": "vtp-town-square-pre-emi-offer",
         "keyword": "VTP Town Square Pre EMI Offer"
+      },
+      {
+        "slug": "what-is-the-price-of-vtp-town-square",
+        "keyword": "What is the price of VTP Town Square"
+      },
+      {
+        "slug": "is-it-good-to-invest-in-vtp-town-square",
+        "keyword": "Is it good to invest in VTP Town Square"
+      },
+      {
+        "slug": "honest-reviews-of-vtp-town-square",
+        "keyword": "Honest reviews of VTP Town Square"
+      },
+      {
+        "slug": "exact-location-of-vtp-town-square",
+        "keyword": "Exact location of VTP Town Square"
+      },
+      {
+        "slug": "when-is-the-possession-date-for-vtp-town-square",
+        "keyword": "When is the possession date for VTP Town Square"
+      },
+      {
+        "slug": "how-to-book-a-flat-in-vtp-town-square",
+        "keyword": "How to book a flat in VTP Town Square"
+      },
+      {
+        "slug": "distance-from-it-park-to-vtp-town-square",
+        "keyword": "Distance from IT Park to VTP Town Square"
+      },
+      {
+        "slug": "latest-construction-update-of-vtp-town-square",
+        "keyword": "Latest construction update of VTP Town Square"
+      },
+      {
+        "slug": "rera-registration-details-for-vtp-town-square",
+        "keyword": "RERA registration details for VTP Town Square"
+      },
+      {
+        "slug": "download-brochure-pdf-for-vtp-town-square",
+        "keyword": "Download brochure PDF for VTP Town Square"
       },
       {
         "slug": "vtp-town-square-for-buyers-in-mahalunge",
@@ -19896,6 +21400,210 @@ export const seoSilos = [
       {
         "slug": "vtp-town-square-for-buyers-in-bahrain",
         "keyword": "VTP Town Square for buyers in Bahrain"
+      },
+      {
+        "slug": "vtp-town-square-pune-smart-city-projects",
+        "keyword": "VTP Town Square - Pune Smart City Projects"
+      },
+      {
+        "slug": "vtp-town-square-riverfront-living-pune",
+        "keyword": "VTP Town Square - Riverfront Living Pune"
+      },
+      {
+        "slug": "vtp-town-square-high-roi-investment-pune",
+        "keyword": "VTP Town Square - High ROI Investment Pune"
+      },
+      {
+        "slug": "vtp-town-square-zero-brokerage-flats-pune",
+        "keyword": "VTP Town Square - Zero Brokerage Flats Pune"
+      },
+      {
+        "slug": "vtp-town-square-rera-registered-projects-pune",
+        "keyword": "VTP Town Square - RERA Registered Projects Pune"
+      },
+      {
+        "slug": "vtp-town-square-best-areas-to-invest-in-pune-2026",
+        "keyword": "VTP Town Square - Best Areas to Invest in Pune 2026"
+      },
+      {
+        "slug": "vtp-town-square-pune-real-estate-market-trends",
+        "keyword": "VTP Town Square - Pune Real Estate Market Trends"
+      },
+      {
+        "slug": "vtp-town-square-walk-to-work-homes-pune",
+        "keyword": "VTP Town Square - Walk-to-Work Homes Pune"
+      },
+      {
+        "slug": "vtp-town-square-properties-near-pune-metro",
+        "keyword": "VTP Town Square - Properties near Pune Metro"
+      },
+      {
+        "slug": "vtp-town-square-top-10-builders-in-pune",
+        "keyword": "VTP Town Square - Top 10 Builders in Pune"
+      },
+      {
+        "slug": "vtp-town-square-stamp-duty-and-registration-in-pune",
+        "keyword": "VTP Town Square - Stamp Duty and Registration in Pune"
+      },
+      {
+        "slug": "vtp-town-square-is-pune-real-estate-a-bubble",
+        "keyword": "VTP Town Square - Is Pune Real Estate a Bubble"
+      },
+      {
+        "slug": "vtp-town-square-pune-vs-bangalore-real-estate",
+        "keyword": "VTP Town Square - Pune vs Bangalore Real Estate"
+      },
+      {
+        "slug": "vtp-town-square-pet-friendly-apartments-in-pune",
+        "keyword": "VTP Town Square - Pet Friendly Apartments in Pune"
+      },
+      {
+        "slug": "vtp-town-square-smart-home-automation-in-pune",
+        "keyword": "VTP Town Square - Smart Home Automation in Pune"
+      },
+      {
+        "slug": "vtp-town-square-co-living-spaces-in-pune",
+        "keyword": "VTP Town Square - Co-Living Spaces in Pune"
+      },
+      {
+        "slug": "vtp-town-square-senior-living-communities-in-pune",
+        "keyword": "VTP Town Square - Senior Living Communities in Pune"
+      },
+      {
+        "slug": "vtp-town-square-luxury-apartments",
+        "keyword": "VTP Town Square Luxury Apartments"
+      },
+      {
+        "slug": "vtp-town-square-premium-flats",
+        "keyword": "VTP Town Square Premium Flats"
+      },
+      {
+        "slug": "vtp-town-square-new-launch-projects",
+        "keyword": "VTP Town Square New Launch Projects"
+      },
+      {
+        "slug": "vtp-town-square-township-projects",
+        "keyword": "VTP Town Square Township Projects"
+      },
+      {
+        "slug": "vtp-town-square-real-estate-investment",
+        "keyword": "VTP Town Square Real Estate Investment"
+      },
+      {
+        "slug": "vtp-town-square-1bhk-flats",
+        "keyword": "VTP Town Square 1BHK Flats"
+      },
+      {
+        "slug": "vtp-town-square-2bhk-flats",
+        "keyword": "VTP Town Square 2BHK Flats"
+      },
+      {
+        "slug": "vtp-town-square-3bhk-luxury-homes",
+        "keyword": "VTP Town Square 3BHK Luxury Homes"
+      },
+      {
+        "slug": "vtp-town-square-4bhk-premium-apartments",
+        "keyword": "VTP Town Square 4BHK Premium Apartments"
+      },
+      {
+        "slug": "vtp-town-square-5bhk-villas",
+        "keyword": "VTP Town Square 5BHK Villas"
+      },
+      {
+        "slug": "vtp-town-square-1-bhk",
+        "keyword": "VTP Town Square 1 BHK"
+      },
+      {
+        "slug": "vtp-town-square-2-bhk",
+        "keyword": "VTP Town Square 2 BHK"
+      },
+      {
+        "slug": "vtp-town-square-3-bhk",
+        "keyword": "VTP Town Square 3 BHK"
+      },
+      {
+        "slug": "vtp-town-square-4-bhk",
+        "keyword": "VTP Town Square 4 BHK"
+      },
+      {
+        "slug": "vtp-town-square-studio-apartments",
+        "keyword": "VTP Town Square Studio Apartments"
+      },
+      {
+        "slug": "vtp-town-square-duplex-apartments",
+        "keyword": "VTP Town Square Duplex Apartments"
+      },
+      {
+        "slug": "vtp-town-square-sky-duplex",
+        "keyword": "VTP Town Square Sky Duplex"
+      },
+      {
+        "slug": "vtp-town-square-simplex-apartments",
+        "keyword": "VTP Town Square Simplex Apartments"
+      },
+      {
+        "slug": "vtp-town-square-penthouses",
+        "keyword": "VTP Town Square Penthouses"
+      },
+      {
+        "slug": "vtp-town-square-double-height-homes",
+        "keyword": "VTP Town Square Double-Height Homes"
+      },
+      {
+        "slug": "vtp-town-square-private-plunge-pool-flats",
+        "keyword": "VTP Town Square Private Plunge Pool Flats"
+      },
+      {
+        "slug": "vtp-town-square-nri-premium-homes",
+        "keyword": "VTP Town Square NRI Premium Homes"
+      },
+      {
+        "slug": "vtp-town-square-properties",
+        "keyword": "VTP Town Square Properties"
+      },
+      {
+        "slug": "vtp-town-square-flats",
+        "keyword": "VTP Town Square Flats"
+      },
+      {
+        "slug": "vtp-town-square-villas",
+        "keyword": "VTP Town Square Villas"
+      },
+      {
+        "slug": "vtp-town-square-row-houses",
+        "keyword": "VTP Town Square Row Houses"
+      },
+      {
+        "slug": "vtp-town-square-commercial-real-estate",
+        "keyword": "VTP Town Square Commercial Real Estate"
+      },
+      {
+        "slug": "vtp-town-square-retail-spaces",
+        "keyword": "VTP Town Square Retail Spaces"
+      },
+      {
+        "slug": "vtp-town-square-office-spaces",
+        "keyword": "VTP Town Square Office Spaces"
+      },
+      {
+        "slug": "vtp-town-square-ready-possession",
+        "keyword": "VTP Town Square Ready Possession"
+      },
+      {
+        "slug": "vtp-town-square-under-construction",
+        "keyword": "VTP Town Square Under Construction"
+      },
+      {
+        "slug": "vtp-town-square-it-park-homes",
+        "keyword": "VTP Town Square IT Park Homes"
+      },
+      {
+        "slug": "vtp-town-square-mla-homes",
+        "keyword": "VTP Town Square MLA Homes"
+      },
+      {
+        "slug": "vtp-town-square-vtp-projects",
+        "keyword": "VTP Town Square VTP Projects"
       }
     ]
   },
@@ -20019,6 +21727,46 @@ export const seoSilos = [
       {
         "slug": "vtp-sierra-pre-emi-offer",
         "keyword": "VTP Sierra Pre EMI Offer"
+      },
+      {
+        "slug": "what-is-the-price-of-vtp-sierra",
+        "keyword": "What is the price of VTP Sierra"
+      },
+      {
+        "slug": "is-it-good-to-invest-in-vtp-sierra",
+        "keyword": "Is it good to invest in VTP Sierra"
+      },
+      {
+        "slug": "honest-reviews-of-vtp-sierra",
+        "keyword": "Honest reviews of VTP Sierra"
+      },
+      {
+        "slug": "exact-location-of-vtp-sierra",
+        "keyword": "Exact location of VTP Sierra"
+      },
+      {
+        "slug": "when-is-the-possession-date-for-vtp-sierra",
+        "keyword": "When is the possession date for VTP Sierra"
+      },
+      {
+        "slug": "how-to-book-a-flat-in-vtp-sierra",
+        "keyword": "How to book a flat in VTP Sierra"
+      },
+      {
+        "slug": "distance-from-it-park-to-vtp-sierra",
+        "keyword": "Distance from IT Park to VTP Sierra"
+      },
+      {
+        "slug": "latest-construction-update-of-vtp-sierra",
+        "keyword": "Latest construction update of VTP Sierra"
+      },
+      {
+        "slug": "rera-registration-details-for-vtp-sierra",
+        "keyword": "RERA registration details for VTP Sierra"
+      },
+      {
+        "slug": "download-brochure-pdf-for-vtp-sierra",
+        "keyword": "Download brochure PDF for VTP Sierra"
       },
       {
         "slug": "vtp-sierra-for-buyers-in-mahalunge",
@@ -20267,6 +22015,210 @@ export const seoSilos = [
       {
         "slug": "vtp-sierra-for-buyers-in-bahrain",
         "keyword": "VTP Sierra for buyers in Bahrain"
+      },
+      {
+        "slug": "vtp-sierra-pune-smart-city-projects",
+        "keyword": "VTP Sierra - Pune Smart City Projects"
+      },
+      {
+        "slug": "vtp-sierra-riverfront-living-pune",
+        "keyword": "VTP Sierra - Riverfront Living Pune"
+      },
+      {
+        "slug": "vtp-sierra-high-roi-investment-pune",
+        "keyword": "VTP Sierra - High ROI Investment Pune"
+      },
+      {
+        "slug": "vtp-sierra-zero-brokerage-flats-pune",
+        "keyword": "VTP Sierra - Zero Brokerage Flats Pune"
+      },
+      {
+        "slug": "vtp-sierra-rera-registered-projects-pune",
+        "keyword": "VTP Sierra - RERA Registered Projects Pune"
+      },
+      {
+        "slug": "vtp-sierra-best-areas-to-invest-in-pune-2026",
+        "keyword": "VTP Sierra - Best Areas to Invest in Pune 2026"
+      },
+      {
+        "slug": "vtp-sierra-pune-real-estate-market-trends",
+        "keyword": "VTP Sierra - Pune Real Estate Market Trends"
+      },
+      {
+        "slug": "vtp-sierra-walk-to-work-homes-pune",
+        "keyword": "VTP Sierra - Walk-to-Work Homes Pune"
+      },
+      {
+        "slug": "vtp-sierra-properties-near-pune-metro",
+        "keyword": "VTP Sierra - Properties near Pune Metro"
+      },
+      {
+        "slug": "vtp-sierra-top-10-builders-in-pune",
+        "keyword": "VTP Sierra - Top 10 Builders in Pune"
+      },
+      {
+        "slug": "vtp-sierra-stamp-duty-and-registration-in-pune",
+        "keyword": "VTP Sierra - Stamp Duty and Registration in Pune"
+      },
+      {
+        "slug": "vtp-sierra-is-pune-real-estate-a-bubble",
+        "keyword": "VTP Sierra - Is Pune Real Estate a Bubble"
+      },
+      {
+        "slug": "vtp-sierra-pune-vs-bangalore-real-estate",
+        "keyword": "VTP Sierra - Pune vs Bangalore Real Estate"
+      },
+      {
+        "slug": "vtp-sierra-pet-friendly-apartments-in-pune",
+        "keyword": "VTP Sierra - Pet Friendly Apartments in Pune"
+      },
+      {
+        "slug": "vtp-sierra-smart-home-automation-in-pune",
+        "keyword": "VTP Sierra - Smart Home Automation in Pune"
+      },
+      {
+        "slug": "vtp-sierra-co-living-spaces-in-pune",
+        "keyword": "VTP Sierra - Co-Living Spaces in Pune"
+      },
+      {
+        "slug": "vtp-sierra-senior-living-communities-in-pune",
+        "keyword": "VTP Sierra - Senior Living Communities in Pune"
+      },
+      {
+        "slug": "vtp-sierra-luxury-apartments",
+        "keyword": "VTP Sierra Luxury Apartments"
+      },
+      {
+        "slug": "vtp-sierra-premium-flats",
+        "keyword": "VTP Sierra Premium Flats"
+      },
+      {
+        "slug": "vtp-sierra-new-launch-projects",
+        "keyword": "VTP Sierra New Launch Projects"
+      },
+      {
+        "slug": "vtp-sierra-township-projects",
+        "keyword": "VTP Sierra Township Projects"
+      },
+      {
+        "slug": "vtp-sierra-real-estate-investment",
+        "keyword": "VTP Sierra Real Estate Investment"
+      },
+      {
+        "slug": "vtp-sierra-1bhk-flats",
+        "keyword": "VTP Sierra 1BHK Flats"
+      },
+      {
+        "slug": "vtp-sierra-2bhk-flats",
+        "keyword": "VTP Sierra 2BHK Flats"
+      },
+      {
+        "slug": "vtp-sierra-3bhk-luxury-homes",
+        "keyword": "VTP Sierra 3BHK Luxury Homes"
+      },
+      {
+        "slug": "vtp-sierra-4bhk-premium-apartments",
+        "keyword": "VTP Sierra 4BHK Premium Apartments"
+      },
+      {
+        "slug": "vtp-sierra-5bhk-villas",
+        "keyword": "VTP Sierra 5BHK Villas"
+      },
+      {
+        "slug": "vtp-sierra-1-bhk",
+        "keyword": "VTP Sierra 1 BHK"
+      },
+      {
+        "slug": "vtp-sierra-2-bhk",
+        "keyword": "VTP Sierra 2 BHK"
+      },
+      {
+        "slug": "vtp-sierra-3-bhk",
+        "keyword": "VTP Sierra 3 BHK"
+      },
+      {
+        "slug": "vtp-sierra-4-bhk",
+        "keyword": "VTP Sierra 4 BHK"
+      },
+      {
+        "slug": "vtp-sierra-studio-apartments",
+        "keyword": "VTP Sierra Studio Apartments"
+      },
+      {
+        "slug": "vtp-sierra-duplex-apartments",
+        "keyword": "VTP Sierra Duplex Apartments"
+      },
+      {
+        "slug": "vtp-sierra-sky-duplex",
+        "keyword": "VTP Sierra Sky Duplex"
+      },
+      {
+        "slug": "vtp-sierra-simplex-apartments",
+        "keyword": "VTP Sierra Simplex Apartments"
+      },
+      {
+        "slug": "vtp-sierra-penthouses",
+        "keyword": "VTP Sierra Penthouses"
+      },
+      {
+        "slug": "vtp-sierra-double-height-homes",
+        "keyword": "VTP Sierra Double-Height Homes"
+      },
+      {
+        "slug": "vtp-sierra-private-plunge-pool-flats",
+        "keyword": "VTP Sierra Private Plunge Pool Flats"
+      },
+      {
+        "slug": "vtp-sierra-nri-premium-homes",
+        "keyword": "VTP Sierra NRI Premium Homes"
+      },
+      {
+        "slug": "vtp-sierra-properties",
+        "keyword": "VTP Sierra Properties"
+      },
+      {
+        "slug": "vtp-sierra-flats",
+        "keyword": "VTP Sierra Flats"
+      },
+      {
+        "slug": "vtp-sierra-villas",
+        "keyword": "VTP Sierra Villas"
+      },
+      {
+        "slug": "vtp-sierra-row-houses",
+        "keyword": "VTP Sierra Row Houses"
+      },
+      {
+        "slug": "vtp-sierra-commercial-real-estate",
+        "keyword": "VTP Sierra Commercial Real Estate"
+      },
+      {
+        "slug": "vtp-sierra-retail-spaces",
+        "keyword": "VTP Sierra Retail Spaces"
+      },
+      {
+        "slug": "vtp-sierra-office-spaces",
+        "keyword": "VTP Sierra Office Spaces"
+      },
+      {
+        "slug": "vtp-sierra-ready-possession",
+        "keyword": "VTP Sierra Ready Possession"
+      },
+      {
+        "slug": "vtp-sierra-under-construction",
+        "keyword": "VTP Sierra Under Construction"
+      },
+      {
+        "slug": "vtp-sierra-it-park-homes",
+        "keyword": "VTP Sierra IT Park Homes"
+      },
+      {
+        "slug": "vtp-sierra-mla-homes",
+        "keyword": "VTP Sierra MLA Homes"
+      },
+      {
+        "slug": "vtp-sierra-vtp-projects",
+        "keyword": "VTP Sierra VTP Projects"
       }
     ]
   },
@@ -20390,6 +22342,46 @@ export const seoSilos = [
       {
         "slug": "vtp-verve-pre-emi-offer",
         "keyword": "VTP Verve Pre EMI Offer"
+      },
+      {
+        "slug": "what-is-the-price-of-vtp-verve",
+        "keyword": "What is the price of VTP Verve"
+      },
+      {
+        "slug": "is-it-good-to-invest-in-vtp-verve",
+        "keyword": "Is it good to invest in VTP Verve"
+      },
+      {
+        "slug": "honest-reviews-of-vtp-verve",
+        "keyword": "Honest reviews of VTP Verve"
+      },
+      {
+        "slug": "exact-location-of-vtp-verve",
+        "keyword": "Exact location of VTP Verve"
+      },
+      {
+        "slug": "when-is-the-possession-date-for-vtp-verve",
+        "keyword": "When is the possession date for VTP Verve"
+      },
+      {
+        "slug": "how-to-book-a-flat-in-vtp-verve",
+        "keyword": "How to book a flat in VTP Verve"
+      },
+      {
+        "slug": "distance-from-it-park-to-vtp-verve",
+        "keyword": "Distance from IT Park to VTP Verve"
+      },
+      {
+        "slug": "latest-construction-update-of-vtp-verve",
+        "keyword": "Latest construction update of VTP Verve"
+      },
+      {
+        "slug": "rera-registration-details-for-vtp-verve",
+        "keyword": "RERA registration details for VTP Verve"
+      },
+      {
+        "slug": "download-brochure-pdf-for-vtp-verve",
+        "keyword": "Download brochure PDF for VTP Verve"
       },
       {
         "slug": "vtp-verve-for-buyers-in-mahalunge",
@@ -20638,6 +22630,210 @@ export const seoSilos = [
       {
         "slug": "vtp-verve-for-buyers-in-bahrain",
         "keyword": "VTP Verve for buyers in Bahrain"
+      },
+      {
+        "slug": "vtp-verve-pune-smart-city-projects",
+        "keyword": "VTP Verve - Pune Smart City Projects"
+      },
+      {
+        "slug": "vtp-verve-riverfront-living-pune",
+        "keyword": "VTP Verve - Riverfront Living Pune"
+      },
+      {
+        "slug": "vtp-verve-high-roi-investment-pune",
+        "keyword": "VTP Verve - High ROI Investment Pune"
+      },
+      {
+        "slug": "vtp-verve-zero-brokerage-flats-pune",
+        "keyword": "VTP Verve - Zero Brokerage Flats Pune"
+      },
+      {
+        "slug": "vtp-verve-rera-registered-projects-pune",
+        "keyword": "VTP Verve - RERA Registered Projects Pune"
+      },
+      {
+        "slug": "vtp-verve-best-areas-to-invest-in-pune-2026",
+        "keyword": "VTP Verve - Best Areas to Invest in Pune 2026"
+      },
+      {
+        "slug": "vtp-verve-pune-real-estate-market-trends",
+        "keyword": "VTP Verve - Pune Real Estate Market Trends"
+      },
+      {
+        "slug": "vtp-verve-walk-to-work-homes-pune",
+        "keyword": "VTP Verve - Walk-to-Work Homes Pune"
+      },
+      {
+        "slug": "vtp-verve-properties-near-pune-metro",
+        "keyword": "VTP Verve - Properties near Pune Metro"
+      },
+      {
+        "slug": "vtp-verve-top-10-builders-in-pune",
+        "keyword": "VTP Verve - Top 10 Builders in Pune"
+      },
+      {
+        "slug": "vtp-verve-stamp-duty-and-registration-in-pune",
+        "keyword": "VTP Verve - Stamp Duty and Registration in Pune"
+      },
+      {
+        "slug": "vtp-verve-is-pune-real-estate-a-bubble",
+        "keyword": "VTP Verve - Is Pune Real Estate a Bubble"
+      },
+      {
+        "slug": "vtp-verve-pune-vs-bangalore-real-estate",
+        "keyword": "VTP Verve - Pune vs Bangalore Real Estate"
+      },
+      {
+        "slug": "vtp-verve-pet-friendly-apartments-in-pune",
+        "keyword": "VTP Verve - Pet Friendly Apartments in Pune"
+      },
+      {
+        "slug": "vtp-verve-smart-home-automation-in-pune",
+        "keyword": "VTP Verve - Smart Home Automation in Pune"
+      },
+      {
+        "slug": "vtp-verve-co-living-spaces-in-pune",
+        "keyword": "VTP Verve - Co-Living Spaces in Pune"
+      },
+      {
+        "slug": "vtp-verve-senior-living-communities-in-pune",
+        "keyword": "VTP Verve - Senior Living Communities in Pune"
+      },
+      {
+        "slug": "vtp-verve-luxury-apartments",
+        "keyword": "VTP Verve Luxury Apartments"
+      },
+      {
+        "slug": "vtp-verve-premium-flats",
+        "keyword": "VTP Verve Premium Flats"
+      },
+      {
+        "slug": "vtp-verve-new-launch-projects",
+        "keyword": "VTP Verve New Launch Projects"
+      },
+      {
+        "slug": "vtp-verve-township-projects",
+        "keyword": "VTP Verve Township Projects"
+      },
+      {
+        "slug": "vtp-verve-real-estate-investment",
+        "keyword": "VTP Verve Real Estate Investment"
+      },
+      {
+        "slug": "vtp-verve-1bhk-flats",
+        "keyword": "VTP Verve 1BHK Flats"
+      },
+      {
+        "slug": "vtp-verve-2bhk-flats",
+        "keyword": "VTP Verve 2BHK Flats"
+      },
+      {
+        "slug": "vtp-verve-3bhk-luxury-homes",
+        "keyword": "VTP Verve 3BHK Luxury Homes"
+      },
+      {
+        "slug": "vtp-verve-4bhk-premium-apartments",
+        "keyword": "VTP Verve 4BHK Premium Apartments"
+      },
+      {
+        "slug": "vtp-verve-5bhk-villas",
+        "keyword": "VTP Verve 5BHK Villas"
+      },
+      {
+        "slug": "vtp-verve-1-bhk",
+        "keyword": "VTP Verve 1 BHK"
+      },
+      {
+        "slug": "vtp-verve-2-bhk",
+        "keyword": "VTP Verve 2 BHK"
+      },
+      {
+        "slug": "vtp-verve-3-bhk",
+        "keyword": "VTP Verve 3 BHK"
+      },
+      {
+        "slug": "vtp-verve-4-bhk",
+        "keyword": "VTP Verve 4 BHK"
+      },
+      {
+        "slug": "vtp-verve-studio-apartments",
+        "keyword": "VTP Verve Studio Apartments"
+      },
+      {
+        "slug": "vtp-verve-duplex-apartments",
+        "keyword": "VTP Verve Duplex Apartments"
+      },
+      {
+        "slug": "vtp-verve-sky-duplex",
+        "keyword": "VTP Verve Sky Duplex"
+      },
+      {
+        "slug": "vtp-verve-simplex-apartments",
+        "keyword": "VTP Verve Simplex Apartments"
+      },
+      {
+        "slug": "vtp-verve-penthouses",
+        "keyword": "VTP Verve Penthouses"
+      },
+      {
+        "slug": "vtp-verve-double-height-homes",
+        "keyword": "VTP Verve Double-Height Homes"
+      },
+      {
+        "slug": "vtp-verve-private-plunge-pool-flats",
+        "keyword": "VTP Verve Private Plunge Pool Flats"
+      },
+      {
+        "slug": "vtp-verve-nri-premium-homes",
+        "keyword": "VTP Verve NRI Premium Homes"
+      },
+      {
+        "slug": "vtp-verve-properties",
+        "keyword": "VTP Verve Properties"
+      },
+      {
+        "slug": "vtp-verve-flats",
+        "keyword": "VTP Verve Flats"
+      },
+      {
+        "slug": "vtp-verve-villas",
+        "keyword": "VTP Verve Villas"
+      },
+      {
+        "slug": "vtp-verve-row-houses",
+        "keyword": "VTP Verve Row Houses"
+      },
+      {
+        "slug": "vtp-verve-commercial-real-estate",
+        "keyword": "VTP Verve Commercial Real Estate"
+      },
+      {
+        "slug": "vtp-verve-retail-spaces",
+        "keyword": "VTP Verve Retail Spaces"
+      },
+      {
+        "slug": "vtp-verve-office-spaces",
+        "keyword": "VTP Verve Office Spaces"
+      },
+      {
+        "slug": "vtp-verve-ready-possession",
+        "keyword": "VTP Verve Ready Possession"
+      },
+      {
+        "slug": "vtp-verve-under-construction",
+        "keyword": "VTP Verve Under Construction"
+      },
+      {
+        "slug": "vtp-verve-it-park-homes",
+        "keyword": "VTP Verve IT Park Homes"
+      },
+      {
+        "slug": "vtp-verve-mla-homes",
+        "keyword": "VTP Verve MLA Homes"
+      },
+      {
+        "slug": "vtp-verve-vtp-projects",
+        "keyword": "VTP Verve VTP Projects"
       }
     ]
   },
@@ -20761,6 +22957,46 @@ export const seoSilos = [
       {
         "slug": "vtp-solitaire-pre-emi-offer",
         "keyword": "VTP Solitaire Pre EMI Offer"
+      },
+      {
+        "slug": "what-is-the-price-of-vtp-solitaire",
+        "keyword": "What is the price of VTP Solitaire"
+      },
+      {
+        "slug": "is-it-good-to-invest-in-vtp-solitaire",
+        "keyword": "Is it good to invest in VTP Solitaire"
+      },
+      {
+        "slug": "honest-reviews-of-vtp-solitaire",
+        "keyword": "Honest reviews of VTP Solitaire"
+      },
+      {
+        "slug": "exact-location-of-vtp-solitaire",
+        "keyword": "Exact location of VTP Solitaire"
+      },
+      {
+        "slug": "when-is-the-possession-date-for-vtp-solitaire",
+        "keyword": "When is the possession date for VTP Solitaire"
+      },
+      {
+        "slug": "how-to-book-a-flat-in-vtp-solitaire",
+        "keyword": "How to book a flat in VTP Solitaire"
+      },
+      {
+        "slug": "distance-from-it-park-to-vtp-solitaire",
+        "keyword": "Distance from IT Park to VTP Solitaire"
+      },
+      {
+        "slug": "latest-construction-update-of-vtp-solitaire",
+        "keyword": "Latest construction update of VTP Solitaire"
+      },
+      {
+        "slug": "rera-registration-details-for-vtp-solitaire",
+        "keyword": "RERA registration details for VTP Solitaire"
+      },
+      {
+        "slug": "download-brochure-pdf-for-vtp-solitaire",
+        "keyword": "Download brochure PDF for VTP Solitaire"
       },
       {
         "slug": "vtp-solitaire-for-buyers-in-mahalunge",
@@ -21009,6 +23245,210 @@ export const seoSilos = [
       {
         "slug": "vtp-solitaire-for-buyers-in-bahrain",
         "keyword": "VTP Solitaire for buyers in Bahrain"
+      },
+      {
+        "slug": "vtp-solitaire-pune-smart-city-projects",
+        "keyword": "VTP Solitaire - Pune Smart City Projects"
+      },
+      {
+        "slug": "vtp-solitaire-riverfront-living-pune",
+        "keyword": "VTP Solitaire - Riverfront Living Pune"
+      },
+      {
+        "slug": "vtp-solitaire-high-roi-investment-pune",
+        "keyword": "VTP Solitaire - High ROI Investment Pune"
+      },
+      {
+        "slug": "vtp-solitaire-zero-brokerage-flats-pune",
+        "keyword": "VTP Solitaire - Zero Brokerage Flats Pune"
+      },
+      {
+        "slug": "vtp-solitaire-rera-registered-projects-pune",
+        "keyword": "VTP Solitaire - RERA Registered Projects Pune"
+      },
+      {
+        "slug": "vtp-solitaire-best-areas-to-invest-in-pune-2026",
+        "keyword": "VTP Solitaire - Best Areas to Invest in Pune 2026"
+      },
+      {
+        "slug": "vtp-solitaire-pune-real-estate-market-trends",
+        "keyword": "VTP Solitaire - Pune Real Estate Market Trends"
+      },
+      {
+        "slug": "vtp-solitaire-walk-to-work-homes-pune",
+        "keyword": "VTP Solitaire - Walk-to-Work Homes Pune"
+      },
+      {
+        "slug": "vtp-solitaire-properties-near-pune-metro",
+        "keyword": "VTP Solitaire - Properties near Pune Metro"
+      },
+      {
+        "slug": "vtp-solitaire-top-10-builders-in-pune",
+        "keyword": "VTP Solitaire - Top 10 Builders in Pune"
+      },
+      {
+        "slug": "vtp-solitaire-stamp-duty-and-registration-in-pune",
+        "keyword": "VTP Solitaire - Stamp Duty and Registration in Pune"
+      },
+      {
+        "slug": "vtp-solitaire-is-pune-real-estate-a-bubble",
+        "keyword": "VTP Solitaire - Is Pune Real Estate a Bubble"
+      },
+      {
+        "slug": "vtp-solitaire-pune-vs-bangalore-real-estate",
+        "keyword": "VTP Solitaire - Pune vs Bangalore Real Estate"
+      },
+      {
+        "slug": "vtp-solitaire-pet-friendly-apartments-in-pune",
+        "keyword": "VTP Solitaire - Pet Friendly Apartments in Pune"
+      },
+      {
+        "slug": "vtp-solitaire-smart-home-automation-in-pune",
+        "keyword": "VTP Solitaire - Smart Home Automation in Pune"
+      },
+      {
+        "slug": "vtp-solitaire-co-living-spaces-in-pune",
+        "keyword": "VTP Solitaire - Co-Living Spaces in Pune"
+      },
+      {
+        "slug": "vtp-solitaire-senior-living-communities-in-pune",
+        "keyword": "VTP Solitaire - Senior Living Communities in Pune"
+      },
+      {
+        "slug": "vtp-solitaire-luxury-apartments",
+        "keyword": "VTP Solitaire Luxury Apartments"
+      },
+      {
+        "slug": "vtp-solitaire-premium-flats",
+        "keyword": "VTP Solitaire Premium Flats"
+      },
+      {
+        "slug": "vtp-solitaire-new-launch-projects",
+        "keyword": "VTP Solitaire New Launch Projects"
+      },
+      {
+        "slug": "vtp-solitaire-township-projects",
+        "keyword": "VTP Solitaire Township Projects"
+      },
+      {
+        "slug": "vtp-solitaire-real-estate-investment",
+        "keyword": "VTP Solitaire Real Estate Investment"
+      },
+      {
+        "slug": "vtp-solitaire-1bhk-flats",
+        "keyword": "VTP Solitaire 1BHK Flats"
+      },
+      {
+        "slug": "vtp-solitaire-2bhk-flats",
+        "keyword": "VTP Solitaire 2BHK Flats"
+      },
+      {
+        "slug": "vtp-solitaire-3bhk-luxury-homes",
+        "keyword": "VTP Solitaire 3BHK Luxury Homes"
+      },
+      {
+        "slug": "vtp-solitaire-4bhk-premium-apartments",
+        "keyword": "VTP Solitaire 4BHK Premium Apartments"
+      },
+      {
+        "slug": "vtp-solitaire-5bhk-villas",
+        "keyword": "VTP Solitaire 5BHK Villas"
+      },
+      {
+        "slug": "vtp-solitaire-1-bhk",
+        "keyword": "VTP Solitaire 1 BHK"
+      },
+      {
+        "slug": "vtp-solitaire-2-bhk",
+        "keyword": "VTP Solitaire 2 BHK"
+      },
+      {
+        "slug": "vtp-solitaire-3-bhk",
+        "keyword": "VTP Solitaire 3 BHK"
+      },
+      {
+        "slug": "vtp-solitaire-4-bhk",
+        "keyword": "VTP Solitaire 4 BHK"
+      },
+      {
+        "slug": "vtp-solitaire-studio-apartments",
+        "keyword": "VTP Solitaire Studio Apartments"
+      },
+      {
+        "slug": "vtp-solitaire-duplex-apartments",
+        "keyword": "VTP Solitaire Duplex Apartments"
+      },
+      {
+        "slug": "vtp-solitaire-sky-duplex",
+        "keyword": "VTP Solitaire Sky Duplex"
+      },
+      {
+        "slug": "vtp-solitaire-simplex-apartments",
+        "keyword": "VTP Solitaire Simplex Apartments"
+      },
+      {
+        "slug": "vtp-solitaire-penthouses",
+        "keyword": "VTP Solitaire Penthouses"
+      },
+      {
+        "slug": "vtp-solitaire-double-height-homes",
+        "keyword": "VTP Solitaire Double-Height Homes"
+      },
+      {
+        "slug": "vtp-solitaire-private-plunge-pool-flats",
+        "keyword": "VTP Solitaire Private Plunge Pool Flats"
+      },
+      {
+        "slug": "vtp-solitaire-nri-premium-homes",
+        "keyword": "VTP Solitaire NRI Premium Homes"
+      },
+      {
+        "slug": "vtp-solitaire-properties",
+        "keyword": "VTP Solitaire Properties"
+      },
+      {
+        "slug": "vtp-solitaire-flats",
+        "keyword": "VTP Solitaire Flats"
+      },
+      {
+        "slug": "vtp-solitaire-villas",
+        "keyword": "VTP Solitaire Villas"
+      },
+      {
+        "slug": "vtp-solitaire-row-houses",
+        "keyword": "VTP Solitaire Row Houses"
+      },
+      {
+        "slug": "vtp-solitaire-commercial-real-estate",
+        "keyword": "VTP Solitaire Commercial Real Estate"
+      },
+      {
+        "slug": "vtp-solitaire-retail-spaces",
+        "keyword": "VTP Solitaire Retail Spaces"
+      },
+      {
+        "slug": "vtp-solitaire-office-spaces",
+        "keyword": "VTP Solitaire Office Spaces"
+      },
+      {
+        "slug": "vtp-solitaire-ready-possession",
+        "keyword": "VTP Solitaire Ready Possession"
+      },
+      {
+        "slug": "vtp-solitaire-under-construction",
+        "keyword": "VTP Solitaire Under Construction"
+      },
+      {
+        "slug": "vtp-solitaire-it-park-homes",
+        "keyword": "VTP Solitaire IT Park Homes"
+      },
+      {
+        "slug": "vtp-solitaire-mla-homes",
+        "keyword": "VTP Solitaire MLA Homes"
+      },
+      {
+        "slug": "vtp-solitaire-vtp-projects",
+        "keyword": "VTP Solitaire VTP Projects"
       }
     ]
   },
@@ -21132,6 +23572,46 @@ export const seoSilos = [
       {
         "slug": "vtp-bellissimo-pre-emi-offer",
         "keyword": "VTP Bellissimo Pre EMI Offer"
+      },
+      {
+        "slug": "what-is-the-price-of-vtp-bellissimo",
+        "keyword": "What is the price of VTP Bellissimo"
+      },
+      {
+        "slug": "is-it-good-to-invest-in-vtp-bellissimo",
+        "keyword": "Is it good to invest in VTP Bellissimo"
+      },
+      {
+        "slug": "honest-reviews-of-vtp-bellissimo",
+        "keyword": "Honest reviews of VTP Bellissimo"
+      },
+      {
+        "slug": "exact-location-of-vtp-bellissimo",
+        "keyword": "Exact location of VTP Bellissimo"
+      },
+      {
+        "slug": "when-is-the-possession-date-for-vtp-bellissimo",
+        "keyword": "When is the possession date for VTP Bellissimo"
+      },
+      {
+        "slug": "how-to-book-a-flat-in-vtp-bellissimo",
+        "keyword": "How to book a flat in VTP Bellissimo"
+      },
+      {
+        "slug": "distance-from-it-park-to-vtp-bellissimo",
+        "keyword": "Distance from IT Park to VTP Bellissimo"
+      },
+      {
+        "slug": "latest-construction-update-of-vtp-bellissimo",
+        "keyword": "Latest construction update of VTP Bellissimo"
+      },
+      {
+        "slug": "rera-registration-details-for-vtp-bellissimo",
+        "keyword": "RERA registration details for VTP Bellissimo"
+      },
+      {
+        "slug": "download-brochure-pdf-for-vtp-bellissimo",
+        "keyword": "Download brochure PDF for VTP Bellissimo"
       },
       {
         "slug": "vtp-bellissimo-for-buyers-in-mahalunge",
@@ -21380,6 +23860,210 @@ export const seoSilos = [
       {
         "slug": "vtp-bellissimo-for-buyers-in-bahrain",
         "keyword": "VTP Bellissimo for buyers in Bahrain"
+      },
+      {
+        "slug": "vtp-bellissimo-pune-smart-city-projects",
+        "keyword": "VTP Bellissimo - Pune Smart City Projects"
+      },
+      {
+        "slug": "vtp-bellissimo-riverfront-living-pune",
+        "keyword": "VTP Bellissimo - Riverfront Living Pune"
+      },
+      {
+        "slug": "vtp-bellissimo-high-roi-investment-pune",
+        "keyword": "VTP Bellissimo - High ROI Investment Pune"
+      },
+      {
+        "slug": "vtp-bellissimo-zero-brokerage-flats-pune",
+        "keyword": "VTP Bellissimo - Zero Brokerage Flats Pune"
+      },
+      {
+        "slug": "vtp-bellissimo-rera-registered-projects-pune",
+        "keyword": "VTP Bellissimo - RERA Registered Projects Pune"
+      },
+      {
+        "slug": "vtp-bellissimo-best-areas-to-invest-in-pune-2026",
+        "keyword": "VTP Bellissimo - Best Areas to Invest in Pune 2026"
+      },
+      {
+        "slug": "vtp-bellissimo-pune-real-estate-market-trends",
+        "keyword": "VTP Bellissimo - Pune Real Estate Market Trends"
+      },
+      {
+        "slug": "vtp-bellissimo-walk-to-work-homes-pune",
+        "keyword": "VTP Bellissimo - Walk-to-Work Homes Pune"
+      },
+      {
+        "slug": "vtp-bellissimo-properties-near-pune-metro",
+        "keyword": "VTP Bellissimo - Properties near Pune Metro"
+      },
+      {
+        "slug": "vtp-bellissimo-top-10-builders-in-pune",
+        "keyword": "VTP Bellissimo - Top 10 Builders in Pune"
+      },
+      {
+        "slug": "vtp-bellissimo-stamp-duty-and-registration-in-pune",
+        "keyword": "VTP Bellissimo - Stamp Duty and Registration in Pune"
+      },
+      {
+        "slug": "vtp-bellissimo-is-pune-real-estate-a-bubble",
+        "keyword": "VTP Bellissimo - Is Pune Real Estate a Bubble"
+      },
+      {
+        "slug": "vtp-bellissimo-pune-vs-bangalore-real-estate",
+        "keyword": "VTP Bellissimo - Pune vs Bangalore Real Estate"
+      },
+      {
+        "slug": "vtp-bellissimo-pet-friendly-apartments-in-pune",
+        "keyword": "VTP Bellissimo - Pet Friendly Apartments in Pune"
+      },
+      {
+        "slug": "vtp-bellissimo-smart-home-automation-in-pune",
+        "keyword": "VTP Bellissimo - Smart Home Automation in Pune"
+      },
+      {
+        "slug": "vtp-bellissimo-co-living-spaces-in-pune",
+        "keyword": "VTP Bellissimo - Co-Living Spaces in Pune"
+      },
+      {
+        "slug": "vtp-bellissimo-senior-living-communities-in-pune",
+        "keyword": "VTP Bellissimo - Senior Living Communities in Pune"
+      },
+      {
+        "slug": "vtp-bellissimo-luxury-apartments",
+        "keyword": "VTP Bellissimo Luxury Apartments"
+      },
+      {
+        "slug": "vtp-bellissimo-premium-flats",
+        "keyword": "VTP Bellissimo Premium Flats"
+      },
+      {
+        "slug": "vtp-bellissimo-new-launch-projects",
+        "keyword": "VTP Bellissimo New Launch Projects"
+      },
+      {
+        "slug": "vtp-bellissimo-township-projects",
+        "keyword": "VTP Bellissimo Township Projects"
+      },
+      {
+        "slug": "vtp-bellissimo-real-estate-investment",
+        "keyword": "VTP Bellissimo Real Estate Investment"
+      },
+      {
+        "slug": "vtp-bellissimo-1bhk-flats",
+        "keyword": "VTP Bellissimo 1BHK Flats"
+      },
+      {
+        "slug": "vtp-bellissimo-2bhk-flats",
+        "keyword": "VTP Bellissimo 2BHK Flats"
+      },
+      {
+        "slug": "vtp-bellissimo-3bhk-luxury-homes",
+        "keyword": "VTP Bellissimo 3BHK Luxury Homes"
+      },
+      {
+        "slug": "vtp-bellissimo-4bhk-premium-apartments",
+        "keyword": "VTP Bellissimo 4BHK Premium Apartments"
+      },
+      {
+        "slug": "vtp-bellissimo-5bhk-villas",
+        "keyword": "VTP Bellissimo 5BHK Villas"
+      },
+      {
+        "slug": "vtp-bellissimo-1-bhk",
+        "keyword": "VTP Bellissimo 1 BHK"
+      },
+      {
+        "slug": "vtp-bellissimo-2-bhk",
+        "keyword": "VTP Bellissimo 2 BHK"
+      },
+      {
+        "slug": "vtp-bellissimo-3-bhk",
+        "keyword": "VTP Bellissimo 3 BHK"
+      },
+      {
+        "slug": "vtp-bellissimo-4-bhk",
+        "keyword": "VTP Bellissimo 4 BHK"
+      },
+      {
+        "slug": "vtp-bellissimo-studio-apartments",
+        "keyword": "VTP Bellissimo Studio Apartments"
+      },
+      {
+        "slug": "vtp-bellissimo-duplex-apartments",
+        "keyword": "VTP Bellissimo Duplex Apartments"
+      },
+      {
+        "slug": "vtp-bellissimo-sky-duplex",
+        "keyword": "VTP Bellissimo Sky Duplex"
+      },
+      {
+        "slug": "vtp-bellissimo-simplex-apartments",
+        "keyword": "VTP Bellissimo Simplex Apartments"
+      },
+      {
+        "slug": "vtp-bellissimo-penthouses",
+        "keyword": "VTP Bellissimo Penthouses"
+      },
+      {
+        "slug": "vtp-bellissimo-double-height-homes",
+        "keyword": "VTP Bellissimo Double-Height Homes"
+      },
+      {
+        "slug": "vtp-bellissimo-private-plunge-pool-flats",
+        "keyword": "VTP Bellissimo Private Plunge Pool Flats"
+      },
+      {
+        "slug": "vtp-bellissimo-nri-premium-homes",
+        "keyword": "VTP Bellissimo NRI Premium Homes"
+      },
+      {
+        "slug": "vtp-bellissimo-properties",
+        "keyword": "VTP Bellissimo Properties"
+      },
+      {
+        "slug": "vtp-bellissimo-flats",
+        "keyword": "VTP Bellissimo Flats"
+      },
+      {
+        "slug": "vtp-bellissimo-villas",
+        "keyword": "VTP Bellissimo Villas"
+      },
+      {
+        "slug": "vtp-bellissimo-row-houses",
+        "keyword": "VTP Bellissimo Row Houses"
+      },
+      {
+        "slug": "vtp-bellissimo-commercial-real-estate",
+        "keyword": "VTP Bellissimo Commercial Real Estate"
+      },
+      {
+        "slug": "vtp-bellissimo-retail-spaces",
+        "keyword": "VTP Bellissimo Retail Spaces"
+      },
+      {
+        "slug": "vtp-bellissimo-office-spaces",
+        "keyword": "VTP Bellissimo Office Spaces"
+      },
+      {
+        "slug": "vtp-bellissimo-ready-possession",
+        "keyword": "VTP Bellissimo Ready Possession"
+      },
+      {
+        "slug": "vtp-bellissimo-under-construction",
+        "keyword": "VTP Bellissimo Under Construction"
+      },
+      {
+        "slug": "vtp-bellissimo-it-park-homes",
+        "keyword": "VTP Bellissimo IT Park Homes"
+      },
+      {
+        "slug": "vtp-bellissimo-mla-homes",
+        "keyword": "VTP Bellissimo MLA Homes"
+      },
+      {
+        "slug": "vtp-bellissimo-vtp-projects",
+        "keyword": "VTP Bellissimo VTP Projects"
       }
     ]
   },
@@ -21503,6 +24187,46 @@ export const seoSilos = [
       {
         "slug": "vtp-monarque-pre-emi-offer",
         "keyword": "VTP Monarque Pre EMI Offer"
+      },
+      {
+        "slug": "what-is-the-price-of-vtp-monarque",
+        "keyword": "What is the price of VTP Monarque"
+      },
+      {
+        "slug": "is-it-good-to-invest-in-vtp-monarque",
+        "keyword": "Is it good to invest in VTP Monarque"
+      },
+      {
+        "slug": "honest-reviews-of-vtp-monarque",
+        "keyword": "Honest reviews of VTP Monarque"
+      },
+      {
+        "slug": "exact-location-of-vtp-monarque",
+        "keyword": "Exact location of VTP Monarque"
+      },
+      {
+        "slug": "when-is-the-possession-date-for-vtp-monarque",
+        "keyword": "When is the possession date for VTP Monarque"
+      },
+      {
+        "slug": "how-to-book-a-flat-in-vtp-monarque",
+        "keyword": "How to book a flat in VTP Monarque"
+      },
+      {
+        "slug": "distance-from-it-park-to-vtp-monarque",
+        "keyword": "Distance from IT Park to VTP Monarque"
+      },
+      {
+        "slug": "latest-construction-update-of-vtp-monarque",
+        "keyword": "Latest construction update of VTP Monarque"
+      },
+      {
+        "slug": "rera-registration-details-for-vtp-monarque",
+        "keyword": "RERA registration details for VTP Monarque"
+      },
+      {
+        "slug": "download-brochure-pdf-for-vtp-monarque",
+        "keyword": "Download brochure PDF for VTP Monarque"
       },
       {
         "slug": "vtp-monarque-for-buyers-in-mahalunge",
@@ -21751,6 +24475,210 @@ export const seoSilos = [
       {
         "slug": "vtp-monarque-for-buyers-in-bahrain",
         "keyword": "VTP Monarque for buyers in Bahrain"
+      },
+      {
+        "slug": "vtp-monarque-pune-smart-city-projects",
+        "keyword": "VTP Monarque - Pune Smart City Projects"
+      },
+      {
+        "slug": "vtp-monarque-riverfront-living-pune",
+        "keyword": "VTP Monarque - Riverfront Living Pune"
+      },
+      {
+        "slug": "vtp-monarque-high-roi-investment-pune",
+        "keyword": "VTP Monarque - High ROI Investment Pune"
+      },
+      {
+        "slug": "vtp-monarque-zero-brokerage-flats-pune",
+        "keyword": "VTP Monarque - Zero Brokerage Flats Pune"
+      },
+      {
+        "slug": "vtp-monarque-rera-registered-projects-pune",
+        "keyword": "VTP Monarque - RERA Registered Projects Pune"
+      },
+      {
+        "slug": "vtp-monarque-best-areas-to-invest-in-pune-2026",
+        "keyword": "VTP Monarque - Best Areas to Invest in Pune 2026"
+      },
+      {
+        "slug": "vtp-monarque-pune-real-estate-market-trends",
+        "keyword": "VTP Monarque - Pune Real Estate Market Trends"
+      },
+      {
+        "slug": "vtp-monarque-walk-to-work-homes-pune",
+        "keyword": "VTP Monarque - Walk-to-Work Homes Pune"
+      },
+      {
+        "slug": "vtp-monarque-properties-near-pune-metro",
+        "keyword": "VTP Monarque - Properties near Pune Metro"
+      },
+      {
+        "slug": "vtp-monarque-top-10-builders-in-pune",
+        "keyword": "VTP Monarque - Top 10 Builders in Pune"
+      },
+      {
+        "slug": "vtp-monarque-stamp-duty-and-registration-in-pune",
+        "keyword": "VTP Monarque - Stamp Duty and Registration in Pune"
+      },
+      {
+        "slug": "vtp-monarque-is-pune-real-estate-a-bubble",
+        "keyword": "VTP Monarque - Is Pune Real Estate a Bubble"
+      },
+      {
+        "slug": "vtp-monarque-pune-vs-bangalore-real-estate",
+        "keyword": "VTP Monarque - Pune vs Bangalore Real Estate"
+      },
+      {
+        "slug": "vtp-monarque-pet-friendly-apartments-in-pune",
+        "keyword": "VTP Monarque - Pet Friendly Apartments in Pune"
+      },
+      {
+        "slug": "vtp-monarque-smart-home-automation-in-pune",
+        "keyword": "VTP Monarque - Smart Home Automation in Pune"
+      },
+      {
+        "slug": "vtp-monarque-co-living-spaces-in-pune",
+        "keyword": "VTP Monarque - Co-Living Spaces in Pune"
+      },
+      {
+        "slug": "vtp-monarque-senior-living-communities-in-pune",
+        "keyword": "VTP Monarque - Senior Living Communities in Pune"
+      },
+      {
+        "slug": "vtp-monarque-luxury-apartments",
+        "keyword": "VTP Monarque Luxury Apartments"
+      },
+      {
+        "slug": "vtp-monarque-premium-flats",
+        "keyword": "VTP Monarque Premium Flats"
+      },
+      {
+        "slug": "vtp-monarque-new-launch-projects",
+        "keyword": "VTP Monarque New Launch Projects"
+      },
+      {
+        "slug": "vtp-monarque-township-projects",
+        "keyword": "VTP Monarque Township Projects"
+      },
+      {
+        "slug": "vtp-monarque-real-estate-investment",
+        "keyword": "VTP Monarque Real Estate Investment"
+      },
+      {
+        "slug": "vtp-monarque-1bhk-flats",
+        "keyword": "VTP Monarque 1BHK Flats"
+      },
+      {
+        "slug": "vtp-monarque-2bhk-flats",
+        "keyword": "VTP Monarque 2BHK Flats"
+      },
+      {
+        "slug": "vtp-monarque-3bhk-luxury-homes",
+        "keyword": "VTP Monarque 3BHK Luxury Homes"
+      },
+      {
+        "slug": "vtp-monarque-4bhk-premium-apartments",
+        "keyword": "VTP Monarque 4BHK Premium Apartments"
+      },
+      {
+        "slug": "vtp-monarque-5bhk-villas",
+        "keyword": "VTP Monarque 5BHK Villas"
+      },
+      {
+        "slug": "vtp-monarque-1-bhk",
+        "keyword": "VTP Monarque 1 BHK"
+      },
+      {
+        "slug": "vtp-monarque-2-bhk",
+        "keyword": "VTP Monarque 2 BHK"
+      },
+      {
+        "slug": "vtp-monarque-3-bhk",
+        "keyword": "VTP Monarque 3 BHK"
+      },
+      {
+        "slug": "vtp-monarque-4-bhk",
+        "keyword": "VTP Monarque 4 BHK"
+      },
+      {
+        "slug": "vtp-monarque-studio-apartments",
+        "keyword": "VTP Monarque Studio Apartments"
+      },
+      {
+        "slug": "vtp-monarque-duplex-apartments",
+        "keyword": "VTP Monarque Duplex Apartments"
+      },
+      {
+        "slug": "vtp-monarque-sky-duplex",
+        "keyword": "VTP Monarque Sky Duplex"
+      },
+      {
+        "slug": "vtp-monarque-simplex-apartments",
+        "keyword": "VTP Monarque Simplex Apartments"
+      },
+      {
+        "slug": "vtp-monarque-penthouses",
+        "keyword": "VTP Monarque Penthouses"
+      },
+      {
+        "slug": "vtp-monarque-double-height-homes",
+        "keyword": "VTP Monarque Double-Height Homes"
+      },
+      {
+        "slug": "vtp-monarque-private-plunge-pool-flats",
+        "keyword": "VTP Monarque Private Plunge Pool Flats"
+      },
+      {
+        "slug": "vtp-monarque-nri-premium-homes",
+        "keyword": "VTP Monarque NRI Premium Homes"
+      },
+      {
+        "slug": "vtp-monarque-properties",
+        "keyword": "VTP Monarque Properties"
+      },
+      {
+        "slug": "vtp-monarque-flats",
+        "keyword": "VTP Monarque Flats"
+      },
+      {
+        "slug": "vtp-monarque-villas",
+        "keyword": "VTP Monarque Villas"
+      },
+      {
+        "slug": "vtp-monarque-row-houses",
+        "keyword": "VTP Monarque Row Houses"
+      },
+      {
+        "slug": "vtp-monarque-commercial-real-estate",
+        "keyword": "VTP Monarque Commercial Real Estate"
+      },
+      {
+        "slug": "vtp-monarque-retail-spaces",
+        "keyword": "VTP Monarque Retail Spaces"
+      },
+      {
+        "slug": "vtp-monarque-office-spaces",
+        "keyword": "VTP Monarque Office Spaces"
+      },
+      {
+        "slug": "vtp-monarque-ready-possession",
+        "keyword": "VTP Monarque Ready Possession"
+      },
+      {
+        "slug": "vtp-monarque-under-construction",
+        "keyword": "VTP Monarque Under Construction"
+      },
+      {
+        "slug": "vtp-monarque-it-park-homes",
+        "keyword": "VTP Monarque IT Park Homes"
+      },
+      {
+        "slug": "vtp-monarque-mla-homes",
+        "keyword": "VTP Monarque MLA Homes"
+      },
+      {
+        "slug": "vtp-monarque-vtp-projects",
+        "keyword": "VTP Monarque VTP Projects"
       }
     ]
   },
@@ -21874,6 +24802,46 @@ export const seoSilos = [
       {
         "slug": "vtp-pegasus-pre-emi-offer",
         "keyword": "VTP Pegasus Pre EMI Offer"
+      },
+      {
+        "slug": "what-is-the-price-of-vtp-pegasus",
+        "keyword": "What is the price of VTP Pegasus"
+      },
+      {
+        "slug": "is-it-good-to-invest-in-vtp-pegasus",
+        "keyword": "Is it good to invest in VTP Pegasus"
+      },
+      {
+        "slug": "honest-reviews-of-vtp-pegasus",
+        "keyword": "Honest reviews of VTP Pegasus"
+      },
+      {
+        "slug": "exact-location-of-vtp-pegasus",
+        "keyword": "Exact location of VTP Pegasus"
+      },
+      {
+        "slug": "when-is-the-possession-date-for-vtp-pegasus",
+        "keyword": "When is the possession date for VTP Pegasus"
+      },
+      {
+        "slug": "how-to-book-a-flat-in-vtp-pegasus",
+        "keyword": "How to book a flat in VTP Pegasus"
+      },
+      {
+        "slug": "distance-from-it-park-to-vtp-pegasus",
+        "keyword": "Distance from IT Park to VTP Pegasus"
+      },
+      {
+        "slug": "latest-construction-update-of-vtp-pegasus",
+        "keyword": "Latest construction update of VTP Pegasus"
+      },
+      {
+        "slug": "rera-registration-details-for-vtp-pegasus",
+        "keyword": "RERA registration details for VTP Pegasus"
+      },
+      {
+        "slug": "download-brochure-pdf-for-vtp-pegasus",
+        "keyword": "Download brochure PDF for VTP Pegasus"
       },
       {
         "slug": "vtp-pegasus-for-buyers-in-mahalunge",
@@ -22122,6 +25090,210 @@ export const seoSilos = [
       {
         "slug": "vtp-pegasus-for-buyers-in-bahrain",
         "keyword": "VTP Pegasus for buyers in Bahrain"
+      },
+      {
+        "slug": "vtp-pegasus-pune-smart-city-projects",
+        "keyword": "VTP Pegasus - Pune Smart City Projects"
+      },
+      {
+        "slug": "vtp-pegasus-riverfront-living-pune",
+        "keyword": "VTP Pegasus - Riverfront Living Pune"
+      },
+      {
+        "slug": "vtp-pegasus-high-roi-investment-pune",
+        "keyword": "VTP Pegasus - High ROI Investment Pune"
+      },
+      {
+        "slug": "vtp-pegasus-zero-brokerage-flats-pune",
+        "keyword": "VTP Pegasus - Zero Brokerage Flats Pune"
+      },
+      {
+        "slug": "vtp-pegasus-rera-registered-projects-pune",
+        "keyword": "VTP Pegasus - RERA Registered Projects Pune"
+      },
+      {
+        "slug": "vtp-pegasus-best-areas-to-invest-in-pune-2026",
+        "keyword": "VTP Pegasus - Best Areas to Invest in Pune 2026"
+      },
+      {
+        "slug": "vtp-pegasus-pune-real-estate-market-trends",
+        "keyword": "VTP Pegasus - Pune Real Estate Market Trends"
+      },
+      {
+        "slug": "vtp-pegasus-walk-to-work-homes-pune",
+        "keyword": "VTP Pegasus - Walk-to-Work Homes Pune"
+      },
+      {
+        "slug": "vtp-pegasus-properties-near-pune-metro",
+        "keyword": "VTP Pegasus - Properties near Pune Metro"
+      },
+      {
+        "slug": "vtp-pegasus-top-10-builders-in-pune",
+        "keyword": "VTP Pegasus - Top 10 Builders in Pune"
+      },
+      {
+        "slug": "vtp-pegasus-stamp-duty-and-registration-in-pune",
+        "keyword": "VTP Pegasus - Stamp Duty and Registration in Pune"
+      },
+      {
+        "slug": "vtp-pegasus-is-pune-real-estate-a-bubble",
+        "keyword": "VTP Pegasus - Is Pune Real Estate a Bubble"
+      },
+      {
+        "slug": "vtp-pegasus-pune-vs-bangalore-real-estate",
+        "keyword": "VTP Pegasus - Pune vs Bangalore Real Estate"
+      },
+      {
+        "slug": "vtp-pegasus-pet-friendly-apartments-in-pune",
+        "keyword": "VTP Pegasus - Pet Friendly Apartments in Pune"
+      },
+      {
+        "slug": "vtp-pegasus-smart-home-automation-in-pune",
+        "keyword": "VTP Pegasus - Smart Home Automation in Pune"
+      },
+      {
+        "slug": "vtp-pegasus-co-living-spaces-in-pune",
+        "keyword": "VTP Pegasus - Co-Living Spaces in Pune"
+      },
+      {
+        "slug": "vtp-pegasus-senior-living-communities-in-pune",
+        "keyword": "VTP Pegasus - Senior Living Communities in Pune"
+      },
+      {
+        "slug": "vtp-pegasus-luxury-apartments",
+        "keyword": "VTP Pegasus Luxury Apartments"
+      },
+      {
+        "slug": "vtp-pegasus-premium-flats",
+        "keyword": "VTP Pegasus Premium Flats"
+      },
+      {
+        "slug": "vtp-pegasus-new-launch-projects",
+        "keyword": "VTP Pegasus New Launch Projects"
+      },
+      {
+        "slug": "vtp-pegasus-township-projects",
+        "keyword": "VTP Pegasus Township Projects"
+      },
+      {
+        "slug": "vtp-pegasus-real-estate-investment",
+        "keyword": "VTP Pegasus Real Estate Investment"
+      },
+      {
+        "slug": "vtp-pegasus-1bhk-flats",
+        "keyword": "VTP Pegasus 1BHK Flats"
+      },
+      {
+        "slug": "vtp-pegasus-2bhk-flats",
+        "keyword": "VTP Pegasus 2BHK Flats"
+      },
+      {
+        "slug": "vtp-pegasus-3bhk-luxury-homes",
+        "keyword": "VTP Pegasus 3BHK Luxury Homes"
+      },
+      {
+        "slug": "vtp-pegasus-4bhk-premium-apartments",
+        "keyword": "VTP Pegasus 4BHK Premium Apartments"
+      },
+      {
+        "slug": "vtp-pegasus-5bhk-villas",
+        "keyword": "VTP Pegasus 5BHK Villas"
+      },
+      {
+        "slug": "vtp-pegasus-1-bhk",
+        "keyword": "VTP Pegasus 1 BHK"
+      },
+      {
+        "slug": "vtp-pegasus-2-bhk",
+        "keyword": "VTP Pegasus 2 BHK"
+      },
+      {
+        "slug": "vtp-pegasus-3-bhk",
+        "keyword": "VTP Pegasus 3 BHK"
+      },
+      {
+        "slug": "vtp-pegasus-4-bhk",
+        "keyword": "VTP Pegasus 4 BHK"
+      },
+      {
+        "slug": "vtp-pegasus-studio-apartments",
+        "keyword": "VTP Pegasus Studio Apartments"
+      },
+      {
+        "slug": "vtp-pegasus-duplex-apartments",
+        "keyword": "VTP Pegasus Duplex Apartments"
+      },
+      {
+        "slug": "vtp-pegasus-sky-duplex",
+        "keyword": "VTP Pegasus Sky Duplex"
+      },
+      {
+        "slug": "vtp-pegasus-simplex-apartments",
+        "keyword": "VTP Pegasus Simplex Apartments"
+      },
+      {
+        "slug": "vtp-pegasus-penthouses",
+        "keyword": "VTP Pegasus Penthouses"
+      },
+      {
+        "slug": "vtp-pegasus-double-height-homes",
+        "keyword": "VTP Pegasus Double-Height Homes"
+      },
+      {
+        "slug": "vtp-pegasus-private-plunge-pool-flats",
+        "keyword": "VTP Pegasus Private Plunge Pool Flats"
+      },
+      {
+        "slug": "vtp-pegasus-nri-premium-homes",
+        "keyword": "VTP Pegasus NRI Premium Homes"
+      },
+      {
+        "slug": "vtp-pegasus-properties",
+        "keyword": "VTP Pegasus Properties"
+      },
+      {
+        "slug": "vtp-pegasus-flats",
+        "keyword": "VTP Pegasus Flats"
+      },
+      {
+        "slug": "vtp-pegasus-villas",
+        "keyword": "VTP Pegasus Villas"
+      },
+      {
+        "slug": "vtp-pegasus-row-houses",
+        "keyword": "VTP Pegasus Row Houses"
+      },
+      {
+        "slug": "vtp-pegasus-commercial-real-estate",
+        "keyword": "VTP Pegasus Commercial Real Estate"
+      },
+      {
+        "slug": "vtp-pegasus-retail-spaces",
+        "keyword": "VTP Pegasus Retail Spaces"
+      },
+      {
+        "slug": "vtp-pegasus-office-spaces",
+        "keyword": "VTP Pegasus Office Spaces"
+      },
+      {
+        "slug": "vtp-pegasus-ready-possession",
+        "keyword": "VTP Pegasus Ready Possession"
+      },
+      {
+        "slug": "vtp-pegasus-under-construction",
+        "keyword": "VTP Pegasus Under Construction"
+      },
+      {
+        "slug": "vtp-pegasus-it-park-homes",
+        "keyword": "VTP Pegasus IT Park Homes"
+      },
+      {
+        "slug": "vtp-pegasus-mla-homes",
+        "keyword": "VTP Pegasus MLA Homes"
+      },
+      {
+        "slug": "vtp-pegasus-vtp-projects",
+        "keyword": "VTP Pegasus VTP Projects"
       }
     ]
   },
@@ -22245,6 +25417,46 @@ export const seoSilos = [
       {
         "slug": "vtp-altamira-pre-emi-offer",
         "keyword": "VTP Altamira Pre EMI Offer"
+      },
+      {
+        "slug": "what-is-the-price-of-vtp-altamira",
+        "keyword": "What is the price of VTP Altamira"
+      },
+      {
+        "slug": "is-it-good-to-invest-in-vtp-altamira",
+        "keyword": "Is it good to invest in VTP Altamira"
+      },
+      {
+        "slug": "honest-reviews-of-vtp-altamira",
+        "keyword": "Honest reviews of VTP Altamira"
+      },
+      {
+        "slug": "exact-location-of-vtp-altamira",
+        "keyword": "Exact location of VTP Altamira"
+      },
+      {
+        "slug": "when-is-the-possession-date-for-vtp-altamira",
+        "keyword": "When is the possession date for VTP Altamira"
+      },
+      {
+        "slug": "how-to-book-a-flat-in-vtp-altamira",
+        "keyword": "How to book a flat in VTP Altamira"
+      },
+      {
+        "slug": "distance-from-it-park-to-vtp-altamira",
+        "keyword": "Distance from IT Park to VTP Altamira"
+      },
+      {
+        "slug": "latest-construction-update-of-vtp-altamira",
+        "keyword": "Latest construction update of VTP Altamira"
+      },
+      {
+        "slug": "rera-registration-details-for-vtp-altamira",
+        "keyword": "RERA registration details for VTP Altamira"
+      },
+      {
+        "slug": "download-brochure-pdf-for-vtp-altamira",
+        "keyword": "Download brochure PDF for VTP Altamira"
       },
       {
         "slug": "vtp-altamira-for-buyers-in-mahalunge",
@@ -22493,6 +25705,210 @@ export const seoSilos = [
       {
         "slug": "vtp-altamira-for-buyers-in-bahrain",
         "keyword": "VTP Altamira for buyers in Bahrain"
+      },
+      {
+        "slug": "vtp-altamira-pune-smart-city-projects",
+        "keyword": "VTP Altamira - Pune Smart City Projects"
+      },
+      {
+        "slug": "vtp-altamira-riverfront-living-pune",
+        "keyword": "VTP Altamira - Riverfront Living Pune"
+      },
+      {
+        "slug": "vtp-altamira-high-roi-investment-pune",
+        "keyword": "VTP Altamira - High ROI Investment Pune"
+      },
+      {
+        "slug": "vtp-altamira-zero-brokerage-flats-pune",
+        "keyword": "VTP Altamira - Zero Brokerage Flats Pune"
+      },
+      {
+        "slug": "vtp-altamira-rera-registered-projects-pune",
+        "keyword": "VTP Altamira - RERA Registered Projects Pune"
+      },
+      {
+        "slug": "vtp-altamira-best-areas-to-invest-in-pune-2026",
+        "keyword": "VTP Altamira - Best Areas to Invest in Pune 2026"
+      },
+      {
+        "slug": "vtp-altamira-pune-real-estate-market-trends",
+        "keyword": "VTP Altamira - Pune Real Estate Market Trends"
+      },
+      {
+        "slug": "vtp-altamira-walk-to-work-homes-pune",
+        "keyword": "VTP Altamira - Walk-to-Work Homes Pune"
+      },
+      {
+        "slug": "vtp-altamira-properties-near-pune-metro",
+        "keyword": "VTP Altamira - Properties near Pune Metro"
+      },
+      {
+        "slug": "vtp-altamira-top-10-builders-in-pune",
+        "keyword": "VTP Altamira - Top 10 Builders in Pune"
+      },
+      {
+        "slug": "vtp-altamira-stamp-duty-and-registration-in-pune",
+        "keyword": "VTP Altamira - Stamp Duty and Registration in Pune"
+      },
+      {
+        "slug": "vtp-altamira-is-pune-real-estate-a-bubble",
+        "keyword": "VTP Altamira - Is Pune Real Estate a Bubble"
+      },
+      {
+        "slug": "vtp-altamira-pune-vs-bangalore-real-estate",
+        "keyword": "VTP Altamira - Pune vs Bangalore Real Estate"
+      },
+      {
+        "slug": "vtp-altamira-pet-friendly-apartments-in-pune",
+        "keyword": "VTP Altamira - Pet Friendly Apartments in Pune"
+      },
+      {
+        "slug": "vtp-altamira-smart-home-automation-in-pune",
+        "keyword": "VTP Altamira - Smart Home Automation in Pune"
+      },
+      {
+        "slug": "vtp-altamira-co-living-spaces-in-pune",
+        "keyword": "VTP Altamira - Co-Living Spaces in Pune"
+      },
+      {
+        "slug": "vtp-altamira-senior-living-communities-in-pune",
+        "keyword": "VTP Altamira - Senior Living Communities in Pune"
+      },
+      {
+        "slug": "vtp-altamira-luxury-apartments",
+        "keyword": "VTP Altamira Luxury Apartments"
+      },
+      {
+        "slug": "vtp-altamira-premium-flats",
+        "keyword": "VTP Altamira Premium Flats"
+      },
+      {
+        "slug": "vtp-altamira-new-launch-projects",
+        "keyword": "VTP Altamira New Launch Projects"
+      },
+      {
+        "slug": "vtp-altamira-township-projects",
+        "keyword": "VTP Altamira Township Projects"
+      },
+      {
+        "slug": "vtp-altamira-real-estate-investment",
+        "keyword": "VTP Altamira Real Estate Investment"
+      },
+      {
+        "slug": "vtp-altamira-1bhk-flats",
+        "keyword": "VTP Altamira 1BHK Flats"
+      },
+      {
+        "slug": "vtp-altamira-2bhk-flats",
+        "keyword": "VTP Altamira 2BHK Flats"
+      },
+      {
+        "slug": "vtp-altamira-3bhk-luxury-homes",
+        "keyword": "VTP Altamira 3BHK Luxury Homes"
+      },
+      {
+        "slug": "vtp-altamira-4bhk-premium-apartments",
+        "keyword": "VTP Altamira 4BHK Premium Apartments"
+      },
+      {
+        "slug": "vtp-altamira-5bhk-villas",
+        "keyword": "VTP Altamira 5BHK Villas"
+      },
+      {
+        "slug": "vtp-altamira-1-bhk",
+        "keyword": "VTP Altamira 1 BHK"
+      },
+      {
+        "slug": "vtp-altamira-2-bhk",
+        "keyword": "VTP Altamira 2 BHK"
+      },
+      {
+        "slug": "vtp-altamira-3-bhk",
+        "keyword": "VTP Altamira 3 BHK"
+      },
+      {
+        "slug": "vtp-altamira-4-bhk",
+        "keyword": "VTP Altamira 4 BHK"
+      },
+      {
+        "slug": "vtp-altamira-studio-apartments",
+        "keyword": "VTP Altamira Studio Apartments"
+      },
+      {
+        "slug": "vtp-altamira-duplex-apartments",
+        "keyword": "VTP Altamira Duplex Apartments"
+      },
+      {
+        "slug": "vtp-altamira-sky-duplex",
+        "keyword": "VTP Altamira Sky Duplex"
+      },
+      {
+        "slug": "vtp-altamira-simplex-apartments",
+        "keyword": "VTP Altamira Simplex Apartments"
+      },
+      {
+        "slug": "vtp-altamira-penthouses",
+        "keyword": "VTP Altamira Penthouses"
+      },
+      {
+        "slug": "vtp-altamira-double-height-homes",
+        "keyword": "VTP Altamira Double-Height Homes"
+      },
+      {
+        "slug": "vtp-altamira-private-plunge-pool-flats",
+        "keyword": "VTP Altamira Private Plunge Pool Flats"
+      },
+      {
+        "slug": "vtp-altamira-nri-premium-homes",
+        "keyword": "VTP Altamira NRI Premium Homes"
+      },
+      {
+        "slug": "vtp-altamira-properties",
+        "keyword": "VTP Altamira Properties"
+      },
+      {
+        "slug": "vtp-altamira-flats",
+        "keyword": "VTP Altamira Flats"
+      },
+      {
+        "slug": "vtp-altamira-villas",
+        "keyword": "VTP Altamira Villas"
+      },
+      {
+        "slug": "vtp-altamira-row-houses",
+        "keyword": "VTP Altamira Row Houses"
+      },
+      {
+        "slug": "vtp-altamira-commercial-real-estate",
+        "keyword": "VTP Altamira Commercial Real Estate"
+      },
+      {
+        "slug": "vtp-altamira-retail-spaces",
+        "keyword": "VTP Altamira Retail Spaces"
+      },
+      {
+        "slug": "vtp-altamira-office-spaces",
+        "keyword": "VTP Altamira Office Spaces"
+      },
+      {
+        "slug": "vtp-altamira-ready-possession",
+        "keyword": "VTP Altamira Ready Possession"
+      },
+      {
+        "slug": "vtp-altamira-under-construction",
+        "keyword": "VTP Altamira Under Construction"
+      },
+      {
+        "slug": "vtp-altamira-it-park-homes",
+        "keyword": "VTP Altamira IT Park Homes"
+      },
+      {
+        "slug": "vtp-altamira-mla-homes",
+        "keyword": "VTP Altamira MLA Homes"
+      },
+      {
+        "slug": "vtp-altamira-vtp-projects",
+        "keyword": "VTP Altamira VTP Projects"
       }
     ]
   },
@@ -22616,6 +26032,46 @@ export const seoSilos = [
       {
         "slug": "vtp-flamante-pre-emi-offer",
         "keyword": "VTP Flamante Pre EMI Offer"
+      },
+      {
+        "slug": "what-is-the-price-of-vtp-flamante",
+        "keyword": "What is the price of VTP Flamante"
+      },
+      {
+        "slug": "is-it-good-to-invest-in-vtp-flamante",
+        "keyword": "Is it good to invest in VTP Flamante"
+      },
+      {
+        "slug": "honest-reviews-of-vtp-flamante",
+        "keyword": "Honest reviews of VTP Flamante"
+      },
+      {
+        "slug": "exact-location-of-vtp-flamante",
+        "keyword": "Exact location of VTP Flamante"
+      },
+      {
+        "slug": "when-is-the-possession-date-for-vtp-flamante",
+        "keyword": "When is the possession date for VTP Flamante"
+      },
+      {
+        "slug": "how-to-book-a-flat-in-vtp-flamante",
+        "keyword": "How to book a flat in VTP Flamante"
+      },
+      {
+        "slug": "distance-from-it-park-to-vtp-flamante",
+        "keyword": "Distance from IT Park to VTP Flamante"
+      },
+      {
+        "slug": "latest-construction-update-of-vtp-flamante",
+        "keyword": "Latest construction update of VTP Flamante"
+      },
+      {
+        "slug": "rera-registration-details-for-vtp-flamante",
+        "keyword": "RERA registration details for VTP Flamante"
+      },
+      {
+        "slug": "download-brochure-pdf-for-vtp-flamante",
+        "keyword": "Download brochure PDF for VTP Flamante"
       },
       {
         "slug": "vtp-flamante-for-buyers-in-mahalunge",
@@ -22864,6 +26320,210 @@ export const seoSilos = [
       {
         "slug": "vtp-flamante-for-buyers-in-bahrain",
         "keyword": "VTP Flamante for buyers in Bahrain"
+      },
+      {
+        "slug": "vtp-flamante-pune-smart-city-projects",
+        "keyword": "VTP Flamante - Pune Smart City Projects"
+      },
+      {
+        "slug": "vtp-flamante-riverfront-living-pune",
+        "keyword": "VTP Flamante - Riverfront Living Pune"
+      },
+      {
+        "slug": "vtp-flamante-high-roi-investment-pune",
+        "keyword": "VTP Flamante - High ROI Investment Pune"
+      },
+      {
+        "slug": "vtp-flamante-zero-brokerage-flats-pune",
+        "keyword": "VTP Flamante - Zero Brokerage Flats Pune"
+      },
+      {
+        "slug": "vtp-flamante-rera-registered-projects-pune",
+        "keyword": "VTP Flamante - RERA Registered Projects Pune"
+      },
+      {
+        "slug": "vtp-flamante-best-areas-to-invest-in-pune-2026",
+        "keyword": "VTP Flamante - Best Areas to Invest in Pune 2026"
+      },
+      {
+        "slug": "vtp-flamante-pune-real-estate-market-trends",
+        "keyword": "VTP Flamante - Pune Real Estate Market Trends"
+      },
+      {
+        "slug": "vtp-flamante-walk-to-work-homes-pune",
+        "keyword": "VTP Flamante - Walk-to-Work Homes Pune"
+      },
+      {
+        "slug": "vtp-flamante-properties-near-pune-metro",
+        "keyword": "VTP Flamante - Properties near Pune Metro"
+      },
+      {
+        "slug": "vtp-flamante-top-10-builders-in-pune",
+        "keyword": "VTP Flamante - Top 10 Builders in Pune"
+      },
+      {
+        "slug": "vtp-flamante-stamp-duty-and-registration-in-pune",
+        "keyword": "VTP Flamante - Stamp Duty and Registration in Pune"
+      },
+      {
+        "slug": "vtp-flamante-is-pune-real-estate-a-bubble",
+        "keyword": "VTP Flamante - Is Pune Real Estate a Bubble"
+      },
+      {
+        "slug": "vtp-flamante-pune-vs-bangalore-real-estate",
+        "keyword": "VTP Flamante - Pune vs Bangalore Real Estate"
+      },
+      {
+        "slug": "vtp-flamante-pet-friendly-apartments-in-pune",
+        "keyword": "VTP Flamante - Pet Friendly Apartments in Pune"
+      },
+      {
+        "slug": "vtp-flamante-smart-home-automation-in-pune",
+        "keyword": "VTP Flamante - Smart Home Automation in Pune"
+      },
+      {
+        "slug": "vtp-flamante-co-living-spaces-in-pune",
+        "keyword": "VTP Flamante - Co-Living Spaces in Pune"
+      },
+      {
+        "slug": "vtp-flamante-senior-living-communities-in-pune",
+        "keyword": "VTP Flamante - Senior Living Communities in Pune"
+      },
+      {
+        "slug": "vtp-flamante-luxury-apartments",
+        "keyword": "VTP Flamante Luxury Apartments"
+      },
+      {
+        "slug": "vtp-flamante-premium-flats",
+        "keyword": "VTP Flamante Premium Flats"
+      },
+      {
+        "slug": "vtp-flamante-new-launch-projects",
+        "keyword": "VTP Flamante New Launch Projects"
+      },
+      {
+        "slug": "vtp-flamante-township-projects",
+        "keyword": "VTP Flamante Township Projects"
+      },
+      {
+        "slug": "vtp-flamante-real-estate-investment",
+        "keyword": "VTP Flamante Real Estate Investment"
+      },
+      {
+        "slug": "vtp-flamante-1bhk-flats",
+        "keyword": "VTP Flamante 1BHK Flats"
+      },
+      {
+        "slug": "vtp-flamante-2bhk-flats",
+        "keyword": "VTP Flamante 2BHK Flats"
+      },
+      {
+        "slug": "vtp-flamante-3bhk-luxury-homes",
+        "keyword": "VTP Flamante 3BHK Luxury Homes"
+      },
+      {
+        "slug": "vtp-flamante-4bhk-premium-apartments",
+        "keyword": "VTP Flamante 4BHK Premium Apartments"
+      },
+      {
+        "slug": "vtp-flamante-5bhk-villas",
+        "keyword": "VTP Flamante 5BHK Villas"
+      },
+      {
+        "slug": "vtp-flamante-1-bhk",
+        "keyword": "VTP Flamante 1 BHK"
+      },
+      {
+        "slug": "vtp-flamante-2-bhk",
+        "keyword": "VTP Flamante 2 BHK"
+      },
+      {
+        "slug": "vtp-flamante-3-bhk",
+        "keyword": "VTP Flamante 3 BHK"
+      },
+      {
+        "slug": "vtp-flamante-4-bhk",
+        "keyword": "VTP Flamante 4 BHK"
+      },
+      {
+        "slug": "vtp-flamante-studio-apartments",
+        "keyword": "VTP Flamante Studio Apartments"
+      },
+      {
+        "slug": "vtp-flamante-duplex-apartments",
+        "keyword": "VTP Flamante Duplex Apartments"
+      },
+      {
+        "slug": "vtp-flamante-sky-duplex",
+        "keyword": "VTP Flamante Sky Duplex"
+      },
+      {
+        "slug": "vtp-flamante-simplex-apartments",
+        "keyword": "VTP Flamante Simplex Apartments"
+      },
+      {
+        "slug": "vtp-flamante-penthouses",
+        "keyword": "VTP Flamante Penthouses"
+      },
+      {
+        "slug": "vtp-flamante-double-height-homes",
+        "keyword": "VTP Flamante Double-Height Homes"
+      },
+      {
+        "slug": "vtp-flamante-private-plunge-pool-flats",
+        "keyword": "VTP Flamante Private Plunge Pool Flats"
+      },
+      {
+        "slug": "vtp-flamante-nri-premium-homes",
+        "keyword": "VTP Flamante NRI Premium Homes"
+      },
+      {
+        "slug": "vtp-flamante-properties",
+        "keyword": "VTP Flamante Properties"
+      },
+      {
+        "slug": "vtp-flamante-flats",
+        "keyword": "VTP Flamante Flats"
+      },
+      {
+        "slug": "vtp-flamante-villas",
+        "keyword": "VTP Flamante Villas"
+      },
+      {
+        "slug": "vtp-flamante-row-houses",
+        "keyword": "VTP Flamante Row Houses"
+      },
+      {
+        "slug": "vtp-flamante-commercial-real-estate",
+        "keyword": "VTP Flamante Commercial Real Estate"
+      },
+      {
+        "slug": "vtp-flamante-retail-spaces",
+        "keyword": "VTP Flamante Retail Spaces"
+      },
+      {
+        "slug": "vtp-flamante-office-spaces",
+        "keyword": "VTP Flamante Office Spaces"
+      },
+      {
+        "slug": "vtp-flamante-ready-possession",
+        "keyword": "VTP Flamante Ready Possession"
+      },
+      {
+        "slug": "vtp-flamante-under-construction",
+        "keyword": "VTP Flamante Under Construction"
+      },
+      {
+        "slug": "vtp-flamante-it-park-homes",
+        "keyword": "VTP Flamante IT Park Homes"
+      },
+      {
+        "slug": "vtp-flamante-mla-homes",
+        "keyword": "VTP Flamante MLA Homes"
+      },
+      {
+        "slug": "vtp-flamante-vtp-projects",
+        "keyword": "VTP Flamante VTP Projects"
       }
     ]
   },
@@ -22987,6 +26647,46 @@ export const seoSilos = [
       {
         "slug": "vtp-velvet-villas-pre-emi-offer",
         "keyword": "VTP Velvet Villas Pre EMI Offer"
+      },
+      {
+        "slug": "what-is-the-price-of-vtp-velvet-villas",
+        "keyword": "What is the price of VTP Velvet Villas"
+      },
+      {
+        "slug": "is-it-good-to-invest-in-vtp-velvet-villas",
+        "keyword": "Is it good to invest in VTP Velvet Villas"
+      },
+      {
+        "slug": "honest-reviews-of-vtp-velvet-villas",
+        "keyword": "Honest reviews of VTP Velvet Villas"
+      },
+      {
+        "slug": "exact-location-of-vtp-velvet-villas",
+        "keyword": "Exact location of VTP Velvet Villas"
+      },
+      {
+        "slug": "when-is-the-possession-date-for-vtp-velvet-villas",
+        "keyword": "When is the possession date for VTP Velvet Villas"
+      },
+      {
+        "slug": "how-to-book-a-flat-in-vtp-velvet-villas",
+        "keyword": "How to book a flat in VTP Velvet Villas"
+      },
+      {
+        "slug": "distance-from-it-park-to-vtp-velvet-villas",
+        "keyword": "Distance from IT Park to VTP Velvet Villas"
+      },
+      {
+        "slug": "latest-construction-update-of-vtp-velvet-villas",
+        "keyword": "Latest construction update of VTP Velvet Villas"
+      },
+      {
+        "slug": "rera-registration-details-for-vtp-velvet-villas",
+        "keyword": "RERA registration details for VTP Velvet Villas"
+      },
+      {
+        "slug": "download-brochure-pdf-for-vtp-velvet-villas",
+        "keyword": "Download brochure PDF for VTP Velvet Villas"
       },
       {
         "slug": "vtp-velvet-villas-for-buyers-in-mahalunge",
@@ -23235,6 +26935,210 @@ export const seoSilos = [
       {
         "slug": "vtp-velvet-villas-for-buyers-in-bahrain",
         "keyword": "VTP Velvet Villas for buyers in Bahrain"
+      },
+      {
+        "slug": "vtp-velvet-villas-pune-smart-city-projects",
+        "keyword": "VTP Velvet Villas - Pune Smart City Projects"
+      },
+      {
+        "slug": "vtp-velvet-villas-riverfront-living-pune",
+        "keyword": "VTP Velvet Villas - Riverfront Living Pune"
+      },
+      {
+        "slug": "vtp-velvet-villas-high-roi-investment-pune",
+        "keyword": "VTP Velvet Villas - High ROI Investment Pune"
+      },
+      {
+        "slug": "vtp-velvet-villas-zero-brokerage-flats-pune",
+        "keyword": "VTP Velvet Villas - Zero Brokerage Flats Pune"
+      },
+      {
+        "slug": "vtp-velvet-villas-rera-registered-projects-pune",
+        "keyword": "VTP Velvet Villas - RERA Registered Projects Pune"
+      },
+      {
+        "slug": "vtp-velvet-villas-best-areas-to-invest-in-pune-2026",
+        "keyword": "VTP Velvet Villas - Best Areas to Invest in Pune 2026"
+      },
+      {
+        "slug": "vtp-velvet-villas-pune-real-estate-market-trends",
+        "keyword": "VTP Velvet Villas - Pune Real Estate Market Trends"
+      },
+      {
+        "slug": "vtp-velvet-villas-walk-to-work-homes-pune",
+        "keyword": "VTP Velvet Villas - Walk-to-Work Homes Pune"
+      },
+      {
+        "slug": "vtp-velvet-villas-properties-near-pune-metro",
+        "keyword": "VTP Velvet Villas - Properties near Pune Metro"
+      },
+      {
+        "slug": "vtp-velvet-villas-top-10-builders-in-pune",
+        "keyword": "VTP Velvet Villas - Top 10 Builders in Pune"
+      },
+      {
+        "slug": "vtp-velvet-villas-stamp-duty-and-registration-in-pune",
+        "keyword": "VTP Velvet Villas - Stamp Duty and Registration in Pune"
+      },
+      {
+        "slug": "vtp-velvet-villas-is-pune-real-estate-a-bubble",
+        "keyword": "VTP Velvet Villas - Is Pune Real Estate a Bubble"
+      },
+      {
+        "slug": "vtp-velvet-villas-pune-vs-bangalore-real-estate",
+        "keyword": "VTP Velvet Villas - Pune vs Bangalore Real Estate"
+      },
+      {
+        "slug": "vtp-velvet-villas-pet-friendly-apartments-in-pune",
+        "keyword": "VTP Velvet Villas - Pet Friendly Apartments in Pune"
+      },
+      {
+        "slug": "vtp-velvet-villas-smart-home-automation-in-pune",
+        "keyword": "VTP Velvet Villas - Smart Home Automation in Pune"
+      },
+      {
+        "slug": "vtp-velvet-villas-co-living-spaces-in-pune",
+        "keyword": "VTP Velvet Villas - Co-Living Spaces in Pune"
+      },
+      {
+        "slug": "vtp-velvet-villas-senior-living-communities-in-pune",
+        "keyword": "VTP Velvet Villas - Senior Living Communities in Pune"
+      },
+      {
+        "slug": "vtp-velvet-villas-luxury-apartments",
+        "keyword": "VTP Velvet Villas Luxury Apartments"
+      },
+      {
+        "slug": "vtp-velvet-villas-premium-flats",
+        "keyword": "VTP Velvet Villas Premium Flats"
+      },
+      {
+        "slug": "vtp-velvet-villas-new-launch-projects",
+        "keyword": "VTP Velvet Villas New Launch Projects"
+      },
+      {
+        "slug": "vtp-velvet-villas-township-projects",
+        "keyword": "VTP Velvet Villas Township Projects"
+      },
+      {
+        "slug": "vtp-velvet-villas-real-estate-investment",
+        "keyword": "VTP Velvet Villas Real Estate Investment"
+      },
+      {
+        "slug": "vtp-velvet-villas-1bhk-flats",
+        "keyword": "VTP Velvet Villas 1BHK Flats"
+      },
+      {
+        "slug": "vtp-velvet-villas-2bhk-flats",
+        "keyword": "VTP Velvet Villas 2BHK Flats"
+      },
+      {
+        "slug": "vtp-velvet-villas-3bhk-luxury-homes",
+        "keyword": "VTP Velvet Villas 3BHK Luxury Homes"
+      },
+      {
+        "slug": "vtp-velvet-villas-4bhk-premium-apartments",
+        "keyword": "VTP Velvet Villas 4BHK Premium Apartments"
+      },
+      {
+        "slug": "vtp-velvet-villas-5bhk-villas",
+        "keyword": "VTP Velvet Villas 5BHK Villas"
+      },
+      {
+        "slug": "vtp-velvet-villas-1-bhk",
+        "keyword": "VTP Velvet Villas 1 BHK"
+      },
+      {
+        "slug": "vtp-velvet-villas-2-bhk",
+        "keyword": "VTP Velvet Villas 2 BHK"
+      },
+      {
+        "slug": "vtp-velvet-villas-3-bhk",
+        "keyword": "VTP Velvet Villas 3 BHK"
+      },
+      {
+        "slug": "vtp-velvet-villas-4-bhk",
+        "keyword": "VTP Velvet Villas 4 BHK"
+      },
+      {
+        "slug": "vtp-velvet-villas-studio-apartments",
+        "keyword": "VTP Velvet Villas Studio Apartments"
+      },
+      {
+        "slug": "vtp-velvet-villas-duplex-apartments",
+        "keyword": "VTP Velvet Villas Duplex Apartments"
+      },
+      {
+        "slug": "vtp-velvet-villas-sky-duplex",
+        "keyword": "VTP Velvet Villas Sky Duplex"
+      },
+      {
+        "slug": "vtp-velvet-villas-simplex-apartments",
+        "keyword": "VTP Velvet Villas Simplex Apartments"
+      },
+      {
+        "slug": "vtp-velvet-villas-penthouses",
+        "keyword": "VTP Velvet Villas Penthouses"
+      },
+      {
+        "slug": "vtp-velvet-villas-double-height-homes",
+        "keyword": "VTP Velvet Villas Double-Height Homes"
+      },
+      {
+        "slug": "vtp-velvet-villas-private-plunge-pool-flats",
+        "keyword": "VTP Velvet Villas Private Plunge Pool Flats"
+      },
+      {
+        "slug": "vtp-velvet-villas-nri-premium-homes",
+        "keyword": "VTP Velvet Villas NRI Premium Homes"
+      },
+      {
+        "slug": "vtp-velvet-villas-properties",
+        "keyword": "VTP Velvet Villas Properties"
+      },
+      {
+        "slug": "vtp-velvet-villas-flats",
+        "keyword": "VTP Velvet Villas Flats"
+      },
+      {
+        "slug": "vtp-velvet-villas-villas",
+        "keyword": "VTP Velvet Villas Villas"
+      },
+      {
+        "slug": "vtp-velvet-villas-row-houses",
+        "keyword": "VTP Velvet Villas Row Houses"
+      },
+      {
+        "slug": "vtp-velvet-villas-commercial-real-estate",
+        "keyword": "VTP Velvet Villas Commercial Real Estate"
+      },
+      {
+        "slug": "vtp-velvet-villas-retail-spaces",
+        "keyword": "VTP Velvet Villas Retail Spaces"
+      },
+      {
+        "slug": "vtp-velvet-villas-office-spaces",
+        "keyword": "VTP Velvet Villas Office Spaces"
+      },
+      {
+        "slug": "vtp-velvet-villas-ready-possession",
+        "keyword": "VTP Velvet Villas Ready Possession"
+      },
+      {
+        "slug": "vtp-velvet-villas-under-construction",
+        "keyword": "VTP Velvet Villas Under Construction"
+      },
+      {
+        "slug": "vtp-velvet-villas-it-park-homes",
+        "keyword": "VTP Velvet Villas IT Park Homes"
+      },
+      {
+        "slug": "vtp-velvet-villas-mla-homes",
+        "keyword": "VTP Velvet Villas MLA Homes"
+      },
+      {
+        "slug": "vtp-velvet-villas-vtp-projects",
+        "keyword": "VTP Velvet Villas VTP Projects"
       }
     ]
   },
@@ -23358,6 +27262,46 @@ export const seoSilos = [
       {
         "slug": "vtp-altair-pre-emi-offer",
         "keyword": "VTP Altair Pre EMI Offer"
+      },
+      {
+        "slug": "what-is-the-price-of-vtp-altair",
+        "keyword": "What is the price of VTP Altair"
+      },
+      {
+        "slug": "is-it-good-to-invest-in-vtp-altair",
+        "keyword": "Is it good to invest in VTP Altair"
+      },
+      {
+        "slug": "honest-reviews-of-vtp-altair",
+        "keyword": "Honest reviews of VTP Altair"
+      },
+      {
+        "slug": "exact-location-of-vtp-altair",
+        "keyword": "Exact location of VTP Altair"
+      },
+      {
+        "slug": "when-is-the-possession-date-for-vtp-altair",
+        "keyword": "When is the possession date for VTP Altair"
+      },
+      {
+        "slug": "how-to-book-a-flat-in-vtp-altair",
+        "keyword": "How to book a flat in VTP Altair"
+      },
+      {
+        "slug": "distance-from-it-park-to-vtp-altair",
+        "keyword": "Distance from IT Park to VTP Altair"
+      },
+      {
+        "slug": "latest-construction-update-of-vtp-altair",
+        "keyword": "Latest construction update of VTP Altair"
+      },
+      {
+        "slug": "rera-registration-details-for-vtp-altair",
+        "keyword": "RERA registration details for VTP Altair"
+      },
+      {
+        "slug": "download-brochure-pdf-for-vtp-altair",
+        "keyword": "Download brochure PDF for VTP Altair"
       },
       {
         "slug": "vtp-altair-for-buyers-in-mahalunge",
@@ -23606,6 +27550,210 @@ export const seoSilos = [
       {
         "slug": "vtp-altair-for-buyers-in-bahrain",
         "keyword": "VTP Altair for buyers in Bahrain"
+      },
+      {
+        "slug": "vtp-altair-pune-smart-city-projects",
+        "keyword": "VTP Altair - Pune Smart City Projects"
+      },
+      {
+        "slug": "vtp-altair-riverfront-living-pune",
+        "keyword": "VTP Altair - Riverfront Living Pune"
+      },
+      {
+        "slug": "vtp-altair-high-roi-investment-pune",
+        "keyword": "VTP Altair - High ROI Investment Pune"
+      },
+      {
+        "slug": "vtp-altair-zero-brokerage-flats-pune",
+        "keyword": "VTP Altair - Zero Brokerage Flats Pune"
+      },
+      {
+        "slug": "vtp-altair-rera-registered-projects-pune",
+        "keyword": "VTP Altair - RERA Registered Projects Pune"
+      },
+      {
+        "slug": "vtp-altair-best-areas-to-invest-in-pune-2026",
+        "keyword": "VTP Altair - Best Areas to Invest in Pune 2026"
+      },
+      {
+        "slug": "vtp-altair-pune-real-estate-market-trends",
+        "keyword": "VTP Altair - Pune Real Estate Market Trends"
+      },
+      {
+        "slug": "vtp-altair-walk-to-work-homes-pune",
+        "keyword": "VTP Altair - Walk-to-Work Homes Pune"
+      },
+      {
+        "slug": "vtp-altair-properties-near-pune-metro",
+        "keyword": "VTP Altair - Properties near Pune Metro"
+      },
+      {
+        "slug": "vtp-altair-top-10-builders-in-pune",
+        "keyword": "VTP Altair - Top 10 Builders in Pune"
+      },
+      {
+        "slug": "vtp-altair-stamp-duty-and-registration-in-pune",
+        "keyword": "VTP Altair - Stamp Duty and Registration in Pune"
+      },
+      {
+        "slug": "vtp-altair-is-pune-real-estate-a-bubble",
+        "keyword": "VTP Altair - Is Pune Real Estate a Bubble"
+      },
+      {
+        "slug": "vtp-altair-pune-vs-bangalore-real-estate",
+        "keyword": "VTP Altair - Pune vs Bangalore Real Estate"
+      },
+      {
+        "slug": "vtp-altair-pet-friendly-apartments-in-pune",
+        "keyword": "VTP Altair - Pet Friendly Apartments in Pune"
+      },
+      {
+        "slug": "vtp-altair-smart-home-automation-in-pune",
+        "keyword": "VTP Altair - Smart Home Automation in Pune"
+      },
+      {
+        "slug": "vtp-altair-co-living-spaces-in-pune",
+        "keyword": "VTP Altair - Co-Living Spaces in Pune"
+      },
+      {
+        "slug": "vtp-altair-senior-living-communities-in-pune",
+        "keyword": "VTP Altair - Senior Living Communities in Pune"
+      },
+      {
+        "slug": "vtp-altair-luxury-apartments",
+        "keyword": "VTP Altair Luxury Apartments"
+      },
+      {
+        "slug": "vtp-altair-premium-flats",
+        "keyword": "VTP Altair Premium Flats"
+      },
+      {
+        "slug": "vtp-altair-new-launch-projects",
+        "keyword": "VTP Altair New Launch Projects"
+      },
+      {
+        "slug": "vtp-altair-township-projects",
+        "keyword": "VTP Altair Township Projects"
+      },
+      {
+        "slug": "vtp-altair-real-estate-investment",
+        "keyword": "VTP Altair Real Estate Investment"
+      },
+      {
+        "slug": "vtp-altair-1bhk-flats",
+        "keyword": "VTP Altair 1BHK Flats"
+      },
+      {
+        "slug": "vtp-altair-2bhk-flats",
+        "keyword": "VTP Altair 2BHK Flats"
+      },
+      {
+        "slug": "vtp-altair-3bhk-luxury-homes",
+        "keyword": "VTP Altair 3BHK Luxury Homes"
+      },
+      {
+        "slug": "vtp-altair-4bhk-premium-apartments",
+        "keyword": "VTP Altair 4BHK Premium Apartments"
+      },
+      {
+        "slug": "vtp-altair-5bhk-villas",
+        "keyword": "VTP Altair 5BHK Villas"
+      },
+      {
+        "slug": "vtp-altair-1-bhk",
+        "keyword": "VTP Altair 1 BHK"
+      },
+      {
+        "slug": "vtp-altair-2-bhk",
+        "keyword": "VTP Altair 2 BHK"
+      },
+      {
+        "slug": "vtp-altair-3-bhk",
+        "keyword": "VTP Altair 3 BHK"
+      },
+      {
+        "slug": "vtp-altair-4-bhk",
+        "keyword": "VTP Altair 4 BHK"
+      },
+      {
+        "slug": "vtp-altair-studio-apartments",
+        "keyword": "VTP Altair Studio Apartments"
+      },
+      {
+        "slug": "vtp-altair-duplex-apartments",
+        "keyword": "VTP Altair Duplex Apartments"
+      },
+      {
+        "slug": "vtp-altair-sky-duplex",
+        "keyword": "VTP Altair Sky Duplex"
+      },
+      {
+        "slug": "vtp-altair-simplex-apartments",
+        "keyword": "VTP Altair Simplex Apartments"
+      },
+      {
+        "slug": "vtp-altair-penthouses",
+        "keyword": "VTP Altair Penthouses"
+      },
+      {
+        "slug": "vtp-altair-double-height-homes",
+        "keyword": "VTP Altair Double-Height Homes"
+      },
+      {
+        "slug": "vtp-altair-private-plunge-pool-flats",
+        "keyword": "VTP Altair Private Plunge Pool Flats"
+      },
+      {
+        "slug": "vtp-altair-nri-premium-homes",
+        "keyword": "VTP Altair NRI Premium Homes"
+      },
+      {
+        "slug": "vtp-altair-properties",
+        "keyword": "VTP Altair Properties"
+      },
+      {
+        "slug": "vtp-altair-flats",
+        "keyword": "VTP Altair Flats"
+      },
+      {
+        "slug": "vtp-altair-villas",
+        "keyword": "VTP Altair Villas"
+      },
+      {
+        "slug": "vtp-altair-row-houses",
+        "keyword": "VTP Altair Row Houses"
+      },
+      {
+        "slug": "vtp-altair-commercial-real-estate",
+        "keyword": "VTP Altair Commercial Real Estate"
+      },
+      {
+        "slug": "vtp-altair-retail-spaces",
+        "keyword": "VTP Altair Retail Spaces"
+      },
+      {
+        "slug": "vtp-altair-office-spaces",
+        "keyword": "VTP Altair Office Spaces"
+      },
+      {
+        "slug": "vtp-altair-ready-possession",
+        "keyword": "VTP Altair Ready Possession"
+      },
+      {
+        "slug": "vtp-altair-under-construction",
+        "keyword": "VTP Altair Under Construction"
+      },
+      {
+        "slug": "vtp-altair-it-park-homes",
+        "keyword": "VTP Altair IT Park Homes"
+      },
+      {
+        "slug": "vtp-altair-mla-homes",
+        "keyword": "VTP Altair MLA Homes"
+      },
+      {
+        "slug": "vtp-altair-vtp-projects",
+        "keyword": "VTP Altair VTP Projects"
       }
     ]
   },
@@ -23729,6 +27877,46 @@ export const seoSilos = [
       {
         "slug": "vtp-cygnus-pre-emi-offer",
         "keyword": "VTP Cygnus Pre EMI Offer"
+      },
+      {
+        "slug": "what-is-the-price-of-vtp-cygnus",
+        "keyword": "What is the price of VTP Cygnus"
+      },
+      {
+        "slug": "is-it-good-to-invest-in-vtp-cygnus",
+        "keyword": "Is it good to invest in VTP Cygnus"
+      },
+      {
+        "slug": "honest-reviews-of-vtp-cygnus",
+        "keyword": "Honest reviews of VTP Cygnus"
+      },
+      {
+        "slug": "exact-location-of-vtp-cygnus",
+        "keyword": "Exact location of VTP Cygnus"
+      },
+      {
+        "slug": "when-is-the-possession-date-for-vtp-cygnus",
+        "keyword": "When is the possession date for VTP Cygnus"
+      },
+      {
+        "slug": "how-to-book-a-flat-in-vtp-cygnus",
+        "keyword": "How to book a flat in VTP Cygnus"
+      },
+      {
+        "slug": "distance-from-it-park-to-vtp-cygnus",
+        "keyword": "Distance from IT Park to VTP Cygnus"
+      },
+      {
+        "slug": "latest-construction-update-of-vtp-cygnus",
+        "keyword": "Latest construction update of VTP Cygnus"
+      },
+      {
+        "slug": "rera-registration-details-for-vtp-cygnus",
+        "keyword": "RERA registration details for VTP Cygnus"
+      },
+      {
+        "slug": "download-brochure-pdf-for-vtp-cygnus",
+        "keyword": "Download brochure PDF for VTP Cygnus"
       },
       {
         "slug": "vtp-cygnus-for-buyers-in-mahalunge",
@@ -23977,6 +28165,210 @@ export const seoSilos = [
       {
         "slug": "vtp-cygnus-for-buyers-in-bahrain",
         "keyword": "VTP Cygnus for buyers in Bahrain"
+      },
+      {
+        "slug": "vtp-cygnus-pune-smart-city-projects",
+        "keyword": "VTP Cygnus - Pune Smart City Projects"
+      },
+      {
+        "slug": "vtp-cygnus-riverfront-living-pune",
+        "keyword": "VTP Cygnus - Riverfront Living Pune"
+      },
+      {
+        "slug": "vtp-cygnus-high-roi-investment-pune",
+        "keyword": "VTP Cygnus - High ROI Investment Pune"
+      },
+      {
+        "slug": "vtp-cygnus-zero-brokerage-flats-pune",
+        "keyword": "VTP Cygnus - Zero Brokerage Flats Pune"
+      },
+      {
+        "slug": "vtp-cygnus-rera-registered-projects-pune",
+        "keyword": "VTP Cygnus - RERA Registered Projects Pune"
+      },
+      {
+        "slug": "vtp-cygnus-best-areas-to-invest-in-pune-2026",
+        "keyword": "VTP Cygnus - Best Areas to Invest in Pune 2026"
+      },
+      {
+        "slug": "vtp-cygnus-pune-real-estate-market-trends",
+        "keyword": "VTP Cygnus - Pune Real Estate Market Trends"
+      },
+      {
+        "slug": "vtp-cygnus-walk-to-work-homes-pune",
+        "keyword": "VTP Cygnus - Walk-to-Work Homes Pune"
+      },
+      {
+        "slug": "vtp-cygnus-properties-near-pune-metro",
+        "keyword": "VTP Cygnus - Properties near Pune Metro"
+      },
+      {
+        "slug": "vtp-cygnus-top-10-builders-in-pune",
+        "keyword": "VTP Cygnus - Top 10 Builders in Pune"
+      },
+      {
+        "slug": "vtp-cygnus-stamp-duty-and-registration-in-pune",
+        "keyword": "VTP Cygnus - Stamp Duty and Registration in Pune"
+      },
+      {
+        "slug": "vtp-cygnus-is-pune-real-estate-a-bubble",
+        "keyword": "VTP Cygnus - Is Pune Real Estate a Bubble"
+      },
+      {
+        "slug": "vtp-cygnus-pune-vs-bangalore-real-estate",
+        "keyword": "VTP Cygnus - Pune vs Bangalore Real Estate"
+      },
+      {
+        "slug": "vtp-cygnus-pet-friendly-apartments-in-pune",
+        "keyword": "VTP Cygnus - Pet Friendly Apartments in Pune"
+      },
+      {
+        "slug": "vtp-cygnus-smart-home-automation-in-pune",
+        "keyword": "VTP Cygnus - Smart Home Automation in Pune"
+      },
+      {
+        "slug": "vtp-cygnus-co-living-spaces-in-pune",
+        "keyword": "VTP Cygnus - Co-Living Spaces in Pune"
+      },
+      {
+        "slug": "vtp-cygnus-senior-living-communities-in-pune",
+        "keyword": "VTP Cygnus - Senior Living Communities in Pune"
+      },
+      {
+        "slug": "vtp-cygnus-luxury-apartments",
+        "keyword": "VTP Cygnus Luxury Apartments"
+      },
+      {
+        "slug": "vtp-cygnus-premium-flats",
+        "keyword": "VTP Cygnus Premium Flats"
+      },
+      {
+        "slug": "vtp-cygnus-new-launch-projects",
+        "keyword": "VTP Cygnus New Launch Projects"
+      },
+      {
+        "slug": "vtp-cygnus-township-projects",
+        "keyword": "VTP Cygnus Township Projects"
+      },
+      {
+        "slug": "vtp-cygnus-real-estate-investment",
+        "keyword": "VTP Cygnus Real Estate Investment"
+      },
+      {
+        "slug": "vtp-cygnus-1bhk-flats",
+        "keyword": "VTP Cygnus 1BHK Flats"
+      },
+      {
+        "slug": "vtp-cygnus-2bhk-flats",
+        "keyword": "VTP Cygnus 2BHK Flats"
+      },
+      {
+        "slug": "vtp-cygnus-3bhk-luxury-homes",
+        "keyword": "VTP Cygnus 3BHK Luxury Homes"
+      },
+      {
+        "slug": "vtp-cygnus-4bhk-premium-apartments",
+        "keyword": "VTP Cygnus 4BHK Premium Apartments"
+      },
+      {
+        "slug": "vtp-cygnus-5bhk-villas",
+        "keyword": "VTP Cygnus 5BHK Villas"
+      },
+      {
+        "slug": "vtp-cygnus-1-bhk",
+        "keyword": "VTP Cygnus 1 BHK"
+      },
+      {
+        "slug": "vtp-cygnus-2-bhk",
+        "keyword": "VTP Cygnus 2 BHK"
+      },
+      {
+        "slug": "vtp-cygnus-3-bhk",
+        "keyword": "VTP Cygnus 3 BHK"
+      },
+      {
+        "slug": "vtp-cygnus-4-bhk",
+        "keyword": "VTP Cygnus 4 BHK"
+      },
+      {
+        "slug": "vtp-cygnus-studio-apartments",
+        "keyword": "VTP Cygnus Studio Apartments"
+      },
+      {
+        "slug": "vtp-cygnus-duplex-apartments",
+        "keyword": "VTP Cygnus Duplex Apartments"
+      },
+      {
+        "slug": "vtp-cygnus-sky-duplex",
+        "keyword": "VTP Cygnus Sky Duplex"
+      },
+      {
+        "slug": "vtp-cygnus-simplex-apartments",
+        "keyword": "VTP Cygnus Simplex Apartments"
+      },
+      {
+        "slug": "vtp-cygnus-penthouses",
+        "keyword": "VTP Cygnus Penthouses"
+      },
+      {
+        "slug": "vtp-cygnus-double-height-homes",
+        "keyword": "VTP Cygnus Double-Height Homes"
+      },
+      {
+        "slug": "vtp-cygnus-private-plunge-pool-flats",
+        "keyword": "VTP Cygnus Private Plunge Pool Flats"
+      },
+      {
+        "slug": "vtp-cygnus-nri-premium-homes",
+        "keyword": "VTP Cygnus NRI Premium Homes"
+      },
+      {
+        "slug": "vtp-cygnus-properties",
+        "keyword": "VTP Cygnus Properties"
+      },
+      {
+        "slug": "vtp-cygnus-flats",
+        "keyword": "VTP Cygnus Flats"
+      },
+      {
+        "slug": "vtp-cygnus-villas",
+        "keyword": "VTP Cygnus Villas"
+      },
+      {
+        "slug": "vtp-cygnus-row-houses",
+        "keyword": "VTP Cygnus Row Houses"
+      },
+      {
+        "slug": "vtp-cygnus-commercial-real-estate",
+        "keyword": "VTP Cygnus Commercial Real Estate"
+      },
+      {
+        "slug": "vtp-cygnus-retail-spaces",
+        "keyword": "VTP Cygnus Retail Spaces"
+      },
+      {
+        "slug": "vtp-cygnus-office-spaces",
+        "keyword": "VTP Cygnus Office Spaces"
+      },
+      {
+        "slug": "vtp-cygnus-ready-possession",
+        "keyword": "VTP Cygnus Ready Possession"
+      },
+      {
+        "slug": "vtp-cygnus-under-construction",
+        "keyword": "VTP Cygnus Under Construction"
+      },
+      {
+        "slug": "vtp-cygnus-it-park-homes",
+        "keyword": "VTP Cygnus IT Park Homes"
+      },
+      {
+        "slug": "vtp-cygnus-mla-homes",
+        "keyword": "VTP Cygnus MLA Homes"
+      },
+      {
+        "slug": "vtp-cygnus-vtp-projects",
+        "keyword": "VTP Cygnus VTP Projects"
       }
     ]
   },
@@ -24100,6 +28492,46 @@ export const seoSilos = [
       {
         "slug": "vtp-beaumonde-pre-emi-offer",
         "keyword": "VTP Beaumonde Pre EMI Offer"
+      },
+      {
+        "slug": "what-is-the-price-of-vtp-beaumonde",
+        "keyword": "What is the price of VTP Beaumonde"
+      },
+      {
+        "slug": "is-it-good-to-invest-in-vtp-beaumonde",
+        "keyword": "Is it good to invest in VTP Beaumonde"
+      },
+      {
+        "slug": "honest-reviews-of-vtp-beaumonde",
+        "keyword": "Honest reviews of VTP Beaumonde"
+      },
+      {
+        "slug": "exact-location-of-vtp-beaumonde",
+        "keyword": "Exact location of VTP Beaumonde"
+      },
+      {
+        "slug": "when-is-the-possession-date-for-vtp-beaumonde",
+        "keyword": "When is the possession date for VTP Beaumonde"
+      },
+      {
+        "slug": "how-to-book-a-flat-in-vtp-beaumonde",
+        "keyword": "How to book a flat in VTP Beaumonde"
+      },
+      {
+        "slug": "distance-from-it-park-to-vtp-beaumonde",
+        "keyword": "Distance from IT Park to VTP Beaumonde"
+      },
+      {
+        "slug": "latest-construction-update-of-vtp-beaumonde",
+        "keyword": "Latest construction update of VTP Beaumonde"
+      },
+      {
+        "slug": "rera-registration-details-for-vtp-beaumonde",
+        "keyword": "RERA registration details for VTP Beaumonde"
+      },
+      {
+        "slug": "download-brochure-pdf-for-vtp-beaumonde",
+        "keyword": "Download brochure PDF for VTP Beaumonde"
       },
       {
         "slug": "vtp-beaumonde-for-buyers-in-mahalunge",
@@ -24348,6 +28780,210 @@ export const seoSilos = [
       {
         "slug": "vtp-beaumonde-for-buyers-in-bahrain",
         "keyword": "VTP Beaumonde for buyers in Bahrain"
+      },
+      {
+        "slug": "vtp-beaumonde-pune-smart-city-projects",
+        "keyword": "VTP Beaumonde - Pune Smart City Projects"
+      },
+      {
+        "slug": "vtp-beaumonde-riverfront-living-pune",
+        "keyword": "VTP Beaumonde - Riverfront Living Pune"
+      },
+      {
+        "slug": "vtp-beaumonde-high-roi-investment-pune",
+        "keyword": "VTP Beaumonde - High ROI Investment Pune"
+      },
+      {
+        "slug": "vtp-beaumonde-zero-brokerage-flats-pune",
+        "keyword": "VTP Beaumonde - Zero Brokerage Flats Pune"
+      },
+      {
+        "slug": "vtp-beaumonde-rera-registered-projects-pune",
+        "keyword": "VTP Beaumonde - RERA Registered Projects Pune"
+      },
+      {
+        "slug": "vtp-beaumonde-best-areas-to-invest-in-pune-2026",
+        "keyword": "VTP Beaumonde - Best Areas to Invest in Pune 2026"
+      },
+      {
+        "slug": "vtp-beaumonde-pune-real-estate-market-trends",
+        "keyword": "VTP Beaumonde - Pune Real Estate Market Trends"
+      },
+      {
+        "slug": "vtp-beaumonde-walk-to-work-homes-pune",
+        "keyword": "VTP Beaumonde - Walk-to-Work Homes Pune"
+      },
+      {
+        "slug": "vtp-beaumonde-properties-near-pune-metro",
+        "keyword": "VTP Beaumonde - Properties near Pune Metro"
+      },
+      {
+        "slug": "vtp-beaumonde-top-10-builders-in-pune",
+        "keyword": "VTP Beaumonde - Top 10 Builders in Pune"
+      },
+      {
+        "slug": "vtp-beaumonde-stamp-duty-and-registration-in-pune",
+        "keyword": "VTP Beaumonde - Stamp Duty and Registration in Pune"
+      },
+      {
+        "slug": "vtp-beaumonde-is-pune-real-estate-a-bubble",
+        "keyword": "VTP Beaumonde - Is Pune Real Estate a Bubble"
+      },
+      {
+        "slug": "vtp-beaumonde-pune-vs-bangalore-real-estate",
+        "keyword": "VTP Beaumonde - Pune vs Bangalore Real Estate"
+      },
+      {
+        "slug": "vtp-beaumonde-pet-friendly-apartments-in-pune",
+        "keyword": "VTP Beaumonde - Pet Friendly Apartments in Pune"
+      },
+      {
+        "slug": "vtp-beaumonde-smart-home-automation-in-pune",
+        "keyword": "VTP Beaumonde - Smart Home Automation in Pune"
+      },
+      {
+        "slug": "vtp-beaumonde-co-living-spaces-in-pune",
+        "keyword": "VTP Beaumonde - Co-Living Spaces in Pune"
+      },
+      {
+        "slug": "vtp-beaumonde-senior-living-communities-in-pune",
+        "keyword": "VTP Beaumonde - Senior Living Communities in Pune"
+      },
+      {
+        "slug": "vtp-beaumonde-luxury-apartments",
+        "keyword": "VTP Beaumonde Luxury Apartments"
+      },
+      {
+        "slug": "vtp-beaumonde-premium-flats",
+        "keyword": "VTP Beaumonde Premium Flats"
+      },
+      {
+        "slug": "vtp-beaumonde-new-launch-projects",
+        "keyword": "VTP Beaumonde New Launch Projects"
+      },
+      {
+        "slug": "vtp-beaumonde-township-projects",
+        "keyword": "VTP Beaumonde Township Projects"
+      },
+      {
+        "slug": "vtp-beaumonde-real-estate-investment",
+        "keyword": "VTP Beaumonde Real Estate Investment"
+      },
+      {
+        "slug": "vtp-beaumonde-1bhk-flats",
+        "keyword": "VTP Beaumonde 1BHK Flats"
+      },
+      {
+        "slug": "vtp-beaumonde-2bhk-flats",
+        "keyword": "VTP Beaumonde 2BHK Flats"
+      },
+      {
+        "slug": "vtp-beaumonde-3bhk-luxury-homes",
+        "keyword": "VTP Beaumonde 3BHK Luxury Homes"
+      },
+      {
+        "slug": "vtp-beaumonde-4bhk-premium-apartments",
+        "keyword": "VTP Beaumonde 4BHK Premium Apartments"
+      },
+      {
+        "slug": "vtp-beaumonde-5bhk-villas",
+        "keyword": "VTP Beaumonde 5BHK Villas"
+      },
+      {
+        "slug": "vtp-beaumonde-1-bhk",
+        "keyword": "VTP Beaumonde 1 BHK"
+      },
+      {
+        "slug": "vtp-beaumonde-2-bhk",
+        "keyword": "VTP Beaumonde 2 BHK"
+      },
+      {
+        "slug": "vtp-beaumonde-3-bhk",
+        "keyword": "VTP Beaumonde 3 BHK"
+      },
+      {
+        "slug": "vtp-beaumonde-4-bhk",
+        "keyword": "VTP Beaumonde 4 BHK"
+      },
+      {
+        "slug": "vtp-beaumonde-studio-apartments",
+        "keyword": "VTP Beaumonde Studio Apartments"
+      },
+      {
+        "slug": "vtp-beaumonde-duplex-apartments",
+        "keyword": "VTP Beaumonde Duplex Apartments"
+      },
+      {
+        "slug": "vtp-beaumonde-sky-duplex",
+        "keyword": "VTP Beaumonde Sky Duplex"
+      },
+      {
+        "slug": "vtp-beaumonde-simplex-apartments",
+        "keyword": "VTP Beaumonde Simplex Apartments"
+      },
+      {
+        "slug": "vtp-beaumonde-penthouses",
+        "keyword": "VTP Beaumonde Penthouses"
+      },
+      {
+        "slug": "vtp-beaumonde-double-height-homes",
+        "keyword": "VTP Beaumonde Double-Height Homes"
+      },
+      {
+        "slug": "vtp-beaumonde-private-plunge-pool-flats",
+        "keyword": "VTP Beaumonde Private Plunge Pool Flats"
+      },
+      {
+        "slug": "vtp-beaumonde-nri-premium-homes",
+        "keyword": "VTP Beaumonde NRI Premium Homes"
+      },
+      {
+        "slug": "vtp-beaumonde-properties",
+        "keyword": "VTP Beaumonde Properties"
+      },
+      {
+        "slug": "vtp-beaumonde-flats",
+        "keyword": "VTP Beaumonde Flats"
+      },
+      {
+        "slug": "vtp-beaumonde-villas",
+        "keyword": "VTP Beaumonde Villas"
+      },
+      {
+        "slug": "vtp-beaumonde-row-houses",
+        "keyword": "VTP Beaumonde Row Houses"
+      },
+      {
+        "slug": "vtp-beaumonde-commercial-real-estate",
+        "keyword": "VTP Beaumonde Commercial Real Estate"
+      },
+      {
+        "slug": "vtp-beaumonde-retail-spaces",
+        "keyword": "VTP Beaumonde Retail Spaces"
+      },
+      {
+        "slug": "vtp-beaumonde-office-spaces",
+        "keyword": "VTP Beaumonde Office Spaces"
+      },
+      {
+        "slug": "vtp-beaumonde-ready-possession",
+        "keyword": "VTP Beaumonde Ready Possession"
+      },
+      {
+        "slug": "vtp-beaumonde-under-construction",
+        "keyword": "VTP Beaumonde Under Construction"
+      },
+      {
+        "slug": "vtp-beaumonde-it-park-homes",
+        "keyword": "VTP Beaumonde IT Park Homes"
+      },
+      {
+        "slug": "vtp-beaumonde-mla-homes",
+        "keyword": "VTP Beaumonde MLA Homes"
+      },
+      {
+        "slug": "vtp-beaumonde-vtp-projects",
+        "keyword": "VTP Beaumonde VTP Projects"
       }
     ]
   },
@@ -24471,6 +29107,46 @@ export const seoSilos = [
       {
         "slug": "vtp-purvanchal-pre-emi-offer",
         "keyword": "VTP Purvanchal Pre EMI Offer"
+      },
+      {
+        "slug": "what-is-the-price-of-vtp-purvanchal",
+        "keyword": "What is the price of VTP Purvanchal"
+      },
+      {
+        "slug": "is-it-good-to-invest-in-vtp-purvanchal",
+        "keyword": "Is it good to invest in VTP Purvanchal"
+      },
+      {
+        "slug": "honest-reviews-of-vtp-purvanchal",
+        "keyword": "Honest reviews of VTP Purvanchal"
+      },
+      {
+        "slug": "exact-location-of-vtp-purvanchal",
+        "keyword": "Exact location of VTP Purvanchal"
+      },
+      {
+        "slug": "when-is-the-possession-date-for-vtp-purvanchal",
+        "keyword": "When is the possession date for VTP Purvanchal"
+      },
+      {
+        "slug": "how-to-book-a-flat-in-vtp-purvanchal",
+        "keyword": "How to book a flat in VTP Purvanchal"
+      },
+      {
+        "slug": "distance-from-it-park-to-vtp-purvanchal",
+        "keyword": "Distance from IT Park to VTP Purvanchal"
+      },
+      {
+        "slug": "latest-construction-update-of-vtp-purvanchal",
+        "keyword": "Latest construction update of VTP Purvanchal"
+      },
+      {
+        "slug": "rera-registration-details-for-vtp-purvanchal",
+        "keyword": "RERA registration details for VTP Purvanchal"
+      },
+      {
+        "slug": "download-brochure-pdf-for-vtp-purvanchal",
+        "keyword": "Download brochure PDF for VTP Purvanchal"
       },
       {
         "slug": "vtp-purvanchal-for-buyers-in-mahalunge",
@@ -24719,6 +29395,210 @@ export const seoSilos = [
       {
         "slug": "vtp-purvanchal-for-buyers-in-bahrain",
         "keyword": "VTP Purvanchal for buyers in Bahrain"
+      },
+      {
+        "slug": "vtp-purvanchal-pune-smart-city-projects",
+        "keyword": "VTP Purvanchal - Pune Smart City Projects"
+      },
+      {
+        "slug": "vtp-purvanchal-riverfront-living-pune",
+        "keyword": "VTP Purvanchal - Riverfront Living Pune"
+      },
+      {
+        "slug": "vtp-purvanchal-high-roi-investment-pune",
+        "keyword": "VTP Purvanchal - High ROI Investment Pune"
+      },
+      {
+        "slug": "vtp-purvanchal-zero-brokerage-flats-pune",
+        "keyword": "VTP Purvanchal - Zero Brokerage Flats Pune"
+      },
+      {
+        "slug": "vtp-purvanchal-rera-registered-projects-pune",
+        "keyword": "VTP Purvanchal - RERA Registered Projects Pune"
+      },
+      {
+        "slug": "vtp-purvanchal-best-areas-to-invest-in-pune-2026",
+        "keyword": "VTP Purvanchal - Best Areas to Invest in Pune 2026"
+      },
+      {
+        "slug": "vtp-purvanchal-pune-real-estate-market-trends",
+        "keyword": "VTP Purvanchal - Pune Real Estate Market Trends"
+      },
+      {
+        "slug": "vtp-purvanchal-walk-to-work-homes-pune",
+        "keyword": "VTP Purvanchal - Walk-to-Work Homes Pune"
+      },
+      {
+        "slug": "vtp-purvanchal-properties-near-pune-metro",
+        "keyword": "VTP Purvanchal - Properties near Pune Metro"
+      },
+      {
+        "slug": "vtp-purvanchal-top-10-builders-in-pune",
+        "keyword": "VTP Purvanchal - Top 10 Builders in Pune"
+      },
+      {
+        "slug": "vtp-purvanchal-stamp-duty-and-registration-in-pune",
+        "keyword": "VTP Purvanchal - Stamp Duty and Registration in Pune"
+      },
+      {
+        "slug": "vtp-purvanchal-is-pune-real-estate-a-bubble",
+        "keyword": "VTP Purvanchal - Is Pune Real Estate a Bubble"
+      },
+      {
+        "slug": "vtp-purvanchal-pune-vs-bangalore-real-estate",
+        "keyword": "VTP Purvanchal - Pune vs Bangalore Real Estate"
+      },
+      {
+        "slug": "vtp-purvanchal-pet-friendly-apartments-in-pune",
+        "keyword": "VTP Purvanchal - Pet Friendly Apartments in Pune"
+      },
+      {
+        "slug": "vtp-purvanchal-smart-home-automation-in-pune",
+        "keyword": "VTP Purvanchal - Smart Home Automation in Pune"
+      },
+      {
+        "slug": "vtp-purvanchal-co-living-spaces-in-pune",
+        "keyword": "VTP Purvanchal - Co-Living Spaces in Pune"
+      },
+      {
+        "slug": "vtp-purvanchal-senior-living-communities-in-pune",
+        "keyword": "VTP Purvanchal - Senior Living Communities in Pune"
+      },
+      {
+        "slug": "vtp-purvanchal-luxury-apartments",
+        "keyword": "VTP Purvanchal Luxury Apartments"
+      },
+      {
+        "slug": "vtp-purvanchal-premium-flats",
+        "keyword": "VTP Purvanchal Premium Flats"
+      },
+      {
+        "slug": "vtp-purvanchal-new-launch-projects",
+        "keyword": "VTP Purvanchal New Launch Projects"
+      },
+      {
+        "slug": "vtp-purvanchal-township-projects",
+        "keyword": "VTP Purvanchal Township Projects"
+      },
+      {
+        "slug": "vtp-purvanchal-real-estate-investment",
+        "keyword": "VTP Purvanchal Real Estate Investment"
+      },
+      {
+        "slug": "vtp-purvanchal-1bhk-flats",
+        "keyword": "VTP Purvanchal 1BHK Flats"
+      },
+      {
+        "slug": "vtp-purvanchal-2bhk-flats",
+        "keyword": "VTP Purvanchal 2BHK Flats"
+      },
+      {
+        "slug": "vtp-purvanchal-3bhk-luxury-homes",
+        "keyword": "VTP Purvanchal 3BHK Luxury Homes"
+      },
+      {
+        "slug": "vtp-purvanchal-4bhk-premium-apartments",
+        "keyword": "VTP Purvanchal 4BHK Premium Apartments"
+      },
+      {
+        "slug": "vtp-purvanchal-5bhk-villas",
+        "keyword": "VTP Purvanchal 5BHK Villas"
+      },
+      {
+        "slug": "vtp-purvanchal-1-bhk",
+        "keyword": "VTP Purvanchal 1 BHK"
+      },
+      {
+        "slug": "vtp-purvanchal-2-bhk",
+        "keyword": "VTP Purvanchal 2 BHK"
+      },
+      {
+        "slug": "vtp-purvanchal-3-bhk",
+        "keyword": "VTP Purvanchal 3 BHK"
+      },
+      {
+        "slug": "vtp-purvanchal-4-bhk",
+        "keyword": "VTP Purvanchal 4 BHK"
+      },
+      {
+        "slug": "vtp-purvanchal-studio-apartments",
+        "keyword": "VTP Purvanchal Studio Apartments"
+      },
+      {
+        "slug": "vtp-purvanchal-duplex-apartments",
+        "keyword": "VTP Purvanchal Duplex Apartments"
+      },
+      {
+        "slug": "vtp-purvanchal-sky-duplex",
+        "keyword": "VTP Purvanchal Sky Duplex"
+      },
+      {
+        "slug": "vtp-purvanchal-simplex-apartments",
+        "keyword": "VTP Purvanchal Simplex Apartments"
+      },
+      {
+        "slug": "vtp-purvanchal-penthouses",
+        "keyword": "VTP Purvanchal Penthouses"
+      },
+      {
+        "slug": "vtp-purvanchal-double-height-homes",
+        "keyword": "VTP Purvanchal Double-Height Homes"
+      },
+      {
+        "slug": "vtp-purvanchal-private-plunge-pool-flats",
+        "keyword": "VTP Purvanchal Private Plunge Pool Flats"
+      },
+      {
+        "slug": "vtp-purvanchal-nri-premium-homes",
+        "keyword": "VTP Purvanchal NRI Premium Homes"
+      },
+      {
+        "slug": "vtp-purvanchal-properties",
+        "keyword": "VTP Purvanchal Properties"
+      },
+      {
+        "slug": "vtp-purvanchal-flats",
+        "keyword": "VTP Purvanchal Flats"
+      },
+      {
+        "slug": "vtp-purvanchal-villas",
+        "keyword": "VTP Purvanchal Villas"
+      },
+      {
+        "slug": "vtp-purvanchal-row-houses",
+        "keyword": "VTP Purvanchal Row Houses"
+      },
+      {
+        "slug": "vtp-purvanchal-commercial-real-estate",
+        "keyword": "VTP Purvanchal Commercial Real Estate"
+      },
+      {
+        "slug": "vtp-purvanchal-retail-spaces",
+        "keyword": "VTP Purvanchal Retail Spaces"
+      },
+      {
+        "slug": "vtp-purvanchal-office-spaces",
+        "keyword": "VTP Purvanchal Office Spaces"
+      },
+      {
+        "slug": "vtp-purvanchal-ready-possession",
+        "keyword": "VTP Purvanchal Ready Possession"
+      },
+      {
+        "slug": "vtp-purvanchal-under-construction",
+        "keyword": "VTP Purvanchal Under Construction"
+      },
+      {
+        "slug": "vtp-purvanchal-it-park-homes",
+        "keyword": "VTP Purvanchal IT Park Homes"
+      },
+      {
+        "slug": "vtp-purvanchal-mla-homes",
+        "keyword": "VTP Purvanchal MLA Homes"
+      },
+      {
+        "slug": "vtp-purvanchal-vtp-projects",
+        "keyword": "VTP Purvanchal VTP Projects"
       }
     ]
   },
@@ -24842,6 +29722,46 @@ export const seoSilos = [
       {
         "slug": "vtp-celesta-pre-emi-offer",
         "keyword": "VTP Celesta Pre EMI Offer"
+      },
+      {
+        "slug": "what-is-the-price-of-vtp-celesta",
+        "keyword": "What is the price of VTP Celesta"
+      },
+      {
+        "slug": "is-it-good-to-invest-in-vtp-celesta",
+        "keyword": "Is it good to invest in VTP Celesta"
+      },
+      {
+        "slug": "honest-reviews-of-vtp-celesta",
+        "keyword": "Honest reviews of VTP Celesta"
+      },
+      {
+        "slug": "exact-location-of-vtp-celesta",
+        "keyword": "Exact location of VTP Celesta"
+      },
+      {
+        "slug": "when-is-the-possession-date-for-vtp-celesta",
+        "keyword": "When is the possession date for VTP Celesta"
+      },
+      {
+        "slug": "how-to-book-a-flat-in-vtp-celesta",
+        "keyword": "How to book a flat in VTP Celesta"
+      },
+      {
+        "slug": "distance-from-it-park-to-vtp-celesta",
+        "keyword": "Distance from IT Park to VTP Celesta"
+      },
+      {
+        "slug": "latest-construction-update-of-vtp-celesta",
+        "keyword": "Latest construction update of VTP Celesta"
+      },
+      {
+        "slug": "rera-registration-details-for-vtp-celesta",
+        "keyword": "RERA registration details for VTP Celesta"
+      },
+      {
+        "slug": "download-brochure-pdf-for-vtp-celesta",
+        "keyword": "Download brochure PDF for VTP Celesta"
       },
       {
         "slug": "vtp-celesta-for-buyers-in-mahalunge",
@@ -25090,6 +30010,210 @@ export const seoSilos = [
       {
         "slug": "vtp-celesta-for-buyers-in-bahrain",
         "keyword": "VTP Celesta for buyers in Bahrain"
+      },
+      {
+        "slug": "vtp-celesta-pune-smart-city-projects",
+        "keyword": "VTP Celesta - Pune Smart City Projects"
+      },
+      {
+        "slug": "vtp-celesta-riverfront-living-pune",
+        "keyword": "VTP Celesta - Riverfront Living Pune"
+      },
+      {
+        "slug": "vtp-celesta-high-roi-investment-pune",
+        "keyword": "VTP Celesta - High ROI Investment Pune"
+      },
+      {
+        "slug": "vtp-celesta-zero-brokerage-flats-pune",
+        "keyword": "VTP Celesta - Zero Brokerage Flats Pune"
+      },
+      {
+        "slug": "vtp-celesta-rera-registered-projects-pune",
+        "keyword": "VTP Celesta - RERA Registered Projects Pune"
+      },
+      {
+        "slug": "vtp-celesta-best-areas-to-invest-in-pune-2026",
+        "keyword": "VTP Celesta - Best Areas to Invest in Pune 2026"
+      },
+      {
+        "slug": "vtp-celesta-pune-real-estate-market-trends",
+        "keyword": "VTP Celesta - Pune Real Estate Market Trends"
+      },
+      {
+        "slug": "vtp-celesta-walk-to-work-homes-pune",
+        "keyword": "VTP Celesta - Walk-to-Work Homes Pune"
+      },
+      {
+        "slug": "vtp-celesta-properties-near-pune-metro",
+        "keyword": "VTP Celesta - Properties near Pune Metro"
+      },
+      {
+        "slug": "vtp-celesta-top-10-builders-in-pune",
+        "keyword": "VTP Celesta - Top 10 Builders in Pune"
+      },
+      {
+        "slug": "vtp-celesta-stamp-duty-and-registration-in-pune",
+        "keyword": "VTP Celesta - Stamp Duty and Registration in Pune"
+      },
+      {
+        "slug": "vtp-celesta-is-pune-real-estate-a-bubble",
+        "keyword": "VTP Celesta - Is Pune Real Estate a Bubble"
+      },
+      {
+        "slug": "vtp-celesta-pune-vs-bangalore-real-estate",
+        "keyword": "VTP Celesta - Pune vs Bangalore Real Estate"
+      },
+      {
+        "slug": "vtp-celesta-pet-friendly-apartments-in-pune",
+        "keyword": "VTP Celesta - Pet Friendly Apartments in Pune"
+      },
+      {
+        "slug": "vtp-celesta-smart-home-automation-in-pune",
+        "keyword": "VTP Celesta - Smart Home Automation in Pune"
+      },
+      {
+        "slug": "vtp-celesta-co-living-spaces-in-pune",
+        "keyword": "VTP Celesta - Co-Living Spaces in Pune"
+      },
+      {
+        "slug": "vtp-celesta-senior-living-communities-in-pune",
+        "keyword": "VTP Celesta - Senior Living Communities in Pune"
+      },
+      {
+        "slug": "vtp-celesta-luxury-apartments",
+        "keyword": "VTP Celesta Luxury Apartments"
+      },
+      {
+        "slug": "vtp-celesta-premium-flats",
+        "keyword": "VTP Celesta Premium Flats"
+      },
+      {
+        "slug": "vtp-celesta-new-launch-projects",
+        "keyword": "VTP Celesta New Launch Projects"
+      },
+      {
+        "slug": "vtp-celesta-township-projects",
+        "keyword": "VTP Celesta Township Projects"
+      },
+      {
+        "slug": "vtp-celesta-real-estate-investment",
+        "keyword": "VTP Celesta Real Estate Investment"
+      },
+      {
+        "slug": "vtp-celesta-1bhk-flats",
+        "keyword": "VTP Celesta 1BHK Flats"
+      },
+      {
+        "slug": "vtp-celesta-2bhk-flats",
+        "keyword": "VTP Celesta 2BHK Flats"
+      },
+      {
+        "slug": "vtp-celesta-3bhk-luxury-homes",
+        "keyword": "VTP Celesta 3BHK Luxury Homes"
+      },
+      {
+        "slug": "vtp-celesta-4bhk-premium-apartments",
+        "keyword": "VTP Celesta 4BHK Premium Apartments"
+      },
+      {
+        "slug": "vtp-celesta-5bhk-villas",
+        "keyword": "VTP Celesta 5BHK Villas"
+      },
+      {
+        "slug": "vtp-celesta-1-bhk",
+        "keyword": "VTP Celesta 1 BHK"
+      },
+      {
+        "slug": "vtp-celesta-2-bhk",
+        "keyword": "VTP Celesta 2 BHK"
+      },
+      {
+        "slug": "vtp-celesta-3-bhk",
+        "keyword": "VTP Celesta 3 BHK"
+      },
+      {
+        "slug": "vtp-celesta-4-bhk",
+        "keyword": "VTP Celesta 4 BHK"
+      },
+      {
+        "slug": "vtp-celesta-studio-apartments",
+        "keyword": "VTP Celesta Studio Apartments"
+      },
+      {
+        "slug": "vtp-celesta-duplex-apartments",
+        "keyword": "VTP Celesta Duplex Apartments"
+      },
+      {
+        "slug": "vtp-celesta-sky-duplex",
+        "keyword": "VTP Celesta Sky Duplex"
+      },
+      {
+        "slug": "vtp-celesta-simplex-apartments",
+        "keyword": "VTP Celesta Simplex Apartments"
+      },
+      {
+        "slug": "vtp-celesta-penthouses",
+        "keyword": "VTP Celesta Penthouses"
+      },
+      {
+        "slug": "vtp-celesta-double-height-homes",
+        "keyword": "VTP Celesta Double-Height Homes"
+      },
+      {
+        "slug": "vtp-celesta-private-plunge-pool-flats",
+        "keyword": "VTP Celesta Private Plunge Pool Flats"
+      },
+      {
+        "slug": "vtp-celesta-nri-premium-homes",
+        "keyword": "VTP Celesta NRI Premium Homes"
+      },
+      {
+        "slug": "vtp-celesta-properties",
+        "keyword": "VTP Celesta Properties"
+      },
+      {
+        "slug": "vtp-celesta-flats",
+        "keyword": "VTP Celesta Flats"
+      },
+      {
+        "slug": "vtp-celesta-villas",
+        "keyword": "VTP Celesta Villas"
+      },
+      {
+        "slug": "vtp-celesta-row-houses",
+        "keyword": "VTP Celesta Row Houses"
+      },
+      {
+        "slug": "vtp-celesta-commercial-real-estate",
+        "keyword": "VTP Celesta Commercial Real Estate"
+      },
+      {
+        "slug": "vtp-celesta-retail-spaces",
+        "keyword": "VTP Celesta Retail Spaces"
+      },
+      {
+        "slug": "vtp-celesta-office-spaces",
+        "keyword": "VTP Celesta Office Spaces"
+      },
+      {
+        "slug": "vtp-celesta-ready-possession",
+        "keyword": "VTP Celesta Ready Possession"
+      },
+      {
+        "slug": "vtp-celesta-under-construction",
+        "keyword": "VTP Celesta Under Construction"
+      },
+      {
+        "slug": "vtp-celesta-it-park-homes",
+        "keyword": "VTP Celesta IT Park Homes"
+      },
+      {
+        "slug": "vtp-celesta-mla-homes",
+        "keyword": "VTP Celesta MLA Homes"
+      },
+      {
+        "slug": "vtp-celesta-vtp-projects",
+        "keyword": "VTP Celesta VTP Projects"
       }
     ]
   },
@@ -25213,6 +30337,46 @@ export const seoSilos = [
       {
         "slug": "vtp-urban-nest-pre-emi-offer",
         "keyword": "VTP Urban Nest Pre EMI Offer"
+      },
+      {
+        "slug": "what-is-the-price-of-vtp-urban-nest",
+        "keyword": "What is the price of VTP Urban Nest"
+      },
+      {
+        "slug": "is-it-good-to-invest-in-vtp-urban-nest",
+        "keyword": "Is it good to invest in VTP Urban Nest"
+      },
+      {
+        "slug": "honest-reviews-of-vtp-urban-nest",
+        "keyword": "Honest reviews of VTP Urban Nest"
+      },
+      {
+        "slug": "exact-location-of-vtp-urban-nest",
+        "keyword": "Exact location of VTP Urban Nest"
+      },
+      {
+        "slug": "when-is-the-possession-date-for-vtp-urban-nest",
+        "keyword": "When is the possession date for VTP Urban Nest"
+      },
+      {
+        "slug": "how-to-book-a-flat-in-vtp-urban-nest",
+        "keyword": "How to book a flat in VTP Urban Nest"
+      },
+      {
+        "slug": "distance-from-it-park-to-vtp-urban-nest",
+        "keyword": "Distance from IT Park to VTP Urban Nest"
+      },
+      {
+        "slug": "latest-construction-update-of-vtp-urban-nest",
+        "keyword": "Latest construction update of VTP Urban Nest"
+      },
+      {
+        "slug": "rera-registration-details-for-vtp-urban-nest",
+        "keyword": "RERA registration details for VTP Urban Nest"
+      },
+      {
+        "slug": "download-brochure-pdf-for-vtp-urban-nest",
+        "keyword": "Download brochure PDF for VTP Urban Nest"
       },
       {
         "slug": "vtp-urban-nest-for-buyers-in-mahalunge",
@@ -25461,6 +30625,210 @@ export const seoSilos = [
       {
         "slug": "vtp-urban-nest-for-buyers-in-bahrain",
         "keyword": "VTP Urban Nest for buyers in Bahrain"
+      },
+      {
+        "slug": "vtp-urban-nest-pune-smart-city-projects",
+        "keyword": "VTP Urban Nest - Pune Smart City Projects"
+      },
+      {
+        "slug": "vtp-urban-nest-riverfront-living-pune",
+        "keyword": "VTP Urban Nest - Riverfront Living Pune"
+      },
+      {
+        "slug": "vtp-urban-nest-high-roi-investment-pune",
+        "keyword": "VTP Urban Nest - High ROI Investment Pune"
+      },
+      {
+        "slug": "vtp-urban-nest-zero-brokerage-flats-pune",
+        "keyword": "VTP Urban Nest - Zero Brokerage Flats Pune"
+      },
+      {
+        "slug": "vtp-urban-nest-rera-registered-projects-pune",
+        "keyword": "VTP Urban Nest - RERA Registered Projects Pune"
+      },
+      {
+        "slug": "vtp-urban-nest-best-areas-to-invest-in-pune-2026",
+        "keyword": "VTP Urban Nest - Best Areas to Invest in Pune 2026"
+      },
+      {
+        "slug": "vtp-urban-nest-pune-real-estate-market-trends",
+        "keyword": "VTP Urban Nest - Pune Real Estate Market Trends"
+      },
+      {
+        "slug": "vtp-urban-nest-walk-to-work-homes-pune",
+        "keyword": "VTP Urban Nest - Walk-to-Work Homes Pune"
+      },
+      {
+        "slug": "vtp-urban-nest-properties-near-pune-metro",
+        "keyword": "VTP Urban Nest - Properties near Pune Metro"
+      },
+      {
+        "slug": "vtp-urban-nest-top-10-builders-in-pune",
+        "keyword": "VTP Urban Nest - Top 10 Builders in Pune"
+      },
+      {
+        "slug": "vtp-urban-nest-stamp-duty-and-registration-in-pune",
+        "keyword": "VTP Urban Nest - Stamp Duty and Registration in Pune"
+      },
+      {
+        "slug": "vtp-urban-nest-is-pune-real-estate-a-bubble",
+        "keyword": "VTP Urban Nest - Is Pune Real Estate a Bubble"
+      },
+      {
+        "slug": "vtp-urban-nest-pune-vs-bangalore-real-estate",
+        "keyword": "VTP Urban Nest - Pune vs Bangalore Real Estate"
+      },
+      {
+        "slug": "vtp-urban-nest-pet-friendly-apartments-in-pune",
+        "keyword": "VTP Urban Nest - Pet Friendly Apartments in Pune"
+      },
+      {
+        "slug": "vtp-urban-nest-smart-home-automation-in-pune",
+        "keyword": "VTP Urban Nest - Smart Home Automation in Pune"
+      },
+      {
+        "slug": "vtp-urban-nest-co-living-spaces-in-pune",
+        "keyword": "VTP Urban Nest - Co-Living Spaces in Pune"
+      },
+      {
+        "slug": "vtp-urban-nest-senior-living-communities-in-pune",
+        "keyword": "VTP Urban Nest - Senior Living Communities in Pune"
+      },
+      {
+        "slug": "vtp-urban-nest-luxury-apartments",
+        "keyword": "VTP Urban Nest Luxury Apartments"
+      },
+      {
+        "slug": "vtp-urban-nest-premium-flats",
+        "keyword": "VTP Urban Nest Premium Flats"
+      },
+      {
+        "slug": "vtp-urban-nest-new-launch-projects",
+        "keyword": "VTP Urban Nest New Launch Projects"
+      },
+      {
+        "slug": "vtp-urban-nest-township-projects",
+        "keyword": "VTP Urban Nest Township Projects"
+      },
+      {
+        "slug": "vtp-urban-nest-real-estate-investment",
+        "keyword": "VTP Urban Nest Real Estate Investment"
+      },
+      {
+        "slug": "vtp-urban-nest-1bhk-flats",
+        "keyword": "VTP Urban Nest 1BHK Flats"
+      },
+      {
+        "slug": "vtp-urban-nest-2bhk-flats",
+        "keyword": "VTP Urban Nest 2BHK Flats"
+      },
+      {
+        "slug": "vtp-urban-nest-3bhk-luxury-homes",
+        "keyword": "VTP Urban Nest 3BHK Luxury Homes"
+      },
+      {
+        "slug": "vtp-urban-nest-4bhk-premium-apartments",
+        "keyword": "VTP Urban Nest 4BHK Premium Apartments"
+      },
+      {
+        "slug": "vtp-urban-nest-5bhk-villas",
+        "keyword": "VTP Urban Nest 5BHK Villas"
+      },
+      {
+        "slug": "vtp-urban-nest-1-bhk",
+        "keyword": "VTP Urban Nest 1 BHK"
+      },
+      {
+        "slug": "vtp-urban-nest-2-bhk",
+        "keyword": "VTP Urban Nest 2 BHK"
+      },
+      {
+        "slug": "vtp-urban-nest-3-bhk",
+        "keyword": "VTP Urban Nest 3 BHK"
+      },
+      {
+        "slug": "vtp-urban-nest-4-bhk",
+        "keyword": "VTP Urban Nest 4 BHK"
+      },
+      {
+        "slug": "vtp-urban-nest-studio-apartments",
+        "keyword": "VTP Urban Nest Studio Apartments"
+      },
+      {
+        "slug": "vtp-urban-nest-duplex-apartments",
+        "keyword": "VTP Urban Nest Duplex Apartments"
+      },
+      {
+        "slug": "vtp-urban-nest-sky-duplex",
+        "keyword": "VTP Urban Nest Sky Duplex"
+      },
+      {
+        "slug": "vtp-urban-nest-simplex-apartments",
+        "keyword": "VTP Urban Nest Simplex Apartments"
+      },
+      {
+        "slug": "vtp-urban-nest-penthouses",
+        "keyword": "VTP Urban Nest Penthouses"
+      },
+      {
+        "slug": "vtp-urban-nest-double-height-homes",
+        "keyword": "VTP Urban Nest Double-Height Homes"
+      },
+      {
+        "slug": "vtp-urban-nest-private-plunge-pool-flats",
+        "keyword": "VTP Urban Nest Private Plunge Pool Flats"
+      },
+      {
+        "slug": "vtp-urban-nest-nri-premium-homes",
+        "keyword": "VTP Urban Nest NRI Premium Homes"
+      },
+      {
+        "slug": "vtp-urban-nest-properties",
+        "keyword": "VTP Urban Nest Properties"
+      },
+      {
+        "slug": "vtp-urban-nest-flats",
+        "keyword": "VTP Urban Nest Flats"
+      },
+      {
+        "slug": "vtp-urban-nest-villas",
+        "keyword": "VTP Urban Nest Villas"
+      },
+      {
+        "slug": "vtp-urban-nest-row-houses",
+        "keyword": "VTP Urban Nest Row Houses"
+      },
+      {
+        "slug": "vtp-urban-nest-commercial-real-estate",
+        "keyword": "VTP Urban Nest Commercial Real Estate"
+      },
+      {
+        "slug": "vtp-urban-nest-retail-spaces",
+        "keyword": "VTP Urban Nest Retail Spaces"
+      },
+      {
+        "slug": "vtp-urban-nest-office-spaces",
+        "keyword": "VTP Urban Nest Office Spaces"
+      },
+      {
+        "slug": "vtp-urban-nest-ready-possession",
+        "keyword": "VTP Urban Nest Ready Possession"
+      },
+      {
+        "slug": "vtp-urban-nest-under-construction",
+        "keyword": "VTP Urban Nest Under Construction"
+      },
+      {
+        "slug": "vtp-urban-nest-it-park-homes",
+        "keyword": "VTP Urban Nest IT Park Homes"
+      },
+      {
+        "slug": "vtp-urban-nest-mla-homes",
+        "keyword": "VTP Urban Nest MLA Homes"
+      },
+      {
+        "slug": "vtp-urban-nest-vtp-projects",
+        "keyword": "VTP Urban Nest VTP Projects"
       }
     ]
   },
@@ -25584,6 +30952,46 @@ export const seoSilos = [
       {
         "slug": "vtp-skylights-pre-emi-offer",
         "keyword": "VTP Skylights Pre EMI Offer"
+      },
+      {
+        "slug": "what-is-the-price-of-vtp-skylights",
+        "keyword": "What is the price of VTP Skylights"
+      },
+      {
+        "slug": "is-it-good-to-invest-in-vtp-skylights",
+        "keyword": "Is it good to invest in VTP Skylights"
+      },
+      {
+        "slug": "honest-reviews-of-vtp-skylights",
+        "keyword": "Honest reviews of VTP Skylights"
+      },
+      {
+        "slug": "exact-location-of-vtp-skylights",
+        "keyword": "Exact location of VTP Skylights"
+      },
+      {
+        "slug": "when-is-the-possession-date-for-vtp-skylights",
+        "keyword": "When is the possession date for VTP Skylights"
+      },
+      {
+        "slug": "how-to-book-a-flat-in-vtp-skylights",
+        "keyword": "How to book a flat in VTP Skylights"
+      },
+      {
+        "slug": "distance-from-it-park-to-vtp-skylights",
+        "keyword": "Distance from IT Park to VTP Skylights"
+      },
+      {
+        "slug": "latest-construction-update-of-vtp-skylights",
+        "keyword": "Latest construction update of VTP Skylights"
+      },
+      {
+        "slug": "rera-registration-details-for-vtp-skylights",
+        "keyword": "RERA registration details for VTP Skylights"
+      },
+      {
+        "slug": "download-brochure-pdf-for-vtp-skylights",
+        "keyword": "Download brochure PDF for VTP Skylights"
       },
       {
         "slug": "vtp-skylights-for-buyers-in-mahalunge",
@@ -25832,6 +31240,210 @@ export const seoSilos = [
       {
         "slug": "vtp-skylights-for-buyers-in-bahrain",
         "keyword": "VTP Skylights for buyers in Bahrain"
+      },
+      {
+        "slug": "vtp-skylights-pune-smart-city-projects",
+        "keyword": "VTP Skylights - Pune Smart City Projects"
+      },
+      {
+        "slug": "vtp-skylights-riverfront-living-pune",
+        "keyword": "VTP Skylights - Riverfront Living Pune"
+      },
+      {
+        "slug": "vtp-skylights-high-roi-investment-pune",
+        "keyword": "VTP Skylights - High ROI Investment Pune"
+      },
+      {
+        "slug": "vtp-skylights-zero-brokerage-flats-pune",
+        "keyword": "VTP Skylights - Zero Brokerage Flats Pune"
+      },
+      {
+        "slug": "vtp-skylights-rera-registered-projects-pune",
+        "keyword": "VTP Skylights - RERA Registered Projects Pune"
+      },
+      {
+        "slug": "vtp-skylights-best-areas-to-invest-in-pune-2026",
+        "keyword": "VTP Skylights - Best Areas to Invest in Pune 2026"
+      },
+      {
+        "slug": "vtp-skylights-pune-real-estate-market-trends",
+        "keyword": "VTP Skylights - Pune Real Estate Market Trends"
+      },
+      {
+        "slug": "vtp-skylights-walk-to-work-homes-pune",
+        "keyword": "VTP Skylights - Walk-to-Work Homes Pune"
+      },
+      {
+        "slug": "vtp-skylights-properties-near-pune-metro",
+        "keyword": "VTP Skylights - Properties near Pune Metro"
+      },
+      {
+        "slug": "vtp-skylights-top-10-builders-in-pune",
+        "keyword": "VTP Skylights - Top 10 Builders in Pune"
+      },
+      {
+        "slug": "vtp-skylights-stamp-duty-and-registration-in-pune",
+        "keyword": "VTP Skylights - Stamp Duty and Registration in Pune"
+      },
+      {
+        "slug": "vtp-skylights-is-pune-real-estate-a-bubble",
+        "keyword": "VTP Skylights - Is Pune Real Estate a Bubble"
+      },
+      {
+        "slug": "vtp-skylights-pune-vs-bangalore-real-estate",
+        "keyword": "VTP Skylights - Pune vs Bangalore Real Estate"
+      },
+      {
+        "slug": "vtp-skylights-pet-friendly-apartments-in-pune",
+        "keyword": "VTP Skylights - Pet Friendly Apartments in Pune"
+      },
+      {
+        "slug": "vtp-skylights-smart-home-automation-in-pune",
+        "keyword": "VTP Skylights - Smart Home Automation in Pune"
+      },
+      {
+        "slug": "vtp-skylights-co-living-spaces-in-pune",
+        "keyword": "VTP Skylights - Co-Living Spaces in Pune"
+      },
+      {
+        "slug": "vtp-skylights-senior-living-communities-in-pune",
+        "keyword": "VTP Skylights - Senior Living Communities in Pune"
+      },
+      {
+        "slug": "vtp-skylights-luxury-apartments",
+        "keyword": "VTP Skylights Luxury Apartments"
+      },
+      {
+        "slug": "vtp-skylights-premium-flats",
+        "keyword": "VTP Skylights Premium Flats"
+      },
+      {
+        "slug": "vtp-skylights-new-launch-projects",
+        "keyword": "VTP Skylights New Launch Projects"
+      },
+      {
+        "slug": "vtp-skylights-township-projects",
+        "keyword": "VTP Skylights Township Projects"
+      },
+      {
+        "slug": "vtp-skylights-real-estate-investment",
+        "keyword": "VTP Skylights Real Estate Investment"
+      },
+      {
+        "slug": "vtp-skylights-1bhk-flats",
+        "keyword": "VTP Skylights 1BHK Flats"
+      },
+      {
+        "slug": "vtp-skylights-2bhk-flats",
+        "keyword": "VTP Skylights 2BHK Flats"
+      },
+      {
+        "slug": "vtp-skylights-3bhk-luxury-homes",
+        "keyword": "VTP Skylights 3BHK Luxury Homes"
+      },
+      {
+        "slug": "vtp-skylights-4bhk-premium-apartments",
+        "keyword": "VTP Skylights 4BHK Premium Apartments"
+      },
+      {
+        "slug": "vtp-skylights-5bhk-villas",
+        "keyword": "VTP Skylights 5BHK Villas"
+      },
+      {
+        "slug": "vtp-skylights-1-bhk",
+        "keyword": "VTP Skylights 1 BHK"
+      },
+      {
+        "slug": "vtp-skylights-2-bhk",
+        "keyword": "VTP Skylights 2 BHK"
+      },
+      {
+        "slug": "vtp-skylights-3-bhk",
+        "keyword": "VTP Skylights 3 BHK"
+      },
+      {
+        "slug": "vtp-skylights-4-bhk",
+        "keyword": "VTP Skylights 4 BHK"
+      },
+      {
+        "slug": "vtp-skylights-studio-apartments",
+        "keyword": "VTP Skylights Studio Apartments"
+      },
+      {
+        "slug": "vtp-skylights-duplex-apartments",
+        "keyword": "VTP Skylights Duplex Apartments"
+      },
+      {
+        "slug": "vtp-skylights-sky-duplex",
+        "keyword": "VTP Skylights Sky Duplex"
+      },
+      {
+        "slug": "vtp-skylights-simplex-apartments",
+        "keyword": "VTP Skylights Simplex Apartments"
+      },
+      {
+        "slug": "vtp-skylights-penthouses",
+        "keyword": "VTP Skylights Penthouses"
+      },
+      {
+        "slug": "vtp-skylights-double-height-homes",
+        "keyword": "VTP Skylights Double-Height Homes"
+      },
+      {
+        "slug": "vtp-skylights-private-plunge-pool-flats",
+        "keyword": "VTP Skylights Private Plunge Pool Flats"
+      },
+      {
+        "slug": "vtp-skylights-nri-premium-homes",
+        "keyword": "VTP Skylights NRI Premium Homes"
+      },
+      {
+        "slug": "vtp-skylights-properties",
+        "keyword": "VTP Skylights Properties"
+      },
+      {
+        "slug": "vtp-skylights-flats",
+        "keyword": "VTP Skylights Flats"
+      },
+      {
+        "slug": "vtp-skylights-villas",
+        "keyword": "VTP Skylights Villas"
+      },
+      {
+        "slug": "vtp-skylights-row-houses",
+        "keyword": "VTP Skylights Row Houses"
+      },
+      {
+        "slug": "vtp-skylights-commercial-real-estate",
+        "keyword": "VTP Skylights Commercial Real Estate"
+      },
+      {
+        "slug": "vtp-skylights-retail-spaces",
+        "keyword": "VTP Skylights Retail Spaces"
+      },
+      {
+        "slug": "vtp-skylights-office-spaces",
+        "keyword": "VTP Skylights Office Spaces"
+      },
+      {
+        "slug": "vtp-skylights-ready-possession",
+        "keyword": "VTP Skylights Ready Possession"
+      },
+      {
+        "slug": "vtp-skylights-under-construction",
+        "keyword": "VTP Skylights Under Construction"
+      },
+      {
+        "slug": "vtp-skylights-it-park-homes",
+        "keyword": "VTP Skylights IT Park Homes"
+      },
+      {
+        "slug": "vtp-skylights-mla-homes",
+        "keyword": "VTP Skylights MLA Homes"
+      },
+      {
+        "slug": "vtp-skylights-vtp-projects",
+        "keyword": "VTP Skylights VTP Projects"
       }
     ]
   },
@@ -25955,6 +31567,46 @@ export const seoSilos = [
       {
         "slug": "vtp-kp-square-pre-emi-offer",
         "keyword": "VTP KP Square Pre EMI Offer"
+      },
+      {
+        "slug": "what-is-the-price-of-vtp-kp-square",
+        "keyword": "What is the price of VTP KP Square"
+      },
+      {
+        "slug": "is-it-good-to-invest-in-vtp-kp-square",
+        "keyword": "Is it good to invest in VTP KP Square"
+      },
+      {
+        "slug": "honest-reviews-of-vtp-kp-square",
+        "keyword": "Honest reviews of VTP KP Square"
+      },
+      {
+        "slug": "exact-location-of-vtp-kp-square",
+        "keyword": "Exact location of VTP KP Square"
+      },
+      {
+        "slug": "when-is-the-possession-date-for-vtp-kp-square",
+        "keyword": "When is the possession date for VTP KP Square"
+      },
+      {
+        "slug": "how-to-book-a-flat-in-vtp-kp-square",
+        "keyword": "How to book a flat in VTP KP Square"
+      },
+      {
+        "slug": "distance-from-it-park-to-vtp-kp-square",
+        "keyword": "Distance from IT Park to VTP KP Square"
+      },
+      {
+        "slug": "latest-construction-update-of-vtp-kp-square",
+        "keyword": "Latest construction update of VTP KP Square"
+      },
+      {
+        "slug": "rera-registration-details-for-vtp-kp-square",
+        "keyword": "RERA registration details for VTP KP Square"
+      },
+      {
+        "slug": "download-brochure-pdf-for-vtp-kp-square",
+        "keyword": "Download brochure PDF for VTP KP Square"
       },
       {
         "slug": "vtp-kp-square-for-buyers-in-mahalunge",
@@ -26203,6 +31855,210 @@ export const seoSilos = [
       {
         "slug": "vtp-kp-square-for-buyers-in-bahrain",
         "keyword": "VTP KP Square for buyers in Bahrain"
+      },
+      {
+        "slug": "vtp-kp-square-pune-smart-city-projects",
+        "keyword": "VTP KP Square - Pune Smart City Projects"
+      },
+      {
+        "slug": "vtp-kp-square-riverfront-living-pune",
+        "keyword": "VTP KP Square - Riverfront Living Pune"
+      },
+      {
+        "slug": "vtp-kp-square-high-roi-investment-pune",
+        "keyword": "VTP KP Square - High ROI Investment Pune"
+      },
+      {
+        "slug": "vtp-kp-square-zero-brokerage-flats-pune",
+        "keyword": "VTP KP Square - Zero Brokerage Flats Pune"
+      },
+      {
+        "slug": "vtp-kp-square-rera-registered-projects-pune",
+        "keyword": "VTP KP Square - RERA Registered Projects Pune"
+      },
+      {
+        "slug": "vtp-kp-square-best-areas-to-invest-in-pune-2026",
+        "keyword": "VTP KP Square - Best Areas to Invest in Pune 2026"
+      },
+      {
+        "slug": "vtp-kp-square-pune-real-estate-market-trends",
+        "keyword": "VTP KP Square - Pune Real Estate Market Trends"
+      },
+      {
+        "slug": "vtp-kp-square-walk-to-work-homes-pune",
+        "keyword": "VTP KP Square - Walk-to-Work Homes Pune"
+      },
+      {
+        "slug": "vtp-kp-square-properties-near-pune-metro",
+        "keyword": "VTP KP Square - Properties near Pune Metro"
+      },
+      {
+        "slug": "vtp-kp-square-top-10-builders-in-pune",
+        "keyword": "VTP KP Square - Top 10 Builders in Pune"
+      },
+      {
+        "slug": "vtp-kp-square-stamp-duty-and-registration-in-pune",
+        "keyword": "VTP KP Square - Stamp Duty and Registration in Pune"
+      },
+      {
+        "slug": "vtp-kp-square-is-pune-real-estate-a-bubble",
+        "keyword": "VTP KP Square - Is Pune Real Estate a Bubble"
+      },
+      {
+        "slug": "vtp-kp-square-pune-vs-bangalore-real-estate",
+        "keyword": "VTP KP Square - Pune vs Bangalore Real Estate"
+      },
+      {
+        "slug": "vtp-kp-square-pet-friendly-apartments-in-pune",
+        "keyword": "VTP KP Square - Pet Friendly Apartments in Pune"
+      },
+      {
+        "slug": "vtp-kp-square-smart-home-automation-in-pune",
+        "keyword": "VTP KP Square - Smart Home Automation in Pune"
+      },
+      {
+        "slug": "vtp-kp-square-co-living-spaces-in-pune",
+        "keyword": "VTP KP Square - Co-Living Spaces in Pune"
+      },
+      {
+        "slug": "vtp-kp-square-senior-living-communities-in-pune",
+        "keyword": "VTP KP Square - Senior Living Communities in Pune"
+      },
+      {
+        "slug": "vtp-kp-square-luxury-apartments",
+        "keyword": "VTP KP Square Luxury Apartments"
+      },
+      {
+        "slug": "vtp-kp-square-premium-flats",
+        "keyword": "VTP KP Square Premium Flats"
+      },
+      {
+        "slug": "vtp-kp-square-new-launch-projects",
+        "keyword": "VTP KP Square New Launch Projects"
+      },
+      {
+        "slug": "vtp-kp-square-township-projects",
+        "keyword": "VTP KP Square Township Projects"
+      },
+      {
+        "slug": "vtp-kp-square-real-estate-investment",
+        "keyword": "VTP KP Square Real Estate Investment"
+      },
+      {
+        "slug": "vtp-kp-square-1bhk-flats",
+        "keyword": "VTP KP Square 1BHK Flats"
+      },
+      {
+        "slug": "vtp-kp-square-2bhk-flats",
+        "keyword": "VTP KP Square 2BHK Flats"
+      },
+      {
+        "slug": "vtp-kp-square-3bhk-luxury-homes",
+        "keyword": "VTP KP Square 3BHK Luxury Homes"
+      },
+      {
+        "slug": "vtp-kp-square-4bhk-premium-apartments",
+        "keyword": "VTP KP Square 4BHK Premium Apartments"
+      },
+      {
+        "slug": "vtp-kp-square-5bhk-villas",
+        "keyword": "VTP KP Square 5BHK Villas"
+      },
+      {
+        "slug": "vtp-kp-square-1-bhk",
+        "keyword": "VTP KP Square 1 BHK"
+      },
+      {
+        "slug": "vtp-kp-square-2-bhk",
+        "keyword": "VTP KP Square 2 BHK"
+      },
+      {
+        "slug": "vtp-kp-square-3-bhk",
+        "keyword": "VTP KP Square 3 BHK"
+      },
+      {
+        "slug": "vtp-kp-square-4-bhk",
+        "keyword": "VTP KP Square 4 BHK"
+      },
+      {
+        "slug": "vtp-kp-square-studio-apartments",
+        "keyword": "VTP KP Square Studio Apartments"
+      },
+      {
+        "slug": "vtp-kp-square-duplex-apartments",
+        "keyword": "VTP KP Square Duplex Apartments"
+      },
+      {
+        "slug": "vtp-kp-square-sky-duplex",
+        "keyword": "VTP KP Square Sky Duplex"
+      },
+      {
+        "slug": "vtp-kp-square-simplex-apartments",
+        "keyword": "VTP KP Square Simplex Apartments"
+      },
+      {
+        "slug": "vtp-kp-square-penthouses",
+        "keyword": "VTP KP Square Penthouses"
+      },
+      {
+        "slug": "vtp-kp-square-double-height-homes",
+        "keyword": "VTP KP Square Double-Height Homes"
+      },
+      {
+        "slug": "vtp-kp-square-private-plunge-pool-flats",
+        "keyword": "VTP KP Square Private Plunge Pool Flats"
+      },
+      {
+        "slug": "vtp-kp-square-nri-premium-homes",
+        "keyword": "VTP KP Square NRI Premium Homes"
+      },
+      {
+        "slug": "vtp-kp-square-properties",
+        "keyword": "VTP KP Square Properties"
+      },
+      {
+        "slug": "vtp-kp-square-flats",
+        "keyword": "VTP KP Square Flats"
+      },
+      {
+        "slug": "vtp-kp-square-villas",
+        "keyword": "VTP KP Square Villas"
+      },
+      {
+        "slug": "vtp-kp-square-row-houses",
+        "keyword": "VTP KP Square Row Houses"
+      },
+      {
+        "slug": "vtp-kp-square-commercial-real-estate",
+        "keyword": "VTP KP Square Commercial Real Estate"
+      },
+      {
+        "slug": "vtp-kp-square-retail-spaces",
+        "keyword": "VTP KP Square Retail Spaces"
+      },
+      {
+        "slug": "vtp-kp-square-office-spaces",
+        "keyword": "VTP KP Square Office Spaces"
+      },
+      {
+        "slug": "vtp-kp-square-ready-possession",
+        "keyword": "VTP KP Square Ready Possession"
+      },
+      {
+        "slug": "vtp-kp-square-under-construction",
+        "keyword": "VTP KP Square Under Construction"
+      },
+      {
+        "slug": "vtp-kp-square-it-park-homes",
+        "keyword": "VTP KP Square IT Park Homes"
+      },
+      {
+        "slug": "vtp-kp-square-mla-homes",
+        "keyword": "VTP KP Square MLA Homes"
+      },
+      {
+        "slug": "vtp-kp-square-vtp-projects",
+        "keyword": "VTP KP Square VTP Projects"
       }
     ]
   },
@@ -26326,6 +32182,46 @@ export const seoSilos = [
       {
         "slug": "vtp-navu-square-pre-emi-offer",
         "keyword": "VTP Navu Square Pre EMI Offer"
+      },
+      {
+        "slug": "what-is-the-price-of-vtp-navu-square",
+        "keyword": "What is the price of VTP Navu Square"
+      },
+      {
+        "slug": "is-it-good-to-invest-in-vtp-navu-square",
+        "keyword": "Is it good to invest in VTP Navu Square"
+      },
+      {
+        "slug": "honest-reviews-of-vtp-navu-square",
+        "keyword": "Honest reviews of VTP Navu Square"
+      },
+      {
+        "slug": "exact-location-of-vtp-navu-square",
+        "keyword": "Exact location of VTP Navu Square"
+      },
+      {
+        "slug": "when-is-the-possession-date-for-vtp-navu-square",
+        "keyword": "When is the possession date for VTP Navu Square"
+      },
+      {
+        "slug": "how-to-book-a-flat-in-vtp-navu-square",
+        "keyword": "How to book a flat in VTP Navu Square"
+      },
+      {
+        "slug": "distance-from-it-park-to-vtp-navu-square",
+        "keyword": "Distance from IT Park to VTP Navu Square"
+      },
+      {
+        "slug": "latest-construction-update-of-vtp-navu-square",
+        "keyword": "Latest construction update of VTP Navu Square"
+      },
+      {
+        "slug": "rera-registration-details-for-vtp-navu-square",
+        "keyword": "RERA registration details for VTP Navu Square"
+      },
+      {
+        "slug": "download-brochure-pdf-for-vtp-navu-square",
+        "keyword": "Download brochure PDF for VTP Navu Square"
       },
       {
         "slug": "vtp-navu-square-for-buyers-in-mahalunge",
@@ -26574,6 +32470,210 @@ export const seoSilos = [
       {
         "slug": "vtp-navu-square-for-buyers-in-bahrain",
         "keyword": "VTP Navu Square for buyers in Bahrain"
+      },
+      {
+        "slug": "vtp-navu-square-pune-smart-city-projects",
+        "keyword": "VTP Navu Square - Pune Smart City Projects"
+      },
+      {
+        "slug": "vtp-navu-square-riverfront-living-pune",
+        "keyword": "VTP Navu Square - Riverfront Living Pune"
+      },
+      {
+        "slug": "vtp-navu-square-high-roi-investment-pune",
+        "keyword": "VTP Navu Square - High ROI Investment Pune"
+      },
+      {
+        "slug": "vtp-navu-square-zero-brokerage-flats-pune",
+        "keyword": "VTP Navu Square - Zero Brokerage Flats Pune"
+      },
+      {
+        "slug": "vtp-navu-square-rera-registered-projects-pune",
+        "keyword": "VTP Navu Square - RERA Registered Projects Pune"
+      },
+      {
+        "slug": "vtp-navu-square-best-areas-to-invest-in-pune-2026",
+        "keyword": "VTP Navu Square - Best Areas to Invest in Pune 2026"
+      },
+      {
+        "slug": "vtp-navu-square-pune-real-estate-market-trends",
+        "keyword": "VTP Navu Square - Pune Real Estate Market Trends"
+      },
+      {
+        "slug": "vtp-navu-square-walk-to-work-homes-pune",
+        "keyword": "VTP Navu Square - Walk-to-Work Homes Pune"
+      },
+      {
+        "slug": "vtp-navu-square-properties-near-pune-metro",
+        "keyword": "VTP Navu Square - Properties near Pune Metro"
+      },
+      {
+        "slug": "vtp-navu-square-top-10-builders-in-pune",
+        "keyword": "VTP Navu Square - Top 10 Builders in Pune"
+      },
+      {
+        "slug": "vtp-navu-square-stamp-duty-and-registration-in-pune",
+        "keyword": "VTP Navu Square - Stamp Duty and Registration in Pune"
+      },
+      {
+        "slug": "vtp-navu-square-is-pune-real-estate-a-bubble",
+        "keyword": "VTP Navu Square - Is Pune Real Estate a Bubble"
+      },
+      {
+        "slug": "vtp-navu-square-pune-vs-bangalore-real-estate",
+        "keyword": "VTP Navu Square - Pune vs Bangalore Real Estate"
+      },
+      {
+        "slug": "vtp-navu-square-pet-friendly-apartments-in-pune",
+        "keyword": "VTP Navu Square - Pet Friendly Apartments in Pune"
+      },
+      {
+        "slug": "vtp-navu-square-smart-home-automation-in-pune",
+        "keyword": "VTP Navu Square - Smart Home Automation in Pune"
+      },
+      {
+        "slug": "vtp-navu-square-co-living-spaces-in-pune",
+        "keyword": "VTP Navu Square - Co-Living Spaces in Pune"
+      },
+      {
+        "slug": "vtp-navu-square-senior-living-communities-in-pune",
+        "keyword": "VTP Navu Square - Senior Living Communities in Pune"
+      },
+      {
+        "slug": "vtp-navu-square-luxury-apartments",
+        "keyword": "VTP Navu Square Luxury Apartments"
+      },
+      {
+        "slug": "vtp-navu-square-premium-flats",
+        "keyword": "VTP Navu Square Premium Flats"
+      },
+      {
+        "slug": "vtp-navu-square-new-launch-projects",
+        "keyword": "VTP Navu Square New Launch Projects"
+      },
+      {
+        "slug": "vtp-navu-square-township-projects",
+        "keyword": "VTP Navu Square Township Projects"
+      },
+      {
+        "slug": "vtp-navu-square-real-estate-investment",
+        "keyword": "VTP Navu Square Real Estate Investment"
+      },
+      {
+        "slug": "vtp-navu-square-1bhk-flats",
+        "keyword": "VTP Navu Square 1BHK Flats"
+      },
+      {
+        "slug": "vtp-navu-square-2bhk-flats",
+        "keyword": "VTP Navu Square 2BHK Flats"
+      },
+      {
+        "slug": "vtp-navu-square-3bhk-luxury-homes",
+        "keyword": "VTP Navu Square 3BHK Luxury Homes"
+      },
+      {
+        "slug": "vtp-navu-square-4bhk-premium-apartments",
+        "keyword": "VTP Navu Square 4BHK Premium Apartments"
+      },
+      {
+        "slug": "vtp-navu-square-5bhk-villas",
+        "keyword": "VTP Navu Square 5BHK Villas"
+      },
+      {
+        "slug": "vtp-navu-square-1-bhk",
+        "keyword": "VTP Navu Square 1 BHK"
+      },
+      {
+        "slug": "vtp-navu-square-2-bhk",
+        "keyword": "VTP Navu Square 2 BHK"
+      },
+      {
+        "slug": "vtp-navu-square-3-bhk",
+        "keyword": "VTP Navu Square 3 BHK"
+      },
+      {
+        "slug": "vtp-navu-square-4-bhk",
+        "keyword": "VTP Navu Square 4 BHK"
+      },
+      {
+        "slug": "vtp-navu-square-studio-apartments",
+        "keyword": "VTP Navu Square Studio Apartments"
+      },
+      {
+        "slug": "vtp-navu-square-duplex-apartments",
+        "keyword": "VTP Navu Square Duplex Apartments"
+      },
+      {
+        "slug": "vtp-navu-square-sky-duplex",
+        "keyword": "VTP Navu Square Sky Duplex"
+      },
+      {
+        "slug": "vtp-navu-square-simplex-apartments",
+        "keyword": "VTP Navu Square Simplex Apartments"
+      },
+      {
+        "slug": "vtp-navu-square-penthouses",
+        "keyword": "VTP Navu Square Penthouses"
+      },
+      {
+        "slug": "vtp-navu-square-double-height-homes",
+        "keyword": "VTP Navu Square Double-Height Homes"
+      },
+      {
+        "slug": "vtp-navu-square-private-plunge-pool-flats",
+        "keyword": "VTP Navu Square Private Plunge Pool Flats"
+      },
+      {
+        "slug": "vtp-navu-square-nri-premium-homes",
+        "keyword": "VTP Navu Square NRI Premium Homes"
+      },
+      {
+        "slug": "vtp-navu-square-properties",
+        "keyword": "VTP Navu Square Properties"
+      },
+      {
+        "slug": "vtp-navu-square-flats",
+        "keyword": "VTP Navu Square Flats"
+      },
+      {
+        "slug": "vtp-navu-square-villas",
+        "keyword": "VTP Navu Square Villas"
+      },
+      {
+        "slug": "vtp-navu-square-row-houses",
+        "keyword": "VTP Navu Square Row Houses"
+      },
+      {
+        "slug": "vtp-navu-square-commercial-real-estate",
+        "keyword": "VTP Navu Square Commercial Real Estate"
+      },
+      {
+        "slug": "vtp-navu-square-retail-spaces",
+        "keyword": "VTP Navu Square Retail Spaces"
+      },
+      {
+        "slug": "vtp-navu-square-office-spaces",
+        "keyword": "VTP Navu Square Office Spaces"
+      },
+      {
+        "slug": "vtp-navu-square-ready-possession",
+        "keyword": "VTP Navu Square Ready Possession"
+      },
+      {
+        "slug": "vtp-navu-square-under-construction",
+        "keyword": "VTP Navu Square Under Construction"
+      },
+      {
+        "slug": "vtp-navu-square-it-park-homes",
+        "keyword": "VTP Navu Square IT Park Homes"
+      },
+      {
+        "slug": "vtp-navu-square-mla-homes",
+        "keyword": "VTP Navu Square MLA Homes"
+      },
+      {
+        "slug": "vtp-navu-square-vtp-projects",
+        "keyword": "VTP Navu Square VTP Projects"
       }
     ]
   },
@@ -26697,6 +32797,46 @@ export const seoSilos = [
       {
         "slug": "vtp-high-street-pre-emi-offer",
         "keyword": "VTP High Street Pre EMI Offer"
+      },
+      {
+        "slug": "what-is-the-price-of-vtp-high-street",
+        "keyword": "What is the price of VTP High Street"
+      },
+      {
+        "slug": "is-it-good-to-invest-in-vtp-high-street",
+        "keyword": "Is it good to invest in VTP High Street"
+      },
+      {
+        "slug": "honest-reviews-of-vtp-high-street",
+        "keyword": "Honest reviews of VTP High Street"
+      },
+      {
+        "slug": "exact-location-of-vtp-high-street",
+        "keyword": "Exact location of VTP High Street"
+      },
+      {
+        "slug": "when-is-the-possession-date-for-vtp-high-street",
+        "keyword": "When is the possession date for VTP High Street"
+      },
+      {
+        "slug": "how-to-book-a-flat-in-vtp-high-street",
+        "keyword": "How to book a flat in VTP High Street"
+      },
+      {
+        "slug": "distance-from-it-park-to-vtp-high-street",
+        "keyword": "Distance from IT Park to VTP High Street"
+      },
+      {
+        "slug": "latest-construction-update-of-vtp-high-street",
+        "keyword": "Latest construction update of VTP High Street"
+      },
+      {
+        "slug": "rera-registration-details-for-vtp-high-street",
+        "keyword": "RERA registration details for VTP High Street"
+      },
+      {
+        "slug": "download-brochure-pdf-for-vtp-high-street",
+        "keyword": "Download brochure PDF for VTP High Street"
       },
       {
         "slug": "vtp-high-street-for-buyers-in-mahalunge",
@@ -26945,6 +33085,210 @@ export const seoSilos = [
       {
         "slug": "vtp-high-street-for-buyers-in-bahrain",
         "keyword": "VTP High Street for buyers in Bahrain"
+      },
+      {
+        "slug": "vtp-high-street-pune-smart-city-projects",
+        "keyword": "VTP High Street - Pune Smart City Projects"
+      },
+      {
+        "slug": "vtp-high-street-riverfront-living-pune",
+        "keyword": "VTP High Street - Riverfront Living Pune"
+      },
+      {
+        "slug": "vtp-high-street-high-roi-investment-pune",
+        "keyword": "VTP High Street - High ROI Investment Pune"
+      },
+      {
+        "slug": "vtp-high-street-zero-brokerage-flats-pune",
+        "keyword": "VTP High Street - Zero Brokerage Flats Pune"
+      },
+      {
+        "slug": "vtp-high-street-rera-registered-projects-pune",
+        "keyword": "VTP High Street - RERA Registered Projects Pune"
+      },
+      {
+        "slug": "vtp-high-street-best-areas-to-invest-in-pune-2026",
+        "keyword": "VTP High Street - Best Areas to Invest in Pune 2026"
+      },
+      {
+        "slug": "vtp-high-street-pune-real-estate-market-trends",
+        "keyword": "VTP High Street - Pune Real Estate Market Trends"
+      },
+      {
+        "slug": "vtp-high-street-walk-to-work-homes-pune",
+        "keyword": "VTP High Street - Walk-to-Work Homes Pune"
+      },
+      {
+        "slug": "vtp-high-street-properties-near-pune-metro",
+        "keyword": "VTP High Street - Properties near Pune Metro"
+      },
+      {
+        "slug": "vtp-high-street-top-10-builders-in-pune",
+        "keyword": "VTP High Street - Top 10 Builders in Pune"
+      },
+      {
+        "slug": "vtp-high-street-stamp-duty-and-registration-in-pune",
+        "keyword": "VTP High Street - Stamp Duty and Registration in Pune"
+      },
+      {
+        "slug": "vtp-high-street-is-pune-real-estate-a-bubble",
+        "keyword": "VTP High Street - Is Pune Real Estate a Bubble"
+      },
+      {
+        "slug": "vtp-high-street-pune-vs-bangalore-real-estate",
+        "keyword": "VTP High Street - Pune vs Bangalore Real Estate"
+      },
+      {
+        "slug": "vtp-high-street-pet-friendly-apartments-in-pune",
+        "keyword": "VTP High Street - Pet Friendly Apartments in Pune"
+      },
+      {
+        "slug": "vtp-high-street-smart-home-automation-in-pune",
+        "keyword": "VTP High Street - Smart Home Automation in Pune"
+      },
+      {
+        "slug": "vtp-high-street-co-living-spaces-in-pune",
+        "keyword": "VTP High Street - Co-Living Spaces in Pune"
+      },
+      {
+        "slug": "vtp-high-street-senior-living-communities-in-pune",
+        "keyword": "VTP High Street - Senior Living Communities in Pune"
+      },
+      {
+        "slug": "vtp-high-street-luxury-apartments",
+        "keyword": "VTP High Street Luxury Apartments"
+      },
+      {
+        "slug": "vtp-high-street-premium-flats",
+        "keyword": "VTP High Street Premium Flats"
+      },
+      {
+        "slug": "vtp-high-street-new-launch-projects",
+        "keyword": "VTP High Street New Launch Projects"
+      },
+      {
+        "slug": "vtp-high-street-township-projects",
+        "keyword": "VTP High Street Township Projects"
+      },
+      {
+        "slug": "vtp-high-street-real-estate-investment",
+        "keyword": "VTP High Street Real Estate Investment"
+      },
+      {
+        "slug": "vtp-high-street-1bhk-flats",
+        "keyword": "VTP High Street 1BHK Flats"
+      },
+      {
+        "slug": "vtp-high-street-2bhk-flats",
+        "keyword": "VTP High Street 2BHK Flats"
+      },
+      {
+        "slug": "vtp-high-street-3bhk-luxury-homes",
+        "keyword": "VTP High Street 3BHK Luxury Homes"
+      },
+      {
+        "slug": "vtp-high-street-4bhk-premium-apartments",
+        "keyword": "VTP High Street 4BHK Premium Apartments"
+      },
+      {
+        "slug": "vtp-high-street-5bhk-villas",
+        "keyword": "VTP High Street 5BHK Villas"
+      },
+      {
+        "slug": "vtp-high-street-1-bhk",
+        "keyword": "VTP High Street 1 BHK"
+      },
+      {
+        "slug": "vtp-high-street-2-bhk",
+        "keyword": "VTP High Street 2 BHK"
+      },
+      {
+        "slug": "vtp-high-street-3-bhk",
+        "keyword": "VTP High Street 3 BHK"
+      },
+      {
+        "slug": "vtp-high-street-4-bhk",
+        "keyword": "VTP High Street 4 BHK"
+      },
+      {
+        "slug": "vtp-high-street-studio-apartments",
+        "keyword": "VTP High Street Studio Apartments"
+      },
+      {
+        "slug": "vtp-high-street-duplex-apartments",
+        "keyword": "VTP High Street Duplex Apartments"
+      },
+      {
+        "slug": "vtp-high-street-sky-duplex",
+        "keyword": "VTP High Street Sky Duplex"
+      },
+      {
+        "slug": "vtp-high-street-simplex-apartments",
+        "keyword": "VTP High Street Simplex Apartments"
+      },
+      {
+        "slug": "vtp-high-street-penthouses",
+        "keyword": "VTP High Street Penthouses"
+      },
+      {
+        "slug": "vtp-high-street-double-height-homes",
+        "keyword": "VTP High Street Double-Height Homes"
+      },
+      {
+        "slug": "vtp-high-street-private-plunge-pool-flats",
+        "keyword": "VTP High Street Private Plunge Pool Flats"
+      },
+      {
+        "slug": "vtp-high-street-nri-premium-homes",
+        "keyword": "VTP High Street NRI Premium Homes"
+      },
+      {
+        "slug": "vtp-high-street-properties",
+        "keyword": "VTP High Street Properties"
+      },
+      {
+        "slug": "vtp-high-street-flats",
+        "keyword": "VTP High Street Flats"
+      },
+      {
+        "slug": "vtp-high-street-villas",
+        "keyword": "VTP High Street Villas"
+      },
+      {
+        "slug": "vtp-high-street-row-houses",
+        "keyword": "VTP High Street Row Houses"
+      },
+      {
+        "slug": "vtp-high-street-commercial-real-estate",
+        "keyword": "VTP High Street Commercial Real Estate"
+      },
+      {
+        "slug": "vtp-high-street-retail-spaces",
+        "keyword": "VTP High Street Retail Spaces"
+      },
+      {
+        "slug": "vtp-high-street-office-spaces",
+        "keyword": "VTP High Street Office Spaces"
+      },
+      {
+        "slug": "vtp-high-street-ready-possession",
+        "keyword": "VTP High Street Ready Possession"
+      },
+      {
+        "slug": "vtp-high-street-under-construction",
+        "keyword": "VTP High Street Under Construction"
+      },
+      {
+        "slug": "vtp-high-street-it-park-homes",
+        "keyword": "VTP High Street IT Park Homes"
+      },
+      {
+        "slug": "vtp-high-street-mla-homes",
+        "keyword": "VTP High Street MLA Homes"
+      },
+      {
+        "slug": "vtp-high-street-vtp-projects",
+        "keyword": "VTP High Street VTP Projects"
       }
     ]
   },
@@ -27068,6 +33412,46 @@ export const seoSilos = [
       {
         "slug": "vtp-marketplace-pre-emi-offer",
         "keyword": "VTP Marketplace Pre EMI Offer"
+      },
+      {
+        "slug": "what-is-the-price-of-vtp-marketplace",
+        "keyword": "What is the price of VTP Marketplace"
+      },
+      {
+        "slug": "is-it-good-to-invest-in-vtp-marketplace",
+        "keyword": "Is it good to invest in VTP Marketplace"
+      },
+      {
+        "slug": "honest-reviews-of-vtp-marketplace",
+        "keyword": "Honest reviews of VTP Marketplace"
+      },
+      {
+        "slug": "exact-location-of-vtp-marketplace",
+        "keyword": "Exact location of VTP Marketplace"
+      },
+      {
+        "slug": "when-is-the-possession-date-for-vtp-marketplace",
+        "keyword": "When is the possession date for VTP Marketplace"
+      },
+      {
+        "slug": "how-to-book-a-flat-in-vtp-marketplace",
+        "keyword": "How to book a flat in VTP Marketplace"
+      },
+      {
+        "slug": "distance-from-it-park-to-vtp-marketplace",
+        "keyword": "Distance from IT Park to VTP Marketplace"
+      },
+      {
+        "slug": "latest-construction-update-of-vtp-marketplace",
+        "keyword": "Latest construction update of VTP Marketplace"
+      },
+      {
+        "slug": "rera-registration-details-for-vtp-marketplace",
+        "keyword": "RERA registration details for VTP Marketplace"
+      },
+      {
+        "slug": "download-brochure-pdf-for-vtp-marketplace",
+        "keyword": "Download brochure PDF for VTP Marketplace"
       },
       {
         "slug": "vtp-marketplace-for-buyers-in-mahalunge",
@@ -27316,6 +33700,210 @@ export const seoSilos = [
       {
         "slug": "vtp-marketplace-for-buyers-in-bahrain",
         "keyword": "VTP Marketplace for buyers in Bahrain"
+      },
+      {
+        "slug": "vtp-marketplace-pune-smart-city-projects",
+        "keyword": "VTP Marketplace - Pune Smart City Projects"
+      },
+      {
+        "slug": "vtp-marketplace-riverfront-living-pune",
+        "keyword": "VTP Marketplace - Riverfront Living Pune"
+      },
+      {
+        "slug": "vtp-marketplace-high-roi-investment-pune",
+        "keyword": "VTP Marketplace - High ROI Investment Pune"
+      },
+      {
+        "slug": "vtp-marketplace-zero-brokerage-flats-pune",
+        "keyword": "VTP Marketplace - Zero Brokerage Flats Pune"
+      },
+      {
+        "slug": "vtp-marketplace-rera-registered-projects-pune",
+        "keyword": "VTP Marketplace - RERA Registered Projects Pune"
+      },
+      {
+        "slug": "vtp-marketplace-best-areas-to-invest-in-pune-2026",
+        "keyword": "VTP Marketplace - Best Areas to Invest in Pune 2026"
+      },
+      {
+        "slug": "vtp-marketplace-pune-real-estate-market-trends",
+        "keyword": "VTP Marketplace - Pune Real Estate Market Trends"
+      },
+      {
+        "slug": "vtp-marketplace-walk-to-work-homes-pune",
+        "keyword": "VTP Marketplace - Walk-to-Work Homes Pune"
+      },
+      {
+        "slug": "vtp-marketplace-properties-near-pune-metro",
+        "keyword": "VTP Marketplace - Properties near Pune Metro"
+      },
+      {
+        "slug": "vtp-marketplace-top-10-builders-in-pune",
+        "keyword": "VTP Marketplace - Top 10 Builders in Pune"
+      },
+      {
+        "slug": "vtp-marketplace-stamp-duty-and-registration-in-pune",
+        "keyword": "VTP Marketplace - Stamp Duty and Registration in Pune"
+      },
+      {
+        "slug": "vtp-marketplace-is-pune-real-estate-a-bubble",
+        "keyword": "VTP Marketplace - Is Pune Real Estate a Bubble"
+      },
+      {
+        "slug": "vtp-marketplace-pune-vs-bangalore-real-estate",
+        "keyword": "VTP Marketplace - Pune vs Bangalore Real Estate"
+      },
+      {
+        "slug": "vtp-marketplace-pet-friendly-apartments-in-pune",
+        "keyword": "VTP Marketplace - Pet Friendly Apartments in Pune"
+      },
+      {
+        "slug": "vtp-marketplace-smart-home-automation-in-pune",
+        "keyword": "VTP Marketplace - Smart Home Automation in Pune"
+      },
+      {
+        "slug": "vtp-marketplace-co-living-spaces-in-pune",
+        "keyword": "VTP Marketplace - Co-Living Spaces in Pune"
+      },
+      {
+        "slug": "vtp-marketplace-senior-living-communities-in-pune",
+        "keyword": "VTP Marketplace - Senior Living Communities in Pune"
+      },
+      {
+        "slug": "vtp-marketplace-luxury-apartments",
+        "keyword": "VTP Marketplace Luxury Apartments"
+      },
+      {
+        "slug": "vtp-marketplace-premium-flats",
+        "keyword": "VTP Marketplace Premium Flats"
+      },
+      {
+        "slug": "vtp-marketplace-new-launch-projects",
+        "keyword": "VTP Marketplace New Launch Projects"
+      },
+      {
+        "slug": "vtp-marketplace-township-projects",
+        "keyword": "VTP Marketplace Township Projects"
+      },
+      {
+        "slug": "vtp-marketplace-real-estate-investment",
+        "keyword": "VTP Marketplace Real Estate Investment"
+      },
+      {
+        "slug": "vtp-marketplace-1bhk-flats",
+        "keyword": "VTP Marketplace 1BHK Flats"
+      },
+      {
+        "slug": "vtp-marketplace-2bhk-flats",
+        "keyword": "VTP Marketplace 2BHK Flats"
+      },
+      {
+        "slug": "vtp-marketplace-3bhk-luxury-homes",
+        "keyword": "VTP Marketplace 3BHK Luxury Homes"
+      },
+      {
+        "slug": "vtp-marketplace-4bhk-premium-apartments",
+        "keyword": "VTP Marketplace 4BHK Premium Apartments"
+      },
+      {
+        "slug": "vtp-marketplace-5bhk-villas",
+        "keyword": "VTP Marketplace 5BHK Villas"
+      },
+      {
+        "slug": "vtp-marketplace-1-bhk",
+        "keyword": "VTP Marketplace 1 BHK"
+      },
+      {
+        "slug": "vtp-marketplace-2-bhk",
+        "keyword": "VTP Marketplace 2 BHK"
+      },
+      {
+        "slug": "vtp-marketplace-3-bhk",
+        "keyword": "VTP Marketplace 3 BHK"
+      },
+      {
+        "slug": "vtp-marketplace-4-bhk",
+        "keyword": "VTP Marketplace 4 BHK"
+      },
+      {
+        "slug": "vtp-marketplace-studio-apartments",
+        "keyword": "VTP Marketplace Studio Apartments"
+      },
+      {
+        "slug": "vtp-marketplace-duplex-apartments",
+        "keyword": "VTP Marketplace Duplex Apartments"
+      },
+      {
+        "slug": "vtp-marketplace-sky-duplex",
+        "keyword": "VTP Marketplace Sky Duplex"
+      },
+      {
+        "slug": "vtp-marketplace-simplex-apartments",
+        "keyword": "VTP Marketplace Simplex Apartments"
+      },
+      {
+        "slug": "vtp-marketplace-penthouses",
+        "keyword": "VTP Marketplace Penthouses"
+      },
+      {
+        "slug": "vtp-marketplace-double-height-homes",
+        "keyword": "VTP Marketplace Double-Height Homes"
+      },
+      {
+        "slug": "vtp-marketplace-private-plunge-pool-flats",
+        "keyword": "VTP Marketplace Private Plunge Pool Flats"
+      },
+      {
+        "slug": "vtp-marketplace-nri-premium-homes",
+        "keyword": "VTP Marketplace NRI Premium Homes"
+      },
+      {
+        "slug": "vtp-marketplace-properties",
+        "keyword": "VTP Marketplace Properties"
+      },
+      {
+        "slug": "vtp-marketplace-flats",
+        "keyword": "VTP Marketplace Flats"
+      },
+      {
+        "slug": "vtp-marketplace-villas",
+        "keyword": "VTP Marketplace Villas"
+      },
+      {
+        "slug": "vtp-marketplace-row-houses",
+        "keyword": "VTP Marketplace Row Houses"
+      },
+      {
+        "slug": "vtp-marketplace-commercial-real-estate",
+        "keyword": "VTP Marketplace Commercial Real Estate"
+      },
+      {
+        "slug": "vtp-marketplace-retail-spaces",
+        "keyword": "VTP Marketplace Retail Spaces"
+      },
+      {
+        "slug": "vtp-marketplace-office-spaces",
+        "keyword": "VTP Marketplace Office Spaces"
+      },
+      {
+        "slug": "vtp-marketplace-ready-possession",
+        "keyword": "VTP Marketplace Ready Possession"
+      },
+      {
+        "slug": "vtp-marketplace-under-construction",
+        "keyword": "VTP Marketplace Under Construction"
+      },
+      {
+        "slug": "vtp-marketplace-it-park-homes",
+        "keyword": "VTP Marketplace IT Park Homes"
+      },
+      {
+        "slug": "vtp-marketplace-mla-homes",
+        "keyword": "VTP Marketplace MLA Homes"
+      },
+      {
+        "slug": "vtp-marketplace-vtp-projects",
+        "keyword": "VTP Marketplace VTP Projects"
       }
     ]
   },
@@ -27439,6 +34027,46 @@ export const seoSilos = [
       {
         "slug": "vtp-trade-park-pre-emi-offer",
         "keyword": "VTP Trade Park Pre EMI Offer"
+      },
+      {
+        "slug": "what-is-the-price-of-vtp-trade-park",
+        "keyword": "What is the price of VTP Trade Park"
+      },
+      {
+        "slug": "is-it-good-to-invest-in-vtp-trade-park",
+        "keyword": "Is it good to invest in VTP Trade Park"
+      },
+      {
+        "slug": "honest-reviews-of-vtp-trade-park",
+        "keyword": "Honest reviews of VTP Trade Park"
+      },
+      {
+        "slug": "exact-location-of-vtp-trade-park",
+        "keyword": "Exact location of VTP Trade Park"
+      },
+      {
+        "slug": "when-is-the-possession-date-for-vtp-trade-park",
+        "keyword": "When is the possession date for VTP Trade Park"
+      },
+      {
+        "slug": "how-to-book-a-flat-in-vtp-trade-park",
+        "keyword": "How to book a flat in VTP Trade Park"
+      },
+      {
+        "slug": "distance-from-it-park-to-vtp-trade-park",
+        "keyword": "Distance from IT Park to VTP Trade Park"
+      },
+      {
+        "slug": "latest-construction-update-of-vtp-trade-park",
+        "keyword": "Latest construction update of VTP Trade Park"
+      },
+      {
+        "slug": "rera-registration-details-for-vtp-trade-park",
+        "keyword": "RERA registration details for VTP Trade Park"
+      },
+      {
+        "slug": "download-brochure-pdf-for-vtp-trade-park",
+        "keyword": "Download brochure PDF for VTP Trade Park"
       },
       {
         "slug": "vtp-trade-park-for-buyers-in-mahalunge",
@@ -27687,6 +34315,210 @@ export const seoSilos = [
       {
         "slug": "vtp-trade-park-for-buyers-in-bahrain",
         "keyword": "VTP Trade Park for buyers in Bahrain"
+      },
+      {
+        "slug": "vtp-trade-park-pune-smart-city-projects",
+        "keyword": "VTP Trade Park - Pune Smart City Projects"
+      },
+      {
+        "slug": "vtp-trade-park-riverfront-living-pune",
+        "keyword": "VTP Trade Park - Riverfront Living Pune"
+      },
+      {
+        "slug": "vtp-trade-park-high-roi-investment-pune",
+        "keyword": "VTP Trade Park - High ROI Investment Pune"
+      },
+      {
+        "slug": "vtp-trade-park-zero-brokerage-flats-pune",
+        "keyword": "VTP Trade Park - Zero Brokerage Flats Pune"
+      },
+      {
+        "slug": "vtp-trade-park-rera-registered-projects-pune",
+        "keyword": "VTP Trade Park - RERA Registered Projects Pune"
+      },
+      {
+        "slug": "vtp-trade-park-best-areas-to-invest-in-pune-2026",
+        "keyword": "VTP Trade Park - Best Areas to Invest in Pune 2026"
+      },
+      {
+        "slug": "vtp-trade-park-pune-real-estate-market-trends",
+        "keyword": "VTP Trade Park - Pune Real Estate Market Trends"
+      },
+      {
+        "slug": "vtp-trade-park-walk-to-work-homes-pune",
+        "keyword": "VTP Trade Park - Walk-to-Work Homes Pune"
+      },
+      {
+        "slug": "vtp-trade-park-properties-near-pune-metro",
+        "keyword": "VTP Trade Park - Properties near Pune Metro"
+      },
+      {
+        "slug": "vtp-trade-park-top-10-builders-in-pune",
+        "keyword": "VTP Trade Park - Top 10 Builders in Pune"
+      },
+      {
+        "slug": "vtp-trade-park-stamp-duty-and-registration-in-pune",
+        "keyword": "VTP Trade Park - Stamp Duty and Registration in Pune"
+      },
+      {
+        "slug": "vtp-trade-park-is-pune-real-estate-a-bubble",
+        "keyword": "VTP Trade Park - Is Pune Real Estate a Bubble"
+      },
+      {
+        "slug": "vtp-trade-park-pune-vs-bangalore-real-estate",
+        "keyword": "VTP Trade Park - Pune vs Bangalore Real Estate"
+      },
+      {
+        "slug": "vtp-trade-park-pet-friendly-apartments-in-pune",
+        "keyword": "VTP Trade Park - Pet Friendly Apartments in Pune"
+      },
+      {
+        "slug": "vtp-trade-park-smart-home-automation-in-pune",
+        "keyword": "VTP Trade Park - Smart Home Automation in Pune"
+      },
+      {
+        "slug": "vtp-trade-park-co-living-spaces-in-pune",
+        "keyword": "VTP Trade Park - Co-Living Spaces in Pune"
+      },
+      {
+        "slug": "vtp-trade-park-senior-living-communities-in-pune",
+        "keyword": "VTP Trade Park - Senior Living Communities in Pune"
+      },
+      {
+        "slug": "vtp-trade-park-luxury-apartments",
+        "keyword": "VTP Trade Park Luxury Apartments"
+      },
+      {
+        "slug": "vtp-trade-park-premium-flats",
+        "keyword": "VTP Trade Park Premium Flats"
+      },
+      {
+        "slug": "vtp-trade-park-new-launch-projects",
+        "keyword": "VTP Trade Park New Launch Projects"
+      },
+      {
+        "slug": "vtp-trade-park-township-projects",
+        "keyword": "VTP Trade Park Township Projects"
+      },
+      {
+        "slug": "vtp-trade-park-real-estate-investment",
+        "keyword": "VTP Trade Park Real Estate Investment"
+      },
+      {
+        "slug": "vtp-trade-park-1bhk-flats",
+        "keyword": "VTP Trade Park 1BHK Flats"
+      },
+      {
+        "slug": "vtp-trade-park-2bhk-flats",
+        "keyword": "VTP Trade Park 2BHK Flats"
+      },
+      {
+        "slug": "vtp-trade-park-3bhk-luxury-homes",
+        "keyword": "VTP Trade Park 3BHK Luxury Homes"
+      },
+      {
+        "slug": "vtp-trade-park-4bhk-premium-apartments",
+        "keyword": "VTP Trade Park 4BHK Premium Apartments"
+      },
+      {
+        "slug": "vtp-trade-park-5bhk-villas",
+        "keyword": "VTP Trade Park 5BHK Villas"
+      },
+      {
+        "slug": "vtp-trade-park-1-bhk",
+        "keyword": "VTP Trade Park 1 BHK"
+      },
+      {
+        "slug": "vtp-trade-park-2-bhk",
+        "keyword": "VTP Trade Park 2 BHK"
+      },
+      {
+        "slug": "vtp-trade-park-3-bhk",
+        "keyword": "VTP Trade Park 3 BHK"
+      },
+      {
+        "slug": "vtp-trade-park-4-bhk",
+        "keyword": "VTP Trade Park 4 BHK"
+      },
+      {
+        "slug": "vtp-trade-park-studio-apartments",
+        "keyword": "VTP Trade Park Studio Apartments"
+      },
+      {
+        "slug": "vtp-trade-park-duplex-apartments",
+        "keyword": "VTP Trade Park Duplex Apartments"
+      },
+      {
+        "slug": "vtp-trade-park-sky-duplex",
+        "keyword": "VTP Trade Park Sky Duplex"
+      },
+      {
+        "slug": "vtp-trade-park-simplex-apartments",
+        "keyword": "VTP Trade Park Simplex Apartments"
+      },
+      {
+        "slug": "vtp-trade-park-penthouses",
+        "keyword": "VTP Trade Park Penthouses"
+      },
+      {
+        "slug": "vtp-trade-park-double-height-homes",
+        "keyword": "VTP Trade Park Double-Height Homes"
+      },
+      {
+        "slug": "vtp-trade-park-private-plunge-pool-flats",
+        "keyword": "VTP Trade Park Private Plunge Pool Flats"
+      },
+      {
+        "slug": "vtp-trade-park-nri-premium-homes",
+        "keyword": "VTP Trade Park NRI Premium Homes"
+      },
+      {
+        "slug": "vtp-trade-park-properties",
+        "keyword": "VTP Trade Park Properties"
+      },
+      {
+        "slug": "vtp-trade-park-flats",
+        "keyword": "VTP Trade Park Flats"
+      },
+      {
+        "slug": "vtp-trade-park-villas",
+        "keyword": "VTP Trade Park Villas"
+      },
+      {
+        "slug": "vtp-trade-park-row-houses",
+        "keyword": "VTP Trade Park Row Houses"
+      },
+      {
+        "slug": "vtp-trade-park-commercial-real-estate",
+        "keyword": "VTP Trade Park Commercial Real Estate"
+      },
+      {
+        "slug": "vtp-trade-park-retail-spaces",
+        "keyword": "VTP Trade Park Retail Spaces"
+      },
+      {
+        "slug": "vtp-trade-park-office-spaces",
+        "keyword": "VTP Trade Park Office Spaces"
+      },
+      {
+        "slug": "vtp-trade-park-ready-possession",
+        "keyword": "VTP Trade Park Ready Possession"
+      },
+      {
+        "slug": "vtp-trade-park-under-construction",
+        "keyword": "VTP Trade Park Under Construction"
+      },
+      {
+        "slug": "vtp-trade-park-it-park-homes",
+        "keyword": "VTP Trade Park IT Park Homes"
+      },
+      {
+        "slug": "vtp-trade-park-mla-homes",
+        "keyword": "VTP Trade Park MLA Homes"
+      },
+      {
+        "slug": "vtp-trade-park-vtp-projects",
+        "keyword": "VTP Trade Park VTP Projects"
       }
     ]
   },
@@ -27810,6 +34642,46 @@ export const seoSilos = [
       {
         "slug": "vtp-urban-space-pre-emi-offer",
         "keyword": "VTP Urban Space Pre EMI Offer"
+      },
+      {
+        "slug": "what-is-the-price-of-vtp-urban-space",
+        "keyword": "What is the price of VTP Urban Space"
+      },
+      {
+        "slug": "is-it-good-to-invest-in-vtp-urban-space",
+        "keyword": "Is it good to invest in VTP Urban Space"
+      },
+      {
+        "slug": "honest-reviews-of-vtp-urban-space",
+        "keyword": "Honest reviews of VTP Urban Space"
+      },
+      {
+        "slug": "exact-location-of-vtp-urban-space",
+        "keyword": "Exact location of VTP Urban Space"
+      },
+      {
+        "slug": "when-is-the-possession-date-for-vtp-urban-space",
+        "keyword": "When is the possession date for VTP Urban Space"
+      },
+      {
+        "slug": "how-to-book-a-flat-in-vtp-urban-space",
+        "keyword": "How to book a flat in VTP Urban Space"
+      },
+      {
+        "slug": "distance-from-it-park-to-vtp-urban-space",
+        "keyword": "Distance from IT Park to VTP Urban Space"
+      },
+      {
+        "slug": "latest-construction-update-of-vtp-urban-space",
+        "keyword": "Latest construction update of VTP Urban Space"
+      },
+      {
+        "slug": "rera-registration-details-for-vtp-urban-space",
+        "keyword": "RERA registration details for VTP Urban Space"
+      },
+      {
+        "slug": "download-brochure-pdf-for-vtp-urban-space",
+        "keyword": "Download brochure PDF for VTP Urban Space"
       },
       {
         "slug": "vtp-urban-space-for-buyers-in-mahalunge",
@@ -28058,6 +34930,210 @@ export const seoSilos = [
       {
         "slug": "vtp-urban-space-for-buyers-in-bahrain",
         "keyword": "VTP Urban Space for buyers in Bahrain"
+      },
+      {
+        "slug": "vtp-urban-space-pune-smart-city-projects",
+        "keyword": "VTP Urban Space - Pune Smart City Projects"
+      },
+      {
+        "slug": "vtp-urban-space-riverfront-living-pune",
+        "keyword": "VTP Urban Space - Riverfront Living Pune"
+      },
+      {
+        "slug": "vtp-urban-space-high-roi-investment-pune",
+        "keyword": "VTP Urban Space - High ROI Investment Pune"
+      },
+      {
+        "slug": "vtp-urban-space-zero-brokerage-flats-pune",
+        "keyword": "VTP Urban Space - Zero Brokerage Flats Pune"
+      },
+      {
+        "slug": "vtp-urban-space-rera-registered-projects-pune",
+        "keyword": "VTP Urban Space - RERA Registered Projects Pune"
+      },
+      {
+        "slug": "vtp-urban-space-best-areas-to-invest-in-pune-2026",
+        "keyword": "VTP Urban Space - Best Areas to Invest in Pune 2026"
+      },
+      {
+        "slug": "vtp-urban-space-pune-real-estate-market-trends",
+        "keyword": "VTP Urban Space - Pune Real Estate Market Trends"
+      },
+      {
+        "slug": "vtp-urban-space-walk-to-work-homes-pune",
+        "keyword": "VTP Urban Space - Walk-to-Work Homes Pune"
+      },
+      {
+        "slug": "vtp-urban-space-properties-near-pune-metro",
+        "keyword": "VTP Urban Space - Properties near Pune Metro"
+      },
+      {
+        "slug": "vtp-urban-space-top-10-builders-in-pune",
+        "keyword": "VTP Urban Space - Top 10 Builders in Pune"
+      },
+      {
+        "slug": "vtp-urban-space-stamp-duty-and-registration-in-pune",
+        "keyword": "VTP Urban Space - Stamp Duty and Registration in Pune"
+      },
+      {
+        "slug": "vtp-urban-space-is-pune-real-estate-a-bubble",
+        "keyword": "VTP Urban Space - Is Pune Real Estate a Bubble"
+      },
+      {
+        "slug": "vtp-urban-space-pune-vs-bangalore-real-estate",
+        "keyword": "VTP Urban Space - Pune vs Bangalore Real Estate"
+      },
+      {
+        "slug": "vtp-urban-space-pet-friendly-apartments-in-pune",
+        "keyword": "VTP Urban Space - Pet Friendly Apartments in Pune"
+      },
+      {
+        "slug": "vtp-urban-space-smart-home-automation-in-pune",
+        "keyword": "VTP Urban Space - Smart Home Automation in Pune"
+      },
+      {
+        "slug": "vtp-urban-space-co-living-spaces-in-pune",
+        "keyword": "VTP Urban Space - Co-Living Spaces in Pune"
+      },
+      {
+        "slug": "vtp-urban-space-senior-living-communities-in-pune",
+        "keyword": "VTP Urban Space - Senior Living Communities in Pune"
+      },
+      {
+        "slug": "vtp-urban-space-luxury-apartments",
+        "keyword": "VTP Urban Space Luxury Apartments"
+      },
+      {
+        "slug": "vtp-urban-space-premium-flats",
+        "keyword": "VTP Urban Space Premium Flats"
+      },
+      {
+        "slug": "vtp-urban-space-new-launch-projects",
+        "keyword": "VTP Urban Space New Launch Projects"
+      },
+      {
+        "slug": "vtp-urban-space-township-projects",
+        "keyword": "VTP Urban Space Township Projects"
+      },
+      {
+        "slug": "vtp-urban-space-real-estate-investment",
+        "keyword": "VTP Urban Space Real Estate Investment"
+      },
+      {
+        "slug": "vtp-urban-space-1bhk-flats",
+        "keyword": "VTP Urban Space 1BHK Flats"
+      },
+      {
+        "slug": "vtp-urban-space-2bhk-flats",
+        "keyword": "VTP Urban Space 2BHK Flats"
+      },
+      {
+        "slug": "vtp-urban-space-3bhk-luxury-homes",
+        "keyword": "VTP Urban Space 3BHK Luxury Homes"
+      },
+      {
+        "slug": "vtp-urban-space-4bhk-premium-apartments",
+        "keyword": "VTP Urban Space 4BHK Premium Apartments"
+      },
+      {
+        "slug": "vtp-urban-space-5bhk-villas",
+        "keyword": "VTP Urban Space 5BHK Villas"
+      },
+      {
+        "slug": "vtp-urban-space-1-bhk",
+        "keyword": "VTP Urban Space 1 BHK"
+      },
+      {
+        "slug": "vtp-urban-space-2-bhk",
+        "keyword": "VTP Urban Space 2 BHK"
+      },
+      {
+        "slug": "vtp-urban-space-3-bhk",
+        "keyword": "VTP Urban Space 3 BHK"
+      },
+      {
+        "slug": "vtp-urban-space-4-bhk",
+        "keyword": "VTP Urban Space 4 BHK"
+      },
+      {
+        "slug": "vtp-urban-space-studio-apartments",
+        "keyword": "VTP Urban Space Studio Apartments"
+      },
+      {
+        "slug": "vtp-urban-space-duplex-apartments",
+        "keyword": "VTP Urban Space Duplex Apartments"
+      },
+      {
+        "slug": "vtp-urban-space-sky-duplex",
+        "keyword": "VTP Urban Space Sky Duplex"
+      },
+      {
+        "slug": "vtp-urban-space-simplex-apartments",
+        "keyword": "VTP Urban Space Simplex Apartments"
+      },
+      {
+        "slug": "vtp-urban-space-penthouses",
+        "keyword": "VTP Urban Space Penthouses"
+      },
+      {
+        "slug": "vtp-urban-space-double-height-homes",
+        "keyword": "VTP Urban Space Double-Height Homes"
+      },
+      {
+        "slug": "vtp-urban-space-private-plunge-pool-flats",
+        "keyword": "VTP Urban Space Private Plunge Pool Flats"
+      },
+      {
+        "slug": "vtp-urban-space-nri-premium-homes",
+        "keyword": "VTP Urban Space NRI Premium Homes"
+      },
+      {
+        "slug": "vtp-urban-space-properties",
+        "keyword": "VTP Urban Space Properties"
+      },
+      {
+        "slug": "vtp-urban-space-flats",
+        "keyword": "VTP Urban Space Flats"
+      },
+      {
+        "slug": "vtp-urban-space-villas",
+        "keyword": "VTP Urban Space Villas"
+      },
+      {
+        "slug": "vtp-urban-space-row-houses",
+        "keyword": "VTP Urban Space Row Houses"
+      },
+      {
+        "slug": "vtp-urban-space-commercial-real-estate",
+        "keyword": "VTP Urban Space Commercial Real Estate"
+      },
+      {
+        "slug": "vtp-urban-space-retail-spaces",
+        "keyword": "VTP Urban Space Retail Spaces"
+      },
+      {
+        "slug": "vtp-urban-space-office-spaces",
+        "keyword": "VTP Urban Space Office Spaces"
+      },
+      {
+        "slug": "vtp-urban-space-ready-possession",
+        "keyword": "VTP Urban Space Ready Possession"
+      },
+      {
+        "slug": "vtp-urban-space-under-construction",
+        "keyword": "VTP Urban Space Under Construction"
+      },
+      {
+        "slug": "vtp-urban-space-it-park-homes",
+        "keyword": "VTP Urban Space IT Park Homes"
+      },
+      {
+        "slug": "vtp-urban-space-mla-homes",
+        "keyword": "VTP Urban Space MLA Homes"
+      },
+      {
+        "slug": "vtp-urban-space-vtp-projects",
+        "keyword": "VTP Urban Space VTP Projects"
       }
     ]
   },
@@ -28181,6 +35257,46 @@ export const seoSilos = [
       {
         "slug": "vtp-urban-balance-pre-emi-offer",
         "keyword": "VTP Urban Balance Pre EMI Offer"
+      },
+      {
+        "slug": "what-is-the-price-of-vtp-urban-balance",
+        "keyword": "What is the price of VTP Urban Balance"
+      },
+      {
+        "slug": "is-it-good-to-invest-in-vtp-urban-balance",
+        "keyword": "Is it good to invest in VTP Urban Balance"
+      },
+      {
+        "slug": "honest-reviews-of-vtp-urban-balance",
+        "keyword": "Honest reviews of VTP Urban Balance"
+      },
+      {
+        "slug": "exact-location-of-vtp-urban-balance",
+        "keyword": "Exact location of VTP Urban Balance"
+      },
+      {
+        "slug": "when-is-the-possession-date-for-vtp-urban-balance",
+        "keyword": "When is the possession date for VTP Urban Balance"
+      },
+      {
+        "slug": "how-to-book-a-flat-in-vtp-urban-balance",
+        "keyword": "How to book a flat in VTP Urban Balance"
+      },
+      {
+        "slug": "distance-from-it-park-to-vtp-urban-balance",
+        "keyword": "Distance from IT Park to VTP Urban Balance"
+      },
+      {
+        "slug": "latest-construction-update-of-vtp-urban-balance",
+        "keyword": "Latest construction update of VTP Urban Balance"
+      },
+      {
+        "slug": "rera-registration-details-for-vtp-urban-balance",
+        "keyword": "RERA registration details for VTP Urban Balance"
+      },
+      {
+        "slug": "download-brochure-pdf-for-vtp-urban-balance",
+        "keyword": "Download brochure PDF for VTP Urban Balance"
       },
       {
         "slug": "vtp-urban-balance-for-buyers-in-mahalunge",
@@ -28429,6 +35545,210 @@ export const seoSilos = [
       {
         "slug": "vtp-urban-balance-for-buyers-in-bahrain",
         "keyword": "VTP Urban Balance for buyers in Bahrain"
+      },
+      {
+        "slug": "vtp-urban-balance-pune-smart-city-projects",
+        "keyword": "VTP Urban Balance - Pune Smart City Projects"
+      },
+      {
+        "slug": "vtp-urban-balance-riverfront-living-pune",
+        "keyword": "VTP Urban Balance - Riverfront Living Pune"
+      },
+      {
+        "slug": "vtp-urban-balance-high-roi-investment-pune",
+        "keyword": "VTP Urban Balance - High ROI Investment Pune"
+      },
+      {
+        "slug": "vtp-urban-balance-zero-brokerage-flats-pune",
+        "keyword": "VTP Urban Balance - Zero Brokerage Flats Pune"
+      },
+      {
+        "slug": "vtp-urban-balance-rera-registered-projects-pune",
+        "keyword": "VTP Urban Balance - RERA Registered Projects Pune"
+      },
+      {
+        "slug": "vtp-urban-balance-best-areas-to-invest-in-pune-2026",
+        "keyword": "VTP Urban Balance - Best Areas to Invest in Pune 2026"
+      },
+      {
+        "slug": "vtp-urban-balance-pune-real-estate-market-trends",
+        "keyword": "VTP Urban Balance - Pune Real Estate Market Trends"
+      },
+      {
+        "slug": "vtp-urban-balance-walk-to-work-homes-pune",
+        "keyword": "VTP Urban Balance - Walk-to-Work Homes Pune"
+      },
+      {
+        "slug": "vtp-urban-balance-properties-near-pune-metro",
+        "keyword": "VTP Urban Balance - Properties near Pune Metro"
+      },
+      {
+        "slug": "vtp-urban-balance-top-10-builders-in-pune",
+        "keyword": "VTP Urban Balance - Top 10 Builders in Pune"
+      },
+      {
+        "slug": "vtp-urban-balance-stamp-duty-and-registration-in-pune",
+        "keyword": "VTP Urban Balance - Stamp Duty and Registration in Pune"
+      },
+      {
+        "slug": "vtp-urban-balance-is-pune-real-estate-a-bubble",
+        "keyword": "VTP Urban Balance - Is Pune Real Estate a Bubble"
+      },
+      {
+        "slug": "vtp-urban-balance-pune-vs-bangalore-real-estate",
+        "keyword": "VTP Urban Balance - Pune vs Bangalore Real Estate"
+      },
+      {
+        "slug": "vtp-urban-balance-pet-friendly-apartments-in-pune",
+        "keyword": "VTP Urban Balance - Pet Friendly Apartments in Pune"
+      },
+      {
+        "slug": "vtp-urban-balance-smart-home-automation-in-pune",
+        "keyword": "VTP Urban Balance - Smart Home Automation in Pune"
+      },
+      {
+        "slug": "vtp-urban-balance-co-living-spaces-in-pune",
+        "keyword": "VTP Urban Balance - Co-Living Spaces in Pune"
+      },
+      {
+        "slug": "vtp-urban-balance-senior-living-communities-in-pune",
+        "keyword": "VTP Urban Balance - Senior Living Communities in Pune"
+      },
+      {
+        "slug": "vtp-urban-balance-luxury-apartments",
+        "keyword": "VTP Urban Balance Luxury Apartments"
+      },
+      {
+        "slug": "vtp-urban-balance-premium-flats",
+        "keyword": "VTP Urban Balance Premium Flats"
+      },
+      {
+        "slug": "vtp-urban-balance-new-launch-projects",
+        "keyword": "VTP Urban Balance New Launch Projects"
+      },
+      {
+        "slug": "vtp-urban-balance-township-projects",
+        "keyword": "VTP Urban Balance Township Projects"
+      },
+      {
+        "slug": "vtp-urban-balance-real-estate-investment",
+        "keyword": "VTP Urban Balance Real Estate Investment"
+      },
+      {
+        "slug": "vtp-urban-balance-1bhk-flats",
+        "keyword": "VTP Urban Balance 1BHK Flats"
+      },
+      {
+        "slug": "vtp-urban-balance-2bhk-flats",
+        "keyword": "VTP Urban Balance 2BHK Flats"
+      },
+      {
+        "slug": "vtp-urban-balance-3bhk-luxury-homes",
+        "keyword": "VTP Urban Balance 3BHK Luxury Homes"
+      },
+      {
+        "slug": "vtp-urban-balance-4bhk-premium-apartments",
+        "keyword": "VTP Urban Balance 4BHK Premium Apartments"
+      },
+      {
+        "slug": "vtp-urban-balance-5bhk-villas",
+        "keyword": "VTP Urban Balance 5BHK Villas"
+      },
+      {
+        "slug": "vtp-urban-balance-1-bhk",
+        "keyword": "VTP Urban Balance 1 BHK"
+      },
+      {
+        "slug": "vtp-urban-balance-2-bhk",
+        "keyword": "VTP Urban Balance 2 BHK"
+      },
+      {
+        "slug": "vtp-urban-balance-3-bhk",
+        "keyword": "VTP Urban Balance 3 BHK"
+      },
+      {
+        "slug": "vtp-urban-balance-4-bhk",
+        "keyword": "VTP Urban Balance 4 BHK"
+      },
+      {
+        "slug": "vtp-urban-balance-studio-apartments",
+        "keyword": "VTP Urban Balance Studio Apartments"
+      },
+      {
+        "slug": "vtp-urban-balance-duplex-apartments",
+        "keyword": "VTP Urban Balance Duplex Apartments"
+      },
+      {
+        "slug": "vtp-urban-balance-sky-duplex",
+        "keyword": "VTP Urban Balance Sky Duplex"
+      },
+      {
+        "slug": "vtp-urban-balance-simplex-apartments",
+        "keyword": "VTP Urban Balance Simplex Apartments"
+      },
+      {
+        "slug": "vtp-urban-balance-penthouses",
+        "keyword": "VTP Urban Balance Penthouses"
+      },
+      {
+        "slug": "vtp-urban-balance-double-height-homes",
+        "keyword": "VTP Urban Balance Double-Height Homes"
+      },
+      {
+        "slug": "vtp-urban-balance-private-plunge-pool-flats",
+        "keyword": "VTP Urban Balance Private Plunge Pool Flats"
+      },
+      {
+        "slug": "vtp-urban-balance-nri-premium-homes",
+        "keyword": "VTP Urban Balance NRI Premium Homes"
+      },
+      {
+        "slug": "vtp-urban-balance-properties",
+        "keyword": "VTP Urban Balance Properties"
+      },
+      {
+        "slug": "vtp-urban-balance-flats",
+        "keyword": "VTP Urban Balance Flats"
+      },
+      {
+        "slug": "vtp-urban-balance-villas",
+        "keyword": "VTP Urban Balance Villas"
+      },
+      {
+        "slug": "vtp-urban-balance-row-houses",
+        "keyword": "VTP Urban Balance Row Houses"
+      },
+      {
+        "slug": "vtp-urban-balance-commercial-real-estate",
+        "keyword": "VTP Urban Balance Commercial Real Estate"
+      },
+      {
+        "slug": "vtp-urban-balance-retail-spaces",
+        "keyword": "VTP Urban Balance Retail Spaces"
+      },
+      {
+        "slug": "vtp-urban-balance-office-spaces",
+        "keyword": "VTP Urban Balance Office Spaces"
+      },
+      {
+        "slug": "vtp-urban-balance-ready-possession",
+        "keyword": "VTP Urban Balance Ready Possession"
+      },
+      {
+        "slug": "vtp-urban-balance-under-construction",
+        "keyword": "VTP Urban Balance Under Construction"
+      },
+      {
+        "slug": "vtp-urban-balance-it-park-homes",
+        "keyword": "VTP Urban Balance IT Park Homes"
+      },
+      {
+        "slug": "vtp-urban-balance-mla-homes",
+        "keyword": "VTP Urban Balance MLA Homes"
+      },
+      {
+        "slug": "vtp-urban-balance-vtp-projects",
+        "keyword": "VTP Urban Balance VTP Projects"
       }
     ]
   },
@@ -28552,6 +35872,46 @@ export const seoSilos = [
       {
         "slug": "vtp-one-pre-emi-offer",
         "keyword": "VTP One Pre EMI Offer"
+      },
+      {
+        "slug": "what-is-the-price-of-vtp-one",
+        "keyword": "What is the price of VTP One"
+      },
+      {
+        "slug": "is-it-good-to-invest-in-vtp-one",
+        "keyword": "Is it good to invest in VTP One"
+      },
+      {
+        "slug": "honest-reviews-of-vtp-one",
+        "keyword": "Honest reviews of VTP One"
+      },
+      {
+        "slug": "exact-location-of-vtp-one",
+        "keyword": "Exact location of VTP One"
+      },
+      {
+        "slug": "when-is-the-possession-date-for-vtp-one",
+        "keyword": "When is the possession date for VTP One"
+      },
+      {
+        "slug": "how-to-book-a-flat-in-vtp-one",
+        "keyword": "How to book a flat in VTP One"
+      },
+      {
+        "slug": "distance-from-it-park-to-vtp-one",
+        "keyword": "Distance from IT Park to VTP One"
+      },
+      {
+        "slug": "latest-construction-update-of-vtp-one",
+        "keyword": "Latest construction update of VTP One"
+      },
+      {
+        "slug": "rera-registration-details-for-vtp-one",
+        "keyword": "RERA registration details for VTP One"
+      },
+      {
+        "slug": "download-brochure-pdf-for-vtp-one",
+        "keyword": "Download brochure PDF for VTP One"
       },
       {
         "slug": "vtp-one-for-buyers-in-mahalunge",
@@ -28800,6 +36160,210 @@ export const seoSilos = [
       {
         "slug": "vtp-one-for-buyers-in-bahrain",
         "keyword": "VTP One for buyers in Bahrain"
+      },
+      {
+        "slug": "vtp-one-pune-smart-city-projects",
+        "keyword": "VTP One - Pune Smart City Projects"
+      },
+      {
+        "slug": "vtp-one-riverfront-living-pune",
+        "keyword": "VTP One - Riverfront Living Pune"
+      },
+      {
+        "slug": "vtp-one-high-roi-investment-pune",
+        "keyword": "VTP One - High ROI Investment Pune"
+      },
+      {
+        "slug": "vtp-one-zero-brokerage-flats-pune",
+        "keyword": "VTP One - Zero Brokerage Flats Pune"
+      },
+      {
+        "slug": "vtp-one-rera-registered-projects-pune",
+        "keyword": "VTP One - RERA Registered Projects Pune"
+      },
+      {
+        "slug": "vtp-one-best-areas-to-invest-in-pune-2026",
+        "keyword": "VTP One - Best Areas to Invest in Pune 2026"
+      },
+      {
+        "slug": "vtp-one-pune-real-estate-market-trends",
+        "keyword": "VTP One - Pune Real Estate Market Trends"
+      },
+      {
+        "slug": "vtp-one-walk-to-work-homes-pune",
+        "keyword": "VTP One - Walk-to-Work Homes Pune"
+      },
+      {
+        "slug": "vtp-one-properties-near-pune-metro",
+        "keyword": "VTP One - Properties near Pune Metro"
+      },
+      {
+        "slug": "vtp-one-top-10-builders-in-pune",
+        "keyword": "VTP One - Top 10 Builders in Pune"
+      },
+      {
+        "slug": "vtp-one-stamp-duty-and-registration-in-pune",
+        "keyword": "VTP One - Stamp Duty and Registration in Pune"
+      },
+      {
+        "slug": "vtp-one-is-pune-real-estate-a-bubble",
+        "keyword": "VTP One - Is Pune Real Estate a Bubble"
+      },
+      {
+        "slug": "vtp-one-pune-vs-bangalore-real-estate",
+        "keyword": "VTP One - Pune vs Bangalore Real Estate"
+      },
+      {
+        "slug": "vtp-one-pet-friendly-apartments-in-pune",
+        "keyword": "VTP One - Pet Friendly Apartments in Pune"
+      },
+      {
+        "slug": "vtp-one-smart-home-automation-in-pune",
+        "keyword": "VTP One - Smart Home Automation in Pune"
+      },
+      {
+        "slug": "vtp-one-co-living-spaces-in-pune",
+        "keyword": "VTP One - Co-Living Spaces in Pune"
+      },
+      {
+        "slug": "vtp-one-senior-living-communities-in-pune",
+        "keyword": "VTP One - Senior Living Communities in Pune"
+      },
+      {
+        "slug": "vtp-one-luxury-apartments",
+        "keyword": "VTP One Luxury Apartments"
+      },
+      {
+        "slug": "vtp-one-premium-flats",
+        "keyword": "VTP One Premium Flats"
+      },
+      {
+        "slug": "vtp-one-new-launch-projects",
+        "keyword": "VTP One New Launch Projects"
+      },
+      {
+        "slug": "vtp-one-township-projects",
+        "keyword": "VTP One Township Projects"
+      },
+      {
+        "slug": "vtp-one-real-estate-investment",
+        "keyword": "VTP One Real Estate Investment"
+      },
+      {
+        "slug": "vtp-one-1bhk-flats",
+        "keyword": "VTP One 1BHK Flats"
+      },
+      {
+        "slug": "vtp-one-2bhk-flats",
+        "keyword": "VTP One 2BHK Flats"
+      },
+      {
+        "slug": "vtp-one-3bhk-luxury-homes",
+        "keyword": "VTP One 3BHK Luxury Homes"
+      },
+      {
+        "slug": "vtp-one-4bhk-premium-apartments",
+        "keyword": "VTP One 4BHK Premium Apartments"
+      },
+      {
+        "slug": "vtp-one-5bhk-villas",
+        "keyword": "VTP One 5BHK Villas"
+      },
+      {
+        "slug": "vtp-one-1-bhk",
+        "keyword": "VTP One 1 BHK"
+      },
+      {
+        "slug": "vtp-one-2-bhk",
+        "keyword": "VTP One 2 BHK"
+      },
+      {
+        "slug": "vtp-one-3-bhk",
+        "keyword": "VTP One 3 BHK"
+      },
+      {
+        "slug": "vtp-one-4-bhk",
+        "keyword": "VTP One 4 BHK"
+      },
+      {
+        "slug": "vtp-one-studio-apartments",
+        "keyword": "VTP One Studio Apartments"
+      },
+      {
+        "slug": "vtp-one-duplex-apartments",
+        "keyword": "VTP One Duplex Apartments"
+      },
+      {
+        "slug": "vtp-one-sky-duplex",
+        "keyword": "VTP One Sky Duplex"
+      },
+      {
+        "slug": "vtp-one-simplex-apartments",
+        "keyword": "VTP One Simplex Apartments"
+      },
+      {
+        "slug": "vtp-one-penthouses",
+        "keyword": "VTP One Penthouses"
+      },
+      {
+        "slug": "vtp-one-double-height-homes",
+        "keyword": "VTP One Double-Height Homes"
+      },
+      {
+        "slug": "vtp-one-private-plunge-pool-flats",
+        "keyword": "VTP One Private Plunge Pool Flats"
+      },
+      {
+        "slug": "vtp-one-nri-premium-homes",
+        "keyword": "VTP One NRI Premium Homes"
+      },
+      {
+        "slug": "vtp-one-properties",
+        "keyword": "VTP One Properties"
+      },
+      {
+        "slug": "vtp-one-flats",
+        "keyword": "VTP One Flats"
+      },
+      {
+        "slug": "vtp-one-villas",
+        "keyword": "VTP One Villas"
+      },
+      {
+        "slug": "vtp-one-row-houses",
+        "keyword": "VTP One Row Houses"
+      },
+      {
+        "slug": "vtp-one-commercial-real-estate",
+        "keyword": "VTP One Commercial Real Estate"
+      },
+      {
+        "slug": "vtp-one-retail-spaces",
+        "keyword": "VTP One Retail Spaces"
+      },
+      {
+        "slug": "vtp-one-office-spaces",
+        "keyword": "VTP One Office Spaces"
+      },
+      {
+        "slug": "vtp-one-ready-possession",
+        "keyword": "VTP One Ready Possession"
+      },
+      {
+        "slug": "vtp-one-under-construction",
+        "keyword": "VTP One Under Construction"
+      },
+      {
+        "slug": "vtp-one-it-park-homes",
+        "keyword": "VTP One IT Park Homes"
+      },
+      {
+        "slug": "vtp-one-mla-homes",
+        "keyword": "VTP One MLA Homes"
+      },
+      {
+        "slug": "vtp-one-vtp-projects",
+        "keyword": "VTP One VTP Projects"
       }
     ]
   },
@@ -28923,6 +36487,46 @@ export const seoSilos = [
       {
         "slug": "vtp-bhagyasthan-pre-emi-offer",
         "keyword": "VTP Bhagyasthan Pre EMI Offer"
+      },
+      {
+        "slug": "what-is-the-price-of-vtp-bhagyasthan",
+        "keyword": "What is the price of VTP Bhagyasthan"
+      },
+      {
+        "slug": "is-it-good-to-invest-in-vtp-bhagyasthan",
+        "keyword": "Is it good to invest in VTP Bhagyasthan"
+      },
+      {
+        "slug": "honest-reviews-of-vtp-bhagyasthan",
+        "keyword": "Honest reviews of VTP Bhagyasthan"
+      },
+      {
+        "slug": "exact-location-of-vtp-bhagyasthan",
+        "keyword": "Exact location of VTP Bhagyasthan"
+      },
+      {
+        "slug": "when-is-the-possession-date-for-vtp-bhagyasthan",
+        "keyword": "When is the possession date for VTP Bhagyasthan"
+      },
+      {
+        "slug": "how-to-book-a-flat-in-vtp-bhagyasthan",
+        "keyword": "How to book a flat in VTP Bhagyasthan"
+      },
+      {
+        "slug": "distance-from-it-park-to-vtp-bhagyasthan",
+        "keyword": "Distance from IT Park to VTP Bhagyasthan"
+      },
+      {
+        "slug": "latest-construction-update-of-vtp-bhagyasthan",
+        "keyword": "Latest construction update of VTP Bhagyasthan"
+      },
+      {
+        "slug": "rera-registration-details-for-vtp-bhagyasthan",
+        "keyword": "RERA registration details for VTP Bhagyasthan"
+      },
+      {
+        "slug": "download-brochure-pdf-for-vtp-bhagyasthan",
+        "keyword": "Download brochure PDF for VTP Bhagyasthan"
       },
       {
         "slug": "vtp-bhagyasthan-for-buyers-in-mahalunge",
@@ -29171,6 +36775,210 @@ export const seoSilos = [
       {
         "slug": "vtp-bhagyasthan-for-buyers-in-bahrain",
         "keyword": "VTP Bhagyasthan for buyers in Bahrain"
+      },
+      {
+        "slug": "vtp-bhagyasthan-pune-smart-city-projects",
+        "keyword": "VTP Bhagyasthan - Pune Smart City Projects"
+      },
+      {
+        "slug": "vtp-bhagyasthan-riverfront-living-pune",
+        "keyword": "VTP Bhagyasthan - Riverfront Living Pune"
+      },
+      {
+        "slug": "vtp-bhagyasthan-high-roi-investment-pune",
+        "keyword": "VTP Bhagyasthan - High ROI Investment Pune"
+      },
+      {
+        "slug": "vtp-bhagyasthan-zero-brokerage-flats-pune",
+        "keyword": "VTP Bhagyasthan - Zero Brokerage Flats Pune"
+      },
+      {
+        "slug": "vtp-bhagyasthan-rera-registered-projects-pune",
+        "keyword": "VTP Bhagyasthan - RERA Registered Projects Pune"
+      },
+      {
+        "slug": "vtp-bhagyasthan-best-areas-to-invest-in-pune-2026",
+        "keyword": "VTP Bhagyasthan - Best Areas to Invest in Pune 2026"
+      },
+      {
+        "slug": "vtp-bhagyasthan-pune-real-estate-market-trends",
+        "keyword": "VTP Bhagyasthan - Pune Real Estate Market Trends"
+      },
+      {
+        "slug": "vtp-bhagyasthan-walk-to-work-homes-pune",
+        "keyword": "VTP Bhagyasthan - Walk-to-Work Homes Pune"
+      },
+      {
+        "slug": "vtp-bhagyasthan-properties-near-pune-metro",
+        "keyword": "VTP Bhagyasthan - Properties near Pune Metro"
+      },
+      {
+        "slug": "vtp-bhagyasthan-top-10-builders-in-pune",
+        "keyword": "VTP Bhagyasthan - Top 10 Builders in Pune"
+      },
+      {
+        "slug": "vtp-bhagyasthan-stamp-duty-and-registration-in-pune",
+        "keyword": "VTP Bhagyasthan - Stamp Duty and Registration in Pune"
+      },
+      {
+        "slug": "vtp-bhagyasthan-is-pune-real-estate-a-bubble",
+        "keyword": "VTP Bhagyasthan - Is Pune Real Estate a Bubble"
+      },
+      {
+        "slug": "vtp-bhagyasthan-pune-vs-bangalore-real-estate",
+        "keyword": "VTP Bhagyasthan - Pune vs Bangalore Real Estate"
+      },
+      {
+        "slug": "vtp-bhagyasthan-pet-friendly-apartments-in-pune",
+        "keyword": "VTP Bhagyasthan - Pet Friendly Apartments in Pune"
+      },
+      {
+        "slug": "vtp-bhagyasthan-smart-home-automation-in-pune",
+        "keyword": "VTP Bhagyasthan - Smart Home Automation in Pune"
+      },
+      {
+        "slug": "vtp-bhagyasthan-co-living-spaces-in-pune",
+        "keyword": "VTP Bhagyasthan - Co-Living Spaces in Pune"
+      },
+      {
+        "slug": "vtp-bhagyasthan-senior-living-communities-in-pune",
+        "keyword": "VTP Bhagyasthan - Senior Living Communities in Pune"
+      },
+      {
+        "slug": "vtp-bhagyasthan-luxury-apartments",
+        "keyword": "VTP Bhagyasthan Luxury Apartments"
+      },
+      {
+        "slug": "vtp-bhagyasthan-premium-flats",
+        "keyword": "VTP Bhagyasthan Premium Flats"
+      },
+      {
+        "slug": "vtp-bhagyasthan-new-launch-projects",
+        "keyword": "VTP Bhagyasthan New Launch Projects"
+      },
+      {
+        "slug": "vtp-bhagyasthan-township-projects",
+        "keyword": "VTP Bhagyasthan Township Projects"
+      },
+      {
+        "slug": "vtp-bhagyasthan-real-estate-investment",
+        "keyword": "VTP Bhagyasthan Real Estate Investment"
+      },
+      {
+        "slug": "vtp-bhagyasthan-1bhk-flats",
+        "keyword": "VTP Bhagyasthan 1BHK Flats"
+      },
+      {
+        "slug": "vtp-bhagyasthan-2bhk-flats",
+        "keyword": "VTP Bhagyasthan 2BHK Flats"
+      },
+      {
+        "slug": "vtp-bhagyasthan-3bhk-luxury-homes",
+        "keyword": "VTP Bhagyasthan 3BHK Luxury Homes"
+      },
+      {
+        "slug": "vtp-bhagyasthan-4bhk-premium-apartments",
+        "keyword": "VTP Bhagyasthan 4BHK Premium Apartments"
+      },
+      {
+        "slug": "vtp-bhagyasthan-5bhk-villas",
+        "keyword": "VTP Bhagyasthan 5BHK Villas"
+      },
+      {
+        "slug": "vtp-bhagyasthan-1-bhk",
+        "keyword": "VTP Bhagyasthan 1 BHK"
+      },
+      {
+        "slug": "vtp-bhagyasthan-2-bhk",
+        "keyword": "VTP Bhagyasthan 2 BHK"
+      },
+      {
+        "slug": "vtp-bhagyasthan-3-bhk",
+        "keyword": "VTP Bhagyasthan 3 BHK"
+      },
+      {
+        "slug": "vtp-bhagyasthan-4-bhk",
+        "keyword": "VTP Bhagyasthan 4 BHK"
+      },
+      {
+        "slug": "vtp-bhagyasthan-studio-apartments",
+        "keyword": "VTP Bhagyasthan Studio Apartments"
+      },
+      {
+        "slug": "vtp-bhagyasthan-duplex-apartments",
+        "keyword": "VTP Bhagyasthan Duplex Apartments"
+      },
+      {
+        "slug": "vtp-bhagyasthan-sky-duplex",
+        "keyword": "VTP Bhagyasthan Sky Duplex"
+      },
+      {
+        "slug": "vtp-bhagyasthan-simplex-apartments",
+        "keyword": "VTP Bhagyasthan Simplex Apartments"
+      },
+      {
+        "slug": "vtp-bhagyasthan-penthouses",
+        "keyword": "VTP Bhagyasthan Penthouses"
+      },
+      {
+        "slug": "vtp-bhagyasthan-double-height-homes",
+        "keyword": "VTP Bhagyasthan Double-Height Homes"
+      },
+      {
+        "slug": "vtp-bhagyasthan-private-plunge-pool-flats",
+        "keyword": "VTP Bhagyasthan Private Plunge Pool Flats"
+      },
+      {
+        "slug": "vtp-bhagyasthan-nri-premium-homes",
+        "keyword": "VTP Bhagyasthan NRI Premium Homes"
+      },
+      {
+        "slug": "vtp-bhagyasthan-properties",
+        "keyword": "VTP Bhagyasthan Properties"
+      },
+      {
+        "slug": "vtp-bhagyasthan-flats",
+        "keyword": "VTP Bhagyasthan Flats"
+      },
+      {
+        "slug": "vtp-bhagyasthan-villas",
+        "keyword": "VTP Bhagyasthan Villas"
+      },
+      {
+        "slug": "vtp-bhagyasthan-row-houses",
+        "keyword": "VTP Bhagyasthan Row Houses"
+      },
+      {
+        "slug": "vtp-bhagyasthan-commercial-real-estate",
+        "keyword": "VTP Bhagyasthan Commercial Real Estate"
+      },
+      {
+        "slug": "vtp-bhagyasthan-retail-spaces",
+        "keyword": "VTP Bhagyasthan Retail Spaces"
+      },
+      {
+        "slug": "vtp-bhagyasthan-office-spaces",
+        "keyword": "VTP Bhagyasthan Office Spaces"
+      },
+      {
+        "slug": "vtp-bhagyasthan-ready-possession",
+        "keyword": "VTP Bhagyasthan Ready Possession"
+      },
+      {
+        "slug": "vtp-bhagyasthan-under-construction",
+        "keyword": "VTP Bhagyasthan Under Construction"
+      },
+      {
+        "slug": "vtp-bhagyasthan-it-park-homes",
+        "keyword": "VTP Bhagyasthan IT Park Homes"
+      },
+      {
+        "slug": "vtp-bhagyasthan-mla-homes",
+        "keyword": "VTP Bhagyasthan MLA Homes"
+      },
+      {
+        "slug": "vtp-bhagyasthan-vtp-projects",
+        "keyword": "VTP Bhagyasthan VTP Projects"
       }
     ]
   },
@@ -29294,6 +37102,46 @@ export const seoSilos = [
       {
         "slug": "vtp-hilife-pre-emi-offer",
         "keyword": "VTP Hilife Pre EMI Offer"
+      },
+      {
+        "slug": "what-is-the-price-of-vtp-hilife",
+        "keyword": "What is the price of VTP Hilife"
+      },
+      {
+        "slug": "is-it-good-to-invest-in-vtp-hilife",
+        "keyword": "Is it good to invest in VTP Hilife"
+      },
+      {
+        "slug": "honest-reviews-of-vtp-hilife",
+        "keyword": "Honest reviews of VTP Hilife"
+      },
+      {
+        "slug": "exact-location-of-vtp-hilife",
+        "keyword": "Exact location of VTP Hilife"
+      },
+      {
+        "slug": "when-is-the-possession-date-for-vtp-hilife",
+        "keyword": "When is the possession date for VTP Hilife"
+      },
+      {
+        "slug": "how-to-book-a-flat-in-vtp-hilife",
+        "keyword": "How to book a flat in VTP Hilife"
+      },
+      {
+        "slug": "distance-from-it-park-to-vtp-hilife",
+        "keyword": "Distance from IT Park to VTP Hilife"
+      },
+      {
+        "slug": "latest-construction-update-of-vtp-hilife",
+        "keyword": "Latest construction update of VTP Hilife"
+      },
+      {
+        "slug": "rera-registration-details-for-vtp-hilife",
+        "keyword": "RERA registration details for VTP Hilife"
+      },
+      {
+        "slug": "download-brochure-pdf-for-vtp-hilife",
+        "keyword": "Download brochure PDF for VTP Hilife"
       },
       {
         "slug": "vtp-hilife-for-buyers-in-mahalunge",
@@ -29542,6 +37390,210 @@ export const seoSilos = [
       {
         "slug": "vtp-hilife-for-buyers-in-bahrain",
         "keyword": "VTP Hilife for buyers in Bahrain"
+      },
+      {
+        "slug": "vtp-hilife-pune-smart-city-projects",
+        "keyword": "VTP Hilife - Pune Smart City Projects"
+      },
+      {
+        "slug": "vtp-hilife-riverfront-living-pune",
+        "keyword": "VTP Hilife - Riverfront Living Pune"
+      },
+      {
+        "slug": "vtp-hilife-high-roi-investment-pune",
+        "keyword": "VTP Hilife - High ROI Investment Pune"
+      },
+      {
+        "slug": "vtp-hilife-zero-brokerage-flats-pune",
+        "keyword": "VTP Hilife - Zero Brokerage Flats Pune"
+      },
+      {
+        "slug": "vtp-hilife-rera-registered-projects-pune",
+        "keyword": "VTP Hilife - RERA Registered Projects Pune"
+      },
+      {
+        "slug": "vtp-hilife-best-areas-to-invest-in-pune-2026",
+        "keyword": "VTP Hilife - Best Areas to Invest in Pune 2026"
+      },
+      {
+        "slug": "vtp-hilife-pune-real-estate-market-trends",
+        "keyword": "VTP Hilife - Pune Real Estate Market Trends"
+      },
+      {
+        "slug": "vtp-hilife-walk-to-work-homes-pune",
+        "keyword": "VTP Hilife - Walk-to-Work Homes Pune"
+      },
+      {
+        "slug": "vtp-hilife-properties-near-pune-metro",
+        "keyword": "VTP Hilife - Properties near Pune Metro"
+      },
+      {
+        "slug": "vtp-hilife-top-10-builders-in-pune",
+        "keyword": "VTP Hilife - Top 10 Builders in Pune"
+      },
+      {
+        "slug": "vtp-hilife-stamp-duty-and-registration-in-pune",
+        "keyword": "VTP Hilife - Stamp Duty and Registration in Pune"
+      },
+      {
+        "slug": "vtp-hilife-is-pune-real-estate-a-bubble",
+        "keyword": "VTP Hilife - Is Pune Real Estate a Bubble"
+      },
+      {
+        "slug": "vtp-hilife-pune-vs-bangalore-real-estate",
+        "keyword": "VTP Hilife - Pune vs Bangalore Real Estate"
+      },
+      {
+        "slug": "vtp-hilife-pet-friendly-apartments-in-pune",
+        "keyword": "VTP Hilife - Pet Friendly Apartments in Pune"
+      },
+      {
+        "slug": "vtp-hilife-smart-home-automation-in-pune",
+        "keyword": "VTP Hilife - Smart Home Automation in Pune"
+      },
+      {
+        "slug": "vtp-hilife-co-living-spaces-in-pune",
+        "keyword": "VTP Hilife - Co-Living Spaces in Pune"
+      },
+      {
+        "slug": "vtp-hilife-senior-living-communities-in-pune",
+        "keyword": "VTP Hilife - Senior Living Communities in Pune"
+      },
+      {
+        "slug": "vtp-hilife-luxury-apartments",
+        "keyword": "VTP Hilife Luxury Apartments"
+      },
+      {
+        "slug": "vtp-hilife-premium-flats",
+        "keyword": "VTP Hilife Premium Flats"
+      },
+      {
+        "slug": "vtp-hilife-new-launch-projects",
+        "keyword": "VTP Hilife New Launch Projects"
+      },
+      {
+        "slug": "vtp-hilife-township-projects",
+        "keyword": "VTP Hilife Township Projects"
+      },
+      {
+        "slug": "vtp-hilife-real-estate-investment",
+        "keyword": "VTP Hilife Real Estate Investment"
+      },
+      {
+        "slug": "vtp-hilife-1bhk-flats",
+        "keyword": "VTP Hilife 1BHK Flats"
+      },
+      {
+        "slug": "vtp-hilife-2bhk-flats",
+        "keyword": "VTP Hilife 2BHK Flats"
+      },
+      {
+        "slug": "vtp-hilife-3bhk-luxury-homes",
+        "keyword": "VTP Hilife 3BHK Luxury Homes"
+      },
+      {
+        "slug": "vtp-hilife-4bhk-premium-apartments",
+        "keyword": "VTP Hilife 4BHK Premium Apartments"
+      },
+      {
+        "slug": "vtp-hilife-5bhk-villas",
+        "keyword": "VTP Hilife 5BHK Villas"
+      },
+      {
+        "slug": "vtp-hilife-1-bhk",
+        "keyword": "VTP Hilife 1 BHK"
+      },
+      {
+        "slug": "vtp-hilife-2-bhk",
+        "keyword": "VTP Hilife 2 BHK"
+      },
+      {
+        "slug": "vtp-hilife-3-bhk",
+        "keyword": "VTP Hilife 3 BHK"
+      },
+      {
+        "slug": "vtp-hilife-4-bhk",
+        "keyword": "VTP Hilife 4 BHK"
+      },
+      {
+        "slug": "vtp-hilife-studio-apartments",
+        "keyword": "VTP Hilife Studio Apartments"
+      },
+      {
+        "slug": "vtp-hilife-duplex-apartments",
+        "keyword": "VTP Hilife Duplex Apartments"
+      },
+      {
+        "slug": "vtp-hilife-sky-duplex",
+        "keyword": "VTP Hilife Sky Duplex"
+      },
+      {
+        "slug": "vtp-hilife-simplex-apartments",
+        "keyword": "VTP Hilife Simplex Apartments"
+      },
+      {
+        "slug": "vtp-hilife-penthouses",
+        "keyword": "VTP Hilife Penthouses"
+      },
+      {
+        "slug": "vtp-hilife-double-height-homes",
+        "keyword": "VTP Hilife Double-Height Homes"
+      },
+      {
+        "slug": "vtp-hilife-private-plunge-pool-flats",
+        "keyword": "VTP Hilife Private Plunge Pool Flats"
+      },
+      {
+        "slug": "vtp-hilife-nri-premium-homes",
+        "keyword": "VTP Hilife NRI Premium Homes"
+      },
+      {
+        "slug": "vtp-hilife-properties",
+        "keyword": "VTP Hilife Properties"
+      },
+      {
+        "slug": "vtp-hilife-flats",
+        "keyword": "VTP Hilife Flats"
+      },
+      {
+        "slug": "vtp-hilife-villas",
+        "keyword": "VTP Hilife Villas"
+      },
+      {
+        "slug": "vtp-hilife-row-houses",
+        "keyword": "VTP Hilife Row Houses"
+      },
+      {
+        "slug": "vtp-hilife-commercial-real-estate",
+        "keyword": "VTP Hilife Commercial Real Estate"
+      },
+      {
+        "slug": "vtp-hilife-retail-spaces",
+        "keyword": "VTP Hilife Retail Spaces"
+      },
+      {
+        "slug": "vtp-hilife-office-spaces",
+        "keyword": "VTP Hilife Office Spaces"
+      },
+      {
+        "slug": "vtp-hilife-ready-possession",
+        "keyword": "VTP Hilife Ready Possession"
+      },
+      {
+        "slug": "vtp-hilife-under-construction",
+        "keyword": "VTP Hilife Under Construction"
+      },
+      {
+        "slug": "vtp-hilife-it-park-homes",
+        "keyword": "VTP Hilife IT Park Homes"
+      },
+      {
+        "slug": "vtp-hilife-mla-homes",
+        "keyword": "VTP Hilife MLA Homes"
+      },
+      {
+        "slug": "vtp-hilife-vtp-projects",
+        "keyword": "VTP Hilife VTP Projects"
       }
     ]
   },

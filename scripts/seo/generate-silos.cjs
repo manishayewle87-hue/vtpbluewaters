@@ -208,36 +208,28 @@ locations.forEach(loc => {
   });
 });
 
-// 2. Generate Project-Based Silos (e.g., "VTP Earth One 3 BHK Price")
 const projectIntents = [
+  // Short Tail
   'Price', 'Floor Plan', 'Brochure', 'Reviews', 'Location', 
   'Construction Status', 'Sample Flat', 'Master Plan', 'Investment', 
   '2 BHK', '3 BHK', '4 BHK', 'Possession Date', 'RERA Number', 
   'Contact Number', 'Latest Photos', 'Township Layout', 'Amenities', 
   'Maximum Livable Area', 'vs Godrej Hillside', 'vs Competitors', 
   'NRI Investment', 'Resale', 'Rent', 'Floor Plan PDF', 
-  'Walkthrough Video', 'Smart Homes', 'IT Park Proximity', 'Pre EMI Offer'
+  'Walkthrough Video', 'Smart Homes', 'IT Park Proximity', 'Pre EMI Offer',
+  
+  // Long-Tail Question Intents (Voice Search & PAA scaling)
+  'What is the price of',
+  'Is it good to invest in',
+  'Honest reviews of',
+  'Exact location of',
+  'When is the possession date for',
+  'How to book a flat in',
+  'Distance from IT Park to',
+  'Latest construction update of',
+  'RERA registration details for',
+  'Download brochure PDF for'
 ];
-
-projects.forEach(proj => {
-  const slugs = projectIntents.map(intent => {
-    const keyword = `${proj.name} ${intent}`;
-    return { slug: generateSlug(keyword), keyword };
-  });
-
-  // Cross-pollinate projects with ALL Pune locations to intercept buyers city-wide
-  locations.forEach(loc => {
-    const keyword = `${proj.name} for buyers in ${loc.name}`;
-    slugs.push({ slug: generateSlug(keyword), keyword });
-  });
-
-  silos.push({
-    id: `project-${proj.id}`,
-    title: `${proj.name} Project Details`,
-    description: proj.desc,
-    slugs: slugs
-  });
-});
 
 // 3. Generate High-Volume Theme Silos
 const themes = [
@@ -259,6 +251,41 @@ const themes = [
   { id: 'co-living-spaces', name: 'Co-Living Spaces in Pune' },
   { id: 'senior-living-communities', name: 'Senior Living Communities in Pune' }
 ];
+
+projects.forEach(proj => {
+  const slugs = projectIntents.map(intent => {
+    // If it's a question intent, format it correctly
+    const keyword = intent.endsWith('of') || intent.endsWith('in') || intent.endsWith('for') || intent.endsWith('to')
+      ? `${intent} ${proj.name}`
+      : `${proj.name} ${intent}`;
+    return { slug: generateSlug(keyword), keyword };
+  });
+
+  // Cross-pollinate projects with ALL Pune locations to intercept buyers city-wide
+  locations.forEach(loc => {
+    const keyword = `${proj.name} for buyers in ${loc.name}`;
+    slugs.push({ slug: generateSlug(keyword), keyword });
+  });
+  
+  // Cross-pollinate projects with Themes for hyper-specific targeting
+  themes.forEach(theme => {
+    const keyword = `${proj.name} - ${theme.name}`;
+    slugs.push({ slug: generateSlug(keyword), keyword });
+  });
+  
+  // Cross-pollinate projects with Categories (e.g. VTP Earth One Luxury Apartments)
+  categories.forEach(cat => {
+    const keyword = `${proj.name} ${cat.suffix}`;
+    slugs.push({ slug: generateSlug(keyword), keyword });
+  });
+
+  silos.push({
+    id: `project-${proj.id}`,
+    title: `${proj.name} Project Details`,
+    description: proj.desc,
+    slugs: slugs
+  });
+});
 
 themes.forEach(theme => {
   const slugs = locations.map(loc => {
