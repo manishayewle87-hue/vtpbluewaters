@@ -88,4 +88,3 @@ export default async function sitemap() {
   return entries;
 }
 
-export const runtime = 'edge';
