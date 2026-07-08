@@ -1,12 +1,6 @@
 import { notFound } from 'next/navigation';
 import { seoSilos } from '@/app/data/seo-silos';
-import HeroSection from '@/app/components/ui/HeroSection';
-
-
-
-
-
-
+import Link from 'next/link';
 
 export async function generateMetadata({ params }) {
   let matchedKeyword = '';
@@ -23,13 +17,42 @@ export async function generateMetadata({ params }) {
 
   if (!matchedKeyword) return {};
 
+  const title = `${matchedKeyword} | VTP Realty | Pune Premium Properties`;
+  const description = `Discover ${matchedKeyword}. ${matchedSilo.description} Explore ultimate luxury, premium amenities, and Maximum Livable Area philosophy with VTP Realty.`;
+  const url = `https://vtpbluewaters.com/explore/${params.slug}`;
+
   return {
-    title: `${matchedKeyword} | VTP Realty`,
-    description: `Discover ${matchedKeyword}. ${matchedSilo.description} Experience ultimate luxury with VTP Realty.`};
+    title,
+    description,
+    alternates: {
+      canonical: url,
+    },
+    openGraph: {
+      title,
+      description,
+      url,
+      siteName: 'VTP Realty',
+      locale: 'en_IN',
+      type: 'website',
+      images: [
+        {
+          url: 'https://vtpbluewaters.com/images/vtp-bluewaters-hero.jpg', // Default premium fallback
+          width: 1200,
+          height: 630,
+          alt: matchedKeyword,
+        },
+      ],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title,
+      description,
+      images: ['https://vtpbluewaters.com/images/vtp-bluewaters-hero.jpg'],
+    },
+  };
 }
 
-export default async function SeoLandingPage({   params }) {
-  const lang = 'en';
+export default async function SeoLandingPage({ params }) {
   let matchedKeyword = '';
   let matchedSilo = null;
 
@@ -46,22 +69,52 @@ export default async function SeoLandingPage({   params }) {
     notFound();
   }
 
+  const currentUrl = `https://vtpbluewaters.com/explore/${params.slug}`;
+
   return (
     <div className="min-h-screen bg-[#050914] text-white pt-24">
-      {/* Invisible SEO Data */}
+      {/* Invisible SEO Structured Data */}
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
-          __html: JSON.stringify({
-            "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": matchedKeyword,
-            "description": matchedSilo.description,
-            "publisher": {
-              "@type": "Organization",
-              "name": "VTP Realty"
+          __html: JSON.stringify([
+            {
+              "@context": "https://schema.org",
+              "@type": "RealEstateListing",
+              "name": matchedKeyword,
+              "description": matchedSilo.description,
+              "url": currentUrl,
+              "provider": {
+                "@type": "Organization",
+                "name": "VTP Realty",
+                "url": "https://vtpbluewaters.com"
+              }
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://vtpbluewaters.com"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Explore",
+                  "item": "https://vtpbluewaters.com/explore"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": matchedKeyword,
+                  "item": currentUrl
+                }
+              ]
             }
-          })
+          ])
         }}
       />
 
@@ -79,9 +132,9 @@ export default async function SeoLandingPage({   params }) {
           <ul className="grid grid-cols-1 md:grid-cols-2 gap-4">
             {matchedSilo.slugs.map((related, i) => (
               <li key={i}>
-                <a href={`/explore/${related.slug}`} className="text-luxury-gold hover:text-white transition-colors text-sm">
+                <Link href={`/explore/${related.slug}`} className="text-luxury-gold hover:text-white transition-colors text-sm">
                   {related.keyword}
-                </a>
+                </Link>
               </li>
             ))}
           </ul>
@@ -97,9 +150,9 @@ export default async function SeoLandingPage({   params }) {
               .map(s => s.slugs[0]) // Get the highest priority keyword from every other silo
               .map((related, i) => (
                 <li key={`cross-${i}`}>
-                  <a href={`/explore/${related.slug}`} className="text-luxury-silver hover:text-luxury-gold transition-colors text-xs font-light">
+                  <Link href={`/explore/${related.slug}`} className="text-luxury-silver hover:text-luxury-gold transition-colors text-xs font-light">
                     {related.keyword}
-                  </a>
+                  </Link>
                 </li>
             ))}
           </ul>
