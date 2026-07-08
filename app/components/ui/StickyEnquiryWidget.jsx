@@ -113,6 +113,7 @@ export default function StickyEnquiryWidget() {
                       access_key: '01d09588-d933-46ef-b70a-120c6aa71e5a',
                       subject: `🚨 Sticky Widget Lead: ${data.name || 'Visitor'}`,
                       from_name: 'VTP Bluewaters Leads',
+                      replyto: data.email,
                       ...data
                     }),
                   });

@@ -49,6 +49,7 @@ export default function EnquiryForm({ projectName, customTitle, inline = false }
           access_key: '01d09588-d933-46ef-b70a-120c6aa71e5a',
           subject: `🚨 New Lead: ${formData.name} — ${projectName || 'VTP Bluewaters'}`,
           from_name: 'VTP Bluewaters Leads',
+          replyto: formData.email,
           ...formData,
           project: projectName || 'VTP Bluewaters'
         })
