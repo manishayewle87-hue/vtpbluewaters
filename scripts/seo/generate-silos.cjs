@@ -35,13 +35,20 @@ const categories = [
   { id: 'new-launch-projects', prefix: 'New Launch Projects in', suffix: 'New Launch Projects' },
   { id: 'township-projects', prefix: 'Township Projects in', suffix: 'Township Projects' },
   { id: 'real-estate-investment', prefix: 'Real Estate Investment in', suffix: 'Real Estate Investment' },
-  { id: '2-bhk-flats', prefix: '2 BHK Flats in', suffix: '2 BHK Flats' },
-  { id: '3-bhk-luxury-homes', prefix: '3 BHK Luxury Homes in', suffix: '3 BHK Luxury Homes' },
-  { id: '4-bhk-premium-apartments', prefix: '4 BHK Premium Apartments in', suffix: '4 BHK Premium Apartments' },
+  { id: '2bhk', prefix: '2BHK in', suffix: '2BHK Flats' },
+  { id: '3bhk', prefix: '3BHK in', suffix: '3BHK Luxury Homes' },
+  { id: '4bhk', prefix: '4BHK in', suffix: '4BHK Premium Apartments' },
+  { id: '5bhk', prefix: '5BHK in', suffix: '5BHK Villas' },
+  { id: '2-bhk-flats', prefix: '2 BHK Flats in', suffix: '2 BHK' },
+  { id: '3-bhk-flats', prefix: '3 BHK Flats in', suffix: '3 BHK' },
+  { id: '4-bhk-flats', prefix: '4 BHK Flats in', suffix: '4 BHK' },
+  { id: 'properties', prefix: 'Properties in', suffix: 'Properties' },
+  { id: 'flats', prefix: 'Flats in', suffix: 'Flats' },
   { id: 'ready-possession', prefix: 'Ready Possession Flats in', suffix: 'Ready Possession' },
   { id: 'under-construction', prefix: 'Under Construction Projects in', suffix: 'Under Construction' },
   { id: 'it-park-homes', prefix: 'Homes near IT Park in', suffix: 'IT Park Homes' },
-  { id: 'mla-homes', prefix: 'Maximum Livable Area Homes in', suffix: 'MLA Homes' }
+  { id: 'mla-homes', prefix: 'Maximum Livable Area Homes in', suffix: 'MLA Homes' },
+  { id: 'vtp-projects', prefix: 'VTP Projects in', suffix: 'VTP Projects' }
 ];
 
 const generateSlug = (str) => {

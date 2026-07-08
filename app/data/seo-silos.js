@@ -1,7 +1,7 @@
 // AUTO-GENERATED SEO SILOS DATABASE
 // Generated via programmatic SEO engine for massive keyword injection.
 // Total Silos: 27
-// Total Keywords: 483
+// Total Keywords: 651
 
 export const seoSilos = [
   {
@@ -30,16 +30,40 @@ export const seoSilos = [
         "keyword": "Real Estate Investment in Mahalunge"
       },
       {
+        "slug": "2bhk-in-mahalunge",
+        "keyword": "2BHK in Mahalunge"
+      },
+      {
+        "slug": "3bhk-in-mahalunge",
+        "keyword": "3BHK in Mahalunge"
+      },
+      {
+        "slug": "4bhk-in-mahalunge",
+        "keyword": "4BHK in Mahalunge"
+      },
+      {
+        "slug": "5bhk-in-mahalunge",
+        "keyword": "5BHK in Mahalunge"
+      },
+      {
         "slug": "2-bhk-flats-in-mahalunge",
         "keyword": "2 BHK Flats in Mahalunge"
       },
       {
-        "slug": "3-bhk-luxury-homes-in-mahalunge",
-        "keyword": "3 BHK Luxury Homes in Mahalunge"
+        "slug": "3-bhk-flats-in-mahalunge",
+        "keyword": "3 BHK Flats in Mahalunge"
       },
       {
-        "slug": "4-bhk-premium-apartments-in-mahalunge",
-        "keyword": "4 BHK Premium Apartments in Mahalunge"
+        "slug": "4-bhk-flats-in-mahalunge",
+        "keyword": "4 BHK Flats in Mahalunge"
+      },
+      {
+        "slug": "properties-in-mahalunge",
+        "keyword": "Properties in Mahalunge"
+      },
+      {
+        "slug": "flats-in-mahalunge",
+        "keyword": "Flats in Mahalunge"
       },
       {
         "slug": "ready-possession-flats-in-mahalunge",
@@ -56,6 +80,10 @@ export const seoSilos = [
       {
         "slug": "maximum-livable-area-homes-in-mahalunge",
         "keyword": "Maximum Livable Area Homes in Mahalunge"
+      },
+      {
+        "slug": "vtp-projects-in-mahalunge",
+        "keyword": "VTP Projects in Mahalunge"
       },
       {
         "slug": "mahalunge-luxury-apartments",
@@ -78,16 +106,40 @@ export const seoSilos = [
         "keyword": "Mahalunge Real Estate Investment"
       },
       {
-        "slug": "mahalunge-2-bhk-flats",
-        "keyword": "Mahalunge 2 BHK Flats"
+        "slug": "mahalunge-2bhk-flats",
+        "keyword": "Mahalunge 2BHK Flats"
       },
       {
-        "slug": "mahalunge-3-bhk-luxury-homes",
-        "keyword": "Mahalunge 3 BHK Luxury Homes"
+        "slug": "mahalunge-3bhk-luxury-homes",
+        "keyword": "Mahalunge 3BHK Luxury Homes"
       },
       {
-        "slug": "mahalunge-4-bhk-premium-apartments",
-        "keyword": "Mahalunge 4 BHK Premium Apartments"
+        "slug": "mahalunge-4bhk-premium-apartments",
+        "keyword": "Mahalunge 4BHK Premium Apartments"
+      },
+      {
+        "slug": "mahalunge-5bhk-villas",
+        "keyword": "Mahalunge 5BHK Villas"
+      },
+      {
+        "slug": "mahalunge-2-bhk",
+        "keyword": "Mahalunge 2 BHK"
+      },
+      {
+        "slug": "mahalunge-3-bhk",
+        "keyword": "Mahalunge 3 BHK"
+      },
+      {
+        "slug": "mahalunge-4-bhk",
+        "keyword": "Mahalunge 4 BHK"
+      },
+      {
+        "slug": "mahalunge-properties",
+        "keyword": "Mahalunge Properties"
+      },
+      {
+        "slug": "mahalunge-flats",
+        "keyword": "Mahalunge Flats"
       },
       {
         "slug": "mahalunge-ready-possession",
@@ -104,6 +156,10 @@ export const seoSilos = [
       {
         "slug": "mahalunge-mla-homes",
         "keyword": "Mahalunge MLA Homes"
+      },
+      {
+        "slug": "mahalunge-vtp-projects",
+        "keyword": "Mahalunge VTP Projects"
       }
     ]
   },
@@ -133,16 +189,40 @@ export const seoSilos = [
         "keyword": "Real Estate Investment in Hinjawadi"
       },
       {
+        "slug": "2bhk-in-hinjawadi",
+        "keyword": "2BHK in Hinjawadi"
+      },
+      {
+        "slug": "3bhk-in-hinjawadi",
+        "keyword": "3BHK in Hinjawadi"
+      },
+      {
+        "slug": "4bhk-in-hinjawadi",
+        "keyword": "4BHK in Hinjawadi"
+      },
+      {
+        "slug": "5bhk-in-hinjawadi",
+        "keyword": "5BHK in Hinjawadi"
+      },
+      {
         "slug": "2-bhk-flats-in-hinjawadi",
         "keyword": "2 BHK Flats in Hinjawadi"
       },
       {
-        "slug": "3-bhk-luxury-homes-in-hinjawadi",
-        "keyword": "3 BHK Luxury Homes in Hinjawadi"
+        "slug": "3-bhk-flats-in-hinjawadi",
+        "keyword": "3 BHK Flats in Hinjawadi"
       },
       {
-        "slug": "4-bhk-premium-apartments-in-hinjawadi",
-        "keyword": "4 BHK Premium Apartments in Hinjawadi"
+        "slug": "4-bhk-flats-in-hinjawadi",
+        "keyword": "4 BHK Flats in Hinjawadi"
+      },
+      {
+        "slug": "properties-in-hinjawadi",
+        "keyword": "Properties in Hinjawadi"
+      },
+      {
+        "slug": "flats-in-hinjawadi",
+        "keyword": "Flats in Hinjawadi"
       },
       {
         "slug": "ready-possession-flats-in-hinjawadi",
@@ -159,6 +239,10 @@ export const seoSilos = [
       {
         "slug": "maximum-livable-area-homes-in-hinjawadi",
         "keyword": "Maximum Livable Area Homes in Hinjawadi"
+      },
+      {
+        "slug": "vtp-projects-in-hinjawadi",
+        "keyword": "VTP Projects in Hinjawadi"
       },
       {
         "slug": "hinjawadi-luxury-apartments",
@@ -181,16 +265,40 @@ export const seoSilos = [
         "keyword": "Hinjawadi Real Estate Investment"
       },
       {
-        "slug": "hinjawadi-2-bhk-flats",
-        "keyword": "Hinjawadi 2 BHK Flats"
+        "slug": "hinjawadi-2bhk-flats",
+        "keyword": "Hinjawadi 2BHK Flats"
       },
       {
-        "slug": "hinjawadi-3-bhk-luxury-homes",
-        "keyword": "Hinjawadi 3 BHK Luxury Homes"
+        "slug": "hinjawadi-3bhk-luxury-homes",
+        "keyword": "Hinjawadi 3BHK Luxury Homes"
       },
       {
-        "slug": "hinjawadi-4-bhk-premium-apartments",
-        "keyword": "Hinjawadi 4 BHK Premium Apartments"
+        "slug": "hinjawadi-4bhk-premium-apartments",
+        "keyword": "Hinjawadi 4BHK Premium Apartments"
+      },
+      {
+        "slug": "hinjawadi-5bhk-villas",
+        "keyword": "Hinjawadi 5BHK Villas"
+      },
+      {
+        "slug": "hinjawadi-2-bhk",
+        "keyword": "Hinjawadi 2 BHK"
+      },
+      {
+        "slug": "hinjawadi-3-bhk",
+        "keyword": "Hinjawadi 3 BHK"
+      },
+      {
+        "slug": "hinjawadi-4-bhk",
+        "keyword": "Hinjawadi 4 BHK"
+      },
+      {
+        "slug": "hinjawadi-properties",
+        "keyword": "Hinjawadi Properties"
+      },
+      {
+        "slug": "hinjawadi-flats",
+        "keyword": "Hinjawadi Flats"
       },
       {
         "slug": "hinjawadi-ready-possession",
@@ -207,6 +315,10 @@ export const seoSilos = [
       {
         "slug": "hinjawadi-mla-homes",
         "keyword": "Hinjawadi MLA Homes"
+      },
+      {
+        "slug": "hinjawadi-vtp-projects",
+        "keyword": "Hinjawadi VTP Projects"
       }
     ]
   },
@@ -236,16 +348,40 @@ export const seoSilos = [
         "keyword": "Real Estate Investment in Baner"
       },
       {
+        "slug": "2bhk-in-baner",
+        "keyword": "2BHK in Baner"
+      },
+      {
+        "slug": "3bhk-in-baner",
+        "keyword": "3BHK in Baner"
+      },
+      {
+        "slug": "4bhk-in-baner",
+        "keyword": "4BHK in Baner"
+      },
+      {
+        "slug": "5bhk-in-baner",
+        "keyword": "5BHK in Baner"
+      },
+      {
         "slug": "2-bhk-flats-in-baner",
         "keyword": "2 BHK Flats in Baner"
       },
       {
-        "slug": "3-bhk-luxury-homes-in-baner",
-        "keyword": "3 BHK Luxury Homes in Baner"
+        "slug": "3-bhk-flats-in-baner",
+        "keyword": "3 BHK Flats in Baner"
       },
       {
-        "slug": "4-bhk-premium-apartments-in-baner",
-        "keyword": "4 BHK Premium Apartments in Baner"
+        "slug": "4-bhk-flats-in-baner",
+        "keyword": "4 BHK Flats in Baner"
+      },
+      {
+        "slug": "properties-in-baner",
+        "keyword": "Properties in Baner"
+      },
+      {
+        "slug": "flats-in-baner",
+        "keyword": "Flats in Baner"
       },
       {
         "slug": "ready-possession-flats-in-baner",
@@ -262,6 +398,10 @@ export const seoSilos = [
       {
         "slug": "maximum-livable-area-homes-in-baner",
         "keyword": "Maximum Livable Area Homes in Baner"
+      },
+      {
+        "slug": "vtp-projects-in-baner",
+        "keyword": "VTP Projects in Baner"
       },
       {
         "slug": "baner-luxury-apartments",
@@ -284,16 +424,40 @@ export const seoSilos = [
         "keyword": "Baner Real Estate Investment"
       },
       {
-        "slug": "baner-2-bhk-flats",
-        "keyword": "Baner 2 BHK Flats"
+        "slug": "baner-2bhk-flats",
+        "keyword": "Baner 2BHK Flats"
       },
       {
-        "slug": "baner-3-bhk-luxury-homes",
-        "keyword": "Baner 3 BHK Luxury Homes"
+        "slug": "baner-3bhk-luxury-homes",
+        "keyword": "Baner 3BHK Luxury Homes"
       },
       {
-        "slug": "baner-4-bhk-premium-apartments",
-        "keyword": "Baner 4 BHK Premium Apartments"
+        "slug": "baner-4bhk-premium-apartments",
+        "keyword": "Baner 4BHK Premium Apartments"
+      },
+      {
+        "slug": "baner-5bhk-villas",
+        "keyword": "Baner 5BHK Villas"
+      },
+      {
+        "slug": "baner-2-bhk",
+        "keyword": "Baner 2 BHK"
+      },
+      {
+        "slug": "baner-3-bhk",
+        "keyword": "Baner 3 BHK"
+      },
+      {
+        "slug": "baner-4-bhk",
+        "keyword": "Baner 4 BHK"
+      },
+      {
+        "slug": "baner-properties",
+        "keyword": "Baner Properties"
+      },
+      {
+        "slug": "baner-flats",
+        "keyword": "Baner Flats"
       },
       {
         "slug": "baner-ready-possession",
@@ -310,6 +474,10 @@ export const seoSilos = [
       {
         "slug": "baner-mla-homes",
         "keyword": "Baner MLA Homes"
+      },
+      {
+        "slug": "baner-vtp-projects",
+        "keyword": "Baner VTP Projects"
       }
     ]
   },
@@ -339,16 +507,40 @@ export const seoSilos = [
         "keyword": "Real Estate Investment in Kharadi"
       },
       {
+        "slug": "2bhk-in-kharadi",
+        "keyword": "2BHK in Kharadi"
+      },
+      {
+        "slug": "3bhk-in-kharadi",
+        "keyword": "3BHK in Kharadi"
+      },
+      {
+        "slug": "4bhk-in-kharadi",
+        "keyword": "4BHK in Kharadi"
+      },
+      {
+        "slug": "5bhk-in-kharadi",
+        "keyword": "5BHK in Kharadi"
+      },
+      {
         "slug": "2-bhk-flats-in-kharadi",
         "keyword": "2 BHK Flats in Kharadi"
       },
       {
-        "slug": "3-bhk-luxury-homes-in-kharadi",
-        "keyword": "3 BHK Luxury Homes in Kharadi"
+        "slug": "3-bhk-flats-in-kharadi",
+        "keyword": "3 BHK Flats in Kharadi"
       },
       {
-        "slug": "4-bhk-premium-apartments-in-kharadi",
-        "keyword": "4 BHK Premium Apartments in Kharadi"
+        "slug": "4-bhk-flats-in-kharadi",
+        "keyword": "4 BHK Flats in Kharadi"
+      },
+      {
+        "slug": "properties-in-kharadi",
+        "keyword": "Properties in Kharadi"
+      },
+      {
+        "slug": "flats-in-kharadi",
+        "keyword": "Flats in Kharadi"
       },
       {
         "slug": "ready-possession-flats-in-kharadi",
@@ -365,6 +557,10 @@ export const seoSilos = [
       {
         "slug": "maximum-livable-area-homes-in-kharadi",
         "keyword": "Maximum Livable Area Homes in Kharadi"
+      },
+      {
+        "slug": "vtp-projects-in-kharadi",
+        "keyword": "VTP Projects in Kharadi"
       },
       {
         "slug": "kharadi-luxury-apartments",
@@ -387,16 +583,40 @@ export const seoSilos = [
         "keyword": "Kharadi Real Estate Investment"
       },
       {
-        "slug": "kharadi-2-bhk-flats",
-        "keyword": "Kharadi 2 BHK Flats"
+        "slug": "kharadi-2bhk-flats",
+        "keyword": "Kharadi 2BHK Flats"
       },
       {
-        "slug": "kharadi-3-bhk-luxury-homes",
-        "keyword": "Kharadi 3 BHK Luxury Homes"
+        "slug": "kharadi-3bhk-luxury-homes",
+        "keyword": "Kharadi 3BHK Luxury Homes"
       },
       {
-        "slug": "kharadi-4-bhk-premium-apartments",
-        "keyword": "Kharadi 4 BHK Premium Apartments"
+        "slug": "kharadi-4bhk-premium-apartments",
+        "keyword": "Kharadi 4BHK Premium Apartments"
+      },
+      {
+        "slug": "kharadi-5bhk-villas",
+        "keyword": "Kharadi 5BHK Villas"
+      },
+      {
+        "slug": "kharadi-2-bhk",
+        "keyword": "Kharadi 2 BHK"
+      },
+      {
+        "slug": "kharadi-3-bhk",
+        "keyword": "Kharadi 3 BHK"
+      },
+      {
+        "slug": "kharadi-4-bhk",
+        "keyword": "Kharadi 4 BHK"
+      },
+      {
+        "slug": "kharadi-properties",
+        "keyword": "Kharadi Properties"
+      },
+      {
+        "slug": "kharadi-flats",
+        "keyword": "Kharadi Flats"
       },
       {
         "slug": "kharadi-ready-possession",
@@ -413,6 +633,10 @@ export const seoSilos = [
       {
         "slug": "kharadi-mla-homes",
         "keyword": "Kharadi MLA Homes"
+      },
+      {
+        "slug": "kharadi-vtp-projects",
+        "keyword": "Kharadi VTP Projects"
       }
     ]
   },
@@ -442,16 +666,40 @@ export const seoSilos = [
         "keyword": "Real Estate Investment in Wakad"
       },
       {
+        "slug": "2bhk-in-wakad",
+        "keyword": "2BHK in Wakad"
+      },
+      {
+        "slug": "3bhk-in-wakad",
+        "keyword": "3BHK in Wakad"
+      },
+      {
+        "slug": "4bhk-in-wakad",
+        "keyword": "4BHK in Wakad"
+      },
+      {
+        "slug": "5bhk-in-wakad",
+        "keyword": "5BHK in Wakad"
+      },
+      {
         "slug": "2-bhk-flats-in-wakad",
         "keyword": "2 BHK Flats in Wakad"
       },
       {
-        "slug": "3-bhk-luxury-homes-in-wakad",
-        "keyword": "3 BHK Luxury Homes in Wakad"
+        "slug": "3-bhk-flats-in-wakad",
+        "keyword": "3 BHK Flats in Wakad"
       },
       {
-        "slug": "4-bhk-premium-apartments-in-wakad",
-        "keyword": "4 BHK Premium Apartments in Wakad"
+        "slug": "4-bhk-flats-in-wakad",
+        "keyword": "4 BHK Flats in Wakad"
+      },
+      {
+        "slug": "properties-in-wakad",
+        "keyword": "Properties in Wakad"
+      },
+      {
+        "slug": "flats-in-wakad",
+        "keyword": "Flats in Wakad"
       },
       {
         "slug": "ready-possession-flats-in-wakad",
@@ -468,6 +716,10 @@ export const seoSilos = [
       {
         "slug": "maximum-livable-area-homes-in-wakad",
         "keyword": "Maximum Livable Area Homes in Wakad"
+      },
+      {
+        "slug": "vtp-projects-in-wakad",
+        "keyword": "VTP Projects in Wakad"
       },
       {
         "slug": "wakad-luxury-apartments",
@@ -490,16 +742,40 @@ export const seoSilos = [
         "keyword": "Wakad Real Estate Investment"
       },
       {
-        "slug": "wakad-2-bhk-flats",
-        "keyword": "Wakad 2 BHK Flats"
+        "slug": "wakad-2bhk-flats",
+        "keyword": "Wakad 2BHK Flats"
       },
       {
-        "slug": "wakad-3-bhk-luxury-homes",
-        "keyword": "Wakad 3 BHK Luxury Homes"
+        "slug": "wakad-3bhk-luxury-homes",
+        "keyword": "Wakad 3BHK Luxury Homes"
       },
       {
-        "slug": "wakad-4-bhk-premium-apartments",
-        "keyword": "Wakad 4 BHK Premium Apartments"
+        "slug": "wakad-4bhk-premium-apartments",
+        "keyword": "Wakad 4BHK Premium Apartments"
+      },
+      {
+        "slug": "wakad-5bhk-villas",
+        "keyword": "Wakad 5BHK Villas"
+      },
+      {
+        "slug": "wakad-2-bhk",
+        "keyword": "Wakad 2 BHK"
+      },
+      {
+        "slug": "wakad-3-bhk",
+        "keyword": "Wakad 3 BHK"
+      },
+      {
+        "slug": "wakad-4-bhk",
+        "keyword": "Wakad 4 BHK"
+      },
+      {
+        "slug": "wakad-properties",
+        "keyword": "Wakad Properties"
+      },
+      {
+        "slug": "wakad-flats",
+        "keyword": "Wakad Flats"
       },
       {
         "slug": "wakad-ready-possession",
@@ -516,6 +792,10 @@ export const seoSilos = [
       {
         "slug": "wakad-mla-homes",
         "keyword": "Wakad MLA Homes"
+      },
+      {
+        "slug": "wakad-vtp-projects",
+        "keyword": "Wakad VTP Projects"
       }
     ]
   },
@@ -545,16 +825,40 @@ export const seoSilos = [
         "keyword": "Real Estate Investment in Balewadi"
       },
       {
+        "slug": "2bhk-in-balewadi",
+        "keyword": "2BHK in Balewadi"
+      },
+      {
+        "slug": "3bhk-in-balewadi",
+        "keyword": "3BHK in Balewadi"
+      },
+      {
+        "slug": "4bhk-in-balewadi",
+        "keyword": "4BHK in Balewadi"
+      },
+      {
+        "slug": "5bhk-in-balewadi",
+        "keyword": "5BHK in Balewadi"
+      },
+      {
         "slug": "2-bhk-flats-in-balewadi",
         "keyword": "2 BHK Flats in Balewadi"
       },
       {
-        "slug": "3-bhk-luxury-homes-in-balewadi",
-        "keyword": "3 BHK Luxury Homes in Balewadi"
+        "slug": "3-bhk-flats-in-balewadi",
+        "keyword": "3 BHK Flats in Balewadi"
       },
       {
-        "slug": "4-bhk-premium-apartments-in-balewadi",
-        "keyword": "4 BHK Premium Apartments in Balewadi"
+        "slug": "4-bhk-flats-in-balewadi",
+        "keyword": "4 BHK Flats in Balewadi"
+      },
+      {
+        "slug": "properties-in-balewadi",
+        "keyword": "Properties in Balewadi"
+      },
+      {
+        "slug": "flats-in-balewadi",
+        "keyword": "Flats in Balewadi"
       },
       {
         "slug": "ready-possession-flats-in-balewadi",
@@ -571,6 +875,10 @@ export const seoSilos = [
       {
         "slug": "maximum-livable-area-homes-in-balewadi",
         "keyword": "Maximum Livable Area Homes in Balewadi"
+      },
+      {
+        "slug": "vtp-projects-in-balewadi",
+        "keyword": "VTP Projects in Balewadi"
       },
       {
         "slug": "balewadi-luxury-apartments",
@@ -593,16 +901,40 @@ export const seoSilos = [
         "keyword": "Balewadi Real Estate Investment"
       },
       {
-        "slug": "balewadi-2-bhk-flats",
-        "keyword": "Balewadi 2 BHK Flats"
+        "slug": "balewadi-2bhk-flats",
+        "keyword": "Balewadi 2BHK Flats"
       },
       {
-        "slug": "balewadi-3-bhk-luxury-homes",
-        "keyword": "Balewadi 3 BHK Luxury Homes"
+        "slug": "balewadi-3bhk-luxury-homes",
+        "keyword": "Balewadi 3BHK Luxury Homes"
       },
       {
-        "slug": "balewadi-4-bhk-premium-apartments",
-        "keyword": "Balewadi 4 BHK Premium Apartments"
+        "slug": "balewadi-4bhk-premium-apartments",
+        "keyword": "Balewadi 4BHK Premium Apartments"
+      },
+      {
+        "slug": "balewadi-5bhk-villas",
+        "keyword": "Balewadi 5BHK Villas"
+      },
+      {
+        "slug": "balewadi-2-bhk",
+        "keyword": "Balewadi 2 BHK"
+      },
+      {
+        "slug": "balewadi-3-bhk",
+        "keyword": "Balewadi 3 BHK"
+      },
+      {
+        "slug": "balewadi-4-bhk",
+        "keyword": "Balewadi 4 BHK"
+      },
+      {
+        "slug": "balewadi-properties",
+        "keyword": "Balewadi Properties"
+      },
+      {
+        "slug": "balewadi-flats",
+        "keyword": "Balewadi Flats"
       },
       {
         "slug": "balewadi-ready-possession",
@@ -619,6 +951,10 @@ export const seoSilos = [
       {
         "slug": "balewadi-mla-homes",
         "keyword": "Balewadi MLA Homes"
+      },
+      {
+        "slug": "balewadi-vtp-projects",
+        "keyword": "Balewadi VTP Projects"
       }
     ]
   },
@@ -648,16 +984,40 @@ export const seoSilos = [
         "keyword": "Real Estate Investment in Tathawade"
       },
       {
+        "slug": "2bhk-in-tathawade",
+        "keyword": "2BHK in Tathawade"
+      },
+      {
+        "slug": "3bhk-in-tathawade",
+        "keyword": "3BHK in Tathawade"
+      },
+      {
+        "slug": "4bhk-in-tathawade",
+        "keyword": "4BHK in Tathawade"
+      },
+      {
+        "slug": "5bhk-in-tathawade",
+        "keyword": "5BHK in Tathawade"
+      },
+      {
         "slug": "2-bhk-flats-in-tathawade",
         "keyword": "2 BHK Flats in Tathawade"
       },
       {
-        "slug": "3-bhk-luxury-homes-in-tathawade",
-        "keyword": "3 BHK Luxury Homes in Tathawade"
+        "slug": "3-bhk-flats-in-tathawade",
+        "keyword": "3 BHK Flats in Tathawade"
       },
       {
-        "slug": "4-bhk-premium-apartments-in-tathawade",
-        "keyword": "4 BHK Premium Apartments in Tathawade"
+        "slug": "4-bhk-flats-in-tathawade",
+        "keyword": "4 BHK Flats in Tathawade"
+      },
+      {
+        "slug": "properties-in-tathawade",
+        "keyword": "Properties in Tathawade"
+      },
+      {
+        "slug": "flats-in-tathawade",
+        "keyword": "Flats in Tathawade"
       },
       {
         "slug": "ready-possession-flats-in-tathawade",
@@ -674,6 +1034,10 @@ export const seoSilos = [
       {
         "slug": "maximum-livable-area-homes-in-tathawade",
         "keyword": "Maximum Livable Area Homes in Tathawade"
+      },
+      {
+        "slug": "vtp-projects-in-tathawade",
+        "keyword": "VTP Projects in Tathawade"
       },
       {
         "slug": "tathawade-luxury-apartments",
@@ -696,16 +1060,40 @@ export const seoSilos = [
         "keyword": "Tathawade Real Estate Investment"
       },
       {
-        "slug": "tathawade-2-bhk-flats",
-        "keyword": "Tathawade 2 BHK Flats"
+        "slug": "tathawade-2bhk-flats",
+        "keyword": "Tathawade 2BHK Flats"
       },
       {
-        "slug": "tathawade-3-bhk-luxury-homes",
-        "keyword": "Tathawade 3 BHK Luxury Homes"
+        "slug": "tathawade-3bhk-luxury-homes",
+        "keyword": "Tathawade 3BHK Luxury Homes"
       },
       {
-        "slug": "tathawade-4-bhk-premium-apartments",
-        "keyword": "Tathawade 4 BHK Premium Apartments"
+        "slug": "tathawade-4bhk-premium-apartments",
+        "keyword": "Tathawade 4BHK Premium Apartments"
+      },
+      {
+        "slug": "tathawade-5bhk-villas",
+        "keyword": "Tathawade 5BHK Villas"
+      },
+      {
+        "slug": "tathawade-2-bhk",
+        "keyword": "Tathawade 2 BHK"
+      },
+      {
+        "slug": "tathawade-3-bhk",
+        "keyword": "Tathawade 3 BHK"
+      },
+      {
+        "slug": "tathawade-4-bhk",
+        "keyword": "Tathawade 4 BHK"
+      },
+      {
+        "slug": "tathawade-properties",
+        "keyword": "Tathawade Properties"
+      },
+      {
+        "slug": "tathawade-flats",
+        "keyword": "Tathawade Flats"
       },
       {
         "slug": "tathawade-ready-possession",
@@ -722,6 +1110,10 @@ export const seoSilos = [
       {
         "slug": "tathawade-mla-homes",
         "keyword": "Tathawade MLA Homes"
+      },
+      {
+        "slug": "tathawade-vtp-projects",
+        "keyword": "Tathawade VTP Projects"
       }
     ]
   },
@@ -751,16 +1143,40 @@ export const seoSilos = [
         "keyword": "Real Estate Investment in PCMC"
       },
       {
+        "slug": "2bhk-in-pcmc",
+        "keyword": "2BHK in PCMC"
+      },
+      {
+        "slug": "3bhk-in-pcmc",
+        "keyword": "3BHK in PCMC"
+      },
+      {
+        "slug": "4bhk-in-pcmc",
+        "keyword": "4BHK in PCMC"
+      },
+      {
+        "slug": "5bhk-in-pcmc",
+        "keyword": "5BHK in PCMC"
+      },
+      {
         "slug": "2-bhk-flats-in-pcmc",
         "keyword": "2 BHK Flats in PCMC"
       },
       {
-        "slug": "3-bhk-luxury-homes-in-pcmc",
-        "keyword": "3 BHK Luxury Homes in PCMC"
+        "slug": "3-bhk-flats-in-pcmc",
+        "keyword": "3 BHK Flats in PCMC"
       },
       {
-        "slug": "4-bhk-premium-apartments-in-pcmc",
-        "keyword": "4 BHK Premium Apartments in PCMC"
+        "slug": "4-bhk-flats-in-pcmc",
+        "keyword": "4 BHK Flats in PCMC"
+      },
+      {
+        "slug": "properties-in-pcmc",
+        "keyword": "Properties in PCMC"
+      },
+      {
+        "slug": "flats-in-pcmc",
+        "keyword": "Flats in PCMC"
       },
       {
         "slug": "ready-possession-flats-in-pcmc",
@@ -777,6 +1193,10 @@ export const seoSilos = [
       {
         "slug": "maximum-livable-area-homes-in-pcmc",
         "keyword": "Maximum Livable Area Homes in PCMC"
+      },
+      {
+        "slug": "vtp-projects-in-pcmc",
+        "keyword": "VTP Projects in PCMC"
       },
       {
         "slug": "pcmc-luxury-apartments",
@@ -799,16 +1219,40 @@ export const seoSilos = [
         "keyword": "PCMC Real Estate Investment"
       },
       {
-        "slug": "pcmc-2-bhk-flats",
-        "keyword": "PCMC 2 BHK Flats"
+        "slug": "pcmc-2bhk-flats",
+        "keyword": "PCMC 2BHK Flats"
       },
       {
-        "slug": "pcmc-3-bhk-luxury-homes",
-        "keyword": "PCMC 3 BHK Luxury Homes"
+        "slug": "pcmc-3bhk-luxury-homes",
+        "keyword": "PCMC 3BHK Luxury Homes"
       },
       {
-        "slug": "pcmc-4-bhk-premium-apartments",
-        "keyword": "PCMC 4 BHK Premium Apartments"
+        "slug": "pcmc-4bhk-premium-apartments",
+        "keyword": "PCMC 4BHK Premium Apartments"
+      },
+      {
+        "slug": "pcmc-5bhk-villas",
+        "keyword": "PCMC 5BHK Villas"
+      },
+      {
+        "slug": "pcmc-2-bhk",
+        "keyword": "PCMC 2 BHK"
+      },
+      {
+        "slug": "pcmc-3-bhk",
+        "keyword": "PCMC 3 BHK"
+      },
+      {
+        "slug": "pcmc-4-bhk",
+        "keyword": "PCMC 4 BHK"
+      },
+      {
+        "slug": "pcmc-properties",
+        "keyword": "PCMC Properties"
+      },
+      {
+        "slug": "pcmc-flats",
+        "keyword": "PCMC Flats"
       },
       {
         "slug": "pcmc-ready-possession",
@@ -825,6 +1269,10 @@ export const seoSilos = [
       {
         "slug": "pcmc-mla-homes",
         "keyword": "PCMC MLA Homes"
+      },
+      {
+        "slug": "pcmc-vtp-projects",
+        "keyword": "PCMC VTP Projects"
       }
     ]
   },
@@ -854,16 +1302,40 @@ export const seoSilos = [
         "keyword": "Real Estate Investment in Bavdhan"
       },
       {
+        "slug": "2bhk-in-bavdhan",
+        "keyword": "2BHK in Bavdhan"
+      },
+      {
+        "slug": "3bhk-in-bavdhan",
+        "keyword": "3BHK in Bavdhan"
+      },
+      {
+        "slug": "4bhk-in-bavdhan",
+        "keyword": "4BHK in Bavdhan"
+      },
+      {
+        "slug": "5bhk-in-bavdhan",
+        "keyword": "5BHK in Bavdhan"
+      },
+      {
         "slug": "2-bhk-flats-in-bavdhan",
         "keyword": "2 BHK Flats in Bavdhan"
       },
       {
-        "slug": "3-bhk-luxury-homes-in-bavdhan",
-        "keyword": "3 BHK Luxury Homes in Bavdhan"
+        "slug": "3-bhk-flats-in-bavdhan",
+        "keyword": "3 BHK Flats in Bavdhan"
       },
       {
-        "slug": "4-bhk-premium-apartments-in-bavdhan",
-        "keyword": "4 BHK Premium Apartments in Bavdhan"
+        "slug": "4-bhk-flats-in-bavdhan",
+        "keyword": "4 BHK Flats in Bavdhan"
+      },
+      {
+        "slug": "properties-in-bavdhan",
+        "keyword": "Properties in Bavdhan"
+      },
+      {
+        "slug": "flats-in-bavdhan",
+        "keyword": "Flats in Bavdhan"
       },
       {
         "slug": "ready-possession-flats-in-bavdhan",
@@ -880,6 +1352,10 @@ export const seoSilos = [
       {
         "slug": "maximum-livable-area-homes-in-bavdhan",
         "keyword": "Maximum Livable Area Homes in Bavdhan"
+      },
+      {
+        "slug": "vtp-projects-in-bavdhan",
+        "keyword": "VTP Projects in Bavdhan"
       },
       {
         "slug": "bavdhan-luxury-apartments",
@@ -902,16 +1378,40 @@ export const seoSilos = [
         "keyword": "Bavdhan Real Estate Investment"
       },
       {
-        "slug": "bavdhan-2-bhk-flats",
-        "keyword": "Bavdhan 2 BHK Flats"
+        "slug": "bavdhan-2bhk-flats",
+        "keyword": "Bavdhan 2BHK Flats"
       },
       {
-        "slug": "bavdhan-3-bhk-luxury-homes",
-        "keyword": "Bavdhan 3 BHK Luxury Homes"
+        "slug": "bavdhan-3bhk-luxury-homes",
+        "keyword": "Bavdhan 3BHK Luxury Homes"
       },
       {
-        "slug": "bavdhan-4-bhk-premium-apartments",
-        "keyword": "Bavdhan 4 BHK Premium Apartments"
+        "slug": "bavdhan-4bhk-premium-apartments",
+        "keyword": "Bavdhan 4BHK Premium Apartments"
+      },
+      {
+        "slug": "bavdhan-5bhk-villas",
+        "keyword": "Bavdhan 5BHK Villas"
+      },
+      {
+        "slug": "bavdhan-2-bhk",
+        "keyword": "Bavdhan 2 BHK"
+      },
+      {
+        "slug": "bavdhan-3-bhk",
+        "keyword": "Bavdhan 3 BHK"
+      },
+      {
+        "slug": "bavdhan-4-bhk",
+        "keyword": "Bavdhan 4 BHK"
+      },
+      {
+        "slug": "bavdhan-properties",
+        "keyword": "Bavdhan Properties"
+      },
+      {
+        "slug": "bavdhan-flats",
+        "keyword": "Bavdhan Flats"
       },
       {
         "slug": "bavdhan-ready-possession",
@@ -928,6 +1428,10 @@ export const seoSilos = [
       {
         "slug": "bavdhan-mla-homes",
         "keyword": "Bavdhan MLA Homes"
+      },
+      {
+        "slug": "bavdhan-vtp-projects",
+        "keyword": "Bavdhan VTP Projects"
       }
     ]
   },
@@ -957,16 +1461,40 @@ export const seoSilos = [
         "keyword": "Real Estate Investment in West Pune"
       },
       {
+        "slug": "2bhk-in-west-pune",
+        "keyword": "2BHK in West Pune"
+      },
+      {
+        "slug": "3bhk-in-west-pune",
+        "keyword": "3BHK in West Pune"
+      },
+      {
+        "slug": "4bhk-in-west-pune",
+        "keyword": "4BHK in West Pune"
+      },
+      {
+        "slug": "5bhk-in-west-pune",
+        "keyword": "5BHK in West Pune"
+      },
+      {
         "slug": "2-bhk-flats-in-west-pune",
         "keyword": "2 BHK Flats in West Pune"
       },
       {
-        "slug": "3-bhk-luxury-homes-in-west-pune",
-        "keyword": "3 BHK Luxury Homes in West Pune"
+        "slug": "3-bhk-flats-in-west-pune",
+        "keyword": "3 BHK Flats in West Pune"
       },
       {
-        "slug": "4-bhk-premium-apartments-in-west-pune",
-        "keyword": "4 BHK Premium Apartments in West Pune"
+        "slug": "4-bhk-flats-in-west-pune",
+        "keyword": "4 BHK Flats in West Pune"
+      },
+      {
+        "slug": "properties-in-west-pune",
+        "keyword": "Properties in West Pune"
+      },
+      {
+        "slug": "flats-in-west-pune",
+        "keyword": "Flats in West Pune"
       },
       {
         "slug": "ready-possession-flats-in-west-pune",
@@ -983,6 +1511,10 @@ export const seoSilos = [
       {
         "slug": "maximum-livable-area-homes-in-west-pune",
         "keyword": "Maximum Livable Area Homes in West Pune"
+      },
+      {
+        "slug": "vtp-projects-in-west-pune",
+        "keyword": "VTP Projects in West Pune"
       },
       {
         "slug": "west-pune-luxury-apartments",
@@ -1005,16 +1537,40 @@ export const seoSilos = [
         "keyword": "West Pune Real Estate Investment"
       },
       {
-        "slug": "west-pune-2-bhk-flats",
-        "keyword": "West Pune 2 BHK Flats"
+        "slug": "west-pune-2bhk-flats",
+        "keyword": "West Pune 2BHK Flats"
       },
       {
-        "slug": "west-pune-3-bhk-luxury-homes",
-        "keyword": "West Pune 3 BHK Luxury Homes"
+        "slug": "west-pune-3bhk-luxury-homes",
+        "keyword": "West Pune 3BHK Luxury Homes"
       },
       {
-        "slug": "west-pune-4-bhk-premium-apartments",
-        "keyword": "West Pune 4 BHK Premium Apartments"
+        "slug": "west-pune-4bhk-premium-apartments",
+        "keyword": "West Pune 4BHK Premium Apartments"
+      },
+      {
+        "slug": "west-pune-5bhk-villas",
+        "keyword": "West Pune 5BHK Villas"
+      },
+      {
+        "slug": "west-pune-2-bhk",
+        "keyword": "West Pune 2 BHK"
+      },
+      {
+        "slug": "west-pune-3-bhk",
+        "keyword": "West Pune 3 BHK"
+      },
+      {
+        "slug": "west-pune-4-bhk",
+        "keyword": "West Pune 4 BHK"
+      },
+      {
+        "slug": "west-pune-properties",
+        "keyword": "West Pune Properties"
+      },
+      {
+        "slug": "west-pune-flats",
+        "keyword": "West Pune Flats"
       },
       {
         "slug": "west-pune-ready-possession",
@@ -1031,6 +1587,10 @@ export const seoSilos = [
       {
         "slug": "west-pune-mla-homes",
         "keyword": "West Pune MLA Homes"
+      },
+      {
+        "slug": "west-pune-vtp-projects",
+        "keyword": "West Pune VTP Projects"
       }
     ]
   },
@@ -1060,16 +1620,40 @@ export const seoSilos = [
         "keyword": "Real Estate Investment in East Pune"
       },
       {
+        "slug": "2bhk-in-east-pune",
+        "keyword": "2BHK in East Pune"
+      },
+      {
+        "slug": "3bhk-in-east-pune",
+        "keyword": "3BHK in East Pune"
+      },
+      {
+        "slug": "4bhk-in-east-pune",
+        "keyword": "4BHK in East Pune"
+      },
+      {
+        "slug": "5bhk-in-east-pune",
+        "keyword": "5BHK in East Pune"
+      },
+      {
         "slug": "2-bhk-flats-in-east-pune",
         "keyword": "2 BHK Flats in East Pune"
       },
       {
-        "slug": "3-bhk-luxury-homes-in-east-pune",
-        "keyword": "3 BHK Luxury Homes in East Pune"
+        "slug": "3-bhk-flats-in-east-pune",
+        "keyword": "3 BHK Flats in East Pune"
       },
       {
-        "slug": "4-bhk-premium-apartments-in-east-pune",
-        "keyword": "4 BHK Premium Apartments in East Pune"
+        "slug": "4-bhk-flats-in-east-pune",
+        "keyword": "4 BHK Flats in East Pune"
+      },
+      {
+        "slug": "properties-in-east-pune",
+        "keyword": "Properties in East Pune"
+      },
+      {
+        "slug": "flats-in-east-pune",
+        "keyword": "Flats in East Pune"
       },
       {
         "slug": "ready-possession-flats-in-east-pune",
@@ -1086,6 +1670,10 @@ export const seoSilos = [
       {
         "slug": "maximum-livable-area-homes-in-east-pune",
         "keyword": "Maximum Livable Area Homes in East Pune"
+      },
+      {
+        "slug": "vtp-projects-in-east-pune",
+        "keyword": "VTP Projects in East Pune"
       },
       {
         "slug": "east-pune-luxury-apartments",
@@ -1108,16 +1696,40 @@ export const seoSilos = [
         "keyword": "East Pune Real Estate Investment"
       },
       {
-        "slug": "east-pune-2-bhk-flats",
-        "keyword": "East Pune 2 BHK Flats"
+        "slug": "east-pune-2bhk-flats",
+        "keyword": "East Pune 2BHK Flats"
       },
       {
-        "slug": "east-pune-3-bhk-luxury-homes",
-        "keyword": "East Pune 3 BHK Luxury Homes"
+        "slug": "east-pune-3bhk-luxury-homes",
+        "keyword": "East Pune 3BHK Luxury Homes"
       },
       {
-        "slug": "east-pune-4-bhk-premium-apartments",
-        "keyword": "East Pune 4 BHK Premium Apartments"
+        "slug": "east-pune-4bhk-premium-apartments",
+        "keyword": "East Pune 4BHK Premium Apartments"
+      },
+      {
+        "slug": "east-pune-5bhk-villas",
+        "keyword": "East Pune 5BHK Villas"
+      },
+      {
+        "slug": "east-pune-2-bhk",
+        "keyword": "East Pune 2 BHK"
+      },
+      {
+        "slug": "east-pune-3-bhk",
+        "keyword": "East Pune 3 BHK"
+      },
+      {
+        "slug": "east-pune-4-bhk",
+        "keyword": "East Pune 4 BHK"
+      },
+      {
+        "slug": "east-pune-properties",
+        "keyword": "East Pune Properties"
+      },
+      {
+        "slug": "east-pune-flats",
+        "keyword": "East Pune Flats"
       },
       {
         "slug": "east-pune-ready-possession",
@@ -1134,6 +1746,10 @@ export const seoSilos = [
       {
         "slug": "east-pune-mla-homes",
         "keyword": "East Pune MLA Homes"
+      },
+      {
+        "slug": "east-pune-vtp-projects",
+        "keyword": "East Pune VTP Projects"
       }
     ]
   },
@@ -1163,16 +1779,40 @@ export const seoSilos = [
         "keyword": "Real Estate Investment in Pune City"
       },
       {
+        "slug": "2bhk-in-pune-city",
+        "keyword": "2BHK in Pune City"
+      },
+      {
+        "slug": "3bhk-in-pune-city",
+        "keyword": "3BHK in Pune City"
+      },
+      {
+        "slug": "4bhk-in-pune-city",
+        "keyword": "4BHK in Pune City"
+      },
+      {
+        "slug": "5bhk-in-pune-city",
+        "keyword": "5BHK in Pune City"
+      },
+      {
         "slug": "2-bhk-flats-in-pune-city",
         "keyword": "2 BHK Flats in Pune City"
       },
       {
-        "slug": "3-bhk-luxury-homes-in-pune-city",
-        "keyword": "3 BHK Luxury Homes in Pune City"
+        "slug": "3-bhk-flats-in-pune-city",
+        "keyword": "3 BHK Flats in Pune City"
       },
       {
-        "slug": "4-bhk-premium-apartments-in-pune-city",
-        "keyword": "4 BHK Premium Apartments in Pune City"
+        "slug": "4-bhk-flats-in-pune-city",
+        "keyword": "4 BHK Flats in Pune City"
+      },
+      {
+        "slug": "properties-in-pune-city",
+        "keyword": "Properties in Pune City"
+      },
+      {
+        "slug": "flats-in-pune-city",
+        "keyword": "Flats in Pune City"
       },
       {
         "slug": "ready-possession-flats-in-pune-city",
@@ -1189,6 +1829,10 @@ export const seoSilos = [
       {
         "slug": "maximum-livable-area-homes-in-pune-city",
         "keyword": "Maximum Livable Area Homes in Pune City"
+      },
+      {
+        "slug": "vtp-projects-in-pune-city",
+        "keyword": "VTP Projects in Pune City"
       },
       {
         "slug": "pune-city-luxury-apartments",
@@ -1211,16 +1855,40 @@ export const seoSilos = [
         "keyword": "Pune City Real Estate Investment"
       },
       {
-        "slug": "pune-city-2-bhk-flats",
-        "keyword": "Pune City 2 BHK Flats"
+        "slug": "pune-city-2bhk-flats",
+        "keyword": "Pune City 2BHK Flats"
       },
       {
-        "slug": "pune-city-3-bhk-luxury-homes",
-        "keyword": "Pune City 3 BHK Luxury Homes"
+        "slug": "pune-city-3bhk-luxury-homes",
+        "keyword": "Pune City 3BHK Luxury Homes"
       },
       {
-        "slug": "pune-city-4-bhk-premium-apartments",
-        "keyword": "Pune City 4 BHK Premium Apartments"
+        "slug": "pune-city-4bhk-premium-apartments",
+        "keyword": "Pune City 4BHK Premium Apartments"
+      },
+      {
+        "slug": "pune-city-5bhk-villas",
+        "keyword": "Pune City 5BHK Villas"
+      },
+      {
+        "slug": "pune-city-2-bhk",
+        "keyword": "Pune City 2 BHK"
+      },
+      {
+        "slug": "pune-city-3-bhk",
+        "keyword": "Pune City 3 BHK"
+      },
+      {
+        "slug": "pune-city-4-bhk",
+        "keyword": "Pune City 4 BHK"
+      },
+      {
+        "slug": "pune-city-properties",
+        "keyword": "Pune City Properties"
+      },
+      {
+        "slug": "pune-city-flats",
+        "keyword": "Pune City Flats"
       },
       {
         "slug": "pune-city-ready-possession",
@@ -1237,6 +1905,10 @@ export const seoSilos = [
       {
         "slug": "pune-city-mla-homes",
         "keyword": "Pune City MLA Homes"
+      },
+      {
+        "slug": "pune-city-vtp-projects",
+        "keyword": "Pune City VTP Projects"
       }
     ]
   },
