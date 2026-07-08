@@ -230,3 +230,5 @@ export default async function LocationPage({ params }) {
   );
 }
 
+
+export const runtime = 'edge';

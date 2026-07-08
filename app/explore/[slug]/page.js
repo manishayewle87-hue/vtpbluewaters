@@ -218,3 +218,5 @@ export default async function SeoLandingPage({ params }) {
   );
 }
 
+
+export const runtime = 'edge';

@@ -74,3 +74,5 @@ export default async function BlogPostPage({   params }) {
   );
 }
 
+
+export const runtime = 'edge';

@@ -105,3 +105,5 @@ export default async function sitemap({ id }) {
 
   return entries;
 }
+
+export const runtime = 'edge';

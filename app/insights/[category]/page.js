@@ -93,3 +93,5 @@ export default async function CategoryArchive({   params }) {
   );
 }
 
+
+export const runtime = 'edge';

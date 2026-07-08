@@ -241,3 +241,5 @@ export default async function ProjectIntentDetail({   params }) {
   );
 }
 
+
+export const runtime = 'edge';
