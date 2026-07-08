@@ -74,12 +74,5 @@ export default async function BlogPostPage({   params }) {
   );
 }
 
-export async function generateStaticParams() {
-  const cms = require('../../services/cms').cms;
-  const blogs = await cms.getAllBlogs();
-  const params = [];
-  for (const blog of blogs) {
-      params.push({ slug: blog.slug });
-    }
   return params;
 }
