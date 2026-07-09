@@ -27,9 +27,9 @@ export default function Footer() {
 
   const handleInterceptClick = (e, link) => {
     if (link.targetId && pathname === '/') {
-      e.preventDefault();
       const target = document.getElementById(link.targetId);
       if (target) {
+        e.preventDefault();
         target.scrollIntoView({ behavior: 'smooth' });
       }
     }
@@ -39,7 +39,7 @@ export default function Footer() {
     <footer aria-label="Site Footer" className="bg-[#050914] border-t border-white/5">
       {/* Main Footer */}
       <div className="container mx-auto px-6 max-w-7xl pt-10 lg:pt-20 pb-10">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 lg:gap-16 lg:gap-12">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 lg:gap-12">
           
           {/* Brand Column */}
           <motion.div 
@@ -48,7 +48,9 @@ export default function Footer() {
             viewport={{ once: true }}
             className="lg:col-span-1"
           >
-            <Logo className="w-48 mb-8 opacity-80" />
+            <Link href="/" title="VTP Bluewaters Home">
+              <Logo className="w-48 mb-8 opacity-80 hover:opacity-100 transition-opacity" />
+            </Link>
             <p className="text-sm text-luxury-silver font-light leading-relaxed mb-8">
               200+ acres of meticulously crafted luxury living where architectural elegance meets the serene landscape of West Pune.
             </p>
@@ -142,12 +144,12 @@ export default function Footer() {
               <h5 className="text-luxury-caption text-white/40 mb-6 border-b border-white/5 pb-4">Investor Relations</h5>
               <ul className="space-y-3">
                 <li>
-                  <Link href="/investors/nri-investment-guide" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed line-clamp-2">
+                  <Link href="/investors/nri-investment-guide" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed break-words">
                     NRI Real Estate Investment Guide Pune
                   </Link>
                 </li>
                 <li>
-                  <Link href="/investors/pune-infrastructure-impact-report" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed line-clamp-2">
+                  <Link href="/investors/pune-infrastructure-impact-report" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed break-words">
                     Pune Infrastructure Impact Report
                   </Link>
                 </li>
@@ -159,27 +161,27 @@ export default function Footer() {
               <h5 className="text-luxury-caption text-white/40 mb-6 border-b border-white/5 pb-4">Market Intelligence</h5>
               <ul className="space-y-3">
                 <li>
-                  <Link href="/market-intelligence/mahalunge-hinjewadi-investment-guide" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed line-clamp-2">
+                  <Link href="/market-intelligence/mahalunge-hinjewadi-investment-guide" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed break-words">
                     Mahalunge & Hinjewadi Investment Guide 2026
                   </Link>
                 </li>
                 <li>
-                  <Link href="/market-intelligence/vtp-bluewaters-township-review" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed line-clamp-2">
+                  <Link href="/market-intelligence/vtp-bluewaters-township-review" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed break-words">
                     VTP Bluewaters Township Review
                   </Link>
                 </li>
                 <li>
-                  <Link href="/market-intelligence/pune-ultra-luxury-real-estate-trends" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed line-clamp-2">
+                  <Link href="/market-intelligence/pune-ultra-luxury-real-estate-trends" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed break-words">
                     Pune Ultra-Luxury Real Estate Trends
                   </Link>
                 </li>
                 <li>
-                  <Link href="/market-intelligence/vtp-bluewaters-vs-competitors" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed line-clamp-2">
+                  <Link href="/market-intelligence/vtp-bluewaters-vs-competitors" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed break-words">
                     VTP Bluewaters vs Competitors
                   </Link>
                 </li>
                 <li>
-                  <Link href="/market-intelligence/hinjewadi-walk-to-work-lifestyle" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed line-clamp-2">
+                  <Link href="/market-intelligence/hinjewadi-walk-to-work-lifestyle" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed break-words">
                     Hinjewadi Walk-To-Work Lifestyle
                   </Link>
                 </li>
@@ -192,7 +194,7 @@ export default function Footer() {
               <ul className="space-y-3">
                 {contentData.blogs.map((blog, i) => (
                   <li key={i}>
-                    <Link href={`/blog/${blog.slug}`} className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed line-clamp-1">
+                    <Link href={`/blog/${blog.slug}`} className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed break-words">
                       {blog.title}
                     </Link>
                   </li>
@@ -206,7 +208,7 @@ export default function Footer() {
               <ul className="space-y-3">
                 {contentData.locations.map((loc, i) => (
                   <li key={i}>
-                    <Link href={`/locations/${loc.slug}`} className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed line-clamp-1">
+                    <Link href={`/locations/${loc.slug}`} className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed break-words">
                       {loc.title}
                     </Link>
                   </li>
@@ -220,7 +222,7 @@ export default function Footer() {
               <ul className="space-y-3">
                 {contentData.faqs.slice(0, 5).map((faq, i) => (
                   <li key={i}>
-                    <Link href="/faq" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed line-clamp-1">
+                    <Link href="/faq" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed break-words">
                       {faq.question}
                     </Link>
                   </li>
@@ -238,7 +240,7 @@ export default function Footer() {
       </div>
 
       {/* Bottom Bar */}
-      <div className="border-t border-white/5 pb-12 lg:pb-24 lg:pb-0">
+      <div className="border-t border-white/5 pb-24 lg:pb-0">
         <div className="container mx-auto px-6 max-w-7xl py-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-luxury-caption text-white/30 text-center md:text-left">

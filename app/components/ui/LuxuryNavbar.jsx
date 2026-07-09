@@ -35,9 +35,9 @@ export default function LuxuryNavbar() {
 
   const handleInterceptClick = (e, link) => {
     if (link.targetId && pathname === '/') {
-      e.preventDefault();
       const target = document.getElementById(link.targetId);
       if (target) {
+        e.preventDefault();
         target.scrollIntoView({ behavior: 'smooth' });
         setMobileMenuOpen(false);
       }

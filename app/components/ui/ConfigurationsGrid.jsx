@@ -71,7 +71,7 @@ export default function ConfigurationsGrid({ projects }) {
         <div className="hidden lg:flex flex-col justify-center w-[40vw] flex-shrink-0 pr-20">
           <div className="text-luxury-label text-luxury-gold mb-4 tracking-[0.3em]">The Collection</div>
           <h2 className="text-display-md font-display font-light mb-6">Signature <br/><span className="italic text-luxury-silver">Residences</span></h2>
-          <p className="text-luxury-silver font-light text-editorial max-w-md">
+          <p className="text-luxury-silver font-light text-editorial max-w-md break-words">
             Explore our curated portfolio of ultra-luxury clusters. Each project represents a unique expression of architectural excellence, tailored for the discerning few.
           </p>
         </div>
@@ -87,7 +87,7 @@ export default function ConfigurationsGrid({ projects }) {
               viewport={{ once: true, margin: "-10%" }}
               onMouseEnter={() => setHoveredCard(index)}
               onMouseLeave={() => setHoveredCard(null)}
-              className="group relative w-full lg:w-[450px] h-[72vw] max-h-[340px] lg:h-full lg:max-h-none flex-shrink-0 bg-white/[0.02] border border-white/5 overflow-hidden cursor-pointer"
+              className="group relative w-full lg:w-[450px] min-h-[420px] lg:min-h-0 lg:h-full flex-shrink-0 bg-white/[0.02] border border-white/5 overflow-hidden cursor-pointer"
             >
               <motion.div variants={imageRevealVariants} className="absolute inset-0">
                 {project.image ? (
@@ -130,7 +130,7 @@ export default function ConfigurationsGrid({ projects }) {
                   {project.township}
                 </motion.div>
                 
-                <h3 className="text-3xl lg:text-4xl font-display font-light text-white mb-2">{project.name}</h3>
+                <h3 className="text-3xl lg:text-4xl font-display font-light text-white mb-2 break-words leading-tight">{project.name}</h3>
                 
                 <div className="flex flex-col gap-2 mb-8">
                   <div className="flex items-center gap-4 text-sm text-luxury-silver/80 font-light">

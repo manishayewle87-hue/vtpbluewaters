@@ -38,7 +38,7 @@ export default function ProjectSpecs({ specifications }) {
           className="mb-16"
         >
           <div className="text-luxury-label text-luxury-gold mb-4 tracking-[0.3em]">Craftsmanship</div>
-          <h2 className="text-display-sm md:text-display-md font-display font-light">
+          <h2 className="text-display-sm md:text-display-md font-display font-light break-words">
             Premium <span className="italic text-luxury-silver">Specifications</span>
           </h2>
         </motion.div>
@@ -93,7 +93,7 @@ export default function ProjectSpecs({ specifications }) {
                       {category}
                     </motion.div>
                   )}
-                  <p className={`text-sm font-light text-editorial leading-relaxed transition-colors duration-500 ${isHovered ? 'text-luxury-white' : 'text-luxury-silver'}`}>
+                  <p className={`text-sm font-light text-editorial leading-relaxed transition-colors duration-500 break-words ${isHovered ? 'text-luxury-white' : 'text-luxury-silver'}`}>
                     {details}
                   </p>
                 </div>

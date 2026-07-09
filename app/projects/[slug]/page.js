@@ -141,10 +141,10 @@ export default async function ProjectDetail({   params }) {
           <div className="grid lg:grid-cols-2 gap-10 lg:gap-20 items-center">
             <div>
               <div className="text-luxury-label text-luxury-gold mb-4">The Vision</div>
-              <h2 className="text-display-sm md:text-display-md font-display font-light mb-8">
+              <h2 className="text-display-sm md:text-display-md font-display font-light mb-8 break-words leading-tight">
                 A Masterpiece in <span className="italic text-[#36C5CD]">{project.location.split(',')[0]}</span>
               </h2>
-              <p className="text-luxury-silver font-light leading-relaxed text-base mb-8 text-editorial">
+              <p className="text-luxury-silver font-light leading-relaxed text-base mb-8 text-editorial break-words">
                 {project.overview}
               </p>
               <div className="grid grid-cols-2 gap-8 border-t border-white/10 pt-8 mt-12">

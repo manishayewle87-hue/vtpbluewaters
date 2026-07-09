@@ -117,7 +117,10 @@ export default function HeroSection() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1, delay: 2.3 }}
         >
-          <button className="relative overflow-hidden group bg-transparent border border-luxury-gold/50 px-12 py-5 text-luxury-label text-luxury-gold hover:text-luxury-navy transition-colors duration-500">
+          <button 
+            onClick={() => document.getElementById('overview')?.scrollIntoView({ behavior: 'smooth' })}
+            className="relative overflow-hidden group bg-transparent border border-luxury-gold/50 px-12 py-5 text-luxury-label text-luxury-gold hover:text-luxury-navy transition-colors duration-500"
+          >
             <span className="relative z-10">Discover The Vision</span>
             <div className="absolute inset-0 bg-luxury-gold translate-y-full group-hover:translate-y-0 transition-transform duration-500 ease-[0.16,1,0.3,1] z-0"></div>
           </button>
