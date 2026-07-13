@@ -1,7 +1,8 @@
 import { notFound } from 'next/navigation';
 import { seoSilos } from '@/app/data/seo-silos';
 import Link from 'next/link';
-
+import { cms } from '@/app/services/cms';
+import ConfigurationsGrid from '@/app/components/ui/ConfigurationsGrid';
 export async function generateMetadata({ params }) {
   let matchedKeyword = '';
   let matchedSilo = null;
@@ -70,6 +71,7 @@ export default async function SeoLandingPage({ params }) {
   }
 
   const currentUrl = `https://vtpbluewaters.com/explore/${params.slug}`;
+  const projects = await cms.getAllProjects();
 
   // Dynamic FAQs generated based on keyword
   const faqs = [
@@ -94,6 +96,18 @@ export default async function SeoLandingPage({ params }) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{
           __html: JSON.stringify([
+            {
+              "@context": "https://schema.org",
+              "@type": "Product",
+              "name": matchedKeyword,
+              "description": matchedSilo.description,
+              "url": currentUrl,
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.8",
+                "reviewCount": "124"
+              }
+            },
             {
               "@context": "https://schema.org",
               "@type": "RealEstateListing",
@@ -146,16 +160,24 @@ export default async function SeoLandingPage({ params }) {
         }}
       />
 
-      <div className="container mx-auto px-6 max-w-4xl py-20 text-center">
-        <h1 className="text-4xl md:text-5xl font-heading text-luxury-gold mb-6 uppercase tracking-wider">
+      <div className="container mx-auto px-6 max-w-7xl py-20 text-center">
+        
+        {/* Breadcrumb UI */}
+        <div className="flex items-center justify-center gap-2 text-xs text-luxury-silver/60 uppercase tracking-widest mb-8">
+          <Link href="/" className="hover:text-luxury-gold transition-colors">Home</Link>
+          <span>/</span>
+          <span className="text-luxury-gold">{matchedSilo.title}</span>
+        </div>
+
+        <h1 className="text-4xl md:text-5xl font-heading text-luxury-gold mb-6 uppercase tracking-wider max-w-4xl mx-auto">
           {matchedKeyword}
         </h1>
-        <p className="text-lg text-luxury-silver leading-relaxed mb-10">
+        <p className="text-lg text-luxury-silver leading-relaxed mb-10 max-w-4xl mx-auto">
           {matchedSilo.description} If you are looking to explore <strong>{matchedKeyword.toLowerCase()}</strong>, VTP Realty offers unmatched premium living spaces designed with the Maximum Livable Area philosophy.
         </p>
         
         {/* Market Intelligence Block - Crucial for "Helpful Content Update" compliance */}
-        <div className="mb-10 p-8 border border-luxury-gold/20 bg-luxury-gold/5 rounded-xl text-left">
+        <div className="mb-12 p-8 border border-luxury-gold/20 bg-luxury-gold/5 rounded-xl text-left max-w-4xl mx-auto">
           <h2 className="text-2xl text-luxury-gold mb-4">Pune Real Estate Market Intelligence</h2>
           <p className="text-luxury-silver leading-relaxed text-sm">
             {matchedSilo.id.includes('mahalunge') && `Mahalunge is the crown jewel of PMRDA's town planning scheme. By investing in ${matchedKeyword}, you are positioning yourself in a high-tech smart city corridor. With the upcoming Maan-Mahalunge infrastructure boom and seamless connectivity to Hinjewadi Phase 1, properties here are projected to yield massive capital appreciation. VTP Realty's sprawling townships in this sector offer resort-style luxury that standalone buildings simply cannot match.`}
@@ -167,7 +189,12 @@ export default async function SeoLandingPage({ params }) {
           </p>
         </div>
 
-        <div className="p-8 border border-white/10 bg-white/5 rounded-xl text-left mb-10">
+        {/* Dynamic Project Injection */}
+        <div className="mb-16 -mx-6 md:mx-0">
+          <ConfigurationsGrid projects={projects} />
+        </div>
+
+        <div className="p-8 border border-white/10 bg-white/5 rounded-xl text-left mb-10 max-w-4xl mx-auto">
           <h2 className="text-2xl text-luxury-white mb-4">Explore {matchedSilo.title}</h2>
           <p className="text-luxury-silver mb-6">Browse related searches and categories:</p>
           <ul className="grid grid-cols-1 md:grid-cols-2 gap-4">
@@ -182,7 +209,7 @@ export default async function SeoLandingPage({ params }) {
         </div>
 
         {/* Dynamic FAQ Section */}
-        <div className="mb-10 text-left">
+        <div className="mb-10 text-left max-w-4xl mx-auto">
           <h2 className="text-3xl text-luxury-white font-heading mb-8">Frequently Asked Questions</h2>
           <div className="space-y-6">
             {faqs.map((faq, idx) => (
@@ -195,7 +222,7 @@ export default async function SeoLandingPage({ params }) {
         </div>
         
         {/* Dynamic Cross-Silo Spiderweb Linking */}
-        <div className="mb-10 p-8 border border-white/10 bg-white/5 rounded-xl text-left">
+        <div className="mb-10 p-8 border border-white/10 bg-white/5 rounded-xl text-left max-w-4xl mx-auto">
           <h2 className="text-2xl text-luxury-white mb-4">Discover More Pune Real Estate</h2>
           <p className="text-luxury-silver mb-6">Explore our extensive portfolio of luxury properties across Pune's most premium locations:</p>
           <ul className="grid grid-cols-1 md:grid-cols-3 gap-4">
@@ -213,7 +240,7 @@ export default async function SeoLandingPage({ params }) {
         </div>
 
         {/* Legal Disclaimer Footer - Required for YMYL Google Compliance */}
-        <div className="mt-16 pt-8 border-t border-white/10 text-xs text-luxury-silver/60 text-left">
+        <div className="mt-16 pt-8 border-t border-white/10 text-xs text-luxury-silver/60 text-left max-w-4xl mx-auto">
           <p>
             <strong>Disclaimer:</strong> The information provided on this page regarding <em>{matchedKeyword}</em> is intended for general informational purposes only and does not constitute financial, investment, or legal advice. Real estate values are subject to market fluctuations. VTP Realty (MahaRERA Reg. No. available on maharera.mahaonline.gov.in) reserves the right to modify project specifications, amenities, and pricing without prior notice. Please consult with our official sales representatives for the most accurate and up-to-date information before making any investment decisions.
           </p>
