@@ -94,11 +94,12 @@ export default async function sitemap({ id }) {
     const chunkSlugs = flatSeoSlugs.slice(startIndex, endIndex);
 
     for (const item of chunkSlugs) {
+      const isMahalunge = item.slug.includes('mahalunge');
       entries.push({
         url: `${baseUrl}/explore/${item.slug}`,
         lastModified: new Date(),
-        changeFrequency: 'weekly',
-        priority: 0.5, // Lower priority as per SEO best practice for massive programmatic silos
+        changeFrequency: isMahalunge ? 'daily' : 'weekly',
+        priority: isMahalunge ? 0.8 : 0.5, // Boost Mahalunge keywords
       });
     }
   }
