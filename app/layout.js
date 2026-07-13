@@ -36,8 +36,8 @@ export const viewport = {
 };
 
 export const metadata = {
-  title: 'VTP Bluewaters Pune | Buy Luxury 2, 3 & 4 BHK Flats in Mahalunge',
-  description: 'Invest in VTP Bluewaters Pune. Buy premium 2, 3, 4 & 5 BHK luxury apartments, duplexes, and villas in Mahalunge. Zero Brokerage. View Floor Plans & Price.',
+  title: 'VTP Bluewaters Mahalunge | Luxury 2, 3 & 4 BHK Flats in Pune',
+  description: 'Looking for luxury flats in Pune? Discover VTP Bluewaters in Mahalunge. Premium 2, 3, 4 & 5 BHK apartments, duplexes, and villas. View Floor Plans, Prices & Offers.',
   appleWebApp: {
     capable: true,
     title: 'VTP Bluewaters',
@@ -45,16 +45,16 @@ export const metadata = {
   },
   metadataBase: new URL('https://vtpbluewaters.com'),
   openGraph: {
-    title: 'VTP Bluewaters Pune | Buy Luxury 2, 3 & 4 BHK Flats',
-    description: 'Invest in VTP Bluewaters Pune. Buy premium 2, 3, 4 & 5 BHK luxury apartments in Mahalunge. Zero Brokerage. View Floor Plans & Price.',
+    title: 'VTP Bluewaters Mahalunge | Luxury 2, 3 & 4 BHK Flats in Pune',
+    description: 'Looking for luxury flats in Pune? Discover VTP Bluewaters in Mahalunge. Premium 2, 3, 4 & 5 BHK apartments. View Floor Plans, Prices & Offers.',
     siteName: 'VTP BLUEWATERS',
     type: 'website',
     images: ['/assets/projects/earth-1/hero.jpg']
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'VTP Bluewaters Pune | Buy Luxury 2, 3 & 4 BHK Flats',
-    description: 'Invest in VTP Bluewaters Pune. Buy premium luxury apartments in Mahalunge. Zero Brokerage.',
+    title: 'VTP Bluewaters Mahalunge | Luxury 2, 3 & 4 BHK Flats in Pune',
+    description: 'Discover VTP Bluewaters in Mahalunge. Premium luxury apartments in Pune. View Floor Plans & Prices.',
     images: ['/assets/projects/earth-1/hero.jpg']
   },
   verification: {
