@@ -1,8 +1,3 @@
-// AUTO-GENERATED SEO SILOS DATABASE
-// Generated via programmatic SEO engine for massive keyword injection.
-// Total Silos: 112
-// Total Keywords: 10286
-
 export const seoSilos = [
   {
     "id": "location-mahalunge",
@@ -17927,6 +17922,10 @@ export const seoSilos = [
     "description": "VTP Earth One offers signature 2, 3, and 4 BHK luxury residences in Mahalunge, Baner Annexe.",
     "slugs": [
       {
+        "slug": "vtp-earth-one-mahalunge-pune",
+        "keyword": "EARTH 1 BY VTP LUXE Mahalunge, Pune"
+      },
+      {
         "slug": "vtp-earth-one-price",
         "keyword": "VTP Earth One Price"
       },
@@ -18541,6 +18540,10 @@ export const seoSilos = [
     "title": "VTP Leonara Project Details",
     "description": "VTP Leonara in Mahalunge offers smartly designed homes with perfect space utilization.",
     "slugs": [
+      {
+        "slug": "vtp-leonara-mahalunge-pune",
+        "keyword": "VTP LEONARA Mahalunge, Pune"
+      },
       {
         "slug": "vtp-leonara-price",
         "keyword": "VTP Leonara Price"
@@ -19157,6 +19160,10 @@ export const seoSilos = [
     "description": "Experience premium riverfront living at VTP Bel Air in Mahalunge.",
     "slugs": [
       {
+        "slug": "vtp-bel-air-mahalunge-pune",
+        "keyword": "VTP BEL AIR Mahalunge, Pune"
+      },
+      {
         "slug": "vtp-bel-air-price",
         "keyword": "VTP Bel Air Price"
       },
@@ -19771,6 +19778,10 @@ export const seoSilos = [
     "title": "VTP Alpine Project Details",
     "description": "VTP Alpine presents exquisite high-rise living with sweeping views of Pune.",
     "slugs": [
+      {
+        "slug": "vtp-alpine-mahalunge-pune",
+        "keyword": "VTP ALPINE Mahalunge, Pune"
+      },
       {
         "slug": "vtp-alpine-price",
         "keyword": "VTP Alpine Price"
@@ -23462,6 +23473,10 @@ export const seoSilos = [
     "description": "VTP Bellissimo in Hinjawadi Phase 1 brings ultra-luxury smart homes to IT professionals.",
     "slugs": [
       {
+        "slug": "vtp-bellissimo-hinjawadi-pune",
+        "keyword": "VTP BELLISSIMO Hinjawadi, Pune"
+      },
+      {
         "slug": "vtp-bellissimo-price",
         "keyword": "VTP Bellissimo Price"
       },
@@ -24076,6 +24091,10 @@ export const seoSilos = [
     "title": "VTP Monarque Project Details",
     "description": "VTP Monarque offers unparalleled luxury, infinity pools, and exclusivity in Hinjawadi Phase 1.",
     "slugs": [
+      {
+        "slug": "vtp-monarque-hinjawadi-pune",
+        "keyword": "MONARQUE BY VTP LUXE Hinjawadi, Pune"
+      },
       {
         "slug": "vtp-monarque-price",
         "keyword": "VTP Monarque Price"
@@ -25307,6 +25326,10 @@ export const seoSilos = [
     "description": "VTP Altamira brings the pinnacle of luxury living to Kharadi.",
     "slugs": [
       {
+        "slug": "vtp-altamira-kharadi-pune",
+        "keyword": "ALTAMIRA BY VTP LUXE Kharadi, Pune"
+      },
+      {
         "slug": "vtp-altamira-price",
         "keyword": "VTP Altamira Price"
       },
@@ -25922,6 +25945,10 @@ export const seoSilos = [
     "description": "VTP Flamante by VTP Luxe in Kharadi offers premium high-rise residences with state-of-the-art wellness amenities.",
     "slugs": [
       {
+        "slug": "vtp-flamante-kharadi-pune",
+        "keyword": "FLAMANTE BY VTP LUXE Kharadi, Pune"
+      },
+      {
         "slug": "vtp-flamante-price",
         "keyword": "VTP Flamante Price"
       },
@@ -26536,6 +26563,10 @@ export const seoSilos = [
     "title": "VTP Velvet Villas Project Details",
     "description": "VTP Velvet Villas offers 43 bespoke, ultra-luxury villas in New Kharadi.",
     "slugs": [
+      {
+        "slug": "vtp-velvet-villas-kharadi-pune",
+        "keyword": "VELVET VILLAS BY VTP LUXE Kharadi, Pune"
+      },
       {
         "slug": "vtp-velvet-villas-price",
         "keyword": "VTP Velvet Villas Price"
@@ -27766,6 +27797,10 @@ export const seoSilos = [
     "title": "VTP Cygnus Project Details",
     "description": "VTP Cygnus provides premium, highly sought-after residences in East Pune.",
     "slugs": [
+      {
+        "slug": "vtp-cygnus-kharadi-pune",
+        "keyword": "VTP CYGNUS New Kharadi, Pune"
+      },
       {
         "slug": "vtp-cygnus-price",
         "keyword": "VTP Cygnus Price"
@@ -41933,6 +41968,89 @@ export const seoSilos = [
       {
         "slug": "senior-living-communities-in-pune-for-nri-in-bahrain",
         "keyword": "Senior Living Communities in Pune for NRI in Bahrain"
+      }
+    ]
+  },
+  {
+    "id": "project-all-exact-matches",
+    "title": "All Projects Exact Matches",
+    "description": "Exact match keywords for all project names and locations.",
+    "slugs": [
+      {
+        "slug": "vtp-altamira-kharadi-pune",
+        "keyword": "ALTAMIRA BY VTP LUXE Kharadi, Pune"
+      },
+      {
+        "slug": "vtp-monarque-hinjawadi-pune",
+        "keyword": "MONARQUE BY VTP LUXE Hinjawadi, Pune"
+      },
+      {
+        "slug": "vtp-earth-one-mahalunge-pune",
+        "keyword": "EARTH 1 BY VTP LUXE Mahalunge, Pune"
+      },
+      {
+        "slug": "vtp-flamante-kharadi-pune",
+        "keyword": "FLAMANTE BY VTP LUXE Kharadi, Pune"
+      },
+      {
+        "slug": "vtp-velvet-villas-kharadi-pune",
+        "keyword": "VELVET VILLAS BY VTP LUXE Kharadi, Pune"
+      },
+      {
+        "slug": "vtp-cielo-bavdhan-pune",
+        "keyword": "CIELO BY VTP LUXE Bavdhan, Pune"
+      },
+      {
+        "slug": "vtp-aurelia-kharadi-pune",
+        "keyword": "VTP AURELIA Kharadi, Pune"
+      },
+      {
+        "slug": "vtp-volare-hinjawadi-pune",
+        "keyword": "VTP VOLARE Hinjawadi, Pune"
+      },
+      {
+        "slug": "vtp-verve-baner-sus-road-pune",
+        "keyword": "VTP VERVE Baner Sus Road, Pune"
+      },
+      {
+        "slug": "vtp-dolce-vita-new-kharadi-pune",
+        "keyword": "VTP DOLCE VITA New Kharadi, Pune"
+      },
+      {
+        "slug": "vtp-euphoria-new-kharadi-pune",
+        "keyword": "VTP EUPHORIA New Kharadi, Pune"
+      },
+      {
+        "slug": "vtp-sierra-baner-sus-road-pune",
+        "keyword": "VTP SIERRA Baner Sus Road, Pune"
+      },
+      {
+        "slug": "vtp-altitude-wakad-pune",
+        "keyword": "ALTITUDE Wakad, Pune"
+      },
+      {
+        "slug": "vtp-aethereus-high-street-mahalunge-pune",
+        "keyword": "VTP AETHEREUS HIGH STREET Mahalunge, Pune"
+      },
+      {
+        "slug": "vtp-leonara-mahalunge-pune",
+        "keyword": "VTP LEONARA Mahalunge, Pune"
+      },
+      {
+        "slug": "vtp-bel-air-mahalunge-pune",
+        "keyword": "VTP BEL AIR Mahalunge, Pune"
+      },
+      {
+        "slug": "vtp-alpine-mahalunge-pune",
+        "keyword": "VTP ALPINE Mahalunge, Pune"
+      },
+      {
+        "slug": "vtp-cygnus-kharadi-pune",
+        "keyword": "VTP CYGNUS New Kharadi, Pune"
+      },
+      {
+        "slug": "vtp-bellissimo-hinjawadi-pune",
+        "keyword": "VTP BELLISSIMO Hinjawadi, Pune"
       }
     ]
   }
