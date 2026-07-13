@@ -19,7 +19,9 @@ export async function generateSitemaps() {
   return chunks;
 }
 
-export default async function sitemap({ id }) {
+export default async function sitemap(props) {
+  const rawId = await props.id;
+  const id = parseInt(rawId, 10);
   const entries = [];
   
   if (id === 0) {
