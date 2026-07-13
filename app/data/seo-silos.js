@@ -17308,6 +17308,10 @@ export const seoSilos = [
     "description": "VTP Bluewaters is a 200+ acre mega township in Mahalunge featuring premium 1, 2, 3 & 4 BHK residences.",
     "slugs": [
       {
+        "slug": "vtp-bluewaters-township-mahalunge",
+        "keyword": "VTP Bluewaters Township Mahalunge"
+      },
+      {
         "slug": "vtp-bluewaters-price",
         "keyword": "VTP Bluewaters Price"
       },
