@@ -8,6 +8,10 @@ on:
       - 'app/data/content-hub.json'
       - 'app/services/cms.js'
       - 'scripts/google-indexer.js'
+      - 'app/data/seo-silos.js'
+      - 'scripts/ping-programmatic-seo.js'
+  schedule:
+    - cron: '0 0 * * 0' # Run every Sunday at Midnight
   workflow_dispatch:
     inputs:
       url_to_index:
@@ -41,11 +45,12 @@ jobs:
         if: ${{ github.event.inputs.url_to_index != '' }}
         run: node scripts/google-indexer.js ${{ github.event.inputs.url_to_index }}
 
-      # In a full implementation, you would write a script to parse the git diff of content-hub.json,
-      # extract new URLs, and loop through them. For now, we will ping the main sitemap 
-      # and the main blog hub to trigger a recrawl, or allow manual dispatch for specific URLs.
+      - name: Run Programmatic SEO Bulk Indexer (Cron or Push)
+        if: ${{ github.event.inputs.url_to_index == '' }}
+        run: node scripts/ping-programmatic-seo.js
+
       - name: Ping Google to recrawl sitemaps
         if: ${{ github.event.inputs.url_to_index == '' }}
         run: |
           curl "https://www.google.com/ping?sitemap=https://vtpbluewaters.com/sitemap.xml"
-          echo "Pung Google Sitemap"
+          echo "Pinged Google Sitemap"
