@@ -69,6 +69,7 @@ export default function GlobalSchema() {
         "@id": "https://vtpbluewaters.com/#website",
         "url": "https://vtpbluewaters.com/",
         "name": "VTP Blue Waters",
+        "alternateName": "VTP Blue Waters Mahalunge",
         "description": "Official website for VTP Blue Waters — a 200+ acre luxury township in Mahalunge, West Pune by VTP Realty.",
         "publisher": {
           "@id": "https://vtpbluewaters.com/#organization"

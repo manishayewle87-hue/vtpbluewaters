@@ -50,7 +50,7 @@ export const metadata = {
   openGraph: {
     title: 'VTP Blue Waters Mahalunge | Luxury 2, 3 & 4 BHK Flats in Pune',
     description: 'Looking for luxury flats in Pune? Discover VTP Blue Waters in Mahalunge. Premium 2, 3, 4 & 5 BHK apartments. View Floor Plans, Prices & Offers.',
-    siteName: 'VTP BLUE WATERS',
+    siteName: 'VTP Blue Waters',
     type: 'website',
     images: ['/assets/projects/earth-1/hero.jpg']
   },
