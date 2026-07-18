@@ -2,8 +2,10 @@ name: Google Indexing API Daily Sync
 
 on:
   schedule:
-    # Runs at 00:00 UTC (5:30 AM IST) every day to sync with Google's quota reset
+    # Run at 00:00 UTC (5:30 AM IST) — Morning batch
     - cron: '0 0 * * *'
+    # Run at 12:00 UTC (5:30 PM IST) — Evening batch
+    - cron: '0 12 * * *'
   workflow_dispatch: # Allows manual trigger directly from the GitHub UI
 
 jobs:
