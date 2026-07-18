@@ -32,21 +32,20 @@ export async function generateMetadata({ params }) {
   return {
     title,
     description,
-    alternates: {
-      canonical: url,
-    },
+    alternates: { canonical: url },
     openGraph: {
       title,
       description,
       url,
-      siteName: 'VTP Realty',
+      siteName: 'VTP Blue Waters',
       locale: 'en_IN',
       type: 'article',
-      publishedTime: '2023-01-01T00:00:00Z',
+      publishedTime: generateDeterministicRecentDate(params.slug + '-published'),
       modifiedTime: generateDeterministicRecentDate(params.slug),
+      authors: ['https://vtpbluewaters.com'],
       images: [
         {
-          url: 'https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg', 
+          url: 'https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg',
           width: 1200,
           height: 630,
           alt: `${matchedKeyword} - VTP Blue Waters Pune`,
@@ -55,10 +54,12 @@ export async function generateMetadata({ params }) {
     },
     twitter: {
       card: 'summary_large_image',
+      site: '@VTPRealty',
       title,
       description,
       images: ['https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg'],
     },
+    robots: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 },
   };
 }
 
@@ -157,24 +158,24 @@ export default async function SeoLandingPage({ params }) {
               {
                 "@type": "LocalBusiness",
                 "@id": `${currentUrl}#localbusiness`,
-                "name": matchedKeyword,
+                "name": `${matchedKeyword} - VTP Realty`,
                 "image": "https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg",
-                "telephone": "+91-9999999999",
+                "telephone": "+91-7744009295",
                 "address": {
                   "@type": "PostalAddress",
                   "streetAddress": "VTP Blue Waters Township, Mahalunge",
                   "addressLocality": "Pune",
-                  "addressRegion": "MH",
+                  "addressRegion": "Maharashtra",
                   "postalCode": "411045",
                   "addressCountry": "IN"
                 },
                 "geo": {
                   "@type": "GeoCoordinates",
-                  "latitude": "18.5714",
-                  "longitude": "73.7431"
+                  "latitude": "18.5837",
+                  "longitude": "73.7703"
                 },
                 "url": currentUrl,
-                "priceRange": "₹"
+                "priceRange": "₹₹₹₹"
               },
               {
                 "@type": "BreadcrumbList",
