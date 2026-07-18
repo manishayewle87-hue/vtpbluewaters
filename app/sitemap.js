@@ -102,6 +102,7 @@ export default async function sitemap(props) {
         lastModified: new Date(),
         changeFrequency: isMahalunge ? 'daily' : 'weekly',
         priority: isMahalunge ? 0.8 : 0.5, // Boost Mahalunge keywords
+        images: [`${baseUrl}/assets/projects/earth-1/hero.jpg`] // Added for Google Images SEO
       });
     }
   }

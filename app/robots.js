@@ -49,9 +49,11 @@ export default function robots() {
       },
       {
         userAgent: 'Yandex',
-        allow: ['/'],
-        disallow: ['/admin/', '/private/', '/api/'],
-        crawlDelay: 2,
+        disallow: ['/'], // Block entirely to save crawl budget
+      },
+      {
+        userAgent: 'Baiduspider',
+        disallow: ['/'], // Block entirely to save crawl budget
       },
 
       // ─── Default Rule for All Other Bots ───
@@ -73,10 +75,15 @@ export default function robots() {
         ],
       },
 
-      // ─── Block Unauthorized AI Scrapers ───
-      // Protects proprietary real estate data, pricing, and floor plans
+      // ─── Block Unauthorized AI Scrapers & SEO Crawler Bots ───
+      // Protects proprietary real estate data, pricing, and our massive programmatic SEO footprint from competitors using Ahrefs/Semrush
       {
-        userAgent: ['GPTBot', 'ChatGPT-User', 'CCBot', 'ClaudeBot', 'anthropic-ai', 'Omgilibot', 'Omgili', 'Bytespider', 'PetalBot', 'Amazonbot'],
+        userAgent: [
+          // AI Bots
+          'GPTBot', 'ChatGPT-User', 'CCBot', 'ClaudeBot', 'anthropic-ai', 'Omgilibot', 'Omgili', 'Bytespider', 'PetalBot', 'Amazonbot',
+          // SEO & Scraper Bots
+          'AhrefsBot', 'SemrushBot', 'DotBot', 'MJ12bot', 'Rogerbot', 'Screaming Frog SEO Spider', 'MegaIndex.ru', 'DataForSeoBot'
+        ],
         disallow: ['/'],
       },
     ],

@@ -57,20 +57,33 @@ export const metadata = {
     description: 'Discover VTP Blue Waters in Mahalunge. Premium luxury apartments in Pune. View Floor Plans & Prices.',
     images: ['/assets/projects/earth-1/hero.jpg']
   },
+  robots: {
+    index: true,
+    follow: true,
+    nocache: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      noimageindex: false,
+      'max-video-preview': -1,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
+  },
   verification: {
     google: '0ziqnRFUOxCq-61sxxcMTCRrvPIFd0W0pOoyy57XkKw'
   },
   icons: {
     icon: '/icon.svg'
+  },
+  alternates: {
+    canonical: 'https://vtpbluewaters.com'
   }
 };
 
 export default async function RootLayout({ children }) {
   return (
     <html lang="en" className={`${inter.variable} ${outfit.variable}`}>
-      <head>
-        <CanonicalHreflang />
-      </head>
       <body className={`${inter.variable} ${outfit.variable} antialiased bg-[#050914] text-white selection:bg-luxury-gold selection:text-luxury-navy`}>
         <ReCaptchaProvider>
           <KnowledgeGraph />
