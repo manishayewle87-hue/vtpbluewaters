@@ -12,7 +12,15 @@ export default function EnquiryForm({ projectName, customTitle, inline = false }
     configuration: '', 
     project: projectName || '',
     location: '',
-    message: ''
+    message: '',
+    honeypot: '' // Spam trap
+  });
+  
+  const [trackingData, setTrackingData] = useState({
+    pageUrl: '',
+    utmSource: '',
+    utmMedium: '',
+    utmCampaign: ''
   });
   
   const [status, setStatus] = useState('idle'); // idle | loading | success | error
@@ -21,6 +29,22 @@ export default function EnquiryForm({ projectName, customTitle, inline = false }
   useEffect(() => {
     if (projectName) {
       setFormData(prev => ({ ...prev, project: projectName }));
+    }
+    
+    // Capture URL and UTM parameters on load
+    if (typeof window !== 'undefined') {
+      const urlParams = new URLSearchParams(window.location.search);
+      setTrackingData({
+        pageUrl: window.location.href,
+        utmSource: urlParams.get('utm_source') || sessionStorage.getItem('utm_source') || 'Direct',
+        utmMedium: urlParams.get('utm_medium') || sessionStorage.getItem('utm_medium') || 'Direct',
+        utmCampaign: urlParams.get('utm_campaign') || sessionStorage.getItem('utm_campaign') || 'Direct'
+      });
+      
+      // Persist UTMs for the session in case they navigate away and come back
+      if (urlParams.get('utm_source')) sessionStorage.setItem('utm_source', urlParams.get('utm_source'));
+      if (urlParams.get('utm_medium')) sessionStorage.setItem('utm_medium', urlParams.get('utm_medium'));
+      if (urlParams.get('utm_campaign')) sessionStorage.setItem('utm_campaign', urlParams.get('utm_campaign'));
     }
   }, [projectName]);
 
@@ -38,6 +62,13 @@ export default function EnquiryForm({ projectName, customTitle, inline = false }
       return;
     }
 
+    // Honeypot Trap - If filled, silently reject
+    if (formData.honeypot) {
+      console.warn('Bot detected by honeypot');
+      setStatus('idle');
+      return;
+    }
+
     try {
       // Get reCAPTCHA token
       const token = await executeRecaptcha('enquiry_form');
@@ -50,6 +81,7 @@ export default function EnquiryForm({ projectName, customTitle, inline = false }
           from_name: 'VTP Blue Waters Leads',
           replyto: formData.email,
           ...formData,
+          ...trackingData,
           project: projectName || 'VTP Blue Waters',
           recaptchaToken: token
         })
@@ -151,16 +183,30 @@ export default function EnquiryForm({ projectName, customTitle, inline = false }
                   name="phone"
                   id="enquiry-phone"
                   required
+                  pattern="[0-9]{10}"
+                  title="Please enter a valid 10-digit mobile number"
+                  maxLength="10"
                   value={formData.phone}
                   onChange={handleChange}
                   className="w-full bg-white/5 border border-white/10 rounded-xl px-5 py-4 text-luxury-white focus:outline-none focus:border-luxury-gold focus:bg-white/10 transition-all peer" 
                   placeholder=" "
                 />
                 <label className="absolute left-5 top-4 text-white/40 text-sm font-light transition-all peer-focus:-translate-y-8 peer-focus:text-luxury-gold peer-focus:text-xs peer-focus:bg-[#0a0f1d] peer-focus:px-2 peer-focus:-ml-2 peer-valid:-translate-y-8 peer-valid:text-luxury-silver peer-valid:text-xs peer-valid:bg-[#0a0f1d] peer-valid:px-2 peer-valid:-ml-2 pointer-events-none rounded">
-                  Phone Number *
+                  Phone Number (10 Digits) *
                 </label>
               </div>
             </div>
+            
+            {/* Honeypot Field - Hidden from humans, visible to bots */}
+            <input 
+              type="text" 
+              name="honeypot" 
+              value={formData.honeypot} 
+              onChange={handleChange} 
+              className="hidden absolute -left-[9999px] opacity-0" 
+              tabIndex="-1" 
+              autoComplete="off" 
+            />
             
             {/* Row 2: Email & Configuration */}
             <div className="grid md:grid-cols-2 gap-8">

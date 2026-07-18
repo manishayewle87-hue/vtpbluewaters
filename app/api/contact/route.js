@@ -76,9 +76,28 @@ export async function POST(request) {
             <th style="text-align: left; background-color: #f8f9fa;">Message</th>
             <td>${data.message}</td>
           </tr>` : ''}
+          <tr>
+            <th colspan="2" style="text-align: center; background-color: #1a365d; color: white; padding: 10px;">Marketing Analytics</th>
+          </tr>
+          <tr>
+            <th style="text-align: left; background-color: #f8f9fa;">Submitted From</th>
+            <td><a href="${data.pageUrl}">${data.pageUrl || 'Direct / Unknown'}</a></td>
+          </tr>
+          <tr>
+            <th style="text-align: left; background-color: #f8f9fa;">UTM Source</th>
+            <td>${data.utmSource || 'Direct'}</td>
+          </tr>
+          <tr>
+            <th style="text-align: left; background-color: #f8f9fa;">UTM Medium</th>
+            <td>${data.utmMedium || 'Direct'}</td>
+          </tr>
+          <tr>
+            <th style="text-align: left; background-color: #f8f9fa;">UTM Campaign</th>
+            <td>${data.utmCampaign || 'Direct'}</td>
+          </tr>
         </table>
         <br/>
-        <p style="color: #666; font-size: 12px;">This lead was generated from your VTP Blue Waters website.</p>
+        <p style="color: #666; font-size: 12px;">This lead was generated from your VTP Blue Waters website and protected by reCAPTCHA v3.</p>
       `
     };
 
