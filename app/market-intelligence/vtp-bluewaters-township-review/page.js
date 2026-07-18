@@ -1,35 +1,32 @@
 import Link from 'next/link';
 import { ArrowLeft, Star, ShieldCheck, Map } from 'lucide-react';
 import EnquiryForm from '@/app/components/project/EnquiryForm';
+import ArticleSchema from '@/app/components/seo/ArticleSchema';
 
 export const metadata = {
   title: 'VTP Blue Waters Township Review | Earth One, Leonara, Bel Air',
   description: 'Comprehensive review of the VTP Blue Waters township. Detailed analysis of Earth One, Leonara, and Bel Air projects in Mahalunge, Pune.',
   alternates: {
     canonical: 'https://vtpbluewaters.com/market-intelligence/vtp-bluewaters-township-review'
-  }
+  },
+  openGraph: {
+    title: 'VTP Blue Waters Township Review | Earth One, Leonara, Bel Air',
+    description: 'Comprehensive review of the VTP Blue Waters township. Detailed analysis of Earth One, Leonara, and Bel Air projects in Mahalunge, Pune.',
+    url: 'https://vtpbluewaters.com/market-intelligence/vtp-bluewaters-township-review',
+    type: 'article',
+    publishedTime: '2025-03-10T00:00:00Z',
+    modifiedTime: '2025-07-01T00:00:00Z',
+    images: [{ url: 'https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg', width: 1200, height: 630 }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'VTP Blue Waters Township Review | Earth One, Leonara, Bel Air',
+    description: 'Comprehensive review of the VTP Blue Waters township. Detailed analysis of Earth One, Leonara, and Bel Air projects in Mahalunge, Pune.',
+    images: ['https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg'],
+  },
 };
 
 export default function VtpBluewatersReview() {
-  const articleSchema = {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "VTP Blue Waters Township Review: Redefining Luxury in West Pune",
-    "description": "Comprehensive review of the VTP Blue Waters township and its premium projects: Earth One, Leonara, and Bel Air.",
-    "author": {
-      "@type": "Organization",
-      "name": "VTP Realty Insights"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "VTP Realty",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://vtpbluewaters.com/logo.png"
-      }
-    }
-  };
-
   const faqSchema = {
     "@context": "https://schema.org",
     "@type": "FAQPage",
@@ -55,7 +52,16 @@ export default function VtpBluewatersReview() {
 
   return (
     <>
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
+      <ArticleSchema
+        headline="VTP Blue Waters Township Review: Redefining Luxury in West Pune"
+        description="Comprehensive review of the VTP Blue Waters township and its premium projects: Earth One, Leonara, and Bel Air."
+        url="https://vtpbluewaters.com/market-intelligence/vtp-bluewaters-township-review"
+        image="https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg"
+        datePublished="2025-03-10"
+        dateModified="2025-07-01"
+        keywords={['VTP Blue Waters review', 'Earth One Mahalunge', 'Leonara Pune', 'VTP Bel Air', 'luxury township Pune']}
+        wordCount={1800}
+      />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
 
       <article className="min-h-screen bg-luxury-navy">

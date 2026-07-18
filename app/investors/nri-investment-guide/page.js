@@ -1,35 +1,32 @@
 import Link from 'next/link';
 import { ArrowLeft, Globe, Shield, TrendingUp, Landmark } from 'lucide-react';
 import EnquiryForm from '@/app/components/project/EnquiryForm';
+import ArticleSchema from '@/app/components/seo/ArticleSchema';
 
 export const metadata = {
   title: 'NRI Real Estate Investment Guide Pune 2026 | VTP Blue Waters',
   description: 'The ultimate 2026 guide for Non-Resident Indians (NRIs) investing in Pune real estate. Discover ROI, taxation, property management, and premium townships in Mahalunge.',
   alternates: {
     canonical: 'https://vtpbluewaters.com/investors/nri-investment-guide'
-  }
+  },
+  openGraph: {
+    title: 'NRI Real Estate Investment Guide Pune 2026 | VTP Blue Waters',
+    description: 'The ultimate 2026 guide for NRIs investing in Pune real estate. Discover ROI, taxation, property management, and premium townships.',
+    url: 'https://vtpbluewaters.com/investors/nri-investment-guide',
+    type: 'article',
+    publishedTime: '2025-01-10T00:00:00Z',
+    modifiedTime: '2025-07-01T00:00:00Z',
+    images: [{ url: 'https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg', width: 1200, height: 630 }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'NRI Real Estate Investment Guide Pune 2026',
+    description: 'Discover ROI, taxation, and property management for NRIs in Pune real estate.',
+    images: ['https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg'],
+  },
 };
 
 export default function NRIInvestmentGuide() {
-  const articleSchema = {
-    "@context": "https://schema.org",
-    "@type": "Report",
-    "headline": "Pune Real Estate NRI Investment Guide 2026",
-    "description": "Comprehensive financial and real estate investment report for NRIs looking to invest in Pune, covering taxation, asset management, and high-yield corridors.",
-    "author": {
-      "@type": "Organization",
-      "name": "VTP Realty Investor Relations"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "VTP Realty",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://vtpbluewaters.com/logo.png"
-      }
-    }
-  };
-
   const faqSchema = {
     "@context": "https://schema.org",
     "@type": "FAQPage",
@@ -55,7 +52,17 @@ export default function NRIInvestmentGuide() {
 
   return (
     <>
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
+      <ArticleSchema
+        headline="Pune Real Estate NRI Investment Guide 2026"
+        description="Comprehensive financial and real estate investment report for NRIs looking to invest in Pune, covering taxation, asset management, and high-yield corridors."
+        url="https://vtpbluewaters.com/investors/nri-investment-guide"
+        image="https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg"
+        datePublished="2025-01-10"
+        dateModified="2025-07-01"
+        authorName="VTP Realty Investor Relations Team"
+        keywords={['NRI real estate investment Pune', 'NRI property Pune 2026', 'Pune real estate ROI NRI', 'FEMA NRI property rules', 'best townships for NRI Pune']}
+        wordCount={2200}
+      />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
 
       <article className="min-h-screen bg-luxury-navy">

@@ -1,35 +1,32 @@
 import Link from 'next/link';
 import { ArrowLeft, Coffee, Briefcase, Activity, Clock } from 'lucide-react';
 import EnquiryForm from '@/app/components/project/EnquiryForm';
+import ArticleSchema from '@/app/components/seo/ArticleSchema';
 
 export const metadata = {
   title: 'Hinjewadi Walk-To-Work Lifestyle | Zero Commute in Pune',
   description: 'Discover the ultimate walk-to-work lifestyle at VTP Blue Waters in Mahalunge. Escape Hinjewadi traffic and reclaim your time with a zero-commute luxury residence.',
   alternates: {
     canonical: 'https://vtpbluewaters.com/market-intelligence/hinjewadi-walk-to-work-lifestyle'
-  }
+  },
+  openGraph: {
+    title: 'Hinjewadi Walk-To-Work Lifestyle | Zero Commute in Pune',
+    description: 'Discover the ultimate walk-to-work lifestyle at VTP Blue Waters in Mahalunge. Escape Hinjewadi traffic and reclaim your time with a zero-commute luxury residence.',
+    url: 'https://vtpbluewaters.com/market-intelligence/hinjewadi-walk-to-work-lifestyle',
+    type: 'article',
+    publishedTime: '2025-04-01T00:00:00Z',
+    modifiedTime: '2025-07-01T00:00:00Z',
+    images: [{ url: 'https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg', width: 1200, height: 630 }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Hinjewadi Walk-To-Work Lifestyle | Zero Commute in Pune',
+    description: 'Discover the ultimate walk-to-work lifestyle at VTP Blue Waters in Mahalunge.',
+    images: ['https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg'],
+  },
 };
 
 export default function WalkToWorkLifestyle() {
-  const articleSchema = {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "The Hinjewadi Walk-To-Work Lifestyle: Reclaim Your Time",
-    "description": "How the 'walk-to-work' concept in Mahalunge and Hinjewadi is redefining work-life balance for Pune's IT professionals.",
-    "author": {
-      "@type": "Organization",
-      "name": "VTP Realty Insights"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "VTP Realty",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://vtpbluewaters.com/logo.png"
-      }
-    }
-  };
-
   const faqSchema = {
     "@context": "https://schema.org",
     "@type": "FAQPage",
@@ -55,7 +52,16 @@ export default function WalkToWorkLifestyle() {
 
   return (
     <>
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
+      <ArticleSchema
+        headline="The Hinjewadi Walk-To-Work Lifestyle: Reclaim Your Time"
+        description="How the walk-to-work concept in Mahalunge is redefining work-life balance for Pune's IT professionals."
+        url="https://vtpbluewaters.com/market-intelligence/hinjewadi-walk-to-work-lifestyle"
+        image="https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg"
+        datePublished="2025-04-01"
+        dateModified="2025-07-01"
+        keywords={['walk to work Hinjewadi', 'zero commute Pune', 'Mahalunge IT professionals', 'apartments near Hinjewadi', 'VTP Blue Waters lifestyle']}
+        wordCount={1600}
+      />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
 
       <article className="min-h-screen bg-luxury-navy">

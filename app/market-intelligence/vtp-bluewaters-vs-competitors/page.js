@@ -1,35 +1,32 @@
 import Link from 'next/link';
 import { ArrowLeft, Scale, CheckCircle2, ShieldAlert, Layout } from 'lucide-react';
 import EnquiryForm from '@/app/components/project/EnquiryForm';
+import ArticleSchema from '@/app/components/seo/ArticleSchema';
 
 export const metadata = {
   title: 'VTP Blue Waters vs Competitors in Mahalunge | Honest Review 2026',
   description: 'An objective, data-driven comparison of VTP Blue Waters vs Godrej Hillside and other competitors in Mahalunge. Discover why the Township Model beats the Cluster Model.',
   alternates: {
     canonical: 'https://vtpbluewaters.com/market-intelligence/vtp-bluewaters-vs-competitors'
-  }
+  },
+  openGraph: {
+    title: 'VTP Blue Waters vs Competitors in Mahalunge | Honest Review 2026',
+    description: 'An objective, data-driven comparison of VTP Blue Waters vs Godrej Hillside and other competitors in Mahalunge. Discover why the Township Model beats the Cluster Model.',
+    url: 'https://vtpbluewaters.com/market-intelligence/vtp-bluewaters-vs-competitors',
+    type: 'article',
+    publishedTime: '2025-05-01T00:00:00Z',
+    modifiedTime: '2025-07-01T00:00:00Z',
+    images: [{ url: 'https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg', width: 1200, height: 630 }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'VTP Blue Waters vs Competitors in Mahalunge 2026',
+    description: 'Objective comparison: VTP Blue Waters vs Godrej Hillside — Township vs Cluster Model.',
+    images: ['https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg'],
+  },
 };
 
 export default function CompetitorComparison() {
-  const articleSchema = {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "VTP Blue Waters vs Competitors: The Ultimate Mahalunge Comparison",
-    "description": "A deep dive comparing VTP Blue Waters (Earth One, Leonara) against Godrej Hillside and other premium projects in West Pune.",
-    "author": {
-      "@type": "Organization",
-      "name": "VTP Realty Insights"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "VTP Realty",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://vtpbluewaters.com/logo.png"
-      }
-    }
-  };
-
   const faqSchema = {
     "@context": "https://schema.org",
     "@type": "FAQPage",
@@ -55,7 +52,16 @@ export default function CompetitorComparison() {
 
   return (
     <>
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
+      <ArticleSchema
+        headline="VTP Blue Waters vs Competitors: The Ultimate Mahalunge Comparison"
+        description="A deep dive comparing VTP Blue Waters against Godrej Hillside and other premium projects in West Pune."
+        url="https://vtpbluewaters.com/market-intelligence/vtp-bluewaters-vs-competitors"
+        image="https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg"
+        datePublished="2025-05-01"
+        dateModified="2025-07-01"
+        keywords={['VTP Blue Waters vs Godrej Hillside', 'best apartments Mahalunge', 'township vs cluster model', 'VTP Blue Waters comparison', 'West Pune property comparison 2026']}
+        wordCount={2100}
+      />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
 
       <article className="min-h-screen bg-luxury-navy">

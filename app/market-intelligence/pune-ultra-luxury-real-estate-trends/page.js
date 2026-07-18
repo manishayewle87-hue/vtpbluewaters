@@ -1,35 +1,32 @@
 import Link from 'next/link';
 import { ArrowLeft, Diamond, Key, Crown } from 'lucide-react';
 import EnquiryForm from '@/app/components/project/EnquiryForm';
+import ArticleSchema from '@/app/components/seo/ArticleSchema';
 
 export const metadata = {
   title: 'Ultra-Luxury Real Estate Trends in Pune 2026 | Duplex & Skyduplex',
   description: 'Explore the high-net-worth real estate trends in Pune. A deep dive into Duplex, Skyduplex, Penthouse, and Simplex luxury properties in Mahalunge and West Pune.',
   alternates: {
     canonical: 'https://vtpbluewaters.com/market-intelligence/pune-ultra-luxury-real-estate-trends'
-  }
+  },
+  openGraph: {
+    title: 'Ultra-Luxury Real Estate Trends in Pune 2026 | Duplex & Skyduplex',
+    description: 'Explore the high-net-worth real estate trends in Pune. A deep dive into Duplex, Skyduplex, Penthouse, and Simplex luxury properties in Mahalunge and West Pune.',
+    url: 'https://vtpbluewaters.com/market-intelligence/pune-ultra-luxury-real-estate-trends',
+    type: 'article',
+    publishedTime: '2025-02-15T00:00:00Z',
+    modifiedTime: '2025-07-01T00:00:00Z',
+    images: [{ url: 'https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg', width: 1200, height: 630 }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Ultra-Luxury Real Estate Trends in Pune 2026',
+    description: 'Explore HNW real estate trends: Duplex, Skyduplex & Penthouse properties in West Pune.',
+    images: ['https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg'],
+  },
 };
 
 export default function PuneUltraLuxuryTrends() {
-  const articleSchema = {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Ultra-Luxury Real Estate Trends in Pune: The Rise of the Skyduplex",
-    "description": "An analysis of High-Net-Worth Individual (HNWI) real estate trends in Pune, focusing on Duplex, Skyduplex, and Penthouse properties.",
-    "author": {
-      "@type": "Organization",
-      "name": "VTP Realty Insights"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "VTP Realty",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://vtpbluewaters.com/logo.png"
-      }
-    }
-  };
-
   const faqSchema = {
     "@context": "https://schema.org",
     "@type": "FAQPage",
@@ -55,7 +52,16 @@ export default function PuneUltraLuxuryTrends() {
 
   return (
     <>
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
+      <ArticleSchema
+        headline="Ultra-Luxury Real Estate Trends in Pune: The Rise of the Skyduplex"
+        description="An analysis of HNWI real estate trends in Pune, focusing on Duplex, Skyduplex, and Penthouse properties in Mahalunge."
+        url="https://vtpbluewaters.com/market-intelligence/pune-ultra-luxury-real-estate-trends"
+        image="https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg"
+        datePublished="2025-02-15"
+        dateModified="2025-07-01"
+        keywords={['ultra luxury real estate Pune', 'Skyduplex Pune', 'duplex apartments Mahalunge', 'penthouse Pune 2026', 'HNWI real estate Pune']}
+        wordCount={1900}
+      />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
 
       <article className="min-h-screen bg-luxury-navy">

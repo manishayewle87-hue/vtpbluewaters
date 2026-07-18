@@ -1,35 +1,32 @@
 import Link from 'next/link';
 import { ArrowLeft, Train, Navigation, Building2, HardHat } from 'lucide-react';
 import EnquiryForm from '@/app/components/project/EnquiryForm';
+import ArticleSchema from '@/app/components/seo/ArticleSchema';
 
 export const metadata = {
   title: 'Pune Infrastructure Impact Report 2026 | Ring Road & Metro',
   description: 'Data-driven analysis of how the Pune Ring Road, Metro Line 3, and Mahalunge TPS are driving massive real estate ROI in West Pune.',
   alternates: {
     canonical: 'https://vtpbluewaters.com/investors/pune-infrastructure-impact-report'
-  }
+  },
+  openGraph: {
+    title: 'Pune Infrastructure Impact Report 2026 | Ring Road & Metro',
+    description: 'Data-driven analysis of how the Pune Ring Road, Metro Line 3, and Mahalunge TPS are driving massive real estate ROI in West Pune.',
+    url: 'https://vtpbluewaters.com/investors/pune-infrastructure-impact-report',
+    type: 'article',
+    publishedTime: '2025-03-01T00:00:00Z',
+    modifiedTime: '2025-07-01T00:00:00Z',
+    images: [{ url: 'https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg', width: 1200, height: 630 }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Pune Infrastructure Impact Report 2026',
+    description: 'Ring Road, Metro Line 3 & Mahalunge TPS: How infrastructure is driving ROI in West Pune.',
+    images: ['https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg'],
+  },
 };
 
 export default function InfrastructureImpactReport() {
-  const articleSchema = {
-    "@context": "https://schema.org",
-    "@type": "Report",
-    "headline": "Pune Infrastructure Impact Report: The West Pune Catalyst",
-    "description": "Deep-dive analysis of the Pune Ring Road, Pune Metro Line 3, and the Mahalunge-Maan Town Planning Scheme and their impact on real estate ROI.",
-    "author": {
-      "@type": "Organization",
-      "name": "VTP Realty Investor Relations"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "VTP Realty",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://vtpbluewaters.com/logo.png"
-      }
-    }
-  };
-
   const faqSchema = {
     "@context": "https://schema.org",
     "@type": "FAQPage",
@@ -55,7 +52,17 @@ export default function InfrastructureImpactReport() {
 
   return (
     <>
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
+      <ArticleSchema
+        headline="Pune Infrastructure Impact Report: The West Pune Catalyst"
+        description="Deep-dive analysis of the Pune Ring Road, Pune Metro Line 3, and the Mahalunge-Maan TPS and their impact on real estate ROI."
+        url="https://vtpbluewaters.com/investors/pune-infrastructure-impact-report"
+        image="https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg"
+        datePublished="2025-03-01"
+        dateModified="2025-07-01"
+        authorName="VTP Realty Investor Relations Team"
+        keywords={['Pune ring road real estate', 'Pune Metro Line 3 impact', 'Mahalunge TPS', 'West Pune infrastructure 2026', 'real estate ROI Pune infrastructure']}
+        wordCount={2000}
+      />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
 
       <article className="min-h-screen bg-luxury-navy">
