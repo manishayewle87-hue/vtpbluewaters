@@ -4,7 +4,9 @@ import { ArrowLeft } from 'lucide-react';
 
 export const metadata = {
   title: 'Disclaimer | VTP Blue Waters',
-  description: 'Disclaimer for VTP Blue Waters.'};
+  description: 'Disclaimer for VTP Blue Waters.',
+  robots: { index: false, follow: false },
+};
 
 export default function DisclaimerPage() {
   const lang = 'en';

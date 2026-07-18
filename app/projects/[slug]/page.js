@@ -38,12 +38,25 @@ export async function generateMetadata({ params }) {
       'max-video-preview': -1,
     },
     alternates: {
-      canonical: `https://vtpbluewaters.com/projects/${project.slug}`},
+      canonical: `https://vtpbluewaters.com/projects/${project.slug}`
+    },
     openGraph: {
       title: project.seoTitle,
       description: project.seoDescription,
+      url: `https://vtpbluewaters.com/projects/${project.slug}`,
+      siteName: 'VTP Blue Waters',
+      locale: 'en_IN',
+      type: 'website',
+      images: [{ url: project.image, width: 1200, height: 630, alt: project.name }],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      site: '@VTPRealty',
+      title: project.seoTitle,
+      description: project.seoDescription,
       images: [project.image],
-      type: 'website'}};
+    },
+  };
 }
 
 function generateJsonLd(project, lang) {

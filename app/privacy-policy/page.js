@@ -4,7 +4,9 @@ import { ArrowLeft } from 'lucide-react';
 
 export const metadata = {
   title: 'Privacy Policy | VTP Blue Waters',
-  description: 'Privacy Policy for VTP Blue Waters.'};
+  description: 'Privacy Policy for VTP Blue Waters.',
+  robots: { index: false, follow: false },
+};
 
 export default function PrivacyPolicyPage() {
   const lang = 'en';

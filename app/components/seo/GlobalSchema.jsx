@@ -396,8 +396,8 @@ export default function GlobalSchema() {
         "@type": "Event",
         "name": "VTP Blue Waters Weekend Site Visit",
         "description": "Experience VTP Blue Waters in person. Join our weekend open-house site visits and tour the sample flat, amenities, and riverfront promenade of Pune's most prestigious luxury township.",
-        "startDate": "2025-01-01",
-        "endDate": "2026-12-31",
+        "startDate": "2026-07-01",
+        "endDate": "2027-12-31",
         "eventSchedule": {
           "@type": "Schedule",
           "byDay": ["Saturday", "Sunday"],
