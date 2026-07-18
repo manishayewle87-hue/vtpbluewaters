@@ -12,7 +12,6 @@ import WhatsAppWidget from '@/app/components/ui/WhatsAppWidget';
 import ExitIntentModal from '@/app/components/ui/ExitIntentModal';
 import Clarity from '@/app/components/analytics/Clarity';
 import MobileBottomBar from '@/app/components/ui/MobileBottomBar';
-import CanonicalHreflang from '@/app/components/seo/CanonicalHreflang';
 import ReCaptchaProvider from '@/app/components/providers/ReCaptchaProvider';
 
 const inter = Inter({ 

@@ -294,7 +294,6 @@ export default async function LocationPage({ params }) {
           );
         })()}
       </div>
-    </div>
   );
 }
 

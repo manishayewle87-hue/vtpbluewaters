@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { cms } from '@/app/services/cms';
 import { generateStrategicContent } from '@/app/services/contentEngine';
+import { generateDeterministicRating } from '@/app/services/seoContentEngine';
 import ProjectTabs from '@/app/components/project/ProjectTabs';
 import ProjectAmenities from '@/app/components/project/ProjectAmenities';
 import ProjectSpecs from '@/app/components/project/ProjectSpecs';
