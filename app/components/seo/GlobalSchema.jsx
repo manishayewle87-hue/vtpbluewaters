@@ -7,7 +7,7 @@ import React from 'react';
  * - Organization (VTP Realty)
  * - WebSite with SearchAction (sitelinks search box)
  * - RealEstateAgent with full NAP (Name, Address, Phone)
- * - Place (VTP Bluewaters Township)
+ * - Place (VTP Blue Waters Township)
  * - ApartmentComplex (the flagship township entity)
  * 
  * This tells Google's Knowledge Graph exactly how VTP Realty
@@ -68,8 +68,8 @@ export default function GlobalSchema() {
         "@type": "WebSite",
         "@id": "https://vtpbluewaters.com/#website",
         "url": "https://vtpbluewaters.com/",
-        "name": "VTP Bluewaters",
-        "description": "Official website for VTP Bluewaters — a 200+ acre luxury township in Mahalunge, West Pune by VTP Realty.",
+        "name": "VTP Blue Waters",
+        "description": "Official website for VTP Blue Waters — a 200+ acre luxury township in Mahalunge, West Pune by VTP Realty.",
         "publisher": {
           "@id": "https://vtpbluewaters.com/#organization"
         },
@@ -94,7 +94,7 @@ export default function GlobalSchema() {
         "priceRange": "₹₹₹₹",
         "address": {
           "@type": "PostalAddress",
-          "streetAddress": "Site Office: VTP Bluewaters Township, Mahalunge",
+          "streetAddress": "Site Office: VTP Blue Waters Township, Mahalunge",
           "addressLocality": "Pune",
           "postalCode": "411045",
           "addressRegion": "Maharashtra",
@@ -116,11 +116,11 @@ export default function GlobalSchema() {
         }
       },
 
-      // ─── Place: VTP Bluewaters Township ───
+      // ─── Place: VTP Blue Waters Township ───
       {
         "@type": "Place",
         "@id": "https://vtpbluewaters.com/#place",
-        "name": "VTP Bluewaters Township",
+        "name": "VTP Blue Waters Township",
         "description": "A 200+ acre luxury township in Mahalunge, West Pune featuring premium 1, 2, 3, 4, 5, and 6 BHK residences and villas with resort-grade amenities.",
         "address": {
           "@type": "PostalAddress",
@@ -150,8 +150,8 @@ export default function GlobalSchema() {
       {
         "@type": "ApartmentComplex",
         "@id": "https://vtpbluewaters.com/#township",
-        "name": "VTP Bluewaters",
-        "description": "VTP Bluewaters is a master-planned 200+ acre luxury township in Mahalunge, West Pune, featuring a 1KM riverfront promenade, world-class high-street retail, and multiple residential phases.",
+        "name": "VTP Blue Waters",
+        "description": "VTP Blue Waters is a master-planned 200+ acre luxury township in Mahalunge, West Pune, featuring a 1KM riverfront promenade, world-class high-street retail, and multiple residential phases.",
         "url": "https://vtpbluewaters.com/en/township",
         "image": "https://vtpbluewaters.com/logo.svg",
         "numberOfAvailableAccommodationUnits": {

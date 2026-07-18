@@ -18,7 +18,7 @@ export default function TownshipHero() {
       <motion.div style={{ y, opacity }} className="absolute inset-0 z-0">
         <Image
           src="/images/real_vtp/earth_one_hero.jpg"
-          alt="VTP Bluewaters Township Aerial View"
+          alt="VTP Blue Waters Township Aerial View"
           fill
           className="object-cover"
           priority

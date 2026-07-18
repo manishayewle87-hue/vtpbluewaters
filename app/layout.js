@@ -36,25 +36,25 @@ export const viewport = {
 };
 
 export const metadata = {
-  title: 'VTP Bluewaters Mahalunge | Luxury 2, 3 & 4 BHK Flats in Pune',
-  description: 'Looking for luxury flats in Pune? Discover VTP Bluewaters in Mahalunge. Premium 2, 3, 4 & 5 BHK apartments, duplexes, and villas. View Floor Plans, Prices & Offers.',
+  title: 'VTP Blue Waters Mahalunge | Luxury 2, 3 & 4 BHK Flats in Pune',
+  description: 'Looking for luxury flats in Pune? Discover VTP Blue Waters in Mahalunge. Premium 2, 3, 4 & 5 BHK apartments, duplexes, and villas. View Floor Plans, Prices & Offers.',
   appleWebApp: {
     capable: true,
-    title: 'VTP Bluewaters',
+    title: 'VTP Blue Waters',
     statusBarStyle: 'black-translucent'
   },
   metadataBase: new URL('https://vtpbluewaters.com'),
   openGraph: {
-    title: 'VTP Bluewaters Mahalunge | Luxury 2, 3 & 4 BHK Flats in Pune',
-    description: 'Looking for luxury flats in Pune? Discover VTP Bluewaters in Mahalunge. Premium 2, 3, 4 & 5 BHK apartments. View Floor Plans, Prices & Offers.',
-    siteName: 'VTP BLUEWATERS',
+    title: 'VTP Blue Waters Mahalunge | Luxury 2, 3 & 4 BHK Flats in Pune',
+    description: 'Looking for luxury flats in Pune? Discover VTP Blue Waters in Mahalunge. Premium 2, 3, 4 & 5 BHK apartments. View Floor Plans, Prices & Offers.',
+    siteName: 'VTP BLUE WATERS',
     type: 'website',
     images: ['/assets/projects/earth-1/hero.jpg']
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'VTP Bluewaters Mahalunge | Luxury 2, 3 & 4 BHK Flats in Pune',
-    description: 'Discover VTP Bluewaters in Mahalunge. Premium luxury apartments in Pune. View Floor Plans & Prices.',
+    title: 'VTP Blue Waters Mahalunge | Luxury 2, 3 & 4 BHK Flats in Pune',
+    description: 'Discover VTP Blue Waters in Mahalunge. Premium luxury apartments in Pune. View Floor Plans & Prices.',
     images: ['/assets/projects/earth-1/hero.jpg']
   },
   verification: {

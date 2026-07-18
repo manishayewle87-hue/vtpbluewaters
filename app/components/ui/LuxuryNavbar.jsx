@@ -69,7 +69,7 @@ export default function LuxuryNavbar() {
   if (isIntentLandingPage) {
     return (
       <header className="absolute top-0 w-full z-50 py-5 lg:py-10 flex justify-center bg-luxury-navy/80 backdrop-blur-xl border-b border-white/5">
-        <Link href="/" title="VTP Bluewaters Home">
+        <Link href="/" title="VTP Blue Waters Home">
           <Logo className="w-32 md:w-48 h-auto" />
         </Link>
       </header>
@@ -88,7 +88,7 @@ export default function LuxuryNavbar() {
         onMouseLeave={() => setActiveDropdown(null)}
       >
         <div className="container mx-auto px-6 lg:px-12 flex justify-between items-center relative">
-          <Link href="/" title="VTP Bluewaters Home" className="flex items-center flex-shrink-0 z-50 relative">
+          <Link href="/" title="VTP Blue Waters Home" className="flex items-center flex-shrink-0 z-50 relative">
             <Logo className="w-36 md:w-52 lg:w-80 h-auto" />
           </Link>
           

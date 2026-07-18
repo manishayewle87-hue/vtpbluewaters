@@ -3,8 +3,8 @@ import { ArrowLeft, Scale, CheckCircle2, ShieldAlert, Layout } from 'lucide-reac
 import EnquiryForm from '@/app/components/project/EnquiryForm';
 
 export const metadata = {
-  title: 'VTP Bluewaters vs Competitors in Mahalunge | Honest Review 2026',
-  description: 'An objective, data-driven comparison of VTP Bluewaters vs Godrej Hillside and other competitors in Mahalunge. Discover why the Township Model beats the Cluster Model.',
+  title: 'VTP Blue Waters vs Competitors in Mahalunge | Honest Review 2026',
+  description: 'An objective, data-driven comparison of VTP Blue Waters vs Godrej Hillside and other competitors in Mahalunge. Discover why the Township Model beats the Cluster Model.',
   alternates: {
     canonical: 'https://vtpbluewaters.com/market-intelligence/vtp-bluewaters-vs-competitors'
   }
@@ -14,8 +14,8 @@ export default function CompetitorComparison() {
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "VTP Bluewaters vs Competitors: The Ultimate Mahalunge Comparison",
-    "description": "A deep dive comparing VTP Bluewaters (Earth One, Leonara) against Godrej Hillside and other premium projects in West Pune.",
+    "headline": "VTP Blue Waters vs Competitors: The Ultimate Mahalunge Comparison",
+    "description": "A deep dive comparing VTP Blue Waters (Earth One, Leonara) against Godrej Hillside and other premium projects in West Pune.",
     "author": {
       "@type": "Organization",
       "name": "VTP Realty Insights"
@@ -36,10 +36,10 @@ export default function CompetitorComparison() {
     "mainEntity": [
       {
         "@type": "Question",
-        "name": "VTP Bluewaters vs Godrej Hillside: Which is better?",
+        "name": "VTP Blue Waters vs Godrej Hillside: Which is better?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "While both are premium projects in Mahalunge, VTP Bluewaters offers a massive 100-acre integrated township lifestyle with superior 'Maximum Livable Area' layouts, whereas Godrej Hillside is a smaller, cluster-based development."
+          "text": "While both are premium projects in Mahalunge, VTP Blue Waters offers a massive 100-acre integrated township lifestyle with superior 'Maximum Livable Area' layouts, whereas Godrej Hillside is a smaller, cluster-based development."
         }
       },
       {
@@ -70,7 +70,7 @@ export default function CompetitorComparison() {
               <Scale size={16} /> Market Intelligence Comparison
             </div>
             <h1 className="text-4xl md:text-5xl font-display font-light mb-6 text-white leading-tight">
-              VTP Bluewaters vs Competitors:<br/>The Definitive Mahalunge Guide
+              VTP Blue Waters vs Competitors:<br/>The Definitive Mahalunge Guide
             </h1>
           </div>
         </header>
@@ -86,7 +86,7 @@ export default function CompetitorComparison() {
                     If you are searching for <em>luxury apartments in Mahalunge</em>, you have likely narrowed your choices down to a few major developers. The most common dilemma faced by homebuyers at the final stage of decision-making is choosing between massive township projects and smaller, premium clusters.
                   </p>
                   <p>
-                    A very frequent search is <strong>"VTP Bluewaters vs Godrej Hillside"</strong>. While both developers are highly reputable and operate in the exact same micro-market, their architectural philosophies and lifestyle offerings are fundamentally different. Let's look at the objective data.
+                    A very frequent search is <strong>"VTP Blue Waters vs Godrej Hillside"</strong>. While both developers are highly reputable and operate in the exact same micro-market, their architectural philosophies and lifestyle offerings are fundamentally different. Let's look at the objective data.
                   </p>
 
                   <div className="my-10 grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -120,16 +120,16 @@ export default function CompetitorComparison() {
                     </li>
                   </ul>
 
-                  <h2>VTP Bluewaters vs Godrej Hillside: The Verdict</h2>
+                  <h2>VTP Blue Waters vs Godrej Hillside: The Verdict</h2>
                   <p>
-                    Godrej Hillside is an excellent choice for those purely seeking brand heritage in a standard premium complex. However, if you are looking for an <strong>expansive lifestyle upgrade</strong>—one that offers riverside promenades, multiple Olympic-length pools, and a true "city-within-a-city" feel—VTP Bluewaters (Earth One, Leonara, Bel Air) is objectively superior in scale.
+                    Godrej Hillside is an excellent choice for those purely seeking brand heritage in a standard premium complex. However, if you are looking for an <strong>expansive lifestyle upgrade</strong>—one that offers riverside promenades, multiple Olympic-length pools, and a true "city-within-a-city" feel—VTP Blue Waters (Earth One, Leonara, Bel Air) is objectively superior in scale.
                   </p>
 
                   <h2 className="mt-16 border-t border-white/10 pt-12">Frequently Asked Questions</h2>
                   <div className="space-y-8 mt-8">
                     <div>
-                      <h4 className="text-xl text-white font-medium mb-2">VTP Bluewaters vs Godrej Hillside: Which is better?</h4>
-                      <p className="text-luxury-silver">While both are premium projects in Mahalunge, VTP Bluewaters offers a massive 100-acre integrated township lifestyle with superior 'Maximum Livable Area' layouts, whereas Godrej Hillside is a smaller, cluster-based development.</p>
+                      <h4 className="text-xl text-white font-medium mb-2">VTP Blue Waters vs Godrej Hillside: Which is better?</h4>
+                      <p className="text-luxury-silver">While both are premium projects in Mahalunge, VTP Blue Waters offers a massive 100-acre integrated township lifestyle with superior 'Maximum Livable Area' layouts, whereas Godrej Hillside is a smaller, cluster-based development.</p>
                     </div>
                     <div>
                       <h4 className="text-xl text-white font-medium mb-2">Why is VTP's Maximum Livable Area (MLA) better than standard layouts?</h4>

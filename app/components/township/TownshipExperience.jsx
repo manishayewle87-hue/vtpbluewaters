@@ -20,7 +20,7 @@ export default function TownshipExperience() {
           </h2>
           <p className="text-luxury-silver text-lg font-light leading-relaxed">
             Immerse yourself in sprawling green lungs and a meticulously crafted riverfront. 
-            VTP Bluewaters is designed to elevate your everyday living into a resort-like experience.
+            VTP Blue Waters is designed to elevate your everyday living into a resort-like experience.
           </p>
         </motion.div>
 
@@ -64,7 +64,7 @@ export default function TownshipExperience() {
           >
             <Image
               src="/images/real_vtp/flamante_hero.jpg"
-              alt="VTP Bluewaters Central Garden"
+              alt="VTP Blue Waters Central Garden"
               fill
               className="object-cover hover:scale-105 transition-transform duration-[2s] ease-out"
             />

@@ -9,7 +9,7 @@ export default function Logo({ className }) {
       fill="none" 
       xmlns="http://www.w3.org/2000/svg"
       role="img"
-      aria-label="VTP BLUEWATERS Logo"
+      aria-label="VTP BLUE WATERS Logo"
     >
       {/* --- VTP REALTY GRAPHIC MARK --- */}
       <g transform="translate(0, 5)">

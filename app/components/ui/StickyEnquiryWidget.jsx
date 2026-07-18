@@ -119,7 +119,7 @@ export default function StickyEnquiryWidget() {
                     headers: { 'Content-Type': 'application/json' },
                     body: JSON.stringify({
                       subject: `🚨 Sticky Widget Lead: ${data.name || 'Visitor'}`,
-                      from_name: 'VTP Bluewaters Leads',
+                      from_name: 'VTP Blue Waters Leads',
                       replyto: data.email,
                       recaptchaToken,
                       ...data

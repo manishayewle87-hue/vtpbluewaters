@@ -3,8 +3,8 @@ import { ArrowLeft } from 'lucide-react';
 
 
 export const metadata = {
-  title: 'Terms of Use | VTP Bluewaters',
-  description: 'Terms of Use for VTP Bluewaters.'};
+  title: 'Terms of Use | VTP Blue Waters',
+  description: 'Terms of Use for VTP Blue Waters.'};
 
 export default function TermsOfUsePage() {
   const lang = 'en';

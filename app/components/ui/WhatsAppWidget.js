@@ -19,7 +19,7 @@ export default function WhatsAppWidget() {
   const handleClick = (e) => {
     e.preventDefault();
     // Default message
-    let message = "Hi, I am interested in VTP Bluewaters. Could you please share the pricing and brochure?";
+    let message = "Hi, I am interested in VTP Blue Waters. Could you please share the pricing and brochure?";
     
     // If we are on a specific project page, we can dynamically grab the URL to give context to the sales team.
     if (typeof window !== 'undefined') {

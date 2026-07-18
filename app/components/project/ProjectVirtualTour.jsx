@@ -33,7 +33,7 @@ export default function ProjectVirtualTour({ tourImage, projectName }) {
             Virtual <span className="italic text-luxury-silver">Tour</span>
           </h2>
           <p className="text-luxury-silver max-w-2xl mx-auto font-light leading-relaxed">
-            Step inside {projectName || 'VTP Bluewaters'} and experience the unparalleled luxury of our sample residences in 360 degrees.
+            Step inside {projectName || 'VTP Blue Waters'} and experience the unparalleled luxury of our sample residences in 360 degrees.
           </p>
         </motion.div>
 

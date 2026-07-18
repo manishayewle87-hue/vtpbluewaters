@@ -48,7 +48,7 @@ export default function Footer() {
             viewport={{ once: true }}
             className="lg:col-span-1"
           >
-            <Link href="/" title="VTP Bluewaters Home">
+            <Link href="/" title="VTP Blue Waters Home">
               <Logo className="w-48 mb-8 opacity-80 hover:opacity-100 transition-opacity" />
             </Link>
             <p className="text-sm text-luxury-silver font-light leading-relaxed mb-8">
@@ -126,7 +126,7 @@ export default function Footer() {
               <div>
                 <p className="text-luxury-caption text-luxury-silver mb-2">Site Office</p>
                 <p className="text-sm text-luxury-silver font-light leading-relaxed">
-                  VTP Bluewaters Township, Mahalunge-411045
+                  VTP Blue Waters Township, Mahalunge-411045
                 </p>
               </div>
             </div>
@@ -167,7 +167,7 @@ export default function Footer() {
                 </li>
                 <li>
                   <Link href="/market-intelligence/vtp-bluewaters-township-review" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed break-words">
-                    VTP Bluewaters Township Review
+                    VTP Blue Waters Township Review
                   </Link>
                 </li>
                 <li>
@@ -177,7 +177,7 @@ export default function Footer() {
                 </li>
                 <li>
                   <Link href="/market-intelligence/vtp-bluewaters-vs-competitors" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed break-words">
-                    VTP Bluewaters vs Competitors
+                    VTP Blue Waters vs Competitors
                   </Link>
                 </li>
                 <li>

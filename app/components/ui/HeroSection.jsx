@@ -90,7 +90,7 @@ export default function HeroSection() {
           >
             Township Codename
           </motion.div>
-          <h1 className="sr-only">VTP Bluewaters - Luxury 2, 3 & 4 BHK Flats in Mahalunge, Pune</h1>
+          <h1 className="sr-only">VTP Blue Waters - Luxury 2, 3 & 4 BHK Flats in Mahalunge, Pune</h1>
           <div className="flex justify-center" style={{ perspective: '500px' }} aria-hidden="true">
             {titleText.split('').map((char, i) => (
               <span 

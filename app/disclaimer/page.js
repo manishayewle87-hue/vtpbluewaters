@@ -3,8 +3,8 @@ import { ArrowLeft } from 'lucide-react';
 
 
 export const metadata = {
-  title: 'Disclaimer | VTP Bluewaters',
-  description: 'Disclaimer for VTP Bluewaters.'};
+  title: 'Disclaimer | VTP Blue Waters',
+  description: 'Disclaimer for VTP Blue Waters.'};
 
 export default function DisclaimerPage() {
   const lang = 'en';
@@ -21,7 +21,7 @@ export default function DisclaimerPage() {
         
         <div className="prose prose-invert prose-lg max-w-none prose-headings:font-display prose-headings:font-light prose-headings:text-luxury-white prose-p:text-luxury-silver prose-p:font-light">
           <p>
-            The information contained in this website is for general information purposes only. The information is provided by VTP Bluewaters and while we endeavour to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose.
+            The information contained in this website is for general information purposes only. The information is provided by VTP Blue Waters and while we endeavour to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose.
           </p>
           <h2>MahaRERA Registration</h2>
           <p>

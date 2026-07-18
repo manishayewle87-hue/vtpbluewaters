@@ -3,8 +3,8 @@ import { ArrowLeft } from 'lucide-react';
 
 
 export const metadata = {
-  title: 'Privacy Policy | VTP Bluewaters',
-  description: 'Privacy Policy for VTP Bluewaters.'};
+  title: 'Privacy Policy | VTP Blue Waters',
+  description: 'Privacy Policy for VTP Blue Waters.'};
 
 export default function PrivacyPolicyPage() {
   const lang = 'en';
@@ -21,7 +21,7 @@ export default function PrivacyPolicyPage() {
         
         <div className="prose prose-invert prose-lg max-w-none prose-headings:font-display prose-headings:font-light prose-headings:text-luxury-white prose-p:text-luxury-silver prose-p:font-light">
           <p>
-            Welcome to the VTP Bluewaters Privacy Policy page. We value your privacy and are committed to protecting your personal data.
+            Welcome to the VTP Blue Waters Privacy Policy page. We value your privacy and are committed to protecting your personal data.
           </p>
           <h2>1. Information We Collect</h2>
           <p>
@@ -29,7 +29,7 @@ export default function PrivacyPolicyPage() {
           </p>
           <h2>2. How We Use Your Information</h2>
           <p>
-            The information collected is used to provide you with the services you request, improve our website, and occasionally send you promotional information about VTP Bluewaters properties if you have opted in to receive them.
+            The information collected is used to provide you with the services you request, improve our website, and occasionally send you promotional information about VTP Blue Waters properties if you have opted in to receive them.
           </p>
           <h2>3. Data Security</h2>
           <p>

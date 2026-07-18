@@ -166,7 +166,7 @@ export default function ProjectFloorPlans({ floorPlans, projectName }) {
         isOpen={modalOpen} 
         onClose={() => setModalOpen(false)} 
         planType={selectedPlan}
-        projectName={projectName || 'VTP BLUEWATERS'}
+        projectName={projectName || 'VTP BLUE WATERS'}
       />
 
       <LightboxGallery 

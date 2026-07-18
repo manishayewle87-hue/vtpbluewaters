@@ -3,7 +3,7 @@ import { ArrowLeft, Globe, Shield, TrendingUp, Landmark } from 'lucide-react';
 import EnquiryForm from '@/app/components/project/EnquiryForm';
 
 export const metadata = {
-  title: 'NRI Real Estate Investment Guide Pune 2026 | VTP Bluewaters',
+  title: 'NRI Real Estate Investment Guide Pune 2026 | VTP Blue Waters',
   description: 'The ultimate 2026 guide for Non-Resident Indians (NRIs) investing in Pune real estate. Discover ROI, taxation, property management, and premium townships in Mahalunge.',
   alternates: {
     canonical: 'https://vtpbluewaters.com/investors/nri-investment-guide'
@@ -47,7 +47,7 @@ export default function NRIInvestmentGuide() {
         "name": "What are the best townships in Pune for NRI buyers?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Integrated mega-townships like VTP Bluewaters in Mahalunge are preferred by NRIs. They offer zero-encroachment security, massive scale amenities, and professional property management, making them ideal remote-managed assets."
+          "text": "Integrated mega-townships like VTP Blue Waters in Mahalunge are preferred by NRIs. They offer zero-encroachment security, massive scale amenities, and professional property management, making them ideal remote-managed assets."
         }
       }
     ]
@@ -108,7 +108,7 @@ export default function NRIInvestmentGuide() {
                     When executing a <em>Pune real estate NRI investment</em>, the primary concern is asset management. Standalone buildings require intensive micromanagement, security monitoring, and individual vendor handling.
                   </p>
                   <p>
-                    This is why queries for the <em>best townships in Pune for NRI buyers</em> have skyrocketed. Integrated ecosystems like <strong>VTP Bluewaters</strong> in Mahalunge provide a "lock-and-leave" lifestyle. With 24/7 multi-tier security, professional facility management, and zero encroachment risks, your asset is fiercely protected.
+                    This is why queries for the <em>best townships in Pune for NRI buyers</em> have skyrocketed. Integrated ecosystems like <strong>VTP Blue Waters</strong> in Mahalunge provide a "lock-and-leave" lifestyle. With 24/7 multi-tier security, professional facility management, and zero encroachment risks, your asset is fiercely protected.
                   </p>
 
                   <h2>Taxation & Repatriation (FEMA Guidelines)</h2>
@@ -134,7 +134,7 @@ export default function NRIInvestmentGuide() {
                     </div>
                     <div>
                       <h4 className="text-xl text-white font-medium mb-2">What are the best townships in Pune for NRI buyers?</h4>
-                      <p className="text-luxury-silver">Integrated mega-townships like VTP Bluewaters in Mahalunge are preferred by NRIs. They offer zero-encroachment security, massive scale amenities, and professional property management, making them ideal remote-managed assets.</p>
+                      <p className="text-luxury-silver">Integrated mega-townships like VTP Blue Waters in Mahalunge are preferred by NRIs. They offer zero-encroachment security, massive scale amenities, and professional property management, making them ideal remote-managed assets.</p>
                     </div>
                   </div>
                 </div>

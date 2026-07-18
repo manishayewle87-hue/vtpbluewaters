@@ -44,7 +44,7 @@ export default function InteractiveMap({ locationName }) {
         <Marker position={center}>
           <Popup>
             <div className="text-luxury-navy font-display font-medium">
-              VTP Bluewaters<br />{locationName}
+              VTP Blue Waters<br />{locationName}
             </div>
           </Popup>
         </Marker>

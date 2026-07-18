@@ -3,8 +3,8 @@ import { ArrowLeft, Star, ShieldCheck, Map } from 'lucide-react';
 import EnquiryForm from '@/app/components/project/EnquiryForm';
 
 export const metadata = {
-  title: 'VTP Bluewaters Township Review | Earth One, Leonara, Bel Air',
-  description: 'Comprehensive review of the VTP Bluewaters township. Detailed analysis of Earth One, Leonara, and Bel Air projects in Mahalunge, Pune.',
+  title: 'VTP Blue Waters Township Review | Earth One, Leonara, Bel Air',
+  description: 'Comprehensive review of the VTP Blue Waters township. Detailed analysis of Earth One, Leonara, and Bel Air projects in Mahalunge, Pune.',
   alternates: {
     canonical: 'https://vtpbluewaters.com/market-intelligence/vtp-bluewaters-township-review'
   }
@@ -14,8 +14,8 @@ export default function VtpBluewatersReview() {
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "VTP Bluewaters Township Review: Redefining Luxury in West Pune",
-    "description": "Comprehensive review of the VTP Bluewaters township and its premium projects: Earth One, Leonara, and Bel Air.",
+    "headline": "VTP Blue Waters Township Review: Redefining Luxury in West Pune",
+    "description": "Comprehensive review of the VTP Blue Waters township and its premium projects: Earth One, Leonara, and Bel Air.",
     "author": {
       "@type": "Organization",
       "name": "VTP Realty Insights"
@@ -44,10 +44,10 @@ export default function VtpBluewatersReview() {
       },
       {
         "@type": "Question",
-        "name": "What is the VTP Bluewaters possession date?",
+        "name": "What is the VTP Blue Waters possession date?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Different clusters within VTP Bluewaters have varying possession timelines. Projects like VTP Leonara and VTP Bel Air have specific phased handovers. Please download the brochure for the exact RERA dates."
+          "text": "Different clusters within VTP Blue Waters have varying possession timelines. Projects like VTP Leonara and VTP Bel Air have specific phased handovers. Please download the brochure for the exact RERA dates."
         }
       }
     ]
@@ -68,7 +68,7 @@ export default function VtpBluewatersReview() {
             </Link>
             <div className="text-luxury-label text-luxury-gold mb-4">Project Deep Dive</div>
             <h1 className="text-4xl md:text-5xl font-display font-light mb-6 text-white leading-tight">
-              VTP Bluewaters Review:<br/>Earth One, Leonara & Bel Air
+              VTP Blue Waters Review:<br/>Earth One, Leonara & Bel Air
             </h1>
           </div>
         </header>
@@ -81,7 +81,7 @@ export default function VtpBluewatersReview() {
                 <div className="prose prose-invert prose-lg max-w-none prose-headings:font-display prose-headings:font-light prose-h2:text-3xl prose-h2:text-luxury-gold prose-h3:text-2xl prose-h3:text-white prose-p:text-luxury-silver prose-p:font-light prose-p:leading-relaxed">
                   <h2>The Ultimate Township Lifestyle</h2>
                   <p>
-                    When evaluating a massive 100+ acre development, the most common search query is often: <em>"VTP Bluewaters review"</em> or <em>"Is VTP Bluewaters a good investment?"</em>. The answer lies in the fundamental architecture of the township itself. 
+                    When evaluating a massive 100+ acre development, the most common search query is often: <em>"VTP Blue Waters review"</em> or <em>"Is VTP Blue Waters a good investment?"</em>. The answer lies in the fundamental architecture of the township itself. 
                   </p>
                   <p>
                     Unlike isolated high-rises, **VTP Codename Blue Waters** is a meticulously planned city-within-a-city. It features distinct clusters, each catering to a specific lifestyle tier, unified by a central spine of world-class amenities, commercial avenues, and a sprawling riverside promenade.
@@ -121,12 +121,12 @@ export default function VtpBluewatersReview() {
                     A frequent search is for the <em>VTP Bel Air possession date</em> and <em>VTP Leonara resale price</em>. Because these phases were strategically launched, they offer excellent lifecycle visibility. Residents here gain access to the same 100+ acre township amenities—including massive clubhouses, multiple swimming pools, and sports academies—at highly competitive price points.
                   </p>
 
-                  <h2>VTP Bluewaters vs The Competition</h2>
+                  <h2>VTP Blue Waters vs The Competition</h2>
                   <p>
-                    In comparison to other <em>new residential projects in West Pune</em>, VTP Bluewaters wins on scale. While boutique developers offer premium finishes, they cannot replicate a 100-acre ecosystem. The sheer volume of amenities, combined with the strategic location on the Baner-Mahalunge road, makes it an unassailable asset class.
+                    In comparison to other <em>new residential projects in West Pune</em>, VTP Blue Waters wins on scale. While boutique developers offer premium finishes, they cannot replicate a 100-acre ecosystem. The sheer volume of amenities, combined with the strategic location on the Baner-Mahalunge road, makes it an unassailable asset class.
                   </p>
                   <p>
-                    For detailed metrics, we recommend requesting the <em>VTP Earth One brochure PDF</em> and the official <em>VTP Bluewaters booking process</em> guide to understand the payment plans and RERA compliance structures.
+                    For detailed metrics, we recommend requesting the <em>VTP Earth One brochure PDF</em> and the official <em>VTP Blue Waters booking process</em> guide to understand the payment plans and RERA compliance structures.
                   </p>
 
                   <h2 className="mt-16 border-t border-white/10 pt-12">Frequently Asked Questions</h2>
@@ -136,8 +136,8 @@ export default function VtpBluewatersReview() {
                       <p className="text-luxury-silver">Yes, VTP Earth One represents the pinnacle of luxury within the Bluewaters township. With 2, 3, and 4 BHK MLA configurations, it offers premium lifestyle amenities that command top rental rates from corporate executives in Hinjewadi.</p>
                     </div>
                     <div>
-                      <h4 className="text-xl text-white font-medium mb-2">What is the VTP Bluewaters possession date?</h4>
-                      <p className="text-luxury-silver">Different clusters within VTP Bluewaters have varying possession timelines. Projects like VTP Leonara and VTP Bel Air have specific phased handovers. Please download the brochure for the exact RERA dates.</p>
+                      <h4 className="text-xl text-white font-medium mb-2">What is the VTP Blue Waters possession date?</h4>
+                      <p className="text-luxury-silver">Different clusters within VTP Blue Waters have varying possession timelines. Projects like VTP Leonara and VTP Bel Air have specific phased handovers. Please download the brochure for the exact RERA dates.</p>
                     </div>
                   </div>
                 </div>

@@ -8,8 +8,8 @@ import Footer from '@/app/components/ui/Footer';
 
 
 export const metadata = {
-  title: 'VTP Bluewaters Township | 200+ Acres of Luxury in Pune',
-  description: 'Explore the masterplan of VTP Bluewaters, a sprawling 200+ acre luxury township in Mahalunge, West Pune. Featuring a 1KM riverfront promenade and world-class high street retail.'};
+  title: 'VTP Blue Waters Township | 200+ Acres of Luxury in Pune',
+  description: 'Explore the masterplan of VTP Blue Waters, a sprawling 200+ acre luxury township in Mahalunge, West Pune. Featuring a 1KM riverfront promenade and world-class high street retail.'};
 
 export default function TownshipPage() {
   const lang = 'en';

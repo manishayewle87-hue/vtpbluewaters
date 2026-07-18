@@ -37,10 +37,10 @@ export async function POST(request) {
     });
 
     const mailOptions = {
-      from: `VTP Bluewaters Leads <${process.env.EMAIL_USER || 'propsmartrealty@gmail.com'}>`,
+      from: `VTP Blue Waters Leads <${process.env.EMAIL_USER || 'propsmartrealty@gmail.com'}>`,
       to: 'propsmartrealty@gmail.com',
       replyTo: data.email,
-      subject: `🚨 New Lead: ${data.name || 'Visitor'} — ${data.project || 'VTP Bluewaters'}`,
+      subject: `🚨 New Lead: ${data.name || 'Visitor'} — ${data.project || 'VTP Blue Waters'}`,
       html: `
         <h2>New Lead Details</h2>
         <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%; max-width: 600px; font-family: sans-serif;">
@@ -78,7 +78,7 @@ export async function POST(request) {
           </tr>` : ''}
         </table>
         <br/>
-        <p style="color: #666; font-size: 12px;">This lead was generated from your VTP Bluewaters website.</p>
+        <p style="color: #666; font-size: 12px;">This lead was generated from your VTP Blue Waters website.</p>
       `
     };
 

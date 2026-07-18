@@ -83,7 +83,7 @@ export default function TownshipOverview() {
                 <span className="italic text-luxury-silver">A City</span>
               </h2>
               <p className="text-luxury-silver font-light text-editorial leading-relaxed max-w-lg">
-                Spanning over 200 acres, VTP BLUEWATERS is Pune&apos;s most ambitious township. A meticulously planned ecosystem that integrates residential luxury, commercial hubs, and nature.
+                Spanning over 200 acres, VTP BLUE WATERS is Pune&apos;s most ambitious township. A meticulously planned ecosystem that integrates residential luxury, commercial hubs, and nature.
               </p>
             </div>
 

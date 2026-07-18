@@ -4,20 +4,20 @@ import { motion, AnimatePresence } from 'framer-motion';
 
 const faqs = [
   {
-    question: "What is VTP Bluewaters Township?",
-    answer: "VTP Bluewaters is a 200+ acre premium residential and commercial township located in Mahalunge, West Pune. It is developed by VTP Realty and features multiple luxury clusters like VTP Aethereus, VTP Bel Air, and VTP Leonara."
+    question: "What is VTP Blue Waters Township?",
+    answer: "VTP Blue Waters is a 200+ acre premium residential and commercial township located in Mahalunge, West Pune. It is developed by VTP Realty and features multiple luxury clusters like VTP Aethereus, VTP Bel Air, and VTP Leonara."
   },
   {
-    question: "Is VTP Bluewaters registered with MahaRERA?",
-    answer: "Yes, all individual projects within the VTP Bluewaters township are registered with MahaRERA. The registration numbers are available on the respective project detail pages and the official MahaRERA website."
+    question: "Is VTP Blue Waters registered with MahaRERA?",
+    answer: "Yes, all individual projects within the VTP Blue Waters township are registered with MahaRERA. The registration numbers are available on the respective project detail pages and the official MahaRERA website."
   },
   {
-    question: "What amenities are available at VTP Bluewaters?",
+    question: "What amenities are available at VTP Blue Waters?",
     answer: "The township boasts world-class amenities including Olympic-length infinity pools, 5-star clubhouses, high-street retail, a professional sports academy, zen meditation gardens, and over 50% open green spaces."
   },
   {
-    question: "Where is VTP Bluewaters located in Pune?",
-    answer: "VTP Bluewaters is strategically located in Mahalunge, seamlessly connecting Hinjawadi Phase 1 with Baner. It offers excellent connectivity to major IT parks, international schools, and the upcoming Metro."
+    question: "Where is VTP Blue Waters located in Pune?",
+    answer: "VTP Blue Waters is strategically located in Mahalunge, seamlessly connecting Hinjawadi Phase 1 with Baner. It offers excellent connectivity to major IT parks, international schools, and the upcoming Metro."
   },
   {
     question: "What configurations are available?",

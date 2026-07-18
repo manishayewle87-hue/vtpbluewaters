@@ -2,7 +2,7 @@ export const seoSilos = [
   {
     "id": "location-mahalunge",
     "title": "Mahalunge Real Estate & Properties",
-    "description": "VTP Bluewaters in Mahalunge is West Pune's most prestigious 200+ acre luxury township.",
+    "description": "VTP Blue Waters in Mahalunge is West Pune's most prestigious 200+ acre luxury township.",
     "slugs": [
       {
         "slug": "luxury-apartments-in-mahalunge",
@@ -17299,620 +17299,620 @@ export const seoSilos = [
   },
   {
     "id": "project-vtp-bluewaters",
-    "title": "VTP Bluewaters Project Details",
-    "description": "VTP Bluewaters is a 200+ acre mega township in Mahalunge featuring premium 1, 2, 3 & 4 BHK residences.",
+    "title": "VTP Blue Waters Project Details",
+    "description": "VTP Blue Waters is a 200+ acre mega township in Mahalunge featuring premium 1, 2, 3 & 4 BHK residences.",
     "slugs": [
       {
         "slug": "vtp-bluewaters-township-mahalunge",
-        "keyword": "VTP Bluewaters Township Mahalunge"
+        "keyword": "VTP Blue Waters Township Mahalunge"
       },
       {
         "slug": "vtp-bluewaters-price",
-        "keyword": "VTP Bluewaters Price"
+        "keyword": "VTP Blue Waters Price"
       },
       {
         "slug": "vtp-bluewaters-floor-plan",
-        "keyword": "VTP Bluewaters Floor Plan"
+        "keyword": "VTP Blue Waters Floor Plan"
       },
       {
         "slug": "vtp-bluewaters-brochure",
-        "keyword": "VTP Bluewaters Brochure"
+        "keyword": "VTP Blue Waters Brochure"
       },
       {
         "slug": "vtp-bluewaters-reviews",
-        "keyword": "VTP Bluewaters Reviews"
+        "keyword": "VTP Blue Waters Reviews"
       },
       {
         "slug": "vtp-bluewaters-location",
-        "keyword": "VTP Bluewaters Location"
+        "keyword": "VTP Blue Waters Location"
       },
       {
         "slug": "vtp-bluewaters-construction-status",
-        "keyword": "VTP Bluewaters Construction Status"
+        "keyword": "VTP Blue Waters Construction Status"
       },
       {
         "slug": "vtp-bluewaters-sample-flat",
-        "keyword": "VTP Bluewaters Sample Flat"
+        "keyword": "VTP Blue Waters Sample Flat"
       },
       {
         "slug": "vtp-bluewaters-master-plan",
-        "keyword": "VTP Bluewaters Master Plan"
+        "keyword": "VTP Blue Waters Master Plan"
       },
       {
         "slug": "vtp-bluewaters-investment",
-        "keyword": "VTP Bluewaters Investment"
+        "keyword": "VTP Blue Waters Investment"
       },
       {
         "slug": "vtp-bluewaters-2-bhk",
-        "keyword": "VTP Bluewaters 2 BHK"
+        "keyword": "VTP Blue Waters 2 BHK"
       },
       {
         "slug": "vtp-bluewaters-3-bhk",
-        "keyword": "VTP Bluewaters 3 BHK"
+        "keyword": "VTP Blue Waters 3 BHK"
       },
       {
         "slug": "vtp-bluewaters-4-bhk",
-        "keyword": "VTP Bluewaters 4 BHK"
+        "keyword": "VTP Blue Waters 4 BHK"
       },
       {
         "slug": "vtp-bluewaters-possession-date",
-        "keyword": "VTP Bluewaters Possession Date"
+        "keyword": "VTP Blue Waters Possession Date"
       },
       {
         "slug": "vtp-bluewaters-rera-number",
-        "keyword": "VTP Bluewaters RERA Number"
+        "keyword": "VTP Blue Waters RERA Number"
       },
       {
         "slug": "vtp-bluewaters-contact-number",
-        "keyword": "VTP Bluewaters Contact Number"
+        "keyword": "VTP Blue Waters Contact Number"
       },
       {
         "slug": "vtp-bluewaters-latest-photos",
-        "keyword": "VTP Bluewaters Latest Photos"
+        "keyword": "VTP Blue Waters Latest Photos"
       },
       {
         "slug": "vtp-bluewaters-township-layout",
-        "keyword": "VTP Bluewaters Township Layout"
+        "keyword": "VTP Blue Waters Township Layout"
       },
       {
         "slug": "vtp-bluewaters-amenities",
-        "keyword": "VTP Bluewaters Amenities"
+        "keyword": "VTP Blue Waters Amenities"
       },
       {
         "slug": "vtp-bluewaters-maximum-livable-area",
-        "keyword": "VTP Bluewaters Maximum Livable Area"
+        "keyword": "VTP Blue Waters Maximum Livable Area"
       },
       {
         "slug": "vtp-bluewaters-vs-godrej-hillside",
-        "keyword": "VTP Bluewaters vs Godrej Hillside"
+        "keyword": "VTP Blue Waters vs Godrej Hillside"
       },
       {
         "slug": "vtp-bluewaters-vs-competitors",
-        "keyword": "VTP Bluewaters vs Competitors"
+        "keyword": "VTP Blue Waters vs Competitors"
       },
       {
         "slug": "vtp-bluewaters-nri-investment",
-        "keyword": "VTP Bluewaters NRI Investment"
+        "keyword": "VTP Blue Waters NRI Investment"
       },
       {
         "slug": "vtp-bluewaters-resale",
-        "keyword": "VTP Bluewaters Resale"
+        "keyword": "VTP Blue Waters Resale"
       },
       {
         "slug": "vtp-bluewaters-rent",
-        "keyword": "VTP Bluewaters Rent"
+        "keyword": "VTP Blue Waters Rent"
       },
       {
         "slug": "vtp-bluewaters-floor-plan-pdf",
-        "keyword": "VTP Bluewaters Floor Plan PDF"
+        "keyword": "VTP Blue Waters Floor Plan PDF"
       },
       {
         "slug": "vtp-bluewaters-walkthrough-video",
-        "keyword": "VTP Bluewaters Walkthrough Video"
+        "keyword": "VTP Blue Waters Walkthrough Video"
       },
       {
         "slug": "vtp-bluewaters-smart-homes",
-        "keyword": "VTP Bluewaters Smart Homes"
+        "keyword": "VTP Blue Waters Smart Homes"
       },
       {
         "slug": "vtp-bluewaters-it-park-proximity",
-        "keyword": "VTP Bluewaters IT Park Proximity"
+        "keyword": "VTP Blue Waters IT Park Proximity"
       },
       {
         "slug": "vtp-bluewaters-pre-emi-offer",
-        "keyword": "VTP Bluewaters Pre EMI Offer"
+        "keyword": "VTP Blue Waters Pre EMI Offer"
       },
       {
         "slug": "what-is-the-price-of-vtp-bluewaters",
-        "keyword": "What is the price of VTP Bluewaters"
+        "keyword": "What is the price of VTP Blue Waters"
       },
       {
         "slug": "is-it-good-to-invest-in-vtp-bluewaters",
-        "keyword": "Is it good to invest in VTP Bluewaters"
+        "keyword": "Is it good to invest in VTP Blue Waters"
       },
       {
         "slug": "honest-reviews-of-vtp-bluewaters",
-        "keyword": "Honest reviews of VTP Bluewaters"
+        "keyword": "Honest reviews of VTP Blue Waters"
       },
       {
         "slug": "exact-location-of-vtp-bluewaters",
-        "keyword": "Exact location of VTP Bluewaters"
+        "keyword": "Exact location of VTP Blue Waters"
       },
       {
         "slug": "when-is-the-possession-date-for-vtp-bluewaters",
-        "keyword": "When is the possession date for VTP Bluewaters"
+        "keyword": "When is the possession date for VTP Blue Waters"
       },
       {
         "slug": "how-to-book-a-flat-in-vtp-bluewaters",
-        "keyword": "How to book a flat in VTP Bluewaters"
+        "keyword": "How to book a flat in VTP Blue Waters"
       },
       {
         "slug": "distance-from-it-park-to-vtp-bluewaters",
-        "keyword": "Distance from IT Park to VTP Bluewaters"
+        "keyword": "Distance from IT Park to VTP Blue Waters"
       },
       {
         "slug": "latest-construction-update-of-vtp-bluewaters",
-        "keyword": "Latest construction update of VTP Bluewaters"
+        "keyword": "Latest construction update of VTP Blue Waters"
       },
       {
         "slug": "rera-registration-details-for-vtp-bluewaters",
-        "keyword": "RERA registration details for VTP Bluewaters"
+        "keyword": "RERA registration details for VTP Blue Waters"
       },
       {
         "slug": "download-brochure-pdf-for-vtp-bluewaters",
-        "keyword": "Download brochure PDF for VTP Bluewaters"
+        "keyword": "Download brochure PDF for VTP Blue Waters"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-mahalunge",
-        "keyword": "VTP Bluewaters for buyers in Mahalunge"
+        "keyword": "VTP Blue Waters for buyers in Mahalunge"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-hinjawadi",
-        "keyword": "VTP Bluewaters for buyers in Hinjawadi"
+        "keyword": "VTP Blue Waters for buyers in Hinjawadi"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-baner",
-        "keyword": "VTP Bluewaters for buyers in Baner"
+        "keyword": "VTP Blue Waters for buyers in Baner"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-kharadi",
-        "keyword": "VTP Bluewaters for buyers in Kharadi"
+        "keyword": "VTP Blue Waters for buyers in Kharadi"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-hinjewadi-phase-1",
-        "keyword": "VTP Bluewaters for buyers in Hinjewadi Phase 1"
+        "keyword": "VTP Blue Waters for buyers in Hinjewadi Phase 1"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-hinjewadi-phase-2",
-        "keyword": "VTP Bluewaters for buyers in Hinjewadi Phase 2"
+        "keyword": "VTP Blue Waters for buyers in Hinjewadi Phase 2"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-hinjewadi-phase-3",
-        "keyword": "VTP Bluewaters for buyers in Hinjewadi Phase 3"
+        "keyword": "VTP Blue Waters for buyers in Hinjewadi Phase 3"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-wipro-circle-hinjewadi",
-        "keyword": "VTP Bluewaters for buyers in Wipro Circle Hinjewadi"
+        "keyword": "VTP Blue Waters for buyers in Wipro Circle Hinjewadi"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-mahalunge-baner-bridge",
-        "keyword": "VTP Bluewaters for buyers in Mahalunge Baner Bridge"
+        "keyword": "VTP Blue Waters for buyers in Mahalunge Baner Bridge"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-mahalunge-high-tech-city",
-        "keyword": "VTP Bluewaters for buyers in Mahalunge High-Tech City"
+        "keyword": "VTP Blue Waters for buyers in Mahalunge High-Tech City"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-balewadi-stadium-vicinity",
-        "keyword": "VTP Bluewaters for buyers in Balewadi Stadium Vicinity"
+        "keyword": "VTP Blue Waters for buyers in Balewadi Stadium Vicinity"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-mahalunge-riverfront",
-        "keyword": "VTP Bluewaters for buyers in Mahalunge Riverfront"
+        "keyword": "VTP Blue Waters for buyers in Mahalunge Riverfront"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-sus-road-mahalunge",
-        "keyword": "VTP Bluewaters for buyers in Sus Road Mahalunge"
+        "keyword": "VTP Blue Waters for buyers in Sus Road Mahalunge"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-wakad",
-        "keyword": "VTP Bluewaters for buyers in Wakad"
+        "keyword": "VTP Blue Waters for buyers in Wakad"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-balewadi",
-        "keyword": "VTP Bluewaters for buyers in Balewadi"
+        "keyword": "VTP Blue Waters for buyers in Balewadi"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-tathawade",
-        "keyword": "VTP Bluewaters for buyers in Tathawade"
+        "keyword": "VTP Blue Waters for buyers in Tathawade"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-bavdhan",
-        "keyword": "VTP Bluewaters for buyers in Bavdhan"
+        "keyword": "VTP Blue Waters for buyers in Bavdhan"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-aundh",
-        "keyword": "VTP Bluewaters for buyers in Aundh"
+        "keyword": "VTP Blue Waters for buyers in Aundh"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-pashan",
-        "keyword": "VTP Bluewaters for buyers in Pashan"
+        "keyword": "VTP Blue Waters for buyers in Pashan"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-sus",
-        "keyword": "VTP Bluewaters for buyers in Sus"
+        "keyword": "VTP Blue Waters for buyers in Sus"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-kothrud",
-        "keyword": "VTP Bluewaters for buyers in Kothrud"
+        "keyword": "VTP Blue Waters for buyers in Kothrud"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-kalyani-nagar",
-        "keyword": "VTP Bluewaters for buyers in Kalyani Nagar"
+        "keyword": "VTP Blue Waters for buyers in Kalyani Nagar"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-koregaon-park",
-        "keyword": "VTP Bluewaters for buyers in Koregaon Park"
+        "keyword": "VTP Blue Waters for buyers in Koregaon Park"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-viman-nagar",
-        "keyword": "VTP Bluewaters for buyers in Viman Nagar"
+        "keyword": "VTP Blue Waters for buyers in Viman Nagar"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-magarpatta",
-        "keyword": "VTP Bluewaters for buyers in Magarpatta"
+        "keyword": "VTP Blue Waters for buyers in Magarpatta"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-hadapsar",
-        "keyword": "VTP Bluewaters for buyers in Hadapsar"
+        "keyword": "VTP Blue Waters for buyers in Hadapsar"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-wagholi",
-        "keyword": "VTP Bluewaters for buyers in Wagholi"
+        "keyword": "VTP Blue Waters for buyers in Wagholi"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-pcmc",
-        "keyword": "VTP Bluewaters for buyers in PCMC"
+        "keyword": "VTP Blue Waters for buyers in PCMC"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-ravet",
-        "keyword": "VTP Bluewaters for buyers in Ravet"
+        "keyword": "VTP Blue Waters for buyers in Ravet"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-punawale",
-        "keyword": "VTP Bluewaters for buyers in Punawale"
+        "keyword": "VTP Blue Waters for buyers in Punawale"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-moshi",
-        "keyword": "VTP Bluewaters for buyers in Moshi"
+        "keyword": "VTP Blue Waters for buyers in Moshi"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-undri",
-        "keyword": "VTP Bluewaters for buyers in Undri"
+        "keyword": "VTP Blue Waters for buyers in Undri"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-kondhwa",
-        "keyword": "VTP Bluewaters for buyers in Kondhwa"
+        "keyword": "VTP Blue Waters for buyers in Kondhwa"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-sinhagad-road",
-        "keyword": "VTP Bluewaters for buyers in Sinhagad Road"
+        "keyword": "VTP Blue Waters for buyers in Sinhagad Road"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-dhayari",
-        "keyword": "VTP Bluewaters for buyers in Dhayari"
+        "keyword": "VTP Blue Waters for buyers in Dhayari"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-nanded-city",
-        "keyword": "VTP Bluewaters for buyers in Nanded City"
+        "keyword": "VTP Blue Waters for buyers in Nanded City"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-pimple-saudagar",
-        "keyword": "VTP Bluewaters for buyers in Pimple Saudagar"
+        "keyword": "VTP Blue Waters for buyers in Pimple Saudagar"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-pimple-nilakh",
-        "keyword": "VTP Bluewaters for buyers in Pimple Nilakh"
+        "keyword": "VTP Blue Waters for buyers in Pimple Nilakh"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-chikhali",
-        "keyword": "VTP Bluewaters for buyers in Chikhali"
+        "keyword": "VTP Blue Waters for buyers in Chikhali"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-charholi",
-        "keyword": "VTP Bluewaters for buyers in Charholi"
+        "keyword": "VTP Blue Waters for buyers in Charholi"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-lohegaon",
-        "keyword": "VTP Bluewaters for buyers in Lohegaon"
+        "keyword": "VTP Blue Waters for buyers in Lohegaon"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-dhanori",
-        "keyword": "VTP Bluewaters for buyers in Dhanori"
+        "keyword": "VTP Blue Waters for buyers in Dhanori"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-vishrantwadi",
-        "keyword": "VTP Bluewaters for buyers in Vishrantwadi"
+        "keyword": "VTP Blue Waters for buyers in Vishrantwadi"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-karve-nagar",
-        "keyword": "VTP Bluewaters for buyers in Karve Nagar"
+        "keyword": "VTP Blue Waters for buyers in Karve Nagar"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-warje",
-        "keyword": "VTP Bluewaters for buyers in Warje"
+        "keyword": "VTP Blue Waters for buyers in Warje"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-talegaon",
-        "keyword": "VTP Bluewaters for buyers in Talegaon"
+        "keyword": "VTP Blue Waters for buyers in Talegaon"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-lonavala",
-        "keyword": "VTP Bluewaters for buyers in Lonavala"
+        "keyword": "VTP Blue Waters for buyers in Lonavala"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-west-pune",
-        "keyword": "VTP Bluewaters for buyers in West Pune"
+        "keyword": "VTP Blue Waters for buyers in West Pune"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-east-pune",
-        "keyword": "VTP Bluewaters for buyers in East Pune"
+        "keyword": "VTP Blue Waters for buyers in East Pune"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-pune-city",
-        "keyword": "VTP Bluewaters for buyers in Pune City"
+        "keyword": "VTP Blue Waters for buyers in Pune City"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-pcmc-region",
-        "keyword": "VTP Bluewaters for buyers in PCMC Region"
+        "keyword": "VTP Blue Waters for buyers in PCMC Region"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-dubai",
-        "keyword": "VTP Bluewaters for buyers in Dubai"
+        "keyword": "VTP Blue Waters for buyers in Dubai"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-singapore",
-        "keyword": "VTP Bluewaters for buyers in Singapore"
+        "keyword": "VTP Blue Waters for buyers in Singapore"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-london",
-        "keyword": "VTP Bluewaters for buyers in London"
+        "keyword": "VTP Blue Waters for buyers in London"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-new-york",
-        "keyword": "VTP Bluewaters for buyers in New York"
+        "keyword": "VTP Blue Waters for buyers in New York"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-san-francisco",
-        "keyword": "VTP Bluewaters for buyers in San Francisco"
+        "keyword": "VTP Blue Waters for buyers in San Francisco"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-sydney",
-        "keyword": "VTP Bluewaters for buyers in Sydney"
+        "keyword": "VTP Blue Waters for buyers in Sydney"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-melbourne",
-        "keyword": "VTP Bluewaters for buyers in Melbourne"
+        "keyword": "VTP Blue Waters for buyers in Melbourne"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-toronto",
-        "keyword": "VTP Bluewaters for buyers in Toronto"
+        "keyword": "VTP Blue Waters for buyers in Toronto"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-qatar",
-        "keyword": "VTP Bluewaters for buyers in Qatar"
+        "keyword": "VTP Blue Waters for buyers in Qatar"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-kuwait",
-        "keyword": "VTP Bluewaters for buyers in Kuwait"
+        "keyword": "VTP Blue Waters for buyers in Kuwait"
       },
       {
         "slug": "vtp-bluewaters-for-buyers-in-bahrain",
-        "keyword": "VTP Bluewaters for buyers in Bahrain"
+        "keyword": "VTP Blue Waters for buyers in Bahrain"
       },
       {
         "slug": "vtp-bluewaters-pune-smart-city-projects",
-        "keyword": "VTP Bluewaters - Pune Smart City Projects"
+        "keyword": "VTP Blue Waters - Pune Smart City Projects"
       },
       {
         "slug": "vtp-bluewaters-riverfront-living-pune",
-        "keyword": "VTP Bluewaters - Riverfront Living Pune"
+        "keyword": "VTP Blue Waters - Riverfront Living Pune"
       },
       {
         "slug": "vtp-bluewaters-high-roi-investment-pune",
-        "keyword": "VTP Bluewaters - High ROI Investment Pune"
+        "keyword": "VTP Blue Waters - High ROI Investment Pune"
       },
       {
         "slug": "vtp-bluewaters-zero-brokerage-flats-pune",
-        "keyword": "VTP Bluewaters - Zero Brokerage Flats Pune"
+        "keyword": "VTP Blue Waters - Zero Brokerage Flats Pune"
       },
       {
         "slug": "vtp-bluewaters-rera-registered-projects-pune",
-        "keyword": "VTP Bluewaters - RERA Registered Projects Pune"
+        "keyword": "VTP Blue Waters - RERA Registered Projects Pune"
       },
       {
         "slug": "vtp-bluewaters-best-areas-to-invest-in-pune-2026",
-        "keyword": "VTP Bluewaters - Best Areas to Invest in Pune 2026"
+        "keyword": "VTP Blue Waters - Best Areas to Invest in Pune 2026"
       },
       {
         "slug": "vtp-bluewaters-pune-real-estate-market-trends",
-        "keyword": "VTP Bluewaters - Pune Real Estate Market Trends"
+        "keyword": "VTP Blue Waters - Pune Real Estate Market Trends"
       },
       {
         "slug": "vtp-bluewaters-walk-to-work-homes-pune",
-        "keyword": "VTP Bluewaters - Walk-to-Work Homes Pune"
+        "keyword": "VTP Blue Waters - Walk-to-Work Homes Pune"
       },
       {
         "slug": "vtp-bluewaters-properties-near-pune-metro",
-        "keyword": "VTP Bluewaters - Properties near Pune Metro"
+        "keyword": "VTP Blue Waters - Properties near Pune Metro"
       },
       {
         "slug": "vtp-bluewaters-top-10-builders-in-pune",
-        "keyword": "VTP Bluewaters - Top 10 Builders in Pune"
+        "keyword": "VTP Blue Waters - Top 10 Builders in Pune"
       },
       {
         "slug": "vtp-bluewaters-stamp-duty-and-registration-in-pune",
-        "keyword": "VTP Bluewaters - Stamp Duty and Registration in Pune"
+        "keyword": "VTP Blue Waters - Stamp Duty and Registration in Pune"
       },
       {
         "slug": "vtp-bluewaters-is-pune-real-estate-a-bubble",
-        "keyword": "VTP Bluewaters - Is Pune Real Estate a Bubble"
+        "keyword": "VTP Blue Waters - Is Pune Real Estate a Bubble"
       },
       {
         "slug": "vtp-bluewaters-pune-vs-bangalore-real-estate",
-        "keyword": "VTP Bluewaters - Pune vs Bangalore Real Estate"
+        "keyword": "VTP Blue Waters - Pune vs Bangalore Real Estate"
       },
       {
         "slug": "vtp-bluewaters-pet-friendly-apartments-in-pune",
-        "keyword": "VTP Bluewaters - Pet Friendly Apartments in Pune"
+        "keyword": "VTP Blue Waters - Pet Friendly Apartments in Pune"
       },
       {
         "slug": "vtp-bluewaters-smart-home-automation-in-pune",
-        "keyword": "VTP Bluewaters - Smart Home Automation in Pune"
+        "keyword": "VTP Blue Waters - Smart Home Automation in Pune"
       },
       {
         "slug": "vtp-bluewaters-co-living-spaces-in-pune",
-        "keyword": "VTP Bluewaters - Co-Living Spaces in Pune"
+        "keyword": "VTP Blue Waters - Co-Living Spaces in Pune"
       },
       {
         "slug": "vtp-bluewaters-senior-living-communities-in-pune",
-        "keyword": "VTP Bluewaters - Senior Living Communities in Pune"
+        "keyword": "VTP Blue Waters - Senior Living Communities in Pune"
       },
       {
         "slug": "vtp-bluewaters-luxury-apartments",
-        "keyword": "VTP Bluewaters Luxury Apartments"
+        "keyword": "VTP Blue Waters Luxury Apartments"
       },
       {
         "slug": "vtp-bluewaters-premium-flats",
-        "keyword": "VTP Bluewaters Premium Flats"
+        "keyword": "VTP Blue Waters Premium Flats"
       },
       {
         "slug": "vtp-bluewaters-new-launch-projects",
-        "keyword": "VTP Bluewaters New Launch Projects"
+        "keyword": "VTP Blue Waters New Launch Projects"
       },
       {
         "slug": "vtp-bluewaters-township-projects",
-        "keyword": "VTP Bluewaters Township Projects"
+        "keyword": "VTP Blue Waters Township Projects"
       },
       {
         "slug": "vtp-bluewaters-real-estate-investment",
-        "keyword": "VTP Bluewaters Real Estate Investment"
+        "keyword": "VTP Blue Waters Real Estate Investment"
       },
       {
         "slug": "vtp-bluewaters-1bhk-flats",
-        "keyword": "VTP Bluewaters 1BHK Flats"
+        "keyword": "VTP Blue Waters 1BHK Flats"
       },
       {
         "slug": "vtp-bluewaters-2bhk-flats",
-        "keyword": "VTP Bluewaters 2BHK Flats"
+        "keyword": "VTP Blue Waters 2BHK Flats"
       },
       {
         "slug": "vtp-bluewaters-3bhk-luxury-homes",
-        "keyword": "VTP Bluewaters 3BHK Luxury Homes"
+        "keyword": "VTP Blue Waters 3BHK Luxury Homes"
       },
       {
         "slug": "vtp-bluewaters-4bhk-premium-apartments",
-        "keyword": "VTP Bluewaters 4BHK Premium Apartments"
+        "keyword": "VTP Blue Waters 4BHK Premium Apartments"
       },
       {
         "slug": "vtp-bluewaters-5bhk-villas",
-        "keyword": "VTP Bluewaters 5BHK Villas"
+        "keyword": "VTP Blue Waters 5BHK Villas"
       },
       {
         "slug": "vtp-bluewaters-1-bhk",
-        "keyword": "VTP Bluewaters 1 BHK"
+        "keyword": "VTP Blue Waters 1 BHK"
       },
       {
         "slug": "vtp-bluewaters-2-bhk",
-        "keyword": "VTP Bluewaters 2 BHK"
+        "keyword": "VTP Blue Waters 2 BHK"
       },
       {
         "slug": "vtp-bluewaters-3-bhk",
-        "keyword": "VTP Bluewaters 3 BHK"
+        "keyword": "VTP Blue Waters 3 BHK"
       },
       {
         "slug": "vtp-bluewaters-4-bhk",
-        "keyword": "VTP Bluewaters 4 BHK"
+        "keyword": "VTP Blue Waters 4 BHK"
       },
       {
         "slug": "vtp-bluewaters-studio-apartments",
-        "keyword": "VTP Bluewaters Studio Apartments"
+        "keyword": "VTP Blue Waters Studio Apartments"
       },
       {
         "slug": "vtp-bluewaters-duplex-apartments",
-        "keyword": "VTP Bluewaters Duplex Apartments"
+        "keyword": "VTP Blue Waters Duplex Apartments"
       },
       {
         "slug": "vtp-bluewaters-sky-duplex",
-        "keyword": "VTP Bluewaters Sky Duplex"
+        "keyword": "VTP Blue Waters Sky Duplex"
       },
       {
         "slug": "vtp-bluewaters-simplex-apartments",
-        "keyword": "VTP Bluewaters Simplex Apartments"
+        "keyword": "VTP Blue Waters Simplex Apartments"
       },
       {
         "slug": "vtp-bluewaters-penthouses",
-        "keyword": "VTP Bluewaters Penthouses"
+        "keyword": "VTP Blue Waters Penthouses"
       },
       {
         "slug": "vtp-bluewaters-double-height-homes",
-        "keyword": "VTP Bluewaters Double-Height Homes"
+        "keyword": "VTP Blue Waters Double-Height Homes"
       },
       {
         "slug": "vtp-bluewaters-private-plunge-pool-flats",
-        "keyword": "VTP Bluewaters Private Plunge Pool Flats"
+        "keyword": "VTP Blue Waters Private Plunge Pool Flats"
       },
       {
         "slug": "vtp-bluewaters-nri-premium-homes",
-        "keyword": "VTP Bluewaters NRI Premium Homes"
+        "keyword": "VTP Blue Waters NRI Premium Homes"
       },
       {
         "slug": "vtp-bluewaters-properties",
-        "keyword": "VTP Bluewaters Properties"
+        "keyword": "VTP Blue Waters Properties"
       },
       {
         "slug": "vtp-bluewaters-flats",
-        "keyword": "VTP Bluewaters Flats"
+        "keyword": "VTP Blue Waters Flats"
       },
       {
         "slug": "vtp-bluewaters-villas",
-        "keyword": "VTP Bluewaters Villas"
+        "keyword": "VTP Blue Waters Villas"
       },
       {
         "slug": "vtp-bluewaters-row-houses",
-        "keyword": "VTP Bluewaters Row Houses"
+        "keyword": "VTP Blue Waters Row Houses"
       },
       {
         "slug": "vtp-bluewaters-commercial-real-estate",
-        "keyword": "VTP Bluewaters Commercial Real Estate"
+        "keyword": "VTP Blue Waters Commercial Real Estate"
       },
       {
         "slug": "vtp-bluewaters-retail-spaces",
-        "keyword": "VTP Bluewaters Retail Spaces"
+        "keyword": "VTP Blue Waters Retail Spaces"
       },
       {
         "slug": "vtp-bluewaters-office-spaces",
-        "keyword": "VTP Bluewaters Office Spaces"
+        "keyword": "VTP Blue Waters Office Spaces"
       },
       {
         "slug": "vtp-bluewaters-ready-possession",
-        "keyword": "VTP Bluewaters Ready Possession"
+        "keyword": "VTP Blue Waters Ready Possession"
       },
       {
         "slug": "vtp-bluewaters-under-construction",
-        "keyword": "VTP Bluewaters Under Construction"
+        "keyword": "VTP Blue Waters Under Construction"
       },
       {
         "slug": "vtp-bluewaters-it-park-homes",
-        "keyword": "VTP Bluewaters IT Park Homes"
+        "keyword": "VTP Blue Waters IT Park Homes"
       },
       {
         "slug": "vtp-bluewaters-mla-homes",
-        "keyword": "VTP Bluewaters MLA Homes"
+        "keyword": "VTP Blue Waters MLA Homes"
       },
       {
         "slug": "vtp-bluewaters-vtp-projects",
-        "keyword": "VTP Bluewaters VTP Projects"
+        "keyword": "VTP Blue Waters VTP Projects"
       }
     ]
   },

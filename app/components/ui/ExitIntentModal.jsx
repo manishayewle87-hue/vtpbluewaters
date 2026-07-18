@@ -50,7 +50,7 @@ export default function ExitIntentModal() {
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
           subject: `🚨 Exit Intent Lead: ${data.name || 'Visitor'}`,
-          from_name: 'VTP Bluewaters Leads',
+          from_name: 'VTP Blue Waters Leads',
           replyto: data.email,
           ...data,
           source: 'Exit Intent Modal',

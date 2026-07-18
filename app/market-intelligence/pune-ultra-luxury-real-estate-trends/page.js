@@ -119,7 +119,7 @@ export default function PuneUltraLuxuryTrends() {
                     Historically, ultra-luxury projects were confined to the city center. However, the lack of developable land and suffocating traffic have pushed developers and buyers westward. The Mahalunge-Hinjewadi corridor offers something the city center cannot: <strong>Scale</strong>.
                   </p>
                   <p>
-                    It is only in massive, 100-acre townships like VTP Bluewaters where developers can build the necessary infrastructure to support true luxury. From sprawling 50,000 sq.ft. clubhouses to multi-acre central parks, HNWIs are investing heavily here because it offers an uncompromising lifestyle. Searches for <em>"NRI Real Estate Investment in West Pune"</em> are almost exclusively focused on these mega-townships.
+                    It is only in massive, 100-acre townships like VTP Blue Waters where developers can build the necessary infrastructure to support true luxury. From sprawling 50,000 sq.ft. clubhouses to multi-acre central parks, HNWIs are investing heavily here because it offers an uncompromising lifestyle. Searches for <em>"NRI Real Estate Investment in West Pune"</em> are almost exclusively focused on these mega-townships.
                   </p>
 
                   <h2>The Simplex and Penthouse Demand</h2>

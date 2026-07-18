@@ -101,7 +101,7 @@ export default function ConfigurationsGrid({ projects }) {
                   >
                     <Image 
                       src={project.image} 
-                      alt={project.name ? `${project.name} - Luxury Apartments in ${project.location}` : 'VTP Bluewaters Luxury Project'}
+                      alt={project.name ? `${project.name} - Luxury Apartments in ${project.location}` : 'VTP Blue Waters Luxury Project'}
                       fill
                       sizes="(max-width: 1024px) 100vw, 450px"
                       className="object-cover"

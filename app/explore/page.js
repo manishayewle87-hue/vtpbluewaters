@@ -2,7 +2,7 @@ import Link from 'next/link';
 import { seoSilos } from '@/app/data/seo-silos';
 
 export const metadata = {
-  title: 'Explore Properties | VTP Bluewaters Real Estate Hub',
+  title: 'Explore Properties | VTP Blue Waters Real Estate Hub',
   description: 'Browse our complete directory of luxury real estate, apartments, flats, and investment opportunities across Pune.',
   robots: {
     index: true,

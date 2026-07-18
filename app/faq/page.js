@@ -4,8 +4,8 @@ import { ArrowLeft } from 'lucide-react';
 
 
 export const metadata = {
-  title: 'Frequently Asked Questions | VTP Bluewaters Mahalunge',
-  description: 'Comprehensive FAQs for VTP Bluewaters, Baner Annex. Find answers regarding pricing, amenities, connectivity, and MahaRERA details.'};
+  title: 'Frequently Asked Questions | VTP Blue Waters Mahalunge',
+  description: 'Comprehensive FAQs for VTP Blue Waters, Baner Annex. Find answers regarding pricing, amenities, connectivity, and MahaRERA details.'};
 
 export default function FAQPage() {
   const lang = 'en';
@@ -37,7 +37,7 @@ export default function FAQPage() {
           Frequently Asked <span className="text-luxury-gold italic">Questions</span>
         </h1>
         <p className="text-luxury-silver font-light text-lg mb-16 leading-relaxed">
-          Everything you need to know about investing and living at VTP Bluewaters, Mahalunge.
+          Everything you need to know about investing and living at VTP Blue Waters, Mahalunge.
         </p>
 
         <div className="space-y-8">

@@ -85,7 +85,7 @@ export default async function SeoLandingPage({ params }) {
     },
     {
       question: `What amenities are included with ${matchedKeyword}?`,
-      answer: `Residents enjoy access to multi-acre central parks, premium clubhouses, smart home automation features, and state-of-the-art security, all integral to the VTP Bluewaters township experience.`
+      answer: `Residents enjoy access to multi-acre central parks, premium clubhouses, smart home automation features, and state-of-the-art security, all integral to the VTP Blue Waters township experience.`
     }
   ];
 

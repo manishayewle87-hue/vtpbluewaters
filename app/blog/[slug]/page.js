@@ -16,7 +16,7 @@ export async function generateMetadata({ params }) {
   if (!blog) return { title: 'Not Found' };
   
   return {
-    title: `${blog.title} | VTP Bluewaters Real Estate Insights`,
+    title: `${blog.title} | VTP Blue Waters Real Estate Insights`,
     description: `Read about ${blog.title}. Comprehensive real estate insights for Mahalunge and Baner Annex.`
   };
 }

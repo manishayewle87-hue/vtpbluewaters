@@ -9,12 +9,12 @@
  */
 
 const BASE_URL = 'https://vtpbluewaters.com';
-const SITE_NAME = 'VTP Bluewaters';
+const SITE_NAME = 'VTP Blue Waters';
 const DEFAULT_OG_IMAGE = `${BASE_URL}/og-default.jpg`;
 
 // ─── Project Page Metadata ───
 export function generateProjectMeta(project, lang = 'en') {
-  if (!project) return { title: 'Project Not Found | VTP Bluewaters' };
+  if (!project) return { title: 'Project Not Found | VTP Blue Waters' };
 
   const location = project.location?.split(',')[0]?.trim() || 'Pune';
   const title = project.seoTitle || `${project.name} in ${location} | Luxury Residences by VTP Realty`;
@@ -47,7 +47,7 @@ export function generateProjectMeta(project, lang = 'en') {
 
 // ─── Project Intent Page Metadata ───
 export function generateProjectIntentMeta(project, intent, lang = 'en') {
-  if (!project) return { title: 'Not Found | VTP Bluewaters' };
+  if (!project) return { title: 'Not Found | VTP Blue Waters' };
 
   const formattedIntent = formatIntent(intent);
   const location = project.location?.split(',')[0]?.trim() || 'Pune';
@@ -78,7 +78,7 @@ export function generateProjectIntentMeta(project, intent, lang = 'en') {
 
 // ─── Location Page Metadata ───
 export function generateLocationMeta(location, lang = 'en') {
-  if (!location) return { title: 'Location Not Found | VTP Bluewaters' };
+  if (!location) return { title: 'Location Not Found | VTP Blue Waters' };
 
   const title = `Top Luxury Real Estate in ${location.name}, Pune | VTP Realty`;
   const description = `Discover premium 2, 3, 4 BHK luxury apartments and townships in ${location.name}, ${location.region || 'Pune'}. Compare prices, floor plans, and RERA-registered projects by VTP Realty.`;
@@ -107,7 +107,7 @@ export function generateLocationMeta(location, lang = 'en') {
 
 // ─── Location Intent Page Metadata ───
 export function generateLocationIntentMeta(location, intent, lang = 'en') {
-  if (!location) return { title: 'Not Found | VTP Bluewaters' };
+  if (!location) return { title: 'Not Found | VTP Blue Waters' };
 
   const formattedIntent = formatIntent(intent);
   const title = `VTP Projects: ${formattedIntent} in ${location.name} | Latest ${new Date().getFullYear()} Details`;
@@ -136,9 +136,9 @@ export function generateLocationIntentMeta(location, intent, lang = 'en') {
 
 // ─── Blog Page Metadata ───
 export function generateBlogMeta(blog, lang = 'en') {
-  if (!blog) return { title: 'Article Not Found | VTP Bluewaters' };
+  if (!blog) return { title: 'Article Not Found | VTP Blue Waters' };
 
-  const title = `${blog.title} | VTP Bluewaters Real Estate Insights`;
+  const title = `${blog.title} | VTP Blue Waters Real Estate Insights`;
   const description = blog.excerpt || `Read about ${blog.title}. Comprehensive real estate insights for Pune's luxury market.`;
 
   return {
@@ -166,9 +166,9 @@ export function generateBlogMeta(blog, lang = 'en') {
 
 // ─── Insight Page Metadata ───
 export function generateInsightMeta(article, category, lang = 'en') {
-  if (!article) return { title: 'Insight Not Found | VTP Bluewaters' };
+  if (!article) return { title: 'Insight Not Found | VTP Blue Waters' };
 
-  const title = `${article.title} | VTP Bluewaters Insights`;
+  const title = `${article.title} | VTP Blue Waters Insights`;
   const description = article.excerpt || `In-depth analysis: ${article.title}. Expert real estate insights from VTP Realty.`;
 
   return {

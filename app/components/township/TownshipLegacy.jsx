@@ -5,7 +5,7 @@ import Image from 'next/image';
 const deliveredClusters = [
   {
     name: 'VTP Leonara',
-    description: 'The first masterpiece delivered in VTP Bluewaters, setting the tone for luxury.',
+    description: 'The first masterpiece delivered in VTP Blue Waters, setting the tone for luxury.',
     image: '/images/real_vtp/leonara_banner.jpg',
     status: 'Delivered & Sold Out'
   },
@@ -40,7 +40,7 @@ export default function TownshipLegacy() {
             <span className="text-luxury-gold font-normal">Promise</span>
           </h2>
           <p className="text-luxury-silver text-lg font-light leading-relaxed">
-            VTP Bluewaters isn't just a vision; it's a thriving reality. Thousands of families already call our delivered clusters home, experiencing the extraordinary lifestyle we promised.
+            VTP Blue Waters isn't just a vision; it's a thriving reality. Thousands of families already call our delivered clusters home, experiencing the extraordinary lifestyle we promised.
           </p>
         </motion.div>
 

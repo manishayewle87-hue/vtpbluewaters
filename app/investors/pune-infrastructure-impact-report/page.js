@@ -47,7 +47,7 @@ export default function InfrastructureImpactReport() {
         "name": "How does the Mahalunge-Maan TPS benefit real estate investors?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "The Town Planning Scheme (TPS) ensures planned, grid-like development with wide roads, extensive public parks, and designated commercial zones. This prevents the haphazard growth seen in older areas, resulting in a significantly higher premium on properties located within the TPS, like VTP Bluewaters."
+          "text": "The Town Planning Scheme (TPS) ensures planned, grid-like development with wide roads, extensive public parks, and designated commercial zones. This prevents the haphazard growth seen in older areas, resulting in a significantly higher premium on properties located within the TPS, like VTP Blue Waters."
         }
       }
     ]
@@ -113,7 +113,7 @@ export default function InfrastructureImpactReport() {
                     The proposed 128 km Pune Ring Road is designed to divert heavy inter-city traffic away from the city center. For Mahalunge, the Western alignment of the Ring Road is a game-changer. It will directly connect the corridor to the Mumbai-Pune Expressway in the north and the Satara highway in the south.
                   </p>
                   <p>
-                    As the Ring Road nears completion, logistics, commercial, and retail investments are pouring into the region. Residential projects located strategically near the access nodes, such as VTP Bluewaters, are projected to see a <strong>massive capital appreciation</strong> as commute times to major industrial hubs (like Chakan and Talegaon) are slashed by over 60%.
+                    As the Ring Road nears completion, logistics, commercial, and retail investments are pouring into the region. Residential projects located strategically near the access nodes, such as VTP Blue Waters, are projected to see a <strong>massive capital appreciation</strong> as commute times to major industrial hubs (like Chakan and Talegaon) are slashed by over 60%.
                   </p>
 
                   <h2>2. Pune Metro Line 3</h2>
@@ -129,7 +129,7 @@ export default function InfrastructureImpactReport() {
                     Unlike older areas of Pune that grew organically (leading to narrow roads and water scarcity), Mahalunge is being developed under a strict PMRDA Town Planning Scheme.
                   </p>
                   <p>
-                    What are the <em>Mahalunge-Maan TPS real estate benefits</em>? The master plan legally mandates 18 to 45-meter wide roads, extensive designated green spaces, dedicated commercial zones, and robust underground utilities. VTP Bluewaters sits directly within this master-planned utopia. When you buy into VTP Bluewaters, you are not just buying a flat; you are buying into the future's most perfectly planned micro-market.
+                    What are the <em>Mahalunge-Maan TPS real estate benefits</em>? The master plan legally mandates 18 to 45-meter wide roads, extensive designated green spaces, dedicated commercial zones, and robust underground utilities. VTP Blue Waters sits directly within this master-planned utopia. When you buy into VTP Blue Waters, you are not just buying a flat; you are buying into the future's most perfectly planned micro-market.
                   </p>
 
                   <h2 className="mt-16 border-t border-white/10 pt-12">Frequently Asked Questions</h2>
@@ -140,7 +140,7 @@ export default function InfrastructureImpactReport() {
                     </div>
                     <div>
                       <h4 className="text-xl text-white font-medium mb-2">How does the Mahalunge-Maan TPS benefit real estate investors?</h4>
-                      <p className="text-luxury-silver">The Town Planning Scheme (TPS) ensures planned, grid-like development with wide roads, extensive public parks, and designated commercial zones. This prevents the haphazard growth seen in older areas, resulting in a significantly higher premium on properties located within the TPS, like VTP Bluewaters.</p>
+                      <p className="text-luxury-silver">The Town Planning Scheme (TPS) ensures planned, grid-like development with wide roads, extensive public parks, and designated commercial zones. This prevents the haphazard growth seen in older areas, resulting in a significantly higher premium on properties located within the TPS, like VTP Blue Waters.</p>
                     </div>
                   </div>
                 </div>
@@ -150,7 +150,7 @@ export default function InfrastructureImpactReport() {
                 <div className="sticky top-24">
                   <div className="bg-luxury-charcoal border border-luxury-gold/20 p-8 rounded-xl shadow-2xl">
                     <h3 className="text-2xl font-display text-white mb-2">Capitalize on Growth</h3>
-                    <p className="text-luxury-silver text-sm mb-6">Secure your unit at VTP Bluewaters before the next infrastructural price hike.</p>
+                    <p className="text-luxury-silver text-sm mb-6">Secure your unit at VTP Blue Waters before the next infrastructural price hike.</p>
                     <EnquiryForm projectName="Infrastructure Impact Report" customTitle="Check Availability & Pricing" />
                   </div>
                 </div>

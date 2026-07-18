@@ -20,7 +20,7 @@ const KEYWORD_MAP = {
   'Altamira': '/projects/altamira-by-vtp-luxe',
   'VTP Monarque': '/projects/monarque-by-vtp-luxe',
   'Monarque': '/projects/monarque-by-vtp-luxe',
-  'VTP Bluewaters': '/township',
+  'VTP Blue Waters': '/township',
   
   // Location Keywords
   'Mahalunge': '/locations/mahalunge',

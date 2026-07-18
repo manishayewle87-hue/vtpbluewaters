@@ -75,7 +75,7 @@ export const cms = {
     return {
       contactEmail: 'sales@vtprealty.in',
       contactPhone: '+91 7744009295',
-      officeAddress: 'Site Office: VTP Bluewaters Township, Mahalunge-411045',
+      officeAddress: 'Site Office: VTP Blue Waters Township, Mahalunge-411045',
       socials: {
         instagram: 'https://instagram.com/vtprealty',
         facebook: 'https://facebook.com/vtprealty',

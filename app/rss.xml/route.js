@@ -39,7 +39,7 @@ export async function GET() {
   const rss = `<?xml version="1.0" encoding="UTF-8" ?>
     <rss version="2.0">
       <channel>
-        <title>VTP Bluewaters - Official Ultra Luxury Real Estate</title>
+        <title>VTP Blue Waters - Official Ultra Luxury Real Estate</title>
         <link>${siteUrl}</link>
         <description>Premium luxury apartments, townships, and real estate insights in Pune.</description>
         <language>en</language>

@@ -3,7 +3,7 @@ import { ArrowLeft, TrendingUp, MapPin, CheckCircle } from 'lucide-react';
 import EnquiryForm from '@/app/components/project/EnquiryForm';
 
 export const metadata = {
-  title: 'Mahalunge-Hinjewadi Investment Guide 2026 | VTP Bluewaters',
+  title: 'Mahalunge-Hinjewadi Investment Guide 2026 | VTP Blue Waters',
   description: 'Deep research into the ROI of the Mahalunge-Hinjewadi corridor. Discover why residential townships near Hinjewadi Phase 1 are the top real estate investment in Pune.',
   alternates: {
     canonical: 'https://vtpbluewaters.com/market-intelligence/mahalunge-hinjewadi-investment-guide'
@@ -47,7 +47,7 @@ export default function MahalungeHinjewadiGuide() {
         "name": "What is the ROI for flats near Hinjewadi Phase 1?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Properties in townships like VTP Bluewaters have historically shown a 12-15% year-on-year capital appreciation, with strong rental yields driven by the massive IT workforce in Hinjewadi."
+          "text": "Properties in townships like VTP Blue Waters have historically shown a 12-15% year-on-year capital appreciation, with strong rental yields driven by the massive IT workforce in Hinjewadi."
         }
       }
     ]
@@ -100,7 +100,7 @@ export default function MahalungeHinjewadiGuide() {
                     The modern high-net-worth individual (HNWI) is no longer satisfied with standalone buildings. The demand has decisively shifted toward massive, integrated townships that offer a "walk-to-work" or "zero-commute" lifestyle. 
                   </p>
                   <p>
-                    Projects like <strong>VTP Bluewaters</strong> stand at the forefront of this revolution. Encompassing over 100 acres at the exact intersection of Mahalunge and Hinjewadi, it offers a distinct advantage: residents enjoy the serene, green expanse of Mahalunge while remaining just a 5-minute drive from the Rajiv Gandhi Infotech Park.
+                    Projects like <strong>VTP Blue Waters</strong> stand at the forefront of this revolution. Encompassing over 100 acres at the exact intersection of Mahalunge and Hinjewadi, it offers a distinct advantage: residents enjoy the serene, green expanse of Mahalunge while remaining just a 5-minute drive from the Rajiv Gandhi Infotech Park.
                   </p>
 
                   <h3>Key Infrastructure Drivers:</h3>
@@ -135,7 +135,7 @@ export default function MahalungeHinjewadiGuide() {
                     </div>
                     <div>
                       <h4 className="text-xl text-white font-medium mb-2">What is the ROI for flats near Hinjewadi Phase 1?</h4>
-                      <p className="text-luxury-silver">Properties in townships like VTP Bluewaters have historically shown a 12-15% year-on-year capital appreciation, with strong rental yields driven by the massive IT workforce in Hinjewadi.</p>
+                      <p className="text-luxury-silver">Properties in townships like VTP Blue Waters have historically shown a 12-15% year-on-year capital appreciation, with strong rental yields driven by the massive IT workforce in Hinjewadi.</p>
                     </div>
                   </div>
                 </div>
@@ -145,7 +145,7 @@ export default function MahalungeHinjewadiGuide() {
                 <div className="sticky top-24">
                   <div className="bg-luxury-charcoal border border-luxury-gold/20 p-8 rounded-xl shadow-2xl">
                     <h3 className="text-2xl font-display text-white mb-2">Secure Your Investment</h3>
-                    <p className="text-luxury-silver text-sm mb-6">Get exclusive pre-launch offers and detailed price lists for VTP Bluewaters.</p>
+                    <p className="text-luxury-silver text-sm mb-6">Get exclusive pre-launch offers and detailed price lists for VTP Blue Waters.</p>
                     <EnquiryForm projectName="Mahalunge Investment Guide" customTitle="Download Market Report" />
                   </div>
                 </div>

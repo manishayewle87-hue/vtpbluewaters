@@ -1,9 +1,9 @@
 export const dynamic = 'force-static';
 export default function manifest() {
   return {
-    name: 'VTP Bluewaters | Premium Luxury Residences',
-    short_name: 'VTP Bluewaters',
-    description: 'Experience ultra-luxury living at VTP Bluewaters Pune.',
+    name: 'VTP Blue Waters | Premium Luxury Residences',
+    short_name: 'VTP Blue Waters',
+    description: 'Experience ultra-luxury living at VTP Blue Waters Pune.',
     start_url: '/',
     display: 'standalone',
     background_color: '#0A111F',

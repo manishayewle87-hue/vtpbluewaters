@@ -4,7 +4,7 @@ import EnquiryForm from '@/app/components/project/EnquiryForm';
 
 export const metadata = {
   title: 'Hinjewadi Walk-To-Work Lifestyle | Zero Commute in Pune',
-  description: 'Discover the ultimate walk-to-work lifestyle at VTP Bluewaters in Mahalunge. Escape Hinjewadi traffic and reclaim your time with a zero-commute luxury residence.',
+  description: 'Discover the ultimate walk-to-work lifestyle at VTP Blue Waters in Mahalunge. Escape Hinjewadi traffic and reclaim your time with a zero-commute luxury residence.',
   alternates: {
     canonical: 'https://vtpbluewaters.com/market-intelligence/hinjewadi-walk-to-work-lifestyle'
   }
@@ -44,10 +44,10 @@ export default function WalkToWorkLifestyle() {
       },
       {
         "@type": "Question",
-        "name": "How close is VTP Bluewaters to Hinjewadi IT Park?",
+        "name": "How close is VTP Blue Waters to Hinjewadi IT Park?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "VTP Bluewaters is strategically located at the intersection of Mahalunge and Hinjewadi Phase 1. Thanks to the new bridge connectivity, residents can reach the major tech campuses in Hinjewadi Phase 1 in just 5-10 minutes."
+          "text": "VTP Blue Waters is strategically located at the intersection of Mahalunge and Hinjewadi Phase 1. Thanks to the new bridge connectivity, residents can reach the major tech campuses in Hinjewadi Phase 1 in just 5-10 minutes."
         }
       }
     ]
@@ -108,9 +108,9 @@ export default function WalkToWorkLifestyle() {
                     </div>
                   </div>
 
-                  <h2>The Mahalunge Solution: VTP Bluewaters</h2>
+                  <h2>The Mahalunge Solution: VTP Blue Waters</h2>
                   <p>
-                    VTP Bluewaters is strategically positioned at the absolute nexus of Mahalunge and Hinjewadi. Thanks to the new bridge over the Mula river, residents can completely bypass the notorious Wakad junction. 
+                    VTP Blue Waters is strategically positioned at the absolute nexus of Mahalunge and Hinjewadi. Thanks to the new bridge over the Mula river, residents can completely bypass the notorious Wakad junction. 
                   </p>
                   <p>
                     Living in VTP Earth One or VTP Leonara means you can enjoy the serene, green, and master-planned environment of the Mahalunge Town Planning Scheme (TPS), while remaining practically adjacent to Hinjewadi Phase 1. It is the definitive <em>zero commute lifestyle in Pune</em>.
@@ -121,7 +121,7 @@ export default function WalkToWorkLifestyle() {
                     A true "walk-to-work" lifestyle isn't just about the office; it's about having everything else within walking distance too. 
                   </p>
                   <p>
-                    VTP Bluewaters offers high-street retail, massive grocery outlets, cafes, pharmacies, and professional sports academies within the 100-acre township gates. You never have to step into city traffic for your daily needs. This integrated ecosystem is why VTP Bluewaters consistently ranks as the most sought-after residential destination for top-tier IT executives in Pune.
+                    VTP Blue Waters offers high-street retail, massive grocery outlets, cafes, pharmacies, and professional sports academies within the 100-acre township gates. You never have to step into city traffic for your daily needs. This integrated ecosystem is why VTP Blue Waters consistently ranks as the most sought-after residential destination for top-tier IT executives in Pune.
                   </p>
 
                   <h2 className="mt-16 border-t border-white/10 pt-12">Frequently Asked Questions</h2>
@@ -131,8 +131,8 @@ export default function WalkToWorkLifestyle() {
                       <p className="text-luxury-silver">A walk-to-work lifestyle means living in a residential development located so close to your primary workplace (like an IT park) that you can safely walk or take a very short 5-minute drive, completely eliminating the stress of daily traffic congestion.</p>
                     </div>
                     <div>
-                      <h4 className="text-xl text-white font-medium mb-2">How close is VTP Bluewaters to Hinjewadi IT Park?</h4>
-                      <p className="text-luxury-silver">VTP Bluewaters is strategically located at the intersection of Mahalunge and Hinjewadi Phase 1. Thanks to the new bridge connectivity, residents can reach the major tech campuses in Hinjewadi Phase 1 in just 5-10 minutes.</p>
+                      <h4 className="text-xl text-white font-medium mb-2">How close is VTP Blue Waters to Hinjewadi IT Park?</h4>
+                      <p className="text-luxury-silver">VTP Blue Waters is strategically located at the intersection of Mahalunge and Hinjewadi Phase 1. Thanks to the new bridge connectivity, residents can reach the major tech campuses in Hinjewadi Phase 1 in just 5-10 minutes.</p>
                     </div>
                   </div>
                 </div>

@@ -46,11 +46,11 @@ export default function EnquiryForm({ projectName, customTitle, inline = false }
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ 
-          subject: `🚨 New Lead: ${formData.name} — ${projectName || 'VTP Bluewaters'}`,
-          from_name: 'VTP Bluewaters Leads',
+          subject: `🚨 New Lead: ${formData.name} — ${projectName || 'VTP Blue Waters'}`,
+          from_name: 'VTP Blue Waters Leads',
           replyto: formData.email,
           ...formData,
-          project: projectName || 'VTP Bluewaters',
+          project: projectName || 'VTP Blue Waters',
           recaptchaToken: token
         })
       });
@@ -215,7 +215,7 @@ export default function EnquiryForm({ projectName, customTitle, inline = false }
                   className="w-full bg-white/5 border border-white/10 rounded-xl px-5 py-4 text-luxury-white focus:outline-none focus:border-luxury-gold focus:bg-white/10 transition-all appearance-none cursor-pointer peer"
                 >
                   <option value="" disabled className="bg-luxury-navy">Select Project *</option>
-                  <option value="VTP BlueWaters Township" className="bg-luxury-navy text-white py-2">VTP BlueWaters Township</option>
+                  <option value="VTP Blue Waters Township" className="bg-luxury-navy text-white py-2">VTP Blue Waters Township</option>
                   <option value="Altamira" className="bg-luxury-navy text-white py-2">Altamira by VTP Luxe</option>
                   <option value="Monarque" className="bg-luxury-navy text-white py-2">Monarque by VTP Luxe</option>
                   <option value="Earth 1" className="bg-luxury-navy text-white py-2">Earth 1 by VTP Luxe</option>
