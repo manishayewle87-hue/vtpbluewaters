@@ -21,9 +21,7 @@ jobs:
       - name: Install Dependencies
         run: npm ci
 
-      - name: Inject GCP Service Account Key
-        run: |
-          echo "${{ secrets.GCP_SERVICE_ACCOUNT_JSON }}" > scripts/service-account.json
-
-      - name: Run Indexing Script
-        run: node scripts/submit-indexing.cjs
+      - name: Run Programmatic SEO Pinger
+        env:
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+        run: node scripts/ping-programmatic-seo.js
