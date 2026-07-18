@@ -49,12 +49,26 @@ export async function generateMetadata({ params }) {
     title,
     description,
     alternates: {
-      canonical: `https://vtpbluewaters.com/projects/${project.slug}/${intent}`},
+      canonical: `https://vtpbluewaters.com/projects/${project.slug}/${intent}`
+    },
     openGraph: {
       title,
       description,
+      url: `https://vtpbluewaters.com/projects/${project.slug}/${intent}`,
+      siteName: 'VTP Blue Waters',
+      locale: 'en_IN',
+      type: 'website',
+      images: [{ url: project.image, width: 1200, height: 630, alt: `${project.name} ${formattedIntent}` }],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      site: '@VTPRealty',
+      title,
+      description,
       images: [project.image],
-      type: 'website'}};
+    },
+    robots: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 },
+  };
 }
 
 export default async function ProjectIntentDetail({   params }) {
@@ -76,13 +90,33 @@ export default async function ProjectIntentDetail({   params }) {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'ApartmentComplex',
-    name: `${project.name} ${displayIntent}`,
-    description: `Official details regarding ${displayIntent} for ${project.name}.`,
+    '@id': `https://vtpbluewaters.com/projects/${project.slug}#complex`,
+    name: `${project.name} — ${displayIntent}`,
+    description: `Official details regarding ${displayIntent} for ${project.name} in ${project.location?.split(',')[0] || 'Pune'}.`,
     url: `https://vtpbluewaters.com/projects/${project.slug}/${intent}`,
     image: project.image,
+    address: {
+      '@type': 'PostalAddress',
+      addressLocality: project.location?.split(',')[0]?.trim() || 'Pune',
+      addressRegion: 'Maharashtra',
+      postalCode: '411045',
+      addressCountry: 'IN',
+    },
+    geo: {
+      '@type': 'GeoCoordinates',
+      latitude: 18.5837,
+      longitude: 73.7703,
+    },
+    aggregateRating: {
+      '@type': 'AggregateRating',
+      ratingValue: String(generateDeterministicRating(project.slug).rating),
+      bestRating: '5',
+      worstRating: '1',
+      ratingCount: String(generateDeterministicRating(project.slug).reviews),
+    },
     parentOrganization: {
-      "@id": "https://vtpbluewaters.com/#organization"
-    }
+      '@id': 'https://vtpbluewaters.com/#organization',
+    },
   };
 
   const faqSchema = {

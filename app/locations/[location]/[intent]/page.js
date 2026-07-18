@@ -41,7 +41,25 @@ export async function generateMetadata({ params }) {
     title,
     description,
     alternates: {
-      canonical: `https://vtpbluewaters.com/locations/${location}/${intent}`}
+      canonical: `https://vtpbluewaters.com/locations/${location}/${intent}`
+    },
+    openGraph: {
+      title,
+      description,
+      url: `https://vtpbluewaters.com/locations/${location}/${intent}`,
+      siteName: 'VTP Blue Waters',
+      locale: 'en_IN',
+      type: 'website',
+      images: [{ url: 'https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg', width: 1200, height: 630, alt: `${displayIntent} in ${locData.name} Pune` }],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      site: '@VTPRealty',
+      title,
+      description,
+      images: ['https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg'],
+    },
+    robots: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 },
   };
 }
 
