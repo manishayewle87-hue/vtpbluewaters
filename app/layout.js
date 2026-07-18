@@ -104,7 +104,10 @@ export const metadata = {
     canonical: 'https://vtpbluewaters.com',
     languages: {
       'en-IN': 'https://vtpbluewaters.com',
-    }
+    },
+    types: {
+      'application/rss+xml': 'https://vtpbluewaters.com/rss.xml',
+    },
   },
   // Geo meta tags for local SEO (Pune)
   other: {
