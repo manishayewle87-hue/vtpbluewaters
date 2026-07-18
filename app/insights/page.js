@@ -7,20 +7,49 @@ import { articleEngine } from '@/app/services/articleEngine';
 export const metadata = {
   title: 'VTP Realty Insights & Market Reports | Knowledge Hub',
   description: 'Stay ahead of the market with exclusive investment guides, luxury lifestyle articles, and comprehensive Pune real estate market reports by VTP Realty.',
-  alternates: {
-    canonical: 'https://vtpbluewaters.com/insights'}
+  alternates: { canonical: 'https://vtpbluewaters.com/insights' },
+  openGraph: {
+    title: 'VTP Realty Insights & Market Reports | Pune Real Estate Knowledge Hub',
+    description: 'Exclusive investment guides, luxury lifestyle articles, and Pune real estate market reports by VTP Realty Research Team.',
+    url: 'https://vtpbluewaters.com/insights',
+    siteName: 'VTP Blue Waters',
+    type: 'website',
+    locale: 'en_IN',
+    images: [{ url: 'https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg', width: 1200, height: 630, alt: 'VTP Realty Insights - Pune Real Estate Knowledge Hub' }],
+  },
+  twitter: { card: 'summary_large_image', site: '@VTPRealty', title: 'VTP Realty Insights & Market Reports', description: 'Exclusive investment guides and Pune real estate market reports.', images: ['https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg'] },
+  robots: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 },
 };
 
 export default async function InsightsHub() {
-  const lang = 'en';
-    const allArticles = await articleEngine.getAllArticles();
+  const allArticles = await articleEngine.getAllArticles();
   const categories = await articleEngine.getAllCategories();
   
   const heroArticle = allArticles[0];
   const remainingArticles = allArticles.slice(1);
 
+  const collectionSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    '@id': 'https://vtpbluewaters.com/insights#collectionpage',
+    'name': 'VTP Realty Insights & Market Reports',
+    'description': 'Exclusive investment guides, luxury lifestyle articles, and comprehensive Pune real estate market reports by VTP Realty Research Team.',
+    'url': 'https://vtpbluewaters.com/insights',
+    'publisher': { '@id': 'https://vtpbluewaters.com/#organization' },
+    'isPartOf': { '@id': 'https://vtpbluewaters.com/#website' },
+    'hasPart': allArticles.slice(0, 10).map((a, i) => ({
+      '@type': 'Article',
+      'position': i + 1,
+      'name': a.title,
+      'url': `https://vtpbluewaters.com/insights/${a.category}/${a.slug}`,
+      'datePublished': a.date,
+      'image': a.image,
+    }))
+  };
+
   return (
     <article className="min-h-screen bg-luxury-navy">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionSchema) }} />
       {/* Hub Header */}
       <header className="pt-16 lg:pt-32 pb-16 border-b border-white/5">
         <div className="container mx-auto px-6 max-w-7xl">

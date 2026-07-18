@@ -1,6 +1,7 @@
 import { notFound } from 'next/navigation';
 import insightsData from '@/app/data/insights.json';
 import Link from 'next/link';
+import ArticleSchema from '@/app/components/seo/ArticleSchema';
 
 
 
@@ -11,10 +12,30 @@ import Link from 'next/link';
 export async function generateMetadata({ params }) {
   const post = insightsData.find(p => p.slug === params.slug);
   if (!post) return {};
-  
+
+  const url = `https://vtpbluewaters.com/insights/${params.category}/${params.slug}`;
+  const title = `${post.title} | VTP Realty Insights`;
+  const description = post.excerpt || post.content.substring(0, 160) + '...';
+
   return {
-    title: `${post.title} | VTP Realty Insights`,
-    description: post.content.substring(0, 160) + '...'};
+    title,
+    description,
+    alternates: { canonical: url },
+    openGraph: {
+      title,
+      description,
+      url,
+      siteName: 'VTP Blue Waters',
+      type: 'article',
+      locale: 'en_IN',
+      publishedTime: post.date,
+      modifiedTime: post.updatedDate || post.date,
+      authors: [`https://vtpbluewaters.com`],
+      images: [{ url: post.image || 'https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg', width: 1200, height: 630, alt: post.title }],
+    },
+    twitter: { card: 'summary_large_image', site: '@VTPRealty', title, description, images: [post.image || 'https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg'] },
+    robots: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 },
+  };
 }
 
 export default async function InsightPage({   params }) {
@@ -24,24 +45,20 @@ export default async function InsightPage({   params }) {
     notFound();
   }
 
+  const url = `https://vtpbluewaters.com/insights/${params.category}/${post.slug}`;
+
   return (
     <div className="min-h-screen bg-luxury-charcoal pt-16 lg:pt-32 pb-20 px-4">
-      {/* AI Overview Specific Article Schema */}
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{
-          __html: JSON.stringify({
-            "@context": "https://schema.org",
-            "@type": "Article",
-            "headline": post.title,
-            "author": {
-              "@type": "Organization",
-              "name": post.author
-            },
-            "datePublished": post.date,
-            "articleBody": post.content
-          })
-        }}
+      <ArticleSchema
+        headline={post.title}
+        description={post.excerpt || post.content.substring(0, 160)}
+        url={url}
+        image={post.image}
+        datePublished={post.date}
+        dateModified={post.updatedDate || post.date}
+        authorName={post.author || 'VTP Realty Research Team'}
+        keywords={post.tags || ['Pune real estate', 'VTP Realty', 'luxury apartments Pune']}
+        wordCount={post.content?.split(' ').length || 800}
       />
 
       <article className="max-w-4xl mx-auto bg-luxury-navy p-8 md:p-12 rounded-2xl border border-white/5">

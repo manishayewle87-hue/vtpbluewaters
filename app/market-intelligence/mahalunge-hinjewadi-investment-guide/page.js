@@ -1,61 +1,51 @@
 import Link from 'next/link';
 import { ArrowLeft, TrendingUp, MapPin, CheckCircle } from 'lucide-react';
 import EnquiryForm from '@/app/components/project/EnquiryForm';
+import ArticleSchema from '@/app/components/seo/ArticleSchema';
 
 export const metadata = {
   title: 'Mahalunge-Hinjewadi Investment Guide 2026 | VTP Blue Waters',
   description: 'Deep research into the ROI of the Mahalunge-Hinjewadi corridor. Discover why residential townships near Hinjewadi Phase 1 are the top real estate investment in Pune.',
-  alternates: {
-    canonical: 'https://vtpbluewaters.com/market-intelligence/mahalunge-hinjewadi-investment-guide'
-  }
+  alternates: { canonical: 'https://vtpbluewaters.com/market-intelligence/mahalunge-hinjewadi-investment-guide' },
+  openGraph: {
+    title: 'Mahalunge-Hinjewadi Investment Guide 2026 | VTP Blue Waters',
+    description: 'Deep research into the ROI of the Mahalunge-Hinjewadi corridor. Top real estate investment in Pune 2026.',
+    url: 'https://vtpbluewaters.com/market-intelligence/mahalunge-hinjewadi-investment-guide',
+    siteName: 'VTP Blue Waters',
+    type: 'article',
+    locale: 'en_IN',
+    publishedTime: '2025-01-15T00:00:00Z',
+    modifiedTime: '2026-06-01T00:00:00Z',
+    authors: ['https://vtpbluewaters.com'],
+    images: [{ url: 'https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg', width: 1200, height: 630, alt: 'Mahalunge Hinjewadi Real Estate Investment Guide 2026' }],
+  },
+  twitter: { card: 'summary_large_image', site: '@VTPRealty', title: 'Mahalunge-Hinjewadi Investment Guide 2026', description: 'Deep research into the ROI of the Mahalunge-Hinjewadi corridor.', images: ['https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg'] },
+  robots: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 },
 };
 
 export default function MahalungeHinjewadiGuide() {
-  const articleSchema = {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Mahalunge-Hinjewadi Investment Guide 2026",
-    "description": "Deep research into the ROI of the Mahalunge-Hinjewadi corridor and residential townships near Hinjewadi Phase 1.",
-    "author": {
-      "@type": "Organization",
-      "name": "VTP Realty Insights"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "VTP Realty",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://vtpbluewaters.com/logo.png"
-      }
-    }
-  };
-
+  const PAGE_URL = 'https://vtpbluewaters.com/market-intelligence/mahalunge-hinjewadi-investment-guide';
   const faqSchema = {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": [
-      {
-        "@type": "Question",
-        "name": "Is Mahalunge a good real estate investment?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes, Mahalunge has emerged as Pune's premier investment hotspot due to the upcoming Mahalunge Hi-Tech City project, the Hinjewadi-Shivajinagar Metro line, and seamless connectivity to the Mumbai-Bengaluru Highway."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "What is the ROI for flats near Hinjewadi Phase 1?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Properties in townships like VTP Blue Waters have historically shown a 12-15% year-on-year capital appreciation, with strong rental yields driven by the massive IT workforce in Hinjewadi."
-        }
-      }
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: [
+      { '@type': 'Question', name: 'Is Mahalunge a good real estate investment?', acceptedAnswer: { '@type': 'Answer', text: 'Yes, Mahalunge has emerged as Pune\'s premier investment hotspot due to the upcoming Mahalunge Hi-Tech City project, the Hinjewadi-Shivajinagar Metro line, and seamless connectivity to the Mumbai-Bengaluru Highway.' } },
+      { '@type': 'Question', name: 'What is the ROI for flats near Hinjewadi Phase 1?', acceptedAnswer: { '@type': 'Answer', text: 'Properties in townships like VTP Blue Waters have historically shown 12–15% year-on-year capital appreciation, with strong rental yields driven by the massive IT workforce in Hinjewadi.' } },
+      { '@type': 'Question', name: 'What is the price of flats in VTP Blue Waters Mahalunge?', acceptedAnswer: { '@type': 'Answer', text: 'Prices in VTP Blue Waters start from approximately ₹90 Lakhs for 2 BHK configurations and go up to ₹4+ Crore for 4 BHK and Sky Duplex units. Contact +91-7744009295 for current offers.' } },
     ]
   };
 
   return (
     <>
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
+      <ArticleSchema
+        headline="Mahalunge-Hinjewadi Investment Guide 2026"
+        description="Deep research into the ROI of the Mahalunge-Hinjewadi corridor and residential townships near Hinjewadi Phase 1."
+        url={PAGE_URL}
+        datePublished="2025-01-15"
+        dateModified="2026-06-01"
+        keywords={['Mahalunge real estate', 'Hinjewadi investment', 'VTP Blue Waters', 'luxury flats Pune', 'West Pune property', 'Township Pune']}
+        wordCount={1400}
+      />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
 
       <article className="min-h-screen bg-luxury-navy">
