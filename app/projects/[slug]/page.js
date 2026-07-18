@@ -2,18 +2,19 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { cms } from '@/app/services/cms';
-import ProjectTabs from '@/app/components/project/ProjectTabs';
-import ProjectAmenities from '@/app/components/project/ProjectAmenities';
-import ProjectSpecs from '@/app/components/project/ProjectSpecs';
-import ProjectLocation from '@/app/components/project/ProjectLocation';
-import EnquiryForm from '@/app/components/project/EnquiryForm';
-import EmiCalculator from '@/app/components/project/EmiCalculator';
+import dynamic from 'next/dynamic';
+import { generateDeterministicRating } from '@/app/services/seoContentEngine';
 
-
-
-import ProjectMasterLayout from '@/app/components/project/ProjectMasterLayout';
-import ProjectFloorPlans from '@/app/components/project/ProjectFloorPlans';
-import ProjectVirtualTour from '@/app/components/project/ProjectVirtualTour';
+// Code Splitting: Dynamically load heavy components
+const ProjectTabs = dynamic(() => import('@/app/components/project/ProjectTabs'));
+const ProjectAmenities = dynamic(() => import('@/app/components/project/ProjectAmenities'), { loading: () => <div className="h-48 bg-luxury-navy animate-pulse"></div> });
+const ProjectSpecs = dynamic(() => import('@/app/components/project/ProjectSpecs'));
+const ProjectLocation = dynamic(() => import('@/app/components/project/ProjectLocation'));
+const EnquiryForm = dynamic(() => import('@/app/components/project/EnquiryForm'));
+const EmiCalculator = dynamic(() => import('@/app/components/project/EmiCalculator'));
+const ProjectMasterLayout = dynamic(() => import('@/app/components/project/ProjectMasterLayout'));
+const ProjectFloorPlans = dynamic(() => import('@/app/components/project/ProjectFloorPlans'), { loading: () => <div className="h-64 bg-luxury-navy animate-pulse"></div> });
+const ProjectVirtualTour = dynamic(() => import('@/app/components/project/ProjectVirtualTour'));
 
 
 
@@ -67,10 +68,10 @@ function generateJsonLd(project, lang) {
       availability: 'https://schema.org/InStock'},
     aggregateRating: {
       "@type": "AggregateRating",
-      ratingValue: "4.8",
+      ratingValue: generateDeterministicRating(project.slug).rating,
       bestRating: "5",
       worstRating: "1",
-      ratingCount: Math.floor(Math.random() * (120 - 45 + 1) + 45) // Random review count between 45 and 120
+      ratingCount: generateDeterministicRating(project.slug).reviews
     }
   };
 }
