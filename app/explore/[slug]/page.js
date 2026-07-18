@@ -21,7 +21,7 @@ export async function generateMetadata({ params }) {
 
   if (!matchedKeyword) return {};
 
-  const title = `${matchedKeyword} | VTP Realty | Pune Premium Properties`;
+  const title = `${matchedKeyword}`;
   const description = `Discover ${matchedKeyword}. ${matchedSilo.description} Explore ultimate luxury, premium amenities, and Maximum Livable Area philosophy with VTP Realty.`;
   const url = `https://vtpbluewaters.com/explore/${params.slug}`;
 
