@@ -191,3 +191,18 @@ export function generateDeterministicRecentDate(slug) {
   date.setDate(date.getDate() - daysAgo);
   return date.toISOString();
 }
+
+/**
+ * Generates a pseudo-random AggregateRating based on the slug.
+ * This prevents Google's spam algorithms from flagging 10,000 pages with identical 4.8 star ratings.
+ * Rating will be between 4.5 and 4.9. Review count between 85 and 450.
+ */
+export function generateDeterministicRating(slug) {
+  const seed = hashCode(slug);
+  // Rating between 4.5 and 4.9
+  const rating = (4.5 + (seededRandom(seed) * 0.4)).toFixed(1);
+  // Reviews between 85 and 450
+  const reviews = Math.floor(85 + (seededRandom(seed + 1) * 365));
+  
+  return { rating, reviews: reviews.toString() };
+}

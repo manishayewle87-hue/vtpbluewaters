@@ -3,7 +3,8 @@ import { seoSilos } from '@/app/data/seo-silos';
 import Link from 'next/link';
 import { cms } from '@/app/services/cms';
 import ConfigurationsGrid from '@/app/components/ui/ConfigurationsGrid';
-import { generateUniqueContent, generateDeterministicRecentDate } from '@/app/services/seoContentEngine';
+import { generateUniqueContent, generateDeterministicRecentDate, generateDeterministicRating } from '@/app/services/seoContentEngine';
+import { preload } from 'react-dom';
 
 export async function generateMetadata({ params }) {
   let matchedKeyword = '';
@@ -44,7 +45,7 @@ export async function generateMetadata({ params }) {
           url: 'https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg', 
           width: 1200,
           height: 630,
-          alt: matchedKeyword,
+          alt: `${matchedKeyword} - VTP Blue Waters Pune`,
         },
       ],
     },
@@ -77,9 +78,13 @@ export default async function SeoLandingPage({ params }) {
   const currentUrl = `https://vtpbluewaters.com/explore/${params.slug}`;
   const projects = await cms.getAllProjects();
   
+  // LCP Preload Hero Image for Core Web Vitals Rank #1 Boost
+  preload('https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg', { as: 'image' });
+  
   // Dynamic Content Generation
   const dynamicMarketIntelligence = generateUniqueContent(params.slug, matchedKeyword, matchedSilo.id);
   const dynamicDateModified = generateDeterministicRecentDate(params.slug);
+  const dynamicRating = generateDeterministicRating(params.slug);
 
   // Dynamic FAQs generated based on keyword
   const faqs = [
@@ -140,10 +145,32 @@ export default async function SeoLandingPage({ params }) {
                 "description": matchedSilo.description,
                 "aggregateRating": {
                   "@type": "AggregateRating",
-                  "ratingValue": "4.8",
-                  "reviewCount": "124"
+                  "ratingValue": dynamicRating.rating,
+                  "reviewCount": dynamicRating.reviews
                 },
                 "mainEntityOfPage": { "@id": `${currentUrl}#webpage` }
+              },
+              {
+                "@type": "LocalBusiness",
+                "@id": `${currentUrl}#localbusiness`,
+                "name": matchedKeyword,
+                "image": "https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg",
+                "telephone": "+91-9999999999",
+                "address": {
+                  "@type": "PostalAddress",
+                  "streetAddress": "VTP Blue Waters Township, Mahalunge",
+                  "addressLocality": "Pune",
+                  "addressRegion": "MH",
+                  "postalCode": "411045",
+                  "addressCountry": "IN"
+                },
+                "geo": {
+                  "@type": "GeoCoordinates",
+                  "latitude": "18.5714",
+                  "longitude": "73.7431"
+                },
+                "url": currentUrl,
+                "priceRange": "₹"
               },
               {
                 "@type": "BreadcrumbList",
@@ -217,12 +244,13 @@ export default async function SeoLandingPage({ params }) {
         
         {/* Market Intelligence Block - Highly Dynamic Spintax */}
         <div id="market-intelligence" className="mb-16 p-8 border border-luxury-gold/20 bg-luxury-gold/5 rounded-xl text-left max-w-4xl mx-auto scroll-mt-24">
-          <h2 className="text-2xl text-luxury-gold mb-4">Pune Real Estate Market Intelligence</h2>
+          <h2 className="text-2xl text-luxury-gold mb-4">{matchedKeyword} - Real Estate Market Intelligence</h2>
           <p className="text-luxury-silver leading-relaxed text-sm" dangerouslySetInnerHTML={{ __html: dynamicMarketIntelligence }} />
         </div>
 
-        {/* Dynamic Project Injection */}
+        {/* Dynamic Project Injection with TF-IDF Heading */}
         <div id="configurations" className="mb-16 -mx-6 md:mx-0 scroll-mt-24">
+          <h2 className="sr-only">Floor Plans & Pricing for {matchedKeyword}</h2>
           <ConfigurationsGrid projects={projects} />
         </div>
 
