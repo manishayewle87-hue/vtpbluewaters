@@ -14,17 +14,17 @@ import Link from 'next/link';
 
 const KEYWORD_MAP = {
   // Project Keywords
-  'VTP Earth 1': '/projects/earth-1-by-vtp-luxe',
-  'Earth 1': '/projects/earth-1-by-vtp-luxe',
-  'VTP Altamira': '/projects/altamira-by-vtp-luxe',
-  'Altamira': '/projects/altamira-by-vtp-luxe',
-  'VTP Monarque': '/projects/monarque-by-vtp-luxe',
-  'Monarque': '/projects/monarque-by-vtp-luxe',
+  'VTP Earth 1': '/projects/vtp-earth-one-mahalunge-pune',
+  'Earth 1': '/projects/vtp-earth-one-mahalunge-pune',
+  'VTP Altamira': '/projects/vtp-altamira-kharadi-pune',
+  'Altamira': '/projects/vtp-altamira-kharadi-pune',
+  'VTP Monarque': '/projects/vtp-monarque-hinjawadi-pune',
+  'Monarque': '/projects/vtp-monarque-hinjawadi-pune',
   'VTP Blue Waters': '/township',
   
   // Location Keywords
   'Mahalunge': '/locations/mahalunge',
-  'Baner': '/locations/baner',
+  'Baner': '/locations/baner-sus',
   'Hinjawadi': '/locations/hinjawadi',
   'Wakad': '/locations/wakad',
   'Kharadi': '/locations/kharadi',

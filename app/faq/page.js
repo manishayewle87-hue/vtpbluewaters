@@ -103,7 +103,7 @@ export default function FAQPage() {
           {/* Internal Links to Key Location Pages */}
           <h3 className="text-lg font-display text-white mb-4">Premium Locations in Pune</h3>
           <div className="flex flex-wrap gap-3">
-            {['mahalunge', 'hinjawadi-pune', 'baner', 'kharadi', 'bavdhan'].map((loc) => (
+            {['mahalunge', 'hinjawadi', 'baner-sus', 'kharadi', 'bavdhan'].map((loc) => (
               <Link
                 key={loc}
                 href={`/locations/${loc}`}
