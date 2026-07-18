@@ -2,8 +2,12 @@ import { notFound } from 'next/navigation';
 import { seoSilos } from '@/app/data/seo-silos';
 import Link from 'next/link';
 import { cms } from '@/app/services/cms';
-import ConfigurationsGrid from '@/app/components/ui/ConfigurationsGrid';
+import dynamic from 'next/dynamic';
 import { generateUniqueContent, generateDeterministicRecentDate, generateDeterministicRating } from '@/app/services/seoContentEngine';
+
+const ConfigurationsGrid = dynamic(() => import('@/app/components/ui/ConfigurationsGrid'), {
+  loading: () => <div className="h-96 bg-[#050914] animate-pulse rounded-xl border border-white/5 mx-auto max-w-7xl"></div>
+});
 import { preload } from 'react-dom';
 
 export async function generateMetadata({ params }) {
