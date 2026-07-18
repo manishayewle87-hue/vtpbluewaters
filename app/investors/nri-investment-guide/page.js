@@ -115,7 +115,7 @@ export default function NRIInvestmentGuide() {
                     When executing a <em>Pune real estate NRI investment</em>, the primary concern is asset management. Standalone buildings require intensive micromanagement, security monitoring, and individual vendor handling.
                   </p>
                   <p>
-                    This is why queries for the <em>best townships in Pune for NRI buyers</em> have skyrocketed. Integrated ecosystems like <strong>VTP Blue Waters</strong> in Mahalunge provide a "lock-and-leave" lifestyle. With 24/7 multi-tier security, professional facility management, and zero encroachment risks, your asset is fiercely protected.
+                    This is why queries for the <em>best townships in Pune for NRI buyers</em> have skyrocketed. Integrated ecosystems like <strong>VTP Blue Waters</strong> in Mahalunge provide a &quot;lock-and-leave&quot; lifestyle. With 24/7 multi-tier security, professional facility management, and zero encroachment risks, your asset is fiercely protected.
                   </p>
 
                   <h2>Taxation & Repatriation (FEMA Guidelines)</h2>

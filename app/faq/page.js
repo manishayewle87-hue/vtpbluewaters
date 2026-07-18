@@ -70,7 +70,7 @@ export default function FAQPage() {
           Frequently Asked <span className="text-luxury-gold italic">Questions</span>
         </h1>
         <p className="text-luxury-silver font-light text-lg mb-16 leading-relaxed">
-          Everything you need to know about investing and living at VTP Blue Waters — Pune's most prestigious 200+ acre luxury township in Mahalunge.
+          Everything you need to know about investing and living at VTP Blue Waters — Pune&apos;s most prestigious 200+ acre luxury township in Mahalunge.
         </p>
 
         {/* FAQ Items */}

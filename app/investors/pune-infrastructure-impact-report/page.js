@@ -136,7 +136,7 @@ export default function InfrastructureImpactReport() {
                     Unlike older areas of Pune that grew organically (leading to narrow roads and water scarcity), Mahalunge is being developed under a strict PMRDA Town Planning Scheme.
                   </p>
                   <p>
-                    What are the <em>Mahalunge-Maan TPS real estate benefits</em>? The master plan legally mandates 18 to 45-meter wide roads, extensive designated green spaces, dedicated commercial zones, and robust underground utilities. VTP Blue Waters sits directly within this master-planned utopia. When you buy into VTP Blue Waters, you are not just buying a flat; you are buying into the future's most perfectly planned micro-market.
+                    What are the <em>Mahalunge-Maan TPS real estate benefits</em>? The master plan legally mandates 18 to 45-meter wide roads, extensive designated green spaces, dedicated commercial zones, and robust underground utilities. VTP Blue Waters sits directly within this master-planned utopia. When you buy into VTP Blue Waters, you are not just buying a flat; you are buying into the future&apos;s most perfectly planned micro-market.
                   </p>
 
                   <h2 className="mt-16 border-t border-white/10 pt-12">Frequently Asked Questions</h2>

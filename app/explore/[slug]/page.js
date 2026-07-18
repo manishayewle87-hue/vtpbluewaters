@@ -294,7 +294,7 @@ export default async function SeoLandingPage({ params }) {
         {/* Dynamic Cross-Silo Spiderweb Linking */}
         <div className="mb-16 p-8 border border-white/10 bg-white/5 rounded-xl text-left max-w-4xl mx-auto">
           <h2 className="text-2xl text-luxury-white mb-4">Discover More Pune Real Estate Corridors</h2>
-          <p className="text-luxury-silver mb-6 text-sm">Explore our extensive portfolio of luxury properties across Pune's most premium locations:</p>
+          <p className="text-luxury-silver mb-6 text-sm">Explore our extensive portfolio of luxury properties across Pune&apos;s most premium locations:</p>
           <ul className="grid grid-cols-1 md:grid-cols-3 gap-4">
             {seoSilos
               .filter(s => s.id !== matchedSilo.id)
