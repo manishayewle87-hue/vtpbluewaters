@@ -6,11 +6,21 @@ import { seoSilos } from '@/app/data/seo-silos';
 import Link from 'next/link';
 import Breadcrumbs from '@/app/components/ui/Breadcrumbs';
 import { Briefcase, Train, Coffee, TrendingUp, Plane, Cpu, MapPin, Leaf, Star, CheckCircle2 } from 'lucide-react';
+import { PUNE_MICRO_MARKETS, getProjectsNearLocation } from '@/app/services/locationEngine';
 
 export async function generateMetadata({ params }) {
   const { location } = await params;
-  const loc = locationsData.find(l => l.slug === location);
-  if (!loc) return {};
+  let loc = locationsData.find(l => l.slug === location);
+  
+  if (!loc) {
+    const market = PUNE_MICRO_MARKETS.find(m => m.slug === location);
+    if (!market) return {};
+    loc = {
+      slug: market.slug,
+      name: market.name,
+      seoDescription: `Explore premium luxury apartments and townships in ${market.name}, Pune. Find your dream home near top IT parks with VTP Realty. RERA Registered projects.`,
+    };
+  }
 
   const url = `https://vtpbluewaters.com/locations/${loc.slug}`;
   const title = `Luxury Real Estate in ${loc.name}, Pune | VTP Realty`;
@@ -48,13 +58,31 @@ const IconMap = {
 
 export default async function LocationPage({ params }) {
   const { location } = await params;
-  const loc = locationsData.find(l => l.slug === location);
-  if (!loc) {
-    notFound();
-  }
+  let loc = locationsData.find(l => l.slug === location);
+  let associatedProjects = [];
 
-  // Find associated projects
-  const associatedProjects = projectsData.filter(p => loc.projects.includes(p.slug));
+  if (loc) {
+    // Find associated projects from locations.json mapping
+    associatedProjects = projectsData.filter(p => loc.projects.includes(p.slug));
+  } else {
+    // Fallback dynamically to PUNE_MICRO_MARKETS
+    const market = PUNE_MICRO_MARKETS.find(m => m.slug === location);
+    if (!market) {
+      notFound();
+    }
+    associatedProjects = await getProjectsNearLocation(location);
+    loc = {
+      slug: market.slug,
+      name: market.name,
+      description: `Premium luxury apartments and townships in and around ${market.name}, Pune. Built on the Maximum Livable Area philosophy.`,
+      expansiveDescription: `${market.name} is one of West Pune's fast-growing residential micro-markets. Benefiting from proximity to major IT corridors and robust infrastructure development, the area has become highly attractive to tech professionals and families alike.\n\nGrade-A developments in the vicinity, particularly VTP Realty's flagship townships, offer residents high ROI potential and an exceptional quality of life. Explore premium properties near ${market.name} to secure your home.`,
+      highlights: [
+        { title: 'Prime Location', value: `Seamless connectivity to major employment and lifestyle corridors in Pune.`, icon: 'MapPin' },
+        { title: 'Growth Hub', value: `Excellent capital appreciation and rental yield potential driven by infrastructure.`, icon: 'TrendingUp' },
+        { title: 'Premium Living', value: `World-class lifestyle amenities and smart-home integrated layouts.`, icon: 'Star' }
+      ]
+    };
+  }
 
   return (
     <div className="min-h-screen bg-luxury-charcoal">
@@ -298,11 +326,5 @@ export default async function LocationPage({ params }) {
 }
 
 export async function generateStaticParams() {
-  const cms = require('../../services/cms').cms;
-  const locations = await cms.getAllLocations();
-  const params = [];
-  for (const loc of locations) {
-      params.push({ location: loc.slug });
-    }
-  return params;
+  return PUNE_MICRO_MARKETS.map(loc => ({ location: loc.slug }));
 }
