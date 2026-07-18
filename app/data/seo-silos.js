@@ -17823,18 +17823,6 @@ export const seoSilos = [
         "keyword": "VTP Blue Waters 1 BHK"
       },
       {
-        "slug": "vtp-bluewaters-2-bhk",
-        "keyword": "VTP Blue Waters 2 BHK"
-      },
-      {
-        "slug": "vtp-bluewaters-3-bhk",
-        "keyword": "VTP Blue Waters 3 BHK"
-      },
-      {
-        "slug": "vtp-bluewaters-4-bhk",
-        "keyword": "VTP Blue Waters 4 BHK"
-      },
-      {
         "slug": "vtp-bluewaters-studio-apartments",
         "keyword": "VTP Blue Waters Studio Apartments"
       },
@@ -18440,18 +18428,6 @@ export const seoSilos = [
       {
         "slug": "vtp-earth-one-1-bhk",
         "keyword": "VTP Earth One 1 BHK"
-      },
-      {
-        "slug": "vtp-earth-one-2-bhk",
-        "keyword": "VTP Earth One 2 BHK"
-      },
-      {
-        "slug": "vtp-earth-one-3-bhk",
-        "keyword": "VTP Earth One 3 BHK"
-      },
-      {
-        "slug": "vtp-earth-one-4-bhk",
-        "keyword": "VTP Earth One 4 BHK"
       },
       {
         "slug": "vtp-earth-one-studio-apartments",
@@ -19061,18 +19037,6 @@ export const seoSilos = [
         "keyword": "VTP Leonara 1 BHK"
       },
       {
-        "slug": "vtp-leonara-2-bhk",
-        "keyword": "VTP Leonara 2 BHK"
-      },
-      {
-        "slug": "vtp-leonara-3-bhk",
-        "keyword": "VTP Leonara 3 BHK"
-      },
-      {
-        "slug": "vtp-leonara-4-bhk",
-        "keyword": "VTP Leonara 4 BHK"
-      },
-      {
         "slug": "vtp-leonara-studio-apartments",
         "keyword": "VTP Leonara Studio Apartments"
       },
@@ -19678,18 +19642,6 @@ export const seoSilos = [
       {
         "slug": "vtp-bel-air-1-bhk",
         "keyword": "VTP Bel Air 1 BHK"
-      },
-      {
-        "slug": "vtp-bel-air-2-bhk",
-        "keyword": "VTP Bel Air 2 BHK"
-      },
-      {
-        "slug": "vtp-bel-air-3-bhk",
-        "keyword": "VTP Bel Air 3 BHK"
-      },
-      {
-        "slug": "vtp-bel-air-4-bhk",
-        "keyword": "VTP Bel Air 4 BHK"
       },
       {
         "slug": "vtp-bel-air-studio-apartments",
@@ -20299,18 +20251,6 @@ export const seoSilos = [
         "keyword": "VTP Alpine 1 BHK"
       },
       {
-        "slug": "vtp-alpine-2-bhk",
-        "keyword": "VTP Alpine 2 BHK"
-      },
-      {
-        "slug": "vtp-alpine-3-bhk",
-        "keyword": "VTP Alpine 3 BHK"
-      },
-      {
-        "slug": "vtp-alpine-4-bhk",
-        "keyword": "VTP Alpine 4 BHK"
-      },
-      {
         "slug": "vtp-alpine-studio-apartments",
         "keyword": "VTP Alpine Studio Apartments"
       },
@@ -20912,18 +20852,6 @@ export const seoSilos = [
       {
         "slug": "vtp-aethereus-1-bhk",
         "keyword": "VTP Aethereus 1 BHK"
-      },
-      {
-        "slug": "vtp-aethereus-2-bhk",
-        "keyword": "VTP Aethereus 2 BHK"
-      },
-      {
-        "slug": "vtp-aethereus-3-bhk",
-        "keyword": "VTP Aethereus 3 BHK"
-      },
-      {
-        "slug": "vtp-aethereus-4-bhk",
-        "keyword": "VTP Aethereus 4 BHK"
       },
       {
         "slug": "vtp-aethereus-studio-apartments",
@@ -21529,18 +21457,6 @@ export const seoSilos = [
         "keyword": "VTP Town Square 1 BHK"
       },
       {
-        "slug": "vtp-town-square-2-bhk",
-        "keyword": "VTP Town Square 2 BHK"
-      },
-      {
-        "slug": "vtp-town-square-3-bhk",
-        "keyword": "VTP Town Square 3 BHK"
-      },
-      {
-        "slug": "vtp-town-square-4-bhk",
-        "keyword": "VTP Town Square 4 BHK"
-      },
-      {
         "slug": "vtp-town-square-studio-apartments",
         "keyword": "VTP Town Square Studio Apartments"
       },
@@ -22142,18 +22058,6 @@ export const seoSilos = [
       {
         "slug": "vtp-sierra-1-bhk",
         "keyword": "VTP Sierra 1 BHK"
-      },
-      {
-        "slug": "vtp-sierra-2-bhk",
-        "keyword": "VTP Sierra 2 BHK"
-      },
-      {
-        "slug": "vtp-sierra-3-bhk",
-        "keyword": "VTP Sierra 3 BHK"
-      },
-      {
-        "slug": "vtp-sierra-4-bhk",
-        "keyword": "VTP Sierra 4 BHK"
       },
       {
         "slug": "vtp-sierra-studio-apartments",
@@ -22759,18 +22663,6 @@ export const seoSilos = [
         "keyword": "VTP Verve 1 BHK"
       },
       {
-        "slug": "vtp-verve-2-bhk",
-        "keyword": "VTP Verve 2 BHK"
-      },
-      {
-        "slug": "vtp-verve-3-bhk",
-        "keyword": "VTP Verve 3 BHK"
-      },
-      {
-        "slug": "vtp-verve-4-bhk",
-        "keyword": "VTP Verve 4 BHK"
-      },
-      {
         "slug": "vtp-verve-studio-apartments",
         "keyword": "VTP Verve Studio Apartments"
       },
@@ -23372,18 +23264,6 @@ export const seoSilos = [
       {
         "slug": "vtp-solitaire-1-bhk",
         "keyword": "VTP Solitaire 1 BHK"
-      },
-      {
-        "slug": "vtp-solitaire-2-bhk",
-        "keyword": "VTP Solitaire 2 BHK"
-      },
-      {
-        "slug": "vtp-solitaire-3-bhk",
-        "keyword": "VTP Solitaire 3 BHK"
-      },
-      {
-        "slug": "vtp-solitaire-4-bhk",
-        "keyword": "VTP Solitaire 4 BHK"
       },
       {
         "slug": "vtp-solitaire-studio-apartments",
@@ -23993,18 +23873,6 @@ export const seoSilos = [
         "keyword": "VTP Bellissimo 1 BHK"
       },
       {
-        "slug": "vtp-bellissimo-2-bhk",
-        "keyword": "VTP Bellissimo 2 BHK"
-      },
-      {
-        "slug": "vtp-bellissimo-3-bhk",
-        "keyword": "VTP Bellissimo 3 BHK"
-      },
-      {
-        "slug": "vtp-bellissimo-4-bhk",
-        "keyword": "VTP Bellissimo 4 BHK"
-      },
-      {
         "slug": "vtp-bellissimo-studio-apartments",
         "keyword": "VTP Bellissimo Studio Apartments"
       },
@@ -24612,18 +24480,6 @@ export const seoSilos = [
         "keyword": "VTP Monarque 1 BHK"
       },
       {
-        "slug": "vtp-monarque-2-bhk",
-        "keyword": "VTP Monarque 2 BHK"
-      },
-      {
-        "slug": "vtp-monarque-3-bhk",
-        "keyword": "VTP Monarque 3 BHK"
-      },
-      {
-        "slug": "vtp-monarque-4-bhk",
-        "keyword": "VTP Monarque 4 BHK"
-      },
-      {
         "slug": "vtp-monarque-studio-apartments",
         "keyword": "VTP Monarque Studio Apartments"
       },
@@ -25225,18 +25081,6 @@ export const seoSilos = [
       {
         "slug": "vtp-pegasus-1-bhk",
         "keyword": "VTP Pegasus 1 BHK"
-      },
-      {
-        "slug": "vtp-pegasus-2-bhk",
-        "keyword": "VTP Pegasus 2 BHK"
-      },
-      {
-        "slug": "vtp-pegasus-3-bhk",
-        "keyword": "VTP Pegasus 3 BHK"
-      },
-      {
-        "slug": "vtp-pegasus-4-bhk",
-        "keyword": "VTP Pegasus 4 BHK"
       },
       {
         "slug": "vtp-pegasus-studio-apartments",
@@ -25846,18 +25690,6 @@ export const seoSilos = [
         "keyword": "VTP Altamira 1 BHK"
       },
       {
-        "slug": "vtp-altamira-2-bhk",
-        "keyword": "VTP Altamira 2 BHK"
-      },
-      {
-        "slug": "vtp-altamira-3-bhk",
-        "keyword": "VTP Altamira 3 BHK"
-      },
-      {
-        "slug": "vtp-altamira-4-bhk",
-        "keyword": "VTP Altamira 4 BHK"
-      },
-      {
         "slug": "vtp-altamira-studio-apartments",
         "keyword": "VTP Altamira Studio Apartments"
       },
@@ -26463,18 +26295,6 @@ export const seoSilos = [
       {
         "slug": "vtp-flamante-1-bhk",
         "keyword": "VTP Flamante 1 BHK"
-      },
-      {
-        "slug": "vtp-flamante-2-bhk",
-        "keyword": "VTP Flamante 2 BHK"
-      },
-      {
-        "slug": "vtp-flamante-3-bhk",
-        "keyword": "VTP Flamante 3 BHK"
-      },
-      {
-        "slug": "vtp-flamante-4-bhk",
-        "keyword": "VTP Flamante 4 BHK"
       },
       {
         "slug": "vtp-flamante-studio-apartments",
@@ -27084,18 +26904,6 @@ export const seoSilos = [
         "keyword": "VTP Velvet Villas 1 BHK"
       },
       {
-        "slug": "vtp-velvet-villas-2-bhk",
-        "keyword": "VTP Velvet Villas 2 BHK"
-      },
-      {
-        "slug": "vtp-velvet-villas-3-bhk",
-        "keyword": "VTP Velvet Villas 3 BHK"
-      },
-      {
-        "slug": "vtp-velvet-villas-4-bhk",
-        "keyword": "VTP Velvet Villas 4 BHK"
-      },
-      {
         "slug": "vtp-velvet-villas-studio-apartments",
         "keyword": "VTP Velvet Villas Studio Apartments"
       },
@@ -27697,18 +27505,6 @@ export const seoSilos = [
       {
         "slug": "vtp-altair-1-bhk",
         "keyword": "VTP Altair 1 BHK"
-      },
-      {
-        "slug": "vtp-altair-2-bhk",
-        "keyword": "VTP Altair 2 BHK"
-      },
-      {
-        "slug": "vtp-altair-3-bhk",
-        "keyword": "VTP Altair 3 BHK"
-      },
-      {
-        "slug": "vtp-altair-4-bhk",
-        "keyword": "VTP Altair 4 BHK"
       },
       {
         "slug": "vtp-altair-studio-apartments",
@@ -28318,18 +28114,6 @@ export const seoSilos = [
         "keyword": "VTP Cygnus 1 BHK"
       },
       {
-        "slug": "vtp-cygnus-2-bhk",
-        "keyword": "VTP Cygnus 2 BHK"
-      },
-      {
-        "slug": "vtp-cygnus-3-bhk",
-        "keyword": "VTP Cygnus 3 BHK"
-      },
-      {
-        "slug": "vtp-cygnus-4-bhk",
-        "keyword": "VTP Cygnus 4 BHK"
-      },
-      {
         "slug": "vtp-cygnus-studio-apartments",
         "keyword": "VTP Cygnus Studio Apartments"
       },
@@ -28931,18 +28715,6 @@ export const seoSilos = [
       {
         "slug": "vtp-beaumonde-1-bhk",
         "keyword": "VTP Beaumonde 1 BHK"
-      },
-      {
-        "slug": "vtp-beaumonde-2-bhk",
-        "keyword": "VTP Beaumonde 2 BHK"
-      },
-      {
-        "slug": "vtp-beaumonde-3-bhk",
-        "keyword": "VTP Beaumonde 3 BHK"
-      },
-      {
-        "slug": "vtp-beaumonde-4-bhk",
-        "keyword": "VTP Beaumonde 4 BHK"
       },
       {
         "slug": "vtp-beaumonde-studio-apartments",
@@ -29548,18 +29320,6 @@ export const seoSilos = [
         "keyword": "VTP Purvanchal 1 BHK"
       },
       {
-        "slug": "vtp-purvanchal-2-bhk",
-        "keyword": "VTP Purvanchal 2 BHK"
-      },
-      {
-        "slug": "vtp-purvanchal-3-bhk",
-        "keyword": "VTP Purvanchal 3 BHK"
-      },
-      {
-        "slug": "vtp-purvanchal-4-bhk",
-        "keyword": "VTP Purvanchal 4 BHK"
-      },
-      {
         "slug": "vtp-purvanchal-studio-apartments",
         "keyword": "VTP Purvanchal Studio Apartments"
       },
@@ -30161,18 +29921,6 @@ export const seoSilos = [
       {
         "slug": "vtp-celesta-1-bhk",
         "keyword": "VTP Celesta 1 BHK"
-      },
-      {
-        "slug": "vtp-celesta-2-bhk",
-        "keyword": "VTP Celesta 2 BHK"
-      },
-      {
-        "slug": "vtp-celesta-3-bhk",
-        "keyword": "VTP Celesta 3 BHK"
-      },
-      {
-        "slug": "vtp-celesta-4-bhk",
-        "keyword": "VTP Celesta 4 BHK"
       },
       {
         "slug": "vtp-celesta-studio-apartments",
@@ -30778,18 +30526,6 @@ export const seoSilos = [
         "keyword": "VTP Urban Nest 1 BHK"
       },
       {
-        "slug": "vtp-urban-nest-2-bhk",
-        "keyword": "VTP Urban Nest 2 BHK"
-      },
-      {
-        "slug": "vtp-urban-nest-3-bhk",
-        "keyword": "VTP Urban Nest 3 BHK"
-      },
-      {
-        "slug": "vtp-urban-nest-4-bhk",
-        "keyword": "VTP Urban Nest 4 BHK"
-      },
-      {
         "slug": "vtp-urban-nest-studio-apartments",
         "keyword": "VTP Urban Nest Studio Apartments"
       },
@@ -31391,18 +31127,6 @@ export const seoSilos = [
       {
         "slug": "vtp-skylights-1-bhk",
         "keyword": "VTP Skylights 1 BHK"
-      },
-      {
-        "slug": "vtp-skylights-2-bhk",
-        "keyword": "VTP Skylights 2 BHK"
-      },
-      {
-        "slug": "vtp-skylights-3-bhk",
-        "keyword": "VTP Skylights 3 BHK"
-      },
-      {
-        "slug": "vtp-skylights-4-bhk",
-        "keyword": "VTP Skylights 4 BHK"
       },
       {
         "slug": "vtp-skylights-studio-apartments",
@@ -32008,18 +31732,6 @@ export const seoSilos = [
         "keyword": "VTP KP Square 1 BHK"
       },
       {
-        "slug": "vtp-kp-square-2-bhk",
-        "keyword": "VTP KP Square 2 BHK"
-      },
-      {
-        "slug": "vtp-kp-square-3-bhk",
-        "keyword": "VTP KP Square 3 BHK"
-      },
-      {
-        "slug": "vtp-kp-square-4-bhk",
-        "keyword": "VTP KP Square 4 BHK"
-      },
-      {
         "slug": "vtp-kp-square-studio-apartments",
         "keyword": "VTP KP Square Studio Apartments"
       },
@@ -32621,18 +32333,6 @@ export const seoSilos = [
       {
         "slug": "vtp-navu-square-1-bhk",
         "keyword": "VTP Navu Square 1 BHK"
-      },
-      {
-        "slug": "vtp-navu-square-2-bhk",
-        "keyword": "VTP Navu Square 2 BHK"
-      },
-      {
-        "slug": "vtp-navu-square-3-bhk",
-        "keyword": "VTP Navu Square 3 BHK"
-      },
-      {
-        "slug": "vtp-navu-square-4-bhk",
-        "keyword": "VTP Navu Square 4 BHK"
       },
       {
         "slug": "vtp-navu-square-studio-apartments",
@@ -33238,18 +32938,6 @@ export const seoSilos = [
         "keyword": "VTP High Street 1 BHK"
       },
       {
-        "slug": "vtp-high-street-2-bhk",
-        "keyword": "VTP High Street 2 BHK"
-      },
-      {
-        "slug": "vtp-high-street-3-bhk",
-        "keyword": "VTP High Street 3 BHK"
-      },
-      {
-        "slug": "vtp-high-street-4-bhk",
-        "keyword": "VTP High Street 4 BHK"
-      },
-      {
         "slug": "vtp-high-street-studio-apartments",
         "keyword": "VTP High Street Studio Apartments"
       },
@@ -33851,18 +33539,6 @@ export const seoSilos = [
       {
         "slug": "vtp-marketplace-1-bhk",
         "keyword": "VTP Marketplace 1 BHK"
-      },
-      {
-        "slug": "vtp-marketplace-2-bhk",
-        "keyword": "VTP Marketplace 2 BHK"
-      },
-      {
-        "slug": "vtp-marketplace-3-bhk",
-        "keyword": "VTP Marketplace 3 BHK"
-      },
-      {
-        "slug": "vtp-marketplace-4-bhk",
-        "keyword": "VTP Marketplace 4 BHK"
       },
       {
         "slug": "vtp-marketplace-studio-apartments",
@@ -34468,18 +34144,6 @@ export const seoSilos = [
         "keyword": "VTP Trade Park 1 BHK"
       },
       {
-        "slug": "vtp-trade-park-2-bhk",
-        "keyword": "VTP Trade Park 2 BHK"
-      },
-      {
-        "slug": "vtp-trade-park-3-bhk",
-        "keyword": "VTP Trade Park 3 BHK"
-      },
-      {
-        "slug": "vtp-trade-park-4-bhk",
-        "keyword": "VTP Trade Park 4 BHK"
-      },
-      {
         "slug": "vtp-trade-park-studio-apartments",
         "keyword": "VTP Trade Park Studio Apartments"
       },
@@ -35081,18 +34745,6 @@ export const seoSilos = [
       {
         "slug": "vtp-urban-space-1-bhk",
         "keyword": "VTP Urban Space 1 BHK"
-      },
-      {
-        "slug": "vtp-urban-space-2-bhk",
-        "keyword": "VTP Urban Space 2 BHK"
-      },
-      {
-        "slug": "vtp-urban-space-3-bhk",
-        "keyword": "VTP Urban Space 3 BHK"
-      },
-      {
-        "slug": "vtp-urban-space-4-bhk",
-        "keyword": "VTP Urban Space 4 BHK"
       },
       {
         "slug": "vtp-urban-space-studio-apartments",
@@ -35698,18 +35350,6 @@ export const seoSilos = [
         "keyword": "VTP Urban Balance 1 BHK"
       },
       {
-        "slug": "vtp-urban-balance-2-bhk",
-        "keyword": "VTP Urban Balance 2 BHK"
-      },
-      {
-        "slug": "vtp-urban-balance-3-bhk",
-        "keyword": "VTP Urban Balance 3 BHK"
-      },
-      {
-        "slug": "vtp-urban-balance-4-bhk",
-        "keyword": "VTP Urban Balance 4 BHK"
-      },
-      {
         "slug": "vtp-urban-balance-studio-apartments",
         "keyword": "VTP Urban Balance Studio Apartments"
       },
@@ -36311,18 +35951,6 @@ export const seoSilos = [
       {
         "slug": "vtp-one-1-bhk",
         "keyword": "VTP One 1 BHK"
-      },
-      {
-        "slug": "vtp-one-2-bhk",
-        "keyword": "VTP One 2 BHK"
-      },
-      {
-        "slug": "vtp-one-3-bhk",
-        "keyword": "VTP One 3 BHK"
-      },
-      {
-        "slug": "vtp-one-4-bhk",
-        "keyword": "VTP One 4 BHK"
       },
       {
         "slug": "vtp-one-studio-apartments",
@@ -36928,18 +36556,6 @@ export const seoSilos = [
         "keyword": "VTP Bhagyasthan 1 BHK"
       },
       {
-        "slug": "vtp-bhagyasthan-2-bhk",
-        "keyword": "VTP Bhagyasthan 2 BHK"
-      },
-      {
-        "slug": "vtp-bhagyasthan-3-bhk",
-        "keyword": "VTP Bhagyasthan 3 BHK"
-      },
-      {
-        "slug": "vtp-bhagyasthan-4-bhk",
-        "keyword": "VTP Bhagyasthan 4 BHK"
-      },
-      {
         "slug": "vtp-bhagyasthan-studio-apartments",
         "keyword": "VTP Bhagyasthan Studio Apartments"
       },
@@ -37541,18 +37157,6 @@ export const seoSilos = [
       {
         "slug": "vtp-hilife-1-bhk",
         "keyword": "VTP Hilife 1 BHK"
-      },
-      {
-        "slug": "vtp-hilife-2-bhk",
-        "keyword": "VTP Hilife 2 BHK"
-      },
-      {
-        "slug": "vtp-hilife-3-bhk",
-        "keyword": "VTP Hilife 3 BHK"
-      },
-      {
-        "slug": "vtp-hilife-4-bhk",
-        "keyword": "VTP Hilife 4 BHK"
       },
       {
         "slug": "vtp-hilife-studio-apartments",
@@ -41977,26 +41581,6 @@ export const seoSilos = [
     "description": "Exact match keywords for all project names and locations.",
     "slugs": [
       {
-        "slug": "vtp-altamira-kharadi-pune",
-        "keyword": "ALTAMIRA BY VTP LUXE Kharadi, Pune"
-      },
-      {
-        "slug": "vtp-monarque-hinjawadi-pune",
-        "keyword": "MONARQUE BY VTP LUXE Hinjawadi, Pune"
-      },
-      {
-        "slug": "vtp-earth-one-mahalunge-pune",
-        "keyword": "EARTH 1 BY VTP LUXE Mahalunge, Pune"
-      },
-      {
-        "slug": "vtp-flamante-kharadi-pune",
-        "keyword": "FLAMANTE BY VTP LUXE Kharadi, Pune"
-      },
-      {
-        "slug": "vtp-velvet-villas-kharadi-pune",
-        "keyword": "VELVET VILLAS BY VTP LUXE Kharadi, Pune"
-      },
-      {
         "slug": "vtp-cielo-bavdhan-pune",
         "keyword": "CIELO BY VTP LUXE Bavdhan, Pune"
       },
@@ -42031,26 +41615,3327 @@ export const seoSilos = [
       {
         "slug": "vtp-aethereus-high-street-mahalunge-pune",
         "keyword": "VTP AETHEREUS HIGH STREET Mahalunge, Pune"
+      }
+    ]
+  },
+  {
+    "id": "project-vtp-altamira",
+    "title": "ALTAMIRA BY VTP LUXE - Project Keywords",
+    "description": "ALTAMIRA BY VTP LUXE is a premium luxury residential project by VTP Realty in Kharadi, Pune. Township: Pegasus. Offering Maximum Livable Area philosophy, world-class amenities, and premium lifestyle.",
+    "slugs": [
+      {
+        "slug": "VTP Altamira",
+        "keyword": "ALTAMIRA BY VTP LUXE"
       },
       {
-        "slug": "vtp-leonara-mahalunge-pune",
-        "keyword": "VTP LEONARA Mahalunge, Pune"
+        "slug": "VTP Altamira-pune",
+        "keyword": "VTP Altamira Pune"
       },
       {
-        "slug": "vtp-bel-air-mahalunge-pune",
-        "keyword": "VTP BEL AIR Mahalunge, Pune"
+        "slug": "VTP Altamira-kharadi",
+        "keyword": "VTP Altamira Kharadi"
       },
       {
-        "slug": "vtp-alpine-mahalunge-pune",
-        "keyword": "VTP ALPINE Mahalunge, Pune"
+        "slug": "VTP Altamira-price",
+        "keyword": "VTP Altamira Price"
       },
       {
-        "slug": "vtp-cygnus-kharadi-pune",
-        "keyword": "VTP CYGNUS New Kharadi, Pune"
+        "slug": "VTP Altamira-price-list",
+        "keyword": "VTP Altamira Price List"
       },
       {
-        "slug": "vtp-bellissimo-hinjawadi-pune",
-        "keyword": "VTP BELLISSIMO Hinjawadi, Pune"
+        "slug": "VTP Altamira-floor-plan",
+        "keyword": "VTP Altamira Floor Plan"
+      },
+      {
+        "slug": "VTP Altamira-floor-plans",
+        "keyword": "VTP Altamira Floor Plans"
+      },
+      {
+        "slug": "VTP Altamira-layout-plan",
+        "keyword": "VTP Altamira Layout Plan"
+      },
+      {
+        "slug": "VTP Altamira-master-plan",
+        "keyword": "VTP Altamira Master Plan"
+      },
+      {
+        "slug": "VTP Altamira-brochure",
+        "keyword": "VTP Altamira Brochure"
+      },
+      {
+        "slug": "VTP Altamira-amenities",
+        "keyword": "VTP Altamira Amenities"
+      },
+      {
+        "slug": "VTP Altamira-review",
+        "keyword": "VTP Altamira Review"
+      },
+      {
+        "slug": "VTP Altamira-location",
+        "keyword": "VTP Altamira Location"
+      },
+      {
+        "slug": "VTP Altamira-possession-date",
+        "keyword": "VTP Altamira Possession Date"
+      },
+      {
+        "slug": "VTP Altamira-rera",
+        "keyword": "VTP Altamira RERA"
+      },
+      {
+        "slug": "VTP Altamira-maharera",
+        "keyword": "VTP Altamira MahaRERA"
+      },
+      {
+        "slug": "VTP Altamira-site-plan",
+        "keyword": "VTP Altamira Site Plan"
+      },
+      {
+        "slug": "VTP Altamira-virtual-tour",
+        "keyword": "VTP Altamira Virtual Tour"
+      },
+      {
+        "slug": "VTP Altamira-construction-update",
+        "keyword": "VTP Altamira Construction Update"
+      },
+      {
+        "slug": "VTP Altamira-sample-flat",
+        "keyword": "VTP Altamira Sample Flat"
+      },
+      {
+        "slug": "VTP Altamira-booking",
+        "keyword": "VTP Altamira Booking"
+      },
+      {
+        "slug": "VTP Altamira-buy",
+        "keyword": "Buy VTP Altamira"
+      },
+      {
+        "slug": "VTP Altamira-invest",
+        "keyword": "Invest in VTP Altamira"
+      },
+      {
+        "slug": "VTP Altamira-nri",
+        "keyword": "VTP Altamira NRI Investment"
+      },
+      {
+        "slug": "VTP Altamira-resale",
+        "keyword": "VTP Altamira Resale"
+      },
+      {
+        "slug": "VTP Altamira-resale-price",
+        "keyword": "VTP Altamira Resale Price"
+      },
+      {
+        "slug": "VTP Altamira-pre-launch",
+        "keyword": "VTP Altamira Pre-Launch Offer"
+      },
+      {
+        "slug": "VTP Altamira-launch-date",
+        "keyword": "VTP Altamira Launch Date"
+      },
+      {
+        "slug": "VTP Altamira-contact",
+        "keyword": "VTP Altamira Contact"
+      },
+      {
+        "slug": "VTP Altamira-site-visit",
+        "keyword": "VTP Altamira Site Visit"
+      },
+      {
+        "slug": "VTP Altamira-video",
+        "keyword": "VTP Altamira Video"
+      },
+      {
+        "slug": "VTP Altamira-township",
+        "keyword": "VTP Altamira Township Pegasus"
+      },
+      {
+        "slug": "vtp-altamira-simplex",
+        "keyword": "VTP Altamira Simplex"
+      },
+      {
+        "slug": "vtp-altamira-duplex",
+        "keyword": "VTP Altamira Duplex"
+      },
+      {
+        "slug": "vtp-altamira-2-bhk-price",
+        "keyword": "VTP Altamira 2 BHK Price"
+      },
+      {
+        "slug": "vtp-altamira-3-bhk-price",
+        "keyword": "VTP Altamira 3 BHK Price"
+      },
+      {
+        "slug": "vtp-altamira-4-bhk-price",
+        "keyword": "VTP Altamira 4 BHK Price"
+      },
+      {
+        "slug": "vtp-altamira-simplex-price",
+        "keyword": "VTP Altamira Simplex Price"
+      },
+      {
+        "slug": "vtp-altamira-duplex-price",
+        "keyword": "VTP Altamira Duplex Price"
+      },
+      {
+        "slug": "vtp-altamira-2-bhk-floor-plan",
+        "keyword": "VTP Altamira 2 BHK Floor Plan"
+      },
+      {
+        "slug": "vtp-altamira-3-bhk-floor-plan",
+        "keyword": "VTP Altamira 3 BHK Floor Plan"
+      },
+      {
+        "slug": "vtp-altamira-4-bhk-floor-plan",
+        "keyword": "VTP Altamira 4 BHK Floor Plan"
+      },
+      {
+        "slug": "vtp-altamira-simplex-floor-plan",
+        "keyword": "VTP Altamira Simplex Floor Plan"
+      },
+      {
+        "slug": "vtp-altamira-duplex-floor-plan",
+        "keyword": "VTP Altamira Duplex Floor Plan"
+      },
+      {
+        "slug": "vtp-altamira-2-bhk-carpet-area",
+        "keyword": "VTP Altamira 2 BHK Carpet Area"
+      },
+      {
+        "slug": "vtp-altamira-3-bhk-carpet-area",
+        "keyword": "VTP Altamira 3 BHK Carpet Area"
+      },
+      {
+        "slug": "vtp-altamira-4-bhk-carpet-area",
+        "keyword": "VTP Altamira 4 BHK Carpet Area"
+      },
+      {
+        "slug": "vtp-altamira-simplex-carpet-area",
+        "keyword": "VTP Altamira Simplex Carpet Area"
+      },
+      {
+        "slug": "vtp-altamira-duplex-carpet-area",
+        "keyword": "VTP Altamira Duplex Carpet Area"
+      },
+      {
+        "slug": "VTP Altamira-vs-godrej",
+        "keyword": "VTP Altamira vs Godrej Properties"
+      },
+      {
+        "slug": "VTP Altamira-vs-prestige",
+        "keyword": "VTP Altamira vs Prestige Estates"
+      },
+      {
+        "slug": "VTP Altamira-vs-lodha",
+        "keyword": "VTP Altamira vs Lodha Group"
+      },
+      {
+        "slug": "VTP Altamira-vs-sobha",
+        "keyword": "VTP Altamira vs Sobha Developers"
+      },
+      {
+        "slug": "luxury-flats-kharadi-vtp-altamira",
+        "keyword": "Luxury Flats in Kharadi - VTP Altamira"
+      },
+      {
+        "slug": "premium-apartments-kharadi-vtp-altamira",
+        "keyword": "Premium Apartments in Kharadi - VTP Altamira"
+      },
+      {
+        "slug": "ready-possession-vtp-altamira",
+        "keyword": "VTP Altamira Ready Possession"
+      },
+      {
+        "slug": "under-construction-vtp-altamira",
+        "keyword": "VTP Altamira Under Construction"
+      },
+      {
+        "slug": "emi-calculator-vtp-altamira",
+        "keyword": "VTP Altamira EMI Calculator"
+      },
+      {
+        "slug": "home-loan-vtp-altamira",
+        "keyword": "VTP Altamira Home Loan"
+      },
+      {
+        "slug": "investment-vtp-altamira",
+        "keyword": "VTP Altamira Investment Opportunity"
+      },
+      {
+        "slug": "walk-score-vtp-altamira",
+        "keyword": "VTP Altamira Walk Score Connectivity"
+      }
+    ]
+  },
+  {
+    "id": "project-vtp-monarque",
+    "title": "MONARQUE BY VTP LUXE - Project Keywords",
+    "description": "MONARQUE BY VTP LUXE is a premium luxury residential project by VTP Realty in Hinjawadi, Pune. Township: Blue Waters. Offering Maximum Livable Area philosophy, world-class amenities, and premium lifestyle.",
+    "slugs": [
+      {
+        "slug": "VTP Monarque",
+        "keyword": "MONARQUE BY VTP LUXE"
+      },
+      {
+        "slug": "VTP Monarque-pune",
+        "keyword": "VTP Monarque Pune"
+      },
+      {
+        "slug": "VTP Monarque-hinjawadi",
+        "keyword": "VTP Monarque Hinjawadi"
+      },
+      {
+        "slug": "VTP Monarque-price",
+        "keyword": "VTP Monarque Price"
+      },
+      {
+        "slug": "VTP Monarque-price-list",
+        "keyword": "VTP Monarque Price List"
+      },
+      {
+        "slug": "VTP Monarque-floor-plan",
+        "keyword": "VTP Monarque Floor Plan"
+      },
+      {
+        "slug": "VTP Monarque-floor-plans",
+        "keyword": "VTP Monarque Floor Plans"
+      },
+      {
+        "slug": "VTP Monarque-layout-plan",
+        "keyword": "VTP Monarque Layout Plan"
+      },
+      {
+        "slug": "VTP Monarque-master-plan",
+        "keyword": "VTP Monarque Master Plan"
+      },
+      {
+        "slug": "VTP Monarque-brochure",
+        "keyword": "VTP Monarque Brochure"
+      },
+      {
+        "slug": "VTP Monarque-amenities",
+        "keyword": "VTP Monarque Amenities"
+      },
+      {
+        "slug": "VTP Monarque-review",
+        "keyword": "VTP Monarque Review"
+      },
+      {
+        "slug": "VTP Monarque-location",
+        "keyword": "VTP Monarque Location"
+      },
+      {
+        "slug": "VTP Monarque-possession-date",
+        "keyword": "VTP Monarque Possession Date"
+      },
+      {
+        "slug": "VTP Monarque-rera",
+        "keyword": "VTP Monarque RERA"
+      },
+      {
+        "slug": "VTP Monarque-maharera",
+        "keyword": "VTP Monarque MahaRERA"
+      },
+      {
+        "slug": "VTP Monarque-site-plan",
+        "keyword": "VTP Monarque Site Plan"
+      },
+      {
+        "slug": "VTP Monarque-virtual-tour",
+        "keyword": "VTP Monarque Virtual Tour"
+      },
+      {
+        "slug": "VTP Monarque-construction-update",
+        "keyword": "VTP Monarque Construction Update"
+      },
+      {
+        "slug": "VTP Monarque-sample-flat",
+        "keyword": "VTP Monarque Sample Flat"
+      },
+      {
+        "slug": "VTP Monarque-booking",
+        "keyword": "VTP Monarque Booking"
+      },
+      {
+        "slug": "VTP Monarque-buy",
+        "keyword": "Buy VTP Monarque"
+      },
+      {
+        "slug": "VTP Monarque-invest",
+        "keyword": "Invest in VTP Monarque"
+      },
+      {
+        "slug": "VTP Monarque-nri",
+        "keyword": "VTP Monarque NRI Investment"
+      },
+      {
+        "slug": "VTP Monarque-resale",
+        "keyword": "VTP Monarque Resale"
+      },
+      {
+        "slug": "VTP Monarque-resale-price",
+        "keyword": "VTP Monarque Resale Price"
+      },
+      {
+        "slug": "VTP Monarque-pre-launch",
+        "keyword": "VTP Monarque Pre-Launch Offer"
+      },
+      {
+        "slug": "VTP Monarque-launch-date",
+        "keyword": "VTP Monarque Launch Date"
+      },
+      {
+        "slug": "VTP Monarque-contact",
+        "keyword": "VTP Monarque Contact"
+      },
+      {
+        "slug": "VTP Monarque-site-visit",
+        "keyword": "VTP Monarque Site Visit"
+      },
+      {
+        "slug": "VTP Monarque-video",
+        "keyword": "VTP Monarque Video"
+      },
+      {
+        "slug": "VTP Monarque-township",
+        "keyword": "VTP Monarque Township Blue Waters"
+      },
+      {
+        "slug": "vtp-monarque-duplex",
+        "keyword": "VTP Monarque Duplex"
+      },
+      {
+        "slug": "vtp-monarque-mansion",
+        "keyword": "VTP Monarque Mansion"
+      },
+      {
+        "slug": "vtp-monarque-2-bhk-price",
+        "keyword": "VTP Monarque 2 BHK Price"
+      },
+      {
+        "slug": "vtp-monarque-3-bhk-price",
+        "keyword": "VTP Monarque 3 BHK Price"
+      },
+      {
+        "slug": "vtp-monarque-4-bhk-price",
+        "keyword": "VTP Monarque 4 BHK Price"
+      },
+      {
+        "slug": "vtp-monarque-duplex-price",
+        "keyword": "VTP Monarque Duplex Price"
+      },
+      {
+        "slug": "vtp-monarque-mansion-price",
+        "keyword": "VTP Monarque Mansion Price"
+      },
+      {
+        "slug": "vtp-monarque-2-bhk-floor-plan",
+        "keyword": "VTP Monarque 2 BHK Floor Plan"
+      },
+      {
+        "slug": "vtp-monarque-3-bhk-floor-plan",
+        "keyword": "VTP Monarque 3 BHK Floor Plan"
+      },
+      {
+        "slug": "vtp-monarque-4-bhk-floor-plan",
+        "keyword": "VTP Monarque 4 BHK Floor Plan"
+      },
+      {
+        "slug": "vtp-monarque-duplex-floor-plan",
+        "keyword": "VTP Monarque Duplex Floor Plan"
+      },
+      {
+        "slug": "vtp-monarque-mansion-floor-plan",
+        "keyword": "VTP Monarque Mansion Floor Plan"
+      },
+      {
+        "slug": "vtp-monarque-2-bhk-carpet-area",
+        "keyword": "VTP Monarque 2 BHK Carpet Area"
+      },
+      {
+        "slug": "vtp-monarque-3-bhk-carpet-area",
+        "keyword": "VTP Monarque 3 BHK Carpet Area"
+      },
+      {
+        "slug": "vtp-monarque-4-bhk-carpet-area",
+        "keyword": "VTP Monarque 4 BHK Carpet Area"
+      },
+      {
+        "slug": "vtp-monarque-duplex-carpet-area",
+        "keyword": "VTP Monarque Duplex Carpet Area"
+      },
+      {
+        "slug": "vtp-monarque-mansion-carpet-area",
+        "keyword": "VTP Monarque Mansion Carpet Area"
+      },
+      {
+        "slug": "VTP Monarque-vs-godrej",
+        "keyword": "VTP Monarque vs Godrej Properties"
+      },
+      {
+        "slug": "VTP Monarque-vs-prestige",
+        "keyword": "VTP Monarque vs Prestige Estates"
+      },
+      {
+        "slug": "VTP Monarque-vs-lodha",
+        "keyword": "VTP Monarque vs Lodha Group"
+      },
+      {
+        "slug": "VTP Monarque-vs-sobha",
+        "keyword": "VTP Monarque vs Sobha Developers"
+      },
+      {
+        "slug": "luxury-flats-hinjawadi-vtp-monarque",
+        "keyword": "Luxury Flats in Hinjawadi - VTP Monarque"
+      },
+      {
+        "slug": "premium-apartments-hinjawadi-vtp-monarque",
+        "keyword": "Premium Apartments in Hinjawadi - VTP Monarque"
+      },
+      {
+        "slug": "ready-possession-vtp-monarque",
+        "keyword": "VTP Monarque Ready Possession"
+      },
+      {
+        "slug": "under-construction-vtp-monarque",
+        "keyword": "VTP Monarque Under Construction"
+      },
+      {
+        "slug": "emi-calculator-vtp-monarque",
+        "keyword": "VTP Monarque EMI Calculator"
+      },
+      {
+        "slug": "home-loan-vtp-monarque",
+        "keyword": "VTP Monarque Home Loan"
+      },
+      {
+        "slug": "investment-vtp-monarque",
+        "keyword": "VTP Monarque Investment Opportunity"
+      },
+      {
+        "slug": "walk-score-vtp-monarque",
+        "keyword": "VTP Monarque Walk Score Connectivity"
+      }
+    ]
+  },
+  {
+    "id": "project-vtp-earth-1",
+    "title": "EARTH 1 BY VTP LUXE - Project Keywords",
+    "description": "EARTH 1 BY VTP LUXE is a premium luxury residential project by VTP Realty in Mahalunge, Pune. Township: Blue Waters. Offering Maximum Livable Area philosophy, world-class amenities, and premium lifestyle.",
+    "slugs": [
+      {
+        "slug": "VTP Earth 1",
+        "keyword": "EARTH 1 BY VTP LUXE"
+      },
+      {
+        "slug": "VTP Earth 1-pune",
+        "keyword": "VTP Earth 1 Pune"
+      },
+      {
+        "slug": "VTP Earth 1-mahalunge",
+        "keyword": "VTP Earth 1 Mahalunge"
+      },
+      {
+        "slug": "VTP Earth 1-price",
+        "keyword": "VTP Earth 1 Price"
+      },
+      {
+        "slug": "VTP Earth 1-price-list",
+        "keyword": "VTP Earth 1 Price List"
+      },
+      {
+        "slug": "VTP Earth 1-floor-plan",
+        "keyword": "VTP Earth 1 Floor Plan"
+      },
+      {
+        "slug": "VTP Earth 1-floor-plans",
+        "keyword": "VTP Earth 1 Floor Plans"
+      },
+      {
+        "slug": "VTP Earth 1-layout-plan",
+        "keyword": "VTP Earth 1 Layout Plan"
+      },
+      {
+        "slug": "VTP Earth 1-master-plan",
+        "keyword": "VTP Earth 1 Master Plan"
+      },
+      {
+        "slug": "VTP Earth 1-brochure",
+        "keyword": "VTP Earth 1 Brochure"
+      },
+      {
+        "slug": "VTP Earth 1-amenities",
+        "keyword": "VTP Earth 1 Amenities"
+      },
+      {
+        "slug": "VTP Earth 1-review",
+        "keyword": "VTP Earth 1 Review"
+      },
+      {
+        "slug": "VTP Earth 1-location",
+        "keyword": "VTP Earth 1 Location"
+      },
+      {
+        "slug": "VTP Earth 1-possession-date",
+        "keyword": "VTP Earth 1 Possession Date"
+      },
+      {
+        "slug": "VTP Earth 1-rera",
+        "keyword": "VTP Earth 1 RERA"
+      },
+      {
+        "slug": "VTP Earth 1-maharera",
+        "keyword": "VTP Earth 1 MahaRERA"
+      },
+      {
+        "slug": "VTP Earth 1-site-plan",
+        "keyword": "VTP Earth 1 Site Plan"
+      },
+      {
+        "slug": "VTP Earth 1-virtual-tour",
+        "keyword": "VTP Earth 1 Virtual Tour"
+      },
+      {
+        "slug": "VTP Earth 1-construction-update",
+        "keyword": "VTP Earth 1 Construction Update"
+      },
+      {
+        "slug": "VTP Earth 1-sample-flat",
+        "keyword": "VTP Earth 1 Sample Flat"
+      },
+      {
+        "slug": "VTP Earth 1-booking",
+        "keyword": "VTP Earth 1 Booking"
+      },
+      {
+        "slug": "VTP Earth 1-buy",
+        "keyword": "Buy VTP Earth 1"
+      },
+      {
+        "slug": "VTP Earth 1-invest",
+        "keyword": "Invest in VTP Earth 1"
+      },
+      {
+        "slug": "VTP Earth 1-nri",
+        "keyword": "VTP Earth 1 NRI Investment"
+      },
+      {
+        "slug": "VTP Earth 1-resale",
+        "keyword": "VTP Earth 1 Resale"
+      },
+      {
+        "slug": "VTP Earth 1-resale-price",
+        "keyword": "VTP Earth 1 Resale Price"
+      },
+      {
+        "slug": "VTP Earth 1-pre-launch",
+        "keyword": "VTP Earth 1 Pre-Launch Offer"
+      },
+      {
+        "slug": "VTP Earth 1-launch-date",
+        "keyword": "VTP Earth 1 Launch Date"
+      },
+      {
+        "slug": "VTP Earth 1-contact",
+        "keyword": "VTP Earth 1 Contact"
+      },
+      {
+        "slug": "VTP Earth 1-site-visit",
+        "keyword": "VTP Earth 1 Site Visit"
+      },
+      {
+        "slug": "VTP Earth 1-video",
+        "keyword": "VTP Earth 1 Video"
+      },
+      {
+        "slug": "VTP Earth 1-township",
+        "keyword": "VTP Earth 1 Township Blue Waters"
+      },
+      {
+        "slug": "vtp-earth-1-2-bhk",
+        "keyword": "VTP Earth 1 2 BHK"
+      },
+      {
+        "slug": "vtp-earth-1-3-bhk",
+        "keyword": "VTP Earth 1 3 BHK"
+      },
+      {
+        "slug": "vtp-earth-1-4-bhk",
+        "keyword": "VTP Earth 1 4 BHK"
+      },
+      {
+        "slug": "vtp-earth-1-simplex",
+        "keyword": "VTP Earth 1 Simplex"
+      },
+      {
+        "slug": "vtp-earth-1-duplex",
+        "keyword": "VTP Earth 1 Duplex"
+      },
+      {
+        "slug": "vtp-earth-1-2-bhk-price",
+        "keyword": "VTP Earth 1 2 BHK Price"
+      },
+      {
+        "slug": "vtp-earth-1-3-bhk-price",
+        "keyword": "VTP Earth 1 3 BHK Price"
+      },
+      {
+        "slug": "vtp-earth-1-4-bhk-price",
+        "keyword": "VTP Earth 1 4 BHK Price"
+      },
+      {
+        "slug": "vtp-earth-1-simplex-price",
+        "keyword": "VTP Earth 1 Simplex Price"
+      },
+      {
+        "slug": "vtp-earth-1-duplex-price",
+        "keyword": "VTP Earth 1 Duplex Price"
+      },
+      {
+        "slug": "vtp-earth-1-2-bhk-floor-plan",
+        "keyword": "VTP Earth 1 2 BHK Floor Plan"
+      },
+      {
+        "slug": "vtp-earth-1-3-bhk-floor-plan",
+        "keyword": "VTP Earth 1 3 BHK Floor Plan"
+      },
+      {
+        "slug": "vtp-earth-1-4-bhk-floor-plan",
+        "keyword": "VTP Earth 1 4 BHK Floor Plan"
+      },
+      {
+        "slug": "vtp-earth-1-simplex-floor-plan",
+        "keyword": "VTP Earth 1 Simplex Floor Plan"
+      },
+      {
+        "slug": "vtp-earth-1-duplex-floor-plan",
+        "keyword": "VTP Earth 1 Duplex Floor Plan"
+      },
+      {
+        "slug": "vtp-earth-1-2-bhk-carpet-area",
+        "keyword": "VTP Earth 1 2 BHK Carpet Area"
+      },
+      {
+        "slug": "vtp-earth-1-3-bhk-carpet-area",
+        "keyword": "VTP Earth 1 3 BHK Carpet Area"
+      },
+      {
+        "slug": "vtp-earth-1-4-bhk-carpet-area",
+        "keyword": "VTP Earth 1 4 BHK Carpet Area"
+      },
+      {
+        "slug": "vtp-earth-1-simplex-carpet-area",
+        "keyword": "VTP Earth 1 Simplex Carpet Area"
+      },
+      {
+        "slug": "vtp-earth-1-duplex-carpet-area",
+        "keyword": "VTP Earth 1 Duplex Carpet Area"
+      },
+      {
+        "slug": "VTP Earth 1-vs-godrej",
+        "keyword": "VTP Earth 1 vs Godrej Properties"
+      },
+      {
+        "slug": "VTP Earth 1-vs-prestige",
+        "keyword": "VTP Earth 1 vs Prestige Estates"
+      },
+      {
+        "slug": "VTP Earth 1-vs-lodha",
+        "keyword": "VTP Earth 1 vs Lodha Group"
+      },
+      {
+        "slug": "VTP Earth 1-vs-sobha",
+        "keyword": "VTP Earth 1 vs Sobha Developers"
+      },
+      {
+        "slug": "luxury-flats-mahalunge-vtp-earth-1",
+        "keyword": "Luxury Flats in Mahalunge - VTP Earth 1"
+      },
+      {
+        "slug": "premium-apartments-mahalunge-vtp-earth-1",
+        "keyword": "Premium Apartments in Mahalunge - VTP Earth 1"
+      },
+      {
+        "slug": "ready-possession-vtp-earth-1",
+        "keyword": "VTP Earth 1 Ready Possession"
+      },
+      {
+        "slug": "under-construction-vtp-earth-1",
+        "keyword": "VTP Earth 1 Under Construction"
+      },
+      {
+        "slug": "emi-calculator-vtp-earth-1",
+        "keyword": "VTP Earth 1 EMI Calculator"
+      },
+      {
+        "slug": "home-loan-vtp-earth-1",
+        "keyword": "VTP Earth 1 Home Loan"
+      },
+      {
+        "slug": "investment-vtp-earth-1",
+        "keyword": "VTP Earth 1 Investment Opportunity"
+      },
+      {
+        "slug": "walk-score-vtp-earth-1",
+        "keyword": "VTP Earth 1 Walk Score Connectivity"
+      }
+    ]
+  },
+  {
+    "id": "project-vtp-flamante",
+    "title": "FLAMANTE BY VTP LUXE - Project Keywords",
+    "description": "FLAMANTE BY VTP LUXE is a premium luxury residential project by VTP Realty in Kharadi, Pune. Township: Pegasus. Offering Maximum Livable Area philosophy, world-class amenities, and premium lifestyle.",
+    "slugs": [
+      {
+        "slug": "VTP Flamante",
+        "keyword": "FLAMANTE BY VTP LUXE"
+      },
+      {
+        "slug": "VTP Flamante-pune",
+        "keyword": "VTP Flamante Pune"
+      },
+      {
+        "slug": "VTP Flamante-kharadi",
+        "keyword": "VTP Flamante Kharadi"
+      },
+      {
+        "slug": "VTP Flamante-price",
+        "keyword": "VTP Flamante Price"
+      },
+      {
+        "slug": "VTP Flamante-price-list",
+        "keyword": "VTP Flamante Price List"
+      },
+      {
+        "slug": "VTP Flamante-floor-plan",
+        "keyword": "VTP Flamante Floor Plan"
+      },
+      {
+        "slug": "VTP Flamante-floor-plans",
+        "keyword": "VTP Flamante Floor Plans"
+      },
+      {
+        "slug": "VTP Flamante-layout-plan",
+        "keyword": "VTP Flamante Layout Plan"
+      },
+      {
+        "slug": "VTP Flamante-master-plan",
+        "keyword": "VTP Flamante Master Plan"
+      },
+      {
+        "slug": "VTP Flamante-brochure",
+        "keyword": "VTP Flamante Brochure"
+      },
+      {
+        "slug": "VTP Flamante-amenities",
+        "keyword": "VTP Flamante Amenities"
+      },
+      {
+        "slug": "VTP Flamante-review",
+        "keyword": "VTP Flamante Review"
+      },
+      {
+        "slug": "VTP Flamante-location",
+        "keyword": "VTP Flamante Location"
+      },
+      {
+        "slug": "VTP Flamante-possession-date",
+        "keyword": "VTP Flamante Possession Date"
+      },
+      {
+        "slug": "VTP Flamante-rera",
+        "keyword": "VTP Flamante RERA"
+      },
+      {
+        "slug": "VTP Flamante-maharera",
+        "keyword": "VTP Flamante MahaRERA"
+      },
+      {
+        "slug": "VTP Flamante-site-plan",
+        "keyword": "VTP Flamante Site Plan"
+      },
+      {
+        "slug": "VTP Flamante-virtual-tour",
+        "keyword": "VTP Flamante Virtual Tour"
+      },
+      {
+        "slug": "VTP Flamante-construction-update",
+        "keyword": "VTP Flamante Construction Update"
+      },
+      {
+        "slug": "VTP Flamante-sample-flat",
+        "keyword": "VTP Flamante Sample Flat"
+      },
+      {
+        "slug": "VTP Flamante-booking",
+        "keyword": "VTP Flamante Booking"
+      },
+      {
+        "slug": "VTP Flamante-buy",
+        "keyword": "Buy VTP Flamante"
+      },
+      {
+        "slug": "VTP Flamante-invest",
+        "keyword": "Invest in VTP Flamante"
+      },
+      {
+        "slug": "VTP Flamante-nri",
+        "keyword": "VTP Flamante NRI Investment"
+      },
+      {
+        "slug": "VTP Flamante-resale",
+        "keyword": "VTP Flamante Resale"
+      },
+      {
+        "slug": "VTP Flamante-resale-price",
+        "keyword": "VTP Flamante Resale Price"
+      },
+      {
+        "slug": "VTP Flamante-pre-launch",
+        "keyword": "VTP Flamante Pre-Launch Offer"
+      },
+      {
+        "slug": "VTP Flamante-launch-date",
+        "keyword": "VTP Flamante Launch Date"
+      },
+      {
+        "slug": "VTP Flamante-contact",
+        "keyword": "VTP Flamante Contact"
+      },
+      {
+        "slug": "VTP Flamante-site-visit",
+        "keyword": "VTP Flamante Site Visit"
+      },
+      {
+        "slug": "VTP Flamante-video",
+        "keyword": "VTP Flamante Video"
+      },
+      {
+        "slug": "VTP Flamante-township",
+        "keyword": "VTP Flamante Township Pegasus"
+      },
+      {
+        "slug": "vtp-flamante-simplex",
+        "keyword": "VTP Flamante Simplex"
+      },
+      {
+        "slug": "vtp-flamante-duplex",
+        "keyword": "VTP Flamante Duplex"
+      },
+      {
+        "slug": "vtp-flamante-2-bhk-price",
+        "keyword": "VTP Flamante 2 BHK Price"
+      },
+      {
+        "slug": "vtp-flamante-3-bhk-price",
+        "keyword": "VTP Flamante 3 BHK Price"
+      },
+      {
+        "slug": "vtp-flamante-4-bhk-price",
+        "keyword": "VTP Flamante 4 BHK Price"
+      },
+      {
+        "slug": "vtp-flamante-simplex-price",
+        "keyword": "VTP Flamante Simplex Price"
+      },
+      {
+        "slug": "vtp-flamante-duplex-price",
+        "keyword": "VTP Flamante Duplex Price"
+      },
+      {
+        "slug": "vtp-flamante-2-bhk-floor-plan",
+        "keyword": "VTP Flamante 2 BHK Floor Plan"
+      },
+      {
+        "slug": "vtp-flamante-3-bhk-floor-plan",
+        "keyword": "VTP Flamante 3 BHK Floor Plan"
+      },
+      {
+        "slug": "vtp-flamante-4-bhk-floor-plan",
+        "keyword": "VTP Flamante 4 BHK Floor Plan"
+      },
+      {
+        "slug": "vtp-flamante-simplex-floor-plan",
+        "keyword": "VTP Flamante Simplex Floor Plan"
+      },
+      {
+        "slug": "vtp-flamante-duplex-floor-plan",
+        "keyword": "VTP Flamante Duplex Floor Plan"
+      },
+      {
+        "slug": "vtp-flamante-2-bhk-carpet-area",
+        "keyword": "VTP Flamante 2 BHK Carpet Area"
+      },
+      {
+        "slug": "vtp-flamante-3-bhk-carpet-area",
+        "keyword": "VTP Flamante 3 BHK Carpet Area"
+      },
+      {
+        "slug": "vtp-flamante-4-bhk-carpet-area",
+        "keyword": "VTP Flamante 4 BHK Carpet Area"
+      },
+      {
+        "slug": "vtp-flamante-simplex-carpet-area",
+        "keyword": "VTP Flamante Simplex Carpet Area"
+      },
+      {
+        "slug": "vtp-flamante-duplex-carpet-area",
+        "keyword": "VTP Flamante Duplex Carpet Area"
+      },
+      {
+        "slug": "VTP Flamante-vs-godrej",
+        "keyword": "VTP Flamante vs Godrej Properties"
+      },
+      {
+        "slug": "VTP Flamante-vs-prestige",
+        "keyword": "VTP Flamante vs Prestige Estates"
+      },
+      {
+        "slug": "VTP Flamante-vs-lodha",
+        "keyword": "VTP Flamante vs Lodha Group"
+      },
+      {
+        "slug": "VTP Flamante-vs-sobha",
+        "keyword": "VTP Flamante vs Sobha Developers"
+      },
+      {
+        "slug": "luxury-flats-kharadi-vtp-flamante",
+        "keyword": "Luxury Flats in Kharadi - VTP Flamante"
+      },
+      {
+        "slug": "premium-apartments-kharadi-vtp-flamante",
+        "keyword": "Premium Apartments in Kharadi - VTP Flamante"
+      },
+      {
+        "slug": "ready-possession-vtp-flamante",
+        "keyword": "VTP Flamante Ready Possession"
+      },
+      {
+        "slug": "under-construction-vtp-flamante",
+        "keyword": "VTP Flamante Under Construction"
+      },
+      {
+        "slug": "emi-calculator-vtp-flamante",
+        "keyword": "VTP Flamante EMI Calculator"
+      },
+      {
+        "slug": "home-loan-vtp-flamante",
+        "keyword": "VTP Flamante Home Loan"
+      },
+      {
+        "slug": "investment-vtp-flamante",
+        "keyword": "VTP Flamante Investment Opportunity"
+      },
+      {
+        "slug": "walk-score-vtp-flamante",
+        "keyword": "VTP Flamante Walk Score Connectivity"
+      }
+    ]
+  },
+  {
+    "id": "project-vtp-velvet-villas",
+    "title": "VELVET VILLAS BY VTP LUXE - Project Keywords",
+    "description": "VELVET VILLAS BY VTP LUXE is a premium luxury residential project by VTP Realty in Kharadi, Pune. Township: Pegasus. Offering Maximum Livable Area philosophy, world-class amenities, and premium lifestyle.",
+    "slugs": [
+      {
+        "slug": "VTP Velvet Villas",
+        "keyword": "VELVET VILLAS BY VTP LUXE"
+      },
+      {
+        "slug": "VTP Velvet Villas-pune",
+        "keyword": "VTP Velvet Villas Pune"
+      },
+      {
+        "slug": "VTP Velvet Villas-kharadi",
+        "keyword": "VTP Velvet Villas Kharadi"
+      },
+      {
+        "slug": "VTP Velvet Villas-price",
+        "keyword": "VTP Velvet Villas Price"
+      },
+      {
+        "slug": "VTP Velvet Villas-price-list",
+        "keyword": "VTP Velvet Villas Price List"
+      },
+      {
+        "slug": "VTP Velvet Villas-floor-plan",
+        "keyword": "VTP Velvet Villas Floor Plan"
+      },
+      {
+        "slug": "VTP Velvet Villas-floor-plans",
+        "keyword": "VTP Velvet Villas Floor Plans"
+      },
+      {
+        "slug": "VTP Velvet Villas-layout-plan",
+        "keyword": "VTP Velvet Villas Layout Plan"
+      },
+      {
+        "slug": "VTP Velvet Villas-master-plan",
+        "keyword": "VTP Velvet Villas Master Plan"
+      },
+      {
+        "slug": "VTP Velvet Villas-brochure",
+        "keyword": "VTP Velvet Villas Brochure"
+      },
+      {
+        "slug": "VTP Velvet Villas-amenities",
+        "keyword": "VTP Velvet Villas Amenities"
+      },
+      {
+        "slug": "VTP Velvet Villas-review",
+        "keyword": "VTP Velvet Villas Review"
+      },
+      {
+        "slug": "VTP Velvet Villas-location",
+        "keyword": "VTP Velvet Villas Location"
+      },
+      {
+        "slug": "VTP Velvet Villas-possession-date",
+        "keyword": "VTP Velvet Villas Possession Date"
+      },
+      {
+        "slug": "VTP Velvet Villas-rera",
+        "keyword": "VTP Velvet Villas RERA"
+      },
+      {
+        "slug": "VTP Velvet Villas-maharera",
+        "keyword": "VTP Velvet Villas MahaRERA"
+      },
+      {
+        "slug": "VTP Velvet Villas-site-plan",
+        "keyword": "VTP Velvet Villas Site Plan"
+      },
+      {
+        "slug": "VTP Velvet Villas-virtual-tour",
+        "keyword": "VTP Velvet Villas Virtual Tour"
+      },
+      {
+        "slug": "VTP Velvet Villas-construction-update",
+        "keyword": "VTP Velvet Villas Construction Update"
+      },
+      {
+        "slug": "VTP Velvet Villas-sample-flat",
+        "keyword": "VTP Velvet Villas Sample Flat"
+      },
+      {
+        "slug": "VTP Velvet Villas-booking",
+        "keyword": "VTP Velvet Villas Booking"
+      },
+      {
+        "slug": "VTP Velvet Villas-buy",
+        "keyword": "Buy VTP Velvet Villas"
+      },
+      {
+        "slug": "VTP Velvet Villas-invest",
+        "keyword": "Invest in VTP Velvet Villas"
+      },
+      {
+        "slug": "VTP Velvet Villas-nri",
+        "keyword": "VTP Velvet Villas NRI Investment"
+      },
+      {
+        "slug": "VTP Velvet Villas-resale",
+        "keyword": "VTP Velvet Villas Resale"
+      },
+      {
+        "slug": "VTP Velvet Villas-resale-price",
+        "keyword": "VTP Velvet Villas Resale Price"
+      },
+      {
+        "slug": "VTP Velvet Villas-pre-launch",
+        "keyword": "VTP Velvet Villas Pre-Launch Offer"
+      },
+      {
+        "slug": "VTP Velvet Villas-launch-date",
+        "keyword": "VTP Velvet Villas Launch Date"
+      },
+      {
+        "slug": "VTP Velvet Villas-contact",
+        "keyword": "VTP Velvet Villas Contact"
+      },
+      {
+        "slug": "VTP Velvet Villas-site-visit",
+        "keyword": "VTP Velvet Villas Site Visit"
+      },
+      {
+        "slug": "VTP Velvet Villas-video",
+        "keyword": "VTP Velvet Villas Video"
+      },
+      {
+        "slug": "VTP Velvet Villas-township",
+        "keyword": "VTP Velvet Villas Township Pegasus"
+      },
+      {
+        "slug": "vtp-velvet-villas-4-bhk-mansion",
+        "keyword": "VTP Velvet Villas 4 BHK Mansion"
+      },
+      {
+        "slug": "vtp-velvet-villas-2-bhk-price",
+        "keyword": "VTP Velvet Villas 2 BHK Price"
+      },
+      {
+        "slug": "vtp-velvet-villas-3-bhk-price",
+        "keyword": "VTP Velvet Villas 3 BHK Price"
+      },
+      {
+        "slug": "vtp-velvet-villas-4-bhk-mansion-price",
+        "keyword": "VTP Velvet Villas 4 BHK Mansion Price"
+      },
+      {
+        "slug": "vtp-velvet-villas-2-bhk-floor-plan",
+        "keyword": "VTP Velvet Villas 2 BHK Floor Plan"
+      },
+      {
+        "slug": "vtp-velvet-villas-3-bhk-floor-plan",
+        "keyword": "VTP Velvet Villas 3 BHK Floor Plan"
+      },
+      {
+        "slug": "vtp-velvet-villas-4-bhk-mansion-floor-plan",
+        "keyword": "VTP Velvet Villas 4 BHK Mansion Floor Plan"
+      },
+      {
+        "slug": "vtp-velvet-villas-2-bhk-carpet-area",
+        "keyword": "VTP Velvet Villas 2 BHK Carpet Area"
+      },
+      {
+        "slug": "vtp-velvet-villas-3-bhk-carpet-area",
+        "keyword": "VTP Velvet Villas 3 BHK Carpet Area"
+      },
+      {
+        "slug": "vtp-velvet-villas-4-bhk-mansion-carpet-area",
+        "keyword": "VTP Velvet Villas 4 BHK Mansion Carpet Area"
+      },
+      {
+        "slug": "VTP Velvet Villas-vs-godrej",
+        "keyword": "VTP Velvet Villas vs Godrej Properties"
+      },
+      {
+        "slug": "VTP Velvet Villas-vs-prestige",
+        "keyword": "VTP Velvet Villas vs Prestige Estates"
+      },
+      {
+        "slug": "VTP Velvet Villas-vs-lodha",
+        "keyword": "VTP Velvet Villas vs Lodha Group"
+      },
+      {
+        "slug": "VTP Velvet Villas-vs-sobha",
+        "keyword": "VTP Velvet Villas vs Sobha Developers"
+      },
+      {
+        "slug": "luxury-flats-kharadi-vtp-velvet-villas",
+        "keyword": "Luxury Flats in Kharadi - VTP Velvet Villas"
+      },
+      {
+        "slug": "premium-apartments-kharadi-vtp-velvet-villas",
+        "keyword": "Premium Apartments in Kharadi - VTP Velvet Villas"
+      },
+      {
+        "slug": "ready-possession-vtp-velvet-villas",
+        "keyword": "VTP Velvet Villas Ready Possession"
+      },
+      {
+        "slug": "under-construction-vtp-velvet-villas",
+        "keyword": "VTP Velvet Villas Under Construction"
+      },
+      {
+        "slug": "emi-calculator-vtp-velvet-villas",
+        "keyword": "VTP Velvet Villas EMI Calculator"
+      },
+      {
+        "slug": "home-loan-vtp-velvet-villas",
+        "keyword": "VTP Velvet Villas Home Loan"
+      },
+      {
+        "slug": "investment-vtp-velvet-villas",
+        "keyword": "VTP Velvet Villas Investment Opportunity"
+      },
+      {
+        "slug": "walk-score-vtp-velvet-villas",
+        "keyword": "VTP Velvet Villas Walk Score Connectivity"
+      }
+    ]
+  },
+  {
+    "id": "project-vtp-cielo",
+    "title": "CIELO BY VTP LUXE - Project Keywords",
+    "description": "CIELO BY VTP LUXE is a premium luxury residential project by VTP Realty in Bavdhan, Pune. Township: Standalone. Offering Maximum Livable Area philosophy, world-class amenities, and premium lifestyle.",
+    "slugs": [
+      {
+        "slug": "VTP Cielo",
+        "keyword": "CIELO BY VTP LUXE"
+      },
+      {
+        "slug": "VTP Cielo-pune",
+        "keyword": "VTP Cielo Pune"
+      },
+      {
+        "slug": "VTP Cielo-bavdhan",
+        "keyword": "VTP Cielo Bavdhan"
+      },
+      {
+        "slug": "VTP Cielo-price",
+        "keyword": "VTP Cielo Price"
+      },
+      {
+        "slug": "VTP Cielo-price-list",
+        "keyword": "VTP Cielo Price List"
+      },
+      {
+        "slug": "VTP Cielo-floor-plan",
+        "keyword": "VTP Cielo Floor Plan"
+      },
+      {
+        "slug": "VTP Cielo-floor-plans",
+        "keyword": "VTP Cielo Floor Plans"
+      },
+      {
+        "slug": "VTP Cielo-layout-plan",
+        "keyword": "VTP Cielo Layout Plan"
+      },
+      {
+        "slug": "VTP Cielo-master-plan",
+        "keyword": "VTP Cielo Master Plan"
+      },
+      {
+        "slug": "VTP Cielo-brochure",
+        "keyword": "VTP Cielo Brochure"
+      },
+      {
+        "slug": "VTP Cielo-amenities",
+        "keyword": "VTP Cielo Amenities"
+      },
+      {
+        "slug": "VTP Cielo-review",
+        "keyword": "VTP Cielo Review"
+      },
+      {
+        "slug": "VTP Cielo-location",
+        "keyword": "VTP Cielo Location"
+      },
+      {
+        "slug": "VTP Cielo-possession-date",
+        "keyword": "VTP Cielo Possession Date"
+      },
+      {
+        "slug": "VTP Cielo-rera",
+        "keyword": "VTP Cielo RERA"
+      },
+      {
+        "slug": "VTP Cielo-maharera",
+        "keyword": "VTP Cielo MahaRERA"
+      },
+      {
+        "slug": "VTP Cielo-site-plan",
+        "keyword": "VTP Cielo Site Plan"
+      },
+      {
+        "slug": "VTP Cielo-virtual-tour",
+        "keyword": "VTP Cielo Virtual Tour"
+      },
+      {
+        "slug": "VTP Cielo-construction-update",
+        "keyword": "VTP Cielo Construction Update"
+      },
+      {
+        "slug": "VTP Cielo-sample-flat",
+        "keyword": "VTP Cielo Sample Flat"
+      },
+      {
+        "slug": "VTP Cielo-booking",
+        "keyword": "VTP Cielo Booking"
+      },
+      {
+        "slug": "VTP Cielo-buy",
+        "keyword": "Buy VTP Cielo"
+      },
+      {
+        "slug": "VTP Cielo-invest",
+        "keyword": "Invest in VTP Cielo"
+      },
+      {
+        "slug": "VTP Cielo-nri",
+        "keyword": "VTP Cielo NRI Investment"
+      },
+      {
+        "slug": "VTP Cielo-resale",
+        "keyword": "VTP Cielo Resale"
+      },
+      {
+        "slug": "VTP Cielo-resale-price",
+        "keyword": "VTP Cielo Resale Price"
+      },
+      {
+        "slug": "VTP Cielo-pre-launch",
+        "keyword": "VTP Cielo Pre-Launch Offer"
+      },
+      {
+        "slug": "VTP Cielo-launch-date",
+        "keyword": "VTP Cielo Launch Date"
+      },
+      {
+        "slug": "VTP Cielo-contact",
+        "keyword": "VTP Cielo Contact"
+      },
+      {
+        "slug": "VTP Cielo-site-visit",
+        "keyword": "VTP Cielo Site Visit"
+      },
+      {
+        "slug": "VTP Cielo-video",
+        "keyword": "VTP Cielo Video"
+      },
+      {
+        "slug": "VTP Cielo-township",
+        "keyword": "VTP Cielo Township Standalone"
+      },
+      {
+        "slug": "vtp-cielo-2-bhk",
+        "keyword": "VTP Cielo 2 BHK"
+      },
+      {
+        "slug": "vtp-cielo-3-bhk",
+        "keyword": "VTP Cielo 3 BHK"
+      },
+      {
+        "slug": "vtp-cielo-4-bhk",
+        "keyword": "VTP Cielo 4 BHK"
+      },
+      {
+        "slug": "vtp-cielo-2-bhk-price",
+        "keyword": "VTP Cielo 2 BHK Price"
+      },
+      {
+        "slug": "vtp-cielo-3-bhk-price",
+        "keyword": "VTP Cielo 3 BHK Price"
+      },
+      {
+        "slug": "vtp-cielo-4-bhk-price",
+        "keyword": "VTP Cielo 4 BHK Price"
+      },
+      {
+        "slug": "vtp-cielo-2-bhk-floor-plan",
+        "keyword": "VTP Cielo 2 BHK Floor Plan"
+      },
+      {
+        "slug": "vtp-cielo-3-bhk-floor-plan",
+        "keyword": "VTP Cielo 3 BHK Floor Plan"
+      },
+      {
+        "slug": "vtp-cielo-4-bhk-floor-plan",
+        "keyword": "VTP Cielo 4 BHK Floor Plan"
+      },
+      {
+        "slug": "vtp-cielo-2-bhk-carpet-area",
+        "keyword": "VTP Cielo 2 BHK Carpet Area"
+      },
+      {
+        "slug": "vtp-cielo-3-bhk-carpet-area",
+        "keyword": "VTP Cielo 3 BHK Carpet Area"
+      },
+      {
+        "slug": "vtp-cielo-4-bhk-carpet-area",
+        "keyword": "VTP Cielo 4 BHK Carpet Area"
+      },
+      {
+        "slug": "VTP Cielo-vs-godrej",
+        "keyword": "VTP Cielo vs Godrej Properties"
+      },
+      {
+        "slug": "VTP Cielo-vs-prestige",
+        "keyword": "VTP Cielo vs Prestige Estates"
+      },
+      {
+        "slug": "VTP Cielo-vs-lodha",
+        "keyword": "VTP Cielo vs Lodha Group"
+      },
+      {
+        "slug": "VTP Cielo-vs-sobha",
+        "keyword": "VTP Cielo vs Sobha Developers"
+      },
+      {
+        "slug": "luxury-flats-bavdhan-vtp-cielo",
+        "keyword": "Luxury Flats in Bavdhan - VTP Cielo"
+      },
+      {
+        "slug": "premium-apartments-bavdhan-vtp-cielo",
+        "keyword": "Premium Apartments in Bavdhan - VTP Cielo"
+      },
+      {
+        "slug": "ready-possession-vtp-cielo",
+        "keyword": "VTP Cielo Ready Possession"
+      },
+      {
+        "slug": "under-construction-vtp-cielo",
+        "keyword": "VTP Cielo Under Construction"
+      },
+      {
+        "slug": "emi-calculator-vtp-cielo",
+        "keyword": "VTP Cielo EMI Calculator"
+      },
+      {
+        "slug": "home-loan-vtp-cielo",
+        "keyword": "VTP Cielo Home Loan"
+      },
+      {
+        "slug": "investment-vtp-cielo",
+        "keyword": "VTP Cielo Investment Opportunity"
+      },
+      {
+        "slug": "walk-score-vtp-cielo",
+        "keyword": "VTP Cielo Walk Score Connectivity"
+      }
+    ]
+  },
+  {
+    "id": "project-vtp-aurelia",
+    "title": "VTP AURELIA - Project Keywords",
+    "description": "VTP AURELIA is a premium luxury residential project by VTP Realty in Kharadi, Pune. Township: Pegasus. Offering Maximum Livable Area philosophy, world-class amenities, and premium lifestyle.",
+    "slugs": [
+      {
+        "slug": "VTP Aurelia",
+        "keyword": "VTP AURELIA"
+      },
+      {
+        "slug": "VTP Aurelia-pune",
+        "keyword": "VTP Aurelia Pune"
+      },
+      {
+        "slug": "VTP Aurelia-kharadi",
+        "keyword": "VTP Aurelia Kharadi"
+      },
+      {
+        "slug": "VTP Aurelia-price",
+        "keyword": "VTP Aurelia Price"
+      },
+      {
+        "slug": "VTP Aurelia-price-list",
+        "keyword": "VTP Aurelia Price List"
+      },
+      {
+        "slug": "VTP Aurelia-floor-plan",
+        "keyword": "VTP Aurelia Floor Plan"
+      },
+      {
+        "slug": "VTP Aurelia-floor-plans",
+        "keyword": "VTP Aurelia Floor Plans"
+      },
+      {
+        "slug": "VTP Aurelia-layout-plan",
+        "keyword": "VTP Aurelia Layout Plan"
+      },
+      {
+        "slug": "VTP Aurelia-master-plan",
+        "keyword": "VTP Aurelia Master Plan"
+      },
+      {
+        "slug": "VTP Aurelia-brochure",
+        "keyword": "VTP Aurelia Brochure"
+      },
+      {
+        "slug": "VTP Aurelia-amenities",
+        "keyword": "VTP Aurelia Amenities"
+      },
+      {
+        "slug": "VTP Aurelia-review",
+        "keyword": "VTP Aurelia Review"
+      },
+      {
+        "slug": "VTP Aurelia-location",
+        "keyword": "VTP Aurelia Location"
+      },
+      {
+        "slug": "VTP Aurelia-possession-date",
+        "keyword": "VTP Aurelia Possession Date"
+      },
+      {
+        "slug": "VTP Aurelia-rera",
+        "keyword": "VTP Aurelia RERA"
+      },
+      {
+        "slug": "VTP Aurelia-maharera",
+        "keyword": "VTP Aurelia MahaRERA"
+      },
+      {
+        "slug": "VTP Aurelia-site-plan",
+        "keyword": "VTP Aurelia Site Plan"
+      },
+      {
+        "slug": "VTP Aurelia-virtual-tour",
+        "keyword": "VTP Aurelia Virtual Tour"
+      },
+      {
+        "slug": "VTP Aurelia-construction-update",
+        "keyword": "VTP Aurelia Construction Update"
+      },
+      {
+        "slug": "VTP Aurelia-sample-flat",
+        "keyword": "VTP Aurelia Sample Flat"
+      },
+      {
+        "slug": "VTP Aurelia-booking",
+        "keyword": "VTP Aurelia Booking"
+      },
+      {
+        "slug": "VTP Aurelia-buy",
+        "keyword": "Buy VTP Aurelia"
+      },
+      {
+        "slug": "VTP Aurelia-invest",
+        "keyword": "Invest in VTP Aurelia"
+      },
+      {
+        "slug": "VTP Aurelia-nri",
+        "keyword": "VTP Aurelia NRI Investment"
+      },
+      {
+        "slug": "VTP Aurelia-resale",
+        "keyword": "VTP Aurelia Resale"
+      },
+      {
+        "slug": "VTP Aurelia-resale-price",
+        "keyword": "VTP Aurelia Resale Price"
+      },
+      {
+        "slug": "VTP Aurelia-pre-launch",
+        "keyword": "VTP Aurelia Pre-Launch Offer"
+      },
+      {
+        "slug": "VTP Aurelia-launch-date",
+        "keyword": "VTP Aurelia Launch Date"
+      },
+      {
+        "slug": "VTP Aurelia-contact",
+        "keyword": "VTP Aurelia Contact"
+      },
+      {
+        "slug": "VTP Aurelia-site-visit",
+        "keyword": "VTP Aurelia Site Visit"
+      },
+      {
+        "slug": "VTP Aurelia-video",
+        "keyword": "VTP Aurelia Video"
+      },
+      {
+        "slug": "VTP Aurelia-township",
+        "keyword": "VTP Aurelia Township Pegasus"
+      },
+      {
+        "slug": "vtp-aurelia-2-bhk",
+        "keyword": "VTP Aurelia 2 BHK"
+      },
+      {
+        "slug": "vtp-aurelia-3-bhk",
+        "keyword": "VTP Aurelia 3 BHK"
+      },
+      {
+        "slug": "vtp-aurelia-4-bhk-mansion",
+        "keyword": "VTP Aurelia 4 BHK Mansion"
+      },
+      {
+        "slug": "vtp-aurelia-2-bhk-price",
+        "keyword": "VTP Aurelia 2 BHK Price"
+      },
+      {
+        "slug": "vtp-aurelia-3-bhk-price",
+        "keyword": "VTP Aurelia 3 BHK Price"
+      },
+      {
+        "slug": "vtp-aurelia-4-bhk-mansion-price",
+        "keyword": "VTP Aurelia 4 BHK Mansion Price"
+      },
+      {
+        "slug": "vtp-aurelia-2-bhk-floor-plan",
+        "keyword": "VTP Aurelia 2 BHK Floor Plan"
+      },
+      {
+        "slug": "vtp-aurelia-3-bhk-floor-plan",
+        "keyword": "VTP Aurelia 3 BHK Floor Plan"
+      },
+      {
+        "slug": "vtp-aurelia-4-bhk-mansion-floor-plan",
+        "keyword": "VTP Aurelia 4 BHK Mansion Floor Plan"
+      },
+      {
+        "slug": "vtp-aurelia-2-bhk-carpet-area",
+        "keyword": "VTP Aurelia 2 BHK Carpet Area"
+      },
+      {
+        "slug": "vtp-aurelia-3-bhk-carpet-area",
+        "keyword": "VTP Aurelia 3 BHK Carpet Area"
+      },
+      {
+        "slug": "vtp-aurelia-4-bhk-mansion-carpet-area",
+        "keyword": "VTP Aurelia 4 BHK Mansion Carpet Area"
+      },
+      {
+        "slug": "VTP Aurelia-vs-godrej",
+        "keyword": "VTP Aurelia vs Godrej Properties"
+      },
+      {
+        "slug": "VTP Aurelia-vs-prestige",
+        "keyword": "VTP Aurelia vs Prestige Estates"
+      },
+      {
+        "slug": "VTP Aurelia-vs-lodha",
+        "keyword": "VTP Aurelia vs Lodha Group"
+      },
+      {
+        "slug": "VTP Aurelia-vs-sobha",
+        "keyword": "VTP Aurelia vs Sobha Developers"
+      },
+      {
+        "slug": "luxury-flats-kharadi-vtp-aurelia",
+        "keyword": "Luxury Flats in Kharadi - VTP Aurelia"
+      },
+      {
+        "slug": "premium-apartments-kharadi-vtp-aurelia",
+        "keyword": "Premium Apartments in Kharadi - VTP Aurelia"
+      },
+      {
+        "slug": "ready-possession-vtp-aurelia",
+        "keyword": "VTP Aurelia Ready Possession"
+      },
+      {
+        "slug": "under-construction-vtp-aurelia",
+        "keyword": "VTP Aurelia Under Construction"
+      },
+      {
+        "slug": "emi-calculator-vtp-aurelia",
+        "keyword": "VTP Aurelia EMI Calculator"
+      },
+      {
+        "slug": "home-loan-vtp-aurelia",
+        "keyword": "VTP Aurelia Home Loan"
+      },
+      {
+        "slug": "investment-vtp-aurelia",
+        "keyword": "VTP Aurelia Investment Opportunity"
+      },
+      {
+        "slug": "walk-score-vtp-aurelia",
+        "keyword": "VTP Aurelia Walk Score Connectivity"
+      }
+    ]
+  },
+  {
+    "id": "project-vtp-volare",
+    "title": "VTP VOLARE - Project Keywords",
+    "description": "VTP VOLARE is a premium luxury residential project by VTP Realty in Hinjawadi, Pune. Township: Blue Waters. Offering Maximum Livable Area philosophy, world-class amenities, and premium lifestyle.",
+    "slugs": [
+      {
+        "slug": "VTP Volare",
+        "keyword": "VTP VOLARE"
+      },
+      {
+        "slug": "VTP Volare-pune",
+        "keyword": "VTP Volare Pune"
+      },
+      {
+        "slug": "VTP Volare-hinjawadi",
+        "keyword": "VTP Volare Hinjawadi"
+      },
+      {
+        "slug": "VTP Volare-price",
+        "keyword": "VTP Volare Price"
+      },
+      {
+        "slug": "VTP Volare-price-list",
+        "keyword": "VTP Volare Price List"
+      },
+      {
+        "slug": "VTP Volare-floor-plan",
+        "keyword": "VTP Volare Floor Plan"
+      },
+      {
+        "slug": "VTP Volare-floor-plans",
+        "keyword": "VTP Volare Floor Plans"
+      },
+      {
+        "slug": "VTP Volare-layout-plan",
+        "keyword": "VTP Volare Layout Plan"
+      },
+      {
+        "slug": "VTP Volare-master-plan",
+        "keyword": "VTP Volare Master Plan"
+      },
+      {
+        "slug": "VTP Volare-brochure",
+        "keyword": "VTP Volare Brochure"
+      },
+      {
+        "slug": "VTP Volare-amenities",
+        "keyword": "VTP Volare Amenities"
+      },
+      {
+        "slug": "VTP Volare-review",
+        "keyword": "VTP Volare Review"
+      },
+      {
+        "slug": "VTP Volare-location",
+        "keyword": "VTP Volare Location"
+      },
+      {
+        "slug": "VTP Volare-possession-date",
+        "keyword": "VTP Volare Possession Date"
+      },
+      {
+        "slug": "VTP Volare-rera",
+        "keyword": "VTP Volare RERA"
+      },
+      {
+        "slug": "VTP Volare-maharera",
+        "keyword": "VTP Volare MahaRERA"
+      },
+      {
+        "slug": "VTP Volare-site-plan",
+        "keyword": "VTP Volare Site Plan"
+      },
+      {
+        "slug": "VTP Volare-virtual-tour",
+        "keyword": "VTP Volare Virtual Tour"
+      },
+      {
+        "slug": "VTP Volare-construction-update",
+        "keyword": "VTP Volare Construction Update"
+      },
+      {
+        "slug": "VTP Volare-sample-flat",
+        "keyword": "VTP Volare Sample Flat"
+      },
+      {
+        "slug": "VTP Volare-booking",
+        "keyword": "VTP Volare Booking"
+      },
+      {
+        "slug": "VTP Volare-buy",
+        "keyword": "Buy VTP Volare"
+      },
+      {
+        "slug": "VTP Volare-invest",
+        "keyword": "Invest in VTP Volare"
+      },
+      {
+        "slug": "VTP Volare-nri",
+        "keyword": "VTP Volare NRI Investment"
+      },
+      {
+        "slug": "VTP Volare-resale",
+        "keyword": "VTP Volare Resale"
+      },
+      {
+        "slug": "VTP Volare-resale-price",
+        "keyword": "VTP Volare Resale Price"
+      },
+      {
+        "slug": "VTP Volare-pre-launch",
+        "keyword": "VTP Volare Pre-Launch Offer"
+      },
+      {
+        "slug": "VTP Volare-launch-date",
+        "keyword": "VTP Volare Launch Date"
+      },
+      {
+        "slug": "VTP Volare-contact",
+        "keyword": "VTP Volare Contact"
+      },
+      {
+        "slug": "VTP Volare-site-visit",
+        "keyword": "VTP Volare Site Visit"
+      },
+      {
+        "slug": "VTP Volare-video",
+        "keyword": "VTP Volare Video"
+      },
+      {
+        "slug": "VTP Volare-township",
+        "keyword": "VTP Volare Township Blue Waters"
+      },
+      {
+        "slug": "vtp-volare-2-bhk",
+        "keyword": "VTP Volare 2 BHK"
+      },
+      {
+        "slug": "vtp-volare-3-bhk",
+        "keyword": "VTP Volare 3 BHK"
+      },
+      {
+        "slug": "vtp-volare-4-bhk",
+        "keyword": "VTP Volare 4 BHK"
+      },
+      {
+        "slug": "vtp-volare-2-bhk-price",
+        "keyword": "VTP Volare 2 BHK Price"
+      },
+      {
+        "slug": "vtp-volare-3-bhk-price",
+        "keyword": "VTP Volare 3 BHK Price"
+      },
+      {
+        "slug": "vtp-volare-4-bhk-price",
+        "keyword": "VTP Volare 4 BHK Price"
+      },
+      {
+        "slug": "vtp-volare-2-bhk-floor-plan",
+        "keyword": "VTP Volare 2 BHK Floor Plan"
+      },
+      {
+        "slug": "vtp-volare-3-bhk-floor-plan",
+        "keyword": "VTP Volare 3 BHK Floor Plan"
+      },
+      {
+        "slug": "vtp-volare-4-bhk-floor-plan",
+        "keyword": "VTP Volare 4 BHK Floor Plan"
+      },
+      {
+        "slug": "vtp-volare-2-bhk-carpet-area",
+        "keyword": "VTP Volare 2 BHK Carpet Area"
+      },
+      {
+        "slug": "vtp-volare-3-bhk-carpet-area",
+        "keyword": "VTP Volare 3 BHK Carpet Area"
+      },
+      {
+        "slug": "vtp-volare-4-bhk-carpet-area",
+        "keyword": "VTP Volare 4 BHK Carpet Area"
+      },
+      {
+        "slug": "VTP Volare-vs-godrej",
+        "keyword": "VTP Volare vs Godrej Properties"
+      },
+      {
+        "slug": "VTP Volare-vs-prestige",
+        "keyword": "VTP Volare vs Prestige Estates"
+      },
+      {
+        "slug": "VTP Volare-vs-lodha",
+        "keyword": "VTP Volare vs Lodha Group"
+      },
+      {
+        "slug": "VTP Volare-vs-sobha",
+        "keyword": "VTP Volare vs Sobha Developers"
+      },
+      {
+        "slug": "luxury-flats-hinjawadi-vtp-volare",
+        "keyword": "Luxury Flats in Hinjawadi - VTP Volare"
+      },
+      {
+        "slug": "premium-apartments-hinjawadi-vtp-volare",
+        "keyword": "Premium Apartments in Hinjawadi - VTP Volare"
+      },
+      {
+        "slug": "ready-possession-vtp-volare",
+        "keyword": "VTP Volare Ready Possession"
+      },
+      {
+        "slug": "under-construction-vtp-volare",
+        "keyword": "VTP Volare Under Construction"
+      },
+      {
+        "slug": "emi-calculator-vtp-volare",
+        "keyword": "VTP Volare EMI Calculator"
+      },
+      {
+        "slug": "home-loan-vtp-volare",
+        "keyword": "VTP Volare Home Loan"
+      },
+      {
+        "slug": "investment-vtp-volare",
+        "keyword": "VTP Volare Investment Opportunity"
+      },
+      {
+        "slug": "walk-score-vtp-volare",
+        "keyword": "VTP Volare Walk Score Connectivity"
+      }
+    ]
+  },
+  {
+    "id": "location-kharadi",
+    "title": "Kharadi Real Estate & Properties",
+    "description": "Kharadi is Pune's fastest-growing IT and commercial hub with premium luxury apartments near EON IT Park and Commerzone.",
+    "slugs": [
+      {
+        "slug": "kharadi-new-projects",
+        "keyword": "Kharadi New Projects"
+      },
+      {
+        "slug": "property-price-in-kharadi",
+        "keyword": "Property Price in Kharadi"
+      },
+      {
+        "slug": "flat-price-in-kharadi",
+        "keyword": "Flat Price in Kharadi"
+      },
+      {
+        "slug": "apartment-price-in-kharadi",
+        "keyword": "Apartment Price in Kharadi"
+      },
+      {
+        "slug": "real-estate-price-kharadi",
+        "keyword": "Real Estate Price Kharadi"
+      },
+      {
+        "slug": "home-loan-kharadi",
+        "keyword": "Home Loan Kharadi Properties"
+      },
+      {
+        "slug": "emi-calculator-kharadi",
+        "keyword": "EMI Calculator Kharadi"
+      },
+      {
+        "slug": "rera-registered-projects-kharadi",
+        "keyword": "RERA Registered Projects Kharadi"
+      },
+      {
+        "slug": "maharera-projects-kharadi",
+        "keyword": "MahaRERA Projects Kharadi"
+      },
+      {
+        "slug": "smart-home-kharadi",
+        "keyword": "Smart Home Apartments Kharadi"
+      },
+      {
+        "slug": "gated-community-kharadi",
+        "keyword": "Gated Community Kharadi"
+      },
+      {
+        "slug": "high-rise-apartments-kharadi",
+        "keyword": "High-Rise Apartments Kharadi"
+      },
+      {
+        "slug": "low-rise-apartments-kharadi",
+        "keyword": "Low-Rise Apartments Kharadi"
+      },
+      {
+        "slug": "township-living-kharadi",
+        "keyword": "Township Living Kharadi"
+      },
+      {
+        "slug": "buy-flat-kharadi",
+        "keyword": "Buy Flat in Kharadi"
+      },
+      {
+        "slug": "buy-apartment-kharadi",
+        "keyword": "Buy Apartment in Kharadi"
+      },
+      {
+        "slug": "invest-property-kharadi",
+        "keyword": "Invest in Property Kharadi"
+      },
+      {
+        "slug": "high-roi-kharadi",
+        "keyword": "High ROI Properties Kharadi"
+      },
+      {
+        "slug": "rental-yield-kharadi",
+        "keyword": "Rental Yield Properties Kharadi"
+      }
+    ]
+  },
+  {
+    "id": "location-bavdhan",
+    "title": "Bavdhan Real Estate & Properties",
+    "description": "Bavdhan offers a serene, green environment with excellent connectivity to Hinjawadi IT Park and Baner. Premium luxury apartments with lush valley views.",
+    "slugs": [
+      {
+        "slug": "bavdhan-new-projects",
+        "keyword": "Bavdhan New Projects"
+      },
+      {
+        "slug": "property-price-in-bavdhan",
+        "keyword": "Property Price in Bavdhan"
+      },
+      {
+        "slug": "flat-price-in-bavdhan",
+        "keyword": "Flat Price in Bavdhan"
+      },
+      {
+        "slug": "apartment-price-in-bavdhan",
+        "keyword": "Apartment Price in Bavdhan"
+      },
+      {
+        "slug": "real-estate-price-bavdhan",
+        "keyword": "Real Estate Price Bavdhan"
+      },
+      {
+        "slug": "home-loan-bavdhan",
+        "keyword": "Home Loan Bavdhan Properties"
+      },
+      {
+        "slug": "emi-calculator-bavdhan",
+        "keyword": "EMI Calculator Bavdhan"
+      },
+      {
+        "slug": "rera-registered-projects-bavdhan",
+        "keyword": "RERA Registered Projects Bavdhan"
+      },
+      {
+        "slug": "maharera-projects-bavdhan",
+        "keyword": "MahaRERA Projects Bavdhan"
+      },
+      {
+        "slug": "smart-home-bavdhan",
+        "keyword": "Smart Home Apartments Bavdhan"
+      },
+      {
+        "slug": "gated-community-bavdhan",
+        "keyword": "Gated Community Bavdhan"
+      },
+      {
+        "slug": "high-rise-apartments-bavdhan",
+        "keyword": "High-Rise Apartments Bavdhan"
+      },
+      {
+        "slug": "low-rise-apartments-bavdhan",
+        "keyword": "Low-Rise Apartments Bavdhan"
+      },
+      {
+        "slug": "township-living-bavdhan",
+        "keyword": "Township Living Bavdhan"
+      },
+      {
+        "slug": "buy-flat-bavdhan",
+        "keyword": "Buy Flat in Bavdhan"
+      },
+      {
+        "slug": "buy-apartment-bavdhan",
+        "keyword": "Buy Apartment in Bavdhan"
+      },
+      {
+        "slug": "invest-property-bavdhan",
+        "keyword": "Invest in Property Bavdhan"
+      },
+      {
+        "slug": "high-roi-bavdhan",
+        "keyword": "High ROI Properties Bavdhan"
+      },
+      {
+        "slug": "rental-yield-bavdhan",
+        "keyword": "Rental Yield Properties Bavdhan"
+      }
+    ]
+  },
+  {
+    "id": "location-wakad",
+    "title": "Wakad Real Estate & Properties",
+    "description": "Wakad is a thriving residential suburb with excellent connectivity to Hinjawadi IT Park. Premium flats and luxury apartments at competitive price points.",
+    "slugs": [
+      {
+        "slug": "wakad-new-projects",
+        "keyword": "Wakad New Projects"
+      },
+      {
+        "slug": "property-price-in-wakad",
+        "keyword": "Property Price in Wakad"
+      },
+      {
+        "slug": "flat-price-in-wakad",
+        "keyword": "Flat Price in Wakad"
+      },
+      {
+        "slug": "apartment-price-in-wakad",
+        "keyword": "Apartment Price in Wakad"
+      },
+      {
+        "slug": "real-estate-price-wakad",
+        "keyword": "Real Estate Price Wakad"
+      },
+      {
+        "slug": "home-loan-wakad",
+        "keyword": "Home Loan Wakad Properties"
+      },
+      {
+        "slug": "emi-calculator-wakad",
+        "keyword": "EMI Calculator Wakad"
+      },
+      {
+        "slug": "rera-registered-projects-wakad",
+        "keyword": "RERA Registered Projects Wakad"
+      },
+      {
+        "slug": "maharera-projects-wakad",
+        "keyword": "MahaRERA Projects Wakad"
+      },
+      {
+        "slug": "smart-home-wakad",
+        "keyword": "Smart Home Apartments Wakad"
+      },
+      {
+        "slug": "gated-community-wakad",
+        "keyword": "Gated Community Wakad"
+      },
+      {
+        "slug": "high-rise-apartments-wakad",
+        "keyword": "High-Rise Apartments Wakad"
+      },
+      {
+        "slug": "low-rise-apartments-wakad",
+        "keyword": "Low-Rise Apartments Wakad"
+      },
+      {
+        "slug": "township-living-wakad",
+        "keyword": "Township Living Wakad"
+      },
+      {
+        "slug": "buy-flat-wakad",
+        "keyword": "Buy Flat in Wakad"
+      },
+      {
+        "slug": "buy-apartment-wakad",
+        "keyword": "Buy Apartment in Wakad"
+      },
+      {
+        "slug": "invest-property-wakad",
+        "keyword": "Invest in Property Wakad"
+      },
+      {
+        "slug": "high-roi-wakad",
+        "keyword": "High ROI Properties Wakad"
+      },
+      {
+        "slug": "rental-yield-wakad",
+        "keyword": "Rental Yield Properties Wakad"
+      }
+    ]
+  },
+  {
+    "id": "location-pimple-saudagar",
+    "title": "Pimple Saudagar Real Estate & Properties",
+    "description": "Pimple Saudagar is an upscale residential locality in west Pune offering premium apartments with great connectivity to IT hubs.",
+    "slugs": [
+      {
+        "slug": "pimple-saudagar-new-projects",
+        "keyword": "Pimple Saudagar New Projects"
+      },
+      {
+        "slug": "property-price-in-pimple-saudagar",
+        "keyword": "Property Price in Pimple Saudagar"
+      },
+      {
+        "slug": "flat-price-in-pimple-saudagar",
+        "keyword": "Flat Price in Pimple Saudagar"
+      },
+      {
+        "slug": "apartment-price-in-pimple-saudagar",
+        "keyword": "Apartment Price in Pimple Saudagar"
+      },
+      {
+        "slug": "real-estate-price-pimple-saudagar",
+        "keyword": "Real Estate Price Pimple Saudagar"
+      },
+      {
+        "slug": "home-loan-pimple-saudagar",
+        "keyword": "Home Loan Pimple Saudagar Properties"
+      },
+      {
+        "slug": "emi-calculator-pimple-saudagar",
+        "keyword": "EMI Calculator Pimple Saudagar"
+      },
+      {
+        "slug": "rera-registered-projects-pimple-saudagar",
+        "keyword": "RERA Registered Projects Pimple Saudagar"
+      },
+      {
+        "slug": "maharera-projects-pimple-saudagar",
+        "keyword": "MahaRERA Projects Pimple Saudagar"
+      },
+      {
+        "slug": "smart-home-pimple-saudagar",
+        "keyword": "Smart Home Apartments Pimple Saudagar"
+      },
+      {
+        "slug": "gated-community-pimple-saudagar",
+        "keyword": "Gated Community Pimple Saudagar"
+      },
+      {
+        "slug": "high-rise-apartments-pimple-saudagar",
+        "keyword": "High-Rise Apartments Pimple Saudagar"
+      },
+      {
+        "slug": "low-rise-apartments-pimple-saudagar",
+        "keyword": "Low-Rise Apartments Pimple Saudagar"
+      },
+      {
+        "slug": "township-living-pimple-saudagar",
+        "keyword": "Township Living Pimple Saudagar"
+      },
+      {
+        "slug": "buy-flat-pimple-saudagar",
+        "keyword": "Buy Flat in Pimple Saudagar"
+      },
+      {
+        "slug": "buy-apartment-pimple-saudagar",
+        "keyword": "Buy Apartment in Pimple Saudagar"
+      },
+      {
+        "slug": "invest-property-pimple-saudagar",
+        "keyword": "Invest in Property Pimple Saudagar"
+      },
+      {
+        "slug": "high-roi-pimple-saudagar",
+        "keyword": "High ROI Properties Pimple Saudagar"
+      },
+      {
+        "slug": "rental-yield-pimple-saudagar",
+        "keyword": "Rental Yield Properties Pimple Saudagar"
+      }
+    ]
+  },
+  {
+    "id": "location-wanowrie",
+    "title": "Wanowrie Real Estate & Properties",
+    "description": "Wanowrie is a premium residential area in south Pune with excellent connectivity to Hadapsar IT Park, Magarpatta City, and Pune airport.",
+    "slugs": [
+      {
+        "slug": "luxury-apartments-in-wanowrie",
+        "keyword": "Luxury Apartments in Wanowrie"
+      },
+      {
+        "slug": "premium-flats-in-wanowrie",
+        "keyword": "Premium Flats in Wanowrie"
+      },
+      {
+        "slug": "new-launch-projects-in-wanowrie",
+        "keyword": "New Launch Projects in Wanowrie"
+      },
+      {
+        "slug": "township-projects-in-wanowrie",
+        "keyword": "Township Projects in Wanowrie"
+      },
+      {
+        "slug": "real-estate-investment-in-wanowrie",
+        "keyword": "Real Estate Investment in Wanowrie"
+      },
+      {
+        "slug": "1bhk-in-wanowrie",
+        "keyword": "1BHK in Wanowrie"
+      },
+      {
+        "slug": "2bhk-in-wanowrie",
+        "keyword": "2BHK in Wanowrie"
+      },
+      {
+        "slug": "3bhk-in-wanowrie",
+        "keyword": "3BHK in Wanowrie"
+      },
+      {
+        "slug": "4bhk-in-wanowrie",
+        "keyword": "4BHK in Wanowrie"
+      },
+      {
+        "slug": "5bhk-in-wanowrie",
+        "keyword": "5BHK in Wanowrie"
+      },
+      {
+        "slug": "1-bhk-flats-in-wanowrie",
+        "keyword": "1 BHK Flats in Wanowrie"
+      },
+      {
+        "slug": "2-bhk-flats-in-wanowrie",
+        "keyword": "2 BHK Flats in Wanowrie"
+      },
+      {
+        "slug": "3-bhk-flats-in-wanowrie",
+        "keyword": "3 BHK Flats in Wanowrie"
+      },
+      {
+        "slug": "4-bhk-flats-in-wanowrie",
+        "keyword": "4 BHK Flats in Wanowrie"
+      },
+      {
+        "slug": "studio-apartments-in-wanowrie",
+        "keyword": "Studio Apartments in Wanowrie"
+      },
+      {
+        "slug": "luxury-duplex-in-wanowrie",
+        "keyword": "Luxury Duplex in Wanowrie"
+      },
+      {
+        "slug": "sky-duplex-in-wanowrie",
+        "keyword": "Sky Duplex in Wanowrie"
+      },
+      {
+        "slug": "simplex-flats-in-wanowrie",
+        "keyword": "Simplex Flats in Wanowrie"
+      },
+      {
+        "slug": "ultra-luxury-penthouse-in-wanowrie",
+        "keyword": "Ultra-Luxury Penthouse in Wanowrie"
+      },
+      {
+        "slug": "double-height-living-in-wanowrie",
+        "keyword": "Double-Height Living in Wanowrie"
+      },
+      {
+        "slug": "apartments-with-private-pool-in-wanowrie",
+        "keyword": "Apartments with Private Pool in Wanowrie"
+      },
+      {
+        "slug": "nri-real-estate-investment-in-wanowrie",
+        "keyword": "NRI Real Estate Investment in Wanowrie"
+      },
+      {
+        "slug": "properties-in-wanowrie",
+        "keyword": "Properties in Wanowrie"
+      },
+      {
+        "slug": "flats-in-wanowrie",
+        "keyword": "Flats in Wanowrie"
+      },
+      {
+        "slug": "villas-in-wanowrie",
+        "keyword": "Villas in Wanowrie"
+      },
+      {
+        "slug": "row-houses-in-wanowrie",
+        "keyword": "Row Houses in Wanowrie"
+      },
+      {
+        "slug": "commercial-properties-in-wanowrie",
+        "keyword": "Commercial Properties in Wanowrie"
+      },
+      {
+        "slug": "retail-shops-in-wanowrie",
+        "keyword": "Retail Shops in Wanowrie"
+      },
+      {
+        "slug": "office-spaces-in-wanowrie",
+        "keyword": "Office Spaces in Wanowrie"
+      },
+      {
+        "slug": "ready-possession-flats-in-wanowrie",
+        "keyword": "Ready Possession Flats in Wanowrie"
+      },
+      {
+        "slug": "under-construction-projects-in-wanowrie",
+        "keyword": "Under Construction Projects in Wanowrie"
+      },
+      {
+        "slug": "homes-near-it-park-in-wanowrie",
+        "keyword": "Homes near IT Park in Wanowrie"
+      },
+      {
+        "slug": "maximum-livable-area-homes-in-wanowrie",
+        "keyword": "Maximum Livable Area Homes in Wanowrie"
+      },
+      {
+        "slug": "vtp-projects-in-wanowrie",
+        "keyword": "VTP Projects in Wanowrie"
+      },
+      {
+        "slug": "wanowrie-luxury-apartments",
+        "keyword": "Wanowrie Luxury Apartments"
+      },
+      {
+        "slug": "wanowrie-premium-flats",
+        "keyword": "Wanowrie Premium Flats"
+      },
+      {
+        "slug": "wanowrie-new-projects",
+        "keyword": "Wanowrie New Projects"
+      },
+      {
+        "slug": "wanowrie-2bhk-flats",
+        "keyword": "Wanowrie 2BHK Flats"
+      },
+      {
+        "slug": "wanowrie-3bhk-luxury-homes",
+        "keyword": "Wanowrie 3BHK Luxury Homes"
+      },
+      {
+        "slug": "wanowrie-4bhk-premium-apartments",
+        "keyword": "Wanowrie 4BHK Premium Apartments"
+      },
+      {
+        "slug": "wanowrie-penthouses",
+        "keyword": "Wanowrie Penthouses"
+      },
+      {
+        "slug": "wanowrie-nri-premium-homes",
+        "keyword": "Wanowrie NRI Premium Homes"
+      },
+      {
+        "slug": "wanowrie-properties",
+        "keyword": "Wanowrie Properties"
+      },
+      {
+        "slug": "wanowrie-flats",
+        "keyword": "Wanowrie Flats"
+      },
+      {
+        "slug": "wanowrie-villas",
+        "keyword": "Wanowrie Villas"
+      },
+      {
+        "slug": "wanowrie-ready-possession",
+        "keyword": "Wanowrie Ready Possession"
+      },
+      {
+        "slug": "wanowrie-under-construction",
+        "keyword": "Wanowrie Under Construction"
+      },
+      {
+        "slug": "wanowrie-it-park-homes",
+        "keyword": "Wanowrie IT Park Homes"
+      },
+      {
+        "slug": "wanowrie-mla-homes",
+        "keyword": "Wanowrie MLA Homes"
+      },
+      {
+        "slug": "wanowrie-vtp-projects",
+        "keyword": "Wanowrie VTP Projects"
+      },
+      {
+        "slug": "property-price-in-wanowrie",
+        "keyword": "Property Price in Wanowrie"
+      },
+      {
+        "slug": "flat-price-in-wanowrie",
+        "keyword": "Flat Price in Wanowrie"
+      },
+      {
+        "slug": "apartment-price-in-wanowrie",
+        "keyword": "Apartment Price in Wanowrie"
+      },
+      {
+        "slug": "real-estate-price-wanowrie",
+        "keyword": "Real Estate Price Wanowrie"
+      },
+      {
+        "slug": "home-loan-wanowrie",
+        "keyword": "Home Loan Wanowrie Properties"
+      },
+      {
+        "slug": "emi-calculator-wanowrie",
+        "keyword": "EMI Calculator Wanowrie"
+      },
+      {
+        "slug": "rera-registered-projects-wanowrie",
+        "keyword": "RERA Registered Projects Wanowrie"
+      },
+      {
+        "slug": "maharera-projects-wanowrie",
+        "keyword": "MahaRERA Projects Wanowrie"
+      },
+      {
+        "slug": "smart-home-wanowrie",
+        "keyword": "Smart Home Apartments Wanowrie"
+      },
+      {
+        "slug": "gated-community-wanowrie",
+        "keyword": "Gated Community Wanowrie"
+      },
+      {
+        "slug": "high-rise-apartments-wanowrie",
+        "keyword": "High-Rise Apartments Wanowrie"
+      },
+      {
+        "slug": "low-rise-apartments-wanowrie",
+        "keyword": "Low-Rise Apartments Wanowrie"
+      },
+      {
+        "slug": "township-living-wanowrie",
+        "keyword": "Township Living Wanowrie"
+      },
+      {
+        "slug": "buy-flat-wanowrie",
+        "keyword": "Buy Flat in Wanowrie"
+      },
+      {
+        "slug": "buy-apartment-wanowrie",
+        "keyword": "Buy Apartment in Wanowrie"
+      },
+      {
+        "slug": "invest-property-wanowrie",
+        "keyword": "Invest in Property Wanowrie"
+      },
+      {
+        "slug": "high-roi-wanowrie",
+        "keyword": "High ROI Properties Wanowrie"
+      },
+      {
+        "slug": "rental-yield-wanowrie",
+        "keyword": "Rental Yield Properties Wanowrie"
+      }
+    ]
+  },
+  {
+    "id": "location-hadapsar",
+    "title": "Hadapsar Real Estate & Properties",
+    "description": "Hadapsar is a prime residential and IT destination in east Pune, home to Magarpatta City and SP Infocity. Premium apartments with excellent ROI.",
+    "slugs": [
+      {
+        "slug": "hadapsar-new-projects",
+        "keyword": "Hadapsar New Projects"
+      },
+      {
+        "slug": "property-price-in-hadapsar",
+        "keyword": "Property Price in Hadapsar"
+      },
+      {
+        "slug": "flat-price-in-hadapsar",
+        "keyword": "Flat Price in Hadapsar"
+      },
+      {
+        "slug": "apartment-price-in-hadapsar",
+        "keyword": "Apartment Price in Hadapsar"
+      },
+      {
+        "slug": "real-estate-price-hadapsar",
+        "keyword": "Real Estate Price Hadapsar"
+      },
+      {
+        "slug": "home-loan-hadapsar",
+        "keyword": "Home Loan Hadapsar Properties"
+      },
+      {
+        "slug": "emi-calculator-hadapsar",
+        "keyword": "EMI Calculator Hadapsar"
+      },
+      {
+        "slug": "rera-registered-projects-hadapsar",
+        "keyword": "RERA Registered Projects Hadapsar"
+      },
+      {
+        "slug": "maharera-projects-hadapsar",
+        "keyword": "MahaRERA Projects Hadapsar"
+      },
+      {
+        "slug": "smart-home-hadapsar",
+        "keyword": "Smart Home Apartments Hadapsar"
+      },
+      {
+        "slug": "gated-community-hadapsar",
+        "keyword": "Gated Community Hadapsar"
+      },
+      {
+        "slug": "high-rise-apartments-hadapsar",
+        "keyword": "High-Rise Apartments Hadapsar"
+      },
+      {
+        "slug": "low-rise-apartments-hadapsar",
+        "keyword": "Low-Rise Apartments Hadapsar"
+      },
+      {
+        "slug": "township-living-hadapsar",
+        "keyword": "Township Living Hadapsar"
+      },
+      {
+        "slug": "buy-flat-hadapsar",
+        "keyword": "Buy Flat in Hadapsar"
+      },
+      {
+        "slug": "buy-apartment-hadapsar",
+        "keyword": "Buy Apartment in Hadapsar"
+      },
+      {
+        "slug": "invest-property-hadapsar",
+        "keyword": "Invest in Property Hadapsar"
+      },
+      {
+        "slug": "high-roi-hadapsar",
+        "keyword": "High ROI Properties Hadapsar"
+      },
+      {
+        "slug": "rental-yield-hadapsar",
+        "keyword": "Rental Yield Properties Hadapsar"
+      }
+    ]
+  },
+  {
+    "id": "location-wagholi",
+    "title": "Wagholi Real Estate & Properties",
+    "description": "Wagholi is an emerging residential hub in east Pune with affordable luxury apartments and excellent connectivity to Kharadi IT corridor.",
+    "slugs": [
+      {
+        "slug": "wagholi-new-projects",
+        "keyword": "Wagholi New Projects"
+      },
+      {
+        "slug": "property-price-in-wagholi",
+        "keyword": "Property Price in Wagholi"
+      },
+      {
+        "slug": "flat-price-in-wagholi",
+        "keyword": "Flat Price in Wagholi"
+      },
+      {
+        "slug": "apartment-price-in-wagholi",
+        "keyword": "Apartment Price in Wagholi"
+      },
+      {
+        "slug": "real-estate-price-wagholi",
+        "keyword": "Real Estate Price Wagholi"
+      },
+      {
+        "slug": "home-loan-wagholi",
+        "keyword": "Home Loan Wagholi Properties"
+      },
+      {
+        "slug": "emi-calculator-wagholi",
+        "keyword": "EMI Calculator Wagholi"
+      },
+      {
+        "slug": "rera-registered-projects-wagholi",
+        "keyword": "RERA Registered Projects Wagholi"
+      },
+      {
+        "slug": "maharera-projects-wagholi",
+        "keyword": "MahaRERA Projects Wagholi"
+      },
+      {
+        "slug": "smart-home-wagholi",
+        "keyword": "Smart Home Apartments Wagholi"
+      },
+      {
+        "slug": "gated-community-wagholi",
+        "keyword": "Gated Community Wagholi"
+      },
+      {
+        "slug": "high-rise-apartments-wagholi",
+        "keyword": "High-Rise Apartments Wagholi"
+      },
+      {
+        "slug": "low-rise-apartments-wagholi",
+        "keyword": "Low-Rise Apartments Wagholi"
+      },
+      {
+        "slug": "township-living-wagholi",
+        "keyword": "Township Living Wagholi"
+      },
+      {
+        "slug": "buy-flat-wagholi",
+        "keyword": "Buy Flat in Wagholi"
+      },
+      {
+        "slug": "buy-apartment-wagholi",
+        "keyword": "Buy Apartment in Wagholi"
+      },
+      {
+        "slug": "invest-property-wagholi",
+        "keyword": "Invest in Property Wagholi"
+      },
+      {
+        "slug": "high-roi-wagholi",
+        "keyword": "High ROI Properties Wagholi"
+      },
+      {
+        "slug": "rental-yield-wagholi",
+        "keyword": "Rental Yield Properties Wagholi"
+      }
+    ]
+  },
+  {
+    "id": "location-sus",
+    "title": "Sus Road Real Estate & Properties",
+    "description": "Sus Road is an upscale residential micro-market adjacent to Baner and Pashan, offering premium villas, row houses, and luxury apartments in a green corridor.",
+    "slugs": [
+      {
+        "slug": "sus-new-projects",
+        "keyword": "Sus New Projects"
+      },
+      {
+        "slug": "property-price-in-sus",
+        "keyword": "Property Price in Sus"
+      },
+      {
+        "slug": "flat-price-in-sus",
+        "keyword": "Flat Price in Sus"
+      },
+      {
+        "slug": "apartment-price-in-sus",
+        "keyword": "Apartment Price in Sus"
+      },
+      {
+        "slug": "real-estate-price-sus",
+        "keyword": "Real Estate Price Sus"
+      },
+      {
+        "slug": "home-loan-sus",
+        "keyword": "Home Loan Sus Properties"
+      },
+      {
+        "slug": "emi-calculator-sus",
+        "keyword": "EMI Calculator Sus"
+      },
+      {
+        "slug": "rera-registered-projects-sus",
+        "keyword": "RERA Registered Projects Sus"
+      },
+      {
+        "slug": "maharera-projects-sus",
+        "keyword": "MahaRERA Projects Sus"
+      },
+      {
+        "slug": "smart-home-sus",
+        "keyword": "Smart Home Apartments Sus"
+      },
+      {
+        "slug": "gated-community-sus",
+        "keyword": "Gated Community Sus"
+      },
+      {
+        "slug": "high-rise-apartments-sus",
+        "keyword": "High-Rise Apartments Sus"
+      },
+      {
+        "slug": "low-rise-apartments-sus",
+        "keyword": "Low-Rise Apartments Sus"
+      },
+      {
+        "slug": "township-living-sus",
+        "keyword": "Township Living Sus"
+      },
+      {
+        "slug": "buy-flat-sus",
+        "keyword": "Buy Flat in Sus"
+      },
+      {
+        "slug": "buy-apartment-sus",
+        "keyword": "Buy Apartment in Sus"
+      },
+      {
+        "slug": "invest-property-sus",
+        "keyword": "Invest in Property Sus"
+      },
+      {
+        "slug": "high-roi-sus",
+        "keyword": "High ROI Properties Sus"
+      },
+      {
+        "slug": "rental-yield-sus",
+        "keyword": "Rental Yield Properties Sus"
+      }
+    ]
+  },
+  {
+    "id": "location-tathawade",
+    "title": "Tathawade Real Estate & Properties",
+    "description": "Tathawade is a premium locality in the Pimpri-Chinchwad jurisdiction with excellent Hinjawadi IT Park connectivity and luxury housing options.",
+    "slugs": [
+      {
+        "slug": "tathawade-new-projects",
+        "keyword": "Tathawade New Projects"
+      },
+      {
+        "slug": "property-price-in-tathawade",
+        "keyword": "Property Price in Tathawade"
+      },
+      {
+        "slug": "flat-price-in-tathawade",
+        "keyword": "Flat Price in Tathawade"
+      },
+      {
+        "slug": "apartment-price-in-tathawade",
+        "keyword": "Apartment Price in Tathawade"
+      },
+      {
+        "slug": "real-estate-price-tathawade",
+        "keyword": "Real Estate Price Tathawade"
+      },
+      {
+        "slug": "home-loan-tathawade",
+        "keyword": "Home Loan Tathawade Properties"
+      },
+      {
+        "slug": "emi-calculator-tathawade",
+        "keyword": "EMI Calculator Tathawade"
+      },
+      {
+        "slug": "rera-registered-projects-tathawade",
+        "keyword": "RERA Registered Projects Tathawade"
+      },
+      {
+        "slug": "maharera-projects-tathawade",
+        "keyword": "MahaRERA Projects Tathawade"
+      },
+      {
+        "slug": "smart-home-tathawade",
+        "keyword": "Smart Home Apartments Tathawade"
+      },
+      {
+        "slug": "gated-community-tathawade",
+        "keyword": "Gated Community Tathawade"
+      },
+      {
+        "slug": "high-rise-apartments-tathawade",
+        "keyword": "High-Rise Apartments Tathawade"
+      },
+      {
+        "slug": "low-rise-apartments-tathawade",
+        "keyword": "Low-Rise Apartments Tathawade"
+      },
+      {
+        "slug": "township-living-tathawade",
+        "keyword": "Township Living Tathawade"
+      },
+      {
+        "slug": "buy-flat-tathawade",
+        "keyword": "Buy Flat in Tathawade"
+      },
+      {
+        "slug": "buy-apartment-tathawade",
+        "keyword": "Buy Apartment in Tathawade"
+      },
+      {
+        "slug": "invest-property-tathawade",
+        "keyword": "Invest in Property Tathawade"
+      },
+      {
+        "slug": "high-roi-tathawade",
+        "keyword": "High ROI Properties Tathawade"
+      },
+      {
+        "slug": "rental-yield-tathawade",
+        "keyword": "Rental Yield Properties Tathawade"
+      }
+    ]
+  },
+  {
+    "id": "location-pashan",
+    "title": "Pashan Real Estate & Properties",
+    "description": "Pashan is a serene, upscale residential area in west Pune with premium apartment projects, excellent IT Park connectivity, and lush green surroundings.",
+    "slugs": [
+      {
+        "slug": "pashan-new-projects",
+        "keyword": "Pashan New Projects"
+      },
+      {
+        "slug": "property-price-in-pashan",
+        "keyword": "Property Price in Pashan"
+      },
+      {
+        "slug": "flat-price-in-pashan",
+        "keyword": "Flat Price in Pashan"
+      },
+      {
+        "slug": "apartment-price-in-pashan",
+        "keyword": "Apartment Price in Pashan"
+      },
+      {
+        "slug": "real-estate-price-pashan",
+        "keyword": "Real Estate Price Pashan"
+      },
+      {
+        "slug": "home-loan-pashan",
+        "keyword": "Home Loan Pashan Properties"
+      },
+      {
+        "slug": "emi-calculator-pashan",
+        "keyword": "EMI Calculator Pashan"
+      },
+      {
+        "slug": "rera-registered-projects-pashan",
+        "keyword": "RERA Registered Projects Pashan"
+      },
+      {
+        "slug": "maharera-projects-pashan",
+        "keyword": "MahaRERA Projects Pashan"
+      },
+      {
+        "slug": "smart-home-pashan",
+        "keyword": "Smart Home Apartments Pashan"
+      },
+      {
+        "slug": "gated-community-pashan",
+        "keyword": "Gated Community Pashan"
+      },
+      {
+        "slug": "high-rise-apartments-pashan",
+        "keyword": "High-Rise Apartments Pashan"
+      },
+      {
+        "slug": "low-rise-apartments-pashan",
+        "keyword": "Low-Rise Apartments Pashan"
+      },
+      {
+        "slug": "township-living-pashan",
+        "keyword": "Township Living Pashan"
+      },
+      {
+        "slug": "buy-flat-pashan",
+        "keyword": "Buy Flat in Pashan"
+      },
+      {
+        "slug": "buy-apartment-pashan",
+        "keyword": "Buy Apartment in Pashan"
+      },
+      {
+        "slug": "invest-property-pashan",
+        "keyword": "Invest in Property Pashan"
+      },
+      {
+        "slug": "high-roi-pashan",
+        "keyword": "High ROI Properties Pashan"
+      },
+      {
+        "slug": "rental-yield-pashan",
+        "keyword": "Rental Yield Properties Pashan"
+      }
+    ]
+  },
+  {
+    "id": "pune-citywide-real-estate",
+    "title": "Pune City-Wide Real Estate & VTP Brand",
+    "description": "Comprehensive Pune city-wide real estate keywords including VTP Realty brand keywords, competitor capture, and high-intent buyer queries across all Pune locations.",
+    "slugs": [
+      {
+        "slug": "luxury-apartments-in-pune",
+        "keyword": "Luxury Apartments in Pune"
+      },
+      {
+        "slug": "premium-flats-in-pune",
+        "keyword": "Premium Flats in Pune"
+      },
+      {
+        "slug": "luxury-real-estate-pune",
+        "keyword": "Luxury Real Estate Pune"
+      },
+      {
+        "slug": "real-estate-investment-pune",
+        "keyword": "Real Estate Investment Pune"
+      },
+      {
+        "slug": "buy-apartment-pune",
+        "keyword": "Buy Apartment in Pune"
+      },
+      {
+        "slug": "buy-flat-pune",
+        "keyword": "Buy Flat in Pune"
+      },
+      {
+        "slug": "new-launch-projects-pune",
+        "keyword": "New Launch Projects Pune 2025"
+      },
+      {
+        "slug": "upcoming-projects-pune",
+        "keyword": "Upcoming Residential Projects Pune"
+      },
+      {
+        "slug": "township-projects-pune",
+        "keyword": "Township Projects Pune"
+      },
+      {
+        "slug": "rera-registered-projects-pune",
+        "keyword": "RERA Registered Projects Pune"
+      },
+      {
+        "slug": "maharera-projects-pune",
+        "keyword": "MahaRERA Projects Pune"
+      },
+      {
+        "slug": "nri-investment-pune",
+        "keyword": "NRI Investment Pune Real Estate"
+      },
+      {
+        "slug": "nri-property-pune",
+        "keyword": "NRI Property Pune"
+      },
+      {
+        "slug": "best-locality-buy-flat-pune",
+        "keyword": "Best Locality to Buy Flat in Pune"
+      },
+      {
+        "slug": "most-luxurious-apartments-pune",
+        "keyword": "Most Luxurious Apartments in Pune"
+      },
+      {
+        "slug": "top-builders-pune",
+        "keyword": "Top Builders in Pune"
+      },
+      {
+        "slug": "best-developers-pune",
+        "keyword": "Best Real Estate Developers Pune"
+      },
+      {
+        "slug": "vtp-realty-pune",
+        "keyword": "VTP Realty Pune"
+      },
+      {
+        "slug": "vtp-realty-projects-pune",
+        "keyword": "VTP Realty Projects Pune"
+      },
+      {
+        "slug": "vtp-realty-new-launch",
+        "keyword": "VTP Realty New Launch 2025"
+      },
+      {
+        "slug": "vtp-realty-review",
+        "keyword": "VTP Realty Review"
+      },
+      {
+        "slug": "vtp-realty-contact",
+        "keyword": "VTP Realty Contact Number"
+      },
+      {
+        "slug": "vtp-realty-blue-waters",
+        "keyword": "VTP Realty Blue Waters Township"
+      },
+      {
+        "slug": "vtp-blue-waters-pune",
+        "keyword": "VTP Blue Waters Pune"
+      },
+      {
+        "slug": "vtp-blue-waters-mahalunge",
+        "keyword": "VTP Blue Waters Mahalunge"
+      },
+      {
+        "slug": "vtp-blue-waters-hinjawadi",
+        "keyword": "VTP Blue Waters Hinjawadi"
+      },
+      {
+        "slug": "vtp-township-pegasus",
+        "keyword": "VTP Township Pegasus Kharadi"
+      },
+      {
+        "slug": "pune-it-corridor-property",
+        "keyword": "Property in Pune IT Corridor"
+      },
+      {
+        "slug": "pune-west-luxury-apartments",
+        "keyword": "Luxury Apartments West Pune"
+      },
+      {
+        "slug": "pune-east-luxury-apartments",
+        "keyword": "Luxury Apartments East Pune"
+      },
+      {
+        "slug": "pune-2bhk-apartments",
+        "keyword": "2 BHK Apartments Pune"
+      },
+      {
+        "slug": "pune-3bhk-apartments",
+        "keyword": "3 BHK Apartments Pune"
+      },
+      {
+        "slug": "pune-4bhk-apartments",
+        "keyword": "4 BHK Apartments Pune"
+      },
+      {
+        "slug": "pune-luxury-villas",
+        "keyword": "Luxury Villas in Pune"
+      },
+      {
+        "slug": "pune-penthouse",
+        "keyword": "Penthouse in Pune"
+      },
+      {
+        "slug": "pune-sky-duplex",
+        "keyword": "Sky Duplex in Pune"
+      },
+      {
+        "slug": "pune-mla-philosophy",
+        "keyword": "Maximum Livable Area Homes Pune"
+      },
+      {
+        "slug": "pune-smart-home",
+        "keyword": "Smart Home Apartments Pune"
+      },
+      {
+        "slug": "pune-gated-community",
+        "keyword": "Gated Community Apartments Pune"
+      },
+      {
+        "slug": "pune-high-rise",
+        "keyword": "High Rise Apartments Pune"
+      },
+      {
+        "slug": "pune-real-estate-2025",
+        "keyword": "Pune Real Estate Market 2025"
+      },
+      {
+        "slug": "pune-property-price",
+        "keyword": "Pune Property Price 2025"
+      },
+      {
+        "slug": "pune-flat-rate",
+        "keyword": "Pune Flat Rate per Sq Ft"
+      },
+      {
+        "slug": "pune-property-appreciation",
+        "keyword": "Pune Property Appreciation Rate"
+      },
+      {
+        "slug": "pune-rental-yield",
+        "keyword": "Pune Rental Yield Properties"
+      },
+      {
+        "slug": "pune-home-loan",
+        "keyword": "Home Loan for Pune Property"
+      },
+      {
+        "slug": "pune-emi-calculator",
+        "keyword": "Pune Property EMI Calculator"
+      },
+      {
+        "slug": "under-construction-projects-pune",
+        "keyword": "Under Construction Projects Pune"
+      },
+      {
+        "slug": "ready-possession-apartments-pune",
+        "keyword": "Ready Possession Apartments Pune"
+      },
+      {
+        "slug": "possession-2025-pune",
+        "keyword": "Property Possession 2025 Pune"
+      },
+      {
+        "slug": "possession-2026-pune",
+        "keyword": "Property Possession 2026 Pune"
+      },
+      {
+        "slug": "best-investment-pune",
+        "keyword": "Best Property Investment Pune"
+      },
+      {
+        "slug": "high-roi-property-pune",
+        "keyword": "High ROI Property Pune"
+      },
+      {
+        "slug": "pune-luxury-homes-price",
+        "keyword": "Luxury Homes Price in Pune"
+      },
+      {
+        "slug": "commercial-property-pune",
+        "keyword": "Commercial Property Pune"
+      },
+      {
+        "slug": "office-space-pune",
+        "keyword": "Office Space for Sale Pune"
+      },
+      {
+        "slug": "godrej-properties-pune-alternative",
+        "keyword": "Godrej Properties Pune Alternative"
+      },
+      {
+        "slug": "lodha-pune-alternative",
+        "keyword": "Lodha Pune Alternative"
+      },
+      {
+        "slug": "prestige-pune-alternative",
+        "keyword": "Prestige Estates Pune Alternative"
+      },
+      {
+        "slug": "sobha-pune-alternative",
+        "keyword": "Sobha Developers Pune Alternative"
+      },
+      {
+        "slug": "kolte-patil-alternative",
+        "keyword": "Kolte Patil Alternative Pune"
+      },
+      {
+        "slug": "kul-corp-alternative",
+        "keyword": "KUL Corp Alternative Pune"
+      },
+      {
+        "slug": "amanora-pune-alternative",
+        "keyword": "Amanora Park Town Alternative"
+      },
+      {
+        "slug": "magarpatta-city-alternative",
+        "keyword": "Magarpatta City Alternative Pune"
+      },
+      {
+        "slug": "naiknavare-alternative",
+        "keyword": "Naiknavare Developers Alternative"
+      },
+      {
+        "slug": "pune-luxury-vs-mumbai",
+        "keyword": "Pune Luxury Property vs Mumbai"
+      },
+      {
+        "slug": "vtp-realty-altamira",
+        "keyword": "VTP Realty Altamira Kharadi"
+      },
+      {
+        "slug": "vtp-realty-monarque",
+        "keyword": "VTP Realty Monarque Hinjawadi"
+      },
+      {
+        "slug": "vtp-realty-earth-1",
+        "keyword": "VTP Realty Earth 1 Mahalunge"
+      },
+      {
+        "slug": "vtp-realty-flamante",
+        "keyword": "VTP Realty Flamante Kharadi"
+      },
+      {
+        "slug": "vtp-realty-velvet-villas",
+        "keyword": "VTP Realty Velvet Villas Kharadi"
+      },
+      {
+        "slug": "vtp-realty-cielo",
+        "keyword": "VTP Realty Cielo Bavdhan"
+      },
+      {
+        "slug": "vtp-realty-aurelia",
+        "keyword": "VTP Realty Aurelia Kharadi"
+      },
+      {
+        "slug": "vtp-realty-volare",
+        "keyword": "VTP Realty Volare Hinjawadi"
+      },
+      {
+        "slug": "vtp-luxe-brand",
+        "keyword": "VTP Luxe Brand Apartments"
+      },
+      {
+        "slug": "vtp-realty-mla-philosophy",
+        "keyword": "VTP Realty Maximum Livable Area Philosophy"
+      },
+      {
+        "slug": "vtp-realty-zero-brokerage",
+        "keyword": "VTP Realty Zero Brokerage"
+      },
+      {
+        "slug": "vtp-realty-sample-flat",
+        "keyword": "VTP Realty Sample Flat Pune"
+      },
+      {
+        "slug": "vtp-realty-site-visit",
+        "keyword": "VTP Realty Site Visit Booking"
+      },
+      {
+        "slug": "vtp-realty-brochure",
+        "keyword": "VTP Realty Project Brochure Download"
+      },
+      {
+        "slug": "vtp-realty-price-list",
+        "keyword": "VTP Realty Price List 2025"
+      },
+      {
+        "slug": "vtp-realty-floor-plan",
+        "keyword": "VTP Realty Floor Plan"
+      },
+      {
+        "slug": "vtp-realty-amenities",
+        "keyword": "VTP Realty Amenities"
+      },
+      {
+        "slug": "vtp-realty-virtual-tour",
+        "keyword": "VTP Realty Virtual Tour"
+      },
+      {
+        "slug": "vtp-realty-360-tour",
+        "keyword": "VTP Realty 360 Degree Tour"
+      },
+      {
+        "slug": "vtp-realty-investor-presentation",
+        "keyword": "VTP Realty Investor Presentation"
+      },
+      {
+        "slug": "vtp-realty-annual-report",
+        "keyword": "VTP Realty Annual Report"
+      },
+      {
+        "slug": "vtp-realty-award-winning",
+        "keyword": "VTP Realty Award Winning Developer"
+      },
+      {
+        "slug": "vtp-realty-track-record",
+        "keyword": "VTP Realty Track Record Delivered Projects"
       }
     ]
   }
