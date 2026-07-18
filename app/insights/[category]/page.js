@@ -17,12 +17,28 @@ export async function generateMetadata({ params }) {
   if (!catData) {
     return { title: 'Not Found' };
   }
-  
+
+  const title = `${catData.label} | VTP Realty Insights`;
+  const description = `Explore our latest ${catData.label.toLowerCase()} to stay informed about Pune's luxury real estate market. Expert analysis from VTP Realty's research team.`;
+  const url = `https://vtpbluewaters.com/insights/${category}`;
+
   return {
-    title: `${catData.label} | VTP Realty Insights`,
-    description: `Explore our latest ${catData.label.toLowerCase()} to stay informed about Pune's luxury real estate market.`,
-    alternates: {
-      canonical: `https://vtpbluewaters.com/insights/${category}`}
+    title,
+    description,
+    alternates: { canonical: url },
+    openGraph: {
+      title,
+      description,
+      url,
+      type: 'website',
+      images: [{ url: 'https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg', width: 1200, height: 630 }],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title,
+      description,
+      images: ['https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg'],
+    },
   };
 }
 
@@ -37,9 +53,38 @@ export default async function CategoryArchive({   params }) {
   }
 
   const articles = await articleEngine.getArticlesByCategory(category);
+  const url = `https://vtpbluewaters.com/insights/${category}`;
+
+  const collectionSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    '@id': `${url}#collectionpage`,
+    'name': `${catData.label} | VTP Realty Insights`,
+    'description': `Expert ${catData.label.toLowerCase()} from VTP Realty's Senior Real Estate Analysts.`,
+    'url': url,
+    'isPartOf': { '@id': 'https://vtpbluewaters.com/#website' },
+    'publisher': { '@id': 'https://vtpbluewaters.com/#organization' },
+    'inLanguage': 'en-IN',
+    'hasPart': articles.slice(0, 8).map(a => ({
+      '@type': 'Article',
+      'name': a.title,
+      'url': `https://vtpbluewaters.com/insights/${a.category}/${a.slug}`,
+      'image': a.image,
+      'datePublished': a.date,
+    })),
+    'breadcrumb': {
+      '@type': 'BreadcrumbList',
+      'itemListElement': [
+        { '@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://vtpbluewaters.com' },
+        { '@type': 'ListItem', 'position': 2, 'name': 'Insights', 'item': 'https://vtpbluewaters.com/insights' },
+        { '@type': 'ListItem', 'position': 3, 'name': catData.label, 'item': url },
+      ],
+    },
+  };
 
   return (
     <article className="min-h-screen bg-luxury-navy">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionSchema) }} />
       <header className="pt-16 lg:pt-32 pb-16 border-b border-white/5">
         <div className="container mx-auto px-6 max-w-7xl">
           <div className="flex flex-col md:flex-row justify-between items-end gap-8">

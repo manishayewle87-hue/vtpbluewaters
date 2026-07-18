@@ -2,6 +2,7 @@ import contentData from '@/app/data/content-hub.json';
 import Link from 'next/link';
 import { ArrowLeft, Calendar, User } from 'lucide-react';
 import ReactMarkdown from 'react-markdown';
+import ArticleSchema from '@/app/components/seo/ArticleSchema';
 
 
 
@@ -14,10 +15,32 @@ export async function generateMetadata({ params }) {
   const cms = require('../../services/cms').cms;
   const blog = await cms.getBlogBySlug(slug);
   if (!blog) return { title: 'Not Found' };
-  
+
+  const url = `https://vtpbluewaters.com/blog/${slug}`;
+  const title = `${blog.title} | VTP Blue Waters Real Estate Insights`;
+  const description = `${blog.excerpt || blog.content?.substring(0, 155) || 'Comprehensive real estate insights for Mahalunge and Baner Annex.'}...`;
+  const image = blog.image || 'https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg';
+
   return {
-    title: `${blog.title} | VTP Blue Waters Real Estate Insights`,
-    description: `Read about ${blog.title}. Comprehensive real estate insights for Mahalunge and Baner Annex.`
+    title,
+    description,
+    alternates: { canonical: url },
+    openGraph: {
+      title,
+      description,
+      url,
+      type: 'article',
+      publishedTime: blog.createdAt || new Date().toISOString(),
+      modifiedTime: blog.updatedAt || blog.createdAt || new Date().toISOString(),
+      images: [{ url: image, width: 1200, height: 630, alt: blog.title }],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title,
+      description,
+      images: [image],
+    },
+    robots: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 },
   };
 }
 
@@ -30,23 +53,20 @@ export default async function BlogPostPage({   params }) {
     return <div className="min-h-screen pt-16 lg:pt-32 text-center text-white">Blog not found.</div>;
   }
 
-  const articleSchema = {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": blog.title,
-    "datePublished": new Date().toISOString().split('T')[0],
-    "author": [{
-        "@type": "Organization",
-        "name": "VTP Insights Team",
-        "url": "https://vtpbluewaters.com"
-    }]
-  };
+  const url = `https://vtpbluewaters.com/blog/${slug}`;
+  const image = blog.image || 'https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg';
 
   return (
     <div className="min-h-screen bg-luxury-navy pt-16 lg:pt-32 pb-12 lg:pb-24">
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      <ArticleSchema
+        headline={blog.title}
+        description={blog.excerpt || blog.content?.substring(0, 160) || ''}
+        url={url}
+        image={image}
+        datePublished={blog.createdAt ? new Date(blog.createdAt).toISOString().split('T')[0] : new Date().toISOString().split('T')[0]}
+        dateModified={blog.updatedAt ? new Date(blog.updatedAt).toISOString().split('T')[0] : new Date().toISOString().split('T')[0]}
+        keywords={blog.tags || ['Pune real estate', 'VTP Realty', 'Mahalunge apartments']}
+        wordCount={blog.content?.split(' ').length || 800}
       />
       <div className="container mx-auto px-6 max-w-3xl">
         <Link href="/" className="inline-flex items-center gap-2 text-luxury-gold hover:text-white transition-colors mb-12 text-sm uppercase tracking-widest">
