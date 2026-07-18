@@ -2,6 +2,7 @@ import { notFound } from 'next/navigation';
 import Image from 'next/image';
 import locationsData from '@/app/data/locations.json';
 import projectsData from '@/app/data/projects.json';
+import { seoSilos } from '@/app/data/seo-silos';
 import Link from 'next/link';
 import Breadcrumbs from '@/app/components/ui/Breadcrumbs';
 import { Briefcase, Train, Coffee, TrendingUp, Plane, Cpu, MapPin, Leaf, Star, CheckCircle2 } from 'lucide-react';
@@ -10,10 +11,26 @@ export async function generateMetadata({ params }) {
   const { location } = await params;
   const loc = locationsData.find(l => l.slug === location);
   if (!loc) return {};
-  
+
+  const url = `https://vtpbluewaters.com/locations/${loc.slug}`;
+  const title = `Luxury Real Estate in ${loc.name}, Pune | VTP Realty`;
+  const description = loc.seoDescription || `Explore premium luxury apartments and townships in ${loc.name}, Pune. Find your dream home near top IT parks with VTP Realty. RERA Registered projects.`;
+
   return {
-    title: `Luxury Real Estate in ${loc.name}, Pune | VTP Realty`,
-    description: loc.seoDescription || `Explore premium luxury apartments and townships in ${loc.name}, ${loc.region}. Find your dream home near top IT parks with VTP Realty.`
+    title,
+    description,
+    alternates: { canonical: url },
+    openGraph: {
+      title,
+      description,
+      url,
+      siteName: 'VTP Blue Waters',
+      locale: 'en_IN',
+      type: 'website',
+      images: [{ url: 'https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg', width: 1200, height: 630, alt: `Luxury Real Estate ${loc.name} Pune` }]
+    },
+    twitter: { card: 'summary_large_image', title, description, images: ['https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg'] },
+    robots: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 }
   };
 }
 
@@ -71,24 +88,42 @@ export default async function LocationPage({ params }) {
         </div>
       </section>
 
-      {/* Local Infrastructure Schema */}
+      {/* Full Knowledge Graph for Location Page */}
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
           __html: JSON.stringify({
             "@context": "https://schema.org",
-            "@type": "Place",
-            "name": loc.name,
-            "description": loc.expansiveDescription || loc.description,
-            "containedInPlace": {
-              "@type": "City",
-              "name": "Pune"
-            },
-            "amenityFeature": loc.highlights?.map(h => ({
-              "@type": "LocationFeatureSpecification",
-              "name": h.title,
-              "value": true
-            })) || []
+            "@graph": [
+              {
+                "@type": "Place",
+                "@id": `https://vtpbluewaters.com/locations/${loc.slug}#place`,
+                "name": `${loc.name}, Pune`,
+                "description": loc.expansiveDescription || loc.description,
+                "containedInPlace": { "@type": "City", "name": "Pune", "containedInPlace": { "@type": "State", "name": "Maharashtra" } },
+                "amenityFeature": loc.highlights?.map(h => ({ "@type": "LocationFeatureSpecification", "name": h.title, "value": true })) || []
+              },
+              {
+                "@type": "LocalBusiness",
+                "@id": `https://vtpbluewaters.com/locations/${loc.slug}#localbusiness`,
+                "name": `VTP Realty ${loc.name} Sales Office`,
+                "description": `VTP Realty's luxury residential projects in ${loc.name}, Pune. RERA registered. Premium 2, 3, 4 BHK apartments with Maximum Livable Area philosophy.`,
+                "url": `https://vtpbluewaters.com/locations/${loc.slug}`,
+                "telephone": "+91-7744009295",
+                "priceRange": "₹₹₹₹",
+                "image": "https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg",
+                "address": { "@type": "PostalAddress", "addressLocality": loc.name, "addressRegion": "Maharashtra", "addressCountry": "IN" },
+                "parentOrganization": { "@id": "https://vtpbluewaters.com/#organization" }
+              },
+              {
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                  { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://vtpbluewaters.com" },
+                  { "@type": "ListItem", "position": 2, "name": "Locations", "item": "https://vtpbluewaters.com/#locations" },
+                  { "@type": "ListItem", "position": 3, "name": loc.name, "item": `https://vtpbluewaters.com/locations/${loc.slug}` }
+                ]
+              }
+            ]
           })
         }}
       />
@@ -226,6 +261,39 @@ export default async function LocationPage({ params }) {
           </div>
         </div>
       </section>
+        {/* Internal PageRank Sculpting: Location → Programmatic SEO Hub */}
+        {(() => {
+          // Find matching silo for this location
+          const locationSlugKey = loc.slug.toLowerCase().replace(/-/g, '');
+          const matchingSilo = seoSilos.find(silo =>
+            silo.id.includes(loc.slug) || silo.title.toLowerCase().includes(loc.name.toLowerCase())
+          );
+          if (!matchingSilo) return null;
+          const topSlugs = matchingSilo.slugs.slice(0, 24);
+          return (
+            <section className="py-16 px-6 border-t border-white/5 bg-black/20">
+              <div className="max-w-7xl mx-auto">
+                <h2 className="text-xs font-bold tracking-[0.3em] text-luxury-gold uppercase mb-3">Explore by Type</h2>
+                <h3 className="text-2xl font-heading text-white mb-8">
+                  All Property Types in {loc.name}, Pune
+                </h3>
+                <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3">
+                  {topSlugs.map((item, i) => (
+                    <Link
+                      key={i}
+                      href={`/explore/${item.slug}`}
+                      prefetch={false}
+                      className="text-luxury-silver hover:text-luxury-gold text-sm py-2 px-4 border border-white/5 hover:border-luxury-gold/30 rounded-lg transition-all duration-300 truncate"
+                    >
+                      {item.keyword}
+                    </Link>
+                  ))}
+                </div>
+              </div>
+            </section>
+          );
+        })()}
+      </div>
     </div>
   );
 }
