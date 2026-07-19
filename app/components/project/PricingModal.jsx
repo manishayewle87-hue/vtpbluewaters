@@ -12,14 +12,18 @@ export default function PricingModal({ isOpen, onClose, planType, projectName })
     e.preventDefault();
     setStatus('loading');
     
-    if (!executeRecaptcha) {
-      console.warn('Recaptcha not available');
-      setStatus('error');
-      return;
+    let token = 'disabled';
+    if (executeRecaptcha) {
+      try {
+        token = await executeRecaptcha('pricing_modal');
+      } catch (err) {
+        console.warn('reCAPTCHA execution failed, proceeding with fallback:', err);
+      }
+    } else {
+      console.warn('reCAPTCHA script blocked or not loaded, proceeding with fallback.');
     }
     
     try {
-      const recaptchaToken = await executeRecaptcha('pricing_modal');
       const res = await fetch('/api/contact', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
@@ -29,7 +33,7 @@ export default function PricingModal({ isOpen, onClose, planType, projectName })
           project: projectName,
           configuration: planType,
           message: `Pricing request for ${planType}`,
-          recaptchaToken,
+          recaptchaToken: token,
         }),
       });
       const data = await res.json();

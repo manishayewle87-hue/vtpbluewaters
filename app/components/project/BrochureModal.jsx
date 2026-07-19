@@ -14,15 +14,18 @@ export default function BrochureModal({ isOpen, onClose, projectName }) {
     e.preventDefault();
     setStatus('loading');
     
-    if (!executeRecaptcha) {
-      console.warn('Execute recaptcha not yet available');
-      setStatus('idle');
-      return;
+    let token = 'disabled';
+    if (executeRecaptcha) {
+      try {
+        token = await executeRecaptcha('brochure_download');
+      } catch (err) {
+        console.warn('reCAPTCHA execution failed, proceeding with fallback:', err);
+      }
+    } else {
+      console.warn('reCAPTCHA script blocked or not loaded, proceeding with fallback.');
     }
 
     try {
-      const token = await executeRecaptcha('brochure_download');
-
       const res = await fetch('/api/contact', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },

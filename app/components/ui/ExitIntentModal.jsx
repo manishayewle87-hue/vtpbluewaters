@@ -34,17 +34,21 @@ export default function ExitIntentModal() {
     e.preventDefault();
     setStatus('loading');
     
-    if (!executeRecaptcha) {
-      console.warn('Recaptcha not ready');
-      setStatus('error');
-      return;
+    let token = 'disabled';
+    if (executeRecaptcha) {
+      try {
+        token = await executeRecaptcha('exit_intent');
+      } catch (err) {
+        console.warn('reCAPTCHA execution failed, proceeding with fallback:', err);
+      }
+    } else {
+      console.warn('reCAPTCHA script blocked or not loaded, proceeding with fallback.');
     }
 
     const formData = new FormData(e.target);
     const data = Object.fromEntries(formData);
     
     try {
-      const recaptchaToken = await executeRecaptcha('exit_intent');
       const res = await fetch('/api/contact', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
@@ -54,7 +58,7 @@ export default function ExitIntentModal() {
           replyto: data.email,
           ...data,
           source: 'Exit Intent Modal',
-          recaptchaToken,
+          recaptchaToken: token,
         }),
       });
       

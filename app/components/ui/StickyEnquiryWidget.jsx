@@ -99,11 +99,16 @@ export default function StickyEnquiryWidget() {
 
               <form className="space-y-5" onSubmit={async (e) => {
                 e.preventDefault();
-                if (!executeRecaptcha) {
-                  console.warn('Recaptcha not ready');
-                  return;
+                let token = 'disabled';
+                if (executeRecaptcha) {
+                  try {
+                    token = await executeRecaptcha('sticky_enquiry');
+                  } catch (err) {
+                    console.warn('reCAPTCHA execution failed, proceeding with fallback:', err);
+                  }
+                } else {
+                  console.warn('reCAPTCHA script blocked or not loaded, proceeding with fallback.');
                 }
-                const recaptchaToken = await executeRecaptcha('sticky_enquiry');
 
                 const formData = new FormData(e.target);
                 const data = {
@@ -121,7 +126,7 @@ export default function StickyEnquiryWidget() {
                       subject: `🚨 Sticky Widget Lead: ${data.name || 'Visitor'}`,
                       from_name: 'VTP Blue Waters Leads',
                       replyto: data.email,
-                      recaptchaToken,
+                      recaptchaToken: token,
                       ...data
                     }),
                   });

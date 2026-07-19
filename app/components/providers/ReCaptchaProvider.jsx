@@ -10,7 +10,7 @@ export default function ReCaptchaProvider({ children }) {
     <GoogleReCaptchaProvider 
       reCaptchaKey={reCaptchaKey}
       scriptProps={{
-        strategy: 'lazyOnload',
+        strategy: 'afterInteractive',
       }}
     >
       {children}

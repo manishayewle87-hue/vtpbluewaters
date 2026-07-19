@@ -5,7 +5,7 @@ export async function onRequestPost(context) {
     const data = await request.json();
     
     // Optional: Verify reCAPTCHA token if SECRET is provided in env
-    if (env.RECAPTCHA_SECRET_KEY && data.recaptchaToken) {
+    if (env.RECAPTCHA_SECRET_KEY && data.recaptchaToken && data.recaptchaToken !== 'disabled') {
       const verifyRes = await fetch('https://www.google.com/recaptcha/api/siteverify', {
         method: 'POST',
         headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
