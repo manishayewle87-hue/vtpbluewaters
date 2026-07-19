@@ -3,6 +3,8 @@ import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { useGoogleReCaptcha } from 'react-google-recaptcha-v3';
 
+import { submitLead } from '@/app/services/leadService';
+
 export default function PricingModal({ isOpen, onClose, planType, projectName }) {
   const { executeRecaptcha } = useGoogleReCaptcha();
   const [formState, setFormState] = useState({ name: '', phone: '' });
@@ -24,20 +26,17 @@ export default function PricingModal({ isOpen, onClose, planType, projectName })
     }
     
     try {
-      const res = await fetch('/api/contact', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          subject: `Pricing request for ${planType} at ${projectName}`,
-          ...formState,
-          project: projectName,
-          configuration: planType,
-          message: `Pricing request for ${planType}`,
-          recaptchaToken: token,
-        }),
-      });
-      const data = await res.json();
-      if (data.success) {
+      const leadPayload = {
+        subject: `Pricing request for ${planType} at ${projectName}`,
+        ...formState,
+        project: projectName,
+        configuration: planType,
+        message: `Pricing request for ${planType}`,
+        recaptchaToken: token,
+      };
+
+      const result = await submitLead(leadPayload);
+      if (result.success) {
         setStatus('success');
         setTimeout(() => { onClose(); setStatus('idle'); setFormState({ name: '', phone: '' }); }, 3000);
       } else {

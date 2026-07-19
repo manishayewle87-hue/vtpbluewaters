@@ -2,11 +2,13 @@
 import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { useGoogleReCaptcha } from 'react-google-recaptcha-v3';
+import { submitLead } from '@/app/services/leadService';
 
 export default function StickyEnquiryWidget() {
   const { executeRecaptcha } = useGoogleReCaptcha();
   const [isOpen, setIsOpen] = useState(false);
   const [isHovered, setIsHovered] = useState(false);
+  const [status, setStatus] = useState('idle'); // idle | loading | success | error
 
   // Pre-load enquiry form on website loading and handle external triggers
   useEffect(() => {
@@ -37,59 +39,46 @@ export default function StickyEnquiryWidget() {
 
   return (
     <>
-      {/* Floating Button */}
-      <motion.button
-        initial={{ opacity: 0, y: 50 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ delay: 2, duration: 1 }}
+      {/* Sticky Button Trigger */}
+      <div 
+        className="fixed right-0 top-1/2 -translate-y-1/2 z-50 flex items-center justify-end"
         onMouseEnter={() => setIsHovered(true)}
         onMouseLeave={() => setIsHovered(false)}
-        onClick={() => setIsOpen(true)}
-        className="fixed bottom-8 right-8 z-40 hidden md:flex items-center gap-3 bg-luxury-gold text-luxury-navy px-6 py-4 rounded-full shadow-[0_10px_30px_rgba(212,175,55,0.2)] hover:shadow-[0_10px_40px_rgba(212,175,55,0.4)] transition-shadow duration-300 group overflow-hidden enquiry-trigger"
       >
-        <span className="relative z-10 font-bold tracking-widest uppercase text-xs">ENQUIRE NOW</span>
-        <svg className="w-4 h-4 relative z-10" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-        </svg>
-        <motion.div 
-          className="absolute inset-0 bg-white"
-          initial={{ x: '-100%' }}
-          animate={{ x: isHovered ? '0%' : '-100%' }}
-          transition={{ duration: 0.4, ease: "easeInOut" }}
-        />
-      </motion.button>
+        <button 
+          onClick={() => setIsOpen(true)}
+          className="bg-luxury-gold hover:bg-white text-luxury-navy font-display font-medium text-xs tracking-[0.3em] uppercase py-6 px-4 rounded-l-2xl shadow-[0_0_35px_rgba(212,175,55,0.35)] transition-all duration-300 flex items-center justify-center gap-3 [writing-mode:vertical-lr] rotate-180 h-48 select-none"
+        >
+          <span className="tracking-[0.2em] font-light">Enquire Now</span>
+          <span className="text-sm font-bold">✉</span>
+        </button>
+      </div>
 
-      {/* Expanded Modal */}
+      {/* Modal / Sidebar */}
       <AnimatePresence>
         {isOpen && (
-          <motion.div
+          <motion.div 
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
-            className="fixed inset-0 z-50 flex items-center justify-center p-4"
+            className="fixed inset-0 bg-black/80 backdrop-blur-md z-50 flex items-center justify-center p-4"
           >
-            {/* Backdrop */}
-            <div 
-              className="absolute inset-0 bg-luxury-navy/80 backdrop-blur-md cursor-pointer"
-              onClick={() => setIsOpen(false)}
-            />
+            {/* Click Outside to Close */}
+            <div className="absolute inset-0" onClick={() => setIsOpen(false)} />
 
-            {/* Form Container */}
-            <motion.div
-              layoutId="enquiry-widget"
-              initial={{ opacity: 0, scale: 0.95, y: 20 }}
-              animate={{ opacity: 1, scale: 1, y: 0 }}
-              exit={{ opacity: 0, scale: 0.95, y: 20 }}
-              transition={{ type: "spring", damping: 25, stiffness: 300 }}
-              className="relative w-full max-w-lg bg-luxury-charcoal border border-luxury-gold/20 p-6 md:p-8 shadow-2xl max-h-[90vh] overflow-y-auto hide-scrollbar"
+            {/* Form Card */}
+            <motion.div 
+              initial={{ scale: 0.95, opacity: 0 }}
+              animate={{ scale: 1, opacity: 1 }}
+              exit={{ scale: 0.95, opacity: 0 }}
+              className="bg-luxury-navy border border-white/10 w-full max-w-md p-8 md:p-10 rounded-2xl relative z-10 shadow-2xl overflow-hidden"
             >
+              {/* Close Button */}
               <button 
                 onClick={() => setIsOpen(false)}
-                className="absolute top-4 right-4 text-luxury-silver hover:text-white p-2"
+                className="absolute top-5 right-5 text-white/50 hover:text-white transition-colors text-xl font-light"
               >
-                <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M6 18L18 6M6 6l12 12" />
-                </svg>
+                ✕
               </button>
 
               <div className="mb-8">
@@ -99,6 +88,7 @@ export default function StickyEnquiryWidget() {
 
               <form className="space-y-5" onSubmit={async (e) => {
                 e.preventDefault();
+                setStatus('loading');
                 let token = 'disabled';
                 if (executeRecaptcha) {
                   try {
@@ -119,20 +109,18 @@ export default function StickyEnquiryWidget() {
                 };
                 
                 try {
-                  const res = await fetch('/api/contact', {
-                    method: 'POST',
-                    headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify({
-                      subject: `🚨 Sticky Widget Lead: ${data.name || 'Visitor'}`,
-                      from_name: 'VTP Blue Waters Leads',
-                      replyto: data.email,
-                      recaptchaToken: token,
-                      ...data
-                    }),
-                  });
+                  const leadPayload = {
+                    subject: `🚨 Sticky Widget Lead: ${data.name || 'Visitor'}`,
+                    from_name: 'VTP Blue Waters Leads',
+                    replyto: data.email,
+                    recaptchaToken: token,
+                    ...data
+                  };
+
+                  const result = await submitLead(leadPayload);
                   
-                  const responseData = await res.json();
-                  if (responseData.success) {
+                  if (result.success) {
+                    setStatus('success');
                     if (typeof window !== 'undefined' && window.gtag) {
                       window.gtag('event', 'generate_lead', {
                         currency: 'INR',
@@ -140,10 +128,16 @@ export default function StickyEnquiryWidget() {
                         form_source: 'Sticky Widget'
                       });
                     }
-                    setIsOpen(false);
+                    setTimeout(() => {
+                      setIsOpen(false);
+                      setStatus('idle');
+                    }, 2000);
+                  } else {
+                    setStatus('error');
                   }
                 } catch (err) {
                   console.error(err);
+                  setStatus('error');
                 }
               }}>
                 <div>
@@ -161,8 +155,12 @@ export default function StickyEnquiryWidget() {
                     className="w-full bg-white/5 border-b border-white/10 px-4 py-3 text-white focus:outline-none focus:border-luxury-gold transition-colors font-light text-sm"
                   />
                 </div>
-                <button type="submit" className="w-full bg-luxury-gold text-luxury-navy py-4 text-sm tracking-widest uppercase font-medium hover:bg-white transition-colors">
-                  Submit Enquiry
+                <button 
+                  type="submit" 
+                  disabled={status === 'loading'}
+                  className="w-full bg-luxury-gold text-luxury-navy py-4 text-sm tracking-widest uppercase font-medium hover:bg-white transition-colors disabled:opacity-50"
+                >
+                  {status === 'loading' ? 'Processing...' : status === 'success' ? 'Thank You!' : status === 'error' ? 'Error. Try Again' : 'Submit Enquiry'}
                 </button>
               </form>
             </motion.div>

@@ -3,6 +3,8 @@ import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { useGoogleReCaptcha } from 'react-google-recaptcha-v3';
 
+import { submitLead } from '@/app/services/leadService';
+
 export default function BrochureModal({ isOpen, onClose, projectName }) {
   const { executeRecaptcha } = useGoogleReCaptcha();
   const [formData, setFormData] = useState({ name: '', email: '', phone: '' });
@@ -26,20 +28,17 @@ export default function BrochureModal({ isOpen, onClose, projectName }) {
     }
 
     try {
-      const res = await fetch('/api/contact', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ 
-          subject: `Brochure Download Request for ${projectName || 'VTP Blue Waters'}`,
-          message: 'Requested to download the brochure.',
-          project: projectName || 'VTP Blue Waters',
-          source: 'Brochure Modal',
-          recaptchaToken: token,
-          ...formData, 
-        }),
-      });
-      const data = await res.json();
-      if (data.success) {
+      const leadPayload = { 
+        subject: `Brochure Download Request for ${projectName || 'VTP Blue Waters'}`,
+        message: 'Requested to download the brochure.',
+        project: projectName || 'VTP Blue Waters',
+        source: 'Brochure Modal',
+        recaptchaToken: token,
+        ...formData, 
+      };
+
+      const result = await submitLead(leadPayload);
+      if (result.success) {
         setStatus('success');
         // Auto-download the file
         const link = document.createElement('a');

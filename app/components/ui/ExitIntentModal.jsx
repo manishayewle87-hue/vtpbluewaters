@@ -3,6 +3,8 @@ import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { useGoogleReCaptcha } from 'react-google-recaptcha-v3';
 
+import { submitLead } from '@/app/services/leadService';
+
 export default function ExitIntentModal() {
   const { executeRecaptcha } = useGoogleReCaptcha();
   const [isVisible, setIsVisible] = useState(false);
@@ -49,21 +51,18 @@ export default function ExitIntentModal() {
     const data = Object.fromEntries(formData);
     
     try {
-      const res = await fetch('/api/contact', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          subject: `🚨 Exit Intent Lead: ${data.name || 'Visitor'}`,
-          from_name: 'VTP Blue Waters Leads',
-          replyto: data.email,
-          ...data,
-          source: 'Exit Intent Modal',
-          recaptchaToken: token,
-        }),
-      });
+      const leadPayload = {
+        subject: `🚨 Exit Intent Lead: ${data.name || 'Visitor'}`,
+        from_name: 'VTP Blue Waters Leads',
+        replyto: data.email,
+        ...data,
+        source: 'Exit Intent Modal',
+        recaptchaToken: token,
+      };
+
+      const result = await submitLead(leadPayload);
       
-      const responseData = await res.json();
-      if (responseData.success) {
+      if (result.success) {
         setStatus('success');
         if (typeof window !== 'undefined' && window.gtag) {
           window.gtag('event', 'generate_lead', {

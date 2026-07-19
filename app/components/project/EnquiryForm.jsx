@@ -3,6 +3,8 @@ import { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { useGoogleReCaptcha } from 'react-google-recaptcha-v3';
 
+import { submitLead } from '@/app/services/leadService';
+
 export default function EnquiryForm({ projectName, customTitle, inline = false }) {
   const { executeRecaptcha } = useGoogleReCaptcha();
   const [formData, setFormData] = useState({
@@ -75,22 +77,19 @@ export default function EnquiryForm({ projectName, customTitle, inline = false }
     }
 
     try {
-      const res = await fetch('/api/contact', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ 
-          subject: `🚨 New Lead: ${formData.name} — ${projectName || 'VTP Blue Waters'}`,
-          from_name: 'VTP Blue Waters Leads',
-          replyto: formData.email,
-          ...formData,
-          ...trackingData,
-          project: projectName || 'VTP Blue Waters',
-          recaptchaToken: token
-        })
-      });
+      const leadPayload = { 
+        subject: `🚨 New Lead: ${formData.name} — ${projectName || 'VTP Blue Waters'}`,
+        from_name: 'VTP Blue Waters Leads',
+        replyto: formData.email,
+        ...formData,
+        ...trackingData,
+        project: projectName || 'VTP Blue Waters',
+        recaptchaToken: token
+      };
+
+      const result = await submitLead(leadPayload);
       
-      const data = await res.json();
-      if (data.success) {
+      if (result.success) {
         setStatus('success');
         if (typeof window !== 'undefined' && window.gtag) {
           window.gtag('event', 'generate_lead', {
@@ -103,7 +102,8 @@ export default function EnquiryForm({ projectName, customTitle, inline = false }
       } else {
         setStatus('error');
       }
-    } catch {
+    } catch (err) {
+      console.error(err);
       setStatus('error');
     }
   };
