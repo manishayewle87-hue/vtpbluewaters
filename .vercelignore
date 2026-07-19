@@ -1,0 +1,13 @@
+.vercel
+.next
+out
+dist
+node_modules
+.git
+.github
+service_account.json
+*.png
+build_error.txt
+altamira-screenshot.png
+earth-1-screenshot.png
+monarque-screenshot.png
