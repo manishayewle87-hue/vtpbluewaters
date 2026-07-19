@@ -1,5 +1,5 @@
 'use client';
-import { useRef, useMemo } from 'react';
+import { useRef, useMemo, useState, useEffect } from 'react';
 import { Canvas, useFrame } from '@react-three/fiber';
 import { MathUtils } from 'three';
 
@@ -13,40 +13,50 @@ const ParticleWave = () => {
     const phs = new Float32Array(count * count);
     
     let i = 0;
+    let p = 0;
     for (let x = 0; x < count; x++) {
       for (let z = 0; z < count; z++) {
-        // Center the grid around origin
-        pos[i * 3] = (x - count / 2) * 0.5; // x
-        pos[i * 3 + 1] = 0;                 // y (will be animated)
-        pos[i * 3 + 2] = (z - count / 2) * 0.5; // z
+        // Center the grid
+        const posX = (x - count / 2) * 0.45;
+        const posZ = (z - count / 2) * 0.45;
         
-        // Phase offset for wave math
-        phs[i] = Math.sqrt((x - count / 2) ** 2 + (z - count / 2) ** 2);
+        pos[i] = posX;
+        pos[i + 1] = 0; // Y will be animated
+        pos[i + 2] = posZ;
         
-        i++;
+        // Random phase offset for waves
+        phs[p] = Math.random() * Math.PI * 2;
+        
+        i += 3;
+        p++;
       }
     }
     return [pos, phs];
   }, []);
 
   useFrame((state) => {
-    const time = state.clock.getElapsedTime();
-    const posArray = points.current.geometry.attributes.position.array;
+    const time = state.clock.getElapsedTime() * 0.4;
+    const count = 100;
+    const array = points.current.geometry.attributes.position.array;
     
-    // Animate the Y position to create a smooth, undulating wave
-    for (let i = 0; i < phases.length; i++) {
-      const phase = phases[i];
-      // Complex wave combining multiple sine waves for a fluid look
-      const y = Math.sin(phase * 0.5 - time * 2) * 1.5 
-              + Math.cos(phase * 0.3 + time) * 0.5;
-      
-      posArray[i * 3 + 1] = y;
+    let i = 0;
+    let p = 0;
+    for (let x = 0; x < count; x++) {
+      for (let z = 0; z < count; z++) {
+        // Multi-frequency wave formula for natural fluid motion
+        const posX = array[i];
+        const posZ = array[i + 2];
+        
+        const dist = Math.sqrt(posX * posX + posZ * posZ) * 0.15;
+        const wave1 = Math.sin(dist - time + phases[p]) * 0.8;
+        const wave2 = Math.cos(posX * 0.1 + time) * Math.sin(posZ * 0.1 + time) * 0.5;
+        
+        array[i + 1] = wave1 + wave2;
+        i += 3;
+        p++;
+      }
     }
-    
     points.current.geometry.attributes.position.needsUpdate = true;
-    
-    // Slowly rotate the entire system
-    points.current.rotation.y = time * 0.05;
   });
 
   return (
@@ -54,9 +64,7 @@ const ParticleWave = () => {
       <bufferGeometry>
         <bufferAttribute
           attach="attributes-position"
-          count={positions.length / 3}
-          array={positions}
-          itemSize={3}
+          args={[positions, 3]}
         />
       </bufferGeometry>
       <pointsMaterial
@@ -71,6 +79,34 @@ const ParticleWave = () => {
 };
 
 export default function FluidBackground() {
+  const [hasWebGL, setHasWebGL] = useState(true);
+
+  useEffect(() => {
+    try {
+      const canvas = document.createElement('canvas');
+      const support = !!(
+        window.WebGLRenderingContext && 
+        (canvas.getContext('webgl') || canvas.getContext('experimental-webgl'))
+      );
+      setHasWebGL(support);
+    } catch {
+      setHasWebGL(false);
+    }
+  }, []);
+
+  if (!hasWebGL) {
+    // Beautiful CSS gradient fallback matching our luxury theme
+    return (
+      <div 
+        className="absolute inset-0 z-0 bg-gradient-to-br from-[#050914] via-[#0A1128] to-[#0A111F]"
+        style={{
+          backgroundAttachment: 'fixed',
+          backgroundImage: 'radial-gradient(circle at top left, rgba(212,175,55,0.03), transparent 40%), radial-gradient(circle at bottom right, rgba(54,197,205,0.03), transparent 45%)'
+        }}
+      />
+    );
+  }
+
   return (
     <div className="absolute inset-0 z-0 bg-luxury-navy overflow-hidden">
       <Canvas camera={{ position: [0, 15, 30], fov: 45 }}>
