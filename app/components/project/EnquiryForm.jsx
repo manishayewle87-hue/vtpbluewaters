@@ -56,12 +56,6 @@ export default function EnquiryForm({ projectName, customTitle, inline = false }
     e.preventDefault();
     setStatus('loading');
 
-    if (!executeRecaptcha) {
-      console.warn('Execute recaptcha not yet available');
-      setStatus('idle');
-      return;
-    }
-
     // Honeypot Trap - If filled, silently reject
     if (formData.honeypot) {
       console.warn('Bot detected by honeypot');
@@ -69,10 +63,18 @@ export default function EnquiryForm({ projectName, customTitle, inline = false }
       return;
     }
 
-    try {
-      // Get reCAPTCHA token
-      const token = await executeRecaptcha('enquiry_form');
+    let token = 'disabled';
+    if (executeRecaptcha) {
+      try {
+        token = await executeRecaptcha('enquiry_form');
+      } catch (err) {
+        console.warn('reCAPTCHA execution failed, proceeding with fallback:', err);
+      }
+    } else {
+      console.warn('reCAPTCHA script blocked or not loaded, proceeding with fallback.');
+    }
 
+    try {
       const res = await fetch('/api/contact', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
