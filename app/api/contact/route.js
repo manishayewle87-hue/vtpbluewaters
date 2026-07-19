@@ -114,8 +114,9 @@ export async function POST(request) {
     } catch (mailError) {
       console.warn("Nodemailer Primary Mailer Failed. Attempting Fallback to GAS Mailer...", mailError);
       
-      const gasUrl = process.env.NEXT_PUBLIC_GAS_MAILER_URL;
+      let gasUrl = process.env.NEXT_PUBLIC_GAS_MAILER_URL;
       if (gasUrl) {
+        gasUrl = gasUrl.replace(/^["']|["']$/g, '').trim();
         try {
           const gasResponse = await fetch(gasUrl, {
             method: 'POST',
