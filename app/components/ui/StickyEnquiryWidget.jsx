@@ -160,7 +160,7 @@ export default function StickyEnquiryWidget() {
                   disabled={status === 'loading'}
                   className="w-full bg-luxury-gold text-luxury-navy py-4 text-sm tracking-widest uppercase font-medium hover:bg-white transition-colors disabled:opacity-50"
                 >
-                  {status === 'loading' ? 'Processing...' : status === 'success' ? 'Thank You!' : status === 'error' ? 'Error. Try Again' : 'Submit Enquiry'}
+                  {status === 'loading' ? 'Processing...' : status === 'success' ? 'Thank You!' : (status !== 'idle' ? status : 'Submit Enquiry')}
                 </button>
               </form>
             </motion.div>
