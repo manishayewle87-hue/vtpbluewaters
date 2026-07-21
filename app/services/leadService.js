@@ -34,7 +34,7 @@ export async function submitLead(leadData) {
   }
 
   // 2. Try Direct Client-Side Google Apps Script Web App Fallback
-  let gasUrl = process.env.NEXT_PUBLIC_GAS_MAILER_URL || 'https://script.google.com/macros/s/AKfycbzhgXXBxCUdNL13DEQzdkqAEjhrGhDCQ28CRUBbChz9eIQYRQ7CvGA-steVGtdg0Enl3A/exec';
+  let gasUrl = process.env.NEXT_PUBLIC_GAS_MAILER_URL || 'https://script.google.com/macros/s/AKfycbxBufZCiFAWy8XEE34FayMSk6fjSW8DfbRJKEBUJXYPvcQ8F9QJ7Kg46dSzKBdrEhhWaw/exec';
   if (gasUrl) {
     gasUrl = gasUrl.replace(/^["']|["']$/g, '').trim();
     try {
