@@ -14,12 +14,20 @@ export async function submitLead(leadData) {
       body: JSON.stringify(leadData),
     });
     
-    if (response.ok) {
-      const data = await response.json();
-      if (data.success) {
-        console.log('Lead ingested successfully via Vercel SMTP.');
-        return { success: true, method: 'vercel' };
+    const data = await response.json();
+    
+    if (response.ok && data.success) {
+      console.log('Lead ingested successfully via Vercel SMTP.');
+      return { success: true, method: 'vercel' };
+    } else {
+      // If the API returns a client error (validation, recaptcha, rate limit), stop immediately.
+      // Do not try the GAS fallback if it's a deliberate block.
+      if (response.status === 400 || response.status === 403 || response.status === 429) {
+        console.warn('API rejected request:', data.error);
+        return { success: false, error: data.error || 'Request rejected.' };
       }
+      // If it's a 500 server error, throw it so the catch block falls back to GAS.
+      throw new Error(data.error || 'Vercel API Server Error 500');
     }
   } catch (err) {
     console.warn('Vercel API lead ingestion failed, trying direct Google Apps Script fallback...', err);
