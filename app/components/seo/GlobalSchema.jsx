@@ -372,6 +372,46 @@ export default function GlobalSchema() {
               "@type": "Answer",
               "text": "Township Blue Waters (Mahalunge/Hinjawadi) is VTP Realty's flagship 200+ acre township on a riverfront. Township Pegasus (Kharadi) is VTP Realty's premium IT-corridor township. Both are master-planned communities with premium amenities, RERA registration, and the MLA philosophy."
             }
+          },
+          {
+            "@type": "Question",
+            "name": "What is the VTP Blue Waters Mahalunge Price List for 2026?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The current VTP Blue Waters Mahalunge price list starts at approximately ₹90 Lakhs for premium 2 BHK flats, going up to ₹1.6+ Crore for spacious 3 BHK luxury apartments, and reaching ₹3.5+ Crore for ultra-luxury 4 BHK duplexes and penthouses. Prices vary based on the specific tower (Earth 1, Monarque, Volare), floor band, and views. For the exact cost sheet, please contact our sales desk."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How can I download the VTP Blue Waters Floor Plan PDF?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "You can view the VTP Blue Waters floor plans directly during a site visit, where our experts will walk you through the VTP Maximum Livable Area (MLA) layouts. The master plan and specific cluster brochures (including PDF downloads) are available upon registering an enquiry with our official sales team."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is the VTP Blue Waters construction status?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "VTP Blue Waters is under rapid development. Several earlier phases (like Leonara, BelAir, and Alpine) have already reached advanced stages or completion. The newer ultra-luxury phases like VTP Earth 1 and VTP Monarque are progressing strictly as per the MahaRERA scheduled timelines for 2026/2027 possession."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Are there genuine VTP Blue Waters reviews available?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, VTP Blue Waters reviews consistently highlight the massive 200+ acre township lifestyle, the 1KM riverfront promenade, and the MLA design which offers larger usable room sizes compared to competitors in Baner and Hinjawadi. Over 4,000 families have already booked their homes in the township."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "VTP Earth 1 vs VTP Monarque: Which should I choose?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Both are premium clusters within VTP Blue Waters. VTP Earth 1 is designed with grand 2, 3 & 4 BHK residences offering panoramic river and hill views, perfect for families seeking expansive luxury. VTP Monarque features bespoke 3 & 4 BHK residences tailored for ultra-HNIs with ultra-premium specifications. Your choice depends on your specific layout preferences and budget."
+            }
           }
         ]
       },

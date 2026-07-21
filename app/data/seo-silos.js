@@ -1,5 +1,22 @@
 export const seoSilos = [
   {
+    "id": "branded-bofu-intents",
+    "title": "VTP Blue Waters Official Details",
+    "description": "Complete pricing, floor plans, master plans, and construction status for VTP Blue Waters Mahalunge.",
+    "slugs": [
+      { "slug": "vtp-blue-waters-mahalunge-price-list", "keyword": "VTP Blue Waters Mahalunge Price List" },
+      { "slug": "vtp-blue-waters-floor-plan-pdf", "keyword": "VTP Blue Waters Floor Plan PDF" },
+      { "slug": "vtp-earth-1-cost-sheet", "keyword": "VTP Earth 1 Cost Sheet" },
+      { "slug": "vtp-monarque-price-details", "keyword": "VTP Monarque Price Details" },
+      { "slug": "vtp-blue-waters-construction-status-2026", "keyword": "VTP Blue Waters Construction Status 2026" },
+      { "slug": "vtp-blue-waters-reviews-complaints", "keyword": "VTP Blue Waters Reviews & Feedback" },
+      { "slug": "vtp-blue-waters-maharera-number", "keyword": "VTP Blue Waters MahaRERA Number" },
+      { "slug": "vtp-earth-1-vs-vtp-monarque", "keyword": "VTP Earth 1 vs VTP Monarque Comparison" },
+      { "slug": "vtp-blue-waters-brochure-download", "keyword": "VTP Blue Waters Brochure Download" },
+      { "slug": "vtp-town-square-mahalunge-shops", "keyword": "VTP Town Square Mahalunge Shops" }
+    ]
+  },
+  {
     "id": "location-mahalunge",
     "title": "Mahalunge Real Estate & Properties",
     "description": "VTP Blue Waters in Mahalunge is West Pune's most prestigious 200+ acre luxury township.",

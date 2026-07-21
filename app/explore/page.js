@@ -71,25 +71,19 @@ export default function ExploreHubPage() {
           </p>
         </div>
 
-        <div className="space-y-16">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {seoSilos.map((silo, idx) => (
-            <div key={silo.id} className="bg-white/5 border border-white/10 rounded-2xl p-8 backdrop-blur-sm">
-              <h2 className="text-2xl font-outfit text-luxury-gold mb-2">{silo.title}</h2>
-              <p className="text-gray-400 text-sm mb-6 border-b border-white/10 pb-4">{silo.description}</p>
+            <div key={silo.id} className="bg-white/5 border border-white/10 rounded-2xl p-8 backdrop-blur-sm flex flex-col h-full hover:bg-white/10 transition-colors">
+              <h2 className="text-2xl font-outfit text-luxury-gold mb-4">{silo.title}</h2>
+              <p className="text-gray-400 text-sm mb-8 flex-grow">{silo.description}</p>
               
-              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
-                {silo.slugs.map((item) => (
-                  <Link 
-                    key={item.slug} 
-                    href={`/explore/${item.slug}`}
-                    prefetch={false}
-                    className="text-gray-300 hover:text-white hover:underline text-sm font-inter flex items-center gap-2 group transition-colors"
-                  >
-                    <span className="w-1 h-1 rounded-full bg-luxury-gold/50 group-hover:bg-luxury-gold transition-colors" />
-                    {item.keyword}
-                  </Link>
-                ))}
-              </div>
+              <Link 
+                href={`/explore/category/${silo.id}`}
+                prefetch={false}
+                className="inline-flex items-center justify-center border border-luxury-gold text-luxury-gold hover:bg-luxury-gold hover:text-luxury-navy px-6 py-3 transition-colors text-sm font-display tracking-widest uppercase mt-auto w-full"
+              >
+                View {silo.slugs.length} Properties
+              </Link>
             </div>
           ))}
         </div>
