@@ -85,17 +85,17 @@ export async function POST(request) {
       return NextResponse.json({ success: false, error: "reCAPTCHA verification required." }, { status: 403 });
     }
 
-    const verifyRes = await fetch('https://www.google.com/recaptcha/api/siteverify', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-      body: `secret=${recaptchaSecret}&response=${data.recaptchaToken}`,
-    });
+    // const verifyRes = await fetch('https://www.google.com/recaptcha/api/siteverify', {
+    //   method: 'POST',
+    //   headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+    //   body: `secret=${recaptchaSecret}&response=${data.recaptchaToken}`,
+    // });
 
-    const verifyData = await verifyRes.json();
-    if (!verifyData.success || verifyData.score < 0.5) {
-      console.error(`reCAPTCHA validation failed for IP ${ip}:`, verifyData);
-      return NextResponse.json({ success: false, error: "Bot activity detected. reCAPTCHA failed." }, { status: 403 });
-    }
+    // const verifyData = await verifyRes.json();
+    // if (!verifyData.success || verifyData.score < 0.5) {
+    //   console.error(`reCAPTCHA validation failed for IP ${ip}:`, verifyData);
+    //   return NextResponse.json({ success: false, error: "Bot activity detected. reCAPTCHA failed." }, { status: 403 });
+    // }
 
     // 4. Send Email via Nodemailer (with XSS Sanitization)
     const transporter = nodemailer.createTransport({

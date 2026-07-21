@@ -71,23 +71,19 @@ function doPost(e) {
 
     // 4. Return success response
     return ContentService.createTextOutput(JSON.stringify({ success: true, message: 'Lead saved and email sent.' }))
-      .setMimeType(ContentService.MimeType.JSON)
-      .setHeader('Access-Control-Allow-Origin', '*');
+      .setMimeType(ContentService.MimeType.JSON);
       
   } catch (error) {
     console.error('GAS Mailer Error:', error);
     return ContentService.createTextOutput(JSON.stringify({ success: false, error: error.toString() }))
-      .setMimeType(ContentService.MimeType.JSON)
-      .setHeader('Access-Control-Allow-Origin', '*');
+      .setMimeType(ContentService.MimeType.JSON);
   }
 }
 
 // Handle CORS Preflight Options Request
 function doOptions(e) {
   return ContentService.createTextOutput('')
-    .setHeader('Access-Control-Allow-Origin', '*')
-    .setHeader('Access-Control-Allow-Methods', 'POST, GET, OPTIONS')
-    .setHeader('Access-Control-Allow-Headers', 'Content-Type');
+    .setMimeType(ContentService.MimeType.TEXT);
 }
 
 // Get or create the "Leads" tab in the spreadsheet
