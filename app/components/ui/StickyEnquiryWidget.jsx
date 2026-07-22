@@ -133,11 +133,11 @@ export default function StickyEnquiryWidget() {
                       setStatus('idle');
                     }, 2000);
                   } else {
-                    setStatus('error');
+                    setStatus(result.error || 'Submission Failed');
                   }
                 } catch (err) {
                   console.error(err);
-                  setStatus('error');
+                  setStatus(err.message || 'Network Error');
                 }
               }}>
                 <div>
