@@ -100,11 +100,11 @@ export default function EnquiryForm({ projectName, customTitle, inline = false }
           });
         }
       } else {
-        setStatus('error');
+        setStatus(result.error || 'Submission Failed');
       }
     } catch (err) {
       console.error(err);
-      setStatus('error');
+      setStatus(err.message || 'Network Error');
     }
   };
 
@@ -327,9 +327,9 @@ export default function EnquiryForm({ projectName, customTitle, inline = false }
               </button>
             </div>
             
-            {status === 'error' && (
-              <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="text-red-400 text-sm text-center mt-4">
-                We encountered an issue submitting your request. Please try again.
+            {status !== 'idle' && status !== 'loading' && status !== 'success' && (
+              <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="text-red-400 text-sm text-center mt-4 font-bold">
+                {status}
               </motion.p>
             )}
 
