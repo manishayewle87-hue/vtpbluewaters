@@ -192,13 +192,18 @@ export default function Footer() {
             <div className="col-span-1">
               <h5 className="text-luxury-caption text-white/40 mb-6 border-b border-white/5 pb-4">Knowledge & Articles</h5>
               <ul className="space-y-3">
-                {contentData.blogs.map((blog, i) => (
+                {contentData.blogs.slice(0, 6).map((blog, i) => (
                   <li key={i}>
                     <Link href={`/blog/${blog.slug}`} className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed break-words">
                       {blog.title}
                     </Link>
                   </li>
                 ))}
+                <li>
+                  <Link href="/explore" className="text-xs text-luxury-gold hover:text-luxury-white transition-colors flex items-center gap-1 mt-2">
+                    View All Articles →
+                  </Link>
+                </li>
               </ul>
             </div>
 
@@ -206,13 +211,18 @@ export default function Footer() {
             <div className="col-span-1">
               <h5 className="text-luxury-caption text-white/40 mb-6 border-b border-white/5 pb-4">Mahalunge & Baner Annex</h5>
               <ul className="space-y-3">
-                {contentData.locations.map((loc, i) => (
+                {contentData.locations.slice(0, 6).map((loc, i) => (
                   <li key={i}>
                     <Link href={`/locations/${loc.slug}`} className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed break-words">
                       {loc.title}
                     </Link>
                   </li>
                 ))}
+                <li>
+                  <Link href="/explore" className="text-xs text-luxury-gold hover:text-luxury-white transition-colors flex items-center gap-1 mt-2">
+                    View All Locations →
+                  </Link>
+                </li>
               </ul>
             </div>
 
