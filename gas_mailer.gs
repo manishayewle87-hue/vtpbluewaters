@@ -19,10 +19,8 @@ const NOTIFICATION_EMAIL = 'propsmartrealty@gmail.com';
 
 function doPost(e) {
   try {
-    // 1. Parse incoming lead data
     const payload = JSON.parse(e.postData.contents);
     
-    // Extract parameters
     const name = payload.name || 'N/A';
     const email = payload.email || 'N/A';
     const phone = payload.phone || 'N/A';
@@ -36,40 +34,23 @@ function doPost(e) {
     const utmCampaign = payload.utmCampaign || 'Direct';
     const timestamp = new Date().toISOString();
 
-    // 2. Append lead details to Google Sheet
-    const sheet = getOrCreateLeadsSheet();
-    sheet.appendRow([
-      timestamp,
-      name,
-      phone,
-      email,
-      project,
-      configuration,
-      location,
-      message,
-      pageUrl,
-      utmSource,
-      utmMedium,
-      utmCampaign
-    ]);
+    try {
+      const sheet = getOrCreateLeadsSheet();
+      if (sheet) {
+        sheet.appendRow([
+          timestamp, name, phone, email, project, configuration, location,
+          message, pageUrl, utmSource, utmMedium, utmCampaign
+        ]);
+      }
+    } catch (sheetError) {
+      console.warn("Could not save to sheet. Skipping sheet save.", sheetError);
+    }
 
-    // 3. Send email alert
     sendEmailAlert({
-      timestamp,
-      name,
-      phone,
-      email,
-      project,
-      configuration,
-      location,
-      message,
-      pageUrl,
-      utmSource,
-      utmMedium,
-      utmCampaign
+      timestamp, name, phone, email, project, configuration, location,
+      message, pageUrl, utmSource, utmMedium, utmCampaign
     });
 
-    // 4. Return success response
     return ContentService.createTextOutput(JSON.stringify({ success: true, message: 'Lead saved and email sent.' }))
       .setMimeType(ContentService.MimeType.JSON);
       
@@ -80,37 +61,24 @@ function doPost(e) {
   }
 }
 
-// Handle CORS Preflight Options Request
 function doOptions(e) {
-  return ContentService.createTextOutput('')
-    .setMimeType(ContentService.MimeType.TEXT);
+  return ContentService.createTextOutput('').setMimeType(ContentService.MimeType.TEXT);
 }
 
-// Get or create the "Leads" tab in the spreadsheet
 function getOrCreateLeadsSheet() {
   const ss = SpreadsheetApp.getActiveSpreadsheet();
+  if (!ss) return null;
+  
   let sheet = ss.getSheetByName('Leads');
   
   if (!sheet) {
     sheet = ss.insertSheet('Leads');
-    // Set headers
-    sheet.appendRow([
-      'Timestamp',
-      'Name',
-      'Phone',
-      'Email',
-      'Project',
-      'Configuration/Intent',
-      'Preferred Location',
-      'Message/Requirements',
-      'Submitted From Page',
-      'UTM Source',
-      'UTM Medium',
-      'UTM Campaign'
-    ]);
-    
-    // Style headers
     const headerRange = sheet.getRange(1, 1, 1, 12);
+    sheet.appendRow([
+      'Timestamp', 'Name', 'Phone', 'Email', 'Project', 'Configuration/Intent',
+      'Preferred Location', 'Message/Requirements', 'Submitted From Page',
+      'UTM Source', 'UTM Medium', 'UTM Campaign'
+    ]);
     headerRange.setFontWeight('bold');
     headerRange.setBackground('#1a365d');
     headerRange.setFontColor('#ffffff');
