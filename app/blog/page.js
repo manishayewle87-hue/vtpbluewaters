@@ -25,8 +25,16 @@ export const metadata = {
   robots: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 },
 };
 
-export default async function BlogRootPage() {
+export default async function BlogRootPage({ searchParams }) {
   const blogs = await cms.getAllBlogs();
+  
+  // Pagination Logic
+  const page = searchParams?.page ? parseInt(searchParams.page, 10) : 1;
+  const POSTS_PER_PAGE = 30;
+  const totalPages = Math.ceil(blogs.length / POSTS_PER_PAGE);
+  const startIndex = (page - 1) * POSTS_PER_PAGE;
+  const endIndex = startIndex + POSTS_PER_PAGE;
+  const paginatedBlogs = blogs.slice(startIndex, endIndex);
 
   const collectionSchema = {
     '@context': 'https://schema.org',
@@ -37,7 +45,7 @@ export default async function BlogRootPage() {
     'url': 'https://vtpbluewaters.com/blog',
     'publisher': { '@id': 'https://vtpbluewaters.com/#organization' },
     'isPartOf': { '@id': 'https://vtpbluewaters.com/#website' },
-    'hasPart': blogs.slice(0, 15).map((blog, i) => ({
+    'hasPart': paginatedBlogs.slice(0, 15).map((blog, i) => ({
       '@type': 'BlogPosting',
       'position': i + 1,
       'name': blog.title,
@@ -69,8 +77,8 @@ export default async function BlogRootPage() {
         </div>
 
         {/* Blog Post List */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-          {blogs.map((blog) => {
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-16">
+          {paginatedBlogs.map((blog) => {
             const blogImage = blog.image || 'https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg';
             return (
               <Link 
@@ -109,6 +117,25 @@ export default async function BlogRootPage() {
             );
           })}
         </div>
+
+        {/* SEO Pagination Controls */}
+        {totalPages > 1 && (
+          <div className="flex justify-center items-center gap-4 border-t border-white/10 pt-10">
+            {page > 1 && (
+              <Link href={`/blog?page=${page - 1}`} className="px-6 py-3 border border-luxury-gold/50 text-luxury-gold hover:bg-luxury-gold hover:text-luxury-navy transition-colors font-display tracking-widest uppercase text-xs">
+                ← Previous
+              </Link>
+            )}
+            <span className="text-white/50 text-sm">
+              Page {page} of {totalPages}
+            </span>
+            {page < totalPages && (
+              <Link href={`/blog?page=${page + 1}`} className="px-6 py-3 border border-luxury-gold/50 text-luxury-gold hover:bg-luxury-gold hover:text-luxury-navy transition-colors font-display tracking-widest uppercase text-xs">
+                Next →
+              </Link>
+            )}
+          </div>
+        )}
       </div>
     </div>
   );
