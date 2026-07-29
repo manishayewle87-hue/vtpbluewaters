@@ -123,7 +123,17 @@ export default function GlobalSchema() {
           "@type": "Organization",
           "name": "VTP Group",
           "url": "https://vtprealty.in"
-        }
+        },
+        "makesOffer": [
+          { "@type": "Offer", "itemOffered": { "@type": "ApartmentComplex", "name": "VTP Earth 1", "url": "https://vtpbluewaters.com/projects/vtp-earth-one-mahalunge-pune" } },
+          { "@type": "Offer", "itemOffered": { "@type": "ApartmentComplex", "name": "VTP Monarque", "url": "https://vtpbluewaters.com/projects/vtp-monarque-hinjawadi-pune" } },
+          { "@type": "Offer", "itemOffered": { "@type": "ApartmentComplex", "name": "VTP Volare", "url": "https://vtpbluewaters.com/projects/vtp-volare-hinjawadi-pune" } },
+          { "@type": "Offer", "itemOffered": { "@type": "ApartmentComplex", "name": "VTP Altamira", "url": "https://vtpbluewaters.com/projects/vtp-altamira-kharadi-pune" } },
+          { "@type": "Offer", "itemOffered": { "@type": "ApartmentComplex", "name": "VTP Flamante", "url": "https://vtpbluewaters.com/projects/vtp-flamante-kharadi-pune" } },
+          { "@type": "Offer", "itemOffered": { "@type": "ApartmentComplex", "name": "VTP Velvet Villas", "url": "https://vtpbluewaters.com/projects/vtp-velvet-villas-kharadi-pune" } },
+          { "@type": "Offer", "itemOffered": { "@type": "ApartmentComplex", "name": "VTP Cielo", "url": "https://vtpbluewaters.com/projects/vtp-cielo-bavdhan-pune" } },
+          { "@type": "Offer", "itemOffered": { "@type": "ApartmentComplex", "name": "VTP Aurelia", "url": "https://vtpbluewaters.com/projects/vtp-aurelia-kharadi-pune" } }
+        ]
       },
 
       // ─── 2. WebSite + Sitelinks Search Box ─────────────────────────────

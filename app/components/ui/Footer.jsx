@@ -138,8 +138,22 @@ export default function Footer() {
       {/* SEO Mega-Footer Section (Blends Seamlessly into UI) */}
       <div className="border-t border-white/5 bg-[#030610]">
         <div className="container mx-auto px-6 max-w-7xl py-12">
-          <div className="grid grid-cols-1 md:grid-cols-5 gap-8 lg:gap-12">
+          <div className="grid grid-cols-1 md:grid-cols-6 gap-8 lg:gap-8">
             
+            {/* VTP Realty Master Developer Hubs (Phase 3 Brand Hardening) */}
+            <div className="col-span-1 md:col-span-2">
+              <h5 className="text-luxury-caption text-white/40 mb-6 border-b border-white/5 pb-4">VTP Realty Pune Projects</h5>
+              <ul className="space-y-3">
+                {contentData.developerHubs?.map((hub, i) => (
+                  <li key={i}>
+                    <Link href={`/developer/vtp-realty/${hub.slug}`} className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed break-words block">
+                      {hub.title}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </div>
+
             {/* Investor Relations Hub (Phase 3) */}
             <div className="col-span-1">
               <h5 className="text-luxury-caption text-white/40 mb-6 border-b border-white/5 pb-4">Investor Relations</h5>
@@ -163,7 +177,7 @@ export default function Footer() {
               <ul className="space-y-3">
                 <li>
                   <Link href="/market-intelligence/mahalunge-hinjewadi-investment-guide" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed break-words">
-                    Mahalunge & Hinjewadi Investment Guide 2026
+                    Mahalunge & Hinjewadi Investment Guide
                   </Link>
                 </li>
                 <li>
@@ -173,17 +187,7 @@ export default function Footer() {
                 </li>
                 <li>
                   <Link href="/market-intelligence/pune-ultra-luxury-real-estate-trends" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed break-words">
-                    Pune Ultra-Luxury Real Estate Trends
-                  </Link>
-                </li>
-                <li>
-                  <Link href="/market-intelligence/vtp-bluewaters-vs-competitors" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed break-words">
-                    VTP Blue Waters vs Competitors
-                  </Link>
-                </li>
-                <li>
-                  <Link href="/market-intelligence/hinjewadi-walk-to-work-lifestyle" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed break-words">
-                    Hinjewadi Walk-To-Work Lifestyle
+                    Pune Ultra-Luxury Trends
                   </Link>
                 </li>
               </ul>
@@ -193,18 +197,13 @@ export default function Footer() {
             <div className="col-span-1">
               <h5 className="text-luxury-caption text-white/40 mb-6 border-b border-white/5 pb-4">Knowledge & Articles</h5>
               <ul className="space-y-3">
-                {contentData.blogs.slice(0, 6).map((blog, i) => (
+                {contentData.blogs.slice(0, 4).map((blog, i) => (
                   <li key={i}>
                     <Link href={`/blog/${blog.slug}`} className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed break-words">
                       {blog.title}
                     </Link>
                   </li>
                 ))}
-                <li>
-                  <Link href="/explore" className="text-xs text-luxury-gold hover:text-luxury-white transition-colors flex items-center gap-1 mt-2">
-                    View All Articles →
-                  </Link>
-                </li>
               </ul>
             </div>
 
@@ -212,37 +211,13 @@ export default function Footer() {
             <div className="col-span-1">
               <h5 className="text-luxury-caption text-white/40 mb-6 border-b border-white/5 pb-4">Mahalunge & Baner Annex</h5>
               <ul className="space-y-3">
-                {contentData.locations.slice(0, 6).map((loc, i) => (
+                {contentData.locations.slice(0, 4).map((loc, i) => (
                   <li key={i}>
                     <Link href={`/locations/${loc.slug}`} className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed break-words">
                       {loc.title}
                     </Link>
                   </li>
                 ))}
-                <li>
-                  <Link href="/explore" className="text-xs text-luxury-gold hover:text-luxury-white transition-colors flex items-center gap-1 mt-2">
-                    View All Locations →
-                  </Link>
-                </li>
-              </ul>
-            </div>
-
-            {/* FAQs Hub */}
-            <div className="col-span-1">
-              <h5 className="text-luxury-caption text-white/40 mb-6 border-b border-white/5 pb-4">Frequently Asked Questions</h5>
-              <ul className="space-y-3">
-                {contentData.faqs.slice(0, 5).map((faq, i) => (
-                  <li key={i}>
-                    <Link href="/faq" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed break-words">
-                      {faq.question}
-                    </Link>
-                  </li>
-                ))}
-                <li>
-                  <Link href="/faq" className="text-xs text-luxury-gold hover:text-luxury-white transition-colors flex items-center gap-1 mt-2">
-                    View All FAQs →
-                  </Link>
-                </li>
               </ul>
             </div>
 

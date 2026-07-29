@@ -321,5 +321,23 @@
       "slug": "symbiosis-university-lavale",
       "title": "Luxury Flats near Symbiosis International University (Lavale)"
     }
+  ],
+  "developerHubs": [
+    {
+      "slug": "kharadi",
+      "title": "VTP Realty Projects in Kharadi"
+    },
+    {
+      "slug": "hinjawadi",
+      "title": "VTP Realty Projects in Hinjawadi"
+    },
+    {
+      "slug": "mahalunge",
+      "title": "VTP Realty Projects in Mahalunge"
+    },
+    {
+      "slug": "bavdhan",
+      "title": "VTP Realty Projects in Bavdhan"
+    }
   ]
 }
