@@ -2,16 +2,10 @@
 import { motion, useScroll, useTransform } from 'framer-motion';
 import { useEffect, useRef, useState } from 'react';
 import dynamic from 'next/dynamic';
-import { gsap } from 'gsap';
-import { ScrollTrigger } from 'gsap/dist/ScrollTrigger';
 
 const FluidBackground = dynamic(() => import('../canvas/FluidBackground'), {
   ssr: false,
 });
-
-if (typeof window !== 'undefined') {
-  gsap.registerPlugin(ScrollTrigger);
-}
 
 export default function HeroSection() {
   const containerRef = useRef(null);
@@ -25,41 +19,68 @@ export default function HeroSection() {
       setLoadWebGL(true);
     }, 500); // 500ms delay gives browser time to paint DOM first
 
-    if (!titleRef.current) return;
-    const letters = titleRef.current.querySelectorAll('.letter');
-    
-    gsap.fromTo(letters, 
-      { 
-        y: 100,
-        opacity: 0,
-        rotateX: -90,
-        z: -500
-      },
-      {
-        y: 0,
-        opacity: 1,
-        rotateX: 0,
-        z: 0,
-        duration: 1.2,
-        stagger: 0.04,
-        ease: 'power4.out'
-      }
-    );
+    let gsapInstance, ScrollTriggerInstance;
 
-    if (containerRef.current) {
-      gsap.to(containerRef.current, {
-        yPercent: 30,
-        ease: 'none',
-        scrollTrigger: {
-          trigger: containerRef.current,
-          start: 'top top',
-          end: 'bottom top',
-          scrub: true
+    // Dynamically load GSAP to slash initial bundle size
+    const loadGSAP = async () => {
+      const [{ gsap }, { ScrollTrigger }] = await Promise.all([
+        import('gsap'),
+        import('gsap/dist/ScrollTrigger')
+      ]);
+      
+      gsapInstance = gsap;
+      ScrollTriggerInstance = ScrollTrigger;
+      
+      gsap.registerPlugin(ScrollTrigger);
+
+      if (!titleRef.current) return;
+      const letters = titleRef.current.querySelectorAll('.letter');
+      
+      gsap.fromTo(letters, 
+        { 
+          y: 100,
+          opacity: 0,
+          rotateX: -90,
+          z: -500
+        },
+        {
+          y: 0,
+          opacity: 1,
+          rotateX: 0,
+          z: 0,
+          duration: 1.2,
+          stagger: 0.04,
+          ease: 'power4.out'
         }
-      });
+      );
+
+      if (containerRef.current) {
+        gsap.to(containerRef.current, {
+          yPercent: 30,
+          ease: 'none',
+          scrollTrigger: {
+            trigger: containerRef.current,
+            start: 'top top',
+            end: 'bottom top',
+            scrub: true
+          }
+        });
+      }
+    };
+
+    // Load GSAP only when the browser is idle
+    if (typeof window !== 'undefined' && 'requestIdleCallback' in window) {
+      window.requestIdleCallback(() => loadGSAP());
+    } else {
+      setTimeout(loadGSAP, 100);
     }
 
-    return () => clearTimeout(timer);
+    return () => {
+      clearTimeout(timer);
+      if (ScrollTriggerInstance) {
+        ScrollTriggerInstance.getAll().forEach(t => t.kill());
+      }
+    };
   }, []);
 
   return (
