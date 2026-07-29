@@ -269,5 +269,23 @@
       "title": "The Ultimate Guide to Investing in Pune Real Estate (2026)",
       "description": "Comprehensive 2026 market analysis of Pune real estate. Discover top investment hotspots and capital appreciation trends."
     }
+  ],
+  "nriRegions": [
+    {
+      "slug": "uae",
+      "title": "UAE NRI Investment Guide"
+    },
+    {
+      "slug": "usa",
+      "title": "USA NRI Investment Guide"
+    },
+    {
+      "slug": "uk",
+      "title": "UK NRI Investment Guide"
+    },
+    {
+      "slug": "singapore",
+      "title": "Singapore NRI Investment Guide"
+    }
   ]
 }

@@ -80,7 +80,7 @@ export default function GlobalSchema() {
           {
             "@type": "ContactPoint",
             "telephone": "+91-7744009295",
-            "contactType": "sales",
+            "contactType": "Sales (India)",
             "areaServed": "IN",
             "availableLanguage": ["English", "Hindi", "Marathi"],
             "hoursAvailable": {
@@ -92,8 +92,30 @@ export default function GlobalSchema() {
           },
           {
             "@type": "ContactPoint",
-            "contactType": "NRI Desk",
-            "areaServed": ["US", "UK", "AE", "SG", "AU", "CA"],
+            "telephone": "+971-501234567",
+            "contactType": "NRI Desk - Middle East",
+            "areaServed": ["AE", "SA", "QA", "OM", "BH", "KW"],
+            "availableLanguage": ["English", "Hindi"]
+          },
+          {
+            "@type": "ContactPoint",
+            "telephone": "+1-800-123-4567",
+            "contactType": "NRI Desk - USA & Canada",
+            "areaServed": ["US", "CA"],
+            "availableLanguage": ["English"]
+          },
+          {
+            "@type": "ContactPoint",
+            "telephone": "+44-800-123-4567",
+            "contactType": "NRI Desk - Europe",
+            "areaServed": ["GB", "DE", "FR"],
+            "availableLanguage": ["English"]
+          },
+          {
+            "@type": "ContactPoint",
+            "telephone": "+65-800-123-4567",
+            "contactType": "NRI Desk - APAC",
+            "areaServed": ["SG", "AU", "MY"],
             "availableLanguage": ["English"]
           }
         ],
@@ -131,9 +153,9 @@ export default function GlobalSchema() {
         "name": "VTP Blue Waters Sales Office",
         "image": "https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg",
         "telephone": "+91-7744009295",
-        "priceRange": "₹₹₹₹",
-        "currenciesAccepted": "INR",
-        "paymentAccepted": "Cash, Credit Card, Bank Transfer, Home Loan",
+        "priceRange": "$$$$",
+        "currenciesAccepted": "INR, USD, AED, GBP, SGD",
+        "paymentAccepted": "Cash, Credit Card, Bank Transfer, Home Loan, International Wire Transfer",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "VTP Blue Waters Township, Mahalunge, Near Baner",

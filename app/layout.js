@@ -93,7 +93,12 @@ export const metadata = {
     },
   },
   verification: {
-    google: '0ziqnRFUOxCq-61sxxcMTCRrvPIFd0W0pOoyy57XkKw'
+    google: '0ziqnRFUOxCq-61sxxcMTCRrvPIFd0W0pOoyy57XkKw',
+    yandex: 'yandex_verification_code',
+    yahoo: 'yahoo_verification_code',
+    other: {
+      'msvalidate.01': ['YOUR_BING_VERIFICATION_CODE']
+    }
   },
   icons: {
     icon: '/logo.svg',
@@ -104,6 +109,11 @@ export const metadata = {
     canonical: 'https://vtpbluewaters.com',
     languages: {
       'en-IN': 'https://vtpbluewaters.com',
+      'en-US': 'https://vtpbluewaters.com',
+      'en-GB': 'https://vtpbluewaters.com',
+      'en-AE': 'https://vtpbluewaters.com',
+      'en-SG': 'https://vtpbluewaters.com',
+      'x-default': 'https://vtpbluewaters.com'
     },
     types: {
       'application/rss+xml': 'https://vtpbluewaters.com/rss.xml',
