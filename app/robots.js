@@ -89,6 +89,8 @@ export default function robots() {
     ],
     sitemap: [
       'https://vtpbluewaters.com/sitemap.xml',
+      'https://vtpbluewaters.com/sitemap-news.xml',
+      'https://vtpbluewaters.com/sitemap-video.xml',
     ],
     host: 'https://vtpbluewaters.com',
   };
