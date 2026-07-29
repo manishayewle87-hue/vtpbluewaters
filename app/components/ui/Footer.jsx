@@ -7,9 +7,10 @@ import contentData from '@/app/data/content-hub.json';
 
 const quickLinks = [
   { label: 'Residences', href: '/explore/vtp-bluewaters-mahalunge-pune-luxury-residences', targetId: 'residences' },
-  { label: 'Amenities', href: '/explore/vtp-bluewaters-mahalunge-pune-premium-amenities', targetId: 'amenities' },
+  { label: 'Configurations', href: '/configurations', targetId: null },
+  { label: '3 BHK Flats', href: '/configurations/3-bhk', targetId: null },
+  { label: '4 BHK Flats', href: '/configurations/4-bhk', targetId: null },
   { label: 'Property Directory', href: '/explore', targetId: null },
-  { label: 'About VTP Realty', href: 'https://vtprealty.in/about-vtp-realty', targetId: null },
   { label: 'Contact Us', href: 'https://vtprealty.in/contact-us', targetId: null },
 ];
 

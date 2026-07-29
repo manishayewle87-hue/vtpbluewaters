@@ -61,6 +61,12 @@ export default async function sitemap(props) {
       }
     }
 
+    const configTypes = ['2-bhk', '3-bhk', '4-bhk', 'duplex', 'villas', 'simplex'];
+    entries.push({ url: `${baseUrl}/configurations`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.8 });
+    for (const config of configTypes) {
+      entries.push({ url: `${baseUrl}/configurations/${config}`, lastModified: new Date(), changeFrequency: 'daily', priority: 0.9 });
+    }
+
     const pillarPages = [
       '/market-intelligence/mahalunge-hinjewadi-investment-guide',
       '/market-intelligence/vtp-bluewaters-township-review',
