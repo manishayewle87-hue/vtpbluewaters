@@ -7,11 +7,22 @@ const FluidBackground = dynamic(() => import('../canvas/FluidBackground'), {
   ssr: false,
 });
 
-export default function HeroSection() {
+export default function HeroSection({ userCountry = 'IN' }) {
   const containerRef = useRef(null);
   const titleRef = useRef(null);
   const titleText = 'BLUEWATERS';
   const [loadWebGL, setLoadWebGL] = useState(false);
+
+  // Determine personalized message based on Edge Geolocation
+  let customMessage = "Experience 200+ acres of meticulously crafted luxury living where the Mula-Mutha river meets unparalleled architectural elegance in Mahalunge, West Pune.";
+  
+  if (userCountry === 'AE' || userCountry === 'QA' || userCountry === 'SA') {
+    customMessage = "Invest your Dirhams in Pune's highest appreciating luxury asset. Experience 200+ acres of meticulously crafted living where the Mula-Mutha river meets unparalleled elegance.";
+  } else if (userCountry === 'US' || userCountry === 'CA') {
+    customMessage = "Secure your Dollar investment in India's fastest-growing IT hub. Experience 200+ acres of meticulously crafted luxury living in Pune.";
+  } else if (userCountry === 'GB' || userCountry === 'SG') {
+    customMessage = "Diversify your global portfolio with Pune's highest appreciating luxury township. Experience 200+ acres of riverfront living.";
+  }
 
   useEffect(() => {
     // Delay heavy WebGL initialization to prioritize text rendering (LCP)
@@ -122,12 +133,13 @@ export default function HeroSection() {
         </div>
 
         <motion.p
+          key={userCountry} // Re-animate if location changes
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ duration: 0.8, delay: 0.2 }}
           className="text-base md:text-lg text-luxury-silver max-w-2xl font-light mb-14 leading-relaxed text-editorial"
         >
-          Experience 200+ acres of meticulously crafted luxury living where the Mula-Mutha river meets unparalleled architectural elegance in Mahalunge, West Pune.
+          {customMessage}
         </motion.p>
 
         <motion.div
