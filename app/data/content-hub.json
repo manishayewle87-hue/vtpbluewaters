@@ -287,5 +287,39 @@
       "slug": "singapore",
       "title": "Singapore NRI Investment Guide"
     }
+  ],
+  "hyperLocal": [
+    {
+      "slug": "hinjewadi-phase-1",
+      "title": "Luxury Flats near Hinjewadi Phase 1"
+    },
+    {
+      "slug": "hinjewadi-phase-2",
+      "title": "Luxury Flats near Hinjewadi Phase 2"
+    },
+    {
+      "slug": "hinjewadi-phase-3",
+      "title": "Luxury Flats near Hinjewadi Phase 3"
+    },
+    {
+      "slug": "baner",
+      "title": "Luxury Flats near Baner"
+    },
+    {
+      "slug": "balewadi-high-street",
+      "title": "Luxury Flats near Balewadi High Street"
+    },
+    {
+      "slug": "wakad",
+      "title": "Luxury Flats near Wakad"
+    },
+    {
+      "slug": "mercedes-benz-international-school",
+      "title": "Luxury Flats near Mercedes-Benz International School"
+    },
+    {
+      "slug": "symbiosis-university-lavale",
+      "title": "Luxury Flats near Symbiosis International University (Lavale)"
+    }
   ]
 }

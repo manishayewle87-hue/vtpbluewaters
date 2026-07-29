@@ -1,0 +1,76 @@
+{
+  "locations": [
+    {
+      "slug": "hinjewadi-phase-1",
+      "name": "Hinjewadi Phase 1",
+      "type": "IT Park",
+      "distanceMins": 10,
+      "distanceKm": 4.5,
+      "hook": "Walk-to-work lifestyle with zero traffic stress",
+      "competitorInsight": "Unlike Hinjewadi proper where civic infrastructure is struggling, VTP Blue Waters offers 200+ acres of meticulously planned township living just 10 minutes away."
+    },
+    {
+      "slug": "hinjewadi-phase-2",
+      "name": "Hinjewadi Phase 2",
+      "type": "IT Park",
+      "distanceMins": 15,
+      "distanceKm": 7.2,
+      "hook": "Perfectly balancing proximity to top IT MNCs with serene riverfront living",
+      "competitorInsight": "Living near Phase 2 often means compromising on open spaces. Blue Waters gives you the commute advantage without sacrificing the luxury lifestyle."
+    },
+    {
+      "slug": "hinjewadi-phase-3",
+      "name": "Hinjewadi Phase 3",
+      "type": "IT Park",
+      "distanceMins": 22,
+      "distanceKm": 11,
+      "hook": "Seamless connectivity via the upcoming Maan-Mahalunge Smart City road network",
+      "competitorInsight": "The new PMRDA road networks ensure that even Phase 3 employees can access the VTP Blue Waters ecosystem faster than navigating internal Hinjewadi traffic."
+    },
+    {
+      "slug": "baner",
+      "name": "Baner",
+      "type": "Micro-Market",
+      "distanceMins": 8,
+      "distanceKm": 3.8,
+      "hook": "Upgrade from congested standalone buildings to a 200+ acre master-planned township",
+      "competitorInsight": "Baner is heavily saturated, with new projects offering tiny carpet areas and no amenities. VTP Blue Waters in Mahalunge acts as the 'Baner Annex', offering massive space and 5-star amenities just 8 minutes away."
+    },
+    {
+      "slug": "balewadi-high-street",
+      "name": "Balewadi High Street",
+      "type": "Lifestyle Hub",
+      "distanceMins": 12,
+      "distanceKm": 5.5,
+      "hook": "Enjoy Pune's best nightlife and dining, then retreat to your private luxury sanctuary",
+      "competitorInsight": "While Balewadi offers great dining, residential projects nearby are prohibitively expensive. Blue Waters offers a superior lifestyle at a much better value, just a short drive away."
+    },
+    {
+      "slug": "wakad",
+      "name": "Wakad",
+      "type": "Micro-Market",
+      "distanceMins": 15,
+      "distanceKm": 6.5,
+      "hook": "Escape the dense concrete jungle of Wakad for a 1KM riverfront promenade",
+      "competitorInsight": "Wakad has become highly dense and congested. VTP Blue Waters offers the breathing space, river views, and massive clubhouses that Wakad projects completely lack."
+    },
+    {
+      "slug": "mercedes-benz-international-school",
+      "name": "Mercedes-Benz International School",
+      "type": "Education",
+      "distanceMins": 14,
+      "distanceKm": 6.0,
+      "hook": "Ensure a world-class education for your children just minutes from your luxury home",
+      "competitorInsight": "Proximity to elite international schools is a major driver of rental yields and capital appreciation. Blue Waters places you right in the catchment area."
+    },
+    {
+      "slug": "symbiosis-university-lavale",
+      "name": "Symbiosis International University (Lavale)",
+      "type": "Education",
+      "distanceMins": 20,
+      "distanceKm": 10.5,
+      "hook": "Ideal for academics and affluent student rentals",
+      "competitorInsight": "The lush green surroundings of VTP Blue Waters perfectly complement the serene environment of the Symbiosis Lavale campus."
+    }
+  ]
+}
