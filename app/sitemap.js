@@ -68,6 +68,10 @@ export default async function sitemap(props) {
     }
 
     const pillarPages = [
+      '/developer/vtp-realty/kharadi',
+      '/developer/vtp-realty/hinjawadi',
+      '/developer/vtp-realty/mahalunge',
+      '/developer/vtp-realty/bavdhan',
       '/market-intelligence/mahalunge-hinjewadi-investment-guide',
       '/market-intelligence/vtp-bluewaters-township-review',
       '/market-intelligence/pune-ultra-luxury-real-estate-trends',
