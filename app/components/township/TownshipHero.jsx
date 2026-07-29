@@ -22,6 +22,8 @@ export default function TownshipHero() {
           fill
           className="object-cover"
           priority
+          fetchPriority="high"
+          quality={90}
           sizes="100vw"
         />
         <div className="absolute inset-0 bg-gradient-to-b from-luxury-navy/40 via-luxury-navy/20 to-luxury-navy"></div>
