@@ -11,11 +11,12 @@ const ConfigurationsGrid = dynamic(() => import('@/app/components/ui/Configurati
 import { preload } from 'react-dom';
 
 export async function generateMetadata({ params }) {
+  const resolvedParams = await params;
   let matchedKeyword = '';
   let matchedSilo = null;
 
   for (const silo of seoSilos) {
-    const found = silo.slugs.find(s => s.slug === params.slug);
+    const found = silo.slugs.find(s => s.slug === resolvedParams.slug);
     if (found) {
       matchedKeyword = found.keyword;
       matchedSilo = silo;
@@ -40,8 +41,8 @@ export async function generateMetadata({ params }) {
       siteName: 'VTP Blue Waters',
       locale: 'en_IN',
       type: 'article',
-      publishedTime: generateDeterministicRecentDate(params.slug + '-published'),
-      modifiedTime: generateDeterministicRecentDate(params.slug),
+      publishedTime: generateDeterministicRecentDate(resolvedParams.slug + '-published'),
+      modifiedTime: generateDeterministicRecentDate(resolvedParams.slug),
       authors: ['https://vtpbluewaters.com'],
       images: [
         {
@@ -64,11 +65,12 @@ export async function generateMetadata({ params }) {
 }
 
 export default async function SeoLandingPage({ params }) {
+  const resolvedParams = await params;
   let matchedKeyword = '';
   let matchedSilo = null;
 
   for (const silo of seoSilos) {
-    const found = silo.slugs.find(s => s.slug === params.slug);
+    const found = silo.slugs.find(s => s.slug === resolvedParams.slug);
     if (found) {
       matchedKeyword = found.keyword;
       matchedSilo = silo;
@@ -80,16 +82,16 @@ export default async function SeoLandingPage({ params }) {
     notFound();
   }
 
-  const currentUrl = `https://vtpbluewaters.com/explore/${params.slug}`;
+  const currentUrl = `https://vtpbluewaters.com/explore/${resolvedParams.slug}`;
   const projects = await cms.getAllProjects();
   
   // LCP Preload Hero Image for Core Web Vitals Rank #1 Boost
   preload('https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg', { as: 'image' });
   
   // Dynamic Content Generation
-  const dynamicMarketIntelligence = generateUniqueContent(params.slug, matchedKeyword, matchedSilo.id);
-  const dynamicDateModified = generateDeterministicRecentDate(params.slug);
-  const dynamicRating = generateDeterministicRating(params.slug);
+  const dynamicMarketIntelligence = generateUniqueContent(resolvedParams.slug, matchedKeyword, matchedSilo.id);
+  const dynamicDateModified = generateDeterministicRecentDate(resolvedParams.slug);
+  const dynamicRating = generateDeterministicRating(resolvedParams.slug);
 
   // Dynamic FAQs generated based on keyword
   const faqs = [
@@ -265,7 +267,7 @@ export default async function SeoLandingPage({ params }) {
           <p className="text-luxury-silver mb-6 text-sm">Discover specific floor plans and price points closely related to {matchedKeyword}:</p>
           <ul className="grid grid-cols-1 md:grid-cols-2 gap-4">
             {matchedSilo.slugs
-              .filter(s => s.slug !== params.slug)
+              .filter(s => s.slug !== resolvedParams.slug)
               .slice(0, 6) // Grab 6 closely related keywords from the same silo to trap PageRank
               .map((related, i) => (
               <li key={`cluster-${i}`}>

@@ -2,6 +2,7 @@
 const nextConfig = {
   // Gzip/Brotli compress all responses — immediate Core Web Vitals boost
   compress: true,
+  turbopack: {},
 
   // Strict production optimizations
   productionBrowserSourceMaps: false,

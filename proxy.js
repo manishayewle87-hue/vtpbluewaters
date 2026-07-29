@@ -14,7 +14,7 @@ export const config = {
   ],
 };
 
-export function middleware(request) {
+export default function proxy(request) {
   // Extract country from Cloudflare or Vercel edge headers
   const country = request.headers.get('cf-ipcountry') || request.headers.get('x-vercel-ip-country') || 'IN';
   

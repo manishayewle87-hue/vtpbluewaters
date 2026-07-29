@@ -45,7 +45,8 @@ const regionData = {
 };
 
 export async function generateMetadata({ params }) {
-  const { region } = params;
+  const resolvedParams = await params;
+  const region = resolvedParams?.region || '';
   const data = regionData[region.toLowerCase()];
 
   if (!data) return {};
@@ -65,8 +66,9 @@ export function generateStaticParams() {
   }));
 }
 
-export default function NRIInvestmentRegionPage({ params }) {
-  const { region } = params;
+export default async function NRIInvestmentRegionPage({ params }) {
+  const resolvedParams = await params;
+  const region = resolvedParams?.region || '';
   const data = regionData[region.toLowerCase()];
 
   if (!data) {

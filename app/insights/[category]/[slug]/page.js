@@ -10,10 +10,11 @@ import ArticleSchema from '@/app/components/seo/ArticleSchema';
 
 
 export async function generateMetadata({ params }) {
-  const post = insightsData.find(p => p.slug === params.slug);
-  if (!post) return {};
+  const resolvedParams = await params;
+  const post = insightsData.find(p => p.slug === resolvedParams.slug);
 
-  const url = `https://vtpbluewaters.com/insights/${params.category}/${params.slug}`;
+  if (!post) return {};
+  const url = `https://vtpbluewaters.com/insights/${resolvedParams.category}/${resolvedParams.slug}`;
   const title = `${post.title} | VTP Realty Insights`;
   const description = post.excerpt || post.content.substring(0, 160) + '...';
 
@@ -39,13 +40,13 @@ export async function generateMetadata({ params }) {
 }
 
 export default async function InsightPage({   params }) {
-  const lang = 'en';
-  const post = insightsData.find(p => p.slug === params.slug);
+  const resolvedParams = await params;
+  const post = insightsData.find(p => p.slug === resolvedParams.slug);
+
   if (!post) {
     notFound();
   }
-
-  const url = `https://vtpbluewaters.com/insights/${params.category}/${post.slug}`;
+  const url = `https://vtpbluewaters.com/insights/${resolvedParams.category}/${post.slug}`;
 
   return (
     <div className="min-h-screen bg-luxury-charcoal pt-16 lg:pt-32 pb-20 px-4">

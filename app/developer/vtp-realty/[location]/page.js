@@ -25,7 +25,8 @@ const generateLocationMap = () => {
 const locationMap = generateLocationMap();
 
 export async function generateMetadata({ params }) {
-  const { location } = params;
+  const resolvedParams = await params;
+  const location = resolvedParams?.location || '';
   const locData = locationMap[location.toLowerCase()];
 
   if (!locData) return {};
@@ -52,8 +53,9 @@ export function generateStaticParams() {
   }));
 }
 
-export default function VTPRealtyLocationPage({ params }) {
-  const { location } = params;
+export default async function VTPRealtyLocationPage({ params }) {
+  const resolvedParams = await params;
+  const location = resolvedParams?.location || '';
   const locData = locationMap[location.toLowerCase()];
 
   if (!locData) {

@@ -8,8 +8,9 @@ export function generateStaticParams() {
   }));
 }
 
-export function generateMetadata({ params }) {
-  const silo = seoSilos.find((s) => s.id === params.id);
+export async function generateMetadata({ params }) {
+  const resolvedParams = await params;
+  const silo = seoSilos.find((s) => s.id === resolvedParams.id);
   if (!silo) return {};
 
   return {
@@ -20,8 +21,9 @@ export function generateMetadata({ params }) {
   };
 }
 
-export default function CategorySpokePage({ params }) {
-  const silo = seoSilos.find((s) => s.id === params.id);
+export default async function CategorySpokePage({ params }) {
+  const resolvedParams = await params;
+  const silo = seoSilos.find((s) => s.id === resolvedParams.id);
   
   if (!silo) {
     notFound();

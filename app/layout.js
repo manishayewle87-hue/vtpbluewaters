@@ -93,11 +93,6 @@ export const metadata = {
     },
   },
   manifest: '/manifest.json',
-  appleWebApp: {
-    capable: true,
-    statusBarStyle: 'default',
-    title: 'Blue Waters',
-  },
   verification: {
     google: '0ziqnRFUOxCq-61sxxcMTCRrvPIFd0W0pOoyy57XkKw',
     yandex: 'yandex_verification_code',
