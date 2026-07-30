@@ -295,7 +295,14 @@ export default async function SeoLandingPage({ params }) {
           <ul className="grid grid-cols-1 md:grid-cols-2 gap-4">
             {matchedSilo.slugs
               .filter(s => s.slug !== resolvedParams.slug)
-              .slice(0, 6) // Grab 6 closely related keywords from the same silo to trap PageRank
+              // Advanced semantic sort: prioritize links that share words with the current keyword
+              .sort((a, b) => {
+                const words = matchedKeyword.toLowerCase().split(' ');
+                const aMatches = words.filter(w => a.keyword.toLowerCase().includes(w)).length;
+                const bMatches = words.filter(w => b.keyword.toLowerCase().includes(w)).length;
+                return bMatches - aMatches;
+              })
+              .slice(0, 8) // Grab 8 highly related keywords to trap PageRank
               .map((related, i) => (
               <li key={`cluster-${i}`}>
                 <Link href={`/explore/${related.slug}`} prefetch={false} className="text-luxury-gold hover:text-white transition-colors text-sm flex items-center gap-2 group">
@@ -327,8 +334,19 @@ export default async function SeoLandingPage({ params }) {
           <ul className="grid grid-cols-1 md:grid-cols-3 gap-4">
             {seoSilos
               .filter(s => s.id !== matchedSilo.id)
-              .map(s => s.slugs[0]) // Get the highest priority keyword from every other silo
-              .slice(0, 15) // Limit to top 15 to avoid massive DOM footprint
+              // Extract a mix of the highest authority pages and intent-matching pages across silos
+              .flatMap(s => s.slugs)
+              .sort((a, b) => {
+                // If the user is looking at "3 BHK", prioritize linking to other "3 BHK" across Pune
+                const is3BHK = matchedKeyword.toLowerCase().includes('3 bhk') || matchedKeyword.toLowerCase().includes('3bhk');
+                const aIs3BHK = a.keyword.toLowerCase().includes('3 bhk') || a.keyword.toLowerCase().includes('3bhk');
+                const bIs3BHK = b.keyword.toLowerCase().includes('3 bhk') || b.keyword.toLowerCase().includes('3bhk');
+                
+                if (is3BHK && aIs3BHK && !bIs3BHK) return -1;
+                if (is3BHK && bIs3BHK && !aIs3BHK) return 1;
+                return 0.5 - Math.random(); // Fallback to random distribution to ensure all 11,000 pages get crawled eventually
+              })
+              .slice(0, 18) // Map 18 broad cross-links
               .map((related, i) => (
                 <li key={`cross-${i}`}>
                   <Link href={`/explore/${related.slug}`} prefetch={false} className="text-luxury-silver hover:text-luxury-gold transition-colors text-xs font-light">
