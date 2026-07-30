@@ -245,6 +245,28 @@ export default async function ProjectDetail({   params }) {
           <EnquiryForm projectName={project.name} />
         </div>
 
+        {/* 9. PageRank Sculpting: Semantic Intent Linking (Fixes Orphan Pages) */}
+        <section className="border-t border-white/5 bg-white/[0.01]">
+          <div className="container mx-auto px-6 max-w-7xl py-16">
+            <h3 className="text-xl text-luxury-gold mb-6 font-display">Explore {project.name} In Detail</h3>
+            <p className="text-sm text-luxury-silver font-light mb-8 max-w-3xl">
+              Access official documents, precise pricing, updated floor plans, and detailed configurations for {project.name}.
+            </p>
+            <div className="flex flex-wrap gap-4">
+              {['price', 'floor-plan', 'location', 'brochure', 'reviews', 'amenities', '2-bhk', '3-bhk', '4-bhk'].map(intent => (
+                <Link 
+                  key={intent}
+                  href={`/projects/${project.slug}/${intent}`}
+                  prefetch={false}
+                  className="px-5 py-3 text-xs uppercase tracking-widest text-luxury-silver hover:text-white bg-white/5 hover:bg-white/10 border border-white/10 hover:border-luxury-gold/50 transition-all rounded-full whitespace-nowrap"
+                >
+                  {project.name} {intent.replace(/-/g, ' ')}
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
+
         {/* Statutory Compliance Footer */}
         <div className="border-t border-white/5 py-12">
           <div className="container mx-auto px-6 max-w-7xl text-center">
