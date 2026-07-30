@@ -72,6 +72,11 @@ export default function robots() {
           '/*?*page=',
           '/*?*ref=',
           '/*?*utm_',
+          '/_next/data/',      // Prevent crawling of Next.js internal data payloads
+          '/*.json$',          // Block direct access to raw JSON
+          '/cdn-cgi/',         // Block Cloudflare internal paths
+          '/*?*gclid=',        // Prevent indexation of ad-tracking parameters
+          '/*?*fbclid=',
         ],
       },
 
@@ -80,9 +85,9 @@ export default function robots() {
       {
         userAgent: [
           // AI Bots
-          'GPTBot', 'ChatGPT-User', 'CCBot', 'ClaudeBot', 'anthropic-ai', 'Omgilibot', 'Omgili', 'Bytespider', 'PetalBot', 'Amazonbot',
+          'GPTBot', 'ChatGPT-User', 'CCBot', 'ClaudeBot', 'anthropic-ai', 'Omgilibot', 'Omgili', 'Bytespider', 'PetalBot', 'Amazonbot', 'Google-Extended', 'PerplexityBot', 'cohere-ai',
           // SEO & Scraper Bots
-          'AhrefsBot', 'SemrushBot', 'DotBot', 'MJ12bot', 'Rogerbot', 'Screaming Frog SEO Spider', 'MegaIndex.ru', 'DataForSeoBot'
+          'AhrefsBot', 'SemrushBot', 'DotBot', 'MJ12bot', 'Rogerbot', 'Screaming Frog SEO Spider', 'MegaIndex.ru', 'DataForSeoBot', 'Barkrowler', 'BLEXBot', 'YisouSpider'
         ],
         disallow: ['/'],
       },

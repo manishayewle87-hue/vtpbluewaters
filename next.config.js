@@ -3,6 +3,7 @@ const nextConfig = {
   // Gzip/Brotli compress all responses — immediate Core Web Vitals boost
   compress: true,
   turbopack: {},
+  trailingSlash: false, // Strict SEO Canonicalization: Prevents duplicate content with/without trailing slashes
 
   // Strict production optimizations
   productionBrowserSourceMaps: false,
