@@ -17,6 +17,21 @@ export const seoSilos = [
     ]
   },
   {
+    "id": "competitor-comparisons",
+    "title": "VTP Blue Waters vs Competitor Projects",
+    "description": "Detailed comparison of VTP Blue Waters luxury residences against other major real estate projects in West Pune.",
+    "slugs": [
+      { "slug": "vtp-earth-one-vs-godrej-hillside", "keyword": "VTP Earth One vs Godrej Hillside Mahalunge" },
+      { "slug": "vtp-blue-waters-vs-lodha-belmondo", "keyword": "VTP Blue Waters vs Lodha Belmondo" },
+      { "slug": "vtp-monarque-vs-kolte-patil-life-republic", "keyword": "VTP Monarque vs Kolte Patil Life Republic" },
+      { "slug": "vtp-earth-one-vs-kasturi-apostrophe", "keyword": "VTP Earth One vs Kasturi Apostrophe" },
+      { "slug": "vtp-blue-waters-vs-paranjape-blue-ridge", "keyword": "VTP Blue Waters vs Blue Ridge Hinjewadi" },
+      { "slug": "vtp-altamira-vs-gera-world-of-joy", "keyword": "VTP Altamira vs Gera World of Joy Kharadi" },
+      { "slug": "vtp-flamante-vs-panchshil-towers", "keyword": "VTP Flamante vs Panchshil Towers" },
+      { "slug": "best-township-in-mahalunge-vtp-vs-godrej", "keyword": "Best Township in Mahalunge: VTP vs Godrej" }
+    ]
+  },
+  {
     "id": "location-mahalunge",
     "title": "Mahalunge Real Estate & Properties",
     "description": "VTP Blue Waters in Mahalunge is West Pune's most prestigious 200+ acre luxury township.",
