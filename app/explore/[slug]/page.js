@@ -30,6 +30,18 @@ export async function generateMetadata({ params }) {
   const description = `Discover ${matchedKeyword}. ${matchedSilo.description} Explore ultimate luxury, premium amenities, and Maximum Livable Area philosophy with VTP Realty.`;
   const url = `https://vtpbluewaters.com/explore/${params.slug}`;
 
+  const isVtpProject = resolvedParams.slug.includes('vtp');
+  const imageSlug = isVtpProject && resolvedParams.slug.includes('altamira') ? 'vtp-altamira-kharadi-pune/accurate-hero.jpg'
+    : isVtpProject && resolvedParams.slug.includes('monarque') ? 'vtp-monarque-hinjawadi-pune/accurate-hero.webp'
+    : isVtpProject && resolvedParams.slug.includes('flamante') ? 'vtp-flamante-kharadi-pune/accurate-hero.svg'
+    : isVtpProject && resolvedParams.slug.includes('velvet') ? 'vtp-velvet-villas-kharadi-pune/accurate-hero.webp'
+    : isVtpProject && resolvedParams.slug.includes('cielo') ? 'vtp-cielo-bavdhan-pune/accurate-hero.webp'
+    : isVtpProject && resolvedParams.slug.includes('aurelia') ? 'vtp-aurelia-kharadi-pune/accurate-hero.jpg'
+    : isVtpProject && resolvedParams.slug.includes('volare') ? 'vtp-volare-hinjawadi-pune/accurate-hero.webp'
+    : 'earth-1/hero.jpg';
+
+  const imageUrl = `https://vtpbluewaters.com/assets/projects/${imageSlug}`;
+
   return {
     title,
     description,
@@ -46,10 +58,10 @@ export async function generateMetadata({ params }) {
       authors: ['https://vtpbluewaters.com'],
       images: [
         {
-          url: 'https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg',
+          url: imageUrl,
           width: 1200,
           height: 630,
-          alt: `${matchedKeyword} - VTP Blue Waters Pune`,
+          alt: `${matchedKeyword} - VTP Realty Pune`,
         },
       ],
     },
@@ -58,7 +70,7 @@ export async function generateMetadata({ params }) {
       site: '@VTPRealty',
       title,
       description,
-      images: ['https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg'],
+      images: [imageUrl],
     },
     robots: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 },
   };
@@ -85,8 +97,20 @@ export default async function SeoLandingPage({ params }) {
   const currentUrl = `https://vtpbluewaters.com/explore/${resolvedParams.slug}`;
   const projects = await cms.getAllProjects();
   
-  // LCP Preload Hero Image for Core Web Vitals Rank #1 Boost
-  preload('https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg', { as: 'image' });
+  const isVtpProject = resolvedParams.slug.includes('vtp');
+  const imageSlug = isVtpProject && resolvedParams.slug.includes('altamira') ? 'vtp-altamira-kharadi-pune/accurate-hero.jpg'
+    : isVtpProject && resolvedParams.slug.includes('monarque') ? 'vtp-monarque-hinjawadi-pune/accurate-hero.webp'
+    : isVtpProject && resolvedParams.slug.includes('flamante') ? 'vtp-flamante-kharadi-pune/accurate-hero.svg'
+    : isVtpProject && resolvedParams.slug.includes('velvet') ? 'vtp-velvet-villas-kharadi-pune/accurate-hero.webp'
+    : isVtpProject && resolvedParams.slug.includes('cielo') ? 'vtp-cielo-bavdhan-pune/accurate-hero.webp'
+    : isVtpProject && resolvedParams.slug.includes('aurelia') ? 'vtp-aurelia-kharadi-pune/accurate-hero.jpg'
+    : isVtpProject && resolvedParams.slug.includes('volare') ? 'vtp-volare-hinjawadi-pune/accurate-hero.webp'
+    : 'earth-1/hero.jpg';
+  
+  const imageUrl = `https://vtpbluewaters.com/assets/projects/${imageSlug}`;
+  
+  // LCP Preload Hero Image for Core Web Vitals Rank #1 Boost (Dynamic)
+  preload(imageUrl, { as: 'image', fetchPriority: 'high' });
   
   // Dynamic Content Generation
   const dynamicMarketIntelligence = generateUniqueContent(resolvedParams.slug, matchedKeyword, matchedSilo.id);
@@ -148,7 +172,7 @@ export default async function SeoLandingPage({ params }) {
                 "@type": "LocalBusiness",
                 "@id": `${currentUrl}#localbusiness`,
                 "name": `${matchedKeyword} - VTP Realty`,
-                "image": "https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg",
+                "image": imageUrl,
                 "telephone": "+91-7744009295",
                 "address": {
                   "@type": "PostalAddress",
