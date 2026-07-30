@@ -54,7 +54,7 @@ export default function ConfigurationsGrid({ projects }) {
   }, []);
 
   return (
-    <section ref={containerRef} id="residences" className="py-16 pb-14 lg:pb-28 lg:pb-0 lg:py-0 lg:h-screen bg-[#050914] relative border-t border-luxury-gold/10 overflow-hidden flex flex-col lg:items-center">
+    <section ref={containerRef} id="residences" className="py-16 lg:py-0 lg:h-screen bg-[#050914] relative border-t border-luxury-gold/10 overflow-hidden flex flex-col lg:items-center">
       
       {/* Background Glow */}
       <div className="absolute top-0 left-1/4 w-[500px] h-[500px] bg-luxury-gold/[0.03] rounded-full blur-[120px] pointer-events-none"></div>

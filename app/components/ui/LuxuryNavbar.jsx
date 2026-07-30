@@ -100,6 +100,11 @@ export default function LuxuryNavbar() {
                 key={link.label}
                 className="relative h-full py-4"
                 onMouseEnter={() => link.type === 'dropdown' && setActiveDropdown(link.id)}
+                onClick={() => {
+                  if (link.type === 'dropdown') {
+                    setActiveDropdown(activeDropdown === link.id ? null : link.id);
+                  }
+                }}
               >
                 {link.type === 'link' ? (
                   <Link 
