@@ -119,31 +119,32 @@ export default function LuxuryNavbar() {
                   </Link>
                 )}
 
-                {/* Desktop Dropdown Panel */}
-                <AnimatePresence>
-                  {link.type === 'dropdown' && activeDropdown === link.id && (
-                    <motion.div
-                      initial={{ opacity: 0, y: 10 }}
-                      animate={{ opacity: 1, y: 0 }}
-                      exit={{ opacity: 0, y: 10 }}
-                      transition={{ duration: 0.2 }}
-                      className="absolute top-full left-1/2 -translate-x-1/2 mt-2 w-72 bg-luxury-charcoal/95 backdrop-blur-lg border border-luxury-gold/20 rounded-xl overflow-hidden shadow-2xl py-4"
-                    >
-                      <div className="flex flex-col max-h-[60vh] overflow-y-auto custom-scrollbar">
-                        {megaMenuData[link.id].map((item) => (
-                          <Link
-                            key={item.name}
-                            href={item.href}
-                            className="px-6 py-3 text-luxury-silver hover:text-luxury-gold hover:bg-white/5 transition-all duration-300 text-xs tracking-[0.1em]"
-                            onClick={() => setActiveDropdown(null)}
-                          >
-                            {item.name}
-                          </Link>
-                        ))}
-                      </div>
-                    </motion.div>
-                  )}
-                </AnimatePresence>
+                {/* Desktop Dropdown Panel (Always in DOM for SEO Crawlability) */}
+                {link.type === 'dropdown' && (
+                  <motion.div
+                    initial={{ opacity: 0, y: 10, pointerEvents: 'none' }}
+                    animate={{ 
+                      opacity: activeDropdown === link.id ? 1 : 0, 
+                      y: activeDropdown === link.id ? 0 : 10,
+                      pointerEvents: activeDropdown === link.id ? 'auto' : 'none'
+                    }}
+                    transition={{ duration: 0.2 }}
+                    className="absolute top-full left-1/2 -translate-x-1/2 mt-2 w-72 bg-luxury-charcoal/95 backdrop-blur-lg border border-luxury-gold/20 rounded-xl overflow-hidden shadow-2xl py-4"
+                  >
+                    <div className="flex flex-col max-h-[60vh] overflow-y-auto custom-scrollbar">
+                      {megaMenuData[link.id].map((item) => (
+                        <Link
+                          key={item.name}
+                          href={item.href}
+                          className="px-6 py-3 text-luxury-silver hover:text-luxury-gold hover:bg-white/5 transition-all duration-300 text-xs tracking-[0.1em]"
+                          onClick={() => setActiveDropdown(null)}
+                        >
+                          {item.name}
+                        </Link>
+                      ))}
+                    </div>
+                  </motion.div>
+                )}
               </div>
             ))}
             

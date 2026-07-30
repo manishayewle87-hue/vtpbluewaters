@@ -133,6 +133,24 @@ export default async function ProjectIntentDetail({   params }) {
     }))
   };
 
+  const breadcrumbItems = [
+    { label: 'Home', href: '/' },
+    { label: 'Projects', href: '/#residences' },
+    { label: project.name, href: `/projects/${project.slug}` },
+    { label: displayIntent, href: `/projects/${project.slug}/${intent}` }
+  ];
+
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: breadcrumbItems.map((item, index) => ({
+      '@type': 'ListItem',
+      position: index + 1,
+      name: item.label,
+      item: `https://vtpbluewaters.com${item.href}`
+    }))
+  };
+
   return (
     <>
       <script
@@ -142,6 +160,10 @@ export default async function ProjectIntentDetail({   params }) {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
 
       <article className="min-h-screen bg-luxury-navy">
