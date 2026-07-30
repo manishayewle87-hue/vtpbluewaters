@@ -27,7 +27,7 @@ export default function WhatsAppWidget() {
           animate={{ opacity: 1, scale: 1, y: 0 }}
           exit={{ opacity: 0, scale: 0.5, y: 50 }}
           transition={{ type: 'spring', stiffness: 260, damping: 20 }}
-          className="fixed bottom-6 right-6 z-[9999]"
+          className="fixed bottom-[90px] md:bottom-6 right-6 z-[9999]"
         >
           <a
             href={waLink}

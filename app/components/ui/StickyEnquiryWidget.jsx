@@ -41,7 +41,7 @@ export default function StickyEnquiryWidget() {
     <>
       {/* Sticky Button Trigger */}
       <div 
-        className="fixed right-0 top-1/2 -translate-y-1/2 z-50 flex items-center justify-end"
+        className="hidden md:flex fixed right-0 top-1/2 -translate-y-1/2 z-50 items-center justify-end"
         onMouseEnter={() => setIsHovered(true)}
         onMouseLeave={() => setIsHovered(false)}
       >

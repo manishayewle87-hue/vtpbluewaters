@@ -107,6 +107,14 @@
   .luxury-divider {
     @apply w-12 h-px bg-gradient-to-r from-luxury-gold/60 to-transparent;
   }
+
+  /* Safe Area Insets for Advanced Mobile UX (iOS Home Indicator) */
+  .pb-safe {
+    padding-bottom: env(safe-area-inset-bottom);
+  }
+  .pt-safe {
+    padding-top: env(safe-area-inset-top);
+  }
 }
 
 @keyframes shine {
