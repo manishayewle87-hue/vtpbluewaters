@@ -106,7 +106,7 @@ export default function ProjectFloorPlans({ floorPlans, projectName }) {
                     >
                       <Image 
                         src={plan.image || '/assets/projects/earth-1/floor-plan-3bhk.jpg'} 
-                        alt={plan.type}
+                        alt={`${projectName} ${plan.type} Luxury Floor Plan`}
                         fill
                         sizes="(max-width: 768px) 100vw, 33vw"
                         className="w-full h-full object-cover opacity-60 group-hover:opacity-100 transition-opacity duration-1000"
@@ -170,7 +170,7 @@ export default function ProjectFloorPlans({ floorPlans, projectName }) {
       />
 
       <LightboxGallery 
-        images={floorPlans?.map(p => ({ src: p.image || '/assets/projects/earth-1/floor-plan-3bhk.jpg', alt: p.type })) || []} 
+        images={floorPlans?.map(p => ({ src: p.image || '/assets/projects/earth-1/floor-plan-3bhk.jpg', alt: `${projectName} ${p.type} Floor Plan` })) || []} 
         initialIndex={lightboxIndex}
         isOpen={lightboxOpen} 
         onClose={() => setLightboxOpen(false)} 

@@ -32,7 +32,7 @@ export default function ProjectMasterLayout({ masterLayout, projectName }) {
         >
           <Image 
             src={imageSrc} 
-            alt="Master Layout"
+            alt={`${projectName} Master Layout Plan and Zoning`}
             fill
             sizes="100vw"
             className="object-cover opacity-80 group-hover:opacity-100 group-hover:scale-105 transition-all duration-1000"
@@ -57,7 +57,7 @@ export default function ProjectMasterLayout({ masterLayout, projectName }) {
       </div>
 
       <LightboxGallery 
-        images={[{ src: imageSrc, alt: 'Master Layout' }]} 
+        images={[{ src: imageSrc, alt: `${projectName} Master Layout Plan` }]} 
         isOpen={isLightboxOpen} 
         onClose={() => setLightboxOpen(false)} 
       />

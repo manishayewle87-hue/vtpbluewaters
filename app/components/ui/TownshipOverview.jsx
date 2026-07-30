@@ -119,7 +119,7 @@ export default function TownshipOverview() {
             <div className="absolute inset-0 w-full h-full">
               <Image 
                 src="/images/township_ecosystem.jpg" 
-                alt="Masterplan"
+                alt="VTP Blue Waters Township Masterplan"
                 fill
                 priority
                 sizes="(max-width: 1024px) 100vw, 50vw"
@@ -132,7 +132,7 @@ export default function TownshipOverview() {
             <div className="absolute inset-0 w-full h-full opacity-0">
               <Image 
                 src="/images/township_central_garden.jpg" 
-                alt="River View"
+                alt="VTP Blue Waters Mahalunge River View"
                 fill
                 sizes="(max-width: 1024px) 100vw, 50vw"
                 className="object-cover rounded-sm opacity-80"
@@ -144,7 +144,7 @@ export default function TownshipOverview() {
             <div className="absolute inset-0 w-full h-full opacity-0">
               <Image 
                 src="/images/township_hero_bg.jpg" 
-                alt="Connectivity"
+                alt="VTP Blue Waters Hinjawadi Connectivity"
                 fill
                 sizes="(max-width: 1024px) 100vw, 50vw"
                 className="object-cover rounded-sm opacity-80"

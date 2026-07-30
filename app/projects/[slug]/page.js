@@ -127,7 +127,7 @@ export default async function ProjectDetail({   params }) {
           <div className="absolute inset-0 z-0">
             <Image 
               src={project.image} 
-              alt={project.name}
+              alt={`${project.name} in ${project.location} by VTP Realty`}
               fill
               priority
               sizes="100vw"
