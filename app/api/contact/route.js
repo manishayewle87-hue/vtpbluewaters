@@ -1,6 +1,7 @@
 import { NextResponse } from 'next/server';
-import nodemailer from 'nodemailer';
 import { z } from 'zod';
+
+export const runtime = 'edge';
 
 // Basic In-Memory Rate Limiter (Token Bucket / Window)
 // Note: In a serverless environment, this resets per lambda instance, but still mitigates extreme bursts.
@@ -97,67 +98,38 @@ export async function POST(request) {
       return NextResponse.json({ success: false, error: "Bot activity detected. reCAPTCHA failed." }, { status: 403 });
     }
 
-    // 4. Send Email via Nodemailer (with XSS Sanitization)
-    const transporter = nodemailer.createTransport({
-      service: 'gmail',
-      auth: {
-        user: process.env.EMAIL_USER || 'propsmartrealty@gmail.com',
-        pass: process.env.EMAIL_PASS
-      }
-    });
+    // 4. Send Email via HTTP-based GAS Mailer (Edge Compatible)
+    let gasUrl = process.env.NEXT_PUBLIC_GAS_MAILER_URL;
+    
+    if (!gasUrl) {
+      console.error("Critical environment variable missing (NEXT_PUBLIC_GAS_MAILER_URL).");
+      return NextResponse.json({ success: false, error: "Server configuration error." }, { status: 500 });
+    }
+    
+    gasUrl = gasUrl.replace(/^["']|["']$/g, '').trim();
 
-    const mailOptions = {
-      from: `VTP Blue Waters Leads <${process.env.EMAIL_USER || 'propsmartrealty@gmail.com'}>`,
-      to: 'propsmartrealty@gmail.com',
-      replyTo: escapeHtml(data.email),
+    // Prepare payload with strict sanitization
+    const payload = {
+      ...data,
       subject: `🚨 New Lead: ${escapeHtml(data.name)} — ${escapeHtml(data.project || 'VTP Blue Waters')}`,
-      html: `
-        <h2>New Lead Details</h2>
-        <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%; max-width: 600px; font-family: sans-serif;">
-          <tr><th style="text-align: left; background-color: #f8f9fa;">Name</th><td>${escapeHtml(data.name)}</td></tr>
-          <tr><th style="text-align: left; background-color: #f8f9fa;">Email</th><td>${escapeHtml(data.email)}</td></tr>
-          <tr><th style="text-align: left; background-color: #f8f9fa;">Phone</th><td>${escapeHtml(data.phone)}</td></tr>
-          ${data.project ? `<tr><th style="text-align: left; background-color: #f8f9fa;">Project</th><td>${escapeHtml(data.project)}</td></tr>` : ''}
-          ${data.intent ? `<tr><th style="text-align: left; background-color: #f8f9fa;">Intent</th><td>${escapeHtml(data.intent)}</td></tr>` : ''}
-          ${data.source ? `<tr><th style="text-align: left; background-color: #f8f9fa;">Source</th><td>${escapeHtml(data.source)}</td></tr>` : ''}
-          ${data.message ? `<tr><th style="text-align: left; background-color: #f8f9fa;">Message</th><td>${escapeHtml(data.message)}</td></tr>` : ''}
-          <tr><th colspan="2" style="text-align: center; background-color: #1a365d; color: white; padding: 10px;">Marketing Analytics</th></tr>
-          <tr><th style="text-align: left; background-color: #f8f9fa;">Submitted From</th><td><a href="${data.pageUrl || '#'}">${escapeHtml(data.pageUrl)}</a></td></tr>
-          <tr><th style="text-align: left; background-color: #f8f9fa;">UTM Source</th><td>${escapeHtml(data.utmSource || 'Direct')}</td></tr>
-          <tr><th style="text-align: left; background-color: #f8f9fa;">UTM Medium</th><td>${escapeHtml(data.utmMedium || 'Direct')}</td></tr>
-          <tr><th style="text-align: left; background-color: #f8f9fa;">UTM Campaign</th><td>${escapeHtml(data.utmCampaign || 'Direct')}</td></tr>
-        </table>
-        <br/>
-        <p style="color: #666; font-size: 12px;">This lead was validated by Zod and protected by strict reCAPTCHA v3.</p>
-      `
     };
 
     try {
-      await transporter.sendMail(mailOptions);
-      return NextResponse.json({ success: true, message: "Lead submitted successfully." });
-    } catch (mailError) {
-      console.warn("Nodemailer Primary Mailer Failed. Attempting Fallback to GAS Mailer...", mailError);
-      
-      let gasUrl = process.env.NEXT_PUBLIC_GAS_MAILER_URL;
-      if (gasUrl) {
-        gasUrl = gasUrl.replace(/^["']|["']$/g, '').trim();
-        try {
-          const gasResponse = await fetch(gasUrl, {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify(data), // Sending Zod-validated data
-          });
+      const gasResponse = await fetch(gasUrl, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload), // Sending Zod-validated data
+      });
 
-          if (gasResponse.ok) {
-            console.log("Lead successfully delivered via Fallback GAS Mailer.");
-            return NextResponse.json({ success: true, message: "Lead submitted successfully via fallback." });
-          }
-        } catch (gasError) {
-          console.error("Fallback GAS Mailer also failed:", gasError);
-        }
+      if (gasResponse.ok) {
+        console.log("Lead successfully delivered via HTTP Mailer.");
+        return NextResponse.json({ success: true, message: "Lead submitted successfully." });
+      } else {
+        throw new Error("HTTP Mailer rejected the payload.");
       }
-      
-      throw mailError;
+    } catch (gasError) {
+      console.error("HTTP Mailer failed:", gasError);
+      return NextResponse.json({ success: false, error: "Email delivery failed." }, { status: 500 });
     }
   } catch (error) {
     console.error("API Route Error:", error);
