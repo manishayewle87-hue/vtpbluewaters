@@ -1,5 +1,4 @@
 import dynamic from 'next/dynamic';
-import { headers } from 'next/headers';
 import HeroSection from '@/app/components/ui/HeroSection';
 import { cms } from '@/app/services/cms';
 
@@ -19,9 +18,8 @@ const FAQSection = dynamic(() => import('@/app/components/ui/FAQSection'));
 export default async function LanguageRoot({ params }) {
     const projects = await cms.getAllProjects();
     
-    // Read the user's country injected by Edge Middleware (default to 'IN')
-    const headersList = await headers();
-    const userCountry = headersList.get('x-user-country') || 'IN';
+    // Default to 'IN' for statically generated ultra-fast loading
+    const userCountry = 'IN';
 
   return (
     <div className="bg-luxury-navy relative">
