@@ -59,7 +59,6 @@ export default function LuxuryNavbar() {
 
   const navLinks = [
     { label: 'Township', href: '/township', type: 'link', targetId: null },
-    { label: '3D Map', href: '/township-3d', type: 'link', targetId: null },
     { label: 'Overview', href: '/explore/vtp-bluewaters-mahalunge-pune-overview', type: 'link', targetId: 'overview' },
     { label: 'Portfolio', type: 'dropdown', id: 'portfolio', targetId: 'residences', href: '/explore/vtp-bluewaters-mahalunge-pune-luxury-residences' },
     { label: 'Amenities', href: '/explore/vtp-bluewaters-mahalunge-pune-premium-amenities', type: 'link', targetId: 'amenities' },
