@@ -2,6 +2,8 @@ import { streamText } from 'ai';
 import { google } from '@ai-sdk/google';
 import knowledgeBase from '@/app/data/knowledge-base.json';
 
+export const runtime = 'edge';
+
 // Allow streaming responses up to 30 seconds
 export const maxDuration = 30;
 

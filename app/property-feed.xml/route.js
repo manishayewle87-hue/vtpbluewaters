@@ -1,5 +1,7 @@
 import { cms } from '@/app/services/cms';
 
+export const runtime = 'edge';
+
 export async function GET() {
   const projects = await cms.getAllProjects();
   
