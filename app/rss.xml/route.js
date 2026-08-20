@@ -4,8 +4,6 @@ import insightsData from '../data/insights.json';
 export const runtime = 'edge';
 
 
-export const dynamic = 'force-static';
-
 export async function GET() {
   const blogs = await cms.getAllBlogs();
   const projects = await cms.getAllProjects();
