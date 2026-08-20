@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { PUNE_MICRO_MARKETS, getProjectsNearLocation, generateLocationContent } from '@/app/services/locationEngine';
 import EnquiryForm from '@/app/components/project/EnquiryForm';
+import { cms } from '@/app/services/cms';
 
 
 
@@ -200,14 +201,13 @@ export default async function LocationIntentDetail({   params }) {
 }
 
 export async function generateStaticParams() {
-  const cms = require('../../../services/cms').cms;
   const locations = await cms.getAllLocations();
   const intents = ['flats', 'apartments', 'properties', 'real-estate', 'new-projects', 'luxury'];
   const params = [];
   for (const loc of locations) {
-      for (const intent of intents) {
-        params.push({ location: loc.slug, intent });
-      }
+    for (const intent of intents) {
+      params.push({ location: loc.slug, intent });
     }
+  }
   return params;
 }

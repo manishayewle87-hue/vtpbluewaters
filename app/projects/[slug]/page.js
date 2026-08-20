@@ -275,11 +275,6 @@ export default async function ProjectDetail({   params }) {
 }
 
 export async function generateStaticParams() {
-  const cms = require('../../services/cms').cms;
   const projects = await cms.getAllProjects();
-  const params = [];
-  for (const project of projects) {
-      params.push({ slug: project.slug });
-    }
-  return params;
+  return projects.map((project) => ({ slug: project.slug }));
 }
