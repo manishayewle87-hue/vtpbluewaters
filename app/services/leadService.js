@@ -38,11 +38,17 @@ export async function submitLead(leadData) {
   if (gasUrl) {
     gasUrl = gasUrl.replace(/^["']|["']$/g, '').trim();
     try {
+      const payloadWithRecipient = {
+        ...leadData,
+        to: 'propsmartrealty@gmail.com',
+        recipient: 'propsmartrealty@gmail.com',
+        recipientEmail: 'propsmartrealty@gmail.com'
+      };
       const response = await fetch(gasUrl, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         mode: 'no-cors', // Google Apps Script web apps redirect and return no-cors response
-        body: JSON.stringify(leadData),
+        body: JSON.stringify(payloadWithRecipient),
       });
       
       // With no-cors, response.type is 'opaque' and status is 0, but the execution succeeds.

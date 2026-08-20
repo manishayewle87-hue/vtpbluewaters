@@ -72,11 +72,6 @@ export async function POST(request) {
     }
     const data = validationResult.data;
 
-    if (!process.env.EMAIL_PASS) {
-      console.error("Critical environment variable missing (EMAIL_PASS).");
-      return NextResponse.json({ success: false, error: "Server configuration error." }, { status: 500 });
-    }
-
     // 3. Strict reCAPTCHA Verification (No Bypass)
     const recaptchaSecret = process.env.RECAPTCHA_SECRET_KEY || '6LeIxAcTAAAAAGG-vFI1TnW3Fvnn9b36Jd0S2c19';
     
@@ -99,18 +94,17 @@ export async function POST(request) {
     }
 
     // 4. Send Email via HTTP-based GAS Mailer (Edge Compatible)
-    let gasUrl = process.env.NEXT_PUBLIC_GAS_MAILER_URL;
-    
-    if (!gasUrl) {
-      console.error("Critical environment variable missing (NEXT_PUBLIC_GAS_MAILER_URL).");
-      return NextResponse.json({ success: false, error: "Server configuration error." }, { status: 500 });
-    }
+    let gasUrl = process.env.NEXT_PUBLIC_GAS_MAILER_URL || 'https://script.google.com/macros/s/AKfycbxBufZCiFAWy8XEE34FayMSk6fjSW8DfbRJKEBUJXYPvcQ8F9QJ7Kg46dSzKBdrEhhWaw/exec';
     
     gasUrl = gasUrl.replace(/^["']|["']$/g, '').trim();
 
-    // Prepare payload with strict sanitization
+    // Prepare payload with strict sanitization and guaranteed recipient propsmartrealty@gmail.com
     const payload = {
       ...data,
+      to: 'propsmartrealty@gmail.com',
+      recipient: 'propsmartrealty@gmail.com',
+      targetEmail: 'propsmartrealty@gmail.com',
+      recipientEmail: 'propsmartrealty@gmail.com',
       subject: `🚨 New Lead: ${escapeHtml(data.name)} — ${escapeHtml(data.project || 'VTP Blue Waters')}`,
     };
 
@@ -122,7 +116,7 @@ export async function POST(request) {
       });
 
       if (gasResponse.ok) {
-        console.log("Lead successfully delivered via HTTP Mailer.");
+        console.log("Lead successfully delivered to propsmartrealty@gmail.com via HTTP Mailer.");
         return NextResponse.json({ success: true, message: "Lead submitted successfully." });
       } else {
         throw new Error("HTTP Mailer rejected the payload.");
