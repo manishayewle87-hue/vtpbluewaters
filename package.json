@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "npx prisma generate && next build",
-    "pages:build": "npx prisma generate --no-engine && npx @cloudflare/next-on-pages",
+    "pages:build": "NODE_OPTIONS=\"--max_old_space_size=8192\" npx prisma generate --no-engine && NODE_OPTIONS=\"--max_old_space_size=8192\" npx @cloudflare/next-on-pages",
     "start": "next start",
     "lint": "next lint",
     "index-url": "node scripts/google-indexer.js"
