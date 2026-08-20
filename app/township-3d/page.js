@@ -1,74 +1,26 @@
-'use client';
+import dynamic from 'next/dynamic';
 
-import { Suspense } from 'react';
-import { Canvas } from '@react-three/fiber';
-import { OrbitControls, Loader, BakeShadows, Preload } from '@react-three/drei';
-import TownshipModel from '@/app/components/3d/TownshipModel';
-import Breadcrumbs from '@/app/components/ui/Breadcrumbs';
-
-export default function Township3DPage() {
-  return (
-    <div className="relative w-full h-screen bg-[#050914] overflow-hidden flex flex-col">
-      {/* UI Overlay */}
-      <div className="absolute top-0 left-0 w-full z-10 p-6 pt-24 md:px-12 pointer-events-none">
-        <div className="pointer-events-auto max-w-7xl mx-auto">
-          <Breadcrumbs items={[
-            { label: 'Home', href: '/' },
-            { label: '3D Township Experience', href: '/township-3d' }
-          ]} />
-          <h1 className="text-3xl md:text-5xl font-heading text-white mt-6 mb-2">
-            Interactive <span className="text-luxury-gold italic">Master Plan</span>
-          </h1>
-          <p className="text-sm md:text-base text-luxury-silver max-w-md">
-            Drag to rotate. Scroll to zoom. Click on any premium cluster to explore floor plans and RERA details. Experience 200+ acres of VTP Blue Waters.
-          </p>
-        </div>
-      </div>
-
-      {/* 3D Canvas */}
-      <div className="w-full flex-grow relative cursor-grab active:cursor-grabbing">
-        <Suspense fallback={null}>
-          <Canvas
-            shadows
-            dpr={[1, 2]} // Support retina displays but cap at 2x for performance
-            camera={{ position: [0, 8, 15], fov: 45 }}
-            gl={{ antialias: true, alpha: false, preserveDrawingBuffer: true }}
-          >
-            {/* Dark luxury background */}
-            <color attach="background" args={['#050914']} />
-            
-            {/* Fog for depth and scale */}
-            <fog attach="fog" args={['#050914', 10, 40]} />
-
-            <TownshipModel />
-
-            {/* Controls */}
-            <OrbitControls 
-              enablePan={true}
-              enableZoom={true}
-              enableRotate={true}
-              minDistance={5}
-              maxDistance={25}
-              maxPolarAngle={Math.PI / 2 - 0.1} // Prevent looking from underneath the ground
-              minPolarAngle={0.1}
-              autoRotate={true} // Gently rotate to show it's interactive
-              autoRotateSpeed={0.5}
-            />
-            
-            {/* Performance optimizations */}
-            <BakeShadows />
-            <Preload all />
-          </Canvas>
-        </Suspense>
-        
-        {/* Loading Screen from Drei */}
-        <Loader 
-          containerStyles={{ background: '#050914' }} 
-          innerStyles={{ backgroundColor: '#D4AF37' }}
-          barStyles={{ backgroundColor: '#ffffff' }}
-          dataInterpolation={(p) => `Loading Luxury Experience ${p.toFixed(0)}%`}
-        />
+// CRITICAL: The 3D Canvas uses WebGL (Three.js) which is browser-only.
+// Disabling SSR prevents Cloudflare's Node.js build from crashing while
+// pre-rendering this page, which was causing the 404 error.
+const Township3DCanvas = dynamic(() => import('@/app/components/3d/Township3DCanvas'), {
+  ssr: false,
+  loading: () => (
+    <div className="w-full h-screen bg-[#050914] flex items-center justify-center">
+      <div className="text-center">
+        <div className="w-16 h-1 bg-luxury-gold mx-auto mb-4 animate-pulse" />
+        <p className="text-luxury-silver text-sm tracking-widest uppercase">Loading Luxury Experience</p>
       </div>
     </div>
-  );
+  ),
+});
+
+export const metadata = {
+  title: 'Interactive 3D Township Map | VTP Blue Waters',
+  description: 'Explore VTP Blue Waters 200+ acre township in an immersive interactive 3D experience. Rotate, zoom, and discover every premium cluster.',
+  robots: { index: true, follow: true },
+};
+
+export default function Township3DPage() {
+  return <Township3DCanvas />;
 }
