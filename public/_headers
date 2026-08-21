@@ -18,6 +18,9 @@
 /images/*
   Cache-Control: public, max-age=2592000, stale-while-revalidate=86400
 
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+
 # ─── Font Caching ───
 /_next/static/media/*
   Cache-Control: public, max-age=31536000, immutable
