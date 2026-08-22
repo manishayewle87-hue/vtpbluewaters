@@ -20,20 +20,12 @@ export async function generateMetadata({ params }) {
     description,
     alternates: { canonical: url },
     openGraph: {
-      title,
-      description,
-      url,
-      type: 'article',
+      title, description, url, type: 'article',
       publishedTime: blog.createdAt || new Date().toISOString(),
       modifiedTime: blog.updatedAt || blog.createdAt || new Date().toISOString(),
       images: [{ url: image, width: 1200, height: 630, alt: blog.title }],
     },
-    twitter: {
-      card: 'summary_large_image',
-      title,
-      description,
-      images: [image],
-    },
+    twitter: { card: 'summary_large_image', title, description, images: [image] },
     robots: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 },
   };
 }
@@ -51,28 +43,29 @@ export default async function BlogPostPage({ params }) {
 
   return (
     <div className="min-h-screen bg-luxury-navy pt-16 lg:pt-32 pb-12 lg:pb-24">
-      <ArticleSchema article={blog} />
-      <div className="container mx-auto px-6 max-w-4xl">
-        <Link href="/blog" className="inline-flex items-center gap-2 text-luxury-gold hover:text-white transition-colors mb-8 text-sm uppercase tracking-widest">
-          <ArrowLeft className="w-4 h-4" /> Back to Insights
+      <ArticleSchema
+        headline={blog.title}
+        description={blog.excerpt || blog.content?.substring(0, 160) || ''}
+        url={url}
+        image={image}
+        datePublished={blog.createdAt ? new Date(blog.createdAt).toISOString().split('T')[0] : new Date().toISOString().split('T')[0]}
+        dateModified={blog.updatedAt ? new Date(blog.updatedAt).toISOString().split('T')[0] : new Date().toISOString().split('T')[0]}
+        keywords={blog.tags || ['Pune real estate', 'VTP Realty', 'Mahalunge apartments']}
+        wordCount={blog.content?.split(' ').length || 800}
+      />
+      <div className="container mx-auto px-6 max-w-3xl">
+        <Link href="/" className="inline-flex items-center gap-2 text-luxury-gold hover:text-white transition-colors mb-12 text-sm uppercase tracking-widest">
+          <ArrowLeft size={16} /> Back to Home
         </Link>
-        <header className="mb-12">
-          <span className="text-xs uppercase tracking-widest text-luxury-gold mb-3 block">{blog.category}</span>
-          <h1 className="text-display-sm md:text-display-md font-display font-light text-white mb-6 leading-tight">
-            {blog.title}
-          </h1>
-          <div className="flex items-center gap-6 text-sm text-luxury-silver border-y border-white/10 py-4">
-            <div className="flex items-center gap-2">
-              <User className="w-4 h-4 text-luxury-gold" />
-              <span>{blog.author || 'VTP Research'}</span>
-            </div>
-            <div className="flex items-center gap-2">
-              <Calendar className="w-4 h-4 text-luxury-gold" />
-              <span>{blog.createdAt ? new Date(blog.createdAt).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }) : 'Recent'}</span>
-            </div>
+        <div className="mb-12 border-b border-white/10 pb-12">
+          <span className="text-luxury-gold text-xs font-bold tracking-[0.2em] uppercase mb-4 block">{blog.category}</span>
+          <h1 className="text-4xl md:text-5xl font-display font-light text-luxury-white mb-6 leading-tight">{blog.title}</h1>
+          <div className="flex items-center gap-6 text-sm text-luxury-silver font-light">
+            <span className="flex items-center gap-2"><Calendar size={14} /> {new Date().toLocaleDateString('en-US', { month: 'long', year: 'numeric' })}</span>
+            <span className="flex items-center gap-2"><User size={14} /> VTP Insights Team</span>
           </div>
-        </header>
-        <article className="prose prose-invert prose-gold max-w-none text-luxury-silver font-light leading-relaxed">
+        </div>
+        <article className="prose prose-invert prose-lg max-w-none prose-headings:font-display prose-headings:font-light prose-headings:text-luxury-white prose-p:text-luxury-silver prose-p:font-light prose-a:text-luxury-gold prose-strong:text-white">
           <ReactMarkdown>{blog.content}</ReactMarkdown>
         </article>
       </div>
@@ -81,6 +74,10 @@ export default async function BlogPostPage({ params }) {
 }
 
 export async function generateStaticParams() {
-  const blogs = await cms.getAllBlogs();
-  return blogs.map((blog) => ({ slug: blog.slug }));
+  try {
+    const blogs = await cms.getAllBlogs();
+    return blogs.map((blog) => ({ slug: blog.slug }));
+  } catch {
+    return [];
+  }
 }

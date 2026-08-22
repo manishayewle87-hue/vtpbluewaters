@@ -3,13 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "engines": {
-    "node": ">=22"
-  },
   "scripts": {
     "dev": "next dev",
-    "build": "npx prisma generate && next build",
-    "pages:build": "NODE_OPTIONS=\"--max_old_space_size=8192\" npx prisma generate --no-engine && NODE_OPTIONS=\"--max_old_space_size=8192\" npx @cloudflare/next-on-pages",
+    "build": "npx prisma generate && next build --webpack",
+    "pages:build": "npx prisma generate --no-engine && npx @cloudflare/next-on-pages",
     "start": "next start",
     "lint": "next lint",
     "index-url": "node scripts/google-indexer.js"
@@ -25,6 +22,7 @@
     "@prisma/client": "^5.22.0",
     "@react-three/drei": "^10.7.7",
     "@react-three/fiber": "^9.6.1",
+    "@studio-freight/lenis": "^1.0.42",
     "@tailwindcss/typography": "^0.5.20",
     "ai": "^7.0.42",
     "clsx": "^2.1.1",
@@ -35,7 +33,7 @@
     "leaflet": "^1.9.4",
     "lenis": "^1.3.25",
     "lucide-react": "^1.22.0",
-    "next": "^16.3.1",
+    "next": "16.2.9",
     "next-images": "^1.8.5",
     "nodemailer": "^9.0.3",
     "pannellum-react": "^1.2.4",
@@ -51,7 +49,9 @@
   "devDependencies": {
     "@cloudflare/next-on-pages": "^1.13.16",
     "@types/node": "^26.1.0",
+    "@types/nodemailer": "^6.4.17",
     "@types/react": "^19.2.17",
+
     "autoprefixer": "^10.5.2",
     "eslint": "^9",
     "eslint-config-next": "16.2.9",

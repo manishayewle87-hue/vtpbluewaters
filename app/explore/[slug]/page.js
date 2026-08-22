@@ -394,6 +394,7 @@ export default async function SeoLandingPage({ params }) {
 
 export async function generateStaticParams() {
   const slugs = ['virtual-tour', 'gallery', 'masterplan'];
+
   
   // Inject massive programmatic SEO silos
   seoSilos.forEach(silo => {

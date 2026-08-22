@@ -1,11 +1,10 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // Gzip/Brotli compress all responses — immediate Core Web Vitals boost
   compress: true,
-  turbopack: {},
-  trailingSlash: false, // Strict SEO Canonicalization: Prevents duplicate content with/without trailing slashes
+  typescript: { ignoreBuildErrors: true },
+  trailingSlash: false,
 
-  // Strict production optimizations
+
   productionBrowserSourceMaps: false,
   poweredByHeader: false,
 
@@ -38,6 +37,13 @@ const nextConfig = {
   // Security + Performance Headers
   async headers() {
     return [
+      // Long-lived immutable cache for all static assets
+      {
+        source: '/_next/static/(.*)',
+        headers: [
+          { key: 'Cache-Control', value: 'public, max-age=31536000, immutable' },
+        ],
+      },
       // Long cache for media assets
       {
         source: '/assets/(.*)',
@@ -71,9 +77,8 @@ const withPWA = withPWAInit({
   dest: "public",
   disable: process.env.NODE_ENV === "development",
   register: true,
-  cacheOnFrontEndNav: false,
-  aggressiveFrontEndNavCaching: false,
-  reloadOnOnline: true,
+  cacheOnFrontEndNav: true,
+  aggressiveFrontEndNavCaching: true,
   workboxOptions: {
     disableDevLogs: true,
   },

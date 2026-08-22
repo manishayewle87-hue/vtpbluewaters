@@ -1,7 +1,5 @@
 import { cms } from '@/app/services/cms';
 
-export const runtime = 'edge';
-
 // Approximate coordinates for Pune Micro-Markets
 const LOCATION_COORDINATES = {
   'kharadi': { lat: 18.5515, lng: 73.9348 },

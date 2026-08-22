@@ -94,11 +94,10 @@ export default function robots() {
     ],
     sitemap: [
       'https://vtpbluewaters.com/sitemap.xml',
-      'https://vtpbluewaters.com/sitemap-news.xml',
-      'https://vtpbluewaters.com/sitemap-video.xml',
-      'https://vtpbluewaters.com/sitemap-locations.kml',
-      'https://vtpbluewaters.com/property-feed.xml',
+      'https://vtpbluewaters.com/sitemap/0.xml',
+      'https://vtpbluewaters.com/sitemap/1.xml',
     ],
     host: 'https://vtpbluewaters.com',
   };
 }
+

@@ -1,14 +1,12 @@
 #:schema node_modules/wrangler/config-schema.json
 name = "vtp-bluewaters"
-compatibility_date = "2025-08-01"
+compatibility_date = "2024-09-23"
 pages_build_output_dir = ".vercel/output/static"
 compatibility_flags = ["nodejs_compat"]
 
-# Enable Edge Worker observability for production error monitoring
-[observability]
-enabled = true
 
 [[d1_databases]]
 binding = "DB"
 database_name = "vtp-bluewaters-db"
 database_id = "87b9f9e7-2d85-4bab-a6b4-25c11c240198"
+

@@ -80,45 +80,18 @@ export default function GlobalSchema() {
           {
             "@type": "ContactPoint",
             "telephone": "+91-7744009295",
-            "contactType": "Sales (India)",
-            "areaServed": "IN",
+            "contactType": "Sales & VIP Enquiries",
+            "areaServed": ["IN", "AE", "US", "GB", "SG", "CA", "AU"],
             "availableLanguage": ["English", "Hindi", "Marathi"],
             "hoursAvailable": {
               "@type": "OpeningHoursSpecification",
               "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
               "opens": "09:00",
-              "closes": "20:00"
+              "closes": "21:00"
             }
-          },
-          {
-            "@type": "ContactPoint",
-            "telephone": "+971-501234567",
-            "contactType": "NRI Desk - Middle East",
-            "areaServed": ["AE", "SA", "QA", "OM", "BH", "KW"],
-            "availableLanguage": ["English", "Hindi"]
-          },
-          {
-            "@type": "ContactPoint",
-            "telephone": "+1-800-123-4567",
-            "contactType": "NRI Desk - USA & Canada",
-            "areaServed": ["US", "CA"],
-            "availableLanguage": ["English"]
-          },
-          {
-            "@type": "ContactPoint",
-            "telephone": "+44-800-123-4567",
-            "contactType": "NRI Desk - Europe",
-            "areaServed": ["GB", "DE", "FR"],
-            "availableLanguage": ["English"]
-          },
-          {
-            "@type": "ContactPoint",
-            "telephone": "+65-800-123-4567",
-            "contactType": "NRI Desk - APAC",
-            "areaServed": ["SG", "AU", "MY"],
-            "availableLanguage": ["English"]
           }
         ],
+
         "parentOrganization": {
           "@type": "Organization",
           "name": "VTP Group",

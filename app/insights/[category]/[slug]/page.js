@@ -89,12 +89,14 @@ export default async function InsightPage({   params }) {
 
 export async function generateStaticParams() {
   const blogs = await cms.getAllBlogs();
+
   const params = [];
+  // For simplicity, generate all combinations
   const categories = ['market-trends', 'investment', 'lifestyle', 'guides'];
   for (const category of categories) {
-    for (const blog of blogs) {
-      params.push({ category, slug: blog.slug });
+      for (const blog of blogs) {
+        params.push({ category, slug: blog.slug });
+      }
     }
-  }
   return params;
 }

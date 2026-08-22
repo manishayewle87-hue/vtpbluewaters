@@ -23,8 +23,7 @@ const ProjectVirtualTour = dynamic(() => import('@/app/components/project/Projec
 
 
 export async function generateMetadata({ params }) {
-  const resolvedParams = await params;
-  const slug = resolvedParams?.slug;
+  const { slug } = await params;
   const project = await cms.getProjectBySlug(slug);
   if (!project) return { title: 'Project Not Found' };
   
@@ -92,10 +91,9 @@ function generateJsonLd(project, lang) {
 
 import Breadcrumbs from '@/app/components/ui/Breadcrumbs';
 
-export default async function ProjectDetail({ params }) {
+export default async function ProjectDetail({   params }) {
   const lang = 'en';
-  const resolvedParams = await params;
-  const slug = resolvedParams?.slug;
+  const { slug } = await params;
   const project = await cms.getProjectBySlug(slug);
 
   if (!project) {
@@ -278,5 +276,10 @@ export default async function ProjectDetail({ params }) {
 
 export async function generateStaticParams() {
   const projects = await cms.getAllProjects();
-  return projects.map((project) => ({ slug: project.slug }));
+
+  const params = [];
+  for (const project of projects) {
+      params.push({ slug: project.slug });
+    }
+  return params;
 }

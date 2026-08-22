@@ -19,36 +19,22 @@ export async function submitLead(leadData) {
     if (response.ok && data.success) {
       console.log('Lead ingested successfully via Vercel SMTP.');
       return { success: true, method: 'vercel' };
-    } else {
-      // If the API returns a client error (validation, recaptcha, rate limit), stop immediately.
-      // Do not try the GAS fallback if it's a deliberate block.
-      if (response.status === 400 || response.status === 403 || response.status === 429) {
-        console.warn('API rejected request:', data.error);
-        return { success: false, error: data.error || 'Request rejected.' };
-      }
-      // If it's a 500 server error, throw it so the catch block falls back to GAS.
-      throw new Error(data.error || 'Vercel API Server Error 500');
     }
   } catch (err) {
     console.warn('Vercel API lead ingestion failed, trying direct Google Apps Script fallback...', err);
   }
+
 
   // 2. Try Direct Client-Side Google Apps Script Web App Fallback
   let gasUrl = process.env.NEXT_PUBLIC_GAS_MAILER_URL || 'https://script.google.com/macros/s/AKfycbxBufZCiFAWy8XEE34FayMSk6fjSW8DfbRJKEBUJXYPvcQ8F9QJ7Kg46dSzKBdrEhhWaw/exec';
   if (gasUrl) {
     gasUrl = gasUrl.replace(/^["']|["']$/g, '').trim();
     try {
-      const payloadWithRecipient = {
-        ...leadData,
-        to: 'propsmartrealty@gmail.com',
-        recipient: 'propsmartrealty@gmail.com',
-        recipientEmail: 'propsmartrealty@gmail.com'
-      };
       const response = await fetch(gasUrl, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         mode: 'no-cors', // Google Apps Script web apps redirect and return no-cors response
-        body: JSON.stringify(payloadWithRecipient),
+        body: JSON.stringify(leadData),
       });
       
       // With no-cors, response.type is 'opaque' and status is 0, but the execution succeeds.

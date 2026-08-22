@@ -9,6 +9,7 @@ import { cms } from '@/app/services/cms';
 
 
 
+
 // We import the same intents as the main project pages to keep the matrix consistent
 const KEYWORD_INTENTS = [
   // Original Intents
@@ -202,12 +203,13 @@ export default async function LocationIntentDetail({   params }) {
 
 export async function generateStaticParams() {
   const locations = await cms.getAllLocations();
+
   const intents = ['flats', 'apartments', 'properties', 'real-estate', 'new-projects', 'luxury'];
   const params = [];
   for (const loc of locations) {
-    for (const intent of intents) {
-      params.push({ location: loc.slug, intent });
+      for (const intent of intents) {
+        params.push({ location: loc.slug, intent });
+      }
     }
-  }
   return params;
 }
