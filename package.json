@@ -9,7 +9,8 @@
     "pages:build": "npx prisma generate --no-engine && npx @cloudflare/next-on-pages",
     "start": "next start",
     "lint": "next lint",
-    "index-url": "node scripts/google-indexer.js"
+    "index-url": "node scripts/google-indexer.js",
+    "seo:push": "node scripts/seo/push-all-search-engines.cjs"
   },
   "dependencies": {
     "@ai-sdk/google": "^4.0.28",

@@ -78,7 +78,8 @@ export default async function sitemap(props) {
       '/market-intelligence/vtp-bluewaters-vs-competitors',
       '/market-intelligence/hinjewadi-walk-to-work-lifestyle',
       '/investors/nri-investment-guide',
-      '/investors/pune-infrastructure-impact-report'
+      '/investors/pune-infrastructure-impact-report',
+      '/tools/emi-calculator'
     ];
     for (const route of pillarPages) {
       entries.push({ url: `${baseUrl}${route}`, lastModified: new Date(), changeFrequency: 'weekly', priority: 1.0 });
