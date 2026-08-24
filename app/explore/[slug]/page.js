@@ -26,19 +26,26 @@ export async function generateMetadata({ params }) {
 
   if (!matchedKeyword) return {};
 
-  const title = `${matchedKeyword}`;
-  const description = `Discover ${matchedKeyword}. ${matchedSilo.description} Explore ultimate luxury, premium amenities, and Maximum Livable Area philosophy with VTP Realty.`;
-  const url = `https://vtpbluewaters.com/explore/${params.slug}`;
+  const title = `${matchedKeyword} | VTP Realty Official`;
+  const description = `Discover ${matchedKeyword}. ${matchedSilo.description} Explore authentic MahaRERA details, price lists, floor plans, and Maximum Livable Area architecture with VTP Realty.`;
+  const url = `https://vtpbluewaters.com/explore/${resolvedParams.slug}`;
 
   const isVtpProject = resolvedParams.slug.includes('vtp');
-  const imageSlug = isVtpProject && resolvedParams.slug.includes('altamira') ? 'vtp-altamira-kharadi-pune/accurate-hero.jpg'
-    : isVtpProject && resolvedParams.slug.includes('monarque') ? 'vtp-monarque-hinjawadi-pune/accurate-hero.webp'
-    : isVtpProject && resolvedParams.slug.includes('flamante') ? 'vtp-flamante-kharadi-pune/accurate-hero.svg'
-    : isVtpProject && resolvedParams.slug.includes('velvet') ? 'vtp-velvet-villas-kharadi-pune/accurate-hero.webp'
-    : isVtpProject && resolvedParams.slug.includes('cielo') ? 'vtp-cielo-bavdhan-pune/accurate-hero.webp'
-    : isVtpProject && resolvedParams.slug.includes('aurelia') ? 'vtp-aurelia-kharadi-pune/accurate-hero.jpg'
-    : isVtpProject && resolvedParams.slug.includes('volare') ? 'vtp-volare-hinjawadi-pune/accurate-hero.webp'
-    : 'earth-1/hero.jpg';
+  let imageSlug = 'earth-1/hero.jpg';
+  if (isVtpProject && resolvedParams.slug.includes('altamira')) imageSlug = 'vtp-altamira-kharadi-pune/accurate-hero.jpg';
+  else if (isVtpProject && resolvedParams.slug.includes('monarque')) imageSlug = 'vtp-monarque-hinjawadi-pune/accurate-hero.webp';
+  else if (isVtpProject && (resolvedParams.slug.includes('earth-one') || resolvedParams.slug.includes('earth-1'))) imageSlug = 'earth-1/hero.jpg';
+  else if (isVtpProject && resolvedParams.slug.includes('flamante')) imageSlug = 'vtp-flamante-kharadi-pune/accurate-hero.svg';
+  else if (isVtpProject && resolvedParams.slug.includes('velvet')) imageSlug = 'vtp-velvet-villas-kharadi-pune/accurate-hero.webp';
+  else if (isVtpProject && resolvedParams.slug.includes('cielo')) imageSlug = 'vtp-cielo-bavdhan-pune/accurate-hero.webp';
+  else if (isVtpProject && resolvedParams.slug.includes('aurelia')) imageSlug = 'vtp-aurelia-kharadi-pune/accurate-hero.jpg';
+  else if (isVtpProject && resolvedParams.slug.includes('volare')) imageSlug = 'vtp-volare-hinjawadi-pune/accurate-hero.webp';
+  else if (isVtpProject && resolvedParams.slug.includes('bellissimo')) imageSlug = 'vtp-bellissimo-hinjawadi-pune/accurate-hero.jpg';
+  else if (isVtpProject && resolvedParams.slug.includes('sierra')) imageSlug = 'vtp-sierra-baner-sus-road-pune/accurate-hero.jpg';
+  else if (isVtpProject && resolvedParams.slug.includes('verve')) imageSlug = 'vtp-verve-baner-sus-road-pune/accurate-hero.jpg';
+  else if (isVtpProject && resolvedParams.slug.includes('leonara')) imageSlug = 'vtp-leonara-mahalunge-pune/accurate-hero.jpg';
+  else if (isVtpProject && resolvedParams.slug.includes('alpine')) imageSlug = 'vtp-alpine-mahalunge-pune/accurate-hero.jpg';
+  else if (isVtpProject && resolvedParams.slug.includes('bel-air')) imageSlug = 'vtp-bel-air-mahalunge-pune/accurate-hero.jpg';
 
   const imageUrl = `https://vtpbluewaters.com/assets/projects/${imageSlug}`;
 

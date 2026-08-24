@@ -255,14 +255,14 @@ export default function GlobalSchema() {
         "@type": "ItemList",
         "@id": "https://vtpbluewaters.com/#projects",
         "name": "VTP Realty Projects Pune",
-        "description": "Complete list of VTP Realty luxury residential projects across Pune",
-        "numberOfItems": 8,
+        "description": "Complete verified list of VTP Realty luxury residential and commercial projects across Pune",
+        "numberOfItems": 16,
         "itemListElement": [
           {
             "@type": "ListItem", "position": 1,
             "name": "VTP Earth 1 — Mahalunge",
             "url": "https://vtpbluewaters.com/projects/vtp-earth-one-mahalunge-pune",
-            "image": "https://vtpbluewaters.com/assets/projects/vtp-earth-one-mahalunge-pune/accurate-hero.svg"
+            "image": "https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg"
           },
           {
             "@type": "ListItem", "position": 2,
@@ -278,33 +278,81 @@ export default function GlobalSchema() {
           },
           {
             "@type": "ListItem", "position": 4,
+            "name": "VTP Bellissimo — Hinjawadi",
+            "url": "https://vtpbluewaters.com/projects/vtp-bellissimo-hinjawadi-pune",
+            "image": "https://vtpbluewaters.com/assets/projects/vtp-bellissimo-hinjawadi-pune/accurate-hero.jpg"
+          },
+          {
+            "@type": "ListItem", "position": 5,
             "name": "VTP Altamira — Kharadi",
             "url": "https://vtpbluewaters.com/projects/vtp-altamira-kharadi-pune",
             "image": "https://vtpbluewaters.com/assets/projects/vtp-altamira-kharadi-pune/accurate-hero.jpg"
           },
           {
-            "@type": "ListItem", "position": 5,
+            "@type": "ListItem", "position": 6,
             "name": "VTP Flamante — Kharadi",
             "url": "https://vtpbluewaters.com/projects/vtp-flamante-kharadi-pune",
             "image": "https://vtpbluewaters.com/assets/projects/vtp-flamante-kharadi-pune/accurate-hero.svg"
           },
           {
-            "@type": "ListItem", "position": 6,
+            "@type": "ListItem", "position": 7,
+            "name": "VTP Euphoria — Kharadi",
+            "url": "https://vtpbluewaters.com/projects/vtp-euphoria-kharadi-pune",
+            "image": "https://vtpbluewaters.com/assets/projects/vtp-euphoria-kharadi-pune/accurate-hero.svg"
+          },
+          {
+            "@type": "ListItem", "position": 8,
+            "name": "VTP Dolce Vita — Kharadi",
+            "url": "https://vtpbluewaters.com/projects/vtp-dolce-vita-kharadi-pune",
+            "image": "https://vtpbluewaters.com/assets/projects/vtp-dolce-vita-kharadi-pune/accurate-hero.webp"
+          },
+          {
+            "@type": "ListItem", "position": 9,
             "name": "VTP Velvet Villas — Kharadi",
             "url": "https://vtpbluewaters.com/projects/vtp-velvet-villas-kharadi-pune",
             "image": "https://vtpbluewaters.com/assets/projects/vtp-velvet-villas-kharadi-pune/accurate-hero.webp"
           },
           {
-            "@type": "ListItem", "position": 7,
+            "@type": "ListItem", "position": 10,
             "name": "VTP Cielo — Bavdhan",
             "url": "https://vtpbluewaters.com/projects/vtp-cielo-bavdhan-pune",
             "image": "https://vtpbluewaters.com/assets/projects/vtp-cielo-bavdhan-pune/accurate-hero.webp"
           },
           {
-            "@type": "ListItem", "position": 8,
+            "@type": "ListItem", "position": 11,
+            "name": "VTP NatureScape — Bavdhan",
+            "url": "https://vtpbluewaters.com/projects/vtp-naturescape-bavdhan-pune",
+            "image": "https://vtpbluewaters.com/assets/projects/vtp-naturescape-bavdhan-pune/accurate-hero.webp"
+          },
+          {
+            "@type": "ListItem", "position": 12,
             "name": "VTP Aurelia — Kharadi",
             "url": "https://vtpbluewaters.com/projects/vtp-aurelia-kharadi-pune",
             "image": "https://vtpbluewaters.com/assets/projects/vtp-aurelia-kharadi-pune/accurate-hero.jpg"
+          },
+          {
+            "@type": "ListItem", "position": 13,
+            "name": "VTP Sierra — Baner-Sus",
+            "url": "https://vtpbluewaters.com/projects/vtp-sierra-baner-sus-road-pune",
+            "image": "https://vtpbluewaters.com/assets/projects/vtp-sierra-baner-sus-road-pune/accurate-hero.jpg"
+          },
+          {
+            "@type": "ListItem", "position": 14,
+            "name": "VTP Verve — Baner-Sus",
+            "url": "https://vtpbluewaters.com/projects/vtp-verve-baner-sus-road-pune",
+            "image": "https://vtpbluewaters.com/assets/projects/vtp-verve-baner-sus-road-pune/accurate-hero.jpg"
+          },
+          {
+            "@type": "ListItem", "position": 15,
+            "name": "VTP Celesta — NIBM Road",
+            "url": "https://vtpbluewaters.com/projects/vtp-celesta-nibm-road-pune",
+            "image": "https://vtpbluewaters.com/assets/projects/vtp-celesta-nibm-road-pune/accurate-hero.jpg"
+          },
+          {
+            "@type": "ListItem", "position": 16,
+            "name": "VTP Altitude — Wakad Commercial",
+            "url": "https://vtpbluewaters.com/projects/vtp-altitude-wakad-pune",
+            "image": "https://vtpbluewaters.com/assets/projects/vtp-altitude-wakad-pune/accurate-hero.jpg"
           }
         ]
       },

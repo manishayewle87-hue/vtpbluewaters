@@ -2,43 +2,46 @@ import { cms } from './cms';
 
 export const PUNE_MICRO_MARKETS = [
   // West Pune
+  { slug: 'hinjewadi', name: 'Hinjewadi', zone: 'West' },
+  { slug: 'mahalunge', name: 'Mahalunge', zone: 'West' },
   { slug: 'baner', name: 'Baner', zone: 'West' },
   { slug: 'balewadi', name: 'Balewadi', zone: 'West' },
-  { slug: 'mahalunge', name: 'Mahalunge', zone: 'West' },
-  { slug: 'hinjawadi', name: 'Hinjawadi', zone: 'West' },
   { slug: 'baner-sus', name: 'Baner Sus Road', zone: 'West' },
   { slug: 'wakad', name: 'Wakad', zone: 'West' },
-  { slug: 'tathawade', name: 'Tathawade', zone: 'West' },
-  { slug: 'punawale', name: 'Punawale', zone: 'West' },
   { slug: 'bavdhan', name: 'Bavdhan', zone: 'West' },
-  { slug: 'sus', name: 'Sus', zone: 'West' },
   { slug: 'pashan', name: 'Pashan', zone: 'West' },
   { slug: 'aundh', name: 'Aundh', zone: 'West' },
   { slug: 'kothrud', name: 'Kothrud', zone: 'West' },
+  { slug: 'punawale', name: 'Punawale', zone: 'West' },
+  { slug: 'tathawade', name: 'Tathawade', zone: 'West' },
   { slug: 'bhugaon', name: 'Bhugaon', zone: 'West' },
   { slug: 'pirangut', name: 'Pirangut', zone: 'West' },
 
   // East Pune
   { slug: 'kharadi', name: 'Kharadi', zone: 'East' },
+  { slug: 'new-kharadi', name: 'New Kharadi', zone: 'East' },
+  { slug: 'wagholi', name: 'Wagholi', zone: 'East' },
   { slug: 'viman-nagar', name: 'Viman Nagar', zone: 'East' },
+  { slug: 'kalyani-nagar', name: 'Kalyani Nagar', zone: 'East' },
+  { slug: 'keshavnagar-mundhwa', name: 'Keshavnagar Mundhwa', zone: 'East' },
   { slug: 'hadapsar', name: 'Hadapsar', zone: 'East' },
   { slug: 'manjari', name: 'Manjari', zone: 'East' },
-  { slug: 'wagholi', name: 'Wagholi', zone: 'East' },
-  { slug: 'magarpatta', name: 'Magarpatta', zone: 'East' },
   { slug: 'yerawada', name: 'Yerawada', zone: 'East' },
-  { slug: 'lohegaon', name: 'Lohegaon', zone: 'East' },
-
-  // PCMC / North
-  { slug: 'moshi', name: 'Moshi', zone: 'PCMC' },
-  { slug: 'ravet', name: 'Ravet', zone: 'PCMC' },
-  { slug: 'kiwale', name: 'Kiwale', zone: 'PCMC' },
-  { slug: 'pimpri', name: 'Pimpri', zone: 'PCMC' },
-  { slug: 'chinchwad', name: 'Chinchwad', zone: 'PCMC' },
-  { slug: 'nigdi', name: 'Nigdi', zone: 'PCMC' },
+  { slug: 'dhanori-lohegaon', name: 'Dhanori Lohegaon', zone: 'East' },
 
   // South Pune
+  { slug: 'nibm-road', name: 'NIBM Road', zone: 'South' },
   { slug: 'undri', name: 'Undri', zone: 'South' },
-  { slug: 'kondhwa', name: 'Kondhwa', zone: 'South' }
+  { slug: 'kondhwa', name: 'Kondhwa', zone: 'South' },
+  { slug: 'pisoli', name: 'Pisoli', zone: 'South' },
+  { slug: 'wanowrie', name: 'Wanowrie', zone: 'South' },
+
+  // PCMC / North
+  { slug: 'pimple-saudagar', name: 'Pimple Saudagar', zone: 'PCMC' },
+  { slug: 'ravet', name: 'Ravet', zone: 'PCMC' },
+  { slug: 'moshi', name: 'Moshi', zone: 'PCMC' },
+  { slug: 'chakan', name: 'Chakan', zone: 'PCMC' },
+  { slug: 'talegaon', name: 'Talegaon', zone: 'PCMC' }
 ];
 
 // Resolves the nearest VTP projects based on the geographic zone
@@ -54,16 +57,16 @@ export const getProjectsNearLocation = async (locationSlug) => {
 
   // Proximity fallback based on Zone
   let fallbackLocations = [];
-  if (location.zone === 'West') fallbackLocations = ['Mahalunge', 'Hinjawadi', 'Hinjewadi', 'Bavdhan'];
-  if (location.zone === 'East') fallbackLocations = ['Kharadi'];
-  if (location.zone === 'PCMC') fallbackLocations = ['Hinjawadi', 'Hinjewadi', 'Mahalunge']; // Closest hubs to PCMC
-  if (location.zone === 'South') fallbackLocations = ['Kharadi']; // Closest luxury hub for South buyers
+  if (location.zone === 'West') fallbackLocations = ['Mahalunge', 'Hinjewadi', 'Hinjawadi', 'Bavdhan', 'Baner', 'Wakad'];
+  if (location.zone === 'East') fallbackLocations = ['Kharadi', 'New Kharadi', 'Wagholi', 'Hadapsar'];
+  if (location.zone === 'PCMC') fallbackLocations = ['Hinjewadi', 'Hinjawadi', 'Mahalunge', 'Wakad', 'Talegaon'];
+  if (location.zone === 'South') fallbackLocations = ['NIBM', 'Undri', 'Hadapsar', 'Pisoli', 'Kharadi'];
 
   const nearbyProjects = allProjects.filter(p => {
     return fallbackLocations.some(fallback => p.location.toLowerCase().includes(fallback.toLowerCase()));
   });
 
-  return nearbyProjects;
+  return nearbyProjects.length > 0 ? nearbyProjects : allProjects.slice(0, 6);
 };
 
 // Procedural text generator for hyper-local SEO

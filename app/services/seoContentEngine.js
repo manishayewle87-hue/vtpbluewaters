@@ -308,11 +308,6 @@ const spintaxBlocks = {
     ],
     [
       "{KEYWORD} in Pashan offers buyers the rare advantage of serene, green living within 15 minutes of both Hinjawadi and Baner.",
-      "Choosing {KEYWORD} means joining Pashan's highly educated, culturally vibrant community in one of Pune's most livable localities.",
-      "Properties like {KEYWORD} in Pashan appeal to academicians, scientists, and senior corporate professionals who value intellectual atmosphere.",
-      "{KEYWORD} is positioned in Pashan's most exclusive residential zones, where demand has consistently outpaced supply for a decade.",
-    ],
-    [
       "Pashan's property values have compounded at 12–16% annually, underpinned by permanently constrained supply and elite demand.",
       "The extension of BRTS to Pashan and improved road connectivity to Baner will further elevate this micro-market's premium.",
       "VTP Realty's ultra-luxury projects in this zone represent a natural extension of the Pashan lifestyle — quiet, premium, and timeless.",
@@ -375,6 +370,222 @@ const spintaxBlocks = {
     ]
   ],
 
+  'project-vtp-volare': [
+    [
+      "VTP Volare in Hinjawadi Phase 1 provides an elite zero-commute residential sanctuary designed for senior IT professionals and tech entrepreneurs.",
+      "Positioned adjacent to Rajiv Gandhi Infotech Park, VTP Volare combines high-altitude views with expansive podium amenities.",
+      "With smart automated configurations in 2 and 3 BHK, VTP Volare represents the ultimate modern home in West Pune."
+    ],
+    [
+      "{KEYWORD} offers unbeatable access to Phase 1 tech giants including Infosys, Wipro, and Cognizant within 3 minutes.",
+      "Securing {KEYWORD} guarantees robust rental demand and immediate liquidity in Hinjawadi's most central residential enclave.",
+      "Exploring {KEYWORD} reveals how VTP Volare maximizes usable carpet area with Zero Dead Space floor layouts."
+    ],
+    [
+      "MahaRERA registration P52100078491 guarantees statutory compliance and transparent construction milestone tracking.",
+      "Podium level swimming pools, co-working lounges, and fitness suites make VTP Volare a self-contained lifestyle ecosystem.",
+      "High rental yields averaging 7.5–9% make VTP Volare a premier asset for capital growth and steady rental income."
+    ]
+  ],
+
+  'project-vtp-flamante': [
+    [
+      "VTP Flamante by VTP Luxe brings contemporary glass-facade architectural elegance to East Pune's bustling Kharadi corridor.",
+      "Featuring air-conditioned 2, 3, and 4 BHK luxury residences, VTP Flamante stands out as a prime jewel of Township Pegasus.",
+      "Strategically situated minutes from World Trade Center and EON Free Zone, Flamante caters to discerning corporate leaders."
+    ],
+    [
+      "Investing in {KEYWORD} ensures an elite address in Kharadi's premier master-planned township.",
+      "{KEYWORD} combines panoramic city skyline views with resort-grade amenities including an infinity-edge pool and sky lounge.",
+      "With {KEYWORD}, homeowners enjoy the highest specification finishes, imported marble flooring, and smart-home provisions."
+    ],
+    [
+      "MahaRERA registration P52100051859 provides complete statutory security and peace of mind.",
+      "Proximity to Pune Airport and the Nagar Road arterial highway delivers seamless connectivity across Maharashtra.",
+      "Capital appreciation in VTP Flamante has consistently outpaced the East Pune micro-market benchmark."
+    ]
+  ],
+
+  'project-vtp-cielo': [
+    [
+      "VTP Cielo is Bavdhan's most prestigious luxury residential address, nestled amidst scenic NDA forest reserves and lush green hills.",
+      "Offering expansive 2, 3, and 4 BHK hillside residences, VTP Cielo provides resort-grade tranquility just 10 minutes from Kothrud.",
+      "Designed with biophilic architecture and Maximum Livable Area, Cielo offers Pune's purest air and finest valley panoramas."
+    ],
+    [
+      "{KEYWORD} provides the rare combination of pristine nature and rapid connectivity to Chandni Chowk and Mumbai Highway.",
+      "Choosing {KEYWORD} means securing an address in Bavdhan where luxury supply is structurally constrained and demand is soaring.",
+      "Examining {KEYWORD} illustrates how VTP Cielo sets the gold standard for high-end West Pune residential living."
+    ],
+    [
+      "MahaRERA approved with registration P52100052414, ensuring verified documentation and construction transparency.",
+      "Residents enjoy a temperature-controlled pool, zen meditation pavilions, and high-altitude clubhouse facilities.",
+      "Bavdhan's ongoing infrastructure upgrades and Chandni Chowk flyover deliver effortless connectivity to Hinjawadi and Baner."
+    ]
+  ],
+
+  'project-vtp-velvet-villas': [
+    [
+      "VTP Velvet Villas represents Pune's most exclusive enclave of bespoke ultra-luxury villas in Kharadi within Township Pegasus.",
+      "Featuring private elevators, personal plunge pools, and landscaped rooftop terraces, Velvet Villas caters to Pune's top HNIs.",
+      "With expansive 3 and 5 BHK layouts, Velvet Villas redefines private estate living in East Pune's thriving IT corridor."
+    ],
+    [
+      "{KEYWORD} offers the pinnacle of bespoke craftsmanship and architectural grandeur in Pune real estate.",
+      "Owning {KEYWORD} provides unmatched privacy, private manicured lawns, and access to all 5-star amenities of Township Pegasus.",
+      "Discerning investors choose {KEYWORD} as a trophy asset with extraordinary capital preservation and pride of ownership."
+    ],
+    [
+      "MahaRERA registration P52100033838 confirms full regulatory compliance and transparent villa handover timelines.",
+      "Located within minutes of EON IT Park, the property commands an elite rental and resale premium.",
+      "A dedicated concierge, 5-tier biometric security, and private clubhouse elevate the Velvet Villas lifestyle."
+    ]
+  ],
+
+  'project-vtp-euphoria': [
+    [
+      "VTP Euphoria is East Pune's largest integrated sports and wellness residential cluster, spanning over 3 acres of amenities in New Kharadi.",
+      "Offering 1, 2, and 3 BHK homes, VTP Euphoria delivers Olympic-sized sports infrastructure and Maximum Livable Area architecture.",
+      "Strategically located near EON IT Park and Wagholi, Euphoria is the definitive choice for active, modern families."
+    ],
+    [
+      "{KEYWORD} gives homeowners direct access to 40+ sports amenities including cricket academies, tennis courts, and grand clubhouses.",
+      "By selecting {KEYWORD}, buyers secure premium homes at competitive rates with outstanding long-term appreciation potential.",
+      "Properties like {KEYWORD} in VTP Euphoria consistently record peak rental demand from Kharadi tech corridor executives."
+    ],
+    [
+      "MahaRERA registration P52100048447 ensures complete statutory clarity and escrow account protection.",
+      "VTP Euphoria's vast vehicle-free podiums and dedicated children's activity zones create a secure family environment.",
+      "Capital values in New Kharadi continue their rapid upward climb as riverside infrastructure expands."
+    ]
+  ],
+
+  'project-vtp-dolce-vita': [
+    [
+      "VTP Dolce Vita brings Italian-inspired sophistication and contemporary architecture to Kharadi next to EON IT Park.",
+      "Featuring 1, 2, and 3 BHK smart homes, Dolce Vita provides an upscale lifestyle tailored for young IT professionals and couples.",
+      "With a high-street shopping boulevard and luxury swimming pool, Dolce Vita combines everyday convenience with five-star leisure."
+    ],
+    [
+      "{KEYWORD} offers the ultimate walk-to-work lifestyle just moments away from World Trade Center and Barclays campuses.",
+      "Securing {KEYWORD} guarantees steady rental yields and rapid capital growth in Kharadi's high-demand IT zone.",
+      "Exploring {KEYWORD} showcases the zero-wastage MLA design that gives owners up to 15% more usable living space."
+    ],
+    [
+      "Verified MahaRERA registration P52100053911 guarantees certified project milestones and RERA compliances.",
+      "Rooftop stargazing decks, co-working pods, and state-of-the-art gyms make Dolce Vita a vibrant community hub.",
+      "High rental absorption rates make VTP Dolce Vita one of East Pune's most rewarding residential investments."
+    ]
+  ],
+
+  'project-vtp-naturescape': [
+    [
+      "VTP NatureScape in West Bavdhan offers biophilic luxury living directly bordering the pristine NDA forest greens.",
+      "With spacious 2, 3, and 4 BHK residences, NatureScape provides clean oxygen-rich air, valley views, and zero pollution.",
+      "Designed for holistic wellness, NatureScape features forest-facing meditation decks, organic farming zones, and infinity pools."
+    ],
+    [
+      "{KEYWORD} allows homeowners to enjoy tranquil hillside living while maintaining rapid connectivity to Kothrud and Baner.",
+      "Investing in {KEYWORD} provides entry into Bavdhan's rarest green luxury enclave with guaranteed scenic permanence.",
+      "Examining {KEYWORD} reveals why NatureScape is the top choice for wellness-oriented executives and medical professionals."
+    ],
+    [
+      "MahaRERA registration P52100055234 ensures full regulatory oversight and verified construction quality.",
+      "Biophilic architectural design ensures maximum natural daylight and cross-ventilation in every room.",
+      "Values in West Bavdhan are compounding strongly due to infrastructural expansion along the western ring road corridor."
+    ]
+  ],
+
+  'project-vtp-sierra-verve': [
+    [
+      "VTP Sierra & VTP Verve along the Baner-Sus corridor offer modern high-rise living with sweeping 360-degree hill and city views.",
+      "Offering stylish 2 and 3 BHK homes, these landmark developments bridge the gap between Baner's high street and Sus's tranquility.",
+      "Equipped with comprehensive clubhouse facilities, infinity pools, and landscaped sky gardens, they represent prime West Pune value."
+    ],
+    [
+      "{KEYWORD} places you within 5 minutes of Balewadi High Street while enjoying peaceful foothill living.",
+      "Choosing {KEYWORD} means acquiring an asset in the fast-appreciating Baner Next growth zone with direct developer pricing.",
+      "With {KEYWORD}, buyers enjoy Maximum Livable Area layouts that optimize every single square foot."
+    ],
+    [
+      "MahaRERA registrations P52100030689 & P52100030690 provide verified legal compliance and escrow safety.",
+      "The upcoming Baner-Sus road widening and metro extension ensure exceptional future capital gains.",
+      "Strong corporate rental demand from Hinjawadi and Baner IT hubs guarantees above-average rental yields."
+    ]
+  ],
+
+  'south-pune-hub': [
+    [
+      "South Pune's elite corridors of NIBM Road, Undri, and Wanowrie offer established green neighbourhoods with top international schools.",
+      "VTP projects in South Pune including VTP Celesta, The Landmark, and Urban Space provide spacious luxury living with resort amenities.",
+      "With close proximity to Camp, Hadapsar IT Park, and Corinthians Club, South Pune remains an aspirational lifestyle destination."
+    ],
+    [
+      "{KEYWORD} gives families access to Pune's top educational institutions including Bishop's, Vibgyor, and EuroSchool within 5 minutes.",
+      "Investing in {KEYWORD} captures steady capital appreciation supported by the upcoming Pune Ring Road and highway connectors.",
+      "Properties like {KEYWORD} in South Pune offer tranquil green living without compromising on urban convenience."
+    ],
+    [
+      "All VTP South Pune developments carry verified MahaRERA certifications and clear statutory approvals.",
+      "Expansive clubhouses, multi-tier security, and Olympic sports courts create a complete gated community ecosystem.",
+      "Consistent rental demand from Hadapsar IT Park and Magarpatta professionals ensures attractive investment yields."
+    ]
+  ],
+
+  'pcmc-north-corridor': [
+    [
+      "The PCMC and North Pune growth corridor spanning Wakad, Ravet, Moshi, and Talegaon represents Maharashtra's industrial and tech powerhouse.",
+      "With superior PCMC civic infrastructure, wide arterial roads, and BRTS networks, this corridor delivers outstanding quality of life.",
+      "VTP Realty's residential and commercial landmarks here provide high-efficiency MLA spaces at highly attractive price points."
+    ],
+    [
+      "{KEYWORD} positions buyers along the high-growth Mumbai-Pune Expressway gateway and industrial corridors.",
+      "Choosing {KEYWORD} means benefiting from PCMC's rapid infrastructure delivery, pristine civic amenities, and high ROI.",
+      "{KEYWORD} offers the perfect combination of space, lifestyle amenities, and capital appreciation for smart homebuyers."
+    ],
+    [
+      "Full MahaRERA compliance across all phases guarantees statutory protection and reliable delivery schedules.",
+      "Proximity to Hinjawadi Phase 2 and 3 IT companies generates consistent rental absorption throughout the year.",
+      "The planned metro and ring road expansions will further power real estate values across the PCMC belt."
+    ]
+  ],
+
+  'competitor-comparisons': [
+    [
+      "Comparing Pune's leading real estate developments requires evaluating usable carpet area, construction quality, and developer track record.",
+      "VTP Realty's Maximum Livable Area (MLA) philosophy consistently delivers up to 15% more usable floor space than conventional layouts.",
+      "With 200+ acre mega townships like Blue Waters and Pegasus, VTP offers scale, infrastructure, and amenities unmatched in Pune."
+    ],
+    [
+      "{KEYWORD} highlights the critical differences in design efficiency, amenity density, and price per usable square foot.",
+      "Examining {KEYWORD} clearly demonstrates why thousands of homebuyers choose VTP Realty over other developers in Pune.",
+      "With {KEYWORD}, buyers get complete transparency with certified MahaRERA disclosures and all-inclusive pricing."
+    ],
+    [
+      "VTP projects deliver 3-tier wellness amenities, high-street retail promenades, and professional sports academies within the township.",
+      "Zero-brokerage direct developer booking ensures customers receive the most competitive price guarantees and payment plans.",
+      "Independent market analytics confirm VTP projects consistently outperform competitor developments in rental yields and capital growth."
+    ]
+  ],
+
+  'multilingual-voice-search': [
+    [
+      "पुणे आणि पिंपरी चिंचवड मधील व्हीटीपी रिअल्टीचे गृहप्रकल्प आधुनिक जीवनशैली, विश्वासार्हता आणि दर्जेदार बांधकामासाठी ओळखले जातात.",
+      "VTP Realty Pune provides verified RERA approved luxury homes, flexible payment schemes, and direct booking across all prime locations.",
+      "हिंजवडी, महाळुंगे, खाराडी आणि बावधन मधील व्हीटीपी फ्लॅट्स हे आयटी प्रोफेशनल्स आणि गुंतवणूकदारांसाठी सर्वोत्तम पर्याय आहेत."
+    ],
+    [
+      "{KEYWORD} offers direct sales office assistance, authentic price lists, and sample flat video tours for prospective buyers.",
+      "{KEYWORD} द्वारे आपण अधिकृत ब्रोशर डाऊनलोड करू शकता आणि थेट साईट व्हिजिट बुक करू शकता.",
+      "Choosing {KEYWORD} guarantees Maximum Livable Area (MLA) with zero space wastage and top-tier lifestyle amenities."
+    ],
+    [
+      "सर्व व्हीटीपी प्रोजेक्ट्स महारेरा (MahaRERA) नोंदणीकृत असून ग्राहकांना संपूर्ण कायदेशीर सुरक्षितता मिळते.",
+      "SBI, HDFC, आणि ICICI सारख्या आघाडीच्या बँकांकडून विशेष गृहकर्ज सवलती आणि त्वरित मंजुरी उपलब्ध आहे.",
+      "Pune real estate investment with VTP Realty ensures high capital appreciation and reliable monthly rental returns."
+    ]
+  ],
+
   // ── Generic Fallback ─────────────────────────────────────────────────────
   generic: [
     [
@@ -427,9 +638,36 @@ const lsiKeywords = [
 
 // ─── Silo-to-Spintax Mapping ─────────────────────────────────────────────────
 function resolveSpintaxCategory(locationId) {
-  const id = locationId.toLowerCase();
+  const id = (locationId || '').toLowerCase();
+  
+  // Specific projects
+  if (id.includes('altamira'))         return spintaxBlocks['project-vtp-altamira'];
+  if (id.includes('monarque'))         return spintaxBlocks['project-vtp-monarque'];
+  if (id.includes('earth'))            return spintaxBlocks['project-vtp-earth-1'];
+  if (id.includes('volare'))           return spintaxBlocks['project-vtp-volare'];
+  if (id.includes('flamante'))         return spintaxBlocks['project-vtp-flamante'];
+  if (id.includes('cielo'))            return spintaxBlocks['project-vtp-cielo'];
+  if (id.includes('velvet'))           return spintaxBlocks['project-vtp-velvet-villas'];
+  if (id.includes('euphoria'))         return spintaxBlocks['project-vtp-euphoria'];
+  if (id.includes('dolce'))            return spintaxBlocks['project-vtp-dolce-vita'];
+  if (id.includes('naturescape'))      return spintaxBlocks['project-vtp-naturescape'];
+  if (id.includes('sierra') || id.includes('verve') || id.includes('magnum') || id.includes('solitaire')) {
+    return spintaxBlocks['project-vtp-sierra-verve'];
+  }
+  
+  // Thematic silos
+  if (id.includes('competitor'))       return spintaxBlocks['competitor-comparisons'];
+  if (id.includes('multilingual') || id.includes('voice')) return spintaxBlocks['multilingual-voice-search'];
+  if (id.includes('undri') || id.includes('nibm') || id.includes('kondhwa') || id.includes('pisoli') || id.includes('celesta')) {
+    return spintaxBlocks['south-pune-hub'];
+  }
+  if (id.includes('ravet') || id.includes('moshi') || id.includes('chakan') || id.includes('talegaon') || id.includes('pcmc') || id.includes('kiwale')) {
+    return spintaxBlocks['pcmc-north-corridor'];
+  }
+
+  // Geographic locations
   if (id.includes('mahalunge'))        return spintaxBlocks.mahalunge;
-  if (id.includes('hinjawadi'))        return spintaxBlocks.hinjawadi;
+  if (id.includes('hinjewadi') || id.includes('hinjawadi')) return spintaxBlocks.hinjawadi;
   if (id.includes('baner'))            return spintaxBlocks.baner;
   if (id.includes('kharadi'))          return spintaxBlocks.kharadi;
   if (id.includes('bavdhan'))          return spintaxBlocks.bavdhan;
@@ -439,11 +677,9 @@ function resolveSpintaxCategory(locationId) {
   if (id.includes('hadapsar'))         return spintaxBlocks.hadapsar;
   if (id.includes('wagholi'))          return spintaxBlocks.wagholi;
   if (id.includes('sus'))              return spintaxBlocks.sus;
-  if (id.includes('tathawade'))        return spintaxBlocks.tathawade;
-  if (id.includes('pashan'))           return spintaxBlocks.pashan;
-  if (id.includes('altamira'))         return spintaxBlocks['project-vtp-altamira'];
-  if (id.includes('monarque'))         return spintaxBlocks['project-vtp-monarque'];
-  if (id.includes('earth'))            return spintaxBlocks['project-vtp-earth-1'];
+  if (id.includes('tathawade') || id.includes('punawale')) return spintaxBlocks.tathawade;
+  if (id.includes('pashan') || id.includes('aundh') || id.includes('kothrud')) return spintaxBlocks.pashan;
+
   return spintaxBlocks.generic;
 }
 

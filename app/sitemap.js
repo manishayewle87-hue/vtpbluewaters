@@ -107,37 +107,38 @@ export default async function sitemap(props) {
     for (const item of chunkSlugs) {
       const s = item.slug;
 
-      // Tier 1: VTP project-specific brand pages — highest priority
-      const isVtpProject =
-        s.includes('vtp-altamira') || s.includes('vtp-monarque') ||
-        s.includes('vtp-earth-1') || s.includes('vtp-flamante') ||
-        s.includes('vtp-velvet-villas') || s.includes('vtp-cielo') ||
-        s.includes('vtp-aurelia') || s.includes('vtp-volare') ||
-        s.includes('vtp-realty') || s.includes('vtp-blue-waters');
+      // Tier 1: VTP project-specific brand and transactional pages — highest priority
+      const isVtpProject = s.includes('vtp-') || s.startsWith('buy-vtp') || s.includes('vtp');
 
-      // Tier 2: Core township locations
-      const isCoreLocation = s.includes('mahalunge') || s.includes('hinjawadi');
+      // Tier 2: Core township locations & IT corridors
+      const isCoreLocation = s.includes('mahalunge') || s.includes('hinjewadi') || s.includes('kharadi') || s.includes('baner') || s.includes('it-park') || s.includes('infotech');
 
-      // Tier 3: All new Pune locations
+      // Tier 3: All other Pune micro-markets and comparisons
       const isNewLocation =
-        s.includes('kharadi') || s.includes('baner') || s.includes('bavdhan') ||
-        s.includes('wakad') || s.includes('pimple-saudagar') || s.includes('wanowrie') ||
-        s.includes('hadapsar') || s.includes('wagholi') || s.includes('sus') ||
-        s.includes('tathawade') || s.includes('pashan');
+        s.includes('bavdhan') || s.includes('wakad') || s.includes('pimple-saudagar') || s.includes('wanowrie') ||
+        s.includes('hadapsar') || s.includes('wagholi') || s.includes('sus') || s.includes('tathawade') ||
+        s.includes('pashan') || s.includes('undri') || s.includes('nibm') || s.includes('kothrud') ||
+        s.includes('ravet') || s.includes('moshi') || s.includes('balewadi') || s.includes('viman-nagar');
 
-      const priority = isVtpProject ? 0.9 : isCoreLocation ? 0.8 : isNewLocation ? 0.7 : 0.5;
-      const changeFrequency = isVtpProject ? 'daily' : isCoreLocation ? 'daily' : isNewLocation ? 'weekly' : 'weekly';
+      const priority = isVtpProject ? 0.9 : isCoreLocation ? 0.85 : isNewLocation ? 0.8 : 0.7;
+      const changeFrequency = isVtpProject ? 'daily' : isCoreLocation ? 'daily' : 'weekly';
 
-      // Use project-specific hero images for VTP brand pages for Google Images boost
-      const imageSlug = isVtpProject && s.includes('vtp-altamira') ? 'vtp-altamira-kharadi-pune/accurate-hero.jpg'
-        : isVtpProject && s.includes('vtp-monarque') ? 'vtp-monarque-hinjawadi-pune/accurate-hero.webp'
-        : isVtpProject && s.includes('vtp-earth-1') ? 'earth-1/hero.jpg'
-        : isVtpProject && s.includes('vtp-flamante') ? 'vtp-flamante-kharadi-pune/accurate-hero.svg'
-        : isVtpProject && s.includes('vtp-velvet-villas') ? 'vtp-velvet-villas-kharadi-pune/accurate-hero.webp'
-        : isVtpProject && s.includes('vtp-cielo') ? 'vtp-cielo-bavdhan-pune/accurate-hero.webp'
-        : isVtpProject && s.includes('vtp-aurelia') ? 'vtp-aurelia-kharadi-pune/accurate-hero.jpg'
-        : isVtpProject && s.includes('vtp-volare') ? 'vtp-volare-hinjawadi-pune/accurate-hero.webp'
-        : 'earth-1/hero.jpg';
+      // Dynamic image matching for VTP projects
+      let imageSlug = 'earth-1/hero.jpg';
+      if (s.includes('altamira')) imageSlug = 'vtp-altamira-kharadi-pune/accurate-hero.jpg';
+      else if (s.includes('monarque')) imageSlug = 'vtp-monarque-hinjawadi-pune/accurate-hero.webp';
+      else if (s.includes('earth-one') || s.includes('earth-1')) imageSlug = 'earth-1/hero.jpg';
+      else if (s.includes('flamante')) imageSlug = 'vtp-flamante-kharadi-pune/accurate-hero.svg';
+      else if (s.includes('velvet-villas')) imageSlug = 'vtp-velvet-villas-kharadi-pune/accurate-hero.webp';
+      else if (s.includes('cielo')) imageSlug = 'vtp-cielo-bavdhan-pune/accurate-hero.webp';
+      else if (s.includes('aurelia')) imageSlug = 'vtp-aurelia-kharadi-pune/accurate-hero.jpg';
+      else if (s.includes('volare')) imageSlug = 'vtp-volare-hinjawadi-pune/accurate-hero.webp';
+      else if (s.includes('bellissimo')) imageSlug = 'vtp-bellissimo-hinjawadi-pune/accurate-hero.jpg';
+      else if (s.includes('sierra')) imageSlug = 'vtp-sierra-baner-sus-road-pune/accurate-hero.jpg';
+      else if (s.includes('verve')) imageSlug = 'vtp-verve-baner-sus-road-pune/accurate-hero.jpg';
+      else if (s.includes('leonara')) imageSlug = 'vtp-leonara-mahalunge-pune/accurate-hero.jpg';
+      else if (s.includes('alpine')) imageSlug = 'vtp-alpine-mahalunge-pune/accurate-hero.jpg';
+      else if (s.includes('bel-air')) imageSlug = 'vtp-bel-air-mahalunge-pune/accurate-hero.jpg';
 
       entries.push({
         url: `${baseUrl}/explore/${s}`,
