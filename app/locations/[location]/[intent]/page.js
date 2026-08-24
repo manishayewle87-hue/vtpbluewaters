@@ -93,11 +93,33 @@ export default async function LocationIntentDetail({   params }) {
     }))
   };
 
+  const breadcrumbItems = [
+    { label: 'Home', href: '/' },
+    { label: 'Locations', href: '/#locations' },
+    { label: locData.name, href: `/locations/${location}` },
+    { label: displayIntent, href: `/locations/${location}/${intent}` }
+  ];
+
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: breadcrumbItems.map((item, index) => ({
+      '@type': 'ListItem',
+      position: index + 1,
+      name: item.label,
+      item: `https://vtpbluewaters.com${item.href}`
+    }))
+  };
+
   return (
     <>
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
 
       <article className="min-h-screen bg-luxury-navy">
@@ -107,6 +129,15 @@ export default async function LocationIntentDetail({   params }) {
           <div className="absolute inset-0 bg-[url('https://www.transparenttextures.com/patterns/cubes.png')] opacity-5 z-0"></div>
           
           <div className="container relative z-10 mx-auto px-6 max-w-4xl text-center mt-10 lg:mt-20">
+            {/* Breadcrumb UI */}
+            <div className="flex items-center justify-center gap-2 text-xs text-luxury-silver/60 uppercase tracking-widest mb-6">
+              <Link href="/" className="hover:text-luxury-gold transition-colors">Home</Link>
+              <span>/</span>
+              <Link href={`/locations/${location}`} className="hover:text-luxury-gold transition-colors">{locData.name}</Link>
+              <span>/</span>
+              <span className="text-luxury-gold">{displayIntent}</span>
+            </div>
+            
             <div className="text-luxury-label text-luxury-gold mb-4">Location Spotlight: {locData.zone} Pune</div>
             <h1 className="text-display-md font-display font-light mb-6 text-white">
               {heroTitle}
