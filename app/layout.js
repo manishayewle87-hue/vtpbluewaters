@@ -137,6 +137,8 @@ export const metadata = {
   }
 };
 
+import SpeculationRules from '@/app/components/tech/SpeculationRules';
+
 export default async function RootLayout({ children }) {
   return (
     <html lang="en-IN" dir="ltr" className={`${inter.variable} ${outfit.variable}`}>
@@ -150,6 +152,7 @@ export default async function RootLayout({ children }) {
         <link rel="dns-prefetch" href="https://maps.googleapis.com" />
       </head>
       <body className={`${inter.variable} ${outfit.variable} antialiased bg-[#050914] text-white selection:bg-luxury-gold selection:text-luxury-navy`}>
+        <SpeculationRules />
         <ReCaptchaProvider>
           <KnowledgeGraph />
           <GlobalSchema />

@@ -79,6 +79,7 @@ export default async function sitemap(props) {
       '/market-intelligence/hinjewadi-walk-to-work-lifestyle',
       '/investors/nri-investment-guide',
       '/investors/pune-infrastructure-impact-report',
+      '/tools',
       '/tools/emi-calculator'
     ];
     for (const route of pillarPages) {
