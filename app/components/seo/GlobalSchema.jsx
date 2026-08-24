@@ -526,6 +526,74 @@ export default function GlobalSchema() {
           "url": "https://vtpbluewaters.com/#enquiry",
           "description": "Free site visit — No brokerage, no obligation"
         }
+      },
+
+      // ─── 9. BreadcrumbList — Global Navigation Taxonomy ────────────────
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://vtpbluewaters.com/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://vtpbluewaters.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Township Blue Waters",
+            "item": "https://vtpbluewaters.com/township"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Projects",
+            "item": "https://vtpbluewaters.com/configurations"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Market Intelligence & Insights",
+            "item": "https://vtpbluewaters.com/insights"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "NRI Investment Guide",
+            "item": "https://vtpbluewaters.com/investors/nri-investment-guide"
+          }
+        ]
+      },
+
+      // ─── 10. SiteNavigationElement — Google Sitelinks Optimization ──────
+      {
+        "@type": "SiteNavigationElement",
+        "@id": "https://vtpbluewaters.com/#navigation",
+        "name": [
+          "Township Overview",
+          "VTP Monarque Hinjewadi",
+          "VTP Earth 1 Mahalunge",
+          "VTP Volare Hinjewadi",
+          "VTP Altamira Kharadi",
+          "VTP Flamante Kharadi",
+          "VTP Cielo Bavdhan",
+          "Floor Plans & Price Lists",
+          "MahaRERA Numbers",
+          "Book Site Visit"
+        ],
+        "url": [
+          "https://vtpbluewaters.com/township",
+          "https://vtpbluewaters.com/projects/vtp-monarque-hinjawadi-pune",
+          "https://vtpbluewaters.com/projects/vtp-earth-one-mahalunge-pune",
+          "https://vtpbluewaters.com/projects/vtp-volare-hinjawadi-pune",
+          "https://vtpbluewaters.com/projects/vtp-altamira-kharadi-pune",
+          "https://vtpbluewaters.com/projects/vtp-flamante-kharadi-pune",
+          "https://vtpbluewaters.com/projects/vtp-cielo-bavdhan-pune",
+          "https://vtpbluewaters.com/configurations",
+          "https://vtpbluewaters.com/faq",
+          "https://vtpbluewaters.com/#enquiry"
+        ]
       }
     ]
   };

@@ -5,6 +5,8 @@ const keyPath = path.join(process.cwd(), 'service_account.json');
 const projectsPath = path.join(process.cwd(), 'app/data/projects.json');
 const baseUrl = 'https://vtpbluewaters.com';
 
+import { seoSilos } from '../app/data/seo-silos.js';
+
 const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
 async function getUrlsToIndex() {
@@ -13,25 +15,41 @@ async function getUrlsToIndex() {
     `${baseUrl}/township`,
     `${baseUrl}/insights`,
     `${baseUrl}/faq`,
-    `${baseUrl}/explore`,
+    `${baseUrl}/configurations`,
     `${baseUrl}/market-intelligence/mahalunge-hinjewadi-investment-guide`,
     `${baseUrl}/market-intelligence/vtp-bluewaters-township-review`,
+    `${baseUrl}/market-intelligence/pune-ultra-luxury-real-estate-trends`,
+    `${baseUrl}/market-intelligence/vtp-bluewaters-vs-competitors`,
+    `${baseUrl}/market-intelligence/hinjewadi-walk-to-work-lifestyle`,
     `${baseUrl}/investors/nri-investment-guide`,
     `${baseUrl}/investors/pune-infrastructure-impact-report`,
   ];
 
   try {
     const projectsData = JSON.parse(fs.readFileSync(projectsPath, 'utf8'));
-    const projects = projectsData.projects || projectsData; // Handle both structures just in case
+    const projects = projectsData.projects || projectsData;
     
     for (const project of projects) {
       urls.push(`${baseUrl}/projects/${project.slug}`);
       urls.push(`${baseUrl}/projects/${project.slug}/price`);
       urls.push(`${baseUrl}/projects/${project.slug}/floor-plan`);
       urls.push(`${baseUrl}/projects/${project.slug}/location`);
+      urls.push(`${baseUrl}/projects/${project.slug}/brochure`);
+      urls.push(`${baseUrl}/projects/${project.slug}/amenities`);
     }
   } catch (error) {
     console.log("Could not load dynamic projects from CMS, proceeding with static list.");
+  }
+
+  // Include all programmatic explore URLs from seoSilos
+  if (Array.isArray(seoSilos)) {
+    for (const silo of seoSilos) {
+      if (Array.isArray(silo.slugs)) {
+        for (const item of silo.slugs) {
+          urls.push(`${baseUrl}/explore/${item.slug}`);
+        }
+      }
+    }
   }
 
   return urls;

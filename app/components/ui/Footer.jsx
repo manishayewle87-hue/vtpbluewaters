@@ -140,84 +140,163 @@ export default function Footer() {
         <div className="container mx-auto px-6 max-w-7xl py-12">
           <div className="grid grid-cols-1 md:grid-cols-6 gap-8 lg:gap-8">
             
-            {/* VTP Realty Master Developer Hubs (Phase 3 Brand Hardening) */}
+            {/* VTP Realty Master Developer Hubs */}
             <div className="col-span-1 md:col-span-2">
-              <h5 className="text-luxury-caption text-white/40 mb-6 border-b border-white/5 pb-4">VTP Realty Pune Projects</h5>
-              <ul className="space-y-3">
-                {contentData.developerHubs?.map((hub, i) => (
-                  <li key={i}>
-                    <Link href={`/developer/vtp-realty/${hub.slug}`} className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed break-words block">
-                      {hub.title}
-                    </Link>
-                  </li>
-                ))}
-              </ul>
-            </div>
-
-            {/* Investor Relations Hub (Phase 3) */}
-            <div className="col-span-1">
-              <h5 className="text-luxury-caption text-white/40 mb-6 border-b border-white/5 pb-4">Investor Relations</h5>
+              <h5 className="text-luxury-caption text-white/40 mb-6 border-b border-white/5 pb-4">VTP Realty Flagship Developments</h5>
               <ul className="space-y-3">
                 <li>
-                  <Link href="/investors/nri-investment-guide" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed break-words">
-                    NRI Real Estate Investment Guide Pune
+                  <Link href="/projects/vtp-earth-one-mahalunge-pune" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed block">
+                    VTP Earth 1 — Mahalunge Riverfront
                   </Link>
                 </li>
                 <li>
-                  <Link href="/investors/pune-infrastructure-impact-report" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed break-words">
-                    Pune Infrastructure Impact Report
-                  </Link>
-                </li>
-              </ul>
-            </div>
-
-            {/* Market Intelligence Hub */}
-            <div className="col-span-1">
-              <h5 className="text-luxury-caption text-white/40 mb-6 border-b border-white/5 pb-4">Market Intelligence</h5>
-              <ul className="space-y-3">
-                <li>
-                  <Link href="/market-intelligence/mahalunge-hinjewadi-investment-guide" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed break-words">
-                    Mahalunge & Hinjewadi Investment Guide
+                  <Link href="/projects/vtp-monarque-hinjawadi-pune" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed block">
+                    VTP Monarque — Hinjewadi Phase 1
                   </Link>
                 </li>
                 <li>
-                  <Link href="/market-intelligence/vtp-bluewaters-township-review" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed break-words">
-                    VTP Blue Waters Township Review
+                  <Link href="/projects/vtp-volare-hinjawadi-pune" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed block">
+                    VTP Volare — Hinjewadi Tech Corridor
                   </Link>
                 </li>
                 <li>
-                  <Link href="/market-intelligence/pune-ultra-luxury-real-estate-trends" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed break-words">
-                    Pune Ultra-Luxury Trends
+                  <Link href="/projects/vtp-altamira-kharadi-pune" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed block">
+                    VTP Altamira — Kharadi Luxe Towers
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/projects/vtp-flamante-kharadi-pune" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed block">
+                    VTP Flamante — Kharadi Glass Facade
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/projects/vtp-cielo-bavdhan-pune" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed block">
+                    VTP Cielo — Bavdhan Hillside
                   </Link>
                 </li>
               </ul>
             </div>
 
-            {/* Blogs & Articles Hub */}
+            {/* Pune Micro-Markets Hub */}
             <div className="col-span-1">
-              <h5 className="text-luxury-caption text-white/40 mb-6 border-b border-white/5 pb-4">Knowledge & Articles</h5>
+              <h5 className="text-luxury-caption text-white/40 mb-6 border-b border-white/5 pb-4">Pune Micro-Markets</h5>
               <ul className="space-y-3">
-                {contentData.blogs.slice(0, 4).map((blog, i) => (
-                  <li key={i}>
-                    <Link href={`/blog/${blog.slug}`} className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed break-words">
-                      {blog.title}
-                    </Link>
-                  </li>
-                ))}
+                <li>
+                  <Link href="/locations/hinjewadi" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed block">
+                    Flats in Hinjewadi Phase 1-3
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/locations/mahalunge" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed block">
+                    Flats in Mahalunge Baner Next
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/locations/kharadi" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed block">
+                    Flats in Kharadi EON IT Park
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/locations/bavdhan" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed block">
+                    Flats in Bavdhan & Kothrud
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/locations/wakad" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed block">
+                    Flats in Wakad & Tathawade
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/locations/undri" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed block">
+                    Flats in Undri & NIBM Road
+                  </Link>
+                </li>
               </ul>
             </div>
 
-            {/* Location Artifacts Hub */}
+            {/* Investor & Market Intelligence */}
             <div className="col-span-1">
-              <h5 className="text-luxury-caption text-white/40 mb-6 border-b border-white/5 pb-4">Mahalunge & Baner Annex</h5>
+              <h5 className="text-luxury-caption text-white/40 mb-6 border-b border-white/5 pb-4">Investor Intelligence</h5>
               <ul className="space-y-3">
-                {contentData.locations.slice(0, 4).map((loc, i) => (
-                  <li key={i}>
-                    <Link href={`/locations/${loc.slug}`} className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed break-words">
-                      {loc.title}
-                    </Link>
-                  </li>
-                ))}
+                <li>
+                  <Link href="/investors/nri-investment-guide" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed block">
+                    NRI Real Estate Guide Pune
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/market-intelligence/mahalunge-hinjewadi-investment-guide" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed block">
+                    Mahalunge Investment Guide
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/market-intelligence/vtp-bluewaters-township-review" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed block">
+                    VTP Blue Waters Review
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/investors/pune-infrastructure-impact-report" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed block">
+                    Pune Metro & Ring Road Report
+                  </Link>
+                </li>
+              </ul>
+            </div>
+
+            {/* Configurations & Luxury Segments */}
+            <div className="col-span-1">
+              <h5 className="text-luxury-caption text-white/40 mb-6 border-b border-white/5 pb-4">Configurations</h5>
+              <ul className="space-y-3">
+                <li>
+                  <Link href="/configurations/2-bhk" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed block">
+                    2 BHK Luxury Flats Pune
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/configurations/3-bhk" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed block">
+                    3 BHK Premium Residences
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/configurations/4-bhk" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed block">
+                    4 BHK Sky Mansions & Duplex
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/configurations/villas" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed block">
+                    Luxury Private Villas Pune
+                  </Link>
+                </li>
+              </ul>
+            </div>
+
+            {/* Verified Sitemaps & Search Feeds */}
+            <div className="col-span-1">
+              <h5 className="text-luxury-caption text-white/40 mb-6 border-b border-white/5 pb-4">Sitemaps & Direct Feeds</h5>
+              <ul className="space-y-3">
+                <li>
+                  <Link href="/sitemap.xml" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed block">
+                    Master XML Sitemap
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/sitemap-news.xml" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed block">
+                    Google News XML Feed
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/sitemap-video.xml" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed block">
+                    Google Video XML Sitemap
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/sitemap-locations.kml" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed block">
+                    Google Earth KML Map
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/rss.xml" className="text-xs text-white/30 hover:text-luxury-gold transition-colors leading-relaxed block">
+                    RSS Property Feed
+                  </Link>
+                </li>
               </ul>
             </div>
 
