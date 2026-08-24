@@ -6,7 +6,9 @@ const DOMAIN = 'https://vtpbluewaters.com';
 const SITEMAPS = [
   `${DOMAIN}/sitemap.xml`,
   `${DOMAIN}/sitemap-news.xml`,
-  `${DOMAIN}/sitemap-video.xml`
+  `${DOMAIN}/sitemap-video.xml`,
+  `${DOMAIN}/google-realestate-feed.xml`,
+  `${DOMAIN}/geo/pune-properties.geojson`
 ];
 
 async function pingUrl(url) {
