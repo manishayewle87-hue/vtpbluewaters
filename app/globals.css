@@ -171,3 +171,15 @@ html.lenis, html.lenis body {
     transition-delay: 0s !important;
   }
 }
+
+/* Core Web Vitals (INP & LCP) Hyper-Optimization */
+.cv-auto {
+  content-visibility: auto;
+  contain-intrinsic-size: 1px 800px;
+}
+
+.gpu-accelerated {
+  transform: translateZ(0);
+  backface-visibility: hidden;
+  perspective: 1000px;
+}
