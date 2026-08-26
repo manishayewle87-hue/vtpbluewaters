@@ -256,7 +256,7 @@ export default function GlobalSchema() {
         "@id": "https://vtpbluewaters.com/#projects",
         "name": "VTP Realty Projects Pune",
         "description": "Complete verified list of VTP Realty luxury residential and commercial projects across Pune",
-        "numberOfItems": 16,
+        "numberOfItems": 25,
         "itemListElement": [
           {
             "@type": "ListItem", "position": 1,
@@ -320,39 +320,93 @@ export default function GlobalSchema() {
           },
           {
             "@type": "ListItem", "position": 11,
-            "name": "VTP NatureScape — Bavdhan",
-            "url": "https://vtpbluewaters.com/projects/vtp-naturescape-bavdhan-pune",
-            "image": "https://vtpbluewaters.com/assets/projects/vtp-naturescape-bavdhan-pune/accurate-hero.webp"
+            "name": "VTP Aethereus — Mahalunge",
+            "url": "https://vtpbluewaters.com/projects/vtp-aethereus-high-street-mahalunge-pune",
+            "image": "https://vtpbluewaters.com/assets/projects/aethereus/hero.webp"
           },
           {
             "@type": "ListItem", "position": 12,
+            "name": "VTP Leonara — Mahalunge",
+            "url": "https://vtpbluewaters.com/projects/vtp-leonara-mahalunge-pune",
+            "image": "https://vtpbluewaters.com/assets/projects/leonara/hero.webp"
+          },
+          {
+            "@type": "ListItem", "position": 13,
+            "name": "VTP Bel Air — Mahalunge",
+            "url": "https://vtpbluewaters.com/projects/vtp-bel-air-mahalunge-pune",
+            "image": "https://vtpbluewaters.com/assets/projects/belair/hero.webp"
+          },
+          {
+            "@type": "ListItem", "position": 14,
+            "name": "VTP Alpine — Mahalunge",
+            "url": "https://vtpbluewaters.com/projects/vtp-alpine-mahalunge-pune",
+            "image": "https://vtpbluewaters.com/assets/projects/alpine/hero.webp"
+          },
+          {
+            "@type": "ListItem", "position": 15,
+            "name": "VTP Cygnus — Kharadi",
+            "url": "https://vtpbluewaters.com/projects/vtp-cygnus-kharadi-pune",
+            "image": "https://vtpbluewaters.com/assets/projects/cygnus/hero.webp"
+          },
+          {
+            "@type": "ListItem", "position": 16,
             "name": "VTP Aurelia — Kharadi",
             "url": "https://vtpbluewaters.com/projects/vtp-aurelia-kharadi-pune",
             "image": "https://vtpbluewaters.com/assets/projects/vtp-aurelia-kharadi-pune/accurate-hero.jpg"
           },
           {
-            "@type": "ListItem", "position": 13,
+            "@type": "ListItem", "position": 17,
             "name": "VTP Sierra — Baner-Sus",
             "url": "https://vtpbluewaters.com/projects/vtp-sierra-baner-sus-road-pune",
             "image": "https://vtpbluewaters.com/assets/projects/vtp-sierra-baner-sus-road-pune/accurate-hero.jpg"
           },
           {
-            "@type": "ListItem", "position": 14,
+            "@type": "ListItem", "position": 18,
             "name": "VTP Verve — Baner-Sus",
             "url": "https://vtpbluewaters.com/projects/vtp-verve-baner-sus-road-pune",
             "image": "https://vtpbluewaters.com/assets/projects/vtp-verve-baner-sus-road-pune/accurate-hero.jpg"
           },
           {
-            "@type": "ListItem", "position": 15,
+            "@type": "ListItem", "position": 19,
             "name": "VTP Celesta — NIBM Road",
             "url": "https://vtpbluewaters.com/projects/vtp-celesta-nibm-road-pune",
             "image": "https://vtpbluewaters.com/assets/projects/vtp-celesta-nibm-road-pune/accurate-hero.jpg"
           },
           {
-            "@type": "ListItem", "position": 16,
+            "@type": "ListItem", "position": 20,
+            "name": "VTP HiLife — Wakad",
+            "url": "https://vtpbluewaters.com/projects/vtp-hilife-wakad-pune",
+            "image": "https://vtpbluewaters.com/assets/projects/volare/hero.webp"
+          },
+          {
+            "@type": "ListItem", "position": 21,
+            "name": "VTP Purvanchal — Wagholi",
+            "url": "https://vtpbluewaters.com/projects/vtp-purvanchal-wagholi-pune",
+            "image": "https://vtpbluewaters.com/assets/projects/flamante/hero.webp"
+          },
+          {
+            "@type": "ListItem", "position": 22,
+            "name": "VTP Urban Space — NIBM Undri",
+            "url": "https://vtpbluewaters.com/projects/vtp-urban-space-nibm-undri-pune",
+            "image": "https://vtpbluewaters.com/assets/projects/cielo/hero.webp"
+          },
+          {
+            "@type": "ListItem", "position": 23,
             "name": "VTP Altitude — Wakad Commercial",
             "url": "https://vtpbluewaters.com/projects/vtp-altitude-wakad-pune",
             "image": "https://vtpbluewaters.com/assets/projects/vtp-altitude-wakad-pune/accurate-hero.jpg"
+          },
+          {
+            "@type": "ListItem", "position": 24,
+            "name": "VTP Town Square — Viman Nagar",
+            "url": "https://vtpbluewaters.com/projects/vtp-town-square-viman-nagar-pune",
+            "image": "https://vtpbluewaters.com/assets/projects/flamante/hero.webp"
+          },
+          {
+            "@type": "ListItem", "position": 25,
+            "name": "VTP House — Corporate Headquarters",
+            "url": "https://vtpbluewaters.com/projects/vtp-house-viman-nagar-pune",
+            "image": "https://vtpbluewaters.com/assets/projects/flamante/hero.webp"
           }
         ]
       },
