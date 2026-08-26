@@ -586,6 +586,42 @@ const spintaxBlocks = {
     ]
   ],
 
+  'township-living-pune': [
+    [
+      "VTP Realty's master-planned mega integrated townships in Pune, including the 200+ acre Blue Waters (Mahalunge/Hinjewadi) and 100+ acre Pegasus (New Kharadi), represent the pinnacle of self-sustaining community living.",
+      "Spanning hundreds of acres with dedicated riverfront promenades, high-street retail boulevards, and international sports academies, VTP townships provide a 360-degree holistic lifestyle.",
+      "Living in a VTP mega township eliminates urban congestion, offering expansive green open spaces, pedestrian walkways, and world-class infrastructure right outside your doorstep."
+    ],
+    [
+      "{KEYWORD} offers families a comprehensive ecosystem with schools, healthcare, shopping, and commercial zones within a 5-minute walk.",
+      "Investing in {KEYWORD} secures an asset in Pune's highest-appreciating integrated township corridor.",
+      "{KEYWORD} combines Maximum Livable Area (MLA) residential towers with over 100+ resort-grade wellness and entertainment amenities."
+    ],
+    [
+      "Every phase of VTP townships carries individual MahaRERA registrations and guaranteed statutory milestone tracking.",
+      "Unmatched rental yields and continuous tenant demand from neighboring IT SEZs ensure superior cash flow for township investors.",
+      "Direct highway and metro connectivity links VTP townships seamlessly to Pune International Airport, Mumbai Expressway, and core commercial hubs."
+    ]
+  ],
+
+  'commercial-retail-offices-pune': [
+    [
+      "VTP Realty's Grade A commercial and high-street retail landmarks, including VTP Altitude in Wakad and VTP Trade Park, deliver institutional-grade investment opportunities across Pune's prime business corridors.",
+      "Strategically situated along high-footfall arterial roads in Wakad, Kharadi, and Baner, VTP commercial properties cater to top corporate tenants, premium retail brands, and healthcare operators.",
+      "Designed with double-height entrance lobbies, high-speed smart elevators, and expansive column-free floor plates, VTP commercial spaces maximize business efficiency and rental yields."
+    ],
+    [
+      "{KEYWORD} provides investors with stable, inflation-hedged commercial rental yields ranging from 8% to 11% annually.",
+      "Acquiring {KEYWORD} positions your business in a high-density catchment area with thousands of affluent resident families.",
+      "{KEYWORD} offers flexible unit configurations from boutique retail shops to full-floor corporate headquarters with verified MahaRERA compliance."
+    ],
+    [
+      "Pre-leased commercial options and flexible builder payment plans ensure immediate or near-term rental income.",
+      "Comprehensive facility management, 100% power backup, and multi-level basement parking ensure seamless tenant operations.",
+      "Strong corporate demand in West and East Pune drives continuous capital appreciation for VTP commercial real estate assets."
+    ]
+  ],
+
   // ── Generic Fallback ─────────────────────────────────────────────────────
   generic: [
     [
@@ -656,6 +692,8 @@ function resolveSpintaxCategory(locationId) {
   }
   
   // Thematic silos
+  if (id.includes('township'))         return spintaxBlocks['township-living-pune'];
+  if (id.includes('commercial') || id.includes('retail') || id.includes('office') || id.includes('shops')) return spintaxBlocks['commercial-retail-offices-pune'];
   if (id.includes('competitor'))       return spintaxBlocks['competitor-comparisons'];
   if (id.includes('multilingual') || id.includes('voice')) return spintaxBlocks['multilingual-voice-search'];
   if (id.includes('undri') || id.includes('nibm') || id.includes('kondhwa') || id.includes('pisoli') || id.includes('celesta')) {

@@ -566,7 +566,9 @@ generatedSilos.push({
     { slug: "vtp-head-office-pune-address", keyword: "VTP Head Office Pune Address" },
     { slug: "vtp-mla-philosophy-maximum-livable-area", keyword: "VTP MLA Philosophy Maximum Livable Area" },
     { slug: "vtp-realty-construction-quality-ratings", keyword: "VTP Realty Construction Quality Ratings" },
-    { slug: "vtp-realty-awards-and-recognition", keyword: "VTP Realty Awards and Recognition" }
+    { slug: "vtp-realty-awards-and-recognition", keyword: "VTP Realty Awards and Recognition" },
+    { slug: "vtp-realty-careers-channel-partner", keyword: "VTP Realty Channel Partner Registration" },
+    { slug: "vtp-group-infrastructure-legacy-pune", keyword: "VTP Group Infrastructure Legacy Pune" }
   ]
 });
 
@@ -574,7 +576,7 @@ generatedSilos.push({
 projects.forEach(p => {
   const projectSlugs = [];
   
-  // 1. Core transactional and discovery keywords
+  // 1. Core transactional, discovery, and high-intent buyer keywords
   projectSlugs.push({ slug: `${p.slug}-pune`, keyword: `${p.name} Pune` });
   projectSlugs.push({ slug: `${p.slug}-${slugify(p.location)}`, keyword: `${p.name} ${p.location}` });
   projectSlugs.push({ slug: `${p.slug}-price-list`, keyword: `${p.name} Price List` });
@@ -594,6 +596,11 @@ projects.forEach(p => {
   projectSlugs.push({ slug: `${p.slug}-direct-developer-booking-offers`, keyword: `${p.name} Direct Developer Booking Offers` });
   projectSlugs.push({ slug: `${p.slug}-payment-plans-subvention-scheme`, keyword: `${p.name} Payment Plans & Subvention Scheme` });
   projectSlugs.push({ slug: `${p.slug}-bank-loan-approval-sbi-hdfc`, keyword: `${p.name} Bank Loan Approval SBI HDFC` });
+  projectSlugs.push({ slug: `${p.slug}-resale-flats-inventory`, keyword: `${p.name} Resale Flats & Available Inventory` });
+  projectSlugs.push({ slug: `${p.slug}-ready-possession-towers`, keyword: `${p.name} Ready Possession Towers & Units` });
+  projectSlugs.push({ slug: `${p.slug}-zero-brokerage-booking`, keyword: `${p.name} Zero Brokerage Direct Booking` });
+  projectSlugs.push({ slug: `${p.slug}-360-virtual-tour-walkthrough`, keyword: `${p.name} 360 Virtual Tour Walkthrough` });
+  projectSlugs.push({ slug: `${p.slug}-stamp-duty-registration-calculator`, keyword: `${p.name} Stamp Duty & Registration Calculator` });
 
   // 2. BHK-specific granular permutations
   p.bhks.forEach(bhk => {
@@ -603,6 +610,7 @@ projects.forEach(p => {
     projectSlugs.push({ slug: `${p.slug}-${bhkSlug}-carpet-area`, keyword: `${p.name} ${bhk} Carpet Area` });
     projectSlugs.push({ slug: `${p.slug}-${bhkSlug}-sample-flat`, keyword: `${p.name} ${bhk} Sample Flat` });
     projectSlugs.push({ slug: `buy-${p.slug}-${bhkSlug}-flat`, keyword: `Buy ${p.name} ${bhk} Flat` });
+    projectSlugs.push({ slug: `${p.slug}-${bhkSlug}-cost-sheet`, keyword: `${p.name} ${bhk} All Inclusive Cost Sheet` });
   });
 
   generatedSilos.push({
@@ -631,7 +639,10 @@ microMarkets.forEach(m => {
       { slug: `under-construction-projects-${m.slug}-pune`, keyword: `Under Construction Projects in ${m.name} Pune` },
       { slug: `ready-possession-flats-${m.slug}-pune`, keyword: `Ready Possession Flats in ${m.name} Pune` },
       { slug: `property-investment-in-${m.slug}-pune-roi`, keyword: `Property Investment in ${m.name} Pune ROI` },
-      { slug: `real-estate-price-trends-${m.slug}-pune`, keyword: `Real Estate Price Trends in ${m.name} Pune` }
+      { slug: `real-estate-price-trends-${m.slug}-pune`, keyword: `Real Estate Price Trends in ${m.name} Pune` },
+      { slug: `top-luxury-projects-in-${m.slug}-pune`, keyword: `Top Luxury Projects in ${m.name} Pune` },
+      { slug: `best-gated-community-flats-${m.slug}`, keyword: `Best Gated Community Flats in ${m.name}` },
+      { slug: `vtp-new-launch-in-${m.slug}-pune`, keyword: `VTP New Launch in ${m.name} Pune` }
     ]
   });
 });
@@ -648,12 +659,48 @@ generatedSilos.push({
     { slug: "flats-near-hinjewadi-phase-3-tech-zone", keyword: "Flats Near Hinjewadi Phase 3 Tech Zone" },
     { slug: "flats-near-eon-it-park-kharadi", keyword: "Flats Near EON IT Park Kharadi" },
     { slug: "flats-near-world-trade-center-wtc-kharadi", keyword: "Flats Near World Trade Center WTC Kharadi" },
+    { slug: "flats-near-international-tech-park-itpp-kharadi", keyword: "Flats Near International Tech Park ITPP Kharadi" },
     { slug: "flats-near-commerzone-yerawada-kharadi", keyword: "Flats Near Commerzone Yerawada Kharadi" },
     { slug: "flats-near-magarpatta-cybercity-hadapsar", keyword: "Flats Near Magarpatta Cybercity Hadapsar" },
     { slug: "flats-near-sp-infocity-phursungi-hadapsar", keyword: "Flats Near SP Infocity Phursungi Hadapsar" },
     { slug: "flats-near-pune-metro-line-3-stations", keyword: "Flats Near Pune Metro Line 3 Stations" },
     { slug: "flats-near-mumbai-pune-expressway-gateway", keyword: "Flats Near Mumbai Pune Expressway Gateway" },
+    { slug: "flats-near-pune-ring-road-corridor", keyword: "Flats Near Pune Ring Road Corridor" },
     { slug: "walk-to-work-apartments-pune-it-corridor", keyword: "Walk to Work Apartments Pune IT Corridor" }
+  ]
+});
+
+// Silo: Mega Townships Ecosystem
+generatedSilos.push({
+  id: "township-living-pune",
+  title: "VTP Mega Integrated Townships in Pune",
+  description: "Experience 100+ to 200+ acre master-planned mega integrated townships in Pune by VTP Realty. Riverfront living, high-street shopping, international sports academies, and MLA architecture.",
+  slugs: [
+    { slug: "vtp-blue-waters-township-mahalunge-hinjewadi", keyword: "VTP Blue Waters Township Mahalunge Hinjewadi" },
+    { slug: "township-pegasus-kharadi-new-kharadi", keyword: "Township Pegasus Kharadi New Kharadi" },
+    { slug: "township-skylights-baner-sus-pune", keyword: "Township Skylights Baner Sus Pune" },
+    { slug: "200-acre-integrated-township-pune", keyword: "200 Acre Integrated Township Pune" },
+    { slug: "riverfront-luxury-apartments-pune", keyword: "Riverfront Luxury Apartments Pune" },
+    { slug: "township-apartments-with-sports-academy-pune", keyword: "Township Apartments with Sports Academy Pune" },
+    { slug: "high-street-retail-residential-township-pune", keyword: "High Street Retail Residential Township Pune" },
+    { slug: "best-township-projects-in-pune-to-live", keyword: "Best Township Projects in Pune to Live" }
+  ]
+});
+
+// Silo: Commercial, Office & High-Street Retail
+generatedSilos.push({
+  id: "commercial-retail-offices-pune",
+  title: "VTP Commercial Offices & High-Street Retail Pune",
+  description: "Invest in Grade A commercial office spaces, high-street retail shops, and pre-leased commercial assets across Wakad, Baner, Kharadi, and Hinjewadi by VTP Realty.",
+  slugs: [
+    { slug: "vtp-altitude-wakad-commercial-office-space", keyword: "VTP Altitude Wakad Commercial Office Space" },
+    { slug: "vtp-trade-park-commercial-shops-pune", keyword: "VTP Trade Park Commercial Shops Pune" },
+    { slug: "vtp-kp-square-kharadi-commercial", keyword: "VTP KP Square Kharadi Commercial" },
+    { slug: "vtp-marketplace-high-street-retail-pune", keyword: "VTP Marketplace High Street Retail Pune" },
+    { slug: "buy-commercial-office-space-in-wakad-pune", keyword: "Buy Commercial Office Space in Wakad Pune" },
+    { slug: "pre-leased-commercial-property-pune-roi", keyword: "Pre Leased Commercial Property Pune ROI" },
+    { slug: "high-street-retail-shops-for-sale-pune", keyword: "High Street Retail Shops for Sale Pune" },
+    { slug: "grade-a-office-space-for-investment-pune", keyword: "Grade A Office Space for Investment Pune" }
   ]
 });
 
@@ -681,7 +728,9 @@ generatedSilos.push({
     { slug: "vtp-vs-lodha-pune", keyword: "VTP vs Lodha Pune" },
     { slug: "vtp-vs-amanora-pune", keyword: "VTP vs Amanora Pune" },
     { slug: "vtp-vs-shapoorji-pallonji-pune", keyword: "VTP vs Shapoorji Pallonji Pune" },
-    { slug: "vtp-vs-kohinoor-group-pune", keyword: "VTP vs Kohinoor Group Pune" }
+    { slug: "vtp-vs-kohinoor-group-pune", keyword: "VTP vs Kohinoor Group Pune" },
+    { slug: "vtp-vs-rohan-builders-pune", keyword: "VTP vs Rohan Builders Pune" },
+    { slug: "vtp-vs-gera-developments-pune", keyword: "VTP vs Gera Developments Pune" }
   ]
 });
 
@@ -700,6 +749,7 @@ generatedSilos.push({
     { slug: "5-bhk-penthouse-and-duplex-pune", keyword: "5 BHK Penthouse and Duplex Pune" },
     { slug: "gated-community-luxury-villas-pune", keyword: "Gated Community Luxury Villas Pune" },
     { slug: "simplex-duplex-mansions-pune-vtp", keyword: "Simplex Duplex Mansions Pune VTP" },
+    { slug: "sky-villas-with-private-terrace-pune", keyword: "Sky Villas with Private Terrace Pune" },
     { slug: "commercial-retail-shops-office-space-pune-vtp", keyword: "Commercial Retail Shops & Office Space Pune VTP" }
   ]
 });
@@ -717,7 +767,9 @@ generatedSilos.push({
     { slug: "commercial-real-estate-investment-pune-vtp", keyword: "Commercial Real Estate Investment Pune VTP" },
     { slug: "vtp-realty-stamp-duty-gst-registration-offers", keyword: "VTP Realty Stamp Duty GST Registration Offers" },
     { slug: "home-loan-interest-rates-and-emi-calculator-vtp", keyword: "Home Loan Interest Rates and EMI Calculator VTP" },
-    { slug: "tax-benefits-on-property-investment-section-54f-pune", keyword: "Tax Benefits on Property Investment Section 54F Pune" }
+    { slug: "tax-benefits-on-property-investment-section-54f-pune", keyword: "Tax Benefits on Property Investment Section 54F Pune" },
+    { slug: "nri-dubai-usa-singapore-pune-property-investment", keyword: "NRI Dubai USA Singapore Pune Property Investment" },
+    { slug: "fema-guidelines-for-nri-property-purchase-in-pune", keyword: "FEMA Guidelines for NRI Property Purchase in Pune" }
   ]
 });
 
@@ -736,6 +788,7 @@ generatedSilos.push({
     { slug: "vtp-flat-direct-booking-discount-offers", keyword: "VTP Flat Direct Booking Discount Offers" },
     { slug: "vtp-monarque-possession-date-kya-hai", keyword: "VTP Monarque Possession Date Kya Hai" },
     { slug: "pune-mein-rera-approved-best-township", keyword: "Pune Mein RERA Approved Best Township" },
+    { slug: "vtp-blue-waters-me-flat-ka-price-kitna-hai", keyword: "VTP Blue Waters Me Flat Ka Price Kitna Hai" },
 
     // Marathi High Intent
     { slug: "vtp-realty-pune-marathi-mahiti", keyword: "व्हीटीपी रिअल्टी पुणे माहिती" },
@@ -745,7 +798,8 @@ generatedSilos.push({
     { slug: "pune-property-guntavnuk-top-projects", keyword: "पुणे प्रॉपर्टी गुंतवणूक टॉप प्रोजेक्ट्स" },
     { slug: "vtp-flat-booking-offers-marathi", keyword: "व्हीटीपी फ्लॅट बुकिंग ऑफर्स" },
     { slug: "vtp-cielo-bavdhan-marathi-review", keyword: "व्हीटीपी सिएलो बावधन रिव्ह्यू" },
-    { slug: "pune-madhe-ghar-ghyanyasathi-uttam-project", keyword: "पुणे मध्ये घर घेण्यासाठी उत्तम प्रोजेक्ट" }
+    { slug: "pune-madhe-ghar-ghyanyasathi-uttam-project", keyword: "पुणे मध्ये घर घेण्यासाठी उत्तम प्रोजेक्ट" },
+    { slug: "vtp-earth-one-mahalunge-marathi-mahiti", keyword: "व्हीटीपी अर्थ वन महाळुंगे माहिती" }
   ]
 });
 
