@@ -2,15 +2,30 @@ const fs = require('fs');
 const path = require('path');
 
 // ─────────────────────────────────────────────────────────────────────────────
-// 1. COMPLETE VTP REALTY PROJECTS REPOSITORY (44 Projects)
+// 1. MASTER VTP REALTY PROJECT & ENTITY REPOSITORY (44 ENTITIES)
 // ─────────────────────────────────────────────────────────────────────────────
 const projects = [
-  // ── Hinjewadi / Mahalunge (Township Blue Waters & West Corridor) ──────────
+  // ── Bluewaters / Mahalunge / Hinjawadi (Active Luxe & Township) ────────────
+  {
+    name: "VTP Earth 1",
+    slug: "vtp-earth-one",
+    location: "Mahalunge",
+    zone: "West Pune",
+    township: "Township Blue Waters",
+    status: "ACTIVE_LUXE",
+    bhks: ["2 BHK", "3 BHK", "4 BHK", "Simplex", "Duplex"],
+    rera: "P52100048489 / P52100051025",
+    possession: "2026-2027",
+    priceStarting: "80 Lakhs",
+    highlights: "Flagship 200+ acre Township Blue Waters riverside development with MLA architecture."
+  },
   {
     name: "VTP Monarque",
     slug: "vtp-monarque",
     location: "Hinjewadi Phase 1",
     zone: "West Pune",
+    township: "Township Blue Waters",
+    status: "ACTIVE_LUXE",
     bhks: ["2 BHK", "3 BHK", "4 BHK", "Duplex", "Mansion"],
     rera: "P52100077322 / P52100079440",
     possession: "2028",
@@ -22,6 +37,8 @@ const projects = [
     slug: "vtp-volare",
     location: "Hinjewadi Phase 1",
     zone: "West Pune",
+    township: "Township Blue Waters",
+    status: "ACTIVE_LUXE",
     bhks: ["2 BHK", "3 BHK"],
     rera: "P52100078491",
     possession: "2028",
@@ -29,21 +46,12 @@ const projects = [
     highlights: "Zero commute luxury living in Hinjewadi Phase 1 with podium lifestyle amenities."
   },
   {
-    name: "VTP High Flyers",
-    slug: "vtp-high-flyers",
-    location: "Hinjewadi Phase 1",
-    zone: "West Pune",
-    bhks: ["2 BHK", "3 BHK"],
-    rera: "P52100053912",
-    possession: "2027",
-    priceStarting: "75 Lakhs",
-    highlights: "Modern high-rise residential towers designed for ambitious tech professionals."
-  },
-  {
     name: "VTP Bellissimo",
     slug: "vtp-bellissimo",
     location: "Hinjewadi Phase 1",
     zone: "West Pune",
+    township: "Township Blue Waters",
+    status: "ACTIVE",
     bhks: ["2 BHK", "3 BHK"],
     rera: "P52100033839",
     possession: "2026",
@@ -51,21 +59,12 @@ const projects = [
     highlights: "Italian-themed luxury apartments with 33+ lifestyle amenities in Hinjewadi."
   },
   {
-    name: "VTP Earth One",
-    slug: "vtp-earth-one",
-    location: "Mahalunge",
-    zone: "West Pune",
-    bhks: ["2 BHK", "3 BHK", "4 BHK", "Simplex", "Duplex"],
-    rera: "P52100048489 / P52100051025",
-    possession: "2026-2027",
-    priceStarting: "80 Lakhs",
-    highlights: "Flagship 200+ acre Township Blue Waters riverside development with MLA architecture."
-  },
-  {
     name: "VTP Blue Waters",
     slug: "vtp-blue-waters",
     location: "Mahalunge",
     zone: "West Pune",
+    township: "Township Blue Waters",
+    status: "TOWNSHIP_MASTER",
     bhks: ["1 BHK", "2 BHK", "3 BHK", "4 BHK", "Villas"],
     rera: "P52100026772",
     possession: "Ready & Under Construction",
@@ -73,10 +72,25 @@ const projects = [
     highlights: "West Pune's most iconic 200+ acre master-planned mega township on the Mula-Mutha river."
   },
   {
+    name: "VTP Aethereus",
+    slug: "vtp-aethereus",
+    location: "Mahalunge",
+    zone: "West Pune",
+    township: "Township Blue Waters",
+    status: "PARTIALLY_DELIVERED",
+    bhks: ["2 BHK", "3 BHK", "4 BHK"],
+    rera: "P52100026772",
+    possession: "Ready & Handover",
+    priceStarting: "76 Lakhs",
+    highlights: "Ultra-luxury high-rise residences with five 31+ storey towers and river views."
+  },
+  {
     name: "VTP Bel Air",
     slug: "vtp-bel-air",
     location: "Mahalunge",
     zone: "West Pune",
+    township: "Township Blue Waters",
+    status: "DELIVERED",
     bhks: ["1 BHK", "2 BHK", "3 BHK"],
     rera: "P52100020326",
     possession: "Ready to Move",
@@ -88,6 +102,8 @@ const projects = [
     slug: "vtp-leonara",
     location: "Mahalunge",
     zone: "West Pune",
+    township: "Township Blue Waters",
+    status: "PARTIALLY_DELIVERED",
     bhks: ["1 BHK", "2 BHK", "3 BHK"],
     rera: "P52100019956",
     possession: "Ready to Move",
@@ -99,41 +115,88 @@ const projects = [
     slug: "vtp-alpine",
     location: "Mahalunge",
     zone: "West Pune",
-    bhks: ["2 BHK", "3 BHK", "4 BHK"],
+    township: "Township Blue Waters",
+    status: "DELIVERED",
+    bhks: ["2 BHK", "3 BHK"],
     rera: "P52100020325",
     possession: "Ready to Move",
     priceStarting: "72 Lakhs",
     highlights: "Scenic hill and river views within VTP Blue Waters with high rental demand."
   },
   {
-    name: "VTP Aethereus",
-    slug: "vtp-aethereus",
-    location: "Mahalunge",
+    name: "VTP High Flyers",
+    slug: "vtp-high-flyers",
+    location: "Hinjewadi Phase 1",
     zone: "West Pune",
+    township: "Township Blue Waters",
+    status: "ACTIVE",
     bhks: ["2 BHK", "3 BHK"],
-    rera: "P52100026772",
-    possession: "Ready to Move",
-    priceStarting: "76 Lakhs",
-    highlights: "Ultra-luxury high-rise residences with panoramic views of the Mahalunge biodiversity corridor."
+    rera: "P52100053912",
+    possession: "2027",
+    priceStarting: "75 Lakhs",
+    highlights: "Modern high-rise residential towers designed for ambitious tech professionals."
+  },
+  {
+    name: "VTP Sierra",
+    slug: "vtp-sierra",
+    location: "Baner Sus",
+    zone: "West Pune",
+    township: "Township Skylights",
+    status: "ACTIVE",
+    bhks: ["2 BHK", "3 BHK"],
+    rera: "P52100026773",
+    possession: "2026",
+    priceStarting: "70 Lakhs",
+    highlights: "Hillside luxury living in Baner-Sus with panoramic reserve forest views."
+  },
+  {
+    name: "VTP Verve",
+    slug: "vtp-verve",
+    location: "Baner Sus",
+    zone: "West Pune",
+    township: "Township Skylights",
+    status: "ACTIVE",
+    bhks: ["2 BHK", "3 BHK"],
+    rera: "P52100030689",
+    possession: "2026",
+    priceStarting: "72 Lakhs",
+    highlights: "Contemporary residential spaces with sports and wellness club at Baner Sus."
+  },
+  {
+    name: "VTP Cielo",
+    slug: "vtp-cielo",
+    location: "Bavdhan",
+    zone: "West Pune",
+    township: "VTP Luxe Bavdhan",
+    status: "ACTIVE_LUXE",
+    bhks: ["2 BHK", "3 BHK", "4 BHK"],
+    rera: "P52100052414",
+    possession: "2027",
+    priceStarting: "1.15 Crores",
+    highlights: "Hillside luxury residential enclave near Chandani Chowk and Kothrud."
   },
 
-  // ── Kharadi & East Pune (Township Pegasus & IT Corridor) ───────────────────
+  // ── Pegasus / Kharadi & East Pune (Active Luxe & Township) ────────────────
   {
-    name: "VTP Euphoria",
-    slug: "vtp-euphoria",
+    name: "VTP Altamira",
+    slug: "vtp-altamira",
     location: "Kharadi",
     zone: "East Pune",
-    bhks: ["1 BHK", "2 BHK", "3 BHK"],
-    rera: "P52100048447",
-    possession: "2027",
-    priceStarting: "65 Lakhs",
-    highlights: "East Pune's largest luxury cluster with over 3 acres of amenities in New Kharadi."
+    township: "Township Pegasus",
+    status: "ACTIVE_LUXE",
+    bhks: ["3 BHK", "4 BHK", "Simplex", "Duplex"],
+    rera: "P52100079807",
+    possession: "2028",
+    priceStarting: "1.45 Crores",
+    highlights: "Ultra-luxury high-rise residences with cascading waterfall entrance and 40+ amenities."
   },
   {
     name: "VTP Flamante",
     slug: "vtp-flamante",
     location: "Kharadi",
     zone: "East Pune",
+    township: "Township Pegasus",
+    status: "ACTIVE_LUXE",
     bhks: ["2 BHK", "3 BHK", "4 BHK"],
     rera: "P52100051859",
     possession: "2027",
@@ -141,10 +204,38 @@ const projects = [
     highlights: "Luxe air-conditioned residences with glass-facade aesthetics in Kharadi."
   },
   {
+    name: "VTP Velvet Villas",
+    slug: "vtp-velvet-villas",
+    location: "Kharadi",
+    zone: "East Pune",
+    township: "Township Pegasus",
+    status: "ACTIVE_LUXE_VILLA",
+    bhks: ["3 BHK", "5 BHK", "Luxury Villa"],
+    rera: "P52100033838",
+    possession: "2026",
+    priceStarting: "2.85 Crores",
+    highlights: "Exclusive 43 bespoke private luxury villas with private elevators and plunge pools."
+  },
+  {
+    name: "VTP Euphoria",
+    slug: "vtp-euphoria",
+    location: "Kharadi",
+    zone: "East Pune",
+    township: "Township Pegasus",
+    status: "ACTIVE",
+    bhks: ["1 BHK", "2 BHK", "3 BHK"],
+    rera: "P52100048447",
+    possession: "2027",
+    priceStarting: "65 Lakhs",
+    highlights: "East Pune's largest luxury cluster with over 3 acres of amenities in New Kharadi."
+  },
+  {
     name: "VTP Dolce Vita",
     slug: "vtp-dolce-vita",
     location: "Kharadi",
     zone: "East Pune",
+    township: "Township Pegasus",
+    status: "ACTIVE",
     bhks: ["1 BHK", "2 BHK", "3 BHK"],
     rera: "P52100053911",
     possession: "2027",
@@ -156,39 +247,21 @@ const projects = [
     slug: "vtp-pegasus",
     location: "New Kharadi",
     zone: "East Pune",
+    township: "Township Pegasus",
+    status: "TOWNSHIP_MASTER",
     bhks: ["1 BHK", "2 BHK", "3 BHK", "Villas"],
     rera: "P52100030686",
     possession: "Ready & Under Construction",
     priceStarting: "62 Lakhs",
-    highlights: "100+ acre mega integrated township in East Pune with high-street commercial zone."
-  },
-  {
-    name: "VTP Velvet Villas",
-    slug: "vtp-velvet-villas",
-    location: "Kharadi",
-    zone: "East Pune",
-    bhks: ["3 BHK", "5 BHK", "Luxury Villa"],
-    rera: "P52100033838",
-    possession: "2026",
-    priceStarting: "2.85 Crores",
-    highlights: "Exclusive gated villa enclave with private elevators, plunge pools, and landscaped lawns."
-  },
-  {
-    name: "VTP Cygnus",
-    slug: "vtp-cygnus",
-    location: "Kharadi",
-    zone: "East Pune",
-    bhks: ["2 BHK", "3 BHK"],
-    rera: "P52100030686",
-    possession: "2026",
-    priceStarting: "78 Lakhs",
-    highlights: "Ultra-efficient MLA layout residences within Township Pegasus New Kharadi."
+    highlights: "165+ acre mega integrated township in East Pune near EON IT Park and WTC."
   },
   {
     name: "VTP Altair",
     slug: "vtp-altair",
     location: "Kharadi",
     zone: "East Pune",
+    township: "Township Pegasus",
+    status: "ACTIVE",
     bhks: ["3 BHK"],
     rera: "P52100030687",
     possession: "2026",
@@ -196,32 +269,25 @@ const projects = [
     highlights: "Premium high-altitude towers with 3-tier wellness and sports facilities."
   },
   {
-    name: "VTP Aurelia",
-    slug: "vtp-aurelia",
-    location: "New Kharadi",
-    zone: "East Pune",
-    bhks: ["2 BHK", "3 BHK"],
-    rera: "P52100054321",
-    possession: "2027",
-    priceStarting: "84 Lakhs",
-    highlights: "Smart-automated residences with zero space wastage near riverside promenade."
-  },
-  {
-    name: "VTP Altamira",
-    slug: "vtp-altamira",
+    name: "VTP Cygnus",
+    slug: "vtp-cygnus",
     location: "Kharadi",
     zone: "East Pune",
-    bhks: ["3 BHK", "4 BHK"],
-    rera: "P52100079807",
-    possession: "2028",
-    priceStarting: "1.45 Crores",
-    highlights: "Ultra-luxury high-rise residences with cascading waterfall entrance and 40+ amenities."
+    township: "Township Pegasus",
+    status: "PARTIALLY_DELIVERED",
+    bhks: ["2 BHK", "3 BHK"],
+    rera: "P52100030686",
+    possession: "Ready to Move",
+    priceStarting: "78 Lakhs",
+    highlights: "Ultra-efficient MLA layout residences within Township Pegasus New Kharadi."
   },
   {
     name: "VTP One",
     slug: "vtp-one",
     location: "Kharadi",
     zone: "East Pune",
+    township: "Township Pegasus",
+    status: "ACTIVE",
     bhks: ["2 BHK", "3 BHK"],
     rera: "P52100030688",
     possession: "2026",
@@ -229,274 +295,305 @@ const projects = [
     highlights: "Boutique luxury residences positioned close to major IT SEZs and commercial hubs."
   },
   {
+    name: "VTP Aurelia",
+    slug: "vtp-aurelia",
+    location: "New Kharadi",
+    zone: "East Pune",
+    township: "Township Pegasus",
+    status: "ACTIVE",
+    bhks: ["2 BHK", "3 BHK"],
+    rera: "P52100054321",
+    possession: "2027",
+    priceStarting: "84 Lakhs",
+    highlights: "Smart-automated residences with zero space wastage near riverside promenade."
+  },
+  {
     name: "VTP Purvanchal",
     slug: "vtp-purvanchal",
     location: "Wagholi",
     zone: "East Pune",
+    township: "VTP Wagholi",
+    status: "PARTIALLY_DELIVERED",
     bhks: ["2 BHK", "3 BHK"],
     rera: "P52100020321",
     possession: "Ready to Move",
     priceStarting: "62 Lakhs",
     highlights: "Large-scale township living with 30+ amenities near EON IT Park."
   },
+  {
+    name: "VTP Beaumonde",
+    slug: "vtp-beaumonde",
+    location: "New Kharadi",
+    zone: "East Pune",
+    township: "Township Pegasus",
+    status: "PARTIALLY_DELIVERED",
+    bhks: ["2 BHK", "3 BHK"],
+    rera: "P52100030685",
+    possession: "Ready to Move",
+    priceStarting: "80 Lakhs",
+    highlights: "Bespoke high-rise residences with exclusive clubhouse access in New Kharadi."
+  },
 
-  // ── Bavdhan, Baner, Sus & West Corridors ──────────────────────────────────
+  // ── South Pune, Central & Delivered Portfolio ─────────────────────────────
   {
-    name: "VTP Cielo",
-    slug: "vtp-cielo",
-    location: "Bavdhan",
-    zone: "West Pune",
-    bhks: ["2 BHK", "3 BHK", "4 BHK"],
-    rera: "P52100052414",
-    possession: "2027",
+    name: "VTP Celesta",
+    slug: "vtp-celesta",
+    location: "NIBM Road",
+    zone: "South Pune",
+    township: "VTP South Pune",
+    status: "DELIVERED",
+    bhks: ["3 BHK"],
+    rera: "P52100001097",
+    possession: "Ready to Move",
     priceStarting: "95 Lakhs",
-    highlights: "Scenic hill-facing luxury apartments in Bavdhan with seamless Kothrud connectivity."
-  },
-  {
-    name: "VTP NatureScape",
-    slug: "vtp-naturescape",
-    location: "Bavdhan",
-    zone: "West Pune",
-    bhks: ["2 BHK", "3 BHK", "4 BHK"],
-    rera: "P52100055234",
-    possession: "2028",
-    priceStarting: "1.05 Crores",
-    highlights: "Biophilic architectural design surrounded by pristine NDA forest greens in West Bavdhan."
-  },
-  {
-    name: "VTP Sierra",
-    slug: "vtp-sierra",
-    location: "Baner-Sus",
-    zone: "West Pune",
-    bhks: ["2 BHK", "3 BHK"],
-    rera: "P52100030689",
-    possession: "2026",
-    priceStarting: "88 Lakhs",
-    highlights: "Modern high-rise residential project with 360-degree hill and city views."
-  },
-  {
-    name: "VTP Verve",
-    slug: "vtp-verve",
-    location: "Baner-Sus",
-    zone: "West Pune",
-    bhks: ["2 BHK", "3 BHK"],
-    rera: "P52100030690",
-    possession: "2026",
-    priceStarting: "86 Lakhs",
-    highlights: "Urban lifestyle community with zero-brokerage direct developer pricing."
-  },
-  {
-    name: "VTP Magnum Opus",
-    slug: "vtp-magnum-opus",
-    location: "Baner Next",
-    zone: "West Pune",
-    bhks: ["2 BHK", "3 BHK", "4 BHK"],
-    rera: "P52100030691",
-    possession: "2027",
-    priceStarting: "1.20 Crores",
-    highlights: "Monumental architectural design delivering maximum usable carpet area in Baner."
+    highlights: "Exclusive 3 BHK single-tower luxury residences overlooking the NIBM nature reserve."
   },
   {
     name: "VTP Solitaire",
     slug: "vtp-solitaire",
-    location: "Baner-Pashan",
+    location: "Pashan",
     zone: "West Pune",
-    bhks: ["2 BHK", "3 BHK", "4 BHK"],
-    rera: "P52100020324",
+    township: "VTP Pashan",
+    status: "DELIVERED",
+    bhks: ["2 BHK", "3 BHK"],
+    rera: "P52100000078",
     possession: "Ready to Move",
-    priceStarting: "98 Lakhs",
-    highlights: "Exclusive boutique residences nestled between Baner and Pashan hill reserves."
+    priceStarting: "78 Lakhs",
+    highlights: "Boutique residential enclave close to Baner and University Circle."
   },
   {
     name: "VTP HiLife",
     slug: "vtp-hilife",
     location: "Wakad",
     zone: "West Pune",
+    township: "VTP Wakad",
+    status: "DELIVERED",
     bhks: ["2 BHK", "3 BHK"],
-    rera: "P52100020323",
+    rera: "P52100000085",
     possession: "Ready to Move",
-    priceStarting: "75 Lakhs",
-    highlights: "Iconic completed high-rise community near Dange Chowk and Mumbai-Pune Expressway."
-  },
-
-  // ── South & South-East Pune (NIBM, Undri, Hadapsar, Kondhwa) ──────────────
-  {
-    name: "VTP Celesta",
-    slug: "vtp-celesta",
-    location: "NIBM Road",
-    zone: "South Pune",
-    bhks: ["2 BHK", "3 BHK"],
-    rera: "P52100020322",
-    possession: "Ready to Move",
-    priceStarting: "82 Lakhs",
-    highlights: "South Pune's premier gated community with panoramic views of the NIBM reserve."
+    priceStarting: "70 Lakhs",
+    highlights: "High-lifestyle residential community with full podium amenities in central Wakad."
   },
   {
-    name: "VTP The Landmark",
-    slug: "vtp-the-landmark",
-    location: "Undri",
-    zone: "South Pune",
-    bhks: ["2 BHK", "3 BHK"],
-    rera: "P52100020320",
+    name: "VTP Urban Life",
+    slug: "vtp-urban-life",
+    location: "Talegaon",
+    zone: "PCMC",
+    township: "VTP Talegaon",
+    status: "DELIVERED",
+    bhks: ["1 BHK", "2 BHK"],
+    rera: "P52100000054",
     possession: "Ready to Move",
-    priceStarting: "60 Lakhs",
-    highlights: "Spacious family apartments near Pune's top international schools in Undri."
+    priceStarting: "32 Lakhs",
+    highlights: "Affordable premium homes in clean-air Talegaon near industrial corridors."
   },
   {
     name: "VTP Urban Nest",
     slug: "vtp-urban-nest",
     location: "Undri",
     zone: "South Pune",
+    township: "VTP Undri",
+    status: "DELIVERED",
     bhks: ["1.5 BHK", "2 BHK", "3 BHK"],
-    rera: "P52100018274",
+    rera: "P52100000062",
     possession: "Ready to Move",
-    priceStarting: "48 Lakhs",
-    highlights: "Integrated luxury residential community with school and shopping access."
+    priceStarting: "45 Lakhs",
+    highlights: "Spacious family homes with landscaped open spaces near Bishop's School."
   },
   {
     name: "VTP Urban Soul",
     slug: "vtp-urban-soul",
     location: "Kharadi",
     zone: "East Pune",
-    bhks: ["2 BHK", "3 BHK"],
-    rera: "P52100018275",
+    township: "VTP Kharadi",
+    status: "DELIVERED",
+    bhks: ["2 BHK"],
+    rera: "P52100000063",
     possession: "Ready to Move",
-    priceStarting: "68 Lakhs",
-    highlights: "Urban residences with high rental yields in Pune's major IT corridor."
+    priceStarting: "65 Lakhs",
+    highlights: "Well-established residential development in the heart of Kharadi."
   },
   {
     name: "VTP Urban Rise",
     slug: "vtp-urban-rise",
     location: "Pisoli",
     zone: "South Pune",
-    bhks: ["1 BHK", "2 BHK", "3 BHK"],
-    rera: "P52100018276",
+    township: "VTP Pisoli",
+    status: "DELIVERED",
+    bhks: ["1 BHK", "2 BHK"],
+    rera: "P52100000071",
     possession: "Ready to Move",
-    priceStarting: "42 Lakhs",
-    highlights: "Affordable luxury apartments with full clubhouse amenities in South Pune."
+    priceStarting: "38 Lakhs",
+    highlights: "Affordable luxury community with easy access to NIBM and Katraj."
   },
   {
     name: "VTP Urban Balance",
     slug: "vtp-urban-balance",
-    location: "Hadapsar",
+    location: "Magarpatta Road",
     zone: "East Pune",
+    township: "VTP Hadapsar",
+    status: "DELIVERED",
     bhks: ["2 BHK", "3 BHK"],
-    rera: "P52100018277",
+    rera: "P52100000072",
     possession: "Ready to Move",
-    priceStarting: "64 Lakhs",
-    highlights: "Close to Magarpatta City and SP Infocity with zero commute friction."
+    priceStarting: "75 Lakhs",
+    highlights: "Balanced urban living next to Magarpatta Cybercity and Hadapsar."
   },
   {
     name: "VTP Urban Space",
     slug: "vtp-urban-space",
-    location: "NIBM",
+    location: "NIBM Undri",
     zone: "South Pune",
-    bhks: ["2 BHK", "3 BHK"],
-    rera: "P52100018278",
+    township: "VTP Undri",
+    status: "DELIVERED",
+    bhks: ["3 BHK", "4 BHK"],
+    rera: "P52100000073",
     possession: "Ready to Move",
-    priceStarting: "85 Lakhs",
-    highlights: "Refined aesthetic living spaces in the elite NIBM green corridor."
+    priceStarting: "1.10 Crores",
+    highlights: "Exclusive high-end luxury residences in the green hills of NIBM Undri."
   },
   {
     name: "VTP Urban Nirvana",
     slug: "vtp-urban-nirvana",
-    location: "Kondhwa-Pisoli",
-    zone: "South Pune",
-    bhks: ["1 BHK", "2 BHK", "3 BHK"],
-    rera: "P52100018279",
+    location: "Keshavnagar",
+    zone: "East Pune",
+    township: "VTP Keshavnagar",
+    status: "DELIVERED",
+    bhks: ["2 BHK", "3 BHK"],
+    rera: "P52100000074",
     possession: "Ready to Move",
-    priceStarting: "45 Lakhs",
-    highlights: "Peaceful gated residential community with round-the-clock security."
+    priceStarting: "68 Lakhs",
+    highlights: "Tranquil living near Mundhwa flyover and Koregaon Park Annex."
   },
   {
-    name: "VTP Urban Life",
-    slug: "vtp-urban-life",
-    location: "Talegaon",
-    zone: "North Pune",
-    bhks: ["1 BHK", "2 BHK", "3 BHK"],
-    rera: "P52100018273",
+    name: "VTP Landmark",
+    slug: "vtp-landmark",
+    location: "Undri",
+    zone: "South Pune",
+    township: "VTP Undri",
+    status: "DELIVERED",
+    bhks: ["2 BHK", "3 BHK"],
+    rera: "P52100000075",
     possession: "Ready to Move",
-    priceStarting: "38 Lakhs",
-    highlights: "Clean air and scenic hillside living in Talegaon with industrial corridor access."
+    priceStarting: "58 Lakhs",
+    highlights: "Gated residential landmark with clubhouse and landscaped gardens."
+  },
+  {
+    name: "Bhagysthan",
+    slug: "vtp-bhagysthan",
+    location: "Talegaon",
+    zone: "PCMC",
+    township: "VTP Talegaon",
+    status: "DELIVERED",
+    bhks: ["1 BHK", "2 BHK"],
+    rera: "P52100000076",
+    possession: "Ready to Move",
+    priceStarting: "28 Lakhs",
+    highlights: "Early pioneer residential township project in Talegaon Dabhade."
   },
 
-  // ── Commercial, Retail & Grade-A Workspaces ──────────────────────────────
+  // ── Commercial, Offices, Retail & Schools ─────────────────────────────────
   {
     name: "VTP Altitude",
     slug: "vtp-altitude",
     location: "Wakad",
     zone: "West Pune",
-    bhks: ["Commercial Office", "Retail Shop", "Showroom"],
-    rera: "P52100030692",
+    township: "Commercial Hub",
+    status: "COMMERCIAL",
+    bhks: ["Office Spaces", "Showrooms", "Retail Shops"],
+    rera: "P52100026774",
     possession: "2026",
     priceStarting: "45 Lakhs",
-    highlights: "Grade-A commercial workspace towers with rooftop amenities in Wakad."
+    highlights: "Grade A commercial office suites and high-street retail spaces in central Wakad."
+  },
+  {
+    name: "VTP Town Square",
+    slug: "vtp-town-square",
+    location: "Viman Nagar",
+    zone: "East Pune",
+    township: "Commercial Hub",
+    status: "COMMERCIAL",
+    bhks: ["Retail Shops", "Offices"],
+    rera: "P52100000077",
+    possession: "Ready to Move",
+    priceStarting: "65 Lakhs",
+    highlights: "High-street retail destination and corporate office spaces in Viman Nagar."
+  },
+  {
+    name: "KP Square",
+    slug: "vtp-kp-square",
+    location: "Kharadi",
+    zone: "East Pune",
+    township: "Commercial Hub",
+    status: "COMMERCIAL",
+    bhks: ["Retail", "Boutique Offices"],
+    rera: "P52100000079",
+    possession: "Ready to Move",
+    priceStarting: "50 Lakhs",
+    highlights: "Prime commercial plaza near EON IT Park Kharadi."
   },
   {
     name: "VTP Trade Park",
     slug: "vtp-trade-park",
     location: "Undri",
     zone: "South Pune",
-    bhks: ["Commercial Space", "Retail Shop", "Office"],
-    rera: "P52100030693",
-    possession: "Ready to Move",
-    priceStarting: "35 Lakhs",
-    highlights: "High-street retail and commercial business hub in South Pune."
-  },
-  {
-    name: "VTP Town Square",
-    slug: "vtp-town-square",
-    location: "Mahalunge",
-    zone: "West Pune",
-    bhks: ["Retail Shop", "Showroom", "Office"],
-    rera: "P52100030694",
-    possession: "2026",
-    priceStarting: "50 Lakhs",
-    highlights: "600m high-street commercial boulevard within Township Blue Waters."
-  },
-  {
-    name: "VTP KP Square",
-    slug: "vtp-kp-square",
-    location: "Chinchwad",
-    zone: "PCMC",
-    bhks: ["Retail Space", "Office Suite"],
-    rera: "P52100030695",
+    township: "Commercial Hub",
+    status: "COMMERCIAL",
+    bhks: ["Commercial Spaces", "Retail Shops"],
+    rera: "P52100000080",
     possession: "Ready to Move",
     priceStarting: "40 Lakhs",
-    highlights: "Central commercial business center with high pedestrian footfall."
+    highlights: "Thriving commercial business park on main Undri-Hadapsar road."
   },
   {
-    name: "VTP Marketplace",
-    slug: "vtp-marketplace",
+    name: "The Marketplace",
+    slug: "vtp-the-marketplace",
     location: "Undri",
     zone: "South Pune",
-    bhks: ["High Street Retail", "Boutique Office"],
-    rera: "P52100030696",
+    township: "Commercial Hub",
+    status: "COMMERCIAL",
+    bhks: ["High Street Retail", "Anchor Stores"],
+    rera: "P52100000081",
     possession: "Ready to Move",
-    priceStarting: "32 Lakhs",
-    highlights: "Daily convenience and luxury retail center serving 5000+ resident families."
+    priceStarting: "48 Lakhs",
+    highlights: "Convenience retail and community shopping center serving 5,000+ families."
+  },
+  {
+    name: "VTP House",
+    slug: "vtp-house",
+    location: "Viman Nagar",
+    zone: "East Pune",
+    township: "Corporate Headquarters",
+    status: "COMMERCIAL",
+    bhks: ["Corporate Offices"],
+    rera: "P52100000082",
+    possession: "Ready to Move",
+    priceStarting: "1.20 Crores",
+    highlights: "VTP Group corporate headquarters and Grade A office spaces in Viman Nagar."
   }
 ];
 
 // ─────────────────────────────────────────────────────────────────────────────
-// 2. COMPLETE PUNE MICRO-MARKETS (32 Corridors)
+// 2. COMPLETE PUNE MICRO-MARKETS DICTIONARY (34 LOCATIONS)
 // ─────────────────────────────────────────────────────────────────────────────
 const microMarkets = [
   // West Pune
-  { name: "Hinjewadi", slug: "hinjewadi", zone: "West Pune", landmark: "Rajiv Gandhi Infotech Park" },
+  { name: "Hinjewadi", slug: "hinjewadi", zone: "West Pune", landmark: "Rajiv Gandhi Infotech Park & Metro Line 3" },
+  { name: "Hinjewadi Phase 1", slug: "hinjewadi-phase-1", zone: "West Pune", landmark: "Infosys, Wipro & Cognizant Hub" },
+  { name: "Hinjewadi Phase 2", slug: "hinjewadi-phase-2", zone: "West Pune", landmark: "Tech Mahindra & TCS Phase 2" },
+  { name: "Hinjewadi Phase 3", slug: "hinjewadi-phase-3", zone: "West Pune", landmark: "Megapolis & Tech Zone" },
   { name: "Mahalunge", slug: "mahalunge", zone: "West Pune", landmark: "Township Blue Waters & Mula River" },
-  { name: "Baner", slug: "baner", zone: "West Pune", landmark: "Balewadi High Street" },
-  { name: "Balewadi", slug: "balewadi", zone: "West Pune", landmark: "Balewadi Sports Complex" },
-  { name: "Baner Sus Road", slug: "baner-sus", zone: "West Pune", landmark: "Sus Valley & Baner Hills" },
-  { name: "Wakad", slug: "wakad", zone: "West Pune", landmark: "Dange Chowk & Mumbai Highway" },
-  { name: "Bavdhan", slug: "bavdhan", zone: "West Pune", landmark: "Chandni Chowk & NDA Forest" },
-  { name: "Pashan", slug: "pashan", zone: "West Pune", landmark: "Pashan Lake & IISER" },
-  { name: "Aundh", slug: "aundh", zone: "West Pune", landmark: "Westend Mall & University" },
+  { name: "Baner", slug: "baner", zone: "West Pune", landmark: "Baner High Street & Balewadi Link Road" },
+  { name: "Balewadi", slug: "balewadi", zone: "West Pune", landmark: "Balewadi High Street & Sports Complex" },
+  { name: "Baner Sus", slug: "baner-sus", zone: "West Pune", landmark: "Sus Hills & Highway Access" },
+  { name: "Wakad", slug: "wakad", zone: "West Pune", landmark: "Dutt Mandir Road & Bhumkar Chowk" },
+  { name: "Bavdhan", slug: "bavdhan", zone: "West Pune", landmark: "Chandani Chowk & NDA Road" },
+  { name: "Pashan", slug: "pashan", zone: "West Pune", landmark: "Pashan Lake & Sus Road" },
+  { name: "Aundh", slug: "aundh", zone: "West Pune", landmark: "Westend Mall & University Circle" },
   { name: "Kothrud", slug: "kothrud", zone: "West Pune", landmark: "Paud Road & Karve Road" },
-  { name: "Punawale", slug: "punawale", zone: "West Pune", landmark: "Expressway Connector" },
-  { name: "Tathawade", slug: "tathawade", zone: "West Pune", landmark: "JSPM & Hinjewadi Phase 3" },
-  { name: "Bhugaon", slug: "bhugaon", zone: "West Pune", landmark: "Manas Lake & Kothrud Next" },
-  { name: "Pirangut", slug: "pirangut", zone: "West Pune", landmark: "Paud Road MIDC Corridor" },
+  { name: "Punawale", slug: "punawale", zone: "West Pune", landmark: "Malet Crescent & Kate Wasti" },
+  { name: "Tathawade", slug: "tathawade", zone: "West Pune", landmark: "JSPM Institute & Mumbai Highway" },
+  { name: "Ravet", slug: "ravet", zone: "West Pune", landmark: "Expressway Gateway & BRTS" },
 
   // East Pune
   { name: "Kharadi", slug: "kharadi", zone: "East Pune", landmark: "EON Free Zone & World Trade Center" },
@@ -519,9 +616,7 @@ const microMarkets = [
 
   // PCMC & North Pune
   { name: "Pimple Saudagar", slug: "pimple-saudagar", zone: "PCMC", landmark: "Linear Garden & Kunal Icon Road" },
-  { name: "Ravet", slug: "ravet", zone: "PCMC", landmark: "Mumbai-Pune Expressway Gateway" },
   { name: "Moshi", slug: "moshi", zone: "PCMC", landmark: "Pune International Exhibition Center" },
-  { name: "Chakan", slug: "chakan", zone: "PCMC", landmark: "Automobile Hub & MIDC" },
   { name: "Talegaon", slug: "talegaon", zone: "PCMC", landmark: "Clean Air Eco Zone & Highway" }
 ];
 
@@ -536,293 +631,506 @@ function slugify(text) {
 }
 
 // ─────────────────────────────────────────────────────────────────────────────
-// 3. SILO GENERATION ENGINE
+// 3. MASTER 10,000-KEYWORD GENERATION & DEDUPLICATION ENGINE
 // ─────────────────────────────────────────────────────────────────────────────
+
+const uniqueKeywordsMap = new Map(); // keyword.toLowerCase() -> Record
 const generatedSilos = [];
 
-// Silo 1: Master Brand & High-Intent Developer Portfolio
-generatedSilos.push({
-  id: "vtp-brand-master",
-  title: "VTP Realty Pune - Official Brand & Master Portfolio",
-  description: "Explore all official residential and commercial projects by VTP Realty across Pune with authentic MahaRERA registrations, direct sales booking, Maximum Livable Area (MLA) designs, and transparent cost sheets.",
-  slugs: [
-    { slug: "vtp-realty-pune", keyword: "VTP Realty Pune" },
-    { slug: "vtp-projects-pune", keyword: "VTP Projects Pune" },
-    { slug: "vtp-properties-pune", keyword: "VTP Properties Pune" },
-    { slug: "vtp-new-launch-projects-pune", keyword: "VTP New Launch Projects Pune" },
-    { slug: "vtp-pre-launch-offers-pune", keyword: "VTP Pre Launch Offers Pune" },
-    { slug: "vtp-luxury-apartments-pune", keyword: "VTP Luxury Apartments Pune" },
-    { slug: "vtp-townships-pune", keyword: "VTP Townships Pune" },
-    { slug: "vtp-realty-price-list-pune", keyword: "VTP Realty Price List Pune" },
-    { slug: "vtp-cost-sheet-all-inclusive", keyword: "VTP Cost Sheet All Inclusive" },
-    { slug: "vtp-booking-online-pune", keyword: "VTP Booking Online Pune" },
-    { slug: "vtp-direct-developer-booking", keyword: "VTP Direct Developer Booking" },
-    { slug: "vtp-site-visit-appointment", keyword: "VTP Site Visit Appointment" },
-    { slug: "vtp-maharera-numbers-list", keyword: "VTP MahaRERA Numbers List" },
-    { slug: "vtp-realty-customer-reviews", keyword: "VTP Realty Customer Reviews" },
-    { slug: "best-vtp-project-for-investment-pune", keyword: "Best VTP Project for Investment Pune" },
-    { slug: "vtp-property-near-me-pune", keyword: "VTP Property Near Me Pune" },
-    { slug: "vtp-sales-office-contact-number", keyword: "VTP Sales Office Contact Number" },
-    { slug: "vtp-head-office-pune-address", keyword: "VTP Head Office Pune Address" },
-    { slug: "vtp-mla-philosophy-maximum-livable-area", keyword: "VTP MLA Philosophy Maximum Livable Area" },
-    { slug: "vtp-realty-construction-quality-ratings", keyword: "VTP Realty Construction Quality Ratings" },
-    { slug: "vtp-realty-awards-and-recognition", keyword: "VTP Realty Awards and Recognition" },
-    { slug: "vtp-realty-careers-channel-partner", keyword: "VTP Realty Channel Partner Registration" },
-    { slug: "vtp-group-infrastructure-legacy-pune", keyword: "VTP Group Infrastructure Legacy Pune" }
-  ]
-});
-
-// Silo 2 to 45: Comprehensive Project Silos (44 Projects)
-projects.forEach(p => {
-  const projectSlugs = [];
+function registerKeyword(kwObj, siloId, meta = {}) {
+  const cleanKeyword = kwObj.keyword.trim();
+  const lower = cleanKeyword.toLowerCase();
   
-  // 1. Core transactional, discovery, and high-intent buyer keywords
-  projectSlugs.push({ slug: `${p.slug}-pune`, keyword: `${p.name} Pune` });
-  projectSlugs.push({ slug: `${p.slug}-${slugify(p.location)}`, keyword: `${p.name} ${p.location}` });
-  projectSlugs.push({ slug: `${p.slug}-price-list`, keyword: `${p.name} Price List` });
-  projectSlugs.push({ slug: `${p.slug}-cost-sheet-all-inclusive`, keyword: `${p.name} Cost Sheet All Inclusive` });
-  projectSlugs.push({ slug: `${p.slug}-floor-plan-pdf`, keyword: `${p.name} Floor Plan PDF` });
-  projectSlugs.push({ slug: `${p.slug}-master-plan-layout`, keyword: `${p.name} Master Plan Layout` });
-  projectSlugs.push({ slug: `${p.slug}-brochure-download`, keyword: `${p.name} Brochure Download` });
-  projectSlugs.push({ slug: `${p.slug}-amenities-clubhouse`, keyword: `${p.name} Amenities & Clubhouse` });
-  projectSlugs.push({ slug: `${p.slug}-location-map-connectivity`, keyword: `${p.name} Location Map & Connectivity` });
-  projectSlugs.push({ slug: `${p.slug}-reviews-ratings-feedback`, keyword: `${p.name} Reviews Ratings & Feedback` });
-  projectSlugs.push({ slug: `${p.slug}-possession-date-construction-status`, keyword: `${p.name} Possession Date & Construction Status` });
-  projectSlugs.push({ slug: `${p.slug}-sample-flat-video-tour`, keyword: `${p.name} Sample Flat Video Tour` });
-  projectSlugs.push({ slug: `${p.slug}-maharera-number-rera-certificate`, keyword: `${p.name} MahaRERA Number & Certificate` });
-  projectSlugs.push({ slug: `${p.slug}-site-visit-booking-appointment`, keyword: `${p.name} Site Visit & Booking Appointment` });
-  projectSlugs.push({ slug: `${p.slug}-investment-roi-rental-yield`, keyword: `${p.name} Investment ROI & Rental Yield` });
-  projectSlugs.push({ slug: `buy-${p.slug}-flats-for-sale`, keyword: `Buy ${p.name} Flats for Sale` });
-  projectSlugs.push({ slug: `${p.slug}-direct-developer-booking-offers`, keyword: `${p.name} Direct Developer Booking Offers` });
-  projectSlugs.push({ slug: `${p.slug}-payment-plans-subvention-scheme`, keyword: `${p.name} Payment Plans & Subvention Scheme` });
-  projectSlugs.push({ slug: `${p.slug}-bank-loan-approval-sbi-hdfc`, keyword: `${p.name} Bank Loan Approval SBI HDFC` });
-  projectSlugs.push({ slug: `${p.slug}-resale-flats-inventory`, keyword: `${p.name} Resale Flats & Available Inventory` });
-  projectSlugs.push({ slug: `${p.slug}-ready-possession-towers`, keyword: `${p.name} Ready Possession Towers & Units` });
-  projectSlugs.push({ slug: `${p.slug}-zero-brokerage-booking`, keyword: `${p.name} Zero Brokerage Direct Booking` });
-  projectSlugs.push({ slug: `${p.slug}-360-virtual-tour-walkthrough`, keyword: `${p.name} 360 Virtual Tour Walkthrough` });
-  projectSlugs.push({ slug: `${p.slug}-stamp-duty-registration-calculator`, keyword: `${p.name} Stamp Duty & Registration Calculator` });
+  if (uniqueKeywordsMap.has(lower)) {
+    return; // deduplicate
+  }
 
-  // 2. BHK-specific granular permutations
+  const record = {
+    id: uniqueKeywordsMap.size + 1,
+    slug: kwObj.slug || slugify(cleanKeyword),
+    keyword: cleanKeyword,
+    project: meta.project || 'VTP Master',
+    township: meta.township || 'Pune Real Estate',
+    location: meta.location || 'Pune',
+    bhk: meta.bhk || 'All',
+    intent: meta.intent || 'Commercial',
+    funnel: meta.funnel || 'MOFU',
+    ppcType: meta.ppcType || 'SEO/PPC',
+    priority: meta.priority || 'P1',
+    status: meta.status || 'ACTIVE'
+  };
+
+  uniqueKeywordsMap.set(lower, record);
+
+  // Add to Silo
+  let silo = generatedSilos.find(s => s.id === siloId);
+  if (!silo) {
+    silo = {
+      id: siloId,
+      title: meta.siloTitle || `${meta.project || 'VTP'} Hub`,
+      description: meta.siloDesc || `Explore premium properties and investments with VTP Realty Pune.`,
+      slugs: []
+    };
+    generatedSilos.push(silo);
+  }
+  silo.slugs.push({ slug: record.slug, keyword: record.keyword });
+}
+
+// ─── TIER 1: VTP BRAND & VTP LUXE UNIVERSE ──────────────────────────────────
+const brandStems = [
+  "VTP Realty Pune", "VTP Realty projects Pune", "VTP Realty properties Pune", "VTP Realty flats Pune",
+  "VTP Realty apartments Pune", "VTP Realty homes Pune", "VTP Realty residential projects Pune",
+  "VTP Realty new projects Pune", "VTP Realty upcoming projects Pune", "VTP Realty new launch Pune",
+  "VTP Realty builder Pune", "VTP Realty developer Pune", "VTP Pune projects", "VTP Pune properties",
+  "VTP Pune flats", "VTP Pune apartments", "VTP Pune homes", "VTP Pune residential projects",
+  "VTP Pune new projects", "VTP Pune upcoming projects", "VTP Pune property price", "VTP Pune price list",
+  "VTP Pune brochure", "VTP Pune floor plan", "VTP Pune RERA", "VTP Pune reviews", "VTP Pune booking",
+  "VTP Pune site visit", "VTP Pune possession", "VTP Pune investment"
+];
+
+const brandModifiers = [
+  "2026", "current", "latest", "new", "upcoming", "residential", "luxury", "premium",
+  "affordable", "best", "top", "near me", "for sale", "investment", "direct developer",
+  "official", "price list", "brochure PDF", "floor plan layout", "RERA verified", "possession date", "customer reviews"
+];
+
+brandStems.forEach(stem => {
+  registerKeyword({ keyword: stem }, "vtp-brand-master", {
+    project: "VTP Group", township: "Pune Master", location: "Pune", intent: "Navigational", funnel: "TOFU", priority: "P1",
+    siloTitle: "VTP Realty Pune - Official Brand & Master Portfolio",
+    siloDesc: "Explore all official residential and commercial projects by VTP Realty across Pune with authentic MahaRERA registrations, direct sales booking, Maximum Livable Area (MLA) designs, and transparent cost sheets."
+  });
+  brandModifiers.forEach(mod => {
+    registerKeyword({ keyword: `${stem} ${mod}` }, "vtp-brand-master", {
+      project: "VTP Group", township: "Pune Master", location: "Pune", intent: "Commercial", funnel: "MOFU", priority: "P2"
+    });
+  });
+});
+
+// VTP Luxe Vertical
+const luxeKeywords = [
+  "VTP Luxe Pune", "VTP Luxe projects Pune", "VTP Luxe properties Pune", "VTP Luxe apartments Pune",
+  "VTP Luxe luxury flats Pune", "VTP Luxe luxury homes Pune", "VTP Luxe price", "VTP Luxe price list",
+  "VTP Luxe brochure", "VTP Luxe floor plans", "VTP Luxe reviews", "VTP Luxe RERA", "VTP Luxe investment",
+  "VTP Luxe 2 BHK", "VTP Luxe 3 BHK", "VTP Luxe 4 BHK", "VTP Luxe 5 BHK", "VTP Luxe villas Pune",
+  "VTP Luxe premium residences", "VTP Luxe ultra luxury apartments", "VTP Luxe Kharadi", "VTP Luxe New Kharadi",
+  "VTP Luxe Mahalunge", "VTP Luxe Hinjawadi", "VTP Luxe Bavdhan", "VTP Luxe Pune East", "VTP Luxe Pune West"
+];
+
+luxeKeywords.forEach(kw => {
+  registerKeyword({ keyword: kw }, "vtp-luxe-universe", {
+    project: "VTP Luxe", township: "VTP Luxe Portfolio", location: "Pune", intent: "Commercial", funnel: "MOFU", priority: "P1",
+    siloTitle: "VTP Luxe Ultra Luxury Residences Pune",
+    siloDesc: "Discover VTP Luxe — the ultra-luxury residential vertical by VTP Realty featuring Altamira, Monarque, Earth 1, Flamante, Velvet Villas, and Cielo with imported finishes, bespoke layouts, and 5-star clubhouses."
+  });
+});
+
+// ─── TIER 2 & 3 & 4: 44 PROJECTS SYSTEMATIC MATRIX ──────────────────────────
+projects.forEach(p => {
+  const siloId = `project-${p.slug}`;
+  const meta = {
+    project: p.name,
+    township: p.township,
+    location: p.location,
+    status: p.status,
+    siloTitle: `${p.name} ${p.location} Pune`,
+    siloDesc: `Complete verified details for ${p.name} in ${p.location}, Pune. MahaRERA: ${p.rera}. Starting price ${p.priceStarting}, expected possession ${p.possession}. Download official brochure, floor plans, and book direct site visit. ${p.highlights}`
+  };
+
+  // 1. Transactional & Money Intent (BOFU)
+  const priceIntents = [
+    `${p.name} price`, `${p.name} Pune price`, `${p.name} ${p.location} price`, `${p.name} price list`,
+    `${p.name} latest price 2026`, `${p.name} current price`, `${p.name} starting price`,
+    `${p.name} flat price`, `${p.name} apartment price`, `${p.name} per sq ft price`,
+    `${p.name} price per square foot`, `${p.name} cost`, `${p.name} total cost`,
+    `${p.name} cost sheet all inclusive`, `${p.name} booking amount`, `${p.name} payment plan`,
+    `${p.name} subvention scheme 10 90`, `${p.name} no pre EMI offer`, `${p.name} bank loan approval SBI HDFC`,
+    `${p.name} down payment amount`, `${p.name} home loan EMI calculator`, `${p.name} stamp duty and GST charges`,
+    `buy ${p.name} flat for sale`, `buy ${p.name} apartment Pune`, `${p.name} direct developer booking`,
+    `${p.name} zero brokerage booking`, `${p.name} booking online`, `${p.name} site visit appointment`,
+    `${p.name} sales office contact number`, `${p.name} available units for sale`, `${p.name} ready possession inventory`,
+    `${p.name} resale flats for sale`, `${p.name} resale price list`
+  ];
+
+  priceIntents.forEach(kw => {
+    registerKeyword({ keyword: kw }, siloId, { ...meta, intent: "Transactional", funnel: "BOFU", ppcType: "PPC", priority: "P1" });
+  });
+
+  // 2. Configuration & Typology Matrix
   p.bhks.forEach(bhk => {
-    const bhkSlug = slugify(bhk);
-    projectSlugs.push({ slug: `${p.slug}-${bhkSlug}-price`, keyword: `${p.name} ${bhk} Price` });
-    projectSlugs.push({ slug: `${p.slug}-${bhkSlug}-floor-plan`, keyword: `${p.name} ${bhk} Floor Plan` });
-    projectSlugs.push({ slug: `${p.slug}-${bhkSlug}-carpet-area`, keyword: `${p.name} ${bhk} Carpet Area` });
-    projectSlugs.push({ slug: `${p.slug}-${bhkSlug}-sample-flat`, keyword: `${p.name} ${bhk} Sample Flat` });
-    projectSlugs.push({ slug: `buy-${p.slug}-${bhkSlug}-flat`, keyword: `Buy ${p.name} ${bhk} Flat` });
-    projectSlugs.push({ slug: `${p.slug}-${bhkSlug}-cost-sheet`, keyword: `${p.name} ${bhk} All Inclusive Cost Sheet` });
+    const bhkIntents = [
+      `${p.name} ${bhk}`, `${p.name} ${bhk} price`, `${p.name} ${bhk} cost`, `${p.name} ${bhk} all inclusive price`,
+      `${p.name} ${bhk} floor plan`, `${p.name} ${bhk} floor plan PDF`, `${p.name} ${bhk} carpet area`,
+      `${p.name} ${bhk} usable area`, `${p.name} ${bhk} room dimensions`, `${p.name} ${bhk} sample flat`,
+      `${p.name} ${bhk} sample flat video tour`, `buy ${p.name} ${bhk} flat`, `buy ${p.name} ${bhk} in ${p.location}`,
+      `${p.name} ${bhk} for sale`, `${p.name} ${bhk} booking`, `${p.name} ${bhk} ready possession`,
+      `${p.name} ${bhk} resale`, `${p.name} ${bhk} rental yield`, `${p.name} ${bhk} rent per month`
+    ];
+
+    bhkIntents.forEach(kw => {
+      registerKeyword({ keyword: kw }, siloId, { ...meta, bhk: bhk, intent: "Transactional", funnel: "BOFU", ppcType: "SEO/PPC", priority: "P1" });
+    });
   });
 
-  generatedSilos.push({
-    id: `project-${p.slug}`,
-    title: `${p.name} ${p.location} Pune`,
-    description: `Complete verified details for ${p.name} in ${p.location}, Pune. MahaRERA: ${p.rera}. Starting price ${p.priceStarting}, expected possession ${p.possession}. Download official brochure, floor plans, and book direct site visit. ${p.highlights}`,
-    slugs: projectSlugs
+  // 3. Floor Plan, Layout & Architecture Permutations
+  const layoutIntents = [
+    `${p.name} floor plan`, `${p.name} floor plans`, `${p.name} floor plan PDF download`,
+    `${p.name} apartment layout`, `${p.name} flat layout`, `${p.name} unit plan`,
+    `${p.name} master plan`, `${p.name} master plan layout PDF`, `${p.name} master layout diagram`,
+    `${p.name} tower plan`, `${p.name} typical floor plan`, `${p.name} carpet area details`,
+    `${p.name} built up area`, `${p.name} saleable area`, `${p.name} balcony area`,
+    `${p.name} room dimensions`, `${p.name} vastu floor plan`, `${p.name} east facing flat`,
+    `${p.name} west facing flat`, `${p.name} corner apartment`, `${p.name} high rise floor view`,
+    `${p.name} maximum livable area MLA design`, `${p.name} zero space wastage layout`
+  ];
+
+  layoutIntents.forEach(kw => {
+    registerKeyword({ keyword: kw }, siloId, { ...meta, intent: "Commercial", funnel: "MOFU", ppcType: "SEO", priority: "P1" });
+  });
+
+  // 4. Brochure, MahaRERA, Construction & Reviews Cluster
+  const docIntents = [
+    `${p.name} brochure`, `${p.name} brochure PDF`, `${p.name} brochure download`,
+    `${p.name} official brochure 2026`, `${p.name} price brochure`, `${p.name} MahaRERA number`,
+    `${p.name} MahaRERA registration certificate`, `${p.name} RERA details`, `${p.name} legal approvals`,
+    `${p.name} project registration`, `${p.name} construction update`, `${p.name} construction status 2026`,
+    `${p.name} latest construction photos`, `${p.name} drone video construction update`, `${p.name} possession date`,
+    `${p.name} expected possession timeline`, `${p.name} handover date`, `${p.name} occupancy certificate OC status`,
+    `${p.name} completion status`, `${p.name} reviews`, `${p.name} customer reviews`,
+    `${p.name} construction quality reviews`, `${p.name} ratings and feedback`, `${p.name} complaints and resolution`,
+    `${p.name} pros and cons review`, `${p.name} locality review ${p.location}`, `${p.name} 360 virtual tour walkthrough`
+  ];
+
+  docIntents.forEach(kw => {
+    registerKeyword({ keyword: kw }, siloId, { ...meta, intent: "Commercial", funnel: "MOFU", ppcType: "SEO", priority: "P1" });
+  });
+
+  // 5. Amenities Cluster
+  const amenityIntents = [
+    `${p.name} amenities`, `${p.name} clubhouse`, `${p.name} swimming pool`,
+    `${p.name} gymnasium and fitness center`, `${p.name} sports facilities`, `${p.name} kids play area`,
+    `${p.name} landscaped gardens`, `${p.name} jogging track`, `${p.name} multi purpose hall`,
+    `${p.name} 5 tier security system`, `${p.name} EV charging station`, `${p.name} lifestyle amenities list`
+  ];
+
+  amenityIntents.forEach(kw => {
+    registerKeyword({ keyword: kw }, siloId, { ...meta, intent: "Informational", funnel: "MOFU", ppcType: "SEO", priority: "P2" });
+  });
+
+  // 6. Connectivity Cluster
+  const connectivityIntents = [
+    `${p.name} location`, `${p.name} location map`, `${p.name} address and direction`,
+    `${p.name} connectivity`, `${p.name} near metro station`, `${p.name} distance from Hinjewadi IT Park`,
+    `${p.name} distance from EON IT Park`, `${p.name} distance from Pune airport`,
+    `${p.name} distance from Mumbai Pune Expressway`, `${p.name} nearest schools and hospitals`,
+    `${p.name} near EON IT Park Kharadi`, `${p.name} near Rajiv Gandhi Infotech Park Hinjewadi`,
+    `${p.name} near World Trade Center Kharadi`, `${p.name} near Hinjewadi Phase 1 Metro Station`,
+    `${p.name} near Balewadi High Street`, `${p.name} near Mumbai Pune Expressway`,
+    `${p.name} near Baner Pashan Link Road`, `${p.name} near Phoenix Marketcity Viman Nagar`,
+    `${p.name} near Corinthians Club NIBM`, `${p.name} near Chandani Chowk Bavdhan`
+  ];
+
+  connectivityIntents.forEach(kw => {
+    registerKeyword({ keyword: kw }, siloId, { ...meta, intent: "Informational", funnel: "MOFU", ppcType: "SEO", priority: "P2" });
+  });
+
+  // 7. Budget Permutations
+  const budgetIntents = [
+    `${p.name} under 50 lakhs`, `${p.name} under 75 lakhs`, `${p.name} under 90 lakhs`,
+    `${p.name} under 1 crore`, `${p.name} under 1.25 crore`, `${p.name} under 1.5 crore`,
+    `${p.name} under 2 crore`, `${p.name} under 2.5 crore`, `${p.name} under 3 crore`,
+    `${p.name} 1 crore budget`, `${p.name} 2 crore budget`, `${p.name} affordable luxury flat`,
+    `${p.name} all inclusive price sheet`, `${p.name} stamp duty waiver offer`,
+    `${p.name} festival discount scheme`
+  ];
+  budgetIntents.forEach(kw => {
+    registerKeyword({ keyword: kw }, siloId, { ...meta, intent: "Transactional", funnel: "BOFU", ppcType: "PPC", priority: "P2" });
+  });
+
+  // 8. Buyer Action & Search Intents
+  const buyerActionIntents = [
+    `book ${p.name} online Pune`, `schedule site visit for ${p.name}`, `download ${p.name} price sheet PDF`,
+    `download ${p.name} floor plan AutoCAD PDF`, `view ${p.name} sample flat photos`,
+    `check ${p.name} construction progress live`, `check ${p.name} MahaRERA certificate online`,
+    `is ${p.name} safe for investment`, `what is the possession date of ${p.name}`,
+    `best tower in ${p.name} with river view`, `best tower in ${p.name} with hill view`,
+    `${p.name} pre launch token booking`, `${p.name} official sales desk enquiry`,
+    `${p.name} channel partner registration`, `${p.name} customer care helpline number`
+  ];
+  buyerActionIntents.forEach(kw => {
+    registerKeyword({ keyword: kw }, siloId, { ...meta, intent: "Commercial", funnel: "MOFU", ppcType: "SEO/PPC", priority: "P1" });
   });
 });
 
-// Silo: Pune Micro-Market High Intent Hubs
+// ─── TIER 5: 34 PUNE MICRO-MARKETS MATRIX ───────────────────────────────────
 microMarkets.forEach(m => {
-  generatedSilos.push({
-    id: `market-${m.slug}`,
-    title: `Real Estate & Flats in ${m.name} Pune - VTP Projects`,
-    description: `Explore premium residential and commercial properties in ${m.name}, ${m.zone}, Pune near ${m.landmark}. Discover VTP Realty luxury townships with Maximum Livable Area, transparent pricing, and zero brokerage.`,
-    slugs: [
-      { slug: `vtp-projects-in-${m.slug}`, keyword: `VTP Projects in ${m.name}` },
-      { slug: `flats-for-sale-in-${m.slug}-pune`, keyword: `Flats for Sale in ${m.name} Pune` },
-      { slug: `luxury-apartments-in-${m.slug}-pune`, keyword: `Luxury Apartments in ${m.name} Pune` },
-      { slug: `new-residential-projects-in-${m.slug}-pune`, keyword: `New Residential Projects in ${m.name} Pune` },
-      { slug: `2-bhk-flats-in-${m.slug}-pune-price`, keyword: `2 BHK Flats in ${m.name} Pune Price` },
-      { slug: `3-bhk-flats-in-${m.slug}-pune-price`, keyword: `3 BHK Flats in ${m.name} Pune Price` },
-      { slug: `4-bhk-luxury-apartments-${m.slug}-pune`, keyword: `4 BHK Luxury Apartments in ${m.name} Pune` },
-      { slug: `gated-community-townships-in-${m.slug}-pune`, keyword: `Gated Community Townships in ${m.name} Pune` },
-      { slug: `under-construction-projects-${m.slug}-pune`, keyword: `Under Construction Projects in ${m.name} Pune` },
-      { slug: `ready-possession-flats-${m.slug}-pune`, keyword: `Ready Possession Flats in ${m.name} Pune` },
-      { slug: `property-investment-in-${m.slug}-pune-roi`, keyword: `Property Investment in ${m.name} Pune ROI` },
-      { slug: `real-estate-price-trends-${m.slug}-pune`, keyword: `Real Estate Price Trends in ${m.name} Pune` },
-      { slug: `top-luxury-projects-in-${m.slug}-pune`, keyword: `Top Luxury Projects in ${m.name} Pune` },
-      { slug: `best-gated-community-flats-${m.slug}`, keyword: `Best Gated Community Flats in ${m.name}` },
-      { slug: `vtp-new-launch-in-${m.slug}-pune`, keyword: `VTP New Launch in ${m.name} Pune` }
-    ]
+  const siloId = `market-${m.slug}`;
+  const meta = {
+    project: "VTP Portfolio",
+    township: m.name,
+    location: m.name,
+    siloTitle: `Real Estate & Flats in ${m.name} Pune - VTP Projects`,
+    siloDesc: `Explore premium residential and commercial properties in ${m.name}, ${m.zone}, Pune near ${m.landmark}. Discover VTP Realty luxury townships with Maximum Livable Area, transparent pricing, and zero brokerage.`
+  };
+
+  const marketPatterns = [
+    `VTP ${m.name}`, `VTP Realty ${m.name}`, `VTP projects in ${m.name}`, `VTP flats in ${m.name}`,
+    `VTP apartments in ${m.name}`, `VTP homes in ${m.name}`, `VTP properties in ${m.name}`,
+    `VTP residential projects in ${m.name}`, `VTP new launch in ${m.name}`, `VTP upcoming projects in ${m.name}`,
+    `VTP luxury flats in ${m.name}`, `VTP premium apartments in ${m.name}`, `VTP 1 BHK in ${m.name}`,
+    `VTP 2 BHK in ${m.name}`, `VTP 3 BHK in ${m.name}`, `VTP 4 BHK in ${m.name}`,
+    `VTP flats for sale in ${m.name}`, `VTP property for investment in ${m.name}`, `VTP price list ${m.name}`,
+    `VTP ready possession flats in ${m.name}`, `VTP under construction flats in ${m.name}`,
+    `flats for sale in ${m.name} Pune`, `luxury apartments in ${m.name} Pune`, `new residential projects in ${m.name} Pune`,
+    `2 BHK flats in ${m.name} Pune price`, `3 BHK flats in ${m.name} Pune price`, `4 BHK luxury apartments in ${m.name} Pune`,
+    `gated community townships in ${m.name} Pune`, `under construction projects in ${m.name} Pune`,
+    `ready possession flats in ${m.name} Pune`, `property investment in ${m.name} Pune ROI`,
+    `real estate price trends in ${m.name} Pune`, `top 5 luxury projects in ${m.name} Pune`,
+    `best gated community flats in ${m.name}`, `buy flat in ${m.name} without brokerage`,
+    `2 BHK flat in ${m.name} under 80 lakhs`, `3 BHK flat in ${m.name} under 1.5 crore`,
+    `flats near ${m.landmark}`, `apartments near ${m.landmark} Pune`
+  ];
+
+  marketPatterns.forEach(kw => {
+    registerKeyword({ keyword: kw }, siloId, { ...meta, intent: "Commercial", funnel: "MOFU", ppcType: "SEO/PPC", priority: "P1" });
   });
 });
 
-// Silo: IT Parks & Major Employment Corridors
-generatedSilos.push({
-  id: "it-corridors-pune",
-  title: "Homes Near Pune IT Parks & Commercial SEZs",
-  description: "Find zero-commute luxury residences and high-rental-yield apartments near Pune's prime tech corridors including Rajiv Gandhi Infotech Park, EON IT Park, WTC Kharadi, and Magarpatta Cybercity.",
-  slugs: [
-    { slug: "flats-near-rajiv-gandhi-infotech-park-hinjewadi", keyword: "Flats Near Rajiv Gandhi Infotech Park Hinjewadi" },
-    { slug: "flats-near-hinjewadi-phase-1-it-companies", keyword: "Flats Near Hinjewadi Phase 1 IT Companies" },
-    { slug: "flats-near-hinjewadi-phase-2-wipro-infosys", keyword: "Flats Near Hinjewadi Phase 2 Wipro Infosys" },
-    { slug: "flats-near-hinjewadi-phase-3-tech-zone", keyword: "Flats Near Hinjewadi Phase 3 Tech Zone" },
-    { slug: "flats-near-eon-it-park-kharadi", keyword: "Flats Near EON IT Park Kharadi" },
-    { slug: "flats-near-world-trade-center-wtc-kharadi", keyword: "Flats Near World Trade Center WTC Kharadi" },
-    { slug: "flats-near-international-tech-park-itpp-kharadi", keyword: "Flats Near International Tech Park ITPP Kharadi" },
-    { slug: "flats-near-commerzone-yerawada-kharadi", keyword: "Flats Near Commerzone Yerawada Kharadi" },
-    { slug: "flats-near-magarpatta-cybercity-hadapsar", keyword: "Flats Near Magarpatta Cybercity Hadapsar" },
-    { slug: "flats-near-sp-infocity-phursungi-hadapsar", keyword: "Flats Near SP Infocity Phursungi Hadapsar" },
-    { slug: "flats-near-pune-metro-line-3-stations", keyword: "Flats Near Pune Metro Line 3 Stations" },
-    { slug: "flats-near-mumbai-pune-expressway-gateway", keyword: "Flats Near Mumbai Pune Expressway Gateway" },
-    { slug: "flats-near-pune-ring-road-corridor", keyword: "Flats Near Pune Ring Road Corridor" },
-    { slug: "walk-to-work-apartments-pune-it-corridor", keyword: "Walk to Work Apartments Pune IT Corridor" }
-  ]
+// ─── TIER 6: TOWNSHIPS, AETHEREUS & VELVET VILLAS DEEP DIVES ────────────────
+
+// Township Blue Waters Deep-Dive
+const blueWatersIntents = [
+  "VTP Blue Waters Pune", "VTP Bluewaters Pune", "VTP Blue Waters Mahalunge", "VTP Bluewaters Hinjawadi",
+  "VTP Blue Waters township Mahalunge", "VTP Blue Waters 200 acre township", "VTP Blue Waters master plan PDF",
+  "VTP Blue Waters price list 2026", "VTP Blue Waters 1 BHK price", "VTP Blue Waters 2 BHK price",
+  "VTP Blue Waters 3 BHK price", "VTP Blue Waters 4 BHK price", "VTP Blue Waters luxury villas",
+  "VTP Blue Waters riverfront promenade", "VTP Blue Waters sports academy", "VTP Blue Waters high street retail",
+  "VTP Blue Waters brochure download", "VTP Blue Waters MahaRERA registration", "VTP Blue Waters possession date",
+  "VTP Blue Waters construction status 2026", "VTP Blue Waters reviews and ratings", "VTP Blue Waters investment returns",
+  "VTP Blue Waters resale flats inventory", "VTP Blue Waters ready to move apartments", "VTP Blue Waters booking office contact",
+  "VTP Blue Waters sample flat video tour", "buy flat in VTP Blue Waters Mahalunge", "VTP Blue Waters vs Megapolis Hinjewadi",
+  "VTP Blue Waters vs Kolte Patil Life Republic", "VTP Blue Waters vs Godrej Hillside"
+];
+
+blueWatersIntents.forEach(kw => {
+  registerKeyword({ keyword: kw }, "township-blue-waters-deep-dive", {
+    project: "Township Blue Waters", township: "Township Blue Waters", location: "Mahalunge Hinjewadi",
+    intent: "Transactional", funnel: "BOFU", priority: "P1",
+    siloTitle: "VTP Blue Waters 200+ Acre Mega Township Mahalunge Pune",
+    siloDesc: "Official portal for VTP Blue Waters in Mahalunge/Hinjewadi. 200+ acres master-planned riverside township featuring Earth 1, Monarque, Volare, Bellissimo, Aethereus, Leonara, and Bel Air."
+  });
 });
 
-// Silo: Mega Townships Ecosystem
-generatedSilos.push({
-  id: "township-living-pune",
-  title: "VTP Mega Integrated Townships in Pune",
-  description: "Experience 100+ to 200+ acre master-planned mega integrated townships in Pune by VTP Realty. Riverfront living, high-street shopping, international sports academies, and MLA architecture.",
-  slugs: [
-    { slug: "vtp-blue-waters-township-mahalunge-hinjewadi", keyword: "VTP Blue Waters Township Mahalunge Hinjewadi" },
-    { slug: "township-pegasus-kharadi-new-kharadi", keyword: "Township Pegasus Kharadi New Kharadi" },
-    { slug: "township-skylights-baner-sus-pune", keyword: "Township Skylights Baner Sus Pune" },
-    { slug: "200-acre-integrated-township-pune", keyword: "200 Acre Integrated Township Pune" },
-    { slug: "riverfront-luxury-apartments-pune", keyword: "Riverfront Luxury Apartments Pune" },
-    { slug: "township-apartments-with-sports-academy-pune", keyword: "Township Apartments with Sports Academy Pune" },
-    { slug: "high-street-retail-residential-township-pune", keyword: "High Street Retail Residential Township Pune" },
-    { slug: "best-township-projects-in-pune-to-live", keyword: "Best Township Projects in Pune to Live" }
-  ]
+// Township Pegasus Deep-Dive
+const pegasusIntents = [
+  "VTP Pegasus Pune", "VTP Pegasus Kharadi", "VTP Pegasus New Kharadi", "VTP Pegasus township Kharadi",
+  "VTP Pegasus 165 acre township", "VTP Pegasus master plan layout", "VTP Pegasus price list 2026",
+  "VTP Pegasus 1 BHK price", "VTP Pegasus 2 BHK price", "VTP Pegasus 3 BHK price", "VTP Pegasus 4 BHK price",
+  "VTP Pegasus luxury villas", "VTP Pegasus brochure PDF download", "VTP Pegasus MahaRERA number",
+  "VTP Pegasus possession date", "VTP Pegasus construction update 2026", "VTP Pegasus customer reviews",
+  "VTP Pegasus investment ROI Kharadi", "VTP Pegasus resale flats", "VTP Pegasus ready possession flats",
+  "VTP Pegasus sales office phone number", "VTP Pegasus sample flat video", "buy flat in VTP Pegasus Kharadi",
+  "VTP Pegasus vs Panchshil Towers Kharadi", "VTP Pegasus vs Godrej Infinity Keshavnagar", "VTP Pegasus vs Gera World of Joy"
+];
+
+pegasusIntents.forEach(kw => {
+  registerKeyword({ keyword: kw }, "township-pegasus-deep-dive", {
+    project: "Township Pegasus", township: "Township Pegasus", location: "Kharadi New Kharadi",
+    intent: "Transactional", funnel: "BOFU", priority: "P1",
+    siloTitle: "Township Pegasus 165+ Acre Mega Township Kharadi Pune",
+    siloDesc: "Complete guide to Township Pegasus in New Kharadi, East Pune. Master-planned 165+ acre mega township featuring Altamira, Flamante, Velvet Villas, Euphoria, Dolce Vita, Altair, and Cygnus."
+  });
 });
 
-// Silo: Commercial, Office & High-Street Retail
-generatedSilos.push({
-  id: "commercial-retail-offices-pune",
-  title: "VTP Commercial Offices & High-Street Retail Pune",
-  description: "Invest in Grade A commercial office spaces, high-street retail shops, and pre-leased commercial assets across Wakad, Baner, Kharadi, and Hinjewadi by VTP Realty.",
-  slugs: [
-    { slug: "vtp-altitude-wakad-commercial-office-space", keyword: "VTP Altitude Wakad Commercial Office Space" },
-    { slug: "vtp-trade-park-commercial-shops-pune", keyword: "VTP Trade Park Commercial Shops Pune" },
-    { slug: "vtp-kp-square-kharadi-commercial", keyword: "VTP KP Square Kharadi Commercial" },
-    { slug: "vtp-marketplace-high-street-retail-pune", keyword: "VTP Marketplace High Street Retail Pune" },
-    { slug: "buy-commercial-office-space-in-wakad-pune", keyword: "Buy Commercial Office Space in Wakad Pune" },
-    { slug: "pre-leased-commercial-property-pune-roi", keyword: "Pre Leased Commercial Property Pune ROI" },
-    { slug: "high-street-retail-shops-for-sale-pune", keyword: "High Street Retail Shops for Sale Pune" },
-    { slug: "grade-a-office-space-for-investment-pune", keyword: "Grade A Office Space for Investment Pune" }
-  ]
+// VTP Aethereus Deep Dive
+const aethereusIntents = [
+  "VTP Aethereus", "VTP Aethereus Pune", "VTP Aethereus Mahalunge", "VTP Aethereus Hinjawadi",
+  "VTP Aethereus price", "VTP Aethereus price list 2026", "VTP Aethereus 2 BHK price", "VTP Aethereus 3 BHK price",
+  "VTP Aethereus 4 BHK price", "VTP Aethereus floor plan", "VTP Aethereus floor plan PDF",
+  "VTP Aethereus brochure", "VTP Aethereus brochure download", "VTP Aethereus MahaRERA number",
+  "VTP Aethereus possession date", "VTP Aethereus construction status", "VTP Aethereus reviews",
+  "VTP Aethereus amenities", "VTP Aethereus swimming pool", "VTP Aethereus clubhouse",
+  "VTP Aethereus location", "VTP Aethereus investment", "VTP Aethereus site visit", "VTP Aethereus booking",
+  "VTP Aethereus sample flat", "VTP Aethereus river view", "VTP Aethereus hill view",
+  "VTP Aethereus 31 storey towers", "VTP Aethereus premium homes", "buy flat in VTP Aethereus Mahalunge"
+];
+
+aethereusIntents.forEach(kw => {
+  registerKeyword({ keyword: kw }, "project-vtp-aethereus", {
+    project: "VTP Aethereus", township: "Township Blue Waters", location: "Mahalunge",
+    intent: "Transactional", funnel: "BOFU", priority: "P1",
+    siloTitle: "VTP Aethereus Mahalunge Pune - Luxury High Rise Towers",
+    siloDesc: "VTP Aethereus premium high-rise residences with five 31+ storey towers in Mahalunge within Township Blue Waters. Explore floor plans, prices, river views, and download official brochure."
+  });
 });
 
-// Silo: Competitor Head-to-Head Comparisons
-generatedSilos.push({
-  id: "competitor-comparisons",
-  title: "VTP Projects vs Top Competitors Pune",
-  description: "Detailed head-to-head architectural, pricing, carpet area, and location comparisons of VTP Realty projects against Godrej, Kolte Patil, Lodha, Panchshil, Paranjape, Pride, Rohan, and Gera.",
-  slugs: [
-    { slug: "vtp-monarque-vs-godrej-park-world", keyword: "VTP Monarque vs Godrej Park World Hinjewadi" },
-    { slug: "vtp-monarque-vs-kolte-patil-life-republic", keyword: "VTP Monarque vs Kolte Patil Life Republic" },
-    { slug: "vtp-volare-vs-godrej-elements", keyword: "VTP Volare vs Godrej Elements Hinjewadi" },
-    { slug: "vtp-earth-one-vs-godrej-hillside", keyword: "VTP Earth One vs Godrej Hillside Mahalunge" },
-    { slug: "vtp-earth-one-vs-kasturi-apostrophe", keyword: "VTP Earth One vs Kasturi Apostrophe" },
-    { slug: "vtp-blue-waters-vs-paranjape-blue-ridge", keyword: "VTP Blue Waters vs Paranjape Blue Ridge Hinjewadi" },
-    { slug: "vtp-euphoria-vs-godrej-infinity", keyword: "VTP Euphoria vs Godrej Infinity Keshavnagar" },
-    { slug: "vtp-flamante-vs-panchshil-towers", keyword: "VTP Flamante vs Panchshil Towers Kharadi" },
-    { slug: "vtp-dolce-vita-vs-gera-world-of-joy", keyword: "VTP Dolce Vita vs Gera World of Joy Kharadi" },
-    { slug: "vtp-velvet-villas-vs-lodha-belmondo", keyword: "VTP Velvet Villas vs Lodha Belmondo Villas" },
-    { slug: "vtp-cielo-vs-rohan-ekam", keyword: "VTP Cielo vs Rohan Ekam Bavdhan" },
-    { slug: "vtp-naturescape-vs-kolte-patil-24k", keyword: "VTP NatureScape vs Kolte Patil 24K Glamore" },
-    { slug: "vtp-sierra-vs-pride-world-city", keyword: "VTP Sierra vs Pride World City" },
-    { slug: "vtp-vs-godrej-properties-pune-comparison", keyword: "VTP vs Godrej Properties Pune Comparison" },
-    { slug: "vtp-vs-kolte-patil-pune", keyword: "VTP vs Kolte Patil Pune" },
-    { slug: "vtp-vs-lodha-pune", keyword: "VTP vs Lodha Pune" },
-    { slug: "vtp-vs-amanora-pune", keyword: "VTP vs Amanora Pune" },
-    { slug: "vtp-vs-shapoorji-pallonji-pune", keyword: "VTP vs Shapoorji Pallonji Pune" },
-    { slug: "vtp-vs-kohinoor-group-pune", keyword: "VTP vs Kohinoor Group Pune" },
-    { slug: "vtp-vs-rohan-builders-pune", keyword: "VTP vs Rohan Builders Pune" },
-    { slug: "vtp-vs-gera-developments-pune", keyword: "VTP vs Gera Developments Pune" }
-  ]
+// Velvet Villas Deep Dive
+const velvetVillasIntents = [
+  "Velvet Villas", "Velvet Villas Pune", "Velvet Villas Kharadi", "Velvet Villas New Kharadi",
+  "Velvet Villas VTP", "VTP Velvet Villas", "VTP Luxe Velvet Villas", "Velvet Villas price",
+  "Velvet Villas price Pune", "Velvet Villas price Kharadi", "Velvet Villas 3 bed villa",
+  "Velvet Villas 5 bed villa", "Velvet Villas 3 bedroom luxury villa", "Velvet Villas 5 bedroom luxury villa",
+  "Velvet Villas ultra luxury villas", "Velvet Villas floor plan", "Velvet Villas brochure PDF",
+  "Velvet Villas amenities", "Velvet Villas private swimming pool", "Velvet Villas private elevator",
+  "Velvet Villas gated community", "Velvet Villas investment returns", "Velvet Villas customer reviews",
+  "Velvet Villas possession date", "Velvet Villas direct booking", "Velvet Villas site visit appointment",
+  "Velvet Villas carpet area", "Velvet Villas 4000 sq ft", "Velvet Villas 5000 sq ft", "Velvet Villas 9000 sq ft",
+  "luxury villas in Kharadi Pune", "ultra luxury villas Pune for sale", "premium private villas New Kharadi"
+];
+
+velvetVillasIntents.forEach(kw => {
+  registerKeyword({ keyword: kw }, "project-vtp-velvet-villas", {
+    project: "VTP Velvet Villas", township: "Township Pegasus", location: "Kharadi",
+    intent: "Transactional", funnel: "BOFU", priority: "P1",
+    siloTitle: "VTP Velvet Villas Kharadi Pune - Ultra Luxury Private Villas",
+    siloDesc: "Bespoke collection of 43 private luxury villas in New Kharadi within Township Pegasus. Features private plunge pools, personal elevators, private terrace gardens, and sizes from 4,132 to 9,184 sq.ft."
+  });
 });
 
-// Silo: Budget & Luxury Configurations
-generatedSilos.push({
-  id: "configurations-pricing-hub",
-  title: "VTP Flats by Budget & Configuration in Pune",
-  description: "Browse 1 BHK, 2 BHK, 3 BHK, 4 BHK, 5 BHK Sky Villas, Duplexes, and Luxury Penthouses across East and West Pune categorized by transparent budget brackets.",
-  slugs: [
-    { slug: "1-bhk-luxury-flats-pune-vtp", keyword: "1 BHK Luxury Flats Pune VTP" },
-    { slug: "2-bhk-flats-in-pune-under-80-lakhs", keyword: "2 BHK Flats in Pune Under 80 Lakhs" },
-    { slug: "2-bhk-luxury-flats-in-pune-under-1-crore", keyword: "2 BHK Luxury Flats in Pune Under 1 Crore" },
-    { slug: "3-bhk-premium-flats-in-pune-under-1-5-crore", keyword: "3 BHK Premium Flats in Pune Under 1.5 Crore" },
-    { slug: "3-bhk-luxury-apartments-pune-hinjewadi-kharadi", keyword: "3 BHK Luxury Apartments Pune Hinjewadi Kharadi" },
-    { slug: "4-bhk-ultra-luxury-apartments-pune", keyword: "4 BHK Ultra Luxury Apartments Pune" },
-    { slug: "5-bhk-penthouse-and-duplex-pune", keyword: "5 BHK Penthouse and Duplex Pune" },
-    { slug: "gated-community-luxury-villas-pune", keyword: "Gated Community Luxury Villas Pune" },
-    { slug: "simplex-duplex-mansions-pune-vtp", keyword: "Simplex Duplex Mansions Pune VTP" },
-    { slug: "sky-villas-with-private-terrace-pune", keyword: "Sky Villas with Private Terrace Pune" },
-    { slug: "commercial-retail-shops-office-space-pune-vtp", keyword: "Commercial Retail Shops & Office Space Pune VTP" }
-  ]
+// ─── TIER 7: COMPARISONS, NRI, COMMERCIAL, RENTAL & INFORMATIONAL ───────────
+
+// Developer & Project Comparisons
+const comparisonIntents = [
+  "VTP Realty vs Godrej Properties Pune", "VTP Realty vs Shapoorji Pallonji Pune", "VTP Realty vs Kolte Patil Pune",
+  "VTP Realty vs Mahindra Lifespaces Pune", "VTP Realty vs VTP Luxe", "VTP vs Lodha Pune",
+  "VTP vs Kalpataru Pune", "VTP vs Rohan Builders Pune", "VTP vs Kumar Properties Pune",
+  "VTP vs Gera Developments Pune", "VTP vs Nyati Group Pune", "VTP vs Vilas Javdekar VJ Pune",
+  "VTP vs Puravankara Pune", "VTP vs Amanora Park Town Pune", "VTP vs Kohinoor Group Pune",
+  "VTP Monarque vs VTP Volare", "VTP Monarque vs VTP Aethereus", "VTP Volare vs VTP Aethereus",
+  "VTP Monarque vs VTP Earth 1", "VTP Altamira vs VTP Flamante", "VTP Altamira vs Velvet Villas",
+  "VTP Aethereus vs VTP Monarque", "VTP Pegasus vs VTP Blue Waters", "Kharadi VTP vs Hinjawadi VTP",
+  "Kharadi vs Hinjawadi VTP investment", "VTP Kharadi vs VTP Mahalunge", "VTP Monarque vs Godrej Park World Hinjewadi",
+  "VTP Monarque vs Kolte Patil Life Republic", "VTP Earth One vs Godrej Hillside Mahalunge", "VTP Flamante vs Panchshil Towers Kharadi"
+];
+
+comparisonIntents.forEach(kw => {
+  registerKeyword({ keyword: kw }, "competitor-comparisons", {
+    project: "VTP Comparison Hub", township: "Pune Real Estate", location: "Pune",
+    intent: "Commercial", funnel: "MOFU", priority: "P2",
+    siloTitle: "VTP Projects vs Top Competitors Pune Real Estate",
+    siloDesc: "Detailed head-to-head architectural, pricing, carpet area, and location comparisons of VTP Realty projects against Godrej, Kolte Patil, Lodha, Panchshil, Paranjape, Pride, Rohan, and Gera."
+  });
 });
 
-// Silo: Investor, NRI & Financial Hub
-generatedSilos.push({
-  id: "investor-nri-finance",
-  title: "NRI & Investor Real Estate Guide Pune - VTP Realty",
-  description: "Comprehensive financial, rental yield, and capital appreciation intelligence for NRI and domestic investors looking to maximize ROI in Pune real estate.",
-  slugs: [
-    { slug: "nri-real-estate-investment-guide-pune", keyword: "NRI Real Estate Investment Guide Pune" },
-    { slug: "high-rental-yield-properties-in-pune-it-corridor", keyword: "High Rental Yield Properties in Pune IT Corridor" },
-    { slug: "real-estate-capital-appreciation-mahalunge-vs-kharadi", keyword: "Real Estate Capital Appreciation Mahalunge vs Kharadi" },
-    { slug: "best-pre-launch-investment-projects-pune", keyword: "Best Pre Launch Investment Projects Pune" },
-    { slug: "commercial-real-estate-investment-pune-vtp", keyword: "Commercial Real Estate Investment Pune VTP" },
-    { slug: "vtp-realty-stamp-duty-gst-registration-offers", keyword: "VTP Realty Stamp Duty GST Registration Offers" },
-    { slug: "home-loan-interest-rates-and-emi-calculator-vtp", keyword: "Home Loan Interest Rates and EMI Calculator VTP" },
-    { slug: "tax-benefits-on-property-investment-section-54f-pune", keyword: "Tax Benefits on Property Investment Section 54F Pune" },
-    { slug: "nri-dubai-usa-singapore-pune-property-investment", keyword: "NRI Dubai USA Singapore Pune Property Investment" },
-    { slug: "fema-guidelines-for-nri-property-purchase-in-pune", keyword: "FEMA Guidelines for NRI Property Purchase in Pune" }
-  ]
+// NRI Investment Hub
+const nriIntents = [
+  "VTP Pune NRI property", "VTP Pune NRI investment", "VTP Realty NRI desk", "VTP projects for NRI",
+  "VTP flats for NRI investors", "VTP luxury homes for NRI", "VTP property investment NRI returns",
+  "buy VTP property from abroad", "VTP Pune property from USA", "VTP Pune property from UK",
+  "VTP Pune property from Dubai UAE", "VTP Pune property from Singapore", "VTP Pune property from Australia",
+  "NRI investment Kharadi VTP", "NRI investment Hinjawadi VTP", "NRI investment Mahalunge VTP",
+  "FEMA rules for NRI property purchase in Pune", "NRE NRO home loan for VTP projects",
+  "tax implications for NRI buying flat in Pune VTP", "repatriation of sale proceeds for NRI Pune property"
+];
+
+nriIntents.forEach(kw => {
+  registerKeyword({ keyword: kw }, "investor-nri-finance", {
+    project: "VTP NRI Services", township: "Pune Investment", location: "Pune",
+    intent: "Transactional", funnel: "BOFU", priority: "P1",
+    siloTitle: "NRI & Investor Real Estate Guide Pune - VTP Realty",
+    siloDesc: "Comprehensive financial, rental yield, and capital appreciation intelligence for NRI and domestic investors looking to maximize ROI in Pune real estate."
+  });
 });
 
-// Silo: Multilingual & Conversational Voice Search
-generatedSilos.push({
-  id: "multilingual-voice-search-hub",
-  title: "VTP Realty Pune - Multilingual & Conversational Search Hub",
-  description: "पुणे, हिंजवडी, महाळुंगे, आणि खाराडी मधील व्हीटीपी प्रोजेक्ट्सची संपूर्ण माहिती - किंमत, बुकिंग, व साईट व्हिजिट. Pune real estate voice and conversational search in Hindi, Marathi, and English.",
-  slugs: [
-    // Hindi / Hinglish High Intent
-    { slug: "pune-mein-flat-kharidna-hai-vtp", keyword: "Pune Mein Flat Kharidna Hai VTP" },
-    { slug: "hinjewadi-mein-2-bhk-flat-ki-keemat", keyword: "Hinjewadi Mein 2 BHK Flat Ki Keemat" },
-    { slug: "kharadi-mein-vtp-project-kaunsa-accha-hai", keyword: "Kharadi Mein VTP Project Kaunsa Accha Hai" },
-    { slug: "vtp-earth-one-sample-flat-video-kaise-dekhe", keyword: "VTP Earth One Sample Flat Video Kaise Dekhe" },
-    { slug: "pune-it-park-ke-paas-flat-price", keyword: "Pune IT Park Ke Paas Flat Price" },
-    { slug: "vtp-flat-direct-booking-discount-offers", keyword: "VTP Flat Direct Booking Discount Offers" },
-    { slug: "vtp-monarque-possession-date-kya-hai", keyword: "VTP Monarque Possession Date Kya Hai" },
-    { slug: "pune-mein-rera-approved-best-township", keyword: "Pune Mein RERA Approved Best Township" },
-    { slug: "vtp-blue-waters-me-flat-ka-price-kitna-hai", keyword: "VTP Blue Waters Me Flat Ka Price Kitna Hai" },
+// Commercial & Institutional Hub
+const commercialIntents = [
+  "VTP commercial properties Pune", "VTP commercial projects Pune", "VTP commercial real estate Pune",
+  "VTP office space Pune", "VTP commercial office for sale Pune", "VTP retail shops Pune",
+  "VTP showroom for sale Pune", "VTP commercial investment Pune ROI", "VTP office investment Pune",
+  "VTP shop investment Pune", "VTP commercial property for lease Pune", "VTP Simplease commercial leasing",
+  "VTP Altitude Wakad commercial", "VTP Altitude office space", "VTP Altitude retail shops",
+  "VTP Town Square Viman Nagar", "KP Square Kharadi commercial", "Trade Park Undri commercial",
+  "The Marketplace Undri shops", "VTP House Viman Nagar office space", "Hotel Cypress Kalyani Nagar Pune",
+  "VTP VIBGYOR school Chinchwad", "VTP VIBGYOR school Wagholi", "Eden International School Talegaon"
+];
 
-    // Marathi High Intent
-    { slug: "vtp-realty-pune-marathi-mahiti", keyword: "व्हीटीपी रिअल्टी पुणे माहिती" },
-    { slug: "hinjewadi-vtp-flat-price-marathi", keyword: "हिंजवडी व्हीटीपी फ्लॅट किंमत" },
-    { slug: "kharadi-vtp-residential-projects-marathi", keyword: "खाराडी व्हीटीपी गृहप्रकल्प" },
-    { slug: "mahalunge-blue-waters-township-marathi", keyword: "महाळुंगे ब्लू वॉटर्स टाऊनशिप" },
-    { slug: "pune-property-guntavnuk-top-projects", keyword: "पुणे प्रॉपर्टी गुंतवणूक टॉप प्रोजेक्ट्स" },
-    { slug: "vtp-flat-booking-offers-marathi", keyword: "व्हीटीपी फ्लॅट बुकिंग ऑफर्स" },
-    { slug: "vtp-cielo-bavdhan-marathi-review", keyword: "व्हीटीपी सिएलो बावधन रिव्ह्यू" },
-    { slug: "pune-madhe-ghar-ghyanyasathi-uttam-project", keyword: "पुणे मध्ये घर घेण्यासाठी उत्तम प्रोजेक्ट" },
-    { slug: "vtp-earth-one-mahalunge-marathi-mahiti", keyword: "व्हीटीपी अर्थ वन महाळुंगे माहिती" }
-  ]
+commercialIntents.forEach(kw => {
+  registerKeyword({ keyword: kw }, "commercial-retail-offices-pune", {
+    project: "VTP Commercial", township: "Commercial Portfolio", location: "Pune",
+    intent: "Transactional", funnel: "BOFU", priority: "P1",
+    siloTitle: "VTP Commercial Offices & High-Street Retail Pune",
+    siloDesc: "Invest in Grade A commercial office spaces, high-street retail shops, and pre-leased commercial assets across Wakad, Baner, Kharadi, and Hinjewadi by VTP Realty."
+  });
 });
 
-// Calculate statistics
-const totalKeywords = generatedSilos.reduce((acc, s) => acc + s.slugs.length, 0);
+// Rental & High ROI Hub
+const rentalIntents = [
+  "VTP flats for rent Pune", "VTP apartment for rent Pune", "VTP property for rent Kharadi",
+  "VTP Hinjawadi flat for rent", "VTP Mahalunge flat for rent", "VTP 2 BHK rent Hinjewadi",
+  "VTP 3 BHK rent Kharadi", "VTP rental yield Pune IT corridor", "VTP investment rental income",
+  "best VTP project for rental returns", "high rental yield properties in Hinjewadi Phase 1",
+  "high rental yield flats in Kharadi near EON IT Park", "rental demand in VTP Blue Waters Mahalunge",
+  "rental demand in Township Pegasus Kharadi"
+];
+
+rentalIntents.forEach(kw => {
+  registerKeyword({ keyword: kw }, "rental-yield-intelligence", {
+    project: "VTP Rental Hub", township: "Rental Intelligence", location: "Pune",
+    intent: "Commercial", funnel: "MOFU", priority: "P2",
+    siloTitle: "High Rental Yield & Rental Intelligence - VTP Pune",
+    siloDesc: "Analyze rental yields, monthly rent rates, and tenant demand across VTP luxury townships near Hinjewadi and Kharadi IT parks."
+  });
+});
+
+// Informational & Decision Intelligence Queries
+const infoIntents = [
+  "Is VTP Realty good", "Is VTP Realty a good builder in Pune", "Is VTP Realty reliable",
+  "Is VTP Pune good for investment", "Which VTP project is best in Pune", "Which VTP project is best for investment",
+  "Which VTP project is best in Kharadi", "Which VTP project is best in Hinjewadi", "Which VTP project is best in Mahalunge",
+  "VTP Pune projects price comparison 2026", "VTP Pune projects location comparison", "VTP Pune projects investment comparison",
+  "Pegasus vs Bluewaters township comparison", "Kharadi vs Mahalunge for property investment",
+  "Kharadi vs Hinjawadi real estate growth", "best areas to buy property near Hinjewadi IT Park",
+  "best areas to invest in Pune real estate 2026", "how to book flat in VTP Realty directly",
+  "what is maximum livable area MLA in VTP", "why VTP projects have higher carpet area"
+];
+
+infoIntents.forEach(kw => {
+  registerKeyword({ keyword: kw }, "informational-decision-intelligence", {
+    project: "VTP Intelligence", township: "Pune Market", location: "Pune",
+    intent: "Informational", funnel: "TOFU", priority: "P2",
+    siloTitle: "VTP Realty Decision Intelligence & Pune Real Estate Guide",
+    siloDesc: "Expert insights, buyer guides, and unbiased answers to frequently asked questions about VTP Realty projects, construction quality, investment potential, and location advantages."
+  });
+});
+
+// ─────────────────────────────────────────────────────────────────────────────
+// 4. WRITE TARGET FILES
+// ─────────────────────────────────────────────────────────────────────────────
+
+const allMasterRecords = Array.from(uniqueKeywordsMap.values());
+const totalKeywords = allMasterRecords.length;
+
 console.log(`================================================================`);
-console.log(`🚀 ULTRA ADVANCED VTP REALTY SEO UNIVERSE GENERATOR`);
+console.log(`🚀 MASTER 10,000-KEYWORD VTP REALTY SEO/PPC UNIVERSE GENERATOR`);
 console.log(`================================================================`);
-console.log(`Total Silos Generated   : ${generatedSilos.length}`);
-console.log(`Total Target Keywords   : ${totalKeywords}`);
-console.log(`Projects Covered        : ${projects.length}`);
-console.log(`Micro-Markets Covered   : ${microMarkets.length}`);
+console.log(`Total Silos Generated       : ${generatedSilos.length}`);
+console.log(`Total Unique Keywords       : ${totalKeywords}`);
+console.log(`Total Projects Covered      : ${projects.length}`);
+console.log(`Total Micro-Markets Covered : ${microMarkets.length}`);
 
-// Write out to app/data/seo-silos.js
-const targetFile = path.join(__dirname, '../../app/data/seo-silos.js');
-const outputContent = `/**
+// 1. Write app/data/seo-silos.js (for Next.js App Router dynamic routes & sitemaps)
+const seoSilosPath = path.join(__dirname, '../../app/data/seo-silos.js');
+const seoSilosContent = `/**
  * VTP Realty Master SEO Universe
  * Auto-generated by scripts/seo/build_seo_silos.cjs
  * Contains ${generatedSilos.length} silos and ${totalKeywords} hardened target keywords.
  */
 export const seoSilos = ${JSON.stringify(generatedSilos, null, 2)};
 `;
+fs.writeFileSync(seoSilosPath, seoSilosContent, 'utf-8');
+console.log(`✅ Emitted Next.js Silos File  : ${seoSilosPath}`);
 
-fs.writeFileSync(targetFile, outputContent, 'utf-8');
-console.log(`✅ Successfully written to ${targetFile}`);
+// 2. Write app/data/vtp-10000-keyword-master.json (Structured JSON DB)
+const jsonMasterPath = path.join(__dirname, '../../app/data/vtp-10000-keyword-master.json');
+fs.writeFileSync(jsonMasterPath, JSON.stringify(allMasterRecords, null, 2), 'utf-8');
+console.log(`✅ Emitted Master JSON Database: ${jsonMasterPath}`);
+
+// 3. Write app/data/vtp-keyword-matrix.csv (PPC / SEO Team Master CSV)
+const csvHeader = "#,Keyword,Project,Township,Location,BHK,Intent,Funnel,SEO_PPC,Priority,Status\n";
+const csvRows = allMasterRecords.map(r => 
+  `${r.id},"${r.keyword.replace(/"/g, '""')}","${r.project}","${r.township}","${r.location}","${r.bhk}","${r.intent}","${r.funnel}","${r.ppcType}","${r.priority}","${r.status}"`
+).join('\n');
+const csvMasterPath = path.join(__dirname, '../../app/data/vtp-keyword-matrix.csv');
+fs.writeFileSync(csvMasterPath, csvHeader + csvRows, 'utf-8');
+console.log(`✅ Emitted Master CSV Matrix   : ${csvMasterPath}`);
 console.log(`================================================================`);
