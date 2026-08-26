@@ -163,6 +163,32 @@ const projects = [
     highlights: "Contemporary residential spaces with sports and wellness club at Baner Sus."
   },
   {
+    name: "VTP Vibrance",
+    slug: "vtp-vibrance",
+    location: "Baner Sus",
+    zone: "West Pune",
+    township: "Township Skylights",
+    status: "ACTIVE",
+    bhks: ["2 BHK", "3 BHK", "4 BHK"],
+    rera: "P52100030690",
+    possession: "2027",
+    priceStarting: "74 Lakhs",
+    highlights: "High-energy lifestyle community with 30+ amenities within Township Skylights on Baner-Sus road."
+  },
+  {
+    name: "Township Codename Skylights",
+    slug: "township-codename-skylights",
+    location: "Baner Sus",
+    zone: "West Pune",
+    township: "Township Skylights",
+    status: "TOWNSHIP_MASTER",
+    bhks: ["2 BHK", "3 BHK", "4 BHK"],
+    rera: "P52100026773 / P52100030689",
+    possession: "2026-2027",
+    priceStarting: "70 Lakhs",
+    highlights: "West Pune's iconic hillside mega township in Baner-Sus featuring Sierra, Verve, and Vibrance."
+  },
+  {
     name: "VTP Cielo",
     slug: "vtp-cielo",
     location: "Bavdhan",
@@ -984,6 +1010,59 @@ velvetVillasIntents.forEach(kw => {
     intent: "Transactional", funnel: "BOFU", priority: "P1",
     siloTitle: "VTP Velvet Villas Kharadi Pune - Ultra Luxury Private Villas",
     siloDesc: "Bespoke collection of 43 private luxury villas in New Kharadi within Township Pegasus. Features private plunge pools, personal elevators, private terrace gardens, and sizes from 4,132 to 9,184 sq.ft."
+  });
+});
+
+// Township Skylights, Sierra, Verve & Vibrance Baner-Sus Deep Dive
+const skylightsBanerSusIntents = [
+  // Township Codename Skylights Master
+  "Township Codename Skylights Baner", "Township Codename Skylights Baner Sus", "VTP Skylights Baner",
+  "VTP Skylights Baner Sus Road", "VTP Skylights Pune price", "VTP Skylights master plan layout",
+  "VTP Skylights brochure PDF download", "VTP Skylights MahaRERA number", "VTP Skylights possession date",
+  "VTP Skylights construction status 2026", "VTP Skylights 2 BHK price", "VTP Skylights 3 BHK price",
+  "VTP Skylights 4 BHK price", "VTP Skylights sample flat video tour", "buy flat in VTP Skylights Baner",
+  "VTP Skylights vs Pride World City", "VTP Skylights vs Kohinoor Westview Reserve", "VTP Skylights reviews and ratings",
+  "VTP Skylights amenities and clubhouse", "VTP Skylights sales office contact number",
+
+  // VTP Sierra Baner-Sus
+  "VTP Sierra Baner", "VTP Sierra Baner Sus", "VTP Sierra Baner Sus Road Pune", "VTP Sierra price list 2026",
+  "VTP Sierra 2 BHK price", "VTP Sierra 3 BHK price", "VTP Sierra floor plan PDF", "VTP Sierra brochure download",
+  "VTP Sierra MahaRERA number", "VTP Sierra possession date 2026", "VTP Sierra construction update live",
+  "VTP Sierra sample flat photos", "VTP Sierra customer reviews", "VTP Sierra hillside apartments",
+  "buy 2 BHK in VTP Sierra Baner", "buy 3 BHK in VTP Sierra Baner Sus", "VTP Sierra resale flats inventory",
+  "VTP Sierra ready possession status", "VTP Sierra rent per month", "VTP Sierra vs Rohan Ekam",
+
+  // VTP Verve Baner-Sus
+  "VTP Verve Baner", "VTP Verve Baner Sus", "VTP Verve Baner Sus Road Pune", "VTP Verve price list",
+  "VTP Verve 2 BHK price", "VTP Verve 3 BHK price", "VTP Verve floor plan PDF", "VTP Verve brochure download",
+  "VTP Verve MahaRERA number", "VTP Verve possession date 2026", "VTP Verve construction status",
+  "VTP Verve sample flat video", "VTP Verve customer reviews", "buy flat in VTP Verve Baner Sus",
+  "VTP Verve sports amenities", "VTP Verve vs Supreme Estia Baner", "VTP Verve vs Kasturi Apostrophe",
+
+  // VTP Vibrance Baner-Sus
+  "VTP Vibrance", "VTP Vibrance Pune", "VTP Vibrance Baner", "VTP Vibrance Baner Sus",
+  "VTP Vibrance Baner Sus Road", "VTP Codename Vibrance", "VTP Vibrance price list 2026",
+  "VTP Vibrance 2 BHK price", "VTP Vibrance 3 BHK price", "VTP Vibrance 4 BHK price",
+  "VTP Vibrance floor plan", "VTP Vibrance floor plan PDF", "VTP Vibrance brochure download",
+  "VTP Vibrance MahaRERA number", "VTP Vibrance possession date", "VTP Vibrance construction update",
+  "VTP Vibrance sample flat", "VTP Vibrance amenities", "VTP Vibrance swimming pool",
+  "VTP Vibrance booking online", "VTP Vibrance site visit", "buy flat in VTP Vibrance Baner Sus",
+
+  // Baner-Sus Corridor Transactional & Locality Matrix
+  "flats for sale in Baner Sus Road Pune", "luxury apartments in Baner Sus Pune", "2 BHK flats in Baner Sus under 75 lakhs",
+  "3 BHK luxury flats in Baner Sus under 1.5 crore", "new residential projects in Baner Sus Pune",
+  "gated community flats near Baner High Street", "flats on Pashan Sus Road Pune", "flats near Mumbai Pune Highway Baner",
+  "property investment in Baner Sus ROI", "real estate price trends in Baner Sus Road",
+  "VTP projects in Baner Sus Pune", "best residential projects in Baner Sus", "why invest in Baner Sus Road Pune",
+  "distance from Baner Sus to Hinjewadi IT Park", "Baner Sus connectivity to Balewadi High Street"
+];
+
+skylightsBanerSusIntents.forEach(kw => {
+  registerKeyword({ keyword: kw }, "township-skylights-baner-sus-deep-dive", {
+    project: "Township Codename Skylights", township: "Township Skylights", location: "Baner Sus",
+    intent: "Transactional", funnel: "BOFU", priority: "P1",
+    siloTitle: "Township Codename Skylights Baner Sus Pune - VTP Sierra, Verve & Vibrance",
+    siloDesc: "Explore Township Codename Skylights on Baner-Sus Road, West Pune by VTP Realty. Featuring VTP Sierra, VTP Verve, and VTP Vibrance. Hillside residences with Maximum Livable Area, 30+ amenities, and 5 mins to Baner High Street."
   });
 });
 

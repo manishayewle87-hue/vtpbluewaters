@@ -230,6 +230,44 @@ const masterProjectsList = [
     ]
   },
   {
+    township: "Township SKYLIGHTS",
+    name: "VTP VIBRANCE",
+    location: "Baner-Sus Road, Pune",
+    slug: "vtp-vibrance-baner-sus-road-pune",
+    shortSlug: "vtp-vibrance",
+    image: "/assets/projects/sierra/hero.webp",
+    seoTitle: "VTP Vibrance Baner Sus Road Pune | 2 & 3 BHK High-Energy Residences",
+    seoDescription: "VTP Vibrance on Baner Sus Road Pune. High-lifestyle apartments with 30+ sports and wellness amenities in Township Skylights near Baner High Street.",
+    overview: "VTP Vibrance by VTP Realty is a dynamic, high-energy residential enclave within Township Skylights on Baner-Sus Road.",
+    maharera: ["P52100030690"],
+    possession: "2027",
+    priceStarting: "₹74 Lakhs",
+    floorPlans: [
+      { type: "2 BHK", carpetArea: "740 - 860 Sq.ft", image: "/assets/projects/sierra/hero.webp" },
+      { type: "3 BHK", carpetArea: "1050 - 1320 Sq.ft", image: "/assets/projects/sierra/hero.webp" },
+      { type: "4 BHK", carpetArea: "1800 - 2250 Sq.ft", image: "/assets/projects/sierra/hero.webp" }
+    ]
+  },
+  {
+    township: "Township SKYLIGHTS",
+    name: "TOWNSHIP CODENAME SKYLIGHTS",
+    location: "Baner-Sus Road, Pune",
+    slug: "township-codename-skylights-baner-sus",
+    shortSlug: "township-skylights",
+    image: "/assets/projects/sierra/hero.webp",
+    seoTitle: "Township Codename Skylights Baner Sus Pune | Hillside Mega Township",
+    seoDescription: "Township Codename Skylights in Baner Sus Pune by VTP Realty. Hillside mega township featuring VTP Sierra, Verve & Vibrance with panoramic forest views.",
+    overview: "Township Codename Skylights is West Pune's premier hillside mega township situated on Baner-Sus Road, offering clean mountain air, resort amenities, and 5-min connectivity to Baner.",
+    maharera: ["P52100026773", "P52100030689"],
+    possession: "2026-2027",
+    priceStarting: "₹70 Lakhs",
+    floorPlans: [
+      { type: "2 BHK", carpetArea: "730 - 860 Sq.ft", image: "/assets/projects/sierra/hero.webp" },
+      { type: "3 BHK", carpetArea: "1030 - 1320 Sq.ft", image: "/assets/projects/sierra/hero.webp" },
+      { type: "4 BHK", carpetArea: "1800 - 2300 Sq.ft", image: "/assets/projects/sierra/hero.webp" }
+    ]
+  },
+  {
     township: "VTP Luxe Bavdhan",
     name: "CIELO BY VTP LUXE",
     location: "Bavdhan, Pune",

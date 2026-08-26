@@ -498,19 +498,19 @@ const spintaxBlocks = {
 
   'project-vtp-sierra-verve': [
     [
-      "VTP Sierra & VTP Verve along the Baner-Sus corridor offer modern high-rise living with sweeping 360-degree hill and city views.",
-      "Offering stylish 2 and 3 BHK homes, these landmark developments bridge the gap between Baner's high street and Sus's tranquility.",
-      "Equipped with comprehensive clubhouse facilities, infinity pools, and landscaped sky gardens, they represent prime West Pune value."
+      "VTP Sierra, VTP Verve & VTP Vibrance within Township Codename Skylights on Baner-Sus Road offer scenic hillside luxury living with 360-degree reserve forest panoramas.",
+      "Offering stylish 2, 3, and 4 BHK residences, Township Skylights bridges the vibrancy of Baner High Street with the pristine nature of Sus hills.",
+      "Equipped with multi-tier clubhouse facilities, infinity-edge swimming pools, and landscaped sky gardens, these developments represent West Pune's premier hillside value."
     ],
     [
-      "{KEYWORD} places you within 5 minutes of Balewadi High Street while enjoying peaceful foothill living.",
-      "Choosing {KEYWORD} means acquiring an asset in the fast-appreciating Baner Next growth zone with direct developer pricing.",
-      "With {KEYWORD}, buyers enjoy Maximum Livable Area layouts that optimize every single square foot."
+      "{KEYWORD} places homeowners within 5 minutes of Balewadi High Street, Baner commercial hub, and Mumbai-Pune Expressway.",
+      "Choosing {KEYWORD} means acquiring an asset in the high-growth Baner-Sus corridor with direct developer pricing and zero brokerage.",
+      "With {KEYWORD}, buyers enjoy Maximum Livable Area (MLA) layouts that deliver up to 15% more usable carpet area with zero space wastage."
     ],
     [
-      "MahaRERA registrations P52100030689 & P52100030690 provide verified legal compliance and escrow safety.",
-      "The upcoming Baner-Sus road widening and metro extension ensure exceptional future capital gains.",
-      "Strong corporate rental demand from Hinjawadi and Baner IT hubs guarantees above-average rental yields."
+      "MahaRERA registrations P52100026773, P52100030689 & P52100030690 provide verified legal compliance and escrow milestone tracking.",
+      "The ongoing Baner-Sus road widening, ring road connectivity, and metro extension ensure rapid capital appreciation for township investors.",
+      "Continuous corporate tenant demand from Hinjawadi IT Park and Baner IT corridor guarantees reliable monthly rental yields of 7%–8.5%."
     ]
   ],
 
@@ -687,7 +687,7 @@ function resolveSpintaxCategory(locationId) {
   if (id.includes('euphoria'))         return spintaxBlocks['project-vtp-euphoria'];
   if (id.includes('dolce'))            return spintaxBlocks['project-vtp-dolce-vita'];
   if (id.includes('naturescape'))      return spintaxBlocks['project-vtp-naturescape'];
-  if (id.includes('sierra') || id.includes('verve') || id.includes('magnum') || id.includes('solitaire')) {
+  if (id.includes('sierra') || id.includes('verve') || id.includes('vibrance') || id.includes('skylights') || id.includes('magnum') || id.includes('solitaire')) {
     return spintaxBlocks['project-vtp-sierra-verve'];
   }
   

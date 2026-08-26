@@ -1197,6 +1197,225 @@
   },
   {
     "id": 13,
+    "township": "Township SKYLIGHTS",
+    "name": "VTP VIBRANCE",
+    "location": "Baner-Sus Road, Pune",
+    "image": "/assets/projects/sierra/hero.webp",
+    "link": "https://vtprealty.in/projects/vtp-vibrance-baner-sus-road-pune",
+    "slug": "vtp-vibrance-baner-sus-road-pune",
+    "seoTitle": "VTP Vibrance Baner Sus Road Pune | 2 & 3 BHK High-Energy Residences",
+    "seoDescription": "VTP Vibrance on Baner Sus Road Pune. High-lifestyle apartments with 30+ sports and wellness amenities in Township Skylights near Baner High Street.",
+    "overview": "VTP Vibrance by VTP Realty is a dynamic, high-energy residential enclave within Township Skylights on Baner-Sus Road.",
+    "amenities": [
+      {
+        "name": "Grand Clubhouse & Lounge",
+        "icon": "Building"
+      },
+      {
+        "name": "Infinity-Edge Swimming Pool",
+        "icon": "Waves"
+      },
+      {
+        "name": "State-of-the-Art Fitness Center",
+        "icon": "Activity"
+      },
+      {
+        "name": "5-Tier Biometric Security & CCTV",
+        "icon": "Shield"
+      },
+      {
+        "name": "EV Charging Infrastructure",
+        "icon": "Zap"
+      },
+      {
+        "name": "Kids Adventure Play Park",
+        "icon": "Smile"
+      },
+      {
+        "name": "Jogging & Cycling Track",
+        "icon": "Navigation"
+      }
+    ],
+    "specifications": [
+      {
+        "category": "Flooring",
+        "details": "Imported Vitrified/Marble in Living & Dining; Laminated Wooden Flooring in Master Bedroom."
+      },
+      {
+        "category": "Kitchen",
+        "details": "Granite/Quartz Countertop with Stainless Steel Sink and Exhaust Provision."
+      },
+      {
+        "category": "Bathrooms",
+        "details": "Premium CP & Sanitary Fittings (Kohler / Grohe or equivalent)."
+      },
+      {
+        "category": "Electrical",
+        "details": "Concealed Copper Wiring with Schneider/Legrand Modular Switches and EV Charging Provision."
+      }
+    ],
+    "locationHighlights": [
+      {
+        "title": "Nearest IT SEZ / Tech Park",
+        "distance": "5 Mins"
+      },
+      {
+        "title": "Top International Schools",
+        "distance": "7 Mins"
+      },
+      {
+        "title": "Multi-Speciality Hospitals",
+        "distance": "10 Mins"
+      },
+      {
+        "title": "Pune Metro Line 3 Transit",
+        "distance": "4 Mins"
+      },
+      {
+        "title": "High-Street Shopping & Dining",
+        "distance": "6 Mins"
+      }
+    ],
+    "masterLayout": "/images/real_vtp/Main_website_da76ded661.webp",
+    "floorPlans": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "740 - 860 Sq.ft",
+        "image": "/assets/projects/sierra/hero.webp"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1050 - 1320 Sq.ft",
+        "image": "/assets/projects/sierra/hero.webp"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1800 - 2250 Sq.ft",
+        "image": "/assets/projects/sierra/hero.webp"
+      }
+    ],
+    "maharera": [
+      "P52100030690"
+    ],
+    "gallery": [
+      "/assets/projects/sierra/hero.webp",
+      "/assets/projects/earth-1/hero.jpg",
+      "/assets/projects/monarque/hero.webp",
+      "/assets/projects/flamante/hero.webp"
+    ]
+  },
+  {
+    "id": 14,
+    "township": "Township SKYLIGHTS",
+    "name": "TOWNSHIP CODENAME SKYLIGHTS",
+    "location": "Baner-Sus Road, Pune",
+    "image": "/assets/projects/sierra/hero.webp",
+    "link": "https://vtprealty.in/projects/township-codename-skylights-baner-sus",
+    "slug": "township-codename-skylights-baner-sus",
+    "seoTitle": "Township Codename Skylights Baner Sus Pune | Hillside Mega Township",
+    "seoDescription": "Township Codename Skylights in Baner Sus Pune by VTP Realty. Hillside mega township featuring VTP Sierra, Verve & Vibrance with panoramic forest views.",
+    "overview": "Township Codename Skylights is West Pune's premier hillside mega township situated on Baner-Sus Road, offering clean mountain air, resort amenities, and 5-min connectivity to Baner.",
+    "amenities": [
+      {
+        "name": "Grand Clubhouse & Lounge",
+        "icon": "Building"
+      },
+      {
+        "name": "Infinity-Edge Swimming Pool",
+        "icon": "Waves"
+      },
+      {
+        "name": "State-of-the-Art Fitness Center",
+        "icon": "Activity"
+      },
+      {
+        "name": "5-Tier Biometric Security & CCTV",
+        "icon": "Shield"
+      },
+      {
+        "name": "EV Charging Infrastructure",
+        "icon": "Zap"
+      },
+      {
+        "name": "Kids Adventure Play Park",
+        "icon": "Smile"
+      },
+      {
+        "name": "Jogging & Cycling Track",
+        "icon": "Navigation"
+      }
+    ],
+    "specifications": [
+      {
+        "category": "Flooring",
+        "details": "Imported Vitrified/Marble in Living & Dining; Laminated Wooden Flooring in Master Bedroom."
+      },
+      {
+        "category": "Kitchen",
+        "details": "Granite/Quartz Countertop with Stainless Steel Sink and Exhaust Provision."
+      },
+      {
+        "category": "Bathrooms",
+        "details": "Premium CP & Sanitary Fittings (Kohler / Grohe or equivalent)."
+      },
+      {
+        "category": "Electrical",
+        "details": "Concealed Copper Wiring with Schneider/Legrand Modular Switches and EV Charging Provision."
+      }
+    ],
+    "locationHighlights": [
+      {
+        "title": "Nearest IT SEZ / Tech Park",
+        "distance": "5 Mins"
+      },
+      {
+        "title": "Top International Schools",
+        "distance": "7 Mins"
+      },
+      {
+        "title": "Multi-Speciality Hospitals",
+        "distance": "10 Mins"
+      },
+      {
+        "title": "Pune Metro Line 3 Transit",
+        "distance": "4 Mins"
+      },
+      {
+        "title": "High-Street Shopping & Dining",
+        "distance": "6 Mins"
+      }
+    ],
+    "masterLayout": "/images/real_vtp/Main_website_da76ded661.webp",
+    "floorPlans": [
+      {
+        "type": "2 BHK",
+        "carpetArea": "730 - 860 Sq.ft",
+        "image": "/assets/projects/sierra/hero.webp"
+      },
+      {
+        "type": "3 BHK",
+        "carpetArea": "1030 - 1320 Sq.ft",
+        "image": "/assets/projects/sierra/hero.webp"
+      },
+      {
+        "type": "4 BHK",
+        "carpetArea": "1800 - 2300 Sq.ft",
+        "image": "/assets/projects/sierra/hero.webp"
+      }
+    ],
+    "maharera": [
+      "P52100026773",
+      "P52100030689"
+    ],
+    "gallery": [
+      "/assets/projects/sierra/hero.webp",
+      "/assets/projects/earth-1/hero.jpg",
+      "/assets/projects/monarque/hero.webp",
+      "/assets/projects/flamante/hero.webp"
+    ]
+  },
+  {
+    "id": 15,
     "township": "Township",
     "name": "CIELO BY VTP LUXE",
     "location": "Bavdhan, Pune",
@@ -1300,7 +1519,7 @@
     ]
   },
   {
-    "id": 14,
+    "id": 16,
     "township": "Township Pegasus",
     "name": "ALTAMIRA BY VTP LUXE",
     "location": "Kharadi, Pune",
@@ -1395,7 +1614,7 @@
     ]
   },
   {
-    "id": 15,
+    "id": 17,
     "township": "Township Pegasus",
     "name": "FLAMANTE BY VTP LUXE",
     "location": "Kharadi, Pune",
@@ -1504,7 +1723,7 @@
     ]
   },
   {
-    "id": 16,
+    "id": 18,
     "township": "Township Pegasus",
     "name": "VELVET VILLAS BY VTP LUXE",
     "location": "Kharadi, Pune",
@@ -1604,7 +1823,7 @@
     ]
   },
   {
-    "id": 17,
+    "id": 19,
     "township": "Township Pegasus",
     "name": "VTP EUPHORIA",
     "location": "New Kharadi, Pune",
@@ -1711,7 +1930,7 @@
     ]
   },
   {
-    "id": 18,
+    "id": 20,
     "township": "Township Pegasus",
     "name": "VTP DOLCE VITA",
     "location": "New Kharadi, Pune",
@@ -1818,7 +2037,7 @@
     ]
   },
   {
-    "id": 19,
+    "id": 21,
     "township": "Township Pegasus",
     "name": "VTP PEGASUS (TOWNSHIP MASTER)",
     "location": "New Kharadi, Pune",
@@ -1932,7 +2151,7 @@
     ]
   },
   {
-    "id": 20,
+    "id": 22,
     "township": "Township Pegasus",
     "name": "VTP ALTAIR",
     "location": "Kharadi, Pune",
@@ -2031,7 +2250,7 @@
     ]
   },
   {
-    "id": 21,
+    "id": 23,
     "name": "VTP CYGNUS",
     "township": "Township PEGASUS",
     "location": "New Kharadi, Pune",
@@ -2113,7 +2332,7 @@
     ]
   },
   {
-    "id": 22,
+    "id": 24,
     "township": "Township Pegasus",
     "name": "VTP ONE",
     "location": "Kharadi, Pune",
@@ -2217,7 +2436,7 @@
     ]
   },
   {
-    "id": 23,
+    "id": 25,
     "township": "Township Pegasus",
     "name": "VTP AURELIA",
     "location": "Kharadi, Pune",
@@ -2316,7 +2535,7 @@
     ]
   },
   {
-    "id": 24,
+    "id": 26,
     "township": "VTP Wagholi",
     "name": "VTP PURVANCHAL",
     "location": "Wagholi-Kharadi, Pune",
@@ -2420,7 +2639,7 @@
     ]
   },
   {
-    "id": 25,
+    "id": 27,
     "township": "Township Pegasus",
     "name": "VTP BEAUMONDE",
     "location": "New Kharadi, Pune",
@@ -2524,7 +2743,7 @@
     ]
   },
   {
-    "id": 26,
+    "id": 28,
     "township": "VTP South Pune",
     "name": "VTP CELESTA",
     "location": "NIBM Road, Pune",
@@ -2623,7 +2842,7 @@
     ]
   },
   {
-    "id": 27,
+    "id": 29,
     "township": "VTP Pashan",
     "name": "VTP SOLITAIRE",
     "location": "Pashan, Pune",
@@ -2727,7 +2946,7 @@
     ]
   },
   {
-    "id": 28,
+    "id": 30,
     "township": "VTP Wakad",
     "name": "VTP HILIFE",
     "location": "Wakad, Pune",
@@ -2831,7 +3050,7 @@
     ]
   },
   {
-    "id": 29,
+    "id": 31,
     "township": "VTP Talegaon",
     "name": "VTP URBAN LIFE",
     "location": "Talegaon, Pune",
@@ -2935,7 +3154,7 @@
     ]
   },
   {
-    "id": 30,
+    "id": 32,
     "township": "VTP Undri",
     "name": "VTP URBAN NEST",
     "location": "Undri, Pune",
@@ -3044,7 +3263,7 @@
     ]
   },
   {
-    "id": 31,
+    "id": 33,
     "township": "VTP Kharadi",
     "name": "VTP URBAN SOUL",
     "location": "Kharadi, Pune",
@@ -3143,7 +3362,7 @@
     ]
   },
   {
-    "id": 32,
+    "id": 34,
     "township": "VTP Pisoli",
     "name": "VTP URBAN RISE",
     "location": "Pisoli, Pune",
@@ -3247,7 +3466,7 @@
     ]
   },
   {
-    "id": 33,
+    "id": 35,
     "township": "VTP Hadapsar",
     "name": "VTP URBAN BALANCE",
     "location": "Magarpatta Road, Pune",
@@ -3351,7 +3570,7 @@
     ]
   },
   {
-    "id": 34,
+    "id": 36,
     "township": "VTP Undri",
     "name": "VTP URBAN SPACE",
     "location": "NIBM-Undri, Pune",
@@ -3455,7 +3674,7 @@
     ]
   },
   {
-    "id": 35,
+    "id": 37,
     "township": "VTP Keshavnagar",
     "name": "VTP URBAN NIRVANA",
     "location": "Keshavnagar-Mundhwa, Pune",
@@ -3559,7 +3778,7 @@
     ]
   },
   {
-    "id": 36,
+    "id": 38,
     "township": "VTP Undri",
     "name": "VTP LANDMARK",
     "location": "Undri, Pune",
@@ -3663,7 +3882,7 @@
     ]
   },
   {
-    "id": 37,
+    "id": 39,
     "township": "VTP Talegaon",
     "name": "BHAGYSTHAN BY VTP",
     "location": "Talegaon Dabhade, Pune",
@@ -3767,7 +3986,7 @@
     ]
   },
   {
-    "id": 38,
+    "id": 40,
     "township": "Township",
     "name": "ALTITUDE",
     "location": "Wakad, Pune",
@@ -3866,7 +4085,7 @@
     ]
   },
   {
-    "id": 39,
+    "id": 41,
     "township": "Commercial Hub",
     "name": "VTP TOWN SQUARE",
     "location": "Viman Nagar, Pune",
@@ -3970,7 +4189,7 @@
     ]
   },
   {
-    "id": 40,
+    "id": 42,
     "township": "Commercial Hub",
     "name": "KP SQUARE",
     "location": "Kharadi, Pune",
@@ -4069,7 +4288,7 @@
     ]
   },
   {
-    "id": 41,
+    "id": 43,
     "township": "Commercial Hub",
     "name": "VTP TRADE PARK",
     "location": "Undri, Pune",
@@ -4173,7 +4392,7 @@
     ]
   },
   {
-    "id": 42,
+    "id": 44,
     "township": "Commercial Hub",
     "name": "THE MARKETPLACE",
     "location": "Undri, Pune",
@@ -4272,7 +4491,7 @@
     ]
   },
   {
-    "id": 43,
+    "id": 45,
     "township": "Corporate Headquarters",
     "name": "VTP HOUSE",
     "location": "Viman Nagar, Pune",
