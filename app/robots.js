@@ -16,7 +16,13 @@ export default function robots() {
           'AdsBot-Google-Mobile',
           'Google-InspectionTool'
         ],
-        allow: ['/'],
+        allow: [
+          '/',
+          '/api/google-realestate/',
+          '/google-realestate-feed.xml',
+          '/geo/pune-properties.geojson',
+          '/property-feed.xml'
+        ],
         disallow: [
           '/admin/',
           '/private/',
