@@ -99,6 +99,7 @@ export default function robots() {
       'https://vtpbluewaters.com/sitemap/0.xml',
       'https://vtpbluewaters.com/sitemap/1.xml',
       'https://vtpbluewaters.com/sitemap-news.xml',
+      'https://vtpbluewaters.com/news-sitemap.xml',
       'https://vtpbluewaters.com/sitemap-video.xml',
       'https://vtpbluewaters.com/sitemap-locations.kml',
       'https://vtpbluewaters.com/google-realestate-feed.xml',
