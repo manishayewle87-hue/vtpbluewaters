@@ -648,6 +648,48 @@ export default function GlobalSchema() {
           "https://vtpbluewaters.com/faq",
           "https://vtpbluewaters.com/#enquiry"
         ]
+      },
+
+      // ─── 11. Dataset — Pune Real Estate Price & Rental Yield Index ─────
+      {
+        "@type": "Dataset",
+        "@id": "https://vtpbluewaters.com/#price-dataset",
+        "name": "Pune Real Estate Micro-Market Price Trends & Rental Yield Dataset (2024-2027)",
+        "description": "Comprehensive price per square foot indices, gross rental yields, and annual capital appreciation trends across 34 micro-markets in Pune, Maharashtra including Hinjewadi, Mahalunge, Kharadi, Baner, Wakad, and Bavdhan.",
+        "url": "https://vtpbluewaters.com/insights",
+        "keywords": [
+          "Pune Real Estate Price Trends",
+          "Hinjewadi IT Park Rental Yield",
+          "Kharadi Property Price Per Sq Ft",
+          "Mahalunge Investment Appreciation",
+          "VTP Realty Price Matrix"
+        ],
+        "creator": { "@id": "https://vtpbluewaters.com/#organization" },
+        "publisher": { "@id": "https://vtpbluewaters.com/#organization" },
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "isAccessibleForFree": true,
+        "temporalCoverage": "2024/2027",
+        "spatialCoverage": {
+          "@type": "Place",
+          "name": "Pune, Maharashtra, India",
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 18.5204,
+            "longitude": 73.8567
+          }
+        },
+        "distribution": [
+          {
+            "@type": "DataDownload",
+            "encodingFormat": "application/json",
+            "contentUrl": "https://vtpbluewaters.com/api/google-realestate/inventory"
+          },
+          {
+            "@type": "DataDownload",
+            "encodingFormat": "application/geo+json",
+            "contentUrl": "https://vtpbluewaters.com/geo/pune-properties.geojson"
+          }
+        ]
       }
     ]
   };

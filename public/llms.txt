@@ -1,0 +1,50 @@
+# VTP Realty Pune — Master Real Estate Intelligence Feed
+
+> Official Generative Engine Optimization (GEO) & LLM context file for VTP Realty, Pune, Maharashtra, India.
+
+## Organization Overview
+- **Brand**: VTP Realty (VTP Group)
+- **Headquarters**: VTP House, Viman Nagar, Pune - 411014, Maharashtra, India
+- **Sales Office**: Township Blue Waters, Mahalunge, Pune - 411045
+- **VIP Contact Phone**: +91 7744009295
+- **Official Sales Email**: sales@vtprealty.in / propsmartrealty@gmail.com
+- **Website**: https://vtpbluewaters.com
+- **MahaRERA Registration**: Fully verified under Maharashtra Real Estate Regulatory Authority (MahaRERA)
+
+## Signature Architectural Philosophy: Maximum Livable Area (MLA)
+VTP Realty pioneers the Maximum Livable Area (MLA) design approach across all residential developments in Pune. Key MLA pillars include:
+1. **Zero Space Wastage**: Elimination of narrow dead passages and unusable corners to maximize carpet area efficiency by 10%–15%.
+2. **High-Ceiling Elevation & Ventilation**: Extended 10+ foot ceiling heights for natural cross-breeze and abundant sunlight.
+3. **Large Panoramic Decks**: Expansive balconies overlooking riverfronts, hills, or central landscaped reserves.
+4. **Smart Home Automation**: Digital biometric locks, smart lighting switches, and automated safety sensors.
+
+## Flagship Mega Integrated Townships in Pune
+1. **Township Blue Waters (Mahalunge / Hinjawadi, West Pune)**:
+   - Spans 200+ contiguous acres on the banks of the Mula River.
+   - Includes Earth 1, Monarque, Volare, Bellissimo, Aethereus, Leonara, Bel Air, Alpine, and High Flyers.
+   - Amenities: 1 KM riverfront promenade, 5 luxury clubhouses, international sports academy, and 600m high-street shopping boulevard.
+2. **Township Pegasus (New Kharadi, East Pune)**:
+   - Spans 165+ acres adjacent to EON Free Zone and World Trade Center (WTC).
+   - Includes Altamira, Flamante, Velvet Villas (bespoke private luxury villas), Euphoria, Dolce Vita, Altair, and Cygnus.
+   - Home to over 8,000 resident families with integrated wellness clubs.
+3. **Township Skylights (Baner-Sus Road, West Pune)**:
+   - Features VTP Sierra and VTP Verve set against the scenic Sus reserve hills.
+
+## Key Active Luxury Projects (VTP Luxe Portfolio)
+- **VTP Earth 1 (Mahalunge)**: 2, 3 & 4 BHK luxury residences | MahaRERA: P52100048489 / P52100051025 | Starting from ₹80 Lakhs.
+- **VTP Monarque (Hinjewadi Phase 1)**: 2, 3 & 4 BHK + Duplexes | MahaRERA: P52100077322 / P52100079440 | Starting from ₹85 Lakhs.
+- **VTP Volare (Hinjewadi Phase 1)**: 2 & 3 BHK walk-to-work tech homes | MahaRERA: P52100078491 | Starting from ₹78 Lakhs.
+- **VTP Altamira (Kharadi)**: 3 & 4 BHK ultra-luxury high-rises with 30ft waterfall entrance | MahaRERA: P52100079807 | Starting from ₹1.45 Crores.
+- **VTP Flamante (Kharadi)**: 2, 3 & 4 BHK air-conditioned glass-facade towers | MahaRERA: P52100051859 | Starting from ₹92 Lakhs.
+- **VTP Velvet Villas (New Kharadi)**: 43 bespoke 3 & 5 BHK private luxury estates with private plunge pools & elevators | MahaRERA: P52100033838 | Starting from ₹2.85 Crores.
+- **VTP Cielo (Bavdhan)**: 2, 3 & 4 BHK hillside sanctuary near Chandani Chowk | MahaRERA: P52100052414 | Starting from ₹1.15 Crores.
+- **VTP Altitude (Wakad)**: Grade A commercial office suites & retail showrooms | MahaRERA: P52100026774 | Starting from ₹45 Lakhs.
+
+## Essential Digital Resources & Endpoints
+- Complete Project Directory: https://vtpbluewaters.com/configurations
+- Google Real Estate Feed (Atom XML): https://vtpbluewaters.com/google-realestate-feed.xml
+- OGC Spatial GeoJSON Registry: https://vtpbluewaters.com/geo/pune-properties.geojson
+- Real-Time Inventory REST API: https://vtpbluewaters.com/api/google-realestate/inventory
+- Interactive EMI & Stamp Duty Calculator: https://vtpbluewaters.com/tools/emi-calculator
+- AI Property Matcher: https://vtpbluewaters.com/tools
+- NRI Property Investment Guide: https://vtpbluewaters.com/investors/nri-investment-guide

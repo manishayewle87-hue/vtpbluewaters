@@ -41,6 +41,43 @@ async function pingSitemaps() {
   }
 }
 
+async function pingWebSubHubs() {
+  console.log('\n======================================================');
+  console.log('📡 1.5. NOTIFYING GOOGLE WEBSUB / PUBSUBHUBBUB HUBS');
+  console.log('======================================================');
+
+  const feeds = [
+    'https://vtpbluewaters.com/rss.xml',
+    'https://vtpbluewaters.com/property-feed.xml',
+    'https://vtpbluewaters.com/google-realestate-feed.xml'
+  ];
+
+  const hubs = [
+    'https://pubsubhubbub.appspot.com/',
+    'https://pubsubhubbub.superfeedr.com/'
+  ];
+
+  for (const feed of feeds) {
+    for (const hub of hubs) {
+      try {
+        const body = new URLSearchParams();
+        body.append('hub.mode', 'publish');
+        body.append('hub.url', feed);
+
+        const res = await fetch(hub, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+          body: body.toString()
+        });
+
+        console.log(`[+] WebSub Ping: ${feed} -> ${hub} (HTTP ${res.status})`);
+      } catch (err) {
+        console.warn(`[!] WebSub Ping warning: ${err.message}`);
+      }
+    }
+  }
+}
+
 async function triggerIndexNow() {
   console.log('\n======================================================');
   console.log('⚡ 2. SUBMITTING URLS TO INDEXNOW (BING, YAHOO, YANDEX)');
@@ -136,6 +173,7 @@ async function main() {
   console.log('======================================================');
   
   await pingSitemaps();
+  await pingWebSubHubs();
   await triggerIndexNow();
   await checkGoogleIndexingApi();
   
