@@ -690,6 +690,63 @@ export default function GlobalSchema() {
             "contentUrl": "https://vtpbluewaters.com/geo/pune-properties.geojson"
           }
         ]
+      },
+
+      // ─── 12. HowTo — Step-by-Step Direct Developer Booking Guide ───────
+      {
+        "@type": "HowTo",
+        "@id": "https://vtpbluewaters.com/#booking-guide",
+        "name": "How to Book a Luxury Flat in Pune Directly from VTP Realty (Zero Brokerage)",
+        "description": "Step-by-step verified guide to purchasing an apartment in VTP Blue Waters, Pegasus, or Skylights directly from the developer with pre-launch price benefits and MahaRERA safety.",
+        "image": "https://vtpbluewaters.com/assets/projects/earth-1/hero.jpg",
+        "totalTime": "P3D",
+        "estimatedCost": {
+          "@type": "MonetaryAmount",
+          "currency": "INR",
+          "value": "100000"
+        },
+        "step": [
+          {
+            "@type": "HowToStep",
+            "position": 1,
+            "name": "Explore Floor Plans & Select Configuration",
+            "text": "Browse verified 2, 3, 4 BHK floor plans, carpet areas, and pricing across VTP developments on vtpbluewaters.com.",
+            "url": "https://vtpbluewaters.com/configurations"
+          },
+          {
+            "@type": "HowToStep",
+            "position": 2,
+            "name": "Schedule a VIP Site Visit & Sample Flat Walkthrough",
+            "text": "Book a complimentary guided tour to inspect actual sample flats, amenities, and riverfront construction at the township sales office.",
+            "url": "https://vtpbluewaters.com/#enquiry"
+          },
+          {
+            "@type": "HowToStep",
+            "position": 3,
+            "name": "Calculate EMI & Choose Flexible Payment Plan",
+            "text": "Use the interactive EMI calculator to simulate monthly installments and explore 10:90 subvention or bank loan approvals from SBI and HDFC.",
+            "url": "https://vtpbluewaters.com/tools/emi-calculator"
+          },
+          {
+            "@type": "HowToStep",
+            "position": 4,
+            "name": "Direct Token Booking & MahaRERA Allotment Letter",
+            "text": "Complete the booking with official zero-brokerage direct developer receipt and receive your MahaRERA compliant allotment documentation.",
+            "url": "https://vtpbluewaters.com/#enquiry"
+          }
+        ]
+      },
+
+      // ─── 13. FinancialProduct — Pre-Approved Home Loans & Subvention ───
+      {
+        "@type": "FinancialProduct",
+        "@id": "https://vtpbluewaters.com/#home-loan",
+        "name": "VTP Realty Pre-Approved Home Loan & Subvention Financing",
+        "description": "Special pre-approved home loan packages from leading nationalized and private banks (SBI, HDFC Bank, ICICI Bank, Axis Bank) for VTP residential projects with competitive interest rates starting at 8.35% p.a. and flexible subvention schemes.",
+        "provider": { "@id": "https://vtpbluewaters.com/#organization" },
+        "annualPercentageRate": "8.35%",
+        "feesAndCommissionsSpecification": "Zero processing fee on selected festive booking windows",
+        "url": "https://vtpbluewaters.com/tools/emi-calculator"
       }
     ]
   };
