@@ -7,7 +7,7 @@ import projectsData from '@/app/data/projects.json';
 
 import MagneticButton from './MagneticButton';
 import Logo from './Logo';
-import { Menu, X, ChevronDown } from 'lucide-react';
+import { Menu, X, ChevronDown, Search } from 'lucide-react';
 
 export default function LuxuryNavbar() {
   const [scrolled, setScrolled] = useState(false);
@@ -154,6 +154,15 @@ export default function LuxuryNavbar() {
               </div>
             ))}
             
+            <Link
+              href="/search"
+              aria-label="Search Properties"
+              className="flex items-center gap-1.5 text-luxury-gold hover:text-white px-3 py-2 rounded-full border border-luxury-gold/20 hover:border-luxury-gold transition-colors text-[11px]"
+            >
+              <Search size={14} />
+              <span>SEARCH</span>
+            </Link>
+
             <MagneticButton>
               <button className="relative overflow-hidden group bg-luxury-gold/10 border border-luxury-gold/30 text-luxury-gold px-8 py-3 rounded-full hover:border-luxury-gold hover:text-luxury-navy transition-all duration-500 enquiry-trigger">
                 <span className="relative z-10 font-bold tracking-[0.2em]">ENQUIRE NOW</span>
@@ -162,14 +171,25 @@ export default function LuxuryNavbar() {
             </MagneticButton>
           </div>
 
-          {/* Mobile Hamburger Button */}
-          <button 
-            className="lg:hidden z-50 relative p-2 text-luxury-gold hover:text-white transition-colors"
-            onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
-            aria-label="Toggle Menu"
-          >
-            {mobileMenuOpen ? <X size={28} strokeWidth={1.5} /> : <Menu size={28} strokeWidth={1.5} />}
-          </button>
+          {/* Mobile Right Controls */}
+          <div className="flex items-center gap-2 lg:hidden z-50 relative">
+            <Link
+              href="/search"
+              aria-label="Search Properties"
+              className="p-2 text-luxury-gold hover:text-white transition-colors"
+            >
+              <Search size={22} strokeWidth={1.5} />
+            </Link>
+
+            {/* Mobile Hamburger Button */}
+            <button 
+              className="p-2 text-luxury-gold hover:text-white transition-colors"
+              onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
+              aria-label="Toggle Menu"
+            >
+              {mobileMenuOpen ? <X size={28} strokeWidth={1.5} /> : <Menu size={28} strokeWidth={1.5} />}
+            </button>
+          </div>
         </div>
       </motion.nav>
 
